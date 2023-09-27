@@ -122,7 +122,7 @@ def L_model_forward(X: np.ndarray, parameters: dict) -> tuple:
 #################################################################################################
 # Exercise 6
 # cost of cross entropy
-def compute_cost(AL, Y):
+def compute_cost(AL: np.ndarray, Y: np.ndarray) -> float:
     # Compute loss from AL and y.
     m = Y.shape[1]
     cost = -1 / m * np.sum(np.multiply(Y, np.log(AL)) + np.multiply(1 - Y, np.log(1 - AL)))
@@ -131,9 +131,9 @@ def compute_cost(AL, Y):
 
 
 #################################################################################################
-
-def linear_backward(dZ, cache):
-    A_prev, W, b = cache
+# Exercise 7
+def linear_backward(dZ: np.ndarray, cache: dict) -> tuple:
+    W, A_prev, b = cache
     m = A_prev.shape[1]
 
     dW = 1 / m * (dZ @ A_prev.T)
@@ -142,20 +142,57 @@ def linear_backward(dZ, cache):
     return dA_prev, dW, db
 
 
-
-def main() -> None:
+#################################################################################################
+# Exercise 8
+def linear_activation_backward(dA: np.ndarray, cache: dict, activation: np.ndarray) -> tuple:
+    linear_cache, activation_cache = cache
     
-    return None
+    if activation == "relu":
+        dZ = relu_backward(dA, activation_cache)
+        dW, dA_prev, db = linear_backward(dZ, linear_cache)
+        
+    elif activation == "sigmoid":
+        dZ = sigmoid_backward(dA, activation_cache)
+        dW, dA_prev, db = linear_backward(dZ, linear_cache)        
+
+    return dA_prev, dW, db
 
 
+#################################################################################################
+#Exercise 9
+def L_model_backward(AL: np.ndarray, Y: np.ndarray, caches: dict) -> dict:
+    gradients = {}
+    L = len(caches) # the number of layers
+    m = AL.shape[1]
+    Y = Y.reshape(AL.shape) # Y is the same shape as AL
+    
+    # Initializing the backpropagation
+    dAL = - (np.divide(Y, AL) - np.divide(1 - Y, 1 - AL))
+    
+    # Lth layer (SIGMOID -> LINEAR) gradients
+    dW_temp, dA_prev_temp, db_temp = linear_activation_backward(dAL, caches[L-1], "sigmoid")
+    gradients[f"dA{L-1}"] = dA_prev_temp
+    gradients[f"dW{L}"] = dW_temp
+    gradients[f"db{L}"] = db_temp
+    
+    # Loop from l=L-2 to l=0 (exclude output & last layers)
+    for l in reversed(range(L-1)):
+        # lth layer: (RELU -> LINEAR) gradients.
+        current_cache = caches[l]
+        dW_temp, dA_prev_temp, db_temp = linear_activation_backward(dA_prev_temp, current_cache, "relu")
+        gradients[f"dA{l}"] = dA_prev_temp
+        gradients[f"dW{l+1}"] = dW_temp
+        gradients[f"db{l+1}"] = db_temp
+    return gradients
 
 
+#################################################################################################
+# Exercise 10
+def update_parameters(parameters: dict, gradients: dict, learning_rate: float) -> dict:
+    L = len(parameters) // 2 # number of layers in the neural network
 
-
-
-if __name__ == '__main__':
-    np.random.seed(1)
-    plt.rcParams['figure.figsize'] = (5.0, 4.0) # set default size of plots
-    plt.rcParams['image.interpolation'] = 'nearest'
-    plt.rcParams['image.cmap'] = 'gray'
-    main()
+    # Perform update
+    for l in range(L):
+        parameters[f"W{l+1}"] = parameters[f"W{l+1}"] - learning_rate * gradients[f"dW{l+1}"]
+        parameters[f"b{l+1}"] = parameters[f"b{l+1}"] - learning_rate * gradients[f"db{l+1}"]
+    return parameters
