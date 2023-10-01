@@ -48,7 +48,10 @@ def normalize(img):
 
 ################################################################################
 # Linear func
-def linear_function(W, X, b):
+def linear_function():
+    W = tf.random.normal(shape=[4, 3], mean=0, stddev=1, name='weight')
+    X = tf.random.normal(shape=[3, 1], mean=0, stddev=1, name='weight')
+    b = tf.random.normal(shape=[4, 1], mean=0, stddev=1, name='weight')
     Y = tf.add(tf.matmul(W, X), b)
     return Y
 
@@ -57,12 +60,7 @@ def Exercise_1() -> None:
     # Task: Compute WX+b
     # where W,X,b are drawn from a rand normal dist.
     # Shape: W = (4, 3), X = (3,1), b = (4,1)
-    W = tf.random.normal(shape=[4, 3], mean=0, stddev=1, name='weight')
-    X = tf.random.normal(shape=[3, 1], mean=0, stddev=1, name='weight')
-    b = tf.random.normal(shape=[4, 1], mean=0, stddev=1, name='weight')
-    
-    Y = linear_function(W, X, b)
-    print(Y)
+    Y = linear_function()
     return None
 
 
@@ -100,14 +98,15 @@ def one_hot_matrix_test(target):
     print("\033[92mAll test passed")
 
 
-def one_hot_encoding(label, C=6):
+def one_hot_matrix(label, C=6):
     one_hot = tf.one_hot(indices=label, depth=C)
+    one_hot = tf.reshape(one_hot, shape=[-1,])
     return one_hot
 
 
-def Exercise_3():
+def Exercise_3(labels):
     one_hot_matrix_test(one_hot_encoding)
-
+    # labels = one_hot_matrix(labels)
 
 
 
@@ -117,7 +116,7 @@ def main() -> None:
     # print(tf.__version__) # 2.13.0
 
     x_train, y_train, x_test, y_test = read_dataset()
-    labels = set([label.numpy() for label in y_train])
+    labels = np.unique([label.numpy() for label in y_train])
     # dataset_inspecting(x_train, y_train)
 
     # use map() in lieu of function call. Same as pd.apply() (64, 64, 3)
@@ -125,8 +124,14 @@ def main() -> None:
     x_test = x_test.map(normalize)   # (120, 12288)
 
     Exercise_1()
-    Exercise_2()
-    Exercise_3()
+    # Exercise_2()
+    # Exercise_3()
+
+    y_test = y_test.map(one_hot_matrix)
+    y_train = y_train.map(one_hot_matrix)
+
+    print(next(iter(y_test)))
+
     return None
 
 
