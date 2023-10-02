@@ -2,11 +2,13 @@ English    typo issues: Miss/ Extra/ Swap
 Vietnamese            : Miss/ Extra/ Swap/ Telex-related error (đd, ếs, ôs, ôo, ...)
 
 Dataset 1: right_word: [wrong_word_1, wrong_word_2, ...]
+    -> lang: En
     -> Format: .txt
     -> Content: English daily life context words
     -> Craw source: 
 
 Dataset 2: right_word: [wrong_word_1, wrong_word_2, ...]
+    -> lang: vi
     -> Format: .txt
     -> Content: Vietnamese daily life context words
     -> Crawl source:
@@ -16,7 +18,7 @@ Dataset 3: English corpus
     -> Content: Daily life context sentence
     -> Crawl source: 
 
-Dataset 4: Vietnames corpus
+Dataset 4: Vietnamese corpus
     -> Format: .txt
     -> Content: Daily life context sentence
     -> Crawl source:
@@ -38,4 +40,6 @@ If wrong:
     choose word that has highest freq in corpus and then replace with the wrong word
 else: 
     pass
+
+
 
