@@ -12,11 +12,11 @@ Dataset 2: right_word: [wrong_word_1, wrong_word_2, ...]
     -> Format: .txt
     -> Content: Vietnamese daily life context words
     -> Crawl source:
-
+trên: trênn, trê
 Dataset 3: English corpus
     -> Format: .txt
     -> Content: Daily life context sentence
-    -> Crawl source: 
+    -> Crawl source: Reuters(Lifestyle)
 
 Dataset 4: Vietnamese corpus
     -> Format: .txt
