@@ -27,15 +27,5 @@ Dataset 4: Vietnamese corpus
     -> Crawl source:
            VNExpress - đời sống, du lịch, giải trí, giáo dục, thế giới, thể thao, thời sự
 #############################################################################################
-Solution pipepline: See solution_pipeline.
 
-
-git pull origin <branch_name>
-
-
-git add .
-git commit -m 'Preprocessing: remove headline, split into single sentence'
-git push origin <local_branch>:<remote_branch>
-
-git push origin master:main
 
