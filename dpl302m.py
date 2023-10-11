@@ -30,7 +30,13 @@ X_test = test_data[features]
 y_test = test_data[target]
 
 # Build DNN model
-model = Sequential()
-model.add(Dense(64, input_dim=len(features), activation='relu'))
-model.add(Dense(32, activation='relu'))
-model.add(Dense(1, activation='linear'))
+def house_pricing():
+    model = Sequential()
+    model.add(Dense(64, input_dim=len(features), activation='relu'))
+    model.add(Dense(32, activation='relu'))
+    model.add(Dense(1, activation='linear'))
+return model
+comparator(summary(house_pricing), output)
+house_pricing.compile(optimizer='adam',
+                loss='binary_crossentropy',
+                metrics=['accuracy'])
