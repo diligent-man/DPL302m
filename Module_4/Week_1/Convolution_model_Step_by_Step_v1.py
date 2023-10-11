@@ -1,3 +1,4 @@
+from pprint import pprint as pp
 import numpy as np
 import h5py
 import matplotlib.pyplot as plt
@@ -74,9 +75,9 @@ def Exercise_2() -> None:
     return None
 
 
-#######################################################################
+##########################################################################################
 def conv_forward(prev_A: np.ndarray, W: np.ndarray, b: np.ndarray,
-                 hyperparas:dict) -> np.ndarray:
+                 hyperparas: dict) -> np.ndarray:
     """
     Inp
         prev_A: output activations of the previous layer
@@ -112,8 +113,8 @@ def conv_forward(prev_A: np.ndarray, W: np.ndarray, b: np.ndarray,
     
     # Out shape 
     n_H = ((prev_n_H - f + 2 * padding_size) // stride) + 1
-    n_W = ((prev_n_W - f + 2 * padding_size) // stride) + 1
-    print(n_H, n_W)                                                                                                                                                                                                                                             
+    n_W = ((prev_n_W - f + 2 * padding_size) // stride) + 1                     
+
     # Initialize the out volume
     Z = np.zeros(shape=(m, n_H, n_W, n_C))
     
@@ -122,22 +123,20 @@ def conv_forward(prev_A: np.ndarray, W: np.ndarray, b: np.ndarray,
 
     # perform convolution operation
     for i in range(m):
-        # retrieve each image
-        prev_padded_a = prev_padded_A[i] 
-
+        prev_padded_a = prev_padded_A[i]         # retrieve each image
         for h in range(n_H):
             for w in range(n_W):
                 for c in range(n_C):
                     # Calculate slider area
-                    slider_height = h * stride: h * stride + f
-                    slider_width = w * stride: w * stride + f
-                    slider_tensor = prev_padded_a[slider_height, slider_width, :]
+                    slider_tensor = prev_padded_a[h * stride: h * stride + f,
+                                                  w * stride: w * stride + f, :]
 
                     weights = W[:, :, :, c]
                     biases = b[:, :, :, c]
                     
                     Z[i, h, w, c] = conv_single_step(slider_tensor, weights ,biases)
-    return Z
+    cache = (prev_A, W, b, hyperparas)
+    return Z, cache
 
 
 def Exercise_3() -> None:
@@ -156,18 +155,213 @@ def Exercise_3() -> None:
     return None
 
 
-#######################################################################
+#########################################################################################
 def pool_forward(prev_A: np.ndarray, hyperparas: dict, mode = "max") -> tuple:
+    """
+    Inp
+        prev_A: (m, n_H_prev, n_W_prev, n_C_prev)
+        hyperparas: dict for filter_szie & stride
+        mode: max | avg pooling
+    Output
+        A - (m, n_H, n_W, n_C)
+        cache
+    """
+    (m, prev_n_H, prev_n_W, prev_n_C) = prev_A.shape
+    filter_size = hyperparas["f"]
+    stride = hyperparas["stride"]
+    
+    # Define the dimensions of the output
+    n_H = 1 + (prev_n_H - filter_size) // stride
+    n_W = 1 + (prev_n_W - filter_size) // stride
+    n_C = prev_n_C
+    
+    # Initialize output
+    A = np.zeros((m, n_H, n_W, n_C))   
 
+    # perform pooling
+    for i in range(m):
+        for h in range(n_H):
+            for w in range(n_W):
+                for c in range(n_C):
+                    slider_tensor = prev_A[i, h * stride: h * stride + filter_size,
+                                              w * stride: w * stride + filter_size, c]
+                    
+                    if mode == "max":
+                        A[i, h, w, c] = np.max(slider_tensor)
+                    elif mode == "average":
+                        A[i, h, w, c] = np.mean(slider_tensor)
+    
+    cache = (prev_A, hyperparas)
+    assert(A.shape == (m, n_H, n_W, n_C))
     return A, cache
 
-
 def Exercise_4() -> None:
+    print("CASE 1:")
+    np.random.seed(1)
+    hyperparas_case_1 = {"stride" : 1, "f": 3}
+    prev_A_case_1 = np.random.randn(2, 5, 5, 3)
+    print('Previous A case 1\n', prev_A_case_1)
 
+    A, cache = pool_forward(prev_A_case_1, hyperparas_case_1, mode = "max")
+    print("mode = max")
+    print("A.shape = " + str(A.shape))
+    print("A[0] =\n", A[0])
+    
+    A, cache = pool_forward(prev_A_case_1, hyperparas_case_1, mode = "average")
+    print("mode = average")
+    print("A.shape = " + str(A.shape))
+    print("A[0] =\n", A[0])
+    print()
+    print()
+
+
+    # Case 2: stride of 2
+    print("\n\nCASE 2:")
+    np.random.seed(1)
+    hyperparas_case_2 = {"stride" : 2, "f": 3}
+    prev_A_case_2 = np.random.randn(2, 5, 5, 3)
+    print('Previous A case 2\n', prev_A_case_2)
+
+    A, cache = pool_forward(prev_A_case_2, hyperparas_case_2, mode = "max")
+    print("mode = max")
+    print("A.shape = " + str(A.shape))
+    print("A[0] =\n", A[0])
+    print()
+
+    A, cache = pool_forward(prev_A_case_2, hyperparas_case_2, mode = "average")
+    print("mode = average")
+    print("A.shape = " + str(A.shape))
+    print("A[0] =\n", A[0])
     return None
 
 
-#######################################################################
+######################################################################################
+def conv_backward(dZ: np.ndarray, cache: list) -> tuple:
+    """
+    Inp
+        dZ: grad of the cost w.r.t output of conv layer Z,
+            -> (m, n_H, n_W, n_C)
+        cache
+        
+    Out
+        prev_dA: grad of cost w.r.t inp of prev_A_prev
+            -> (m, prev_n_H, prev_n_W, prev_n_C)
+
+        dW: (f, f, prev_n_C, n_C)
+        db: (1, 1, 1, n_C)
+    """
+    prev_A, W, b, hyperparas = cache
+    stride = hyperparas["stride"]
+    padding_size = hyperparas["padding_size"]
+
+    m, prev_n_H, prev_n_W, prev_n_C = prev_A.shape
+    f, f, prev_n_C, n_C = W.shape
+    m, n_H, n_W, n_C = dZ.shape
+    
+    # Initialize prev_dA, dW, db with the correct shapes
+    prev_dA = np.zeros((m, prev_n_H, prev_n_W, prev_n_C))                          
+    dW = np.zeros((f, f, prev_n_C, n_C))
+    db = np.zeros((1, 1, 1, n_C))
+    
+    # Padding prev_A and prev_dA
+    prev_padded_A = zero_pad(prev_A, padding_size)
+    prev_padded_dA = zero_pad(prev_dA, padding_size)
+
+    # perform backprop
+    for i in range(m):
+        prev_padded_a = prev_padded_A[i]
+        prev_padded_da = prev_padded_dA[i]
+
+        for h in range(n_H):
+           for w in range(n_W):
+               for c in range(n_C):
+                    slider_tensor = prev_padded_a[h * stride: h * stride + f,
+                                                  w * stride: w * stride + f, :]
+                    # Update grad
+                    prev_padded_da[h * stride: h * stride + f,
+                                   w * stride: w * stride + f, :] += W[:, :, :, c] * dZ[i, h, w, c]
+                    dW[:, :, :, c] += slider_tensor * dZ[i, h, w, c]
+                    db[:, :, :, c] += dZ[i, h, w, c]
+                    
+        # Set i_th example's prev_dA to the unpadded prev_da
+        prev_dA[i] = prev_padded_da[padding_size: -padding_size,
+                                    padding_size: -padding_size, :]
+    return prev_dA, dW, db
+
+
+def Exercise_5() -> None:
+    np.random.seed(1)
+    
+    prev_A = np.random.randn(10, 4, 4, 3)
+    W = np.random.randn(2, 2, 3, 8)
+    b = np.random.randn(1, 1, 1, 8)
+    hyperparas = {"padding_size" : 2, "stride": 2}
+    
+    # feed forward
+    Z, cache = conv_forward(prev_A, W, b, hyperparas)
+
+    # backprop
+    dA, dW, db = conv_backward(Z, cache)
+    
+    print("dA_mean =", np.mean(dA), 'shape=', dA.shape)
+    print("dW_mean =", np.mean(dW), 'shape=', dW.shape)
+    print("db_mean =", np.mean(db), 'shape=', db.shape)
+    return None
+
+######################################################################################
+
+
+def create_mask_from_window(x):
+    """
+    Creates a mask from an input matrix x, to identify the max entry of x.
+    
+    Inp: x - Array of shape (f, f)
+    Out: mask - Array of the same shape as window,
+                contains a True at the position corresponding to the max entry of x.
+    """
+    mask = x == np.max(x)
+    return mask
+
+
+def Exercise_6() -> None:
+    np.random.seed(1)
+    x = np.random.randn(2, 3)
+    mask = create_mask_from_window(x)
+    
+    print('x=')
+    pp(x)
+
+    print("mask=")
+    pp(mask)
+    return None
+
+
+######################################################################################
+def distribute_value(dz, shape):
+    """
+    Distributes the input value in the matrix of dimension shape
+    
+    Inp
+        dz: inp scalar
+        shape: which we want to distribute the value of dz
+            -> (n_H, n_W)
+    
+    Out
+        a: which we distributed the value of dz
+            -> (n_H, n_W)
+    """    
+    (n_H, n_W) = shape
+    average = np.ones(shape) / np.multiply(*shape)
+    a = dz * average
+    return a
+
+
+def Exercise_7() -> None:
+    a = distribute_value(2, (2, 2))
+    print('distributed value =')
+    pp(a)
+    return None
+######################################################################################
 def main() -> None:
     """
     Convolution funcs:
@@ -186,7 +380,10 @@ def main() -> None:
     # Exercise_1()
     # Exercise_2()
     # Exercise_3()
-    Exercise_4()
+    # Exercise_4()
+    # Exercise_5()
+    # Exercise_6()
+    Exercise_7()
     return None
 
 
