@@ -35,8 +35,5 @@ def house_pricing():
     model.add(Dense(64, input_dim=len(features), activation='relu'))
     model.add(Dense(32, activation='relu'))
     model.add(Dense(1, activation='linear'))
-return model
-comparator(summary(house_pricing), output)
-house_pricing.compile(optimizer='adam',
-                loss='binary_crossentropy',
-                metrics=['accuracy'])
+    return model
+model.compile(loss='mean_squared_error', optimizer='adam')
