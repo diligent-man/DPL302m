@@ -361,7 +361,64 @@ def Exercise_7() -> None:
     print('distributed value =')
     pp(a)
     return None
-######################################################################################
+
+
+##########################################################################################
+def pool_backward(dA, cache, mode = "max"):
+    """
+    Inp
+        dA: grad of w.r.t out of the pooling layer, same shape as A
+        cache: tuple contains the layer's input and hyperparas
+        mode: max | average
+    
+    Out
+        prev_dA: grad of cost w.r.t  input pooling layer, same shape as prev_A
+    """
+    prev_A, hyperparas = cache
+    stride = hyperparas["stride"]
+    filter_size = hyperparas["f"]
+    
+    m, prev_n_H, prev_n_W, prev_n_C = prev_A.shape
+    m, n_H, n_W, n_C = dA.shape
+    
+    prev_dA = np.zeros(prev_A.shape)
+
+    for i in range(m):
+        prev_a = prev_A[i]
+        for h in range(n_H):
+            for w in range(n_W):
+                for c in range(n_C):
+                    vert_start = h * stride
+                    vert_end = vert_start + filter_size
+                    horiz_start = w * stride
+                    horiz_end = horiz_start + filter_size
+                    
+                    # Compute the backward propagation in both modes.
+                    if mode == "max":
+                        slider_tensor = prev_a[h * stride: h * stride + f,
+                                               w * stride: w * stride + f, c]
+
+                        mask = create_mask_from_window(slider_tensor)
+
+                        # Set prev_dA to be prev_dA + (the mask multiplied by the correct entry of dA)
+                        prev_dA[i, h * stride: h * stride + filter_size,
+                                 , h * stride: h * stride + filter_size, c] += dA[i, h, w, c] * mask
+                        
+                    elif mode == "average":
+                        da = dA[i, h, w, c]
+                        
+                        # Define the shape of the filter
+                        shape = (filter_size, filter_size)
+
+                        # Distribute it to get the correct slice of dA_prev. i.e. Add the distributed value of da. (≈1 line)
+                        dA_prev[i, vert_start: vert_end, horiz_start: horiz_end, c] += distribute_value(da, shape)
+    return dA_prev
+
+
+def Exercise_8() -> None:
+    return None
+
+##########################################################################################
 def main() -> None:
     """
     Convolution funcs:
@@ -377,13 +434,14 @@ def main() -> None:
         + Backward pooling
     This assignment will be implemented by numpy
     """
+
     # Exercise_1()
     # Exercise_2()
     # Exercise_3()
     # Exercise_4()
     # Exercise_5()
     # Exercise_6()
-    Exercise_7()
+    # Exercise_7()
     return None
 
 
