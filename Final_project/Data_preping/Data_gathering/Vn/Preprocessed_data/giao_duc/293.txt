@@ -1,18 +1,28 @@
-7 bước để chuyển trường THPT ở Hà Nội 
-Hà Nội mở cổng thông tin cho học sinh THPT chuyển trường từ ngày 19/8, thủ tục chuyển gồm 7 bước, không phụ thuộc vào tổ hợp môn học ở các trường.
-Sau khi trao thẩm quyền giải quyết việc chuyển trường THPT cho các hiệu trưởng, Sở Giáo dục và Đào tạo Hà Nội hôm qua công bố hướng dẫn chi tiết quy trình chuyển trường, gồm 7 bước như sau:
-Bước 1: Học sinh và gia đình tìm hiểu thông tin về thủ tục chuyển trường, chỉ tiêu của trường muốn đến
-Bước 2: Học sinh nộp đơn xin chuyển trường (theo mẫu) cho trường nơi đi.
-Bước 3: Trường học cấp bản photo học bạ, danh sách trúng tuyển lớp 10 có tên học sinh cùng tài khoản, mật khẩu để truy cập cổng thông tin về chuyển trường của Sở.
-Bước 4: Học sinh hoặc người giám hộ đăng nhập vào cổng thông tin chuyển trường tại http://chuyentruong.hanoi.edu.vn, chọn mục "Chuyển trường trong tỉnh" rồi làm theo hướng dẫn. Ngoài thông tin cá nhân, học sinh cần điền cả môn chuyên đề học tập và các môn lựa chọn (với những em học chương trình mới) cùng lý do chuyển trường.
-Bước 5: Trường học nơi đi xác nhận.
-Bước 6: Trường học nơi đến xác nhận.
-Bước 7: Hồ sơ của học sinh được chuyển tới trường mới để hoàn thiện và xếp lớp.
-Cổng thông tin chuyển trường được mở từ ngày 19/8. Theo Sở Giáo dục và Đào tạo Hà Nội, quá trình vận hành thuận lợi, không có hiện tượng nghẽn mạng.
-Hồ sơ chuyển trường của học sinh gồm đơn xin chuyển trường, học bạ, giấy chứng nhận trúng tuyển lớp 10 THPT, giấy giới thiệu do hiệu trưởng nơi đi cấp, giấy giới thiệu của Giám đốc Sở Giáo dục và Đào tạo nơi đi (áp dụng khi chuyển trường khác tỉnh, thành phố).
-Học sinh Hà Nội chuyển đi tỉnh khác và nơi khác về Hà Nội cũng có quy trình tương tự. Các công đoạn liên quan đến Sở Giáo dục và Đào tạo như xin giấy chứng nhận trúng tuyển lớp 10 sẽ do trường nơi đi thực hiện, các em và gia đình chỉ cần thao tác trực tuyến trên cổng thông tin về chuyển trường.
-Sở cho biết mỗi năm có hai đợt giải quyết việc chuyển trường của học sinh. Đợt 1 trước khai giảng năm học mới, đợt 2 trước khi học kỳ II bắt đầu. Năm học 2023-2024, đợt 1 diễn ra từ ngày 7/8 tới 4/9, đợt 2 từ 4/1 đến 5/2.
-Ngoài ra, việc chuyển trường và tiếp nhận học sinh theo học chương trình mới không phụ thuộc vào sách giáo khoa được chọn và sử dụng giữa các trường. Nếu tổ hợp môn giảng dạy giữa trường nơi đi và đến không giống nhau, Sở thực hiện theo quy định của Bộ, tức trường nơi đến phải có giải pháp hỗ trợ học sinh bổ sung kiến thức, kỹ năng để các em có thể theo các môn mới.
-Trước kia, UBND thành phố Hà Nội quy định việc chuyển trường với học sinh THPT thuộc thẩm quyền giải quyết của Sở. Cha mẹ học sinh sau khi làm các thủ tục tại trường chuyển đi và được trường chuyển đến đồng ý tiếp nhận sẽ nộp hồ sơ ở Sở Giáo dục và Đào tạo. Nếu được Sở phê duyệt, họ cầm hồ sơ quay lại trường chuyển đến để nộp.
-Hồi tháng 5, Hà Nội bãi bỏ thủ tục này. Thẩm quyền giải quyết việc chuyển trường của học sinh được giao cho hiệu trưởng, từ ngày 25/7.
+7 bước để chuyển trường THPT ở Hà Nội
+Hà Nội mở cổng thông tin cho học sinh THPT chuyển trường từ ngày 19/8 thủ tục chuyển gồm 7 bước không phụ thuộc vào tổ hợp môn học ở các trường
+Sau khi trao thẩm quyền giải quyết việc chuyển trường THPT cho các hiệu trưởng Sở Giáo dục và Đào tạo Hà Nội hôm qua công bố hướng dẫn chi tiết quy trình chuyển trường gồm 7 bước như sau
+Bước 1 Học sinh và gia đình tìm hiểu thông tin về thủ tục chuyển trường chỉ tiêu của trường muốn đến
+Bước 2 Học sinh nộp đơn xin chuyển trường theo mẫu cho trường nơi đi
+Bước 3 Trường học cấp bản photo học bạ danh sách trúng tuyển lớp 10 có tên học sinh cùng tài khoản mật khẩu để truy cập cổng thông tin về chuyển trường của Sở
+Bước 4 Học sinh hoặc người giám hộ đăng nhập vào cổng thông tin chuyển trường tại http//chuyentruonghanoieduvn chọn mục Chuyển trường trong tỉnh rồi làm theo hướng dẫn
+Ngoài thông tin cá nhân học sinh cần điền cả môn chuyên đề học tập và các môn lựa chọn với những em học chương trình mới cùng lý do chuyển trường
+Bước 5 Trường học nơi đi xác nhận
+Bước 6 Trường học nơi đến xác nhận
+Bước 7 Hồ sơ của học sinh được chuyển tới trường mới để hoàn thiện và xếp lớp
+Cổng thông tin chuyển trường được mở từ ngày 19/8
+Theo Sở Giáo dục và Đào tạo Hà Nội quá trình vận hành thuận lợi không có hiện tượng nghẽn mạng
+Hồ sơ chuyển trường của học sinh gồm đơn xin chuyển trường học bạ giấy chứng nhận trúng tuyển lớp 10 THPT giấy giới thiệu do hiệu trưởng nơi đi cấp giấy giới thiệu của Giám đốc Sở Giáo dục và Đào tạo nơi đi áp dụng khi chuyển trường khác tỉnh thành phố
+Học sinh Hà Nội chuyển đi tỉnh khác và nơi khác về Hà Nội cũng có quy trình tương tự
+Các công đoạn liên quan đến Sở Giáo dục và Đào tạo như xin giấy chứng nhận trúng tuyển lớp 10 sẽ do trường nơi đi thực hiện các em và gia đình chỉ cần thao tác trực tuyến trên cổng thông tin về chuyển trường
+Sở cho biết mỗi năm có hai đợt giải quyết việc chuyển trường của học sinh
+Đợt 1 trước khai giảng năm học mới đợt 2 trước khi học kỳ II bắt đầu
+Năm học 2023-2024 đợt 1 diễn ra từ ngày 7/8 tới 4/9 đợt 2 từ 4/1 đến 5/2
+Ngoài ra việc chuyển trường và tiếp nhận học sinh theo học chương trình mới không phụ thuộc vào sách giáo khoa được chọn và sử dụng giữa các trường
+Nếu tổ hợp môn giảng dạy giữa trường nơi đi và đến không giống nhau Sở thực hiện theo quy định của Bộ tức trường nơi đến phải có giải pháp hỗ trợ học sinh bổ sung kiến thức kỹ năng để các em có thể theo các môn mới
+Trước kia UBND thành phố Hà Nội quy định việc chuyển trường với học sinh THPT thuộc thẩm quyền giải quyết của Sở
+Cha mẹ học sinh sau khi làm các thủ tục tại trường chuyển đi và được trường chuyển đến đồng ý tiếp nhận sẽ nộp hồ sơ ở Sở Giáo dục và Đào tạo
+Nếu được Sở phê duyệt họ cầm hồ sơ quay lại trường chuyển đến để nộp
+Hồi tháng 5 Hà Nội bãi bỏ thủ tục này
+Thẩm quyền giải quyết việc chuyển trường của học sinh được giao cho hiệu trưởng từ ngày 25/7
 Thanh Hằng
+

@@ -1,11 +1,16 @@
-Bộ Giao thông Vận tải muốn siết chặt xe hợp đồng trá hình 
-Bộ Giao thông Vận tải đề xuất xe hợp đồng không được đón, trả khách 3 ngày liên tiếp trở lên tại trụ sở chính hoặc tại một vị trí khác.
-Dự thảo sửa đổi Nghị định 10/2020 về quản lý hoạt động vận tải bằng ôtô đang được xây dựng, trong đó Bộ đề xuất đơn vị vận tải chỉ được ký hợp đồng với người thuê cả chuyến xe (bao gồm cả thuê người lái xe), mỗi chuyến chỉ được đón, trả khách tại một địa điểm theo hợp đồng.
-Trong một tháng, mỗi ôtô không được thực hiện quá 10% tổng số chuyến có điểm đầu và điểm cuối trùng lặp theo địa giới hành chính cấp xã (phường) hoặc quận (huyện). Việc xác định điểm đầu, điểm cuối trùng lặp được thực hiện thông qua dữ liệu từ thiết bị giám sát hành trình của xe, thông tin của hợp đồng vận chuyển đã ký kết.
-Theo quy định hiện hành, trong một tháng, mỗi ôtô không được thực hiện quá 30% tổng số chuyến có điểm đầu, cuối hoặc phạm vi trùng lặp.
-Hiện nay ở các thành phố lớn có tình trạng xe Limousine đăng ký hoạt động là xe hợp đồng song đón khách như xe tuyến cố định, tạo ra nhiều bến cóc. Những xe này cũng đón trả khách dọc đường gây mất an toàn giao thông.
-Theo Cục Đường bộ Việt Nam, các xe hợp đồng "trá hình xe tuyến cố định" tập trung tại Hà Nội và TP HCM đi các tỉnh trong bán kính dưới 500 km, tổ chức vận chuyển liên tục giữa hai địa phương. Danh sách hành khách chiều đi và về không giống nhau, như Hà Nội - Thái Bình, Hà Nội - Quảng Ninh, Hà Nội - Ninh Bình...
-Những xe này đang đón, trả khách tại một số địa điểm cố định trong nội thành mà không có rào cản do quy định hiện hành chưa có chế tài triệt để. Các đơn vị vận tải lại thay đổi điểm đón trả từ phường này sang phường khác hoặc từ quận này sang quận khác để lách quy định.
-Do đó, Cục Đường bộ Việt Nam đề nghị siết chặt hoạt động các xe hợp đồng theo hướng quy định tỷ lệ, phạm vi trùng lặp điểm xuất phát, điểm kết thúc tính theo địa giới hành chính cấp tỉnh, thành phố.
-Dự thảo cũng đề xuất quy định đơn vị kinh doanh vận tải bị thu hồi phù hiệu, biển hiệu nếu có 5 lần vi phạm tốc độ trong một tháng trên quãng đường 1.000 km hoặc trong một ngày có từ ba lần vi phạm tốc độ trở lên (không tính các trường hợp vi phạm dưới 5 km/h).
-Nội dung này cũng thay đổi so với quy định hiện hành là xe bị thu hồi phù hiệu khi có 5 lần vi phạm tốc độ trong một tháng trên 1.000 km xe chạy.
+Bộ Giao thông Vận tải muốn siết chặt xe hợp đồng trá hình
+Bộ Giao thông Vận tải đề xuất xe hợp đồng không được đón trả khách 3 ngày liên tiếp trở lên tại trụ sở chính hoặc tại một vị trí khác
+Dự thảo sửa đổi Nghị định 10/2020 về quản lý hoạt động vận tải bằng ôtô đang được xây dựng trong đó Bộ đề xuất đơn vị vận tải chỉ được ký hợp đồng với người thuê cả chuyến xe bao gồm cả thuê người lái xe mỗi chuyến chỉ được đón trả khách tại một địa điểm theo hợp đồng
+Trong một tháng mỗi ôtô không được thực hiện quá 10 tổng số chuyến có điểm đầu và điểm cuối trùng lặp theo địa giới hành chính cấp xã phường hoặc quận huyện
+Việc xác định điểm đầu điểm cuối trùng lặp được thực hiện thông qua dữ liệu từ thiết bị giám sát hành trình của xe thông tin của hợp đồng vận chuyển đã ký kết
+Theo quy định hiện hành trong một tháng mỗi ôtô không được thực hiện quá 30 tổng số chuyến có điểm đầu cuối hoặc phạm vi trùng lặp
+Hiện nay ở các thành phố lớn có tình trạng xe Limousine đăng ký hoạt động là xe hợp đồng song đón khách như xe tuyến cố định tạo ra nhiều bến cóc
+Những xe này cũng đón trả khách dọc đường gây mất an toàn giao thông
+Theo Cục Đường bộ Việt Nam các xe hợp đồng trá hình xe tuyến cố định tập trung tại Hà Nội và TP HCM đi các tỉnh trong bán kính dưới 500 km tổ chức vận chuyển liên tục giữa hai địa phương
+Danh sách hành khách chiều đi và về không giống nhau như Hà Nội - Thái Bình Hà Nội - Quảng Ninh Hà Nội - Ninh Bình
+Những xe này đang đón trả khách tại một số địa điểm cố định trong nội thành mà không có rào cản do quy định hiện hành chưa có chế tài triệt để
+Các đơn vị vận tải lại thay đổi điểm đón trả từ phường này sang phường khác hoặc từ quận này sang quận khác để lách quy định
+Do đó Cục Đường bộ Việt Nam đề nghị siết chặt hoạt động các xe hợp đồng theo hướng quy định tỷ lệ phạm vi trùng lặp điểm xuất phát điểm kết thúc tính theo địa giới hành chính cấp tỉnh thành phố
+Dự thảo cũng đề xuất quy định đơn vị kinh doanh vận tải bị thu hồi phù hiệu biển hiệu nếu có 5 lần vi phạm tốc độ trong một tháng trên quãng đường 1000 km hoặc trong một ngày có từ ba lần vi phạm tốc độ trở lên không tính các trường hợp vi phạm dưới 5 km/h
+Nội dung này cũng thay đổi so với quy định hiện hành là xe bị thu hồi phù hiệu khi có 5 lần vi phạm tốc độ trong một tháng trên 1000 km xe chạy
+

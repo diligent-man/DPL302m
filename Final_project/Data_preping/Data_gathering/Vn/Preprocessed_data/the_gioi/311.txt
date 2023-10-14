@@ -1,16 +1,22 @@
-Mẫu UAV tàng hình bí ẩn trong lễ duyệt binh Hàn Quốc 
-Hàn Quốc phô diễn một mẫu UAV tàng hình mới trong lễ duyệt binh hôm 26/9, nhiều khả năng sẽ giúp Seoul tăng năng lực do thám và trinh sát.
-Hàn Quốc ngày 26/9 tổ chức cuộc duyệt binh quy mô lớn đầu tiên kể từ năm 2013 tại thủ đô Seoul nhân kỷ niệm 75 năm thành lập quân đội. Buổi lễ có sự xuất hiện của hàng trăm khí tài hiện đại, trong đó có tên lửa Hyunmoo và L-SAM.
-Một trong những khí tài gây tò mò tại lễ duyệt binh là mẫu máy bay không người lái (UAV) mới có thiết kế tàng hình, được đặt trên xe chiến thuật hạng nhẹ Kia (KLTV) 4x4.
-Chiếc UAV này có ba càng đáp, cho thấy nó được thiết kế để cất hạ cánh trên đường băng như máy bay thông thường, thay vì sử dụng máy phóng. Cửa hút gió động cơ nằm ở trên thân UAV, còn phần mũi được gắn ống pitot, thiết bị cảm biến áp suất dùng để đo tốc độ bay.
-Quân đội Hàn Quốc không công bố thông tin về tính năng của mẫu UAV bí ẩn này, nhưng nó có thiết kế tương tự Kaori-X, nguyên mẫu UAV tàng hình đang được công ty sản xuất máy bay Hàn Quốc KAL-ASD phát triển và từng bay thử năm 2015.
-Điểm khác biệt là Kaori-X có thiết kế cánh tam giác, còn mẫu UAV mới này có hình dạng góc cạnh hơn, với cánh giữa đặt cao, còn phần cánh ngoài mỏng và dài hơn, tương tự UAV thông minh X-47B của Mỹ. Thiết kế này giúp máy bay tăng độ bền, song tốc độ bay chậm hơn so với mẫu Kaori-X.
-Dựa trên kích thước của xe KLTV, giới chuyên gia quân sự nhận định UAV mới của Hàn Quốc có chiều dài khoảng 1,8-2,4 mét. Các đặc tính kỹ thuật khác của nó vẫn còn là một ẩn số, bao gồm năng lực tàng hình của máy bay.
-Kim Jae Yeop, chuyên gia cấp cao tại Viện nghiên cứu Chiến lược Toàn cầu Sungkyun (SIGS), trụ sở tại Hàn Quốc, nhận định mẫu UAV này "về cơ bản hiện chỉ có năng lực trinh sát", song cho rằng nó có thể được nâng cấp để "thực hiện nhiệm vụ chiến đấu".
-Chuyên gia quân sự Joseph Trevithick của Drive cho biết kích thước nhỏ là một lợi thế giúp chiếc UAV khó bị đối phương phát hiện, thêm rằng nó có thể được cải tiến để nâng cao tính năng tàng hình.
-"Hàn Quốc có thể thay thế đầu dò và ăng ten của máy bay bằng các thiết bị phù hợp hơn trong tương lai", Trevithick nói.
-Hàn Quốc từng mô tả Kaori-X là bước đệm trong quá trình phát triển khí tài không người lái chiến đấu tàng hình (UCAV), và mẫu UAV bí ẩn vừa được công bố cũng có thể đóng vai trò tương tự.
-Trevithick nhận định chúng có thể cung cấp cho Hàn Quốc các phương án mới để do thám hoạt động quân sự của Triều Tiên, do sở hữu năng lực trinh sát hiệu quả hơn so với một số phương tiện mà Seoul hiện có.
-"Trong trường hợp xảy ra xung đột toàn diện, các UAV cánh liền khối này có thể được dùng để tiến hành hoạt động tình báo, do thám, trinh sát và các nhiệm vụ khác, nhờ sở hữu kích thước nhỏ", ông nói.
-Ngoài nhiệm vụ tình báo, các UAV này cũng có thể mang theo thiết bị điện từ và các loại vũ khí siêu nhỏ, hoặc dùng làm thiết bị chuyển tiếp liên lạc. Tùy vào chi phí chế tạo thực tế, chúng có thể được chuyển đổi thành vũ khí tự sát giá rẻ, tương tự một số dòng UAV mới công bố của Iran.
-Phạm Giang (Theo Drive)
+Mẫu UAV tàng hình bí ẩn trong lễ duyệt binh Hàn Quốc
+Hàn Quốc phô diễn một mẫu UAV tàng hình mới trong lễ duyệt binh hôm 26/9 nhiều khả năng sẽ giúp Seoul tăng năng lực do thám và trinh sát
+Hàn Quốc ngày 26/9 tổ chức cuộc duyệt binh quy mô lớn đầu tiên kể từ năm 2013 tại thủ đô Seoul nhân kỷ niệm 75 năm thành lập quân đội
+Buổi lễ có sự xuất hiện của hàng trăm khí tài hiện đại trong đó có tên lửa Hyunmoo và L-SAM
+Một trong những khí tài gây tò mò tại lễ duyệt binh là mẫu máy bay không người lái UAV mới có thiết kế tàng hình được đặt trên xe chiến thuật hạng nhẹ Kia KLTV 4x4
+Chiếc UAV này có ba càng đáp cho thấy nó được thiết kế để cất hạ cánh trên đường băng như máy bay thông thường thay vì sử dụng máy phóng
+Cửa hút gió động cơ nằm ở trên thân UAV còn phần mũi được gắn ống pitot thiết bị cảm biến áp suất dùng để đo tốc độ bay
+Quân đội Hàn Quốc không công bố thông tin về tính năng của mẫu UAV bí ẩn này nhưng nó có thiết kế tương tự Kaori-X nguyên mẫu UAV tàng hình đang được công ty sản xuất máy bay Hàn Quốc KAL-ASD phát triển và từng bay thử năm 2015
+Điểm khác biệt là Kaori-X có thiết kế cánh tam giác còn mẫu UAV mới này có hình dạng góc cạnh hơn với cánh giữa đặt cao còn phần cánh ngoài mỏng và dài hơn tương tự UAV thông minh X-47B của Mỹ
+Thiết kế này giúp máy bay tăng độ bền song tốc độ bay chậm hơn so với mẫu Kaori-X
+Dựa trên kích thước của xe KLTV giới chuyên gia quân sự nhận định UAV mới của Hàn Quốc có chiều dài khoảng 18-24 mét
+Các đặc tính kỹ thuật khác của nó vẫn còn là một ẩn số bao gồm năng lực tàng hình của máy bay
+Kim Jae Yeop chuyên gia cấp cao tại Viện nghiên cứu Chiến lược Toàn cầu Sungkyun SIGS trụ sở tại Hàn Quốc nhận định mẫu UAV này về cơ bản hiện chỉ có năng lực trinh sát song cho rằng nó có thể được nâng cấp để thực hiện nhiệm vụ chiến đấu
+Chuyên gia quân sự Joseph Trevithick của Drive cho biết kích thước nhỏ là một lợi thế giúp chiếc UAV khó bị đối phương phát hiện thêm rằng nó có thể được cải tiến để nâng cao tính năng tàng hình
+Hàn Quốc có thể thay thế đầu dò và ăng ten của máy bay bằng các thiết bị phù hợp hơn trong tương lai Trevithick nói
+Hàn Quốc từng mô tả Kaori-X là bước đệm trong quá trình phát triển khí tài không người lái chiến đấu tàng hình UCAV và mẫu UAV bí ẩn vừa được công bố cũng có thể đóng vai trò tương tự
+Trevithick nhận định chúng có thể cung cấp cho Hàn Quốc các phương án mới để do thám hoạt động quân sự của Triều Tiên do sở hữu năng lực trinh sát hiệu quả hơn so với một số phương tiện mà Seoul hiện có
+Trong trường hợp xảy ra xung đột toàn diện các UAV cánh liền khối này có thể được dùng để tiến hành hoạt động tình báo do thám trinh sát và các nhiệm vụ khác nhờ sở hữu kích thước nhỏ ông nói
+Ngoài nhiệm vụ tình báo các UAV này cũng có thể mang theo thiết bị điện từ và các loại vũ khí siêu nhỏ hoặc dùng làm thiết bị chuyển tiếp liên lạc
+Tùy vào chi phí chế tạo thực tế chúng có thể được chuyển đổi thành vũ khí tự sát giá rẻ tương tự một số dòng UAV mới công bố của Iran
+Phạm Giang Theo Drive
+

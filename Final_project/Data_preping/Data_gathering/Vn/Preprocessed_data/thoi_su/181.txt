@@ -1,13 +1,23 @@
-Đề xuất cấp đổi 22 triệu giấy phép lái xe máy 
-Giấy phép lái xe máy vật liệu bìa được cấp trước ngày 1/7/2012 phải đổi sang thẻ nhựa, theo dự thảo Luật Trật tự an toàn giao thông đường bộ.
-Cục Đường bộ Việt Nam cho biết hiện cả nước có khoảng 22 triệu giấy phép lái môtô không thời hạn bằng vật liệu giấy (các loại bằng A1, A2 và A3) được cấp từ năm 1995 đến tháng 7/2012. Nếu dự thảo luật được thông qua, người sử dụng giấy phép lái xe này sẽ phải làm thủ tục đổi mới sang thẻ nhựa (PET).
-Theo ông Lương Duyên Thống, Trưởng phòng Quản lý người lái và phương tiện (Cục Đường bộ Việt Nam), giấy phép lái xe môtô vật liệu bìa thiếu dữ liệu ngày tháng sinh, số căn cước công dân nên không thể tích hợp hệ thống quản lý của Cục Đường bộ Việt Nam cũng như dữ liệu quốc gia về dân cư và tài khoản định danh điện tử (VNeID). Do đó, Bộ Giao thông vận tải đã đề xuất Bộ Công an bổ sung điều khoản này vào dự thảo Luật Trật tự, An toàn giao thông đường bộ.
-Về lộ trình cấp đổi, ông Thống cho biết Chính phủ sẽ chịu trách nhiệm xây dựng lộ trình và mức phí cấp đổi. Hiện nay, người đổi giấy phép không cần giấy khám sức khỏe, hồ sơ giấy phép cũ, mức phí là 135.000 đồng.
-Theo đại tá Nguyễn Quang Nhật, Trưởng phòng Tuyên truyền, Cục Cảnh sát giao thông, giấy phép lái xe đổi sang dạng PET sẽ được cập nhật lên hệ thống của Cục Đường bộ Việt Nam, sau đó tích hợp vào ứng dụng VNeID.
-Ngoài ra, tại dự thảo Luật Luật Trật tự, An toàn giao thông đường bộ, Bộ Công an đề xuất Chính phủ quy định chi tiết các hạng giấy phép lái xe, thời hạn giấy phép. Bộ trưởng Giao thông Vận tải quy định hình thức của giấy phép lái xe và giấy phép lái xe quốc tế; trình tự thủ tục cấp và sử dụng các loại giấy phép này.
-Theo đại tá Nhật, Việt Nam đang sử dụng giấy phép lái xe chưa đồng bộ Công ước Viên. Công ước quy định hạng A là xe máy, hạng B là ôtô nhưng Việt Nam lại chia thành A1, A2, B1, B2. Bởi vậy, Cục Cảnh sát giao thông đã tiếp thu, thay đổi để phù hợp quy định quốc tế hướng tới mục tiêu Việt Nam là thành viên của các công ước.
-Dự thảo đề xuất Bộ Giao thông Vận tải chủ trì, phối hợp Bộ Công an chịu trách nhiệm quản lý Nhà nước về đào tạo, sát hạch, cấp giấy phép lái xe; chịu trách nhiệm trước Chính phủ về chất lượng an toàn kỹ thuật và bảo vệ môi trường của xe cơ giới, xe máy chuyên dùng, phụ tùng xe cơ giới.
-Theo Thông tư 12/2017, hệ thống giấy phép lái xe tại Việt Nam hiện có 11 loại và quy định rõ chức năng, giá trị sử dụng của từng loại bằng. Trong đó, các loại bằng A1, A2 và A3 không có thời hạn.
-Hiện nay, giấy phép lái xe vật liệu PET đã được tích hợp vào VNeID để liên thông cơ sở dữ liệu quốc gia về dân cư. Trong tương lai, cơ quan chức năng sẽ kiểm soát giấy tờ có liên quan người và phương tiện thông qua VNeID.
-Hệ thống của ngành giao thông đang quản lý 55,6 triệu giấy phép lái xe, cả ôtô và xe máy. Cục Đường bộ Việt Nam ghi nhận có khoảng 23,6 triệu giấy phép lái ôtô, xe máy chưa thể tích hợp trên VNeID do không đồng bộ dữ liệu cư dân.
+Đề xuất cấp đổi 22 triệu giấy phép lái xe máy
+Giấy phép lái xe máy vật liệu bìa được cấp trước ngày 1/7/2012 phải đổi sang thẻ nhựa theo dự thảo Luật Trật tự an toàn giao thông đường bộ
+Cục Đường bộ Việt Nam cho biết hiện cả nước có khoảng 22 triệu giấy phép lái môtô không thời hạn bằng vật liệu giấy các loại bằng A1 A2 và A3 được cấp từ năm 1995 đến tháng 7/2012
+Nếu dự thảo luật được thông qua người sử dụng giấy phép lái xe này sẽ phải làm thủ tục đổi mới sang thẻ nhựa PET
+Theo ông Lương Duyên Thống Trưởng phòng Quản lý người lái và phương tiện Cục Đường bộ Việt Nam giấy phép lái xe môtô vật liệu bìa thiếu dữ liệu ngày tháng sinh số căn cước công dân nên không thể tích hợp hệ thống quản lý của Cục Đường bộ Việt Nam cũng như dữ liệu quốc gia về dân cư và tài khoản định danh điện tử VNeID
+Do đó Bộ Giao thông vận tải đã đề xuất Bộ Công an bổ sung điều khoản này vào dự thảo Luật Trật tự An toàn giao thông đường bộ
+Về lộ trình cấp đổi ông Thống cho biết Chính phủ sẽ chịu trách nhiệm xây dựng lộ trình và mức phí cấp đổi
+Hiện nay người đổi giấy phép không cần giấy khám sức khỏe hồ sơ giấy phép cũ mức phí là 135000 đồng
+Theo đại tá Nguyễn Quang Nhật Trưởng phòng Tuyên truyền Cục Cảnh sát giao thông giấy phép lái xe đổi sang dạng PET sẽ được cập nhật lên hệ thống của Cục Đường bộ Việt Nam sau đó tích hợp vào ứng dụng VNeID
+Ngoài ra tại dự thảo Luật Luật Trật tự An toàn giao thông đường bộ Bộ Công an đề xuất Chính phủ quy định chi tiết các hạng giấy phép lái xe thời hạn giấy phép
+Bộ trưởng Giao thông Vận tải quy định hình thức của giấy phép lái xe và giấy phép lái xe quốc tế trình tự thủ tục cấp và sử dụng các loại giấy phép này
+Theo đại tá Nhật Việt Nam đang sử dụng giấy phép lái xe chưa đồng bộ Công ước Viên
+Công ước quy định hạng A là xe máy hạng B là ôtô nhưng Việt Nam lại chia thành A1 A2 B1 B2
+Bởi vậy Cục Cảnh sát giao thông đã tiếp thu thay đổi để phù hợp quy định quốc tế hướng tới mục tiêu Việt Nam là thành viên của các công ước
+Dự thảo đề xuất Bộ Giao thông Vận tải chủ trì phối hợp Bộ Công an chịu trách nhiệm quản lý Nhà nước về đào tạo sát hạch cấp giấy phép lái xe chịu trách nhiệm trước Chính phủ về chất lượng an toàn kỹ thuật và bảo vệ môi trường của xe cơ giới xe máy chuyên dùng phụ tùng xe cơ giới
+Theo Thông tư 12/2017 hệ thống giấy phép lái xe tại Việt Nam hiện có 11 loại và quy định rõ chức năng giá trị sử dụng của từng loại bằng
+Trong đó các loại bằng A1 A2 và A3 không có thời hạn
+Hiện nay giấy phép lái xe vật liệu PET đã được tích hợp vào VNeID để liên thông cơ sở dữ liệu quốc gia về dân cư
+Trong tương lai cơ quan chức năng sẽ kiểm soát giấy tờ có liên quan người và phương tiện thông qua VNeID
+Hệ thống của ngành giao thông đang quản lý 556 triệu giấy phép lái xe cả ôtô và xe máy
+Cục Đường bộ Việt Nam ghi nhận có khoảng 236 triệu giấy phép lái ôtô xe máy chưa thể tích hợp trên VNeID do không đồng bộ dữ liệu cư dân
 Anh Duy - Phạm Dự
+

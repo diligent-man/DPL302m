@@ -1,11 +1,24 @@
-Lỗi nhỏ trong CV khiến ứng viên mất cơ hội tuyển dụng 
-Theo Nolan Church, cựu chuyên gia nhân sự của Google, nhiều người lao động không hề biết rằng họ bị nhà tuyển dụng từ chối vì một lỗi duy nhất: CV dài dòng.
-Chuyên gia này cho biết, hầu hết các nhà tuyển dụng sẽ nghĩ, nếu một người không thể viết được một bản CV cô đọng, đầy đủ kinh nghiệm của mình, họ khó làm được điều đó khi đi làm.
-Để soạn được một CV hoàn hảo, ứng viên cần ghi nhớ nhiều thứ như không viết sai chính tả, không viết quá hai trang, không nêu kỹ năng mơ hồ mà không có bằng chứng bổ trợ.
-"Điều số một tôi không muốn nhìn thấy trên hồ sơ là những đoạn văn bản dài", Nolan Church nói. Ông định nghĩa nó là luồng ký tự vô tận không chứa nhiều nội dung. Nếu gặp phải các hồ sơ có lỗi này, "khả năng cao là bạn không được tuyển".
-Theo Church, ông thường nhìn thấy đoạn văn bản dài bên dưới phần kinh nghiệm làm việc. "Khi mọi người mô tả những gì đang làm từ trước tới nay, họ thường không biết cách cô đọng". Mỗi kỹ năng chỉ nên gói gọn trong một dòng, nhưng thay vào đó, họ lại viết ba bốn câu cho mỗi gạch đầu dòng.
-Trong thế giới ngày nay, giao tiếp ngắn gọn, vào thẳng vấn đề rất quan trọng. Đặc biệt tại công sở, nơi mọi người thường liên lạc qua email hoặc nền tảng Slack.
-Chuyên gia chỉ ra một số cách để khắc phục. Bạn có thể dùng các công cụ như ChatGPT, Grammarly để kiểm tra chính tả, ngữ pháp và rút gọn câu. Hai chương trình đều miễn phí, dễ sử dụng. Đặc biệt, ChatGPT còn làm theo lời nhắc (prompt) của người dùng.
-Ngoài ra, bạn nên nhờ mọi người xem lại hồ sơ và chỉnh sửa. Church cho rằng ít nhất nên nhận phản hồi từ 5 đến 10 người về CV của mình. Tiếp cận những người bạn quen, thành công trong sự nghiệp và đề nghị họ đánh giá giúp.
-"Lời khuyên của tôi là tối ưu hóa bản tóm tắt để xem trong vòng 10 giây", cựu chuyên gia Google chia sẻ. Đôi khi, đó là tất cả thời gian một nhân viên nhân sự dành cho CV của bạn. Các gạch đầu dòng ngắn gọn sẽ giúp họ nắm bắt được mọi điểm quan trọng trong kinh nghiệm làm việc của ứng viên ngay lập tức.
-Huy Phương (Theo CNBC)
+Lỗi nhỏ trong CV khiến ứng viên mất cơ hội tuyển dụng
+Theo Nolan Church cựu chuyên gia nhân sự của Google nhiều người lao động không hề biết rằng họ bị nhà tuyển dụng từ chối vì một lỗi duy nhất CV dài dòng
+Chuyên gia này cho biết hầu hết các nhà tuyển dụng sẽ nghĩ nếu một người không thể viết được một bản CV cô đọng đầy đủ kinh nghiệm của mình họ khó làm được điều đó khi đi làm
+Để soạn được một CV hoàn hảo ứng viên cần ghi nhớ nhiều thứ như không viết sai chính tả không viết quá hai trang không nêu kỹ năng mơ hồ mà không có bằng chứng bổ trợ
+Điều số một tôi không muốn nhìn thấy trên hồ sơ là những đoạn văn bản dài Nolan Church nói
+Ông định nghĩa nó là luồng ký tự vô tận không chứa nhiều nội dung
+Nếu gặp phải các hồ sơ có lỗi này khả năng cao là bạn không được tuyển
+Theo Church ông thường nhìn thấy đoạn văn bản dài bên dưới phần kinh nghiệm làm việc
+Khi mọi người mô tả những gì đang làm từ trước tới nay họ thường không biết cách cô đọng
+Mỗi kỹ năng chỉ nên gói gọn trong một dòng nhưng thay vào đó họ lại viết ba bốn câu cho mỗi gạch đầu dòng
+Trong thế giới ngày nay giao tiếp ngắn gọn vào thẳng vấn đề rất quan trọng
+Đặc biệt tại công sở nơi mọi người thường liên lạc qua email hoặc nền tảng Slack
+Chuyên gia chỉ ra một số cách để khắc phục
+Bạn có thể dùng các công cụ như ChatGPT Grammarly để kiểm tra chính tả ngữ pháp và rút gọn câu
+Hai chương trình đều miễn phí dễ sử dụng
+Đặc biệt ChatGPT còn làm theo lời nhắc prompt của người dùng
+Ngoài ra bạn nên nhờ mọi người xem lại hồ sơ và chỉnh sửa
+Church cho rằng ít nhất nên nhận phản hồi từ 5 đến 10 người về CV của mình
+Tiếp cận những người bạn quen thành công trong sự nghiệp và đề nghị họ đánh giá giúp
+Lời khuyên của tôi là tối ưu hóa bản tóm tắt để xem trong vòng 10 giây cựu chuyên gia Google chia sẻ
+Đôi khi đó là tất cả thời gian một nhân viên nhân sự dành cho CV của bạn
+Các gạch đầu dòng ngắn gọn sẽ giúp họ nắm bắt được mọi điểm quan trọng trong kinh nghiệm làm việc của ứng viên ngay lập tức
+Huy Phương Theo CNBC
+

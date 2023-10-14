@@ -1,13 +1,29 @@
-Geniebook ứng dụng AI theo bốn mục tiêu giúp trẻ học hiệu quả 
-Geniebook ứng dụng AI để trẻ có thể tự vấn đáp, tóm tắt ý chính, thực hành chủ động và dành thời gian làm bài tập mỗi ngày khi sử dụng ứng dụng.
-Đại diện nền tảng chia sẻ, Geniebook thực hiện bốn mục tiêu này nhắm giúp học sinh học tập hiệu quả hơn trước mùa tựu trường. Với "tự vấn đáp", Geniebook khuyến khích trẻ diễn đạt suy nghĩ trong đầu bằng lời nói khi giải quyết vấn đề hoặc học khái niệm mới. Điều này sẽ giúp người học xác định lỗ hổng trong kiến thức, trau dồi và khả năng tư duy phản biện.
-Mục tiêu thứ hai là "tóm tắt ý chính". Theo đó, nền tảng sẽ hướng dẫn học viên xác định ý chính, cô đọng thông tin quan trọng của đoạn văn và hướng dẫn diễn đạt lại thông tin theo cách riêng. Việc này giúp trẻ hiểu ý nào quan trọng hay có thể lược bớt, đồng thời, biết cách sắp xếp nội dung mạch lạc hơn.
-Geniebook trang bị cho trẻ cách "thực hành chủ động", vận dụng kiến thức được học vào thực tế. Thực hành chủ động bao gồm các hoạt động như viết, thảo luận nhóm, thu thập và tổng hợp thông tin, đặt câu hỏi, giải quyết vấn đề. Khác với việc học thụ động, chiến lược này giúp trẻ phát triển tư duy bậc cao thông qua lồng ghép kiến thức vào thực tế.
-Cuối cùng, nền tảng thúc đẩy trẻ "dành thời gian làm bài tập mỗi ngày". Để đạt được mục tiêu học tập như kỳ vọng, học sinh cần học tập và luyện tập bền bỉ. Ba mẹ nên khuyến khích con phân bổ thời gian mỗi ngày để ôn tập và thực hành kiến thức đã học, từ đó, hiểu sâu vấn đề, hình thành bộ nhớ dài hạn.
-Để thực hiện bốn mục tiêu trên, nền tảng học trực tuyến từ Singapore sẽ đồng hành với học viên từ những ngày đầu học trêm ứng dụng. Dựa trên thuật toán thông minh, công cụ này sẽ kết nối dữ liệu của những người từng học trước kia có năng lực gần giống với học sinh mới, sau đó, chắt lọc từ hơn 300.000 câu hỏi để thiết kế bộ bài tập cá nhân hóa. Ngoài ra, ứng dụng gợi ý chủ đề người học cần tập trung học và thực hành mỗi tuần.
-Với tính năng GenieClass, học viên có thể học trực tiếp với giáo viên nước ngoài qua livestream. Đại diện đơn vị chia sẻ, các thầy cô đều có nhiều năm kinh nghiệm, trình độ chuyên môn cao, có bài giảng trực quan, trò chơi tương tác. Sau mỗi giờ học, bài giảng được lưu trên hệ thống để học sinh có thể xem lại bất kỳ lúc nào.
-"Ngay sau giờ học trên GenieClass, nếu vẫn còn thắc mắc, trẻ có thể đặt câu hỏi và nhận giải đáp từ giáo viên song ngữ (Anh-Việt) thông qua công cụ trò chuyện GenieAsk", vị đại diện nói thêm.
-Nhờ chiến lược này, Geniebook thống kê, nền tảng đã giúp hơn 90% học sinh theo học cải thiện năng lực và điểm số chỉ sau 8 bài tập. Trong đó, bạn Hoàng Quân (lớp 4 tại Geniebook) không thể tự làm bài tập trong những ngày đầu học trên nền tảng. Sau đó, với sự động viên từ Cố vấn học tập, làm bài phù hợp với năng lực, em có thể tự giải 2-3 bộ bài tập mỗi buổi học và hứng thú với việc thực hành mỗi ngày trên Geniebook.
-Tương tự, bạn Đăng Khoa (lớp 9 tại Geniebook) đã tiến bộ vượt bậc, trở thành học sinh giỏi Toán nhất trường nhờ tinh thần kỷ luật, nỗ lực thực hành với chuỗi bài tập theo năng lực của Geniennook.
-Ngoài ra, để duy trì sự hứng thú và tạo động lực cho học sinh, Geniebook tích hợp hệ thống tích điểm đổi quà không giới hạn - Bubble Store. Qua đó, trẻ có thể làm quen với việc đặt mục tiêu, chủ động học và không ngừng nỗ lực hoàn thành những điều đã đề ra.
+Geniebook ứng dụng AI theo bốn mục tiêu giúp trẻ học hiệu quả
+Geniebook ứng dụng AI để trẻ có thể tự vấn đáp tóm tắt ý chính thực hành chủ động và dành thời gian làm bài tập mỗi ngày khi sử dụng ứng dụng
+Đại diện nền tảng chia sẻ Geniebook thực hiện bốn mục tiêu này nhắm giúp học sinh học tập hiệu quả hơn trước mùa tựu trường
+Với tự vấn đáp Geniebook khuyến khích trẻ diễn đạt suy nghĩ trong đầu bằng lời nói khi giải quyết vấn đề hoặc học khái niệm mới
+Điều này sẽ giúp người học xác định lỗ hổng trong kiến thức trau dồi và khả năng tư duy phản biện
+Mục tiêu thứ hai là tóm tắt ý chính
+Theo đó nền tảng sẽ hướng dẫn học viên xác định ý chính cô đọng thông tin quan trọng của đoạn văn và hướng dẫn diễn đạt lại thông tin theo cách riêng
+Việc này giúp trẻ hiểu ý nào quan trọng hay có thể lược bớt đồng thời biết cách sắp xếp nội dung mạch lạc hơn
+Geniebook trang bị cho trẻ cách thực hành chủ động vận dụng kiến thức được học vào thực tế
+Thực hành chủ động bao gồm các hoạt động như viết thảo luận nhóm thu thập và tổng hợp thông tin đặt câu hỏi giải quyết vấn đề
+Khác với việc học thụ động chiến lược này giúp trẻ phát triển tư duy bậc cao thông qua lồng ghép kiến thức vào thực tế
+Cuối cùng nền tảng thúc đẩy trẻ dành thời gian làm bài tập mỗi ngày
+Để đạt được mục tiêu học tập như kỳ vọng học sinh cần học tập và luyện tập bền bỉ
+Ba mẹ nên khuyến khích con phân bổ thời gian mỗi ngày để ôn tập và thực hành kiến thức đã học từ đó hiểu sâu vấn đề hình thành bộ nhớ dài hạn
+Để thực hiện bốn mục tiêu trên nền tảng học trực tuyến từ Singapore sẽ đồng hành với học viên từ những ngày đầu học trêm ứng dụng
+Dựa trên thuật toán thông minh công cụ này sẽ kết nối dữ liệu của những người từng học trước kia có năng lực gần giống với học sinh mới sau đó chắt lọc từ hơn 300000 câu hỏi để thiết kế bộ bài tập cá nhân hóa
+Ngoài ra ứng dụng gợi ý chủ đề người học cần tập trung học và thực hành mỗi tuần
+Với tính năng GenieClass học viên có thể học trực tiếp với giáo viên nước ngoài qua livestream
+Đại diện đơn vị chia sẻ các thầy cô đều có nhiều năm kinh nghiệm trình độ chuyên môn cao có bài giảng trực quan trò chơi tương tác
+Sau mỗi giờ học bài giảng được lưu trên hệ thống để học sinh có thể xem lại bất kỳ lúc nào
+Ngay sau giờ học trên GenieClass nếu vẫn còn thắc mắc trẻ có thể đặt câu hỏi và nhận giải đáp từ giáo viên song ngữ Anh-Việt thông qua công cụ trò chuyện GenieAsk vị đại diện nói thêm
+Nhờ chiến lược này Geniebook thống kê nền tảng đã giúp hơn 90 học sinh theo học cải thiện năng lực và điểm số chỉ sau 8 bài tập
+Trong đó bạn Hoàng Quân lớp 4 tại Geniebook không thể tự làm bài tập trong những ngày đầu học trên nền tảng
+Sau đó với sự động viên từ Cố vấn học tập làm bài phù hợp với năng lực em có thể tự giải 2-3 bộ bài tập mỗi buổi học và hứng thú với việc thực hành mỗi ngày trên Geniebook
+Tương tự bạn Đăng Khoa lớp 9 tại Geniebook đã tiến bộ vượt bậc trở thành học sinh giỏi Toán nhất trường nhờ tinh thần kỷ luật nỗ lực thực hành với chuỗi bài tập theo năng lực của Geniennook
+Ngoài ra để duy trì sự hứng thú và tạo động lực cho học sinh Geniebook tích hợp hệ thống tích điểm đổi quà không giới hạn - Bubble Store
+Qua đó trẻ có thể làm quen với việc đặt mục tiêu chủ động học và không ngừng nỗ lực hoàn thành những điều đã đề ra
 Nhật Lệ
+
