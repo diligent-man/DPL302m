@@ -1,0 +1,318 @@
+The following is a partial list of the "C" codes for Medical Subject Headings (MeSH), as defined by the United States National Library of Medicine (NLM).
+This list continues the information at List of MeSH codes (C14). Codes following these are found at List of MeSH codes (C16). For other MeSH codes, see List of MeSH codes.
+The source for this content is the set of 2006 MeSH Trees from the NLM.
+MeSH C15.378.071.085 – anemia, aplastic
+MeSH C15.378.071.085.080 – anemia, hypoplastic, congenital
+MeSH C15.378.071.085.080.090 – anemia, diamond-blackfan
+MeSH C15.378.071.085.080.280 – fanconi anemia
+MeSH C15.378.071.141 – anemia, hemolytic
+MeSH C15.378.071.141.125 – anemia, hemolytic, autoimmune
+MeSH C15.378.071.141.150 – anemia, hemolytic, congenital
+MeSH C15.378.071.141.150.095 – anemia, dyserythropoietic, congenital
+MeSH C15.378.071.141.150.100 – anemia, hemolytic, congenital nonspherocytic
+MeSH C15.378.071.141.150.150 – anemia, sickle cell
+MeSH C15.378.071.141.150.150.440 – hemoglobin sc disease
+MeSH C15.378.071.141.150.150.670 – sickle cell trait
+MeSH C15.378.071.141.150.365 – elliptocytosis, hereditary
+MeSH C15.378.071.141.150.480 – glucosephosphate dehydrogenase deficiency
+MeSH C15.378.071.141.150.480.370 – favism
+MeSH C15.378.071.141.150.490 – hemoglobin c disease
+MeSH C15.378.071.141.150.785 – spherocytosis, hereditary
+MeSH C15.378.071.141.150.875 – thalassemia
+MeSH C15.378.071.141.150.875.100 – alpha-thalassemia
+MeSH C15.378.071.141.150.875.150 – beta-thalassemia
+MeSH C15.378.071.141.370 – favism
+MeSH C15.378.071.141.510 – hemoglobinuria
+MeSH C15.378.071.141.510.460 – hemoglobinuria, paroxysmal
+MeSH C15.378.071.141.610 – hemolytic-uremic syndrome
+MeSH C15.378.071.196 – anemia, hypochromic
+MeSH C15.378.071.196.300 – anemia, iron-deficiency
+MeSH C15.378.071.252 – anemia, macrocytic
+MeSH C15.378.071.252.196 – anemia, megaloblastic
+MeSH C15.378.071.252.196.500 – anemia, pernicious
+MeSH C15.378.071.307 – anemia, myelophthisic
+MeSH C15.378.071.363 – anemia, neonatal
+MeSH C15.378.071.363.344 – fetofetal transfusion
+MeSH C15.378.071.363.511 – fetomaternal transfusion
+MeSH C15.378.071.400 – anemia, refractory
+MeSH C15.378.071.400.080 – anemia, refractory, with excess of blasts
+MeSH C15.378.071.419 – anemia, sideroblastic
+MeSH C15.378.071.750 – red-cell aplasia, pure
+MeSH C15.378.071.750.500 – anemia, diamond-blackfanMeSH C15.378.100.141 – coagulation protein disorders
+MeSH C15.378.100.141.036 – activated protein c resistance
+MeSH C15.378.100.141.072 – afibrinogenemia
+MeSH C15.378.100.141.300 – factor v deficiency
+MeSH C15.378.100.141.310 – factor vii deficiency
+MeSH C15.378.100.141.320 – factor x deficiency
+MeSH C15.378.100.141.325 – factor xi deficiency
+MeSH C15.378.100.141.330 – factor xii deficiency
+MeSH C15.378.100.141.335 – factor xiii deficiency
+MeSH C15.378.100.141.500 – hemophilia a
+MeSH C15.378.100.141.510 – hemophilia b
+MeSH C15.378.100.141.550 – hypoprothrombinemias
+MeSH C15.378.100.141.900 – von willebrand disease
+MeSH C15.378.100.220 – disseminated intravascular coagulation
+MeSH C15.378.100.425 – blood coagulation disorders, inherited
+MeSH C15.378.100.425.037 – activated protein c resistance
+MeSH C15.378.100.425.056 – afibrinogenemia
+MeSH C15.378.100.425.075 – antithrombin iii deficiency
+MeSH C15.378.100.425.080 – bernard-soulier syndrome
+MeSH C15.378.100.425.300 – factor v deficiency
+MeSH C15.378.100.425.310 – factor vii deficiency
+MeSH C15.378.100.425.320 – factor x deficiency
+MeSH C15.378.100.425.325 – factor xi deficiency
+MeSH C15.378.100.425.330 – factor xii deficiency
+MeSH C15.378.100.425.335 – factor xiii deficiency
+MeSH C15.378.100.425.500 – hemophilia a
+MeSH C15.378.100.425.510 – hemophilia b
+MeSH C15.378.100.425.515 – hermanski-pudlak syndrome
+MeSH C15.378.100.425.550 – hypoprothrombinemias
+MeSH C15.378.100.425.690 – protein c deficiency
+MeSH C15.378.100.425.820 – thrombasthenia
+MeSH C15.378.100.425.900 – von willebrand disease
+MeSH C15.378.100.425.970 – wiskott-aldrich syndrome
+MeSH C15.378.100.685 – platelet storage pool deficiency
+MeSH C15.378.100.685.400 – hermanski-pudlak syndrome
+MeSH C15.378.100.800 – protein s deficiency
+MeSH C15.378.100.802 – purpura
+MeSH C15.378.100.802.250 – purpura, hyperglobulinemic
+MeSH C15.378.100.802.375 – purpura, schoenlein-henoch
+MeSH C15.378.100.802.500 – purpura, thrombocytopenic
+MeSH C15.378.100.805 – purpura, thrombocytopenic
+MeSH C15.378.100.805.600 – purpura, thrombocytopenic, idiopathic
+MeSH C15.378.100.805.680 – purpura, thrombotic thrombocytopenic
+MeSH C15.378.100.805.972 – wiskott-aldrich syndrome
+MeSH C15.378.100.832 – thrombocythemia, hemorrhagic
+MeSH C15.378.100.920 – vitamin k deficiency
+MeSH C15.378.100.920.360 – hemorrhagic disease of newbornMeSH C15.378.120.413 – erythroblastosis, fetal
+MeSH C15.378.120.413.480 – hydrops fetalis
+MeSH C15.378.120.413.502 – kernicterus
+MeSH C15.378.120.780 – rh isoimmunizationMeSH C15.378.140.120 – bernard-soulier syndrome
+MeSH C15.378.140.735 – platelet storage pool deficiency
+MeSH C15.378.140.735.400 – hermanski-pudlak syndrome
+MeSH C15.378.140.810 – thrombasthenia
+MeSH C15.378.140.855 – thrombocytopenia
+MeSH C15.378.140.855.313 – hemolytic-uremic syndrome
+MeSH C15.378.140.855.700 – purpura, thrombocytopenic
+MeSH C15.378.140.855.700.600 – purpura, thrombocytopenic, idiopathic
+MeSH C15.378.140.855.700.680 – purpura, thrombotic thrombocytopenic
+MeSH C15.378.140.855.700.972 – wiskott-aldrich syndrome
+MeSH C15.378.140.860 – thrombocytosis
+MeSH C15.378.140.860.800 – thrombocythemia, hemorrhagic
+MeSH C15.378.140.900 – von willebrand diseaseMeSH C15.378.147.068 – abetalipoproteinemia
+MeSH C15.378.147.142 – agammaglobulinemia
+MeSH C15.378.147.150 – antithrombin iii deficiency
+MeSH C15.378.147.333 – dysgammaglobulinemia
+MeSH C15.378.147.333.500 – iga deficiency
+MeSH C15.378.147.333.750 – igg deficiency
+MeSH C15.378.147.542 – hypergammaglobulinemia
+MeSH C15.378.147.542.640 – monoclonal gammopathies, benign
+MeSH C15.378.147.607 – hypoproteinemia
+MeSH C15.378.147.607.500 – hypoalbuminemia
+MeSH C15.378.147.780 – paraproteinemias
+MeSH C15.378.147.780.243 – cryoglobulinemia
+MeSH C15.378.147.780.490 – heavy chain disease
+MeSH C15.378.147.780.490.512 – immunoproliferative small intestinal disease
+MeSH C15.378.147.780.650 – multiple myeloma
+MeSH C15.378.147.780.750 – poems syndrome
+MeSH C15.378.147.780.925 – waldenstrom macroglobulinemia
+MeSH C15.378.147.880 – protein c deficiency
+MeSH C15.378.147.890 – protein s deficiencyMeSH C15.378.190.196 – anemia, aplastic
+MeSH C15.378.190.196.080 – anemia, hypoplastic, congenital
+MeSH C15.378.190.196.080.090 – anemia, diamond-blackfan
+MeSH C15.378.190.196.080.280 – fanconi anemia
+MeSH C15.378.190.250 – bone marrow neoplasms
+MeSH C15.378.190.625 – myelodysplastic syndromes
+MeSH C15.378.190.625.062 – anemia, refractory
+MeSH C15.378.190.625.062.080 – anemia, refractory, with excess of blasts
+MeSH C15.378.190.625.070 – anemia, sideroblastic
+MeSH C15.378.190.625.460 – hemoglobinuria, paroxysmal
+MeSH C15.378.190.625.543 – leukemia, myeloid
+MeSH C15.378.190.636 – myeloproliferative disorders
+MeSH C15.378.190.636.085 – anemia, myelophthisic
+MeSH C15.378.190.636.276 – leukemia, erythroblastic, acute
+MeSH C15.378.190.636.484 – leukemoid reaction
+MeSH C15.378.190.636.581 – myelofibrosis
+MeSH C15.378.190.636.636 – myeloid metaplasia
+MeSH C15.378.190.636.753 – polycythemia vera
+MeSH C15.378.190.636.860 – thrombocytosis
+MeSH C15.378.190.636.860.800 – thrombocythemia, hemorrhagicMeSH C15.378.400.200 – bone marrow neoplasmsMeSH C15.378.420.155 – anemia, sickle cell
+MeSH C15.378.420.155.440 – hemoglobin sc disease
+MeSH C15.378.420.155.668 – sickle cell trait
+MeSH C15.378.420.463 – hemoglobin c disease
+MeSH C15.378.420.826 – thalassemia
+MeSH C15.378.420.826.100 – alpha-thalassemia
+MeSH C15.378.420.826.100.350 – hydrops fetalis
+MeSH C15.378.420.826.150 – beta-thalassemiaMeSH C15.378.463.067 – afibrinogenemia
+MeSH C15.378.463.080 – bernard-soulier syndrome
+MeSH C15.378.463.250 – disseminated intravascular coagulation
+MeSH C15.378.463.300 – factor v deficiency
+MeSH C15.378.463.310 – factor vii deficiency
+MeSH C15.378.463.320 – factor x deficiency
+MeSH C15.378.463.325 – factor xi deficiency
+MeSH C15.378.463.330 – factor xii deficiency
+MeSH C15.378.463.335 – factor xiii deficiency
+MeSH C15.378.463.500 – hemophilia a
+MeSH C15.378.463.510 – hemophilia b
+MeSH C15.378.463.550 – hypoprothrombinemias
+MeSH C15.378.463.735 – platelet storage pool deficiency
+MeSH C15.378.463.735.400 – hermanski-pudlak syndrome
+MeSH C15.378.463.740 – purpura, thrombocytopenic, idiopathic
+MeSH C15.378.463.810 – thrombasthenia
+MeSH C15.378.463.825 – thrombocythemia, hemorrhagic
+MeSH C15.378.463.835 – vascular hemostatic disorders
+MeSH C15.378.463.835.140 – cryoglobulinemia
+MeSH C15.378.463.835.240 – ehlers-danlos syndrome
+MeSH C15.378.463.835.385 – hemangioma, cavernous
+MeSH C15.378.463.835.385.500 – hemangioma, cavernous, central nervous system
+MeSH C15.378.463.835.460 – multiple myeloma
+MeSH C15.378.463.835.530 – pseudoxanthoma elasticum
+MeSH C15.378.463.835.550 – purpura, hyperglobulinemic
+MeSH C15.378.463.835.580 – purpura, schoenlein-henoch
+MeSH C15.378.463.835.800 – scurvy
+MeSH C15.378.463.835.810 – shwartzman phenomenon
+MeSH C15.378.463.835.900 – telangiectasia, hereditary hemorrhagic
+MeSH C15.378.463.835.960 – waldenstrom macroglobulinemia
+MeSH C15.378.463.841 – vitamin k deficiency
+MeSH C15.378.463.841.464 – hemorrhagic disease of newborn
+MeSH C15.378.463.920 – von willebrand disease
+MeSH C15.378.463.950 – waterhouse-friderichsen syndrome
+MeSH C15.378.463.960 – wiskott-aldrich syndromeMeSH C15.378.553.231 – eosinophilia
+MeSH C15.378.553.231.085 – angiolymphoid hyperplasia with eosinophilia
+MeSH C15.378.553.231.335 – eosinophilia-myalgia syndrome
+MeSH C15.378.553.231.348 – eosinophilic granuloma
+MeSH C15.378.553.231.549 – hypereosinophilic syndrome
+MeSH C15.378.553.231.549.750 – pulmonary eosinophilia
+MeSH C15.378.553.381 – infectious mononucleosis
+MeSH C15.378.553.475 – leukocytosis
+MeSH C15.378.553.475.428 – leukemoid reaction
+MeSH C15.378.553.475.604 – lymphocytosis
+MeSH C15.378.553.546 – leukopenia
+MeSH C15.378.553.546.184 – agranulocytosis
+MeSH C15.378.553.546.184.564 – neutropenia
+MeSH C15.378.553.546.605 – lymphopenia
+MeSH C15.378.553.546.605.800 – t-lymphocytopenia, idiopathic cd4-positive
+MeSH C15.378.553.560 – leukostasis
+MeSH C15.378.553.696 – pelger-huet anomaly
+MeSH C15.378.553.774 – phagocyte bactericidal dysfunction
+MeSH C15.378.553.774.257 – chediak-higashi syndrome
+MeSH C15.378.553.774.535 – granulomatous disease, chronic
+MeSH C15.378.553.774.600 – job's syndromeMeSH C15.378.925.050 – activated protein c resistance
+MeSH C15.378.925.075 – antithrombin iii deficiency
+MeSH C15.378.925.220 – disseminated intravascular coagulation
+MeSH C15.378.925.795 – protein c deficiency
+MeSH C15.378.925.800 – protein s deficiency
+MeSH C15.378.925.850 – purpura, thrombotic thrombocytopenicMeSH C15.604.315.249 – cat-scratch disease
+MeSH C15.604.315.300 – histiocytic necrotizing lymphadenitis
+MeSH C15.604.315.618 – mesenteric lymphadenitis
+MeSH C15.604.315.809 – tuberculosis, lymph nodeMeSH C15.604.360.500 – lymphangiectasis, intestinalMeSH C15.604.451.500 – lymphangiectasis, intestinalMeSH C15.604.496.320 – elephantiasis
+MeSH C15.604.496.320.350 – elephantiasis, filarialMeSH C15.604.515.032 – agammaglobulinemia
+MeSH C15.604.515.245 – giant lymph node hyperplasia
+MeSH C15.604.515.292 – granuloma
+MeSH C15.604.515.292.007 – angiolymphoid hyperplasia with eosinophilia
+MeSH C15.604.515.292.015 – Churg–Strauss syndrome
+MeSH C15.604.515.435 – heavy chain disease
+MeSH C15.604.515.435.512 – immunoproliferative small intestinal disease
+MeSH C15.604.515.509 – immunoblastic lymphadenopathy
+MeSH C15.604.515.516 – infectious mononucleosis
+MeSH C15.604.515.553 – leukemia, hairy cell
+MeSH C15.604.515.560 – leukemia, lymphocytic
+MeSH C15.604.515.561 – leukemia, myeloid
+MeSH C15.604.515.561.550 – leukemia, nonlymphocytic, acute
+MeSH C15.604.515.561.550.512 – leukemia, myelocytic, acute
+MeSH C15.604.515.562 – lymphangiomyoma
+MeSH C15.604.515.562.465 – lymphangioleiomyomatosis
+MeSH C15.604.515.569 – lymphoma
+MeSH C15.604.515.569.355 – hodgkin disease
+MeSH C15.604.515.569.480 – lymphoma, non-hodgkin
+MeSH C15.604.515.569.480.150 – lymphoma, b-cell
+MeSH C15.604.515.569.480.150.165 – burkitt lymphoma
+MeSH C15.604.515.569.480.150.450 – lymphoma, aids-related
+MeSH C15.604.515.569.480.150.570 – lymphoma, mucosa-associated lymphoid tissue
+MeSH C15.604.515.569.480.150.700 – lymphoma, small-cell
+MeSH C15.604.515.569.480.300 – lymphoma, diffuse
+MeSH C15.604.515.569.480.300.300 – lymphoma, large-cell, diffuse
+MeSH C15.604.515.569.480.300.450 – lymphoma, large-cell, immunoblastic
+MeSH C15.604.515.569.480.300.475 – lymphoma, lymphoblastic
+MeSH C15.604.515.569.480.300.500 – lymphoma, mixed-cell, diffuse
+MeSH C15.604.515.569.480.300.725 – lymphoma, small cleaved-cell, diffuse
+MeSH C15.604.515.569.480.300.725.500 – lymphoma, mantle-cell
+MeSH C15.604.515.569.480.300.750 – lymphoma, small lymphocytic
+MeSH C15.604.515.569.480.300.775 – lymphoma, small noncleaved-cell
+MeSH C15.604.515.569.480.350 – lymphoma, follicular
+MeSH C15.604.515.569.480.350.350 – lymphoma, large-cell, follicular
+MeSH C15.604.515.569.480.350.525 – lymphoma, mixed-cell, follicular
+MeSH C15.604.515.569.480.350.750 – lymphoma, small cleaved-cell, follicular
+MeSH C15.604.515.569.480.425 – lymphoma, high-grade
+MeSH C15.604.515.569.480.425.450 – lymphoma, large-cell, immunoblastic
+MeSH C15.604.515.569.480.425.475 – lymphoma, lymphoblastic
+MeSH C15.604.515.569.480.425.775 – lymphoma, small noncleaved-cell
+MeSH C15.604.515.569.480.425.775.165 – burkitt lymphoma
+MeSH C15.604.515.569.480.450 – lymphoma, intermediate-grade
+MeSH C15.604.515.569.480.450.300 – lymphoma, large-cell, diffuse
+MeSH C15.604.515.569.480.450.350 – lymphoma, large-cell, follicular
+MeSH C15.604.515.569.480.450.500 – lymphoma, mixed-cell, diffuse
+MeSH C15.604.515.569.480.450.725 – lymphoma, small cleaved-cell, diffuse
+MeSH C15.604.515.569.480.450.725.500 – lymphoma, mantle-cell
+MeSH C15.604.515.569.480.475 – lymphoma, large-cell
+MeSH C15.604.515.569.480.475.300 – lymphoma, large-cell, diffuse
+MeSH C15.604.515.569.480.475.350 – lymphoma, large-cell, follicular
+MeSH C15.604.515.569.480.475.450 – lymphoma, large-cell, immunoblastic
+MeSH C15.604.515.569.480.475.465 – lymphoma, large-cell, ki-1
+MeSH C15.604.515.569.480.475.475 – lymphoma, lymphoblastic
+MeSH C15.604.515.569.480.500 – lymphoma, low-grade
+MeSH C15.604.515.569.480.500.525 – lymphoma, mixed-cell, follicular
+MeSH C15.604.515.569.480.500.570 – lymphoma, mucosa-associated lymphoid tissue
+MeSH C15.604.515.569.480.500.750 – lymphoma, small cleaved-cell, follicular
+MeSH C15.604.515.569.480.500.770 – lymphoma, small lymphocytic
+MeSH C15.604.515.569.480.550 – lymphoma, mixed-cell
+MeSH C15.604.515.569.480.550.500 – lymphoma, mixed-cell, diffuse
+MeSH C15.604.515.569.480.550.525 – lymphoma, mixed-cell, follicular
+MeSH C15.604.515.569.480.700 – lymphoma, small-cell
+MeSH C15.604.515.569.480.700.725 – lymphoma, small cleaved-cell, diffuse
+MeSH C15.604.515.569.480.700.725.500 – lymphoma, mantle-cell
+MeSH C15.604.515.569.480.700.730 – lymphoma, small cleaved-cell, follicular
+MeSH C15.604.515.569.480.700.750 – lymphoma, small lymphocytic
+MeSH C15.604.515.569.480.700.775 – lymphoma, small noncleaved-cell
+MeSH C15.604.515.569.480.750 – lymphoma, t-cell
+MeSH C15.604.515.569.480.750.475 – lymphoma, lymphoblastic
+MeSH C15.604.515.569.480.750.800 – lymphoma, t-cell, cutaneous
+MeSH C15.604.515.569.480.750.800.465 – lymphoma, large-cell, ki-1
+MeSH C15.604.515.569.480.750.800.550 – mycosis fungoides
+MeSH C15.604.515.569.480.750.800.775 – sezary syndrome
+MeSH C15.604.515.569.480.750.825 – lymphoma, t-cell, peripheral
+MeSH C15.604.515.569.480.875 – lymphoma, undifferentiated
+MeSH C15.604.515.569.480.875.300 – lymphoma, large-cell, diffuse
+MeSH C15.604.515.569.480.875.775 – lymphoma, small noncleaved-cell
+MeSH C15.604.515.569.480.875.775.165 – burkitt lymphoma
+MeSH C15.604.515.571 – lymphomatoid granulomatosis
+MeSH C15.604.515.700 – marek disease
+MeSH C15.604.515.827 – sarcoidosis
+MeSH C15.604.515.827.725 – sarcoidosis, pulmonary
+MeSH C15.604.515.827.865 – uveoparotid fever
+MeSH C15.604.515.841 – sezary syndrome
+MeSH C15.604.515.880 – tumor lysis syndrome
+MeSH C15.604.515.925 – waldenstrom macroglobulinemiaMeSH C15.604.667.358 – gaucher disease
+MeSH C15.604.667.400 – histiocytosis
+MeSH C15.604.667.400.390 – histiocytic disorders, malignant
+MeSH C15.604.667.400.390.400 – histiocytosis, malignant
+MeSH C15.604.667.400.390.500 – leukemia, monocytic, acute
+MeSH C15.604.667.400.390.550 – lymphoma, large-cell
+MeSH C15.604.667.400.390.550.465 – lymphoma, large-cell, ki-1
+MeSH C15.604.667.400.400 – histiocytosis, langerhans-cell
+MeSH C15.604.667.400.400.360 – eosinophilic granuloma
+MeSH C15.604.667.400.410 – histiocytosis, non-langerhans-cell
+MeSH C15.604.667.400.410.224 – erdheim-chester disease
+MeSH C15.604.667.400.410.450 – histiocytosis, sinus
+MeSH C15.604.667.400.410.575 – lymphohistiocytosis, hemophagocytic
+MeSH C15.604.667.400.410.625 – niemann-pick diseases
+MeSH C15.604.667.400.410.800 – sea-blue histiocyte syndrome
+MeSH C15.604.667.400.410.900 – xanthogranuloma, juvenile
+MeSH C15.604.667.750 – mast-cell sarcomaMeSH C15.604.744.293 – hypersplenism
+MeSH C15.604.744.428 – myeloid metaplasia
+MeSH C15.604.744.617 – splenic infarction
+MeSH C15.604.744.680 – splenic neoplasms
+MeSH C15.604.744.742 – splenic rupture
+MeSH C15.604.744.742.500 – splenosis
+MeSH C15.604.744.909 – tuberculosis, splenic
+MeSH C15.604.744.954 – wandering spleenMeSH C15.604.921.500 – king's evilThe list continues at List of MeSH codes (C16).
