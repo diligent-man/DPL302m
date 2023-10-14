@@ -4,8 +4,7 @@ from utils import create_dir
 from utils import get_urls_of_type, article_type_dict
 from urls_crawler import crawl_urls
 
-
-def _init_dirs(output_dpath):
+  utput_dpath):
     create_dir(output_dpath)
 
     urls_dpath = "/".join([output_dpath, "urls"])
