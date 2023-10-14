@@ -127,9 +127,12 @@ def conv_forward(prev_A: np.ndarray, W: np.ndarray, b: np.ndarray,
         for h in range(n_H):
             for w in range(n_W):
                 for c in range(n_C):
+                    upper_left = h * stride
+                    lower_right = w * stride + f
+
                     # Calculate slider area
-                    slider_tensor = prev_padded_a[h * stride: h * stride + f,
-                                                  w * stride: w * stride + f, :]
+                    slider_tensor = prev_padded_a[upper_left: upper_left + f,
+                                                  lower_right - f: lower_right, :]
 
                     weights = W[:, :, :, c]
                     biases = b[:, :, :, c]
@@ -167,12 +170,12 @@ def pool_forward(prev_A: np.ndarray, hyperparas: dict, mode = "max") -> tuple:
         cache
     """
     (m, prev_n_H, prev_n_W, prev_n_C) = prev_A.shape
-    filter_size = hyperparas["f"]
+    f = hyperparas["f"]
     stride = hyperparas["stride"]
     
     # Define the dimensions of the output
-    n_H = 1 + (prev_n_H - filter_size) // stride
-    n_W = 1 + (prev_n_W - filter_size) // stride
+    n_H = 1 + (prev_n_H - f) // stride
+    n_W = 1 + (prev_n_W - f) // stride
     n_C = prev_n_C
     
     # Initialize output
@@ -183,8 +186,11 @@ def pool_forward(prev_A: np.ndarray, hyperparas: dict, mode = "max") -> tuple:
         for h in range(n_H):
             for w in range(n_W):
                 for c in range(n_C):
-                    slider_tensor = prev_A[i, h * stride: h * stride + filter_size,
-                                              w * stride: w * stride + filter_size, c]
+                    upper_left = h * stride
+                    lower_right = w * stride + f
+
+                    slider_tensor = prev_A[i, upper_left: upper_left + f,
+                                              lower_right - f: lower_right, c]
                     
                     if mode == "max":
                         A[i, h, w, c] = np.max(slider_tensor)
@@ -239,12 +245,12 @@ def Exercise_4() -> None:
 def conv_backward(dZ: np.ndarray, cache: list) -> tuple:
     """
     Inp
-        dZ: grad of the cost w.r.t output of conv layer Z,
+        dZ: grad of cost w.r.t output of conv layer Z,
             -> (m, n_H, n_W, n_C)
-        cache
+        cache: output from conv_forward of Z
         
     Out
-        prev_dA: grad of cost w.r.t inp of prev_A_prev
+        prev_dA: grad of cost w.r.t prev_A
             -> (m, prev_n_H, prev_n_W, prev_n_C)
 
         dW: (f, f, prev_n_C, n_C)
@@ -263,7 +269,7 @@ def conv_backward(dZ: np.ndarray, cache: list) -> tuple:
     dW = np.zeros((f, f, prev_n_C, n_C))
     db = np.zeros((1, 1, 1, n_C))
     
-    # Padding prev_A and prev_dA
+    # Padding
     prev_padded_A = zero_pad(prev_A, padding_size)
     prev_padded_dA = zero_pad(prev_dA, padding_size)
 
@@ -273,17 +279,24 @@ def conv_backward(dZ: np.ndarray, cache: list) -> tuple:
         prev_padded_da = prev_padded_dA[i]
 
         for h in range(n_H):
-           for w in range(n_W):
-               for c in range(n_C):
-                    slider_tensor = prev_padded_a[h * stride: h * stride + f,
-                                                  w * stride: w * stride + f, :]
-                    # Update grad
-                    prev_padded_da[h * stride: h * stride + f,
-                                   w * stride: w * stride + f, :] += W[:, :, :, c] * dZ[i, h, w, c]
+            for w in range(n_W):
+                for c in range(n_C):
+                    upper_left = h * stride
+                    lower_right = w * stride + f
+
+                    slider_tensor = prev_padded_a[upper_left : upper_left + f,
+                                                  lower_right - f : lower_right,
+                                                  :]
+
+                    # Update grads for window and the filter's paras
+                    prev_padded_da[upper_left: upper_left + f,
+                                   lower_right - f: lower_right, :] +=\
+                    W[:, :, :, c] * dZ[i, h, w, c]
+                    
                     dW[:, :, :, c] += slider_tensor * dZ[i, h, w, c]
                     db[:, :, :, c] += dZ[i, h, w, c]
-                    
-        # Set i_th example's prev_dA to the unpadded prev_da
+
+        # Set i_th example's prev_dA to previous tensor
         prev_dA[i] = prev_padded_da[padding_size: -padding_size,
                                     padding_size: -padding_size, :]
     return prev_dA, dW, db
@@ -291,36 +304,28 @@ def conv_backward(dZ: np.ndarray, cache: list) -> tuple:
 
 def Exercise_5() -> None:
     np.random.seed(1)
-    
-    prev_A = np.random.randn(10, 4, 4, 3)
-    W = np.random.randn(2, 2, 3, 8)
-    b = np.random.randn(1, 1, 1, 8)
-    hyperparas = {"padding_size" : 2, "stride": 2}
+    # contrived init
+    prev_A = np.random.randn(1, 2, 2, 1)
+    W = np.random.randn(2, 2, 1, 2)
+    b = np.random.randn(1, 1, 1, 2)
+    hyperparas = {"padding_size" : 1, "stride": 1}
     
     # feed forward
     Z, cache = conv_forward(prev_A, W, b, hyperparas)
 
     # backprop
     dA, dW, db = conv_backward(Z, cache)
-    
-    print("dA_mean =", np.mean(dA), 'shape=', dA.shape)
-    print("dW_mean =", np.mean(dW), 'shape=', dW.shape)
-    print("db_mean =", np.mean(db), 'shape=', db.shape)
     return None
 
-######################################################################################
 
-
+################################################################################
 def create_mask_from_window(x):
     """
-    Creates a mask from an input matrix x, to identify the max entry of x.
-    
-    Inp: x - Array of shape (f, f)
-    Out: mask - Array of the same shape as window,
-                contains a True at the position corresponding to the max entry of x.
+    Inp: x - (f, f)
+
+    Out: mask - arr contains pos of max val
     """
-    mask = x == np.max(x)
-    return mask
+    return x == np.max(x)
 
 
 def Exercise_6() -> None:
@@ -336,11 +341,11 @@ def Exercise_6() -> None:
     return None
 
 
-######################################################################################
-def distribute_value(dz, shape):
+################################################################################
+def distribute_value(dz, filter_shape):
     """
-    Distributes the input value in the matrix of dimension shape
-    
+    This func is used for avg pooling that equally spreads influence of surrounding values
+
     Inp
         dz: inp scalar
         shape: which we want to distribute the value of dz
@@ -349,11 +354,10 @@ def distribute_value(dz, shape):
     Out
         a: which we distributed the value of dz
             -> (n_H, n_W)
-    """    
-    (n_H, n_W) = shape
-    average = np.ones(shape) / np.multiply(*shape)
-    a = dz * average
-    return a
+    """
+    n_H, n_W = filter_shape
+    average = np.ones(filter_shape) / np.multiply(n_H, n_W)
+    return dz * average
 
 
 def Exercise_7() -> None:
@@ -363,20 +367,20 @@ def Exercise_7() -> None:
     return None
 
 
-##########################################################################################
+################################################################################
 def pool_backward(dA, cache, mode = "max"):
     """
     Inp
-        dA: grad of w.r.t out of the pooling layer, same shape as A
-        cache: tuple contains the layer's input and hyperparas
+        dA: grad of w.r.t output of the pooling layer
+        cache
         mode: max | average
     
     Out
-        prev_dA: grad of cost w.r.t  input pooling layer, same shape as prev_A
+        prev_dA: grad of cost w.r.t input pooling layer, same shape as prev_A
     """
     prev_A, hyperparas = cache
     stride = hyperparas["stride"]
-    filter_size = hyperparas["f"]
+    f = hyperparas["f"]
     
     m, prev_n_H, prev_n_W, prev_n_C = prev_A.shape
     m, n_H, n_W, n_C = dA.shape
@@ -385,40 +389,59 @@ def pool_backward(dA, cache, mode = "max"):
 
     for i in range(m):
         prev_a = prev_A[i]
+
         for h in range(n_H):
             for w in range(n_W):
                 for c in range(n_C):
-                    vert_start = h * stride
-                    vert_end = vert_start + filter_size
-                    horiz_start = w * stride
-                    horiz_end = horiz_start + filter_size
+                    upper_left = h * stride
+                    lower_right = w * stride + f
                     
                     # Compute the backward propagation in both modes.
                     if mode == "max":
-                        slider_tensor = prev_a[h * stride: h * stride + f,
-                                               w * stride: w * stride + f, c]
+                        slider_tensor = prev_a[upper_left: upper_left + f,
+                                               lower_right - f: lower_right, c]
 
                         mask = create_mask_from_window(slider_tensor)
 
-                        # Set prev_dA to be prev_dA + (the mask multiplied by the correct entry of dA)
-                        prev_dA[i, h * stride: h * stride + filter_size,
-                                 , h * stride: h * stride + filter_size, c] += dA[i, h, w, c] * mask
+                        prev_dA[i, upper_left: upper_left + f
+                                 , lower_right - f: lower_right, c] += dA[i, h, w, c] * mask
                         
                     elif mode == "average":
                         da = dA[i, h, w, c]
-                        
-                        # Define the shape of the filter
-                        shape = (filter_size, filter_size)
 
-                        # Distribute it to get the correct slice of dA_prev. i.e. Add the distributed value of da. (≈1 line)
-                        dA_prev[i, vert_start: vert_end, horiz_start: horiz_end, c] += distribute_value(da, shape)
-    return dA_prev
+                        prev_dA[i, upper_left: upper_left + f,
+                                   lower_right - f: lower_right, c] += distribute_value(da, (f, f))
+    return prev_dA
 
 
 def Exercise_8() -> None:
+    np.random.seed(1)
+
+    # contrived init
+    prev_A = np.random.randn(5, 5, 3, 2)
+    dA = np.random.randn(5, 4, 2, 2)
+    
+    hyperparas = {"stride" : 1, "f": 2}
+    A, cache = pool_forward(prev_A, hyperparas)
+    
+
+    # Test backprop max pooling    
+    dA_prev1 = pool_backward(dA, cache, mode = "max")
+    print("mode = max")
+    print('mean of dA = ', np.mean(dA))
+    print('dA_prev1[1,1] = ', dA_prev1[1, 1])  
+    print()
+
+
+    # Test backprop avg pooling
+    dA_prev2 = pool_backward(dA, cache, mode = "average")
+    print("mode = average")
+    print('mean of dA = ', np.mean(dA))
+    print('dA_prev2[1,1] = ', dA_prev2[1, 1])
     return None
 
-##########################################################################################
+
+################################################################################
 def main() -> None:
     """
     Convolution funcs:
@@ -442,6 +465,7 @@ def main() -> None:
     # Exercise_5()
     # Exercise_6()
     # Exercise_7()
+    # Exercise_8()
     return None
 
 
