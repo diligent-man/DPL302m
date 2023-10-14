@@ -4,24 +4,24 @@ import tensorflow as tf
 import h5py
 import math
 
-def load_dataset():
-    train_dataset = h5py.File('datasets/train_signs.h5', "r")
-    train_set_x_orig = np.array(train_dataset["train_set_x"][:]) # your train set features
-    train_set_y_orig = np.array(train_dataset["train_set_y"][:]) # your train set labels
-
-    test_dataset = h5py.File('datasets/test_signs.h5', "r")
-    test_set_x_orig = np.array(test_dataset["test_set_x"][:]) # your test set features
-    test_set_y_orig = np.array(test_dataset["test_set_y"][:]) # your test set labels
-
-    classes = np.array(test_dataset["list_classes"][:]) # the list of classes
+def load_dataset(train_filename, test_filename) -> tuple:
+    train = h5py.File(train_filename, 'r')
+    test = h5py.File(test_filename, 'r')
     
-    train_set_y_orig = train_set_y_orig.reshape((1, train_set_y_orig.shape[0]))
-    test_set_y_orig = test_set_y_orig.reshape((1, test_set_y_orig.shape[0]))
+    x_train = np.array(train["train_set_x"][:])
+    y_train = np.array(train["train_set_y"][:])
+
+    x_test = np.array(test["test_set_x"][:])
+    y_test = np.array(test["test_set_y"][:])
+
+    y_train = y_train.reshape((1, y_train.shape[0]))
+    y_test = y_test.reshape((1, y_test.shape[0]))
     
-    return train_set_x_orig, train_set_y_orig, test_set_x_orig, test_set_y_orig, classes
+    classes = np.array(test["list_classes"][:])    
+    return x_train, y_train, x_test, y_test, classes
 
 
-def random_mini_batches(X, Y, mini_batch_size = 64, seed = 0):
+def rand_mini_batches(X, Y, mini_batch_size = 64, seed = 0):
     """
     Creates a list of random minibatches from (X, Y)
     
@@ -62,8 +62,8 @@ def random_mini_batches(X, Y, mini_batch_size = 64, seed = 0):
     return mini_batches
 
 
-def convert_to_one_hot(Y, C):
-    Y = np.eye(C)[Y.reshape(-1)].T
+def OHE(Y, num_of_class):
+    Y = np.eye(num_of_class)[Y.reshape(-1)].T
     return Y
 
 
@@ -93,11 +93,10 @@ def forward_propagation_for_predict(X, parameters):
     Z2 = tf.add(tf.matmul(W2, A1), b2)                     # Z2 = np.dot(W2, a1) + b2
     A2 = tf.nn.relu(Z2)                                    # A2 = relu(Z2)
     Z3 = tf.add(tf.matmul(W3, A2), b3)                     # Z3 = np.dot(W3,Z2) + b3
-    
     return Z3
 
-def predict(X, parameters):
-    
+
+def predict(X, parameters):    
     W1 = tf.convert_to_tensor(parameters["W1"])
     b1 = tf.convert_to_tensor(parameters["b1"])
     W2 = tf.convert_to_tensor(parameters["W2"])
