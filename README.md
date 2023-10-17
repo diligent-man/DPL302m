@@ -1,5 +1,5 @@
 # DPL302m
-## Repo structure: 6 branches + 1 main branch
+## Repo structure: 6 official branches + 1 main branch
 ## Repo purpose:
 a/ 6 branches is going to be used for storing code of lab from [Deep leaning specialization](https://www.coursera.org/programs/fptu-fall-2023-zb3r7/specializations/deep-learning)</br>
 b/ Main branch is going to be used for tracking final project of subject DPL302m

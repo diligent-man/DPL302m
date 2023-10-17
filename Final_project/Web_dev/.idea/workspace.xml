@@ -4,7 +4,92 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b3de58d-cf72-478e-90f8-4c03b034ff9d" name="Changes" comment="" />
+    <list default="true" id="2b3de58d-cf72-478e-90f8-4c03b034ff9d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/DPL302m.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Data_preping/Vocab_list/en_wordlist/En370K.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Data_preping/Vocab_list/vn_wordlist/Viet11K.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Data_preping/Vocab_list/vn_wordlist/Viet22K.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Data_preping/Vocab_list/vn_wordlist/Viet39K.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Data_preping/Vocab_list/vn_wordlist/Viet74K.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Solution_note.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/DPL302m.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/about.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/mediaquerries.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/mystyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/pic2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/textarea_style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wrong_word_generator/wrong_word_generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task_breaking.emmx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task_breaking.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Papers/ABB-BERT model for disambiguating abbreviations and.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Papers/Spelling Correction with Denoising Transformer.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Papers/Transformer-based Model for Vietnamese Spelling Correction.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/Week2/Logistic_Regression_with_a_Neural_Network_mindset.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/Week2/Python_Basics_with_Numpy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/Week2/datasets/test_catvnoncat.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/Week2/datasets/train_catvnoncat.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/Week2/images/Lion_waiting_in_Namibia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/Week2/images/LogReg_kiank.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/Week2/images/cat_in_iran.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/Week2/images/gargouille.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/Week2/images/image1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/Week2/images/image2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/Week2/images/la_defense.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/Week2/images/my_image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/Week2/images/my_image2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/Week2/lr_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/Week2/public_tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/Week3/Planar_data_classification_with_one_hidden_layer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/Week3/planar_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/Week3/testCases.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/Week4/Building_your_Deep_Neural_Network_Step_by_Step.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/Week4/Deep Neural Network - Application.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/Week4/dnn_app_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/Week4/dnn_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module_2/Week_1/Gradient_Checking.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module_2/Week_1/Gradient_Checking.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module_2/Week_1/Initialization.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module_2/Week_1/Initialization.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module_2/Week_1/Regularization.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module_2/Week_1/Regularization.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module_2/Week_1/datasets/data.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module_2/Week_1/gc_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module_2/Week_1/init_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module_2/Week_1/reg_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module_2/Week_1/testCases.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module_2/Week_2/Optimization_methods.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module_2/Week_2/Optimization_methods.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module_2/Week_2/datasets/data.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module_2/Week_2/opt_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module_2/Week_2/opt_utils_v1a.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module_2/Week_2/testCases.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module_2/Week_3/Tensorflow_introduction.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module_2/Week_3/datasets/test_signs.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module_2/Week_3/datasets/train_signs.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module_2/Week_3/datasets/train_signs.h5.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module_2/Week_3/improv_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module_2/Week_3/test_signs.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module_2/Week_3/test_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module_2/Week_3/tf_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module_2/Week_3/train_signs.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +128,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "Web__dev__ndt",
+    "git-widget-placeholder": "Merging Web__dev__ndt",
     "last_opened_file_path": "C:/DPL302m",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -59,17 +144,14 @@
       <recent name="C:\DPL302m\templates" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Final Project">
-    <configuration name="frontend1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/DPL302m/templates/frontend1.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="JavaScript Debug.index1.html (1)">
+    <configuration name="about.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/app.py/Final_project/Web_dev/templates/about.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="frontend2.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/DPL302m/templates/frontend2.html" useBuiltInWebServerPort="true">
+    <configuration name="index1.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/app.py/Final_project/Web_dev/templates/index1.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/DPL302m/templates/index1.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/DPL302m/templates/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="Final Project" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -86,6 +168,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Final Project.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DPL302m" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,6 +222,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index1.html (1)" />
+        <item itemvalue="Python.app" />
+        <item itemvalue="JavaScript Debug.about.html" />
         <item itemvalue="Python.Final Project" />
       </list>
     </recent_temporary>
@@ -153,6 +260,7 @@
       <workItem from="1696928102253" duration="43000" />
       <workItem from="1696930348686" duration="572000" />
       <workItem from="1696938232224" duration="31000" />
+      <workItem from="1697448943828" duration="2358000" />
     </task>
     <servers />
   </component>
@@ -161,6 +269,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Final_Project_py$Final_Project.coverage" NAME="Final Project Coverage Results" MODIFIED="1696930412384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/app_py$app.coverage" NAME="app Coverage Results" MODIFIED="1697450994142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/DPL302m$Final_Project.coverage" NAME="Final Project Coverage Results" MODIFIED="1696840457233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

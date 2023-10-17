@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82d99d34-ed8f-41da-873d-0352168af19f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/Final_project/Wrong_word_generator/wrong_word_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Final_project/Wrong_word_generator/wrong_word_generator.py" afterDir="false" />
+=======
+  <component name="ChangeListManager">
+    <list default="true" id="b62b3577-fff9-475d-abe9-5579701a159f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Final_project/Web_dev/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Final_project/Web_dev/templates/index.html" afterDir="false" />
+>>>>>>> 754001550371914a8b7cb188d3f88e2233955430
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,13 +24,18 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+<<<<<<< HEAD
   <component name="ProjectId" id="2WbVECHW5sC7anZ3pOMAm3o7UhX" />
+=======
+  <component name="ProjectId" id="2WcoJyjPO5w8hBqWKsiqtgPZMEv" />
+>>>>>>> 754001550371914a8b7cb188d3f88e2233955430
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+<<<<<<< HEAD
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "Web__dev__ndt",
@@ -108,5 +119,33 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/DPL302m$wrong_word_generator.coverage" NAME="wrong_word_generator Coverage Results" MODIFIED="1697002819982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Final_project/Wrong_word_generator" />
     <SUITE FILE_PATH="coverage/DPL302m$Final_Project.coverage" NAME="Final Project Coverage Results" MODIFIED="1697001315381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Final_project/Web_dev" />
+=======
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/DPL302m"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b62b3577-fff9-475d-abe9-5579701a159f" name="Changes" comment="" />
+      <created>1697041160494</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697041160494</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+>>>>>>> 754001550371914a8b7cb188d3f88e2233955430
   </component>
 </project>
