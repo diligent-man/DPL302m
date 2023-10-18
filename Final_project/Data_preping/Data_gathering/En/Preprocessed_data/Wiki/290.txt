@@ -1,0 +1,29 @@
+resilient packet ring rpr as defined by ieee standard is a protocol designed for the transport of data traffic over optical fiber ring networks
+the standard began development in november and has undergone several amendments since its initial standard was completed in june
+the amended standards are a through d the last of which was adopted in may
+it is designed to provide the resilience found in sonet and synchronous digital hierarchy networks ms protection but instead of setting up circuit oriented connections provides a packet based transmission in order to increase the efficiency of ethernet and ip services
+rpr works on a concept of dual counter rotating rings called ringlets
+these ringlets are set up by creating rpr stations at nodes where traffic is supposed to drop per flow a flow is the ingress and egress of data traffic
+rpr uses media access control protocol mac messages to direct the traffic which can use either ringlet of the ring
+the nodes also negotiate for bandwidth among themselves using fairness algorithms avoiding congestion and failed spans
+the avoidance of failed spans is accomplished by using one of two techniques known as steering and wrapping
+under steering if a node or span is broken all nodes are notified of a topology change and they reroute their traffic
+in wrapping the traffic is looped back at the last node prior to the break and routed to the destination station
+all traffic on the ring is assigned a class of service cos and the standard specifies three classes
+class a or high traffic is a pure committed information rate cir and is designed to support applications requiring low latency and jitter such as voice and video
+class b or medium traffic is a mix of both a cir and an excess information rate eir which is subject to fairness queuing
+class c or low is best effort traffic utilizing whatever bandwidth is available
+this is primarily used to support internet access traffic
+another concept within rpr is what is known as spatial reuse
+because rpr strips the signal once it reaches the destination unlike a sonet upsr sdh sncp ring in which the bandwidth is consumed around the entire ring it can reuse the freed space to carry additional traffic
+the rpr standard also supports the use of learning bridges ieee d to further enhance efficiency in point to multipoint applications and vlan tagging ieee q
+one drawback of the first version of rpr was that it did not provide spatial reuse for frame transmission to from mac addresses not present in the ring topology
+this was addressed by ieee b which defines an optional spatially aware sublayer sas
+this allows spatial reuse for frame transmission to from mac address not present in the ring topology
+ethernet automatic protection switching
+spatial reuse protocol cisco
+metro ring protocol foundry networks
+open transport network nokia siemens networks
+dynamic packet transport cisco
+ethernet ring protection switching itu t ieee resilient packet ring working group
+

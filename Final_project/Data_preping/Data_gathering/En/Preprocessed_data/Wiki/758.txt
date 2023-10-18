@@ -1,0 +1,252 @@
+finance is the study and discipline of money currency and capital assets
+it is related with but not synonymous with economics the study of production distribution and consumption of money assets goods and services
+finance activities take place in financial systems at various scopes thus the field can be roughly divided into personal corporate and public finance
+in a financial system assets are bought sold or traded as financial instruments such as currencies loans bonds shares stocks options futures etc
+assets can also be banked invested and insured to maximize value and minimize loss
+in practice risks are always present in any financial action and entities
+a broad range of subfields within finance exist due to its wide scope
+asset money risk and investment management aim to maximize value and minimize volatility
+financial analysis is viability stability and profitability assessment of an action or entity
+in some cases theories in finance can be tested using the scientific method covered by experimental finance
+some fields are multidisciplinary such as mathematical finance financial law financial economics financial engineering and financial technology
+these fields are the foundation of business and accounting
+the history of finance may begin with the history of money which is prehistoric
+ancient and medieval civilizations are known to have done basic finance functions such as banking trading and accounting
+qualitative finance theories were first proposed in the th century starting with louis bachelier s thesis
+in the late th and early st century the global financial system was formed
+as above the financial system consists of the flows of capital that take place between individuals and households personal finance governments public finance and businesses corporate finance
+finance thus studies the process of channeling money from savers and investors to entities that need it
+savers and investors have money available which could earn interest or dividends if put to productive use
+individuals companies and governments must obtain money from some external source such as loans or credit when they lack sufficient funds to operate
+in general an entity whose income exceeds its expenditure can lend or invest the excess intending to earn a fair return
+correspondingly an entity where income is less than expenditure can raise capital usually in one of two ways
+i by borrowing in the form of a loan private individuals or by selling government or corporate bonds
+ii by a corporation selling equity also called stock or shares which may take various forms preferred stock or common stock
+the owners of both bonds and stock may be institutional investors financial institutions such as investment banks and pension funds or private individuals called private investors or retail investors
+the lending is often indirect through a financial intermediary such as a bank or via the purchase of notes or bonds corporate bonds government bonds or mutual bonds in the bond market
+the lender receives interest the borrower pays a higher interest than the lender receives and the financial intermediary earns the difference for arranging the loan
+a bank aggregates the activities of many borrowers and lenders
+a bank accepts deposits from lenders on which it pays interest
+the bank then lends these deposits to borrowers
+banks allow borrowers and lenders of different sizes to coordinate their activity
+finance allows production and consumption in society to operate more independently from each other
+without the use of financial allocation production would have to happen at the same time and space as consumption
+through finance distances in timespace between production and consumption may be allowed to happen
+investing typically entails the purchase of stock either individual securities or via a mutual fund for example
+stocks are usually sold by corporations to investors so as to raise required capital in the form of equity financing as distinct from the debt financing described above
+the financial intermediaries here are the investment banks
+the investment banks find the initial investors and facilitate the listing of the securities typically shares and bonds
+additionally they facilitate the securities exchanges which allow their trade thereafter as well as the various service providers which manage the performance or risk of these investments
+these latter include mutual funds pension funds wealth managers and stock brokers typically servicing retail investors private individuals
+inter institutional trade and investment and fund management at this scale is referred to as wholesale finance
+institutions here extend the products offered with related trading to include bespoke options swaps and structured products as well as specialized financing this financial engineering is inherently mathematical and these institutions are then the major employers of quants see below
+in these institutions risk management regulatory capital and compliance play major roles
+as outlined finance comprises broadly the three areas of personal finance corporate finance and public finance
+these in turn overlap and employ various activities and sub disciplines chiefly investments risk management and quantitative finance
+personal finance is defined as the mindful planning of monetary spending and saving while also considering the possibility of future risk
+personal finance may involve paying for education financing durable goods such as real estate and cars buying insurance investing and saving for retirement
+personal finance may also involve paying for a loan or other debt obligations
+the main areas of personal finance are considered to be income spending saving investing and protection
+the following steps as outlined by the financial planning standards board suggest that an individual will understand a potentially secure personal finance plan after
+purchasing insurance to ensure protection against unforeseen personal events
+understanding the effects of tax policies subsidies or penalties on the management of personal finances
+understanding the effects of credit on individual financial standing
+developing a savings plan or financing for large purchases auto education home
+planning a secure financial future in an environment of economic instability
+pursuing a checking and or a savings account
+preparing for retirement or other long term expenses corporate finance deals with the actions that managers take to increase the value of the firm to the shareholders the sources of funding and the capital structure of corporations and the tools and analysis used to allocate financial resources
+while corporate finance is in principle different from managerial finance which studies the financial management of all firms rather than corporations alone the concepts are applicable to the financial problems of all firms
+and this area is then often referred to as business finance
+typically corporate finance relates to the long term objective of maximizing the value of the entity s assets its stock and its return to shareholders while also balancing risk and profitability
+this entails three primary areas
+capital budgeting selecting which projects to invest in here accurately determining value is crucial as judgements about asset values can be make or break
+dividend policy the use of excess funds are these to be reinvested in the business or returned to shareholders
+capital structure deciding on the mix of funding to be used here attempting to find the optimal capital mix re debt commitments vs cost of capitalthe latter creates the link with investment banking and securities trading as above in that the capital raised will generically comprise debt i e
+corporate bonds and equity often listed shares
+re risk management within corporates see below
+financial managers i e
+as opposed to corporate financiers focus more on the short term elements of profitability cash flow and working capital management inventory credit and debtors
+ensuring that the firm can safely and profitably carry out its financial and operational objectives i e
+that it
+can service both maturing short term debt repayments and scheduled long term debt payments
+and has sufficient cash flow for ongoing and upcoming operational expenses
+see financial management role and financial analyst corporate and other
+public finance describes finance as related to sovereign states sub national entities and related public entities or agencies
+it generally encompasses a long term strategic perspective regarding investment decisions that affect public entities
+these long term strategic periods typically encompass five or more years
+public finance is primarily concerned with
+identification of required expenditures of a public sector entity
+source s of that entity s revenue
+the budgeting process
+sovereign debt issuance or municipal bonds for public works projects central banks such as the federal reserve system banks in the united states and the bank of england in the united kingdom are strong players in public finance
+they act as lenders of last resort as well as strong influences on monetary and credit conditions in the economy
+development finance which is related concerns investment in economic development projects provided by a quasi governmental institution on a non commercial basis these projects would otherwise not be able to get financing
+a public private partnership is primarily used for infrastructure projects a private sector corporate provides the financing up front and then draws profits from taxpayers and or users
+investment management is the professional asset management of various securities typically shares and bonds but also other assets such as real estate commodities and alternative investments in order to meet specified investment goals for the benefit of investors
+as above investors may be institutions such as insurance companies pension funds corporations charities educational establishments or private investors either directly via investment contracts or more commonly via collective investment schemes like mutual funds exchange traded funds or reits
+at the heart of investment management is asset allocation diversifying the exposure among these asset classes and among individual securities within each asset class as appropriate to the client s investment policy in turn a function of risk profile investment goals and investment horizon see investor profile
+portfolio optimization is the process of selecting the best portfolio given the client s objectives and constraints
+fundamental analysis is the approach typically applied in valuing and evaluating the individual securities overlaid is the portfolio manager s investment style broadly active vs passive value vs growth and small cap vs
+large cap and investment strategy
+in a well diversified portfolio achieved investment performance will in general largely be a function of the asset mix selected while the individual securities are less impactful
+the specific approach or philosophy will also be significant depending on the extent to which it is complementary with the market cycle
+a quantitative fund is managed using
+computer based techniques increasingly machine learning instead of human judgment
+the actual trading also is typically automated via sophisticated algorithms
+risk management in general is the study of how to control risks and balance the possibility of gains it is the process of measuring risk and then developing and implementing strategies to manage that risk
+financial risk management
+is the practice of protecting corporate value by using financial instruments to manage exposure to risk here called hedging the focus is particularly on credit and market risk and in banks through regulatory capital includes operational risk
+credit risk is risk of default on a debt that may arise from a borrower failing to make required payments
+market risk relates to losses arising from movements in market variables such as prices and exchange rates
+operational risk relates to failures in internal processes people and systems or to external events financial risk management is related to corporate finance in two ways
+firstly firm exposure to market risk is a direct result of previous capital investments and funding decisions
+while credit risk arises from the business credit policy and is often addressed through credit insurance and provisioning
+secondly both disciplines share the goal of enhancing or at least preserving the firm s economic value and in this context overlaps also enterprise risk management typically the domain of strategic management
+here businesses devote much time and effort to forecasting analytics and performance monitoring
+see also alm and treasury management
+for banks and other wholesale institutions risk management focuses on managing and as necessary hedging the various positions held by the institution both trading positions and long term exposures and on calculating and monitoring the resultant economic capital and regulatory capital under basel iii
+the calculations here are mathematically sophisticated and within the domain of quantitative finance as below
+credit risk is inherent in the business of banking but additionally these institutions are exposed to counterparty credit risk
+banks typically employ middle office risk groups here whereas front office risk teams provide risk services solutions to customers
+additional to diversification the fundamental risk mitigant here investment managers will apply various risk management techniques to their portfolios as appropriate
+these may relate to the portfolio as a whole or to individual stocks bond portfolios are typically managed via cash flow matching or immunization
+re derivative portfolios and positions the greeks is a vital risk management tool it measures sensitivity to a small change in a given underlying parameter so that the portfolio can be rebalanced accordingly by including additional derivatives with offsetting characteristics
+quantitative finance also referred to as mathematical finance includes those finance activities where a sophisticated mathematical model is required and thus overlaps several of the above
+as a specialized practice area quantitative finance comprises primarily three sub disciplines the underlying theory and techniques are discussed in the next section
+quantitative finance is often synonymous with financial engineering
+this area generally underpins a bank s customer driven derivatives business delivering bespoke otc contracts and exotics and designing the various structured products and solutions mentioned and encompasses modeling and programming in support of the initial trade and its subsequent hedging and management
+quantitative finance also significantly overlaps financial risk management in banking as mentioned both as regards this hedging and as regards economic capital as well as compliance with regulations and the basel capital liquidity requirements
+quants are also responsible for building and deploying the investment strategies at the quantitative funds mentioned they are also involved in quantitative investing more generally in areas such as trading strategy formulation and in automated trading high frequency trading algorithmic trading and program trading financial theory is studied and developed within the disciplines of management financial economics accountancy and applied mathematics
+abstractly finance is concerned with the investment and deployment of assets and liabilities over space and time
+i e it is about performing valuation and asset allocation today based on the risk and uncertainty of future outcomes while appropriately incorporating the time value of money
+determining the present value of these future values discounting must be at the risk appropriate discount rate in turn a major focus of finance theory
+since the debate as to whether finance is an art or a science is still open there have been recent efforts to organize a list of unsolved problems in finance
+managerial finance is the branch of management that concerns itself with the managerial application of finance techniques and theory emphasizing the financial aspects of managerial decisions
+the assessment is per the managerial perspectives of planning directing and controlling
+the techniques addressed and developed relate in the main to managerial accounting and corporate finance
+the former allow management to better understand and hence act on financial information relating to profitability and performance the latter as above are about optimizing the overall financial structure including its impact on working capital
+the implementation of these techniques i e
+financial management is described above
+academics working in this area are typically based in business school finance departments in accounting or in management science
+financial economics is the branch of economics that studies the interrelation of financial variables such as prices interest rates and shares as opposed to real economic variables i e
+goods and services
+it thus centers on pricing decision making and risk management in the financial markets and produces many of the commonly employed financial models
+financial econometrics is the branch of financial economics that uses econometric techniques to parameterize the relationships suggested
+the discipline has two main areas of focus
+asset pricing and corporate finance the first being the perspective of providers of capital i e
+investors and the second of users of capital respectively
+asset pricing theory develops the models used in determining the risk appropriate discount rate and in pricing derivatives and includes the portfolio and investment theory applied in asset management
+the analysis essentially explores how rational investors would apply risk and return to the problem of investment under uncertainty producing the key fundamental theorem of asset pricing
+here the twin assumptions of rationality and market efficiency lead to modern portfolio theory the capm and to the black scholes theory for option valuation
+at more advanced levels and often in response to financial crises the study then extends these neoclassical models to incorporate phenomena where their assumptions do not hold or to more general settings
+much of corporate finance theory by contrast considers investment under certainty fisher separation theorem theory of investment value modigliani miller theorem
+here theory and methods are developed for the decisioning about funding dividends and capital structure discussed above
+a recent development is to incorporate uncertainty and contingency and thus various elements of asset pricing into these decisions employing for example real options analysis financial mathematics is the field of applied mathematics concerned with financial markets
+as above in terms of practice the field is referred to as quantitative finance and or mathematical finance and comprises primarily the three areas discussed
+re theory the field is largely focused on the modeling of derivatives with much emphasis on interest rate and credit risk modeling while other important areas include insurance mathematics and quantitative portfolio management
+relatedly the techniques developed are applied to pricing and hedging a wide range of asset backed government and corporate securities
+the main mathematical tools and techniques are
+for derivatives it s stochastic calculus simulation and partial differential equations see aside discussion re the prototypical black scholes and the various numeric techniques now applied
+for risk management value at risk stress testing sensitivities analysis applying the greeks and xva
+in both of these areas and particularly for portfolio problems quants employ sophisticated optimization techniquesmathematically these separate into two analytic branches
+derivatives pricing uses risk neutral probability or arbitrage pricing probability denoted by q
+while risk and portfolio management generally use actual or actuarial or physical probability denoted by p
+these are interrelated through the above fundamental theorem of asset pricing
+the subject has a close relationship with financial economics which as above is concerned with much of the underlying theory that is involved in financial mathematics generally financial mathematics will derive and extend the mathematical models suggested
+computational finance is the branch of applied computer science that deals with problems of practical interest in finance and especially emphasizes the numerical methods applied here
+experimental finance
+aims to establish different market settings and environments to experimentally observe and provide a lens through which science can analyze agents behavior and the resulting characteristics of trading flows information diffusion and aggregation price setting mechanisms and returns processes
+researchers in experimental finance can study to what extent existing financial economics theory makes valid predictions and therefore prove them as well as attempt to discover new principles on which such theory can be extended and be applied to future financial decisions
+research may proceed by conducting trading simulations or by establishing and studying the behavior of people in artificial competitive market like settings
+behavioral finance studies how the psychology of investors or managers affects financial decisions and markets
+and is relevant when making a decision that can impact either negatively or positively on one of their areas
+with more in depth research into behavioral finance it is possible to bridge what actually happens in financial markets with analysis based on financial theory
+behavioral finance has grown over the last few decades to become an integral aspect of finance
+behavioral finance includes such topics as
+empirical studies that demonstrate significant deviations from classical theories
+models of how psychology affects and impacts trading and prices
+forecasting based on these methods
+studies of experimental asset markets and the use of models to forecast experiments a strand of behavioral finance has been dubbed quantitative behavioral finance which uses mathematical and statistical methodology to understand behavioral biases in conjunction with valuation
+quantum finance is an interdisciplinary research field applying theories and methods developed by quantum physicists and economists in order to solve problems in finance
+it is a branch of econophysics
+finance theory is heavily based on financial instrument pricing such as stock option pricing
+many of the problems facing the finance community have no known analytical solution
+as a result numerical methods and computer simulations for solving these problems have proliferated
+this research area is known as computational finance
+many computational finance problems have a high degree of computational complexity and are slow to converge to a solution on classical computers
+in particular when it comes to option pricing there is additional complexity resulting from the need to respond to quickly changing markets
+for example in order to take advantage of inaccurately priced stock options the computation must complete before the next change in the almost continuously changing stock market
+as a result the finance community is always looking for ways to overcome the resulting performance issues that arise when pricing options
+this has led to research that applies alternative computing techniques to finance
+most commonly used quantum financial models are quantum continuous model quantum binomial model multi step quantum binomial model etc
+the origin of finance can be traced to the start of civilization
+the earliest historical evidence of finance is dated to around bc
+banking originated in the babylonian empire where temples and palaces were used as safe places for the storage of valuables
+initially the only valuable that could be deposited was grain but cattle and precious materials were eventually included
+during the same period the sumerian city of uruk in mesopotamia supported trade by lending as well as the use of interest
+in sumerian interest was mas which translates to calf
+in greece and egypt the words used for interest tokos and ms respectively meant to give birth
+in these cultures interest indicated a valuable increase and seemed to consider it from the lender s point of view
+the code of hammurabi bc included laws governing banking operations
+the babylonians were accustomed to charging interest at the rate of percent per annum
+jews were not allowed to take interest from other jews but they were allowed to take interest from gentiles who had at that time no law forbidding them from practicing usury
+as gentiles took interest from jews the torah considered it equitable that jews should take interest from gentiles
+in hebrew interest is neshek
+by bc cowrie shells were used as a form of money in china
+by bc the lydians had started to use coin money
+lydia was the first place where permanent retail shops opened
+herodotus mentions the use of crude coins in lydia in an earlier date around bc
+the use of coins as a means of representing money began in the years between and bce
+cities under the greek empire such as aegina bce athens bce and corinth bce started to mint their own coins
+in the roman republic interest was outlawed altogether by the lex genucia reforms
+under julius caesar a ceiling on interest rates of was set and later under justinian it was lowered even further to between and
+outline of finance
+financial crisis of graham benjamin jason zweig
+the intelligent investor
+warren e
+buffett collaborator ed
+harpercollins
+front cover
+graham b
+and dodd d
+and dodd d l f
+security analysis the classic edition
+mcgraw hill education
+lccn cite book cs maint multiple names authors list link
+rich dad poor dad what the rich teach their kids about money that the poor and middle class do not by robert kiyosaki and sharon lechter
+warner business books
+clason george
+the richest man in babylon original edition
+createspace independent publishing platform
+bogle john bogle
+the little book of common sense investing the only way to guarantee your fair share of stock market returns
+john wiley and sons
+buffett w
+and cunningham l a
+the essays of warren buffett lessons for investors and managers
+john wiley sons asia pte limited
+isbn cite book cs maint multiple names authors list link
+stanley thomas j
+and danko w d
+the millionaire next door
+gallery books
+lccn cite book cs maint multiple names authors list link
+soros george
+the alchemy of finance reading the mind of the market
+a touchstone book
+simon schuster
+fisher philip arthur
+common stocks and uncommon profits and other writings
+wiley investment classics
+wiley
+lccn finance definition investopedia
+finance definition corporate finance institute
+wharton finance knowledge project
+hypertextual finance glossary campbell harvey
+corporate finance resources aswath damodaran
+financial management resources james van horne
+financial mathematics derivatives and risk management resources don chance
+personal finance resources financial literacy and education commission mymoney gov
+public finance resources governance and social development resource centre gsdrc org
+listing of free portfolio management software
+

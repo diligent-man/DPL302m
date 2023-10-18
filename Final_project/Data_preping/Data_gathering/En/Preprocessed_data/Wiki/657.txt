@@ -1,0 +1,118 @@
+in biology a biological life cycle or just life cycle or lifecycle when the biological context is clear is a series of changes in form that an organism undergoes returning to the starting state
+the concept is closely related to those of the life history development and ontogeny but differs from them in stressing renewal transitions of form may involve growth asexual reproduction or sexual reproduction
+in some organisms different generations of the species succeed each other during the life cycle
+for plants and many algae there are two multicellular stages and the life cycle is referred to as alternation of generations
+the term life history is often used particularly for organisms such as the red algae which have three multicellular stages or more rather than two
+life cycles that include sexual reproduction involve alternating haploid n and diploid n stages i e a change of ploidy is involved
+to return from a diploid stage to a haploid stage meiosis must occur
+in regard to changes of ploidy there are types of cycles
+haplontic life cycle the haploid stage is multicellular and the diploid stage is a single cell meiosis is zygotic
+diplontic life cycle the diploid stage is multicellular and haploid gametes are formed meiosis is gametic
+haplodiplontic life cycle also referred to as diplohaplontic diplobiontic or dibiontic life cycle multicellular diploid and haploid stages occur meiosis is sporic the cycles differ in when mitosis growth occurs
+zygotic meiosis and gametic meiosis have one mitotic stage mitosis occurs during the n phase in zygotic meiosis and during the n phase in gametic meiosis
+therefore zygotic and gametic meiosis are collectively termed haplobiontic single mitotic phase not to be confused with haplontic
+sporic meiosis on the other hand has mitosis in two stages both the diploid and haploid stages termed diplobiontic not to be confused with diplontic
+the study of reproduction and development in organisms was carried out by many botanists and zoologists
+wilhelm hofmeister demonstrated that alternation of generations is a feature that unites plants and published this result in see plant sexuality
+some terms haplobiont and diplobiont used for the description of life cycles were proposed initially for algae by nils svedelius and then became used for other organisms
+other terms autogamy and gamontogamy used in protist life cycles were introduced by karl gottlieb grell
+the description of the complex life cycles of various organisms contributed to the disproof of the ideas of spontaneous generation in the s and s
+a zygotic meiosis is a meiosis of a zygote immediately after karyogamy which is the fusion of two cell nuclei
+this way the organism ends its diploid phase and produces several haploid cells
+these cells divide mitotically to form either larger multicellular individuals or more haploid cells
+two opposite types of gametes e g male and female from these individuals or cells fuse to become a zygote
+in the whole cycle zygotes are the only diploid cell mitosis occurs only in the haploid phase
+the individuals or cells as a result of mitosis are haplonts hence this life cycle is also called haplontic life cycle
+haplonts are
+in archaeplastidans some green algae e g chlamydomonas zygnema chara
+in stramenopiles some golden algae
+in alveolates many dinoflagellates e g ceratium gymnodinium some apicomplexans e g plasmodium
+in rhizarians some euglyphids ascetosporeans
+in excavates some parabasalids
+in amoebozoans dictyostelium
+in opisthokonts most fungi some chytrids zygomycetes some ascomycetes basidiomycetes in gametic meiosis instead of immediately dividing meiotically to produce haploid cells the zygote divides mitotically to produce a multicellular diploid individual or a group of more unicellular diploid cells
+cells from the diploid individuals then undergo meiosis to produce haploid cells or gametes
+haploid cells may divide again by mitosis to form more haploid cells as in many yeasts but the haploid phase is not the predominant life cycle phase
+in most diplonts mitosis occurs only in the diploid phase i e
+gametes usually form quickly and fuse to produce diploid zygotes
+in the whole cycle gametes are usually the only haploid cells and mitosis usually occurs only in the diploid phase
+the diploid multicellular individual is a diplont hence a gametic meiosis is also called a diplontic life cycle
+diplonts are
+in archaeplastidans some green algae e g cladophora glomerata acetabularia
+in stramenopiles some brown algae the fucales however their life cycle can also be interpreted as strongly heteromorphic diplohaplontic with a highly reduced gametophyte phase as in the flowering plants some xanthophytes e g vaucheria most diatoms some oomycetes e g saprolegnia plasmopara viticola opalines some heliozoans e g actinophrys actinosphaerium
+in alveolates ciliates
+in excavates some parabasalids
+in opisthokonts animals some fungi e g some ascomycetes in sporic meiosis also commonly known as intermediary meiosis the zygote divides mitotically to produce a multicellular diploid sporophyte
+the sporophyte creates spores via meiosis which also then divide mitotically producing haploid individuals called gametophytes
+the gametophytes produce gametes via mitosis
+in some plants the gametophyte is not only small sized but also short lived in other plants and many algae the gametophyte is the dominant stage of the life cycle
+haplodiplonts are
+in archaeplastidans red algae which have two sporophyte generations some green algae e g ulva land plants
+in stramenopiles most brown algae
+in rhizarians many foraminiferans plasmodiophoromycetes
+in amoebozoa myxogastrids
+in opisthokonts some fungi some chytrids some ascomycetes like the brewer s yeast
+other eukaryotes haptophytessome animals have a sex determination system called haplodiploid but this is not related to the haplodiplontic life cycle
+some red algae such as bonnemaisonia and lemanea and green algae such as prasiola have vegetative meiosis also called somatic meiosis which is a rare phenomenon
+vegetative meiosis can occur in haplodiplontic and also in diplontic life cycles
+the gametophytes remain attached to and part of the sporophyte
+vegetative non reproductive diploid cells undergo meiosis generating vegetative haploid cells
+these undergo many mitosis and produces gametes
+a different phenomenon called vegetative diploidization a type of apomixis occurs in some brown algae e g elachista stellaris
+cells in a haploid part of the plant spontaneously duplicate their chromosomes to produce diploid tissue
+parasites depend on the exploitation of one or more hosts
+those that must infect more than one host species to complete their life cycles are said to have complex or indirect life cycles
+dirofilaria immitis or the heartworm has an indirect life cycle for example
+the microfilariae must first be ingested by a female mosquito where it develops into the infective larval stage
+the mosquito then bites an animal and transmits the infective larvae into the animal where they migrate to the pulmonary artery and mature into adults
+those parasites that infect a single species have direct life cycles
+an example of a parasite with a direct life cycle is ancylostoma caninum or the canine hookworm
+they develop to the infective larval stage in the environment then penetrate the skin of the dog directly and mature to adults in the small intestine
+if a parasite has to infect a given host in order to complete its life cycle then it is said to be an obligate parasite of that host sometimes infection is facultative the parasite can survive and complete its life cycle without infecting that particular host species
+parasites sometimes infect hosts in which they cannot complete their life cycles these are accidental hosts
+a host in which parasites reproduce sexually is known as the definitive final or primary host
+in intermediate hosts parasites either do not reproduce or do so asexually but the parasite always develops to a new stage in this type of host
+in some cases a parasite will infect a host but not undergo any development these hosts are known as paratenic or transport hosts
+the paratenic host can be useful in raising the chance that the parasite will be transmitted to the definitive host
+for example the cat lungworm aelurostrongylus abstrusus uses a slug or snail as an intermediate host the first stage larva enters the mollusk and develops to the third stage larva which is infectious to the definitive host the cat
+if a mouse eats the slug the third stage larva will enter the mouse s tissues but will not undergo any development
+the primitive type of life cycle probably had haploid individuals with asexual reproduction
+bacteria and archaea exhibit a life cycle like this and some eukaryotes apparently do too e g cryptophyta choanoflagellata many euglenozoa many amoebozoa some red algae some green algae the imperfect fungi some rotifers and many other groups not necessarily haploid
+however these eukaryotes probably are not primitively asexual but have lost their sexual reproduction or it just was not observed yet
+many eukaryotes including animals and plants exhibit asexual reproduction which may be facultative or obligate in the life cycle with sexual reproduction occurring more or less frequently
+individual organisms participating in a biological life cycle ordinarily age and die while cells from these organisms that connect successive life cycle generations germ line cells and their descendants are potentially immortal
+the basis for this difference is a fundamental problem in biology
+the russian biologist and historian zhores a
+medvedev considered that the accuracy of genome replicative and other synthetic systems alone cannot explain the immortality of germ lines
+rather medvedev thought that known features of the biochemistry and genetics of sexual reproduction indicate the presence of unique information maintenance and restoration processes at the gametogenesis stage of the biological life cycle
+in particular medvedev considered that the most important opportunities for information maintenance of germ cells are created by recombination during meiosis and dna repair he saw these as processes within the germ line cells that were capable of restoring the integrity of dna and chromosomes from the types of damage that cause irreversible ageing in non germ line cells e g
+somatic cells
+the ancestry of each present day cell presumably traces back in an unbroken lineage for over billion years to the origin of life
+it is not actually cells that are immortal but multi generational cell lineages
+the immortality of a cell lineage depends on the maintenance of cell division potential
+this potential may be lost in any particular lineage because of cell damage terminal differentiation as occurs in nerve cells or programmed cell death apoptosis during development
+maintenance of cell division potential of the biological life cycle over successive generations depends on the avoidance and the accurate repair of cellular damage particularly dna damage
+in sexual organisms continuity of the germline over successive cell cycle generations depends on the effectiveness of processes for avoiding dna damage and repairing those dna damages that do occur
+sexual processes in eukaryotes provide an opportunity for effective repair of dna damages in the germ line by homologous recombination
+alternation of generations reproductive cycle of plants and algae
+apomixis replacement of the normal sexual reproduction by asexual reproduction without fertilization
+haplodiploidy biological system where sex is determined by the number of sets of chromosomes
+parasexual cycle nonsexual mechanism for transferring genetic material without meiosis
+parthenogenesis asexual reproduction without fertilization
+metamorphosis profound change in body structure during the postembryonic development of an organism
+reproductive biology branch of biology studying reproduction
+mitotic recombination type of genetic recombinationvan den hoek c mann jahns h
+algae an introduction to phycology
+cambridge university press
+isbn bonner john tyler
+life cycles reflections of an evolutionary biologist
+princeton university press
+valero myriam richerd sophie perrot v ronique destombe christophe january
+evolution of alternation of haploid and diploid phases in life cycles
+trends in ecology evolution
+doi h
+mable barbara k otto sarah p
+the evolution of life cycles with haploid and diploid phases
+bioessays
+doi sici aid bies co n
+

@@ -1,0 +1,90 @@
+markets
+fear greed index
+latest market news
+this time last week the prospects seemed to be growing dimmer that the september jobs report would land this friday as planned
+a government shutdown would have forced the bureau of labor statistics to go dark and result in the blackout of critical economic data
+but after a last minute deal in washington the key labor market data is now set to flow as it should
+whether it ultimately meets expectations is another question entirely closely watched economic data released earlier this week indicate that friday s jobs report could come in hot or perhaps frigidly cold
+us job openings unexpectedly grew in august
+on tuesday the latest tally on job openings unexpectedly bolted higher jolting markets in the process
+a day later adp s national employment report showed that private sector employers scaled back their hiring efforts far more than expected
+come friday at am et economists are forecasting that employers added jobs last month according to refinitiv data
+while that is a definite step back from the estimated jobs added in august it s only slightly below pre pandemic levels
+from to the us added jobs per month on average
+economists also estimate that the unemployment rate will inch back down to from
+the labor market still is solid nela richardson chief economist with payroll processor adp told cnn in an interview
+it s slowing but there is no indication that it s breaking
+for much of the past months the unemployment rate has drifted between and a historically low range that stood in defiance to the barrage of federal reserve interest rate hikes and expectations for increased joblessness
+in august the unemployment rate unexpectedly jumped percentage points to
+and while monthly data and the unemployment rate itself can be quite volatile a driver behind the increase was a welcome one an increase in labor force participation
+the us economy continued to add jobs at a robust pace last month
+how much of that was noise said nick bunker head of economic research for the indeed hiring lab adding that if monthly job gains remain north of how many more people can that pull into the labor force
+labor force participation plummeted during the early stages of the pandemic when the economy started reopening consumer demand and businesses needs far outstripped available workers
+some of the labor force declines were due to increased early retirements deaths and long covid health issues in addition to low immigration lack of access to childcare and increased caregiving responsibilities
+additionally as the pandemic laid bare workplace concerns such as low pay and safe working conditions as well as highlighted the fleeting nature of life the great reshuffling took hold as americans switched jobs or careers to achieve better work life balance
+during the past year more people have returned to the labor force
+the overall labor force participation rate rose to in august bls data shows
+that s the highest it s been since the onset of the pandemic
+how much higher it can climb is unknown even before covid was in play labor force participation was trending downward largely due to the massive baby boomer generation aging out of the workforce
+is there an immaculate rebalancing and can job openings drop and can labor force participation rise at the same time bunker asked noting that the latter likely doesn t have enough power to fight back against the extremely powerful force of demographics
+the fed cares a lot about jobs data but it may be getting mixed signals
+additionally bunker said he s keeping a close eye on wage growth trends that have been showing a deceleration
+things are no longer frothy as they were in and he said
+we re in a moderation not a deterioration
+to that end economists also will be looking closely at the revisions made
+federal data is fluid and frequently subject to change as more detailed and accurate information becomes readily available
+the labor department s monthly jobs report is based upon survey responses from employers across a wide swath of industries
+those initial estimates are then revised twice more
+for eight consecutive months however the gains have been revised downward
+many are interpreting this streak of downward revisions as a sign that we could be at an inflection point and that the labor market could be weakening even more rapidly than the official data suggests said julia pollak senior economist with ziprecruiter
+while friday s report will deliver a host of critical info about the nation s job market one of the biggest stories in labor might not be fully on display
+there are more than united auto workers union members on strike at detroit s big three automakers of ford general motors and stellantis and more than members have been laid off or furloughed to date
+while some of the impacts are starting to be seen at local workforce centers and in state unemployment claims the effects of the uaw strike will be largely muted in friday s jobs report economists say
+the uaw strike started on september which is at the tail end of the reference periods for both of the surveys that make up the monthly employment report
+the reference periods for the household and establishment surveys are generally the calendar week that includes the th day of the month and the pay period that includes the th day of the month respectively
+autoworkers strike expands again against gm and ford
+workers who worked or received pay for that pay period even if it s just for minutes are counted as employed by the bureau of labor statistics
+we won t see the direct impact probably until the october jobs report bunker told cnn
+separately the sag aftra strike involving actors should not have a noticeable impact on the information sector as striking employees were already counted as unemployed in the august jobs report noted lydia boussour ey s senior economist
+overall there were only net new workers on strike in september according to the latest bls strike report she said
+still the uaw strike could have ripple effects on employment outside of the big three as other companies within or ancillary to the auto industry could lay off workers as a result of slowing or canceled orders
+however while relatively undetectable in the upcoming jobs report the effects of the strikes are already showing up in key government data
+the jobless claims report issued last week showed a spike in unemployment in michigan for the week ended september
+that s expected to grow when last week s data is released on thursday morning
+university of michigan economist don grimes estimated that michigan could lose up to jobs by the end of the week and that uaw related job loss nationwide could grow to people he told the detroit free press
+the effects of the uaw strike did appear to show up in challenger gray christmas monthly job cuts report which was released thursday morning
+in september us based employers announced job cuts of which or nearly were attributed to labor dispute as a cause
+the total announced layoffs last month were below those announced in august and are up from september according to the challenger report
+last year and were historically low years for layoffs as the us labor market surged to backfill the more than million jobs lost at the outset of the pandemic
+us consumer prices continued to rise last month but the fed probably won t raise rates
+despite the pullback the job cut announcements made so far this year are nearly triple that of the same period last year and are the highest they have been for data through september going back to excluding
+employers are grappling with inflation rate increases labor issues and consumer demand as we enter the fourth quarter said andrew challenger senior vice president of the outplacement firm in a statement
+first time claims for unemployment a proxy for layoffs have remained low in recent months and continued to do so last week
+the number of americans filing for first time jobless benefits held steady last week near yearly low levels the department of labor reported thursday
+initial claims for unemployment insurance considered a proxy for layoffs were for the week ended september
+that s down claims from the previous week s revised total of claims
+the weekly filings were roughly in line with economists estimates of initial claims according to refinitiv estimates
+weekly jobless claims which are highly volatile and frequently revised remain below historical and pre pandemic averages exemplifying the strength of the job market
+in the decade before the pandemic weekly claims for unemployment benefits averaged and in they averaged labor department data shows
+continuing claims which are filed by people who have received unemployment benefits for more than one week were million for the week ended september
+that s down claims from the prior week s downwardly revised total of million
+economists were expecting million continuing claims according to refinitiv
+most stock quote data provided by bats
+us market indices are shown in real time except for the s p which is refreshed every two minutes
+all times are et
+factset factset research systems inc
+all rights reserved
+chicago mercantile certain market data is the property of chicago mercantile exchange inc
+and its licensors
+all rights reserved
+dow jones the dow jones branded indices are proprietary to and are calculated distributed and marketed by dji opco a subsidiary of s p dow jones indices llc and have been licensed for use to s p opco llc and cnn
+standard poor s and s p are registered trademarks of standard poor s financial services llc and dow jones is a registered trademark of dow jones trademark holdings llc
+all content of the dow jones branded indices copyright s p dow jones indices llc and or its affiliates
+fair value provided by indexarb com
+market holidays and trading hours provided by copp clark limited
+cable news network
+a warner bros
+discovery company
+all rights reserved
+cnn sans cable news network
+

@@ -1,0 +1,46 @@
+a retinal scan is a biometric technique that uses unique patterns on a person s retina blood vessels
+it is not to be confused with other ocular based technologies iris recognition commonly called an iris scan and eye vein verification that uses scleral veins
+the human retina is a thin tissue made up of neural cells that is located in the posterior portion of the eye
+because of the complex structure of the capillaries that supply the retina with blood each person s retina is unique making retinal scans an emerging authentication method
+the network of blood vessels in the retina is not entirely genetically determined and thus even identical twins do not share a similar pattern
+although retinal patterns may be altered in cases of diabetes glaucoma or retinal degenerative disorders the retina typically remains unchanged from birth until death
+due to its unique and unchanging nature the retina appears to be the most precise and reliable biometric aside from dna
+the national center for state courts estimate that retinal scanning has an error rate of one in ten million
+a retinal scan is performed by casting an unperceived beam of low energy infrared light into a person s eye as they look through the scanner s eyepiece
+this beam of light traces a standardized path on the retina
+because retinal blood vessels absorb light more readily than the surrounding tissue the amount of reflection varies during the scan
+the pattern of variations is digitized and stored in a database
+the idea for retinal identification was first conceived by dr carleton simon and dr isadore goldstein and was published in the new york state journal of medicine in
+the idea was ahead of its time but once technology caught up the concept for a retinal scanning device emerged in
+in robert buzz hill formed a corporation named eyedentify inc and made a full time effort to research and develop such a device
+in specific means for a retinal scanner was patented followed by a commercial model in
+because of the relative obscurity and high tech nature of retinal scans they are frequently used as a device in fiction to suggest that an area has been particularly strongly secured against intrusion
+some notable examples include
+in the movie star trek ii the wrath of khan admiral kirk gains access to top secret computer files by use of a retinal scan
+in the science fiction novel the long result by john brunner a retinal scanner is used to access a remote control centre at a spaceport
+in the movie batman batman describes to robin how the tiny vessels in the retina are unique to the individual and by utilizing the portable retina scan device in the batmobile they confirm the identity of the penguin
+in the comic book film series x men charles xavier uses a retinal scanner to unlock cerebro
+this is bypassed by the shape shifter mystique assuming his form and william stryker using an unknown mechanism
+in the half life video game series the scientists of black mesa are frequently shown operating retinal scanners to access locked doors or hidden devices
+characters in the films goldeneye mission impossible barb wire entrapment minority report and paycheck and charlie s angels film utilize or try to deceive retinal scanners
+in the splinter cell video game series retinal scanners are used to identify agents within third echelon and guards within military business complexes
+in the film the avengers characters gain access to a quantity of very rare iridium by using two devices one which apparently hooks onto a victim s eyeball and another which receives signals from the first to holographically reconstruct the retina to fool the scanner
+in the film demolition man film simon phoenix deceives a retinal scanner by taking the eyeball from a prison doctor retinal scanners are typically used for authentication and identification purposes
+retinal scanning has been utilized by several government agencies including the fbi cia and nasa and has also been used in prisons
+retinal scanning also has medical application
+communicable illnesses such as aids syphilis malaria chicken pox and lyme disease as well as hereditary diseases like leukemia lymphoma and sickle cell anemia affect the eyes
+pregnancy also affects the eyes
+likewise indications of chronic health conditions such as congestive heart failure atherosclerosis and cholesterol issues first appear in the eyes
+retinal scanning is sometimes confused with iris recognition which has been employed for a wider scope of applications
+advantages
+low occurrence of false positives
+extremely low almost false negative rates
+highly reliable because no two people have the same retinal pattern
+speedy results identity of the subject is verified very quicklydisadvantages
+measurement accuracy can be affected by a disease such as cataracts
+measurement accuracy can also be affected by severe astigmatism
+scanning procedure is perceived by some as invasive
+subject being scanned must be very close to the camera optics
+high equipment costvein matching
+iris recognition
+

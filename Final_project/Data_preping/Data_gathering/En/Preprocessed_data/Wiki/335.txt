@@ -1,0 +1,38 @@
+william brouncker nd viscount brouncker prs april was an english mathematician who introduced brouncker s formula and was the first president of the royal society
+he was also a civil servant serving as a commissioner of the royal navy
+he was a friend and colleague of samuel pepys and features prominently in the great diary
+brouncker was born in castlelyons county cork the elder son of william brouncker st viscount brouncker and winifred daughter of sir william leigh of newnham
+his family came originally from melksham in wiltshire
+his grandfather sir henry brouncker died had been lord president of munster and settled his family in ireland
+his father was created a viscount in the peerage of ireland in for his services to the crown
+although the first viscount had fought for the crown in the anglo scots war of malicious gossip said that he paid the then enormous sum of for the title and was almost ruined as a result
+he died only a few months afterwards
+william obtained a dm at the university of oxford in
+until he played no part in public life being a staunch royalist he felt it best to live quietly and devote himself to his mathematical studies
+he was one of the founders and the first president of the royal society
+in he became chancellor to queen catherine then head of the saint catherine s hospital
+he was appointed one of the commissioners of the royal navy in and his career thereafter can be traced in the diary of samuel pepys despite their frequent disagreements samuel pepys on the whole respected brouncker more than most of his other colleagues writing in that in truth he is the best of them
+although his attendance at the royal society had become infrequent and he had quarreled with some of his fellow members he was nonetheless greatly displeased to be deprived of the presidency in
+he was commissioner for executing the office of lord high admiral of england from
+brouncker never married but lived for many years with the actress abigail williams much to pepys disgust and left most of his property to her
+she was the daughter of sir henry clere died first and last of the clere baronets and the estranged wife of john williams otherwise cromwell second son of sir oliver cromwell and first cousin to the renowned oliver cromwell
+she and john had a son and a daughter
+the fire of which destroyed the royal navy office started in her private closet this is unlikely to have improved her relations with samuel pepys whose private apartments were also destroyed in the blaze
+on brouncker s death in his title passed to his brother henry one of the most detested men of the era
+william left him almost nothing in his will for reasons i think not fit to mention
+his mathematical work concerned in particular the calculations of the lengths of the parabola and cycloid and the quadrature of the hyperbola which requires approximation of the natural logarithm function by infinite series
+he was the first european to solve what is now known as pell s equation
+he was the first in england to take interest in generalized continued fractions and following the work of john wallis he provided development in the generalized continued fraction of pi
+this formula provides a development of in a generalized continued fraction
+displaystyle frac pi cfrac cfrac cfrac cfrac cfrac cfrac ddots
+the convergents are related to the leibniz formula for pi for instance
+displaystyle frac frac frac frac
+displaystyle frac frac frac frac frac frac
+because of its slow convergence brouncker s formula is not useful for practical computations of
+brouncker s formula can also be expressed as
+displaystyle frac pi cfrac cfrac cfrac cfrac cfrac ddots
+o connor john j robertson edmund f william brouncker nd viscount brouncker mactutor history of mathematics archive university of st andrews
+brouncker william
+dictionary of national biography
+london smith elder co
+

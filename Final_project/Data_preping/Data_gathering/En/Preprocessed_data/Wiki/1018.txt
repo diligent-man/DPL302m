@@ -1,0 +1,72 @@
+chessbase gmbh is a german company that makes and sells chess software maintains a chess news site and operates an internet chess server for online chess
+founded in it maintains and sells large scale databases containing the moves of recorded chess games
+the databases organise data from prior games and provide engine analyses of games while endgame tablebases offer optimal play in some endgames
+starting in frederic friedel and his colleagues put out a magazine computer schach und spiele covering the emerging hobby of computer chess
+in he invited then world chess champion garry kasparov to his house and kasparov mused about how a chess database would make it easier for him to prepare for specific opponents
+friedel began working with bonn physicist matthias w llenweber who created the first such database chessbase as software for the atari st
+the february issue of computerschach spiele introduced the database program as well as the chessbase magazine a floppy disk containing chess games edited by gm john nunn
+the august issue of computerschach spiele announced that dutch programmer frans morsch s fritz program would soon be available sold as software for pcs unlike all of the dedicated chess computers which at the time dominated the ratings lists
+this program was marketed initially as knightstalker in the u s and fritz in the rest of the world
+mathias feist joined chessbase and ported fritz to dos and then microsoft windows
+in german gm rainer knaak joined chessbase as a full time employee annotating games for the chessbase magazine and soon authoring game database cd roms on topics such as the trompowsky attack or mating attacks against
+british gm daniel king was another early author of such cd roms which eventually grew into the fritztrainer series of multimedia dvds
+in the mid s r d publishing in the u s
+released a series of print books in the chessbase university opening series including anatoly karpov and alexander beliavsky s the caro kann in black and white
+in december chessbase added mark uniacke s hiarcs chess engine to its product line up selling it inside the existing fritz graphical user interface gui
+in march chessbase added junior and dr
+christian donninger s nimzo
+also that year chessbase released fritz including a friend mode which would automatically scale its strength of play down to the level that it assessed the player was playing
+this remains a feature of all of chessbase s graphical user interfaces even now
+in chessbase took their database of chess games online
+in november chessbase started offering trainer cd roms by such gms as robert h bner rainer knaak and daniel king
+in stefan meyer kahlen s shredder had won the world computer chess championship
+in april meyer kahlen and huber released the universal chess interface uci protocol for engines to communicate with guis to compete with winboard and chessbase s
+meyer kahlen s contract with millennium expired in june and chessbase immediately snapped him up adding shredder to their product line under a fritz style gui and giving their new guis the ability to import uci engines
+in april chessbase released a young talents cd featuring the engines anmon goliath light gromit ikarus patzer phalanx and rudolf huber s sos
+christophe theron s engines chess tiger and gambit tiger were also released as chessbase engines that month
+in the early s matches were held pitting world champions garry kasparov and vladimir kramnik against versions of the fritz or junior engines
+in chessbase introduced the chess media system allowing players to produce videos with them playing out moves that can be seen on the user s chessboard within a chessbase program
+eventually chessbase commissioned world champions garry kasparov viswanathan anand vladimir kramnik and rustam kasimdzhanov to produce dvds using the new format
+chessbase also produced fritztrainer opening dvds by the likes of grandmasters alexei shirov and viktor bologan and a power play series by british gm daniel king for lower level players
+in april following its victory at the world computer chess championship anthony cozzie s zappa chess engine was published by chessbase as zap chess
+in vasik rajlich s rybka engine was added to the chessbase product line followed by robert houdart s houdini and don dailey and larry kaufman s komodo engines
+recent versions of chessbase and the engine guis such as fritz supports cloud engines
+chessbase playchess had long had a downloadable client but they had added a web interface by
+chessbase added a tactics trainer web app in
+in chessbase released a play fritz web app as well as my games for storing one s games
+the company is located in hamburg germany
+chessbaseusa markets their products in the united states and some of their most popular programs are sold by license viva media now a division of encore inc
+in the german company data becker released the program d schach genie containing the shredder engine and fritz interface
+chessbase india markets their products in india and surrounding countries
+chessbase india is run by international master im sagar shah and his wife amruta mokal
+chessbase was originally designed for the atari st by matthias w llenweber the physicist co founder of the company
+mathias feist helped port the program to dos and has been a key developer ever since
+in more recent years lutz nebe wolfgang haar and jeroen van den belt have also been involved in program development
+chessbase uses a proprietary format for storing games cbh but can also handle games in portable game notation pgn
+the proprietary format uses less hard drive space and manages information that is not possible in pgn
+the software converts files from pgn to chessbase format or from chessbase to pgn
+the program permits searches for games and positions in games based on player names openings some tactical and strategic motifs material imbalance and features of the position
+chessbase can import engines either those such as fritz or shredder in native chessbase format or universal chess interface uci engines such as stockfish
+as of november chesscase s database contained over million games
+the online database can be accessed directly through their database programs
+chessbase also maintains chessbase news a web site containing chess news as well as information on their products
+the site is available in english german spanish and hindi
+chessbase produces many cds and dvds including monographs on famous players tactical training exercises and training for specific opening systems
+they publish the chessbase magazine six times per year which comes on dvd with video clip interviews articles on opening novelties database updates including annotated games and other articles
+all these are designed for viewing within their database software or the free chessbase reader
+a database only version of chessbase for the bbc micro called bbchessbase was published by peter tate in
+gerritt reubold s der bringer chess program is a rare example of a chessbase format engine not released by chessbase itself
+chessbase has faced criticism for allegedly using free software created by others without credit
+the developers of stockfish an open source chess engine charged that fat fritz is a modified copy of their software that had originally been uncredited since rectified and that chessbase claims originality where there is none
+lichess described the same product as a rip off
+chessbase have responded to this criticism by adding references but claiming the new engine differs from stockfish due to added input from the original fat fritz neural network itself claimed by lichess to be derived closely from leela chess zero another open source initiative
+in july stockfish sued chessbase alleging that chessbase violated stockfish s gnu general public license
+chess assistant
+chess engines
+chess informant
+fritz chess
+shane s chess information database
+internet chess servers
+rules of chessofficial website
+playchess server
+

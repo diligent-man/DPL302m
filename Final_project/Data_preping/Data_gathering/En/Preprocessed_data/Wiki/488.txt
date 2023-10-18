@@ -1,0 +1,32 @@
+particulate inheritance is a pattern of inheritance discovered by mendelian genetics theorists such as william bateson ronald fisher or gregor mendel himself showing that phenotypic traits can be passed from generation to generation through discrete particles known as genes which can keep their ability to be expressed while not always appearing in a descending generation
+early in the th century scientists had already recognized that earth has been inhabited by living creatures for a very long time
+on the other hand they did not understand what mechanisms actually drove biological diversity
+they also did not understand how physical traits are inherited from one generation to the next
+blending inheritance was the common ideal at the time but was later discredited by the experiments of gregor mendel
+mendel proposed the theory of particulate inheritance by using pea plants pisum sativum to explain how variation can be inherited and maintained over time
+blending model
+offspring are a blend of both parents i e
+in modern terms alleles would blend together to form a completely new allele
+the characteristics of the blended offspring are passed on to the next generation
+variation is washed out over time
+particulate model
+offspring are a combination of both parents
+the characteristics of both parents are passed on to the next generation as separate entities
+variation is maintained over timesince mendel used experimental methods to devise his particulate inheritance theory he developed three basic laws of inheritance the law of segregation the law of independent assortment and the law of dominance
+mendel s experiment with tall and short pea plants demonstrates how each individual plant has two particles called alleles
+when a pea plant produces gametes reproductive cells it segregates one allele to each one
+the law states that when the parents differ from each other in two or more pairs of contrasting characters the inheritance of one pair of characters is independent to that of the other pair of characters
+in the pea plants mendel observed that the t allele dominant masked the effects of the t allele recessive
+the terms dominant and recessive are used for the masking and the covered allele respectively
+all offspring from this cross are heterozygotes in terms of their genotypes
+they also are tall because the allele for tall masks the allele for short in terms of their phenotype
+in a publication titled the supposition of mendelian inheritance among close relatives r a
+fisher showed that particulate inheritance was capable of generating the vast amount of variation we see among closely related individuals
+this helped to reconcile the biometric and mendelian schools of thought at the time and was an important step in the modern synthesis
+campbell n
+reece j
+biology th ed
+san francisco benjamin cummings
+particulate inheritance bioed online
+retrieved from bioed online slides
+

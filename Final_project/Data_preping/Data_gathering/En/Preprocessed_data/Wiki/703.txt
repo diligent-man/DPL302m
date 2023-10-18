@@ -1,0 +1,53 @@
+several types of connectors for car audio systems are used
+splicing wires used in car audio are mainly for power ground amplifier and antenna speakers phone and others
+acc red supplies v power to car audio and other accessories only when the car s ignition is switched on
+constant yellow also called bat or battery provides permanent v power from battery
+this allows the radio to retain settings for example stored radio stations when the ignition is switched off
+illumination orange with white stripe or dimmer when it is night and cars lights are turned on head unit screen illumination is dimmed
+ground abbrev
+as gnd black v usually connected to the vehicle s metal chassis and body wires with black stripe are for negative power
+right front speaker gray
+left front speaker white
+right rear purple
+left rear green they have low amperage and it is activated when radio is turned on
+antenna blue
+amplifier remote turn on blue with white stripe phone the cable to mute when receiving a call is brown
+back view orange with white strip works when reverse gear light is on and it is used to turn on back camera screen i e
+when parking
+steering wheel controls swc or key brown with black stripe usually employs can bus iso was created in and defines a standard for connectors for the head unit to the car s electrical system consisting of a system of four different connectors typically used in head units for car audio
+part of the standard is dedicated to dimensions and general requirements and part to performance requirements
+the first connector a is always present is usually black in colour and contains pins for power supply off on typically controlled by ignition key optional control for a motorised antenna and so on
+on some cars the v ignition and battery positions are reversed such as later volkswagen group cars peugeot vauxhall astra citro n c and some jcb tractors
+pin is optional used for speed dependent volume control and possibly navigation
+pin is optional used for phone mute
+pin is optional used for reversing lamp signal on becker radios with navigation
+pin is optional used for vehicle instrument illuminationthe second connector b is for connecting four loudspeakers front rear left and right and is usually brown in colour
+the connector c is optional
+sometimes it appears as one pin connector often red in colour or it may be divided into three separate connectors which may be hooked together in which case c is usually yellow c is usually green and c is usually blue in colour
+the contact spacing is narrower than the other connectors so the c connector is sometimes referred to as mini iso
+note iso only defines the physical attributes of the connectors not the pin signal designations which are manufacturer defined
+the example above is oriented towards vw vehicles only
+the connector d is for satellite navigation systems
+it has pins
+from and onwards manufacturers such as bmw citro n ford mercedes benz peugeot volkswagen rover audi seat opel or koda have sometimes started using a pin connector instead called the quadlock
+unfortunately quadlock may not be the description used by manufacturers of the connector components
+therefore searching for quadlock components may be unsuccessful for example molex refer to a typical component of the connector as most frame receptacle housing part number
+the quadlock connector consists of a block of flat pins analogous to the two main iso connectors
+while the physical contact pins are the same the pin allocation is not entirely the same and the connector housing is not compatible
+in addition to the pins like iso there are minor connectors for optional equipment
+they fit within the frame of the main connector and has coding so that they cannot be interchanged
+minor connector b has pins for audio output signals
+minor connector c has pins for various audio sources such as cd changers mp players
+can bus
+car antenna jack
+car radio
+dashboard
+dashcam
+fuse automotive
+iso standard for car radio enclosures
+universal steering wheel control interfacecar audio iso connector pinout
+iso passenger car radio connections
+part dimensions and general requirements
+part performance requirements
+molex part information for most frame receptacle housing with lever and cable cover a k a quadlock
+

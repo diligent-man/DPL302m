@@ -1,0 +1,38 @@
+markets
+fear greed index
+latest market news
+the fbi is warning consumers against using public phone charging stations in order to avoid exposing their devices to malicious software
+public usb stations like the kind found at malls and airports are being used by bad actors to spread malware and monitoring software according to a tweet last week from the fbi s denver branch
+the agency did not provide any specific examples
+carry your own charger and usb cord and use an electrical outlet instead the agency advised in the tweet
+while public charging stations are attractive to many when devices are running critically low on battery security experts have for years raised concerns about the risk
+in researchers coined the term juice jacking to describe the problem
+just by plugging your phone into a compromised power strip or charger your device is now infected and that compromises all your data drew paik formerly of security firm authentic explained to cnn in
+the cord you use to charge your phone is also used to send data from your phone to other devices
+for instance when you plug your iphone into your mac with the charging cord you can download photos from your phone to your computer
+if a port is compromised there s no limit to what information a hacker could take paik previously explained to cnn
+that includes your email text messages photos and contacts
+the fbi regularly provides reminders and public service announcements in conjunction with our partners vikki migoya public affairs officer at the fbi s denver branch told cnn
+this was a general reminder for the american public to stay safe and diligent especially while traveling
+the federal communications commission also updated a blog post on tuesday warning that a corrupted charging port can allow a malicious actor to lock a device or extract personal data and passwords
+in some cases criminals may have intentionally left cables plugged in at charging stations according to the fcc blog post
+there have even been reports of infected cables being given away as promotional gifts
+most stock quote data provided by bats
+us market indices are shown in real time except for the s p which is refreshed every two minutes
+all times are et
+factset factset research systems inc
+all rights reserved
+chicago mercantile certain market data is the property of chicago mercantile exchange inc
+and its licensors
+all rights reserved
+dow jones the dow jones branded indices are proprietary to and are calculated distributed and marketed by dji opco a subsidiary of s p dow jones indices llc and have been licensed for use to s p opco llc and cnn
+standard poor s and s p are registered trademarks of standard poor s financial services llc and dow jones is a registered trademark of dow jones trademark holdings llc
+all content of the dow jones branded indices copyright s p dow jones indices llc and or its affiliates
+fair value provided by indexarb com
+market holidays and trading hours provided by copp clark limited
+cable news network
+a warner bros
+discovery company
+all rights reserved
+cnn sans cable news network
+

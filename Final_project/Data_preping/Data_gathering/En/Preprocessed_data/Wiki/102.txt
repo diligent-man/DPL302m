@@ -1,0 +1,233 @@
+in information theory the conditional entropy quantifies the amount of information needed to describe the outcome of a random variable
+displaystyle y
+given that the value of another random variable
+displaystyle x
+is known
+here information is measured in shannons nats or hartleys
+the entropy of
+displaystyle y
+conditioned on
+displaystyle x
+is written as
+displaystyle mathrm h y x
+the conditional entropy of
+displaystyle y
+given
+displaystyle x
+is defined as
+where
+displaystyle mathcal x
+displaystyle mathcal y
+denote the support sets of
+displaystyle x
+displaystyle y
+note it is conventioned that the expressions
+displaystyle log
+displaystyle log c
+for fixed
+displaystyle c
+should be treated as being equal to zero
+this is because
+displaystyle lim theta to theta log c theta
+displaystyle lim theta to theta log theta
+intuitive explanation of the definition
+according to the definition
+displaystyle displaystyle h y x mathbb e f x y
+where
+displaystyle displaystyle f x y rightarrow log p y x
+displaystyle displaystyle f
+associates to
+displaystyle displaystyle x y
+the information content of
+displaystyle displaystyle y y
+given
+displaystyle displaystyle x x
+which is the amount of information needed to describe the event
+displaystyle displaystyle y y
+given
+displaystyle x x
+according to the law of large numbers
+displaystyle displaystyle h y x
+is the arithmetic mean of a large number of independent realizations of
+displaystyle displaystyle f x y
+displaystyle mathrm h y x x
+be the entropy of the discrete random variable
+displaystyle y
+conditioned on the discrete random variable
+displaystyle x
+taking a certain value
+displaystyle x
+denote the support sets of
+displaystyle x
+displaystyle y
+displaystyle mathcal x
+displaystyle mathcal y
+displaystyle y
+have probability mass function
+displaystyle p y y
+the unconditional entropy of
+displaystyle y
+is calculated as
+displaystyle mathrm h y mathbb e operatorname i y
+displaystyle mathrm h y sum y in mathcal y mathrm pr y y mathrm i y sum y in mathcal y p y y log p y y
+where
+displaystyle operatorname i y i
+is the information content of the outcome of
+displaystyle y
+taking the value
+displaystyle y i
+the entropy of
+displaystyle y
+conditioned on
+displaystyle x
+taking the value
+displaystyle x
+is defined analogously by conditional expectation
+displaystyle mathrm h y x x sum y in mathcal y pr y y x x log pr y y x x
+note that
+displaystyle mathrm h y x
+is the result of averaging
+displaystyle mathrm h y x x
+over all possible values
+displaystyle x
+displaystyle x
+may take
+also if the above sum is taken over a sample
+displaystyle y dots y n
+the expected value
+displaystyle e x mathrm h y dots y n mid x x
+is known in some domains as equivocation
+given discrete random variables
+displaystyle x
+with image
+displaystyle mathcal x
+displaystyle y
+with image
+displaystyle mathcal y
+the conditional entropy of
+displaystyle y
+given
+displaystyle x
+is defined as the weighted sum of
+displaystyle mathrm h y x x
+for each possible value of
+displaystyle x
+using
+displaystyle p x
+as the weights
+displaystyle begin aligned mathrm h y x equiv sum x in mathcal x p x mathrm h y x x sum x in mathcal x p x sum y in mathcal y p y x log p y x sum x in mathcal x sum y in mathcal y p x y log p y x sum x in mathcal x y in mathcal y p x y log p y x sum x in mathcal x y in mathcal y p x y log frac p x y p x sum x in mathcal x y in mathcal y p x y log frac p x p x y end aligned
+displaystyle mathrm h y x
+if and only if the value of
+displaystyle y
+is completely determined by the value of
+displaystyle x
+conversely
+displaystyle mathrm h y x mathrm h y
+if and only if
+displaystyle y
+displaystyle x
+are independent random variables
+assume that the combined system determined by two random variables
+displaystyle x
+displaystyle y
+has joint entropy
+displaystyle mathrm h x y
+that is we need
+displaystyle mathrm h x y
+bits of information on average to describe its exact state
+now if we first learn the value of
+displaystyle x
+we have gained
+displaystyle mathrm h x
+bits of information
+displaystyle x
+is known we only need
+displaystyle mathrm h x y mathrm h x
+bits to describe the state of the whole system
+this quantity is exactly
+displaystyle mathrm h y x
+which gives the chain rule of conditional entropy
+displaystyle mathrm h y x mathrm h x y mathrm h x
+the chain rule follows from the above definition of conditional entropy
+displaystyle begin aligned mathrm h y x sum x in mathcal x y in mathcal y p x y log left frac p x p x y right pt sum x in mathcal x y in mathcal y p x y log p x log p x y pt sum x in mathcal x y in mathcal y p x y log p x y sum x in mathcal x y in mathcal y p x y log p x pt mathrm h x y sum x in mathcal x p x log p x pt mathrm h x y mathrm h x end aligned
+in general a chain rule for multiple random variables holds
+displaystyle mathrm h x x ldots x n sum i n mathrm h x i x ldots x i
+it has a similar form to chain rule in probability theory except that addition instead of multiplication is used
+bayes rule for conditional entropy states
+displaystyle mathrm h y x mathrm h x y mathrm h x mathrm h y
+proof
+displaystyle mathrm h y x mathrm h x y mathrm h x
+displaystyle mathrm h x y mathrm h y x mathrm h y
+symmetry entails
+displaystyle mathrm h x y mathrm h y x
+subtracting the two equations implies bayes rule
+displaystyle y
+is conditionally independent of
+displaystyle z
+given
+displaystyle x
+we have
+displaystyle mathrm h y x z mathrm h y x
+for any
+displaystyle x
+displaystyle y
+displaystyle begin aligned mathrm h y x leq mathrm h y mathrm h x y mathrm h x y mathrm h y x operatorname i x y qquad mathrm h x y mathrm h x mathrm h y operatorname i x y operatorname i x y leq mathrm h x end aligned
+where
+displaystyle operatorname i x y
+is the mutual information between
+displaystyle x
+displaystyle y
+for independent
+displaystyle x
+displaystyle y
+displaystyle mathrm h y x mathrm h y
+displaystyle mathrm h x y mathrm h x
+although the specific conditional entropy
+displaystyle mathrm h x y y
+can be either less or greater than
+displaystyle mathrm h x
+for a given random variate
+displaystyle y
+displaystyle y
+displaystyle mathrm h x y
+can never exceed
+displaystyle mathrm h x
+the above definition is for discrete random variables
+the continuous version of discrete conditional entropy is called conditional differential or continuous entropy
+displaystyle x
+displaystyle y
+be a continuous random variables with a joint probability density function
+displaystyle f x y
+the differential conditional entropy
+displaystyle h x y
+is defined as
+in contrast to the conditional entropy for discrete random variables the conditional differential entropy may be negative
+as in the discrete case there is a chain rule for differential entropy
+displaystyle h y x h x y h x
+notice however that this rule may not be true if the involved differential entropies do not exist or are infinite
+joint differential entropy is also used in the definition of the mutual information between continuous random variables
+displaystyle operatorname i x y h x h x y h y h y x
+displaystyle h x y leq h x
+with equality if and only if
+displaystyle x
+displaystyle y
+are independent
+the conditional differential entropy yields a lower bound on the expected squared error of an estimator
+for any random variable
+displaystyle x
+observation
+displaystyle y
+and estimator
+displaystyle widehat x
+the following holds
+displaystyle mathbb e left bigl x widehat x y bigr right geq frac pi e e h x y
+this is related to the uncertainty principle from quantum mechanics
+in quantum information theory the conditional entropy is generalized to the conditional quantum entropy
+the latter can take negative values unlike its classical counterpart
+entropy information theory
+mutual information
+conditional quantum entropy
+variation of information
+entropy power inequality
+likelihood function
+

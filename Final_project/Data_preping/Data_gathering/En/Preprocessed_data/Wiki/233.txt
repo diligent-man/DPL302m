@@ -1,0 +1,44 @@
+in computer science and recursion theory the mccarthy formalism of computer scientist john mccarthy clarifies the notion of recursive functions by use of the if then else construction common to computer science together with four of the operators of primitive recursive functions zero successor equality of numbers and composition
+the conditional operator replaces both primitive recursion and the mu operator
+mccarthy described his formalism this way
+in this article we first describe a formalism for defining functions recursively
+we believe this formalism has advantages both as a programming language and as a vehicle for developing a theory of computation
+we shall need a number of mathematical ideas and notations concerning functions in general
+most of the ideas are well known but the notion of conditional expression is believed to be new and the use of conditional expressions permits functions to be defined recursively in a new and convenient way in his computation finite and infinite machines marvin minsky in his conditional expressions the mccarthy formalism describes the formalism as follows
+practical computer languages do not lend themselves to formal mathematical treatment they are not designed to make it easy to prove theorems about the procedures they describe
+in a paper by mccarthy we find a formalism that enhances the practical aspect of the recursive function concept while preserving and improving its mathematical clarity
+mccarthy introduces conditional expressions of the form
+f if p then e else e
+where the ei are expressions and p is a statement or equation that may be true or false
+this expression means
+see if p is true if so the value of f is given by e
+if p is false the value of f is given by e
+this conditional expression
+has also the power of the minimization operator
+the mccarthy formalism is like the general recursive kleene system in being based on some basic functions composition and equality but with the conditional expression alone replacing both the primitive recursive scheme and the minimization operator minsky minsky uses the following operators in his demonstrations
+successor
+equality of numbers
+composition substitution replacement assignment
+conditional expressionfrom these he shows how to derive the predecessor function i e
+decrement with this tool he derives the minimization operator necessary for general recursion as well as primitive recursive definitions
+in his introduction of meta mathematics stephen kleene provides a definition of what it means to be a primitive recursive function
+a function is primitive recursive in k briefly if there is a finite sequence k of occurrences of functions
+such that each function of the sequence is either one of the functions the assumed functions or an initial function or an immediate dependent of preceding functions and the last function k is kleene in other words given a basis function it can be a constant such as primitive recursion uses either the base or the previous value of the function to produce the value of the function primitive recursion is sometimes called mathematical induction
+minsky above is describing a two case operator
+a demonstration that the nested if then else the case statement or switch statement is primitive recursive can be found in kleene at f mutually exclusive predicates
+the case operator behaves like a logical multiplexer and is simply an extension of the simpler two case logical operator sometimes called and or select see more at propositional formula
+the case operator for three cases would be verbally described as if x is case then do p else if x is case then do q else if x is case then do r else do default
+boolos burgess jeffrey observe that in a particular instance the case operator or a sequence of nested if then else statements must be both mutually exclusive meaning that only one case holds is true and collectively exhaustive meaning every possible situation or case is covered
+these requirements are a consequence of the determinacy of propositional logic the correct implementation requires the use of truth tables and karnaugh maps to specify and simplify the cases see more at propositional formula
+the authors point out the power of definition by cases
+in more complicated examples definition by cases makes it far easier to establish the primitive recursiveness of important functions
+this is mainly because there are a variety of processes for defining new relations from old that can be shown to produce new primitive recursive relations when applied to primitive recursive relations boolos burgess jeffrey they prove in particular that the processes of substitution graph relation similar to the identity relation that plucks out the value of a particular variable from a list of variables negation logical not conjunction logical and disjunction logical or bounded universal quantification or bounded existential quantification can be used together with definition by cases to create new primitive recursive functions cf boolos burgess jeffrey
+association list
+de bruijn indexgeorge s
+boolos john p
+burgess and richard c
+jeffrey computability and logic fourth edition cambridge university press cambridge uk isbn paperback
+john mccarthy recursive functions of symbolic expressions and their computation by machine part i communications of the acm april
+john mccarthy a basis for a mathematical theory of computation computer programming and formal systems pp
+marvin minsky computation finite and infinite machines prentice hall inc englewood cliffs nj
+

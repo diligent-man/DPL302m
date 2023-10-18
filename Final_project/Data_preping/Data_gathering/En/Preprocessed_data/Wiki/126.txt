@@ -1,0 +1,24 @@
+in certain optimization problems the unknown optimal solution might not be a number or a vector but rather a continuous quantity for example a function or the shape of a body
+such a problem is an infinite dimensional optimization problem because a continuous quantity cannot be determined by a finite number of certain degrees of freedom
+find the shortest path between two points in a plane
+the variables in this problem are the curves connecting the two points
+the optimal solution is of course the line segment joining the points if the metric defined on the plane is the euclidean metric
+given two cities in a country with many hills and valleys find the shortest road going from one city to the other
+this problem is a generalization of the above and the solution is not as obvious
+given two circles which will serve as top and bottom for a cup of given height find the shape of the side wall of the cup so that the side wall has minimal area
+the intuition would suggest that the cup must have conical or cylindrical shape which is false
+the actual minimum surface is the catenoid
+find the shape of a bridge capable of sustaining given amount of traffic using the smallest amount of material
+find the shape of an airplane which bounces away most of the radio waves from an enemy radar infinite dimensional optimization problems can be more challenging than finite dimensional ones
+typically one needs to employ methods from partial differential equations to solve such problems
+several disciplines which study infinite dimensional optimization problems are calculus of variations optimal control and shape optimization
+semi infinite programmingdavid luenberger
+optimization by vector space methods
+john wiley sons
+isbn x
+edward j
+anderson and peter nash linear programming in infinite dimensional spaces wiley
+goberna and m
+l pez linear semi infinite optimization wiley
+cassel kevin w variational methods with applications in science and engineering cambridge university press
+

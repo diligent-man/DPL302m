@@ -1,0 +1,66 @@
+markets
+fear greed index
+latest market news
+there s nothing particularly new about google s latest generation pixel smartphone hardware
+that s why the company is pushing hard to tout its ai powered new software which google says was built specifically for the first phone of the generative ai era
+at a press event in new york city google
+goog showed off the new pixel and pixel pro devices which largely look the same as the year prior albeit with more rounded edges
+but inside its new g tensor chip unlocks an ai powered world aimed at simplifying your life from asking the device to summarize news articles and websites to using google
+goog assistant to field phone calls and tweaking photos to move or resize objects
+the inch pixel and the inch pixel pro comes with a brighter display new camera system and longer lasting battery life
+the pixel is available in three colors hazel rose and obsidian and starts at about less than the baseline iphone with the same amount of storage
+that s about more than last year s pixel
+meanwhile the pixel pro which touts a polished aluminum frame and a matte back glass this year now has the ability to take better low light photos and sharper selfies
+it starts at the same price as the iphone pro and is available in three colors bay porcelain and obsidian
+although these upgrades are mostly incremental the ai enhancements and related features may appeal to tech enthusiasts who want the latest version of android and an alternative to apple or samsung smartphones
+at the same time google s pixel line remains a niche product
+its global market share for smartphones remains about according to data from abi research
+google also limits sales to only a handful of countries so keeping the volume low has been strategic as google remains predominantly a software company with many partners running android
+reece hayden an analyst at abi research said google is looking to establish itself as an early market leader amid the generative ai related hysteria which kicked into high gear late last year with the introduction of chatgpt
+generative ai refers to a type of artificial intelligence that can create new content such as text and images in response to user prompts
+adding it to the pixel creates further product differentiation by leveraging internal capabilities that apple may not have said hayden
+he expects this announcement to be the first of many similar efforts coming to hardware over the next year especially among brands who ve already made investments in this area
+here s a closer look at what google announced and some of the standout new ai features
+google showed off a handful of photo features coming to its pixel line including magic editor which uses generative ai to reposition and resize a subject
+similarly a new audio magic eraser tool that lets users erase distracting sounds from videos
+another tool called best take snaps a series of photos and then aggregates the faces into one shot so everyone looks their best
+and a a new zoom enhanced feature lets users pinch to zoom in about times after a photo is taken to focus in on and edit a specific area
+the company said these efforts aim to let you capture every moment just how you want to remember it
+although the tools intend to give users more control over their photos some analysts like thomas husson at market research firm forrester believe it will be harder to distinguish between what s real and what s not
+the fact that google refers to a magic eraser will blur the distinction between real photos and heavily edited ones husson said
+but he warns an uptick in deepfake apps already makes it hard to decipher the authenticity of some shots
+you don t really need google ai for that
+the company said google assistant will now sound more realistic when it engages with callers
+google s screen call tool already lets assistant field incoming calls speak to callers and determine who s on the line before pushing it through to the user
+but its robotic voice will sound increasing more natural the company said
+google is also bringing the capabilities of its bard ai chatbot to google assistant so it will be able to do more than set an alarm or tell the weather
+with its new generative ai capabilities it will be able to review important emails in a user s inbox or reveal more about a hotel that popped up on their instagram feed
+assistant will also be able to understand user questions in voice text and images
+with generative ai on the scene it s really creating a lot of new opportunities to build an even more intuitive and intelligent and personalized digital assistant sissie hsiao general manager for google assistant and bard told cnn
+in addition to making assistant more useful the tool will make it easier for more users to interact with google s six month old bard on interfaces they may already frequently engage with
+last month google rolled out a major expansion of bard allowing users to link the tool to their gmail and other google workspace tools and making it easier to fact check the ai s responses
+google launched assistant with bard to a small test group on wednesday and it will be more widely available to android and ios users in the coming months
+ai is also getting smarter on the pixel watch its second generation smartwatch
+users can use bard capabilities via an upgraded google assistant watch app to ask it how they slept and get other health insights
+in addition the pixel features a new heart rate sensor which works alongside a new ai driven heart rate algorithm to provide a more accurate heart rate reading than before
+but hayden said he doesn t think more ai will add too much more to its existing value proposition
+smart watches already include a fair amount of ai and pixel is no different he said
+most stock quote data provided by bats
+us market indices are shown in real time except for the s p which is refreshed every two minutes
+all times are et
+factset factset research systems inc
+all rights reserved
+chicago mercantile certain market data is the property of chicago mercantile exchange inc
+and its licensors
+all rights reserved
+dow jones the dow jones branded indices are proprietary to and are calculated distributed and marketed by dji opco a subsidiary of s p dow jones indices llc and have been licensed for use to s p opco llc and cnn
+standard poor s and s p are registered trademarks of standard poor s financial services llc and dow jones is a registered trademark of dow jones trademark holdings llc
+all content of the dow jones branded indices copyright s p dow jones indices llc and or its affiliates
+fair value provided by indexarb com
+market holidays and trading hours provided by copp clark limited
+cable news network
+a warner bros
+discovery company
+all rights reserved
+cnn sans cable news network
+

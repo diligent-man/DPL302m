@@ -1,0 +1,69 @@
+markets
+fear greed index
+latest market news
+editor s note sign up for cnn s meanwhile in china newsletter which explores what you need to know about the country s rise and how it impacts the world
+artists across china are boycotting one of the country s biggest social media platforms over complaints about its ai image generation tool
+the controversy began in august when an illustrator who goes by the name snow fish accused the privately owned social media site xiaohongshu of using her work to train its ai tool trik ai without her knowledge or permission
+trik ai specializes in generating digital art in the style of traditional chinese paintings it is still undergoing testing and has not yet been formally launched
+snow fish whom cnn is identifying by her xiaohongshu username for privacy reasons said she first became aware of the issue when friends sent her posts of artwork from the platform that looked strikingly similar to her own style sweeping brush like strokes bright pops of red and orange and depictions of natural scenery
+can you explain to me trik ai why your ai generated images are so similar to my original works snow fish wrote in a post which quickly circulated online among her followers and the artist community
+the controversy erupted just weeks after china unveiled rules for generative ai becoming one of the first governments to regulate the technology as countries around the world wrestle with ai s potential impact on jobs national security and intellectual property
+trik ai and xiaohongshu which says it has million monthly active users do not publicize what materials are used to train the program and have not publicly commented on the allegations
+the companies have not responded to multiple requests from cnn for comment
+but snow fish said a person using the official trik ai account had apologized to her in a private message acknowledging that her art had been used to train the program and agreed to remove the posts in question
+cnn has reviewed the messages
+however snow fish wants a public apology
+the controversy has fueled online protests on the chinese internet against the creation and use of ai generated images with several other artists claiming their works had been similarly used without their knowledge
+hundreds of artists have posted banners on xiaohongshu saying no to ai generated images while a related hashtag has been viewed more than million times on the chinese twitter like platform weibo
+the boycott in china comes as debates about the use of ai in arts and entertainment are playing out globally including in the united states where striking writers and actors have ground most film and television production to a halt in recent months over a range of issues including studios use of ai
+many of the artists boycotting xiaohongshu have called for better rules to protect their work online echoing similar complaints from artists around the world worried about their livelihoods
+these concerns have grown as the race to develop ai heats up with new tools developed and released almost faster than governments can regulate them ranging from chatbots such as openai s chatgpt to google s bard
+china s tech giants too are rapidly developing their own generative artificial intelligence from baidu s ernie bot launched in march to sensetime s chatbot sensechat
+these artists found out their work was used to train ai
+now they re furious
+besides trik ai xiaohongshu has also developed a new function called ci ke which allows users to post content using ai generated images
+for artists like snow fish the technology behind ai isn t the problem she said it s the way these tools use their work without permission or credit
+many ai models are trained from the work of human artists by quietly scraping images of their artwork from the internet without consent or compensation
+snow fish added that these complaints had been slowly growing within the artist community but had mostly been privately shared rather than openly protested
+it s an outbreak this time she said
+if it easily goes away without any splash people will maintain silent and those ai developers will keep harming our rights
+another chinese illustrator zhang who cnn is identifying by his last name for privacy reasons joined the boycott in solidarity
+they re shameless said zhang
+they didn t put in any effort themselves they just took parts from other artists work and claimed it as their own is that appropriate
+in the future ai images will only be cheaper in people s eyes like plastic bags
+they will become widespread like plastic pollution he said adding that tech leaders and ai developers care more about their own profits than about artists rights
+it gave us some way to fight back new tools aim to protect art and images from ai s grasp
+tianxiang he an associate professor of law city university of hong kong said the use of ai generated images also raises larger questions among the artistic community about what counts as real art and how to preserve its spiritual value
+similar boycotts have been seen elsewhere around the world against popular ai image generation tools such as stable diffusion released last year by london based stability ai and california based midjourney
+stable diffusion is embroiled in an ongoing lawsuit brought by stock image giant getty images alleging copyright infringement
+despite the speed at which ai image generation tools are being developed there is no global consensus about how to regulate this kind of training behavior said he
+he added that many such tools are developed by tech giants who own huge databases which allows them to do a lot of things and they don t care whether it s protected by the law or not
+because trik ai has a smaller database to pull from the similarities between its ai generated content and artists original works are more obvious making an easier legal case he said
+cases of copyright infringement would be harder to detect if more works were put in a larger database he added
+china takes major step in regulating generative ai services like chatgpt
+governments around the world are now grappling with how to set global standards for the wide ranging technology
+the european union was one of the first in the world to set rules in june on how companies can use ai with the united states still holding discussions with capitol hill lawmakers and tech companies to develop legislation
+china was also an early adopter of ai regulation publishing new rules that took effect in august
+but the final version relaxed some of the language that had been included in earlier drafts
+experts say major powers like china likely prioritize centralizing power from tech giants when drafting regulations and pulling ahead in the global tech race rather than focusing on individuals rights
+he the hong kong law professor called the regulations a very broad general regulatory framework that provide no specific control mechanisms to regulate data mining
+china is very hesitant to enact anything related to say yes or no to data mining because that will be very dangerous he said adding that such a law could strike a blow to the emerging market amid an already slow national economy
+most stock quote data provided by bats
+us market indices are shown in real time except for the s p which is refreshed every two minutes
+all times are et
+factset factset research systems inc
+all rights reserved
+chicago mercantile certain market data is the property of chicago mercantile exchange inc
+and its licensors
+all rights reserved
+dow jones the dow jones branded indices are proprietary to and are calculated distributed and marketed by dji opco a subsidiary of s p dow jones indices llc and have been licensed for use to s p opco llc and cnn
+standard poor s and s p are registered trademarks of standard poor s financial services llc and dow jones is a registered trademark of dow jones trademark holdings llc
+all content of the dow jones branded indices copyright s p dow jones indices llc and or its affiliates
+fair value provided by indexarb com
+market holidays and trading hours provided by copp clark limited
+cable news network
+a warner bros
+discovery company
+all rights reserved
+cnn sans cable news network
+

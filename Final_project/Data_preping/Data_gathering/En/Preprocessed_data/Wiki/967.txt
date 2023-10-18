@@ -1,0 +1,41 @@
+the hyperscan is a home video game console from the toy company mattel
+it used radio frequency identification rfid along with traditional video game technology
+the included game was rated t teen not suitable for under age and the remaining titles were rated e not suitable for under age by the esrb
+the console used udf format cd roms
+the hyperscan has two controller ports as well as a mhz rfid scanner that reads and writes to the cards which in turn activate features in and save data from the game
+players are able to enhance the abilities of their characters by scanning cards
+games retailed for and the console itself for at launch but at the end of its very short lifespan prices of the system were down to the games and booster packs
+the system was sold in two varieties a cube and a player value pack
+the cube box version was the version sold in stores
+it included the system controller an x men game disc and x men cards
+two player value packs were sold online but may have been liquidated in stores and included an extra controller and additional x men cards
+the system was universally panned by critics for its clunky design broken controls poor library long loading screens and the unnecessary usage of cards to select characters and was officially discontinued in
+it is featured as one of the ten worst systems ever by pc world magazine
+the hyperscan s rfid systems were provided by innovision research and technology plc a fabless semiconductor design house based in the uk which specializes in rfid systems and chip design
+the games for the system were sold as game packs which consisted of a game disc accompanied by six game cards seven for spider man
+additional cards which contained characters abilities moves and levels when scanned were part of a six card booster pack available for pack
+as with most trading card packs the cards were randomized meaning a player looking for a certain card to unlock that element of the game may have had to buy multiple booster packs in order to get it while getting multiple cards for another aspect of the game or trade it for another with a friend as was likely intended by the hyperscan s card aspect
+multiple booster packs were intended for certain games with x men intending to have cards to unlock parts of the game according to its instruction manual in separate red and black series the latter went unreleased due to the console s cancellation effectively leaving half the game locked behind a paywall which barring some kind of hack which would unlock the entire game can never be lifted
+there were only titles known to have been released with canceled games
+background shading indicates canceled games
+x men a fighting game in which two characters face off against each other in self contained matches similar to street fighter
+the only game on the console to be rated t for teen
+ben a side scrolling adventure quest
+the only cartoon network exclusive video game for the system
+interstellar wrestling league a sort of v fighting game similar to clayfighter but with alien like characters
+marvel heroes which includes some x men characters is a side scrolling adventure quest
+spider man a side scrolling adventure quest the ben and spider man games are similar to marvel heroes
+though not much development for homebrew games was done on the console several programmers have created demos and proofs of concepts
+some of the programs include a cd door demo d wireframe demo and a bluescale demo
+sunplus spg soc implementing the s core bit microarchitecture designed by sunplus technology
+the s core instruction set architecture allows use of a bit hybrid instruction mode features advanced microcontroller bus architecture amba support and includes sjtag for in circuit emulation
+uart i c spi etc
+composite video output soc supports tft displays but the system does not implement it
+mb sdram system ram
+native resolution
+colors rgb mode
+usb port
+rfid scanner mhz
+rfid storage bytes of user memory bytes unique id bytes of one time programmable memorymattel hyperscan ultimate console database
+feature titled the most bizarre console flops in gaming history by adam james at svg com
+

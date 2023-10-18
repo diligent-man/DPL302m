@@ -1,0 +1,106 @@
+a computing platform or digital platform is an environment in which a piece of software is executed
+it may be the hardware or the operating system os even a web browser and associated application programming interfaces or other underlying software as long as the program code is executed with it
+computing platforms have different abstraction levels including a computer architecture an os or runtime libraries
+a computing platform is the stage on which computer programs can run
+a platform can be seen both as a constraint on the software development process in that different platforms provide different functionality and restrictions and as an assistant to the development process in that they provide low level functionality ready made
+for example an os may be a platform that abstracts the underlying differences in hardware and provides a generic command for saving files or accessing the network
+platforms may also include
+hardware alone in the case of small embedded systems
+embedded systems can access hardware directly without an os this is referred to as running on bare metal
+a browser in the case of web based software
+the browser itself runs on a hardware os platform but this is not relevant to software running within the browser
+an application such as a spreadsheet or word processor which hosts software written in an application specific scripting language such as an excel macro
+this can be extended to writing fully fledged applications with the microsoft office suite as a platform
+software frameworks that provide ready made functionality
+cloud computing and platform as a service
+extending the idea of a software framework these allow application developers to build software out of components that are hosted not by the developer but by the provider with internet communication linking them together
+the social networking sites twitter and facebook are also considered development platforms
+a virtual machine vm such as the java virtual machine or net clr
+applications are compiled into a format similar to machine code known as bytecode which is then executed by the vm
+a virtualized version of a complete system including virtualized hardware os software and storage
+these allow for instance a typical windows program to run on what is physically a mac some architectures have multiple layers with each layer acting as a platform to the one above it
+in general a component only has to be adapted to the layer immediately beneath it
+for instance a java program has to be written to use the java virtual machine jvm and associated libraries as a platform but does not have to be adapted to run for the windows linux or macintosh os platforms
+however the jvm the layer beneath the application does have to be built separately for each os
+amigaos amigaos
+chrome os
+freebsd netbsd openbsd
+ibm i
+linux
+microsoft windows
+openvms
+classic mac os discontinued in
+macos
+solaris
+tru unix
+z osandroid
+bada discontinued in
+blackberry os discontinued in
+blackberry discontinued in
+fire os
+firefox os discontinued in
+ipados
+embedded linux
+palm os discontinued in
+symbian discontinued in
+tizen
+webos
+luneos
+windows mobile discontinued in
+windows phone discontinued in
+kaiosbinary runtime environment for wireless brew
+cocoa
+cocoa touch
+net framework
+silverlight
+flash
+java me
+java se
+java ee
+javafx
+javafx mobile
+livecode
+microsoft xna
+mozilla prism xul and xulrunner
+mozilla webextensions api is modeled after google chrome s api
+thus firefox extensions are now largely compatible with their chrome counterparts
+web platform
+oracle database
+sap netweaver
+shockwave
+smartface
+universal windows platform
+windows runtimeordered roughly from more common types to less common types
+commodity computing platforms
+arm architecture based devices
+android smartphones
+iphone smartphones and ipad tablet devices running ios or ipados from apple
+macintosh computers using apple silicon
+raspberry pi or gumstix full function miniature computers with linux
+arm servers with unix like systems such as linux or bsd variants
+newton devices running the newton os from apple
+chromebooks from various manufacturers
+wintel that is intel x or compatible personal computer hardware with windows operating system
+macintosh custom apple inc
+hardware and classic mac os and macos operating systems originally k based then powerpc based then x based now migrated to apple silicon with arm architecture cpus
+x with unix like systems such as linux or bsd variants
+cp m computers based on the s bus maybe the earliest microcomputer platform
+video game consoles any variety playstation xbox nintendo
+do interactive multiplayer that was licensed to manufacturers
+apple pippin a multimedia player platform for video game console development
+non commodity risc or itanium processor based machines
+unix variants or unix like systems
+sparc architecture computers running solaris illumos or linux operating systems
+power isa powerpc or power isa computers running ibm aix or linux operating systems
+itanium computers running hp ux
+dec alpha machines computers tru unix
+powerpc or power isa computers running ibm i
+dec alpha and itanium computers running openvms
+midrange computers with their custom operating systems
+mainframe computers with their custom operating systems such as ibm z os
+supercomputer architecturescross platform
+platform virtualization
+third platform
+platform ecosystem media related to computing platforms at wikimedia commons
+ryan sarver what is a platform
+

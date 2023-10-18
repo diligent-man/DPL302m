@@ -1,0 +1,191 @@
+sutton signwriting or simply signwriting is a system of writing sign languages
+it is highly featural and visually iconic both in the shapes of the characters which are abstract pictures of the hands face and body and in their spatial arrangement on the page which does not follow a sequential order like the letters that make up written english words
+it was developed in by valerie sutton a dancer who had two years earlier developed dancewriting
+some newer standardized forms are known as the international sign writing alphabet iswa
+as sutton was teaching dancewriting to the royal danish ballet lars von der lieth who was doing research on sign language at the university of copenhagen thought it would be useful to use a similar notation for the recording of sign languages
+sutton based signwriting on dancewriting and finally expanded the system to the complete repertoire of movementwriting
+however only signwriting and dancewriting have been widely used
+although not the first writing system for sign languages see stokoe notation signwriting is the first to adequately represent facial expressions and shifts in posture and to accommodate representation of series of signs longer than compound words and short phrases
+it is the only system in regular use used for example to publish college newsletters in american sign language and has been used for captioning of youtube videos
+sutton notes that signwriting has been used or investigated in over countries on every inhabited continent
+however it is not clear how widespread its use is in each country
+in brazil during the feneis national association of the deaf annual meeting in the association voted to accept signwriting as the preferred method of transcribing lingua brasileira de sinais libras into a written form
+the strong recommendation to the brazilian government from that association was that signwriting be taught in all deaf schools
+currently signwriting is taught on an academic level at the federal university of santa catarina as part of its brazilian sign language curriculum
+signwriting is also being used in the recently published brazilian sign language dictionary containing more than signs used by the deaf of s o paulo published by the university of s o paulo under the direction of prof
+fernando capovilla ej brazilian sign language lexicography and technology dictionary digital encyclopedia chereme based sign retrieval and quadriplegic deaf communication systems
+abstracted from educational resources information center
+some initial studies found that deaf communities prefer video or writing systems for the dominant language however this claim has been disputed by the work of steve and dianne parkhurst in spain where they found initial resistance later renewed interest and finally pride
+if deaf people learn to read and write in their own signing system that increases their self esteem says dianne parkhurst
+as of signwriting is widely used at international sign forums
+it is adopted in as many as countries among which are brazil ethiopia france germany italy portugal saudi arabia slovenia tunisia and the united states
+signwriting as the international sign writing alphabet iswa has been proposed as the manual equivalent to the international phonetic alphabet
+however some researchers argue that the signwriting is not a phonemic orthography and does not have a one to one map from phonological forms to written forms
+although such a claim is disputed it has been recommended that countries adapt this sign on a language by language basis
+there are two doctoral dissertations that study and promote the application of signwriting to a specific sign language
+maria galea wrote about using signwriting to write maltese sign language
+also claudia savina bianchini wrote her doctoral dissertation on the implementation of signwriting to write italian sign language
+in signwriting a combination of iconic symbols for handshapes orientation body locations facial expressions contacts and movement are used to represent words in sign language
+since signwriting as a featural script represents the actual physical formation of signs rather than their meaning no phonemic or semantic analysis of a language is required to write it
+a person who has learned the system can feel out an unfamiliar sign in the same way an english speaking person can sound out an unfamiliar word written in the latin alphabet without even needing to know what the sign means
+the number of symbols is extensive and often provides multiple ways to write a single sign
+just as it took many centuries for english spelling to become standardized spelling in signwriting is not yet standardized for any sign language
+words may be written from the point of view of the signer or the viewer
+however almost all publications use the point of view of the signer and assume the right hand is dominant
+sutton originally designed the script to be written horizontally left to right like english and from the point of view of the observer but later changed it to vertical top to bottom and from the point of view of the signer to conform to the wishes of deaf writers
+the orientation of the palm is indicated by filling in the glyph for the hand shape
+a hollow outline white glyph indicates that one is facing the palm of the hand a filled black glyph indicates that one is facing the back of the hand and split shading indicates that one is seeing the hand from the side
+although in reality the wrist may turn to intermediate positions only the four orientations of palm back and either side are represented in signwriting as they are enough to represent sign languages
+if an unbroken glyph is used then the hand is placed in the vertical wall or face plane in front of the signer as occurs when finger spelling
+a band erased across the glyph through the knuckles shows that the hand lies in the horizontal plane parallel to the floor
+if one of the basic hand shape glyphs is used such as the simple square or circle this band breaks it in two however if there are lines for fingers extended from the base then they become detached from the base but the base itself remains intact
+the diagram to the left shows a ba hand flat hand in six orientations
+for the three vertical orientations on the left side the hand is held in front of the signer fingers pointing upward
+all three glyphs can be rotated like the hands of a clock to show the fingers pointing at an angle to the side or downward
+for the three horizontal orientations on the right side of the diagram the hand is held outward with the fingers pointing away from the signer and presumably toward the viewer
+they can also be rotated to show the fingers pointing to the side or toward the signer
+although an indefinite number of orientations can be represented this way in practice only eight are used for each plane that is only multiples of are found
+there are over a hundred glyphs for hand shapes but all the ones used in asl are based on five basic elements
+a square represents a closed fist with the knuckles of the flexed fingers bent so that the fingers touch the palm and the thumb lies over the fingers
+unadorned this square represents the s hand of fingerspelling
+modified as described below it indicates that at least one of the four fingers touches the palm of the hand
+a circle represents an open fist a hand where the thumb and fingers are flexed so as to touch at their tips
+unadorned this is the o hand of fingerspelling
+modified it indicates that at least one finger touches the thumb this way
+a pentagon triangle atop a rectangle as in the illustration used for the orientation section above represents a flat hand where all fingers are straight and in contact
+this is similar to the b hand of fingerspelling though without the thumb crossing over the palm
+a c shape represents a hand where the thumb and fingers are curved but not enough to touch
+this is used for the c hand of fingerspelling and can be modified to show that the fingers are spread apart
+an angled shape like a fat l shows that the four fingers are flat straight and in contact but bent at from the plane of the palm
+it does not occur as a simple shape but must include an indication of where the thumb is either out to the side or touching the tips of the fingers a line halfway across the square or pentagon shows the thumb across the palm
+these are the e b and with spread fingers hands of fingerspelling
+these basic shapes are modified with lines jutting from their faces and corners to represent fingers that are not positioned as described above
+straight lines represent straight fingers these may be at an angle to indicate that they are not in line with the palm if they point toward or away from the signer they have a diamond shape at the tip curved lines for curved cupped fingers hooked lines for hooked fingers right angle lines for fingers bent at only one joint and crossed lines for crossed fingers as shown in the chart at right
+the pentagon and c are only modified to show that the fingers are spread rather than in contact the angle is only modified to show whether the thumb touches the finger tips or juts out to the side
+although there are some generalizations which can be made for the dozens of other glyphs which are based on the circle and square the details are somewhat idiosyncratic and each needs to be memorized
+there are only a few symbols for finger movement
+they may be doubled to show that the movement is repeated
+a solid bullet represents flexing the middle joint of a finger or fingers and a hollow bullet represents straightening a flexed finger
+that is a d hand with a solid bullet means that it becomes an x hand while an x hand with a hollow bullet means that it becomes a d hand
+if the fingers are already flexed then a solid bullet shows that they squeeze
+for example a square closed fist s hand with double solid bullets is the sign for milk iconically squeezing an udder
+a downward pointing chevron represents flexing at the knuckles while an upward pointing chevron shows that the knuckles straighten
+that is a u hand with a down chevron becomes an n hand while and n hand with an up chevron becomes a u hand
+a zigzag like two chevrons joined together means that the fingers flex repeatedly and in sync
+a double line zigzag means that the fingers wriggle or flutter out of sync
+hundreds of arrows of various sorts are used to indicate movement of the hands through space
+movement notation gets quite complex and because it is more exact than it needs to be for any one sign language different people may choose to write the same sign in different ways
+for movement with the left hand the shaped arrowhead is hollow white for movement with the right hand it is solid black
+when both hands move as one an open shaped arrowhead is used
+as with orientation movement arrows distinguish two planes movement in the vertical plane up down is represented by arrows with double stems as at the bottom of the diagram at left while single stemmed arrows represent movement parallel to the floor to fro
+in addition movement in a diagonal plane uses modified double stemmed arrows a cross bar on the stem indicates that the motion is away as well up or down and a solid dot indicates approaching motion
+to fro movement that also goes over or under something uses modified single stemmed arrows with the part of the arrow representing near motion thicker than the rest
+these are iconic but conventionalized and so need to be learned individually
+straight movements are in one of eight directions for either plane as in the eight principal directions of a compass
+a long straight arrow indicates movement from the elbow a short arrow with a cross bar behind it indicates motion from the wrist and a simple short arrow indicates a small movement
+doubled in opposite directions these can show nodding from the wrist a secondary curved arrow crossing the main arrow shows that the arm twists while it moves
+doubled in opposite directions these can show shaking of the hand arrows can turn curve zigzag and loop the loop
+arrows on the face at the eyes show the direction of gaze
+six contact glyphs show hand contact with the location of the sign
+that is a handshape glyph located at the side of the face together with a contact glyph indicates that the hand touches the side of the face
+the choice of the contact glyph indicates the manner of the contact
+an asterisk or for simply touching the place
+a plus sign for grasping the place usually the other hand
+a pound hash sign for striking the place
+a circle with a dot inside for brushing along the place and then leaving it
+a spiral or may be approximated with for rubbing the place and not leaving if there is no additional arrow this is understood to be in circles and
+two bars on either side of a contact symbol to indicate the contact happens between elements of the place of contact usually between fingers or inside a circular hand shape
+a contact other than the basic asterisk is rarely used between bars if the signing hand is located at the other hand the symbol for it is one of the hand shapes above
+in practice only a subset of the more simple hand shapes occurs
+additional symbols are used to represent sign locations at the face or body parts other than the hands
+a circle shows the head
+there are symbols to represent facial movements that are used in various sign languages including eyes eyebrows nose movements cheeks mouth movements and breathing changes
+the direction of head movement and eyegaze can also be shown
+shoulders are shown with a horizontal line
+small arrows can be added to show shoulder and torso movement
+arms and even legs can be added if necessary
+there are also symbols that indicate speed of movement whether movement is simultaneous or alternating and punctuation
+various punctuation symbols exist that correspond to commas periods question and exclamation marks and other punctuation symbols of other scripts
+these are written between signs and lines do not break between a sign and its following punctuation symbol
+one of the unusual characteristics of signwriting is its use of two dimensional layout within an invisible sign box
+the relative positions of the symbols within the box iconically represent the locations of the hands and other parts of the body involved in the sign being represented
+as such there is no obvious linear relationship between the symbols within each sign box unlike the sequence of characters within each word in most scripts for spoken languages
+this is also unlike other sign language scripts which arrange symbols linearly as in spoken languages
+however since in sign languages many phonetic parameters are articulated simultaneously these other scripts require arbitrary conventions for specifying the order of different parameters of handshape location motion etc
+although signwriting does have conventions for how symbols are to be arranged relative to each other within a sign the two dimensional layout results in less arbitrariness and more iconicity than other sign language scripts
+outside of each sign however the script is linear reflecting the temporal order of signs
+signs are most commonly now written in vertical columns although formerly they were written horizontally
+sign boxes are arranged from top to bottom within the column interspersed with punctuation symbols and the columns progress left to right across the page
+within a column signs may be written down the center or shifted left or right in lanes to indicate side to side shifts of the body
+sutton orders signs in ten groups based on which fingers are extended on the dominant hand
+these are equivalent to the numerals one through ten in asl
+each group is then subdivided according to the actual hand shape and then subdivided again according to the plane the hand is in vertical then horizontal then again according to the basic orientation of the hand palm side back
+an ordering system has been proposed using this beginning and examples from both american sign language and brazilian sign language libras
+the current system of ordering for signwriting is called the sign symbol sequence which is parsed by the creator of each sign as recorded into the on line dictionary
+this system allows for internal ordering by features including handshape orientation speed location and other clustered features not found in spoken dictionaries
+some of the advantages of signwriting compared to other writing systems for sign languages are
+its iconicity makes it easy to learn to read in particular the iconicity that results from layout in two dimensions instead of just one
+it has detailed mechanisms for representing facial expression and other non manuals
+it has been adapted for use with many different sign languages however it has a few disadvantages as well
+the sheer size of its symbol set and the fine details which can be written create a challenge in learning how to write
+it also means that the written form is largely situational and inventive different people may write the same sign different ways and a single person may alternate between transcriptions
+the two dimensional spatial layout of signwriting symbols within each sign although it is more iconic than a linear layout comes at a cost
+signwriting currently requires special software signwriting cannot be used as ordinary text within normal word processors or other application software
+as a work around software signmaker and rand keyboard is available on the signwriting website which allows a sign once assembled with special signwriting software to be copied easily as a graphic image into word processing or desktop publishing software signpuddle is a plain text ascii string representation of signs
+it can be stored as plain text anywhere and be replaced by signs with special programs such as the signwriting icon server
+an rfc standard draft for it has been proposed which later evolved into a stricter draft standard known as formal signwriting fsw
+it can also use unicode characters instead of ascii escapes
+there is also an experimental truetype font that uses the sil graphite technology to automatically turn these sequences into signs
+signwriting is the first writing system for sign languages to be included in the unicode standard
+characters were added in the sutton signwriting unicode block of unicode version released in june
+this set of characters is based on signwriting s standardized symbol set and defined character encoding model
+the unicode standard only covers the symbol set
+it does not address layout the positioning of the symbols in two dimensions
+historically software has recorded position using cartesian x y coordinates for each symbol
+since unicode focuses on symbols that make sense in a one dimensional plain text context the number characters required for two dimensional placement were not included in the unicode proposal
+the unicode block for sutton signwriting is u d u daaf
+current software records each sign as a string of characters in either ascii or unicode
+older software may use xml or a custom binary format to represent a sign
+formal signwriting uses ascii characters to define the two dimensional layout within a sign and other simple structures
+it would be possible to fully define a sign in unicode with seventeen additional characters
+with either character set unicode or ascii the spelling of a sign produces a word that the can be efficiently processed with regular expressions
+these sets are isomorphic
+sutton has released the international signwriting alphabet under the sil open font license
+the symbols of the iswa are available as individual svg or as truetype fonts
+signwriting fonts project on githubgoogle has release an open type font called noto sans signwriting that supports the signwriting in unicode uni specification with modifying characters and facial diacritics
+signwriting is enabled on wikimedia incubator with the javascript based signwriting keyboard for use on wikimedia and throughout the web by yair rand
+test wikis include the asl wikipedia on incubator and the other test wikis of sign languages
+the sutton signwriting signmaker sutton signwriting signmaker is a sign editor that can be accessed directly embedded in an iframe and downloaded
+it uses both formal signwriting in ascii fsw and signwriting in unicode swu character sets along with the associated style string
+see draft slevinski formal signwriting for detailed specification
+for modern web and app development several packages are available on npm
+sutton signwriting core a javascript package for node and browsers that supports general processing of the sutton signwriting script
+sutton signwriting unicode a javascript package for processing signwriting in unicode uni characters
+sutton signwriting font ttf a javascript package for the web components and browser that generates svg and png images for individual symbols and complete signs
+sutton signwriting font db a javascript package for node that generates svg and png images for individual symbols and complete signs
+sutton signwriting sgnw components a javascript package of web components for use with the signwriting script
+sutton signwriting signmaker a javascript package for sign editing page with url parameters and iframe messaging
+for sign language translation signwriting text is a useful abstraction layer between video and the natural language processing of sign language
+the conversion of sign language video to signwriting text is an emerging field with open source options
+additional machine learning projects are available for handwriting recognition of signwriting signwriting to spoken language and spoken language to signwriting
+signwriting is a key component of the efforts to create google translate for sign language
+other writing systems for sign languages including
+asl phabet a minimal script for asl
+hamburg notation system hamnosys a phonetic transcription system for sign languages developed by linguists in europe
+si s a handwritten script for asl
+stokoe notation a script devised by a pioneer of sign language linguistics originally for asl which has been adapted for other sign languages
+international movement writing alphabet imwa hoffmann dilloway erika
+feeling your own or someone else s face writing signs from the expressive viewpoint
+language communication official website for sutton signwriting
+iswa html reference
+iswa font reference
+modern signwriting specifications
+signwriting image server
+noto signwriting
+signwriting mediawiki plugin
+handwritten forms of signwriting
+signpuddle online dictionaries and documents
+dictionary of the flemish sign language uses signwriting
+the king james bible in signwriting
+ma thesis a grammar of signwriting
+

@@ -1,0 +1,192 @@
+the net present value npv or net present worth npw applies to a series of cash flows occurring at different times
+the present value of a cash flow depends on the interval of time between now and the cash flow
+it also depends on the discount rate
+npv accounts for the time value of money
+it provides a method for evaluating and comparing capital projects or financial products with cash flows spread over time as in loans investments payouts from insurance contracts plus many other applications
+time value of money dictates that time affects the value of cash flows
+for example a lender may offer cents for the promise of receiving a month from now but the promise to receive that same dollar years in the future would be worth much less today to that same person lender even if the payback in both cases was equally certain
+this decrease in the current value of future cash flows is based on a chosen rate of return or discount rate
+if for example there exists a time series of identical cash flows the cash flow in the present is the most valuable with each future cash flow becoming less valuable than the previous cash flow
+a cash flow today is more valuable than an identical cash flow in the future because a present flow can be invested immediately and begin earning returns while a future flow cannot
+npv is determined by calculating the costs negative cash flows and benefits positive cash flows for each period of an investment
+after the cash flow for each period is calculated the present value pv of each one is achieved by discounting its future value see formula at a periodic rate of return the rate of return dictated by the market
+npv is the sum of all the discounted future cash flows
+because of its simplicity npv is a useful tool to determine whether a project or investment will result in a net profit or a loss
+a positive npv results in profit while a negative npv results in a loss
+the npv measures the excess or shortfall of cash flows in present value terms above the cost of funds
+in a theoretical situation of unlimited capital budgeting a company should pursue every investment with a positive npv
+however in practical terms a company s capital constraints limit investments to projects with the highest npv whose cost cash flows or initial cash investment do not exceed the company s capital
+npv is a central tool in discounted cash flow dcf analysis and is a standard method for using the time value of money to appraise long term projects
+it is widely used throughout economics financial analysis and financial accounting
+in the case when all future cash flows are positive or incoming such as the principal and coupon payment of a bond the only outflow of cash is the purchase price the npv is simply the pv of future cash flows minus the purchase price which is its own pv
+npv can be described as the difference amount between the sums of discounted cash inflows and cash outflows
+it compares the present value of money today to the present value of money in the future taking inflation and returns into account
+the npv of a sequence of cash flows takes as input the cash flows and a discount rate or discount curve and outputs a present value which is the current fair price
+the converse process in discounted cash flow dcf analysis takes a sequence of cash flows and a price as input and as output the discount rate or internal rate of return irr which would yield the given price as npv
+this rate called the yield is widely used in bond trading
+many computer based spreadsheet programs have built in formulae for pv and npv
+each cash inflow outflow is discounted back to its present value pv
+then all are summed such that npv is the sum of all terms
+displaystyle frac r t i t
+where
+displaystyle t
+is the time of the cash flow
+displaystyle i
+is the discount rate i e
+the return that could be earned per unit of time on an investment with similar risk
+displaystyle r t
+is the net cash flow i e
+cash inflow cash outflow at time t
+for educational purposes
+displaystyle r
+is commonly placed to the left of the sum to emphasize its role as minus the investment the result of this formula is multiplied with the annual net cash in flows and reduced by initial cash outlay the present value but in cases where the cash flows are not equal in amount the previous formula will be used to determine the present value of each cash flow separately
+any cash flow within months will not be discounted for npv purpose nevertheless the usual initial investments during the first year r are summed up a negative cash flow
+given the period cash flow pairs
+displaystyle t
+displaystyle r t
+where
+displaystyle n
+is the total number of periods the net present value
+displaystyle mathrm npv
+is given by
+displaystyle mathrm npv i n sum t n frac r t i t
+for constant cash flow
+displaystyle r
+the net present value
+displaystyle mathrm npv
+is a finite geometric series and is given by
+displaystyle mathrm npv i n r r left frac left frac i right n left frac i right right quad i neq
+inclusion of the
+displaystyle r
+term is important in the above formulae
+a typical capital project involves a large negative
+displaystyle r
+cashflow the initial investment with positive future cashflows the return on the investment
+a key assessment is whether for a given discount rate the npv is positive profitable or negative loss making
+the irr is the discount rate for which the npv is exactly
+the rate used to discount future cash flows to the present value is a key variable of this process
+a firm s weighted average cost of capital after tax is often used but many people believe that it is appropriate to use higher discount rates to adjust for risk opportunity cost or other factors
+a variable discount rate with higher rates applied to cash flows occurring further along the time span might be used to reflect the yield curve premium for long term debt
+another approach to choosing the discount rate factor is to decide the rate which the capital needed for the project could return if invested in an alternative venture
+if for example the capital required for project a can earn elsewhere use this discount rate in the npv calculation to allow a direct comparison to be made between project a and the alternative
+related to this concept is to use the firm s reinvestment rate
+re investment rate can be defined as the rate of return for the firm s investments on average
+when analyzing projects in a capital constrained environment it may be appropriate to use the reinvestment rate rather than the firm s weighted average cost of capital as the discount factor
+it reflects opportunity cost of investment rather than the possibly lower cost of capital
+an npv calculated using variable discount rates if they are known for the duration of the investment may better reflect the situation than one calculated from a constant discount rate for the entire investment duration
+refer to the tutorial article written by samuel baker for more detailed relationship between the npv and the discount rate
+for some professional investors their investment funds are committed to target a specified rate of return
+in such cases that rate of return should be selected as the discount rate for the npv calculation
+in this way a direct comparison can be made between the profitability of the project and the desired rate of return
+to some extent the selection of the discount rate is dependent on the use to which it will be put
+if the intent is simply to determine whether a project will add value to the company using the firm s weighted average cost of capital may be appropriate
+if trying to decide between alternative investments in order to maximize the value of the firm the corporate reinvestment rate would probably be a better choice
+using variable rates over time or discounting guaranteed cash flows differently from at risk cash flows may be a superior methodology but is seldom used in practice
+using the discount rate to adjust for risk is often difficult to do in practice especially internationally and is difficult to do well
+an alternative to using discount factor to adjust for risk is to explicitly correct the cash flows for the risk elements using rnpv or a similar method then discount at the firm s rate
+npv is an indicator of how much value an investment or project adds to the firm
+with a particular project if
+displaystyle r t
+is a positive value the project is in the status of positive cash inflow in the time of t
+displaystyle r t
+is a negative value the project is in the status of discounted cash outflow in the time o t
+appropriately risked projects with a positive npv could be accepted
+this does not necessarily mean that they should be undertaken since npv at the cost of capital may not account for opportunity cost i e comparison with other available investments
+in financial theory if there is a choice between two mutually exclusive alternatives the one yielding the higher npv should be selected
+a positive net present value indicates that the projected earnings generated by a project or investment in present dollars exceeds the anticipated costs also in present dollars
+this concept is the basis for the net present value rule which dictates that the only investments that should be made are those with positive npvs
+an investment with a positive npv is profitable but one with a negative npv will not necessarily result in a net loss it is just that the internal rate of return of the project falls below the required rate of return
+as an indicator of projects investment npv has several advantages and disadvantages for decision making
+consideration of the time value of money allows the npv to include all relevant time and cash flows for the project
+this idea is consistent with the goal of wealth maximization by creating the highest wealth for shareholders
+beyond that cash flow timing patterns and size differences for each project provide an easy comparison of different investment options however the npv method also comes with many disadvantages
+first of all the consideration of hidden costs and project size is not a part of the npv approach
+thus investment decisions on projects with substantial hidden costs may not be accurate
+in the second place npv can only be accurate if the input numbers are perfectly correct given the fact that npv requires the firm to knowledge the accurate discount rate timing and size of cash flows
+the accuracy of npv relies heavily on the rationality of the choice of the discount factor representing the investment s true risk premium therefore the optimal configuration established by npv creates a lot of diversifications
+outcomes of npv presented maximum profitability of projects along with the lowest levelized cost of investment cost whereas ranking of npv investment projects displays the lack of consideration in the project s size the cost of capital
+moreover issues related to inherent conceptual assumptions are also one of the disadvantages
+in particularity the assumption of certainty and one target variable
+in addition the difficulties of comparing mutually exclusive projects with different investment horizons are exhibited
+since unequal projects are all assumed to have duplicate investment horizons the npv approach can be used to compare the optimal duration npv
+synthesizing the relevant advantages and disadvantages the npv approach provides optimal results when the combination of investment projects and constrained budgets are provided based on a capital rationing situation
+more importantly the selected projects must have a recurring investment horizon
+the time discrete formula of the net present value
+displaystyle mathrm npv i n sum t n frac r t i t
+can also be written in a continuous variation
+displaystyle mathrm npv i int t infty i t cdot r t dt
+where
+r t is the rate of flowing cash given in money per time and r t when the investment is over net present value can be regarded as laplace respectively z transformed cash flow with the integral operator including the complex number s which resembles to the interest rate i from the real number space or more precisely s ln i
+displaystyle f s left mathcal l f right s int infty e st f t dt
+from this follow simplifications known from cybernetics control theory and system dynamics
+imaginary parts of the complex number s describe the oscillating behaviour compare with the pork cycle cobweb theorem and phase shift between commodity price and supply offer whereas real parts are responsible for representing the effect of compound interest compare with damping
+a corporation must decide whether to introduce a new product line
+the company will have immediate costs of at t
+recall a cost is a negative for outgoing cash flow thus this cash flow is represented as
+the company assumes the product will provide equal benefits of for each of years beginning at t
+for simplicity assume the company will have no outgoing cash flows after the initial cost
+this also makes the simplifying assumption that the net cash received or paid is lumped into a single transaction occurring on the last day of each year
+at the end of the years the product no longer provides any cash flow and is discontinued without any additional costs
+assume that the effective annual discount rate is
+the present value value at t can be calculated for each year
+the total present value of the incoming cash flows is
+the total present value of the outgoing cash flows is simply the at time t
+benefits
+costs
+displaystyle mathrm npv pv text benefits pv text costs
+in this example
+displaystyle mathrm npv
+displaystyle mathrm npv
+observe that as t increases the present value of each cash flow at t decreases
+for example the final incoming cash flow has a future value of at t but has a present value at t of
+the opposite of discounting is compounding
+taking the example in reverse it is the equivalent of investing at t the present value at an interest rate of compounded for years which results in a cash flow of at t the future value
+the importance of npv becomes clear in this instance
+although the incoming cash flows appear to exceed the outgoing cash flow the future cash flows are not adjusted using the discount rate
+thus the project appears misleadingly profitable
+when the cash flows are discounted however it indicates the project would result in a net loss of
+thus the npv calculation indicates that this project should be disregarded because investing in this project is the equivalent of a loss of at t
+the concept of time value of money indicates that cash flows in different periods of time cannot be accurately compared unless they have been adjusted to reflect their value at the same period of time in this instance t
+it is the present value of each future cash flow that must be determined in order to provide any meaningful comparison between cash flows at different periods of time
+there are a few inherent assumptions in this type of analysis
+the investment horizon of all possible investment projects considered are equally acceptable to the investor e g
+a year project is not necessarily preferable vs
+a year project
+the discount rate is the appropriate and stable rate to discount the expected cash flows from each project being considered
+each project is assumed equally speculative
+the shareholders cannot get above a return on their money if they were to directly assume an equivalent level of risk
+if the investor could do better elsewhere no projects should be undertaken by the firm and the excess capital should be turned over to the shareholder through dividends and stock repurchases more realistic problems would also need to consider other factors generally including smaller time buckets the calculation of taxes including the cash flow timing inflation currency exchange fluctuations hedged or unhedged commodity costs risks of technical obsolescence potential future competitive factors uneven or unpredictable cash flows and a more realistic salvage value assumption as well as many others
+a more simple example of the net present value of incoming cash flow over a set period of time would be winning a powerball lottery of million
+if one does not select the cash option they will be paid per year for years a total of however if one does select the cash option they will receive a one time lump sum payment of approximately million the npv of paid over time
+see other factors above that could affect the payment amount
+both scenarios are before taxes
+if for example the rt are generally negative late in the project e g an industrial or mining project might have clean up and restoration costs then at that stage the company owes money so a high discount rate is not cautious but too optimistic
+some people see this as a problem with npv
+a way to avoid this problem is to include explicit provision for financing any losses after the initial investment that is explicitly calculate the cost of financing such losses
+another common pitfall is to adjust for risk by adding a premium to the discount rate
+whilst a bank might charge a higher rate of interest for a risky project that does not mean that this is a valid approach to adjusting a net present value for risk although it can be a reasonable approximation in some specific cases
+one reason such an approach may not work well can be seen from the following if some risk is incurred resulting in some losses then a discount rate in the npv will reduce the effect of such losses below their true financial cost
+a rigorous approach to risk requires identifying and valuing risks explicitly e g by actuarial or monte carlo techniques and explicitly calculating the cost of financing any losses incurred
+yet another issue can result from the compounding of the risk premium
+r is a composite of the risk free rate and the risk premium
+as a result future cash flows are discounted by both the risk free rate as well as the risk premium and this effect is compounded by each subsequent cash flow
+this compounding results in a much lower npv than might be otherwise calculated
+the certainty equivalent model can be used to account for the risk premium without compounding its effect on present value
+another issue with relying on npv is that it does not provide an overall picture of the gain or loss of executing a certain project
+to see a percentage gain relative to the investments for the project usually internal rate of return or other efficiency measures are used as a complement to npv
+non specialist users frequently make the error of computing npv based on cash flows after interest
+this is wrong because it double counts the time value of money
+free cash flow should be used as the basis for npv computations net present value as a valuation methodology dates at least to the th century
+karl marx refers to npv as fictitious capital and the calculation as capitalising writing
+in mainstream neo classical economics npv was formalized and popularized by irving fisher in his the rate of interest and became included in textbooks from the s onwards starting in finance texts
+adjusted present value apv adjusted present value is the net present value of a project if financed solely by ownership equity plus the present value of all the benefits of financing
+accounting rate of return arr a ratio similar to irr and mirr
+cost benefit analysis which includes issues other than cash such as time savings
+internal rate of return irr which calculates the rate of return of a project while disregarding the absolute amount of money to be gained
+modified internal rate of return mirr similar to irr but it makes explicit assumptions about the reinvestment of the cash flows
+sometimes it is called growth rate of return
+payback period which measures the time required for the cash inflows to equal the original outlay
+it measures risk not return
+real option which attempts to value managerial flexibility that is assumed away in npv
+equivalent annual cost eac a capital budgeting technique that is useful in comparing two or more projects with different lifespans profitability index
+

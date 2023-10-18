@@ -1,0 +1,200 @@
+in mathematics the riemann stieltjes integral is a generalization of the riemann integral named after bernhard riemann and thomas joannes stieltjes
+the definition of this integral was first published in by stieltjes
+it serves as an instructive and useful precursor of the lebesgue integral and an invaluable tool in unifying equivalent forms of statistical theorems that apply to discrete and continuous probability
+the riemann stieltjes integral of a real valued function
+displaystyle f
+of a real variable on the interval
+displaystyle a b
+with respect to another real to real function
+displaystyle g
+is denoted by
+displaystyle int x a b f x mathrm d g x
+its definition uses a sequence of partitions
+displaystyle p
+of the interval
+displaystyle a b
+displaystyle p a x x cdots x n b
+the integral then is defined to be the limit as the norm the length of the longest subinterval of the partitions approaches
+displaystyle
+of the approximating sum
+displaystyle s p f g sum i n f c i left g x i g x i right
+where
+displaystyle c i
+is in the
+displaystyle i
+th subinterval
+displaystyle x i x i
+the two functions
+displaystyle f
+displaystyle g
+are respectively called the integrand and the integrator
+typically
+displaystyle g
+is taken to be monotone or at least of bounded variation and right semicontinuous however this last is essentially convention
+we specifically do not require
+displaystyle g
+to be continuous which allows for integrals that have point mass terms
+the limit is here understood to be a number a the value of the riemann stieltjes integral such that for every there exists such that for every partition p with norm p and for every choice of points ci in xi xi
+displaystyle s p f g a varepsilon
+the riemann stieltjes integral admits integration by parts in the form
+displaystyle int a b f x mathrm d g x f b g b f a g a int a b g x mathrm d f x
+and the existence of either integral implies the existence of the other
+on the other hand a classical result shows that the integral is well defined if f is h lder continuous and g is h lder continuous with
+if g is the cumulative probability distribution function of a random variable x that has a probability density function with respect to lebesgue measure and f is any function for which the expected value
+displaystyle operatorname e left left f x right right
+is finite then the probability density function of x is the derivative of g and we have
+displaystyle operatorname e f x int infty infty f x g x mathrm d x
+but this formula does not work if x does not have a probability density function with respect to lebesgue measure
+in particular it does not work if the distribution of x is discrete i e all of the probability is accounted for by point masses and even if the cumulative distribution function g is continuous it does not work if g fails to be absolutely continuous again the cantor function may serve as an example of this failure
+but the identity
+displaystyle operatorname e f x int infty infty f x mathrm d g x
+holds if g is any cumulative probability distribution function on the real line no matter how ill behaved
+in particular no matter how ill behaved the cumulative distribution function g of a random variable x if the moment e x exists then it is equal to
+displaystyle operatorname e left x n right int infty infty x n mathrm d g x
+the riemann stieltjes integral appears in the original formulation of f
+riesz s theorem which represents the dual space of the banach space c a b of continuous functions in an interval a b as riemann stieltjes integrals against functions of bounded variation
+later that theorem was reformulated in terms of measures
+the riemann stieltjes integral also appears in the formulation of the spectral theorem for non compact self adjoint or more generally normal operators in a hilbert space
+in this theorem the integral is considered with respect to a spectral family of projections
+the best simple existence theorem states that if f is continuous and g is of bounded variation on a b then the integral exists
+a function g is of bounded variation if and only if it is the difference between two bounded monotone functions
+if g is not of bounded variation then there will be continuous functions which cannot be integrated with respect to g
+in general the integral is not well defined if f and g share any points of discontinuity but there are other cases as well
+an important generalization is the lebesgue stieltjes integral which generalizes the riemann stieltjes integral in a way analogous to how the lebesgue integral generalizes the riemann integral
+if improper riemann stieltjes integrals are allowed then the lebesgue integral is not strictly more general than the riemann stieltjes integral
+the riemann stieltjes integral also generalizes to the case when either the integrand or the integrator g take values in a banach space
+if g a b x takes values in the banach space x then it is natural to assume that it is of strongly bounded variation meaning that
+displaystyle sup sum i g t i g t i x infty
+the supremum being taken over all finite partitions
+displaystyle a t leq t leq cdots leq t n b
+of the interval a b
+this generalization plays a role in the study of semigroups via the laplace stieltjes transform
+the it integral extends the riemann stietjes integral to encompass integrands and integrators which are stochastic processes rather than simple functions see also stochastic calculus
+a slight generalization is to consider in the above definition partitions p that refine another partition p meaning that p arises from p by the addition of points rather than from partitions with a finer mesh
+specifically the generalized riemann stieltjes integral of f with respect to g is a number a such that for every there exists a partition p such that for every partition p that refines p
+displaystyle s p f g a varepsilon
+for every choice of points ci in xi xi
+this generalization exhibits the riemann stieltjes integral as the moore smith limit on the directed set of partitions of a b
+a consequence is that with this definition the integral
+textstyle int a b f x mathrm d g x
+can still be defined in cases where f and g have a point of discontinuity in common
+the riemann stieltjes integral can be efficiently handled using an appropriate generalization of darboux sums
+for a partition p and a nondecreasing function g on a b define the upper darboux sum of f with respect to g by
+displaystyle u p f g sum i n g x i g x i sup x in x i x i f x
+and the lower sum by
+displaystyle l p f g sum i n g x i g x i inf x in x i x i f x
+then the generalized riemann stieltjes of f with respect to g exists if and only if for every there exists a partition p such that
+displaystyle u p f g l p f g varepsilon
+furthermore f is riemann stieltjes integrable with respect to g in the classical sense if
+displaystyle lim operatorname mesh p to u p f g l p f g quad
+given a
+displaystyle g x
+which is continuously differentiable over
+displaystyle mathbb r
+it can be shown that there is the equality
+displaystyle int a b f x mathrm d g x int a b f x g x mathrm d x
+where the integral on the right hand side is the standard riemann integral assuming that
+displaystyle f
+can be integrated by the riemann stieltjes integral
+more generally the riemann integral equals the riemann stieltjes integral if
+displaystyle g
+is the lebesgue integral of its derivative in this case
+displaystyle g
+is said to be absolutely continuous
+it may be the case that
+displaystyle g
+has jump discontinuities or may have derivative zero almost everywhere while still being continuous and increasing for example
+displaystyle g
+could be the cantor function or devil s staircase in either of which cases the riemann stieltjes integral is not captured by any expression involving derivatives of g
+the standard riemann integral is a special case of the riemann stieltjes integral where
+displaystyle g x x
+consider the function
+displaystyle g x max x
+used in the study of neural networks called a rectified linear unit relu
+then the riemann stieltjes can be evaluated as
+displaystyle int a b f x mathrm d g x int g a g b f x mathrm d x
+where the integral on the right hand side is the standard riemann integral
+cavalieri s principle can be used to calculate areas bounded by curves using riemann stieltjes integrals
+the integration strips of riemann integration are replaced with strips that are non rectangular in shape
+the method is to transform a cavaliere region with a transformation
+displaystyle h
+or to use
+displaystyle g h
+as integrand
+for a given function
+displaystyle f x
+on an interval
+displaystyle a b
+a translational function
+displaystyle a y
+must intersect
+displaystyle x f x
+exactly once for any shift in the interval
+a cavaliere region is then bounded by
+displaystyle f x a y
+displaystyle x
+axis and
+displaystyle b y a y b a
+the area of the region is then
+displaystyle int a y b y f x dx int a b f x dg x
+where
+displaystyle a
+displaystyle b
+are the
+displaystyle x
+values where
+displaystyle a y
+displaystyle b y
+intersect
+displaystyle f x
+graves lawrence
+the theory of functions of real variables
+mcgraw hill
+via hathitrust
+hildebrandt t h
+definitions of stieltjes integrals of the riemann type
+the american mathematical monthly
+jstor
+hille einar phillips ralph s
+functional analysis and semi groups
+providence ri american mathematical society
+johnsonbaugh richard f pfaffenberger william elmer
+foundations of mathematical analysis
+mineola ny dover publications
+kolmogorov andrey fomin sergei v
+introductory real analysis
+translated by silverman richard a
+revised english ed
+dover press
+mcshane e
+partial orderings moore smith limit pdf
+the american mathematical monthly
+jstor
+retrieved november
+pollard henry
+the stieltjes integral and its generalizations
+the quarterly journal of pure and applied mathematics
+riesz f sz
+nagy b
+functional analysis
+dover publications
+rudin walter
+principles of mathematical analysis second ed
+new york ny mcgraw hill
+shilov g
+e gurevich b
+integral measure and derivative a unified approach
+translated by silverman richard a
+dover publications
+bibcode imdu book s
+stieltjes thomas jan
+recherches sur les fractions continues
+toulouse
+stroock daniel w
+a concise introduction to the theory of integration rd ed
+birkhauser
+young l c
+an inequality of the h lder type connected with stieltjes integration
+acta mathematica
+doi bf
+

@@ -1,0 +1,47 @@
+a dedicated console is a video game console that is limited to one or more built in video game or games and is not equipped for additional games that are distributed via rom cartridges discs downloads or other digital media
+dedicated consoles were very popular in the first generation of video game consoles until they were gradually replaced by second generation video game consoles that use rom cartridges
+most of the earliest home video game systems were dedicated consoles most popularly pong and its many imitators
+unlike almost all later consoles these systems were typically not computers in which a cpu is running a piece of software but contained a hardwired game logic
+in the mid s rom cartridge based systems beginning with the fairchild channel f had risen to prominence during the second generation of video game consoles due to the success of the atari though stand alone systems such as coleco s mini arcade series continued to have a smaller presence in the home video game console market until the video game crash of
+since the nintendo entertainment system rom cartridge based consoles had dominated the home market until cd based consoles such as the playstation gained prominence in the mid and late s
+all home video game consoles from the first generation of video game consoles are dedicated to one or a few games they can usually be selected with a game switch on the console
+less common the games can be selected with a cartridge
+on these cartridges isn t a program there are just a few wires that connect electrically a few parts of the intern console hardware that a game appears on the screen
+examples for this technique are the magnavox odyssey the coleco telstar arcade and the philips tele game es
+developing from earlier non video electronic game cabinets such as pinball machines arcade style video games whether coin operated or individually owned are usually dedicated to a single game or a small selection of built in games and do not allow for external input in the form of rom cartridges
+although modern arcade games such as dance dance revolution x and half life survivor do allow external input in the form of memory cards or usb sticks this functionality usually only allows for saving progress or for providing modified level data and does not allow the dedicated machine to access new games
+the game or games in a dedicated arcade console are usually housed in a stand up cabinet that holds a video screen a control deck or attachments for more complex control devices and a computer or console hidden within that runs the games
+first released in the mid s by games such as mattel electronics mattel auto race and mattel electronic football dedicated handheld video games are considered the precursors of modern handheld game consoles
+devoted to one game or a collection or built in games dedicated handhelds tend to employ simple vfd or lcd screens although older models often utilized even more primitive arrays of small light bulbs or led lights to produce calculator like alphanumerical screens
+dedicated handheld systems typically comprise a screen a number of control buttons and a compact body that houses the game engine
+nintendo s game and watch series increased the popularity of dedicated handheld games during s
+dedicated consoles have appeared for fishing games where the unit s body itself becomes a specialized controller in the form of a rod and reel
+other dedicated consoles have been released with light guns for hunting shooting and even archery games
+rising to popularity in the early s game watches are electronic wristwatches that allow the wearer to access an included video game that uses the display in the watch s face as its screen
+game watch buttons which originally may have been used for setting hour and minute gain secondary functions in relation to the needs of the game
+a dedicated console differs from a handheld tv game or a plug and play game in that the latter integrates the video game console with the game controller
+most modern dedicated home game systems are popularly referred to as plug and play because they are based on modern technology which enables the hardware and software of the entire game to be within a single controller with no separate console at all
+some of these are clones of old games and are produced in china or southeast asia i e
+power player super joy iii while others contain licensed games and are distributed in mainstream stores in the west
+of the latter jakks pacific s line of tv games is among the most famous which includes re releases of many vintage games from arcade classics to atari games as well as games based on currently popular characters such as spongebob squarepants
+konami has also released a line of their classic arcade games including frogger on plug and play dedicated systems
+the pelican vg pocket was an attempt to make a tv game with a backlit color lcd
+dedicated consoles and handheld electronic games with lcd screens that only have one game are rather distinct devices but the release of the pelican vg pocket has blurred the categorization between the two
+beginning with the release by toymax and later jakk s pacific of the activision tv games there has been a revival of interest in dedicated consoles by nostalgia driven retrogamers
+the subsequent release of the atari in system prompted speculation of an atari revival
+in the brazilian sega distributor tectoy re released the sega master system with numerous games built in
+these are not strictly speaking dedicated consoles however as they also support cartridge based games
+as of however no new official cartridges were available for sale
+tectoy also released a portable sega mega drive with lcd screen and several games built in but it has no cartridge port
+in a miniaturized version of the atari home consoles was released with built in games and no cartridge support called atari flashback
+the dedicated console is actually based on a clone of the nes hardware but running atari software
+a newer version atari flashback is based on actual atari hardware and includes some new built in games developed by modern hobbyist atari programmers as well as old favorite games
+while the new console has no cartridge slot it is designed so that one can be added and multiple online tutorials exist detailing this process
+in the late s nintendo konami sony sega and snk released dedicated consoles with built in games that had been released earlier for their historic video game consoles
+examples of these dedicated consoles include the nes classic edition super nes classic edition playstation classic neo geo mini turbografx mini and the sega genesis mini which usually are miniaturized replicas of their historic consoles
+list of dedicated consoles
+video game console
+home video game console
+handheld game console
+microconsole
+

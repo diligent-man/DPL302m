@@ -1,0 +1,96 @@
+google brain is a deep learning artificial intelligence research team under the umbrella of google ai a research division at google dedicated to artificial intelligence
+formed in google brain combines open ended machine learning research with information systems and large scale computing resources
+the team has created tools such as tensorflow which allow for neural networks to be used by the public with multiple internal ai research projects
+the team aims to create research opportunities in machine learning and natural language processing
+the google brain project began in as a part time research collaboration between google fellow jeff dean google researcher greg corrado and stanford university professor andrew ng
+ng had been interested in using deep learning techniques to crack the problem of artificial intelligence since and in began collaborating with dean and corrado to build a large scale deep learning software system distbelief on top of google s cloud computing infrastructure
+google brain started as a google x project and became so successful that it was graduated back to google astro teller has said that google brain paid for the entire cost of google x
+in june the new york times reported that a cluster of processors in computers dedicated to mimicking some aspects of human brain activity had successfully trained itself to recognize a cat based on million digital images taken from youtube videos
+the story was also covered by national public radio
+in march google hired geoffrey hinton a leading researcher in the deep learning field and acquired the company dnnresearch inc
+headed by hinton
+hinton said that he would be dividing his future time between his university research and his work at google
+google brain was initially established by google fellow jeff dean and visiting stanford professor andrew ng
+in the team included jeff dean quoc le ilya sutskever alex krizhevsky samy bengio and vincent vanhoucke
+in team members include anelia angelova samy bengio greg corrado george dahl michael isard anjuli kannan hugo larochelle chris olah salih edneer benoit steiner vincent vanhoucke vijay vasudevan and fernanda viegas
+chris lattner who created apple s programming language swift and then ran tesla s autonomy team for six months joined google brain s team in august
+lattner left the team in january and joined sifive
+in google brain is led by jeff dean geoffrey hinton and zoubin ghahramani
+other members include katherine heller pi chuan chang ian simon jean philippe vert nevena lazic anelia angelova lukasz kaiser carrie jun cai eric breck ruoming pang carlos riquelme hugo larochelle david ha
+samy bengio left the team in april with zoubin ghahramani taking on his responsibilities
+google research includes google brain and is based in mountain view california
+it also has satellite groups in accra amsterdam atlanta beijing berlin cambridge massachusetts israel los angeles london montreal munich new york city paris pittsburgh princeton san francisco seattle tokyo toronto and zurich
+in october google brain designed an experiment to determine that neural networks are capable of learning secure symmetric encryption
+in this experiment three neural networks were created alice bob and eve
+adhering to the idea of a generative adversarial network gan the goal of the experiment was for alice to send an encrypted message to bob that bob could decrypt but the adversary eve could not
+alice and bob maintained an advantage over eve in that they shared a key used for encryption and decryption
+in doing so google brain demonstrated the capability of neural networks to learn secure encryption
+in february google brain determined a probabilistic method for converting pictures with x resolution to a resolution of x
+the method built upon an already existing probabilistic model called pixelcnn to generate pixel translations
+the proposed software utilizes two neural networks to make approximations for the pixel makeup of translated images
+the first network known as the conditioning network downsizes high resolution images to x and attempts to create mappings from the original x image to these higher resolution ones
+the other network known as the prior network uses the mappings from the previous network to add more detail to the original image
+the resulting translated image is not the same image in higher resolution but rather a x resolution estimation based on other existing high resolution images
+google brain s results indicate the possibility for neural networks to enhance images
+the google brain team contributed to the google translate project by employing a new deep learning system that combines artificial neural networks with vast databases of multilingual texts
+in september google neural machine translation gnmt was launched an end to end learning framework able to learn from a large number of examples
+previously google translate s phrase based machine translation pbmt approach would statistically analyze word by word and try to match corresponding words in other languages without considering the surrounding phrases in the sentence
+but rather than choosing a replacement for each individual word in the desired language gnmt evaluates word segments in the context of the rest of the sentence to choose more accurate replacements
+compared to older pbmt models the gnmt model scored a improvement in similarity to human translation with a reduction in errors
+the gnmt has also shown significant improvement for notoriously difficult translations like chinese to english
+while the introduction of the gnmt has increased the quality of google translate s translations for the pilot languages it was very difficult to create such improvements for all of its languages
+addressing this problem the google brain team was able to develop a multilingual gnmt system which extended the previous one by enabling translations between multiple languages
+furthermore it allows for zero shot translations which are translations between two languages that the system has never explicitly seen before
+google announced that google translate can now also translate without transcribing using neural networks
+this means that it is possible to translate speech in one language directly into text in another language without first transcribing it to text
+according to the researchers at google brain this intermediate step can be avoided using neural networks
+in order for the system to learn this they exposed it to many hours of spanish audio together with the corresponding english text
+the different layers of neural networks replicating the human brain were able to link the corresponding parts and subsequently manipulate the audio waveform until it was transformed to english text
+another drawback of the gnmt model is that it causes the time of translation to increase exponentially with the number of words in the sentence
+this caused the google brain team to add more processors to ensure the new translation process would still be fast and reliable
+aiming to improve traditional robotics control algorithms where new skills of a robot need to be hand programmed robotics researchers at google brain are developing machine learning techniques to allow robots to learn new skills on their own
+they also attempt to develop ways for information sharing between robots so that robots can learn from each other during their learning process also known as cloud robotics
+as a result google has launched the google cloud robotics platform for developers in an effort to combine robotics ai and the cloud to enable efficient robotic automation through cloud connected collaborative robots
+robotics research at google brain has focused mostly on improving and applying deep learning algorithms to enable robots to complete tasks by learning from experience simulation human demonstrations and or visual representations
+for example google brain researchers showed that robots can learn to pick and throw rigid objects into selected boxes by experimenting in an environment without being pre programmed to do so
+in another research researchers trained robots to learn behaviors such as pouring liquid from a cup robots learned from videos of human demonstrations recorded from multiple viewpoints
+google brain researchers have collaborated with other companies and academic institutions on robotics research
+in the google brain team collaborated with researchers at x in a research on learning hand eye coordination for robotic grasping
+their method allowed real time robot control for grasping novel objects with self correction
+in researchers from google brain intel ai lab and uc berkeley created an ai model for robots to learn surgery related tasks such as suturing from training with surgery videos
+in google brain team and university of lille presented a model for automatic speaker recognition which they called interactive speaker recognition
+the isr module recognizes a speaker from a given list of speakers only by requesting a few user specific words
+the model can be altered to choose speech segments in the context of text to speech training
+it can also prevent malicious voice generators from accessing the data
+tensorflow is an open source software library powered by google brain that allows anyone to utilize machine learning by providing the tools to train one s own neural network
+the tool has been used by farmers to reduce the amount of manual labor required to sort their yield by training it with a data set of human sorted images
+magenta is a project that uses google brain to create new information in the form of art and music rather than classify and sort existing data
+tensorflow was updated with a suite of tools for users to guide the neural network to create images and music
+however the team from valdosta state university found that the ai struggles to perfectly replicate human intention in artistry similar to the issues faced in translation
+the image sorting capabilities of google brain have been used to help detect certain medical conditions by seeking out patterns that human doctors may not notice to provide an earlier diagnosis
+during screening for breast cancer this method was found to have one quarter the false positive rate of human pathologists who require more time to look over each photo and cannot spend their entire focus on this one task
+due to the neural network s very specific training for a single task it cannot identify other afflictions present in a photo that a human could easily spot
+google brain announced in may that it created a text to image model called imagen that competes with openai s dall e
+the google brain projects technology is currently used in various other google products such as the android operating system s speech recognition system photo search for google photos smart reply in gmail and video recommendations in youtube
+google brain has received coverage in wired magazine national public radio and big think
+these articles have contained interviews with key team members ray kurzweil and andrew ng and focus on explanations of the project s goals and applications
+in december ai ethicist timnit gebru left google
+while the exact nature of her quitting or being fired is disputed the cause of the departure was her refusal to retract a paper entitled on the dangers of stochastic parrots can language models be too big this paper explored potential risks of the growth of ai such as google brain including environmental impact biases in training data and the ability to deceive the public
+the request to retract the paper was made by megan kacholia vice president of google brain
+as of april nearly current or former google employees and industry supporters have signed an open letter accusing google of research censorship and condemning gebru s treatment at the company
+in february google fired one of the leaders of the company s ai ethics team margaret mitchell
+the company s statement alleged that mitchell had broken company policy by using automated tools to find support for gebru
+in the same month engineers outside the ethics team began to quit citing the wrongful termination of gebru as the reason why
+in april google brain co founder samy bengio announced his resignation from the company
+despite being gebru s manager bengio was not notified before her termination and he posted online in support of both her and mitchell
+while bengio s announcement focused on personal growth as his reason for leaving anonymous sources indicated to reuters that the turmoil within the ai ethics team played a role in his considerations
+in march google fired ai researcher satraji chatterjee after he questioned the findings of a paper published in nature by google s ai team members anna goldie and azalia mirhoseini about their findings on the ability of computers to design computer chip components
+artificial intelligence
+deep learning
+glossary of artificial intelligence
+quantum artificial intelligence lab run by google in collaboration with nasa and universities space research association
+noogenesis
+tensorflow
+timnit gebru
+samy bengio
+

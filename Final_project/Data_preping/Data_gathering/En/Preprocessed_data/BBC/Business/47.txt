@@ -1,0 +1,45 @@
+markets
+fear greed index
+latest market news
+microsoft and amazon could be in hot water over apparently making it difficult for uk customers to use multiple suppliers of vital cloud services
+the competition and markets authority cma the country s antitrust regulator said thursday it was launching an investigation into the uk cloud infrastructure services market to determine whether players were engaged in anti competitive practices
+cloud computing firms such as microsoft and amazon web services aws use data centers around the world to provide remote access to computing services and storage
+this cloud infrastructure forms the foundation for how software applications such as gmail and dropbox are developed and run
+meta considers paid subscription in eu for users to bypass targeted ads
+the cma probe has been initiated following a report from britain s media and communications regulator ofcom which found that the supply of cloud infrastructure in the united kingdom is highly concentrated and competition limited
+we welcome ofcom s referral of public cloud infrastructure services to us for in depth scrutiny cma ceo sarah cardell said in a statement
+this is a billion market that underpins a whole host of online services from social media to artificial intelligence foundation models
+many businesses now completely rely on cloud services making effective competition in this market essential
+the cma said it would conclude its investigation by april
+the probe is the latest evidence of increased scrutiny of big tech companies by european regulators which have tightened rules in recent years in areas such as data protection and targeted advertising
+the european digital services act which came into force at the end of august reflects one of the most comprehensive and ambitious efforts by policymakers anywhere to regulate tech giants
+it applies to companies including amazon amzn apple aapl google goog microsoft msft snapchat tiktok and meta meta the owner of facebook and instagram
+according to ofcom last year microsoft and aws had a combined market share of in the uk cloud infrastructure services market
+google is their closest competitor with a share of
+large us tech companies face new eu rules
+in its report ofcom identified features of the market that make it more difficult for customers to change providers or to use multiple providers such as switching fees
+if customers have difficulty switching and using multiple providers it could make it harder for competitors to gain scale and challenge aws and microsoft effectively for the business of new and existing customers ofcom wrote
+the report also raised concerns about the software licensing practices of some cloud providers particularly microsoft
+both amazon and microsoft said they would engage constructively with the cma
+but a spokesperson for aws added that the company disagreed with ofcom s findings
+we believe they are based on a fundamental misconception of how the it sector functions and the services and discounts on offer the spokesperson said noting that the cloud has made switching between providers easier than ever
+a spokesperson for microsoft added we are committed to ensuring the uk cloud industry remains innovative highly competitive and an accelerator for growth across the economy
+most stock quote data provided by bats
+us market indices are shown in real time except for the s p which is refreshed every two minutes
+all times are et
+factset factset research systems inc
+all rights reserved
+chicago mercantile certain market data is the property of chicago mercantile exchange inc
+and its licensors
+all rights reserved
+dow jones the dow jones branded indices are proprietary to and are calculated distributed and marketed by dji opco a subsidiary of s p dow jones indices llc and have been licensed for use to s p opco llc and cnn
+standard poor s and s p are registered trademarks of standard poor s financial services llc and dow jones is a registered trademark of dow jones trademark holdings llc
+all content of the dow jones branded indices copyright s p dow jones indices llc and or its affiliates
+fair value provided by indexarb com
+market holidays and trading hours provided by copp clark limited
+cable news network
+a warner bros
+discovery company
+all rights reserved
+cnn sans cable news network
+

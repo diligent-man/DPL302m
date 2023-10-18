@@ -1,0 +1,12 @@
+google squared was an information extraction and relationship extraction product from google
+it was announced on may in response to the launch of wolfram alpha and was launched on google labs on june
+as part of the phasing out of google labs google squared was shut down on september
+squared was developed at google s new york office
+it was the first significant effort by google to understand information on the web and present it in new ways
+google squared extracted structured data from across the web and presented its results in spreadsheet like format
+each search query returned a table of search results which has its own set of columns common attributes that are associated with the topic of a search
+nathania johnson of search engine watch described squared as quite possibly
+one of google s significant achievements
+google squared is also the name used by an online digital marketing course developed by google with its partners
+list of google products
+

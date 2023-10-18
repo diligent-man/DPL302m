@@ -1,0 +1,487 @@
+algebra can essentially be considered as doing computations similar to those of arithmetic but with non numerical mathematical objects
+however until the th century algebra consisted essentially of the theory of equations
+for example the fundamental theorem of algebra belongs to the theory of equations and is not nowadays considered as belonging to algebra in fact every proof must use the completeness of the real numbers which is not an algebraic property
+this article describes the history of the theory of equations called here algebra from the origins to the emergence of algebra as a separate area of mathematics
+the word algebra is derived from the arabic word al jabr and this comes from the treatise written in the year by the medieval persian mathematician muhammad ibn m s al khw rizm whose arabic title kit b al mu ta ar f is b al abr wa l muq bala can be translated as the compendious book on calculation by completion and balancing
+the treatise provided for the systematic solution of linear and quadratic equations
+according to one history i t is not certain just what the terms al jabr and muqabalah mean but the usual interpretation is similar to that implied in the previous translation
+the word al jabr presumably meant something like restoration or completion and seems to refer to the transposition of subtracted terms to the other side of an equation the word muqabalah is said to refer to reduction or balancing that is the cancellation of like terms on opposite sides of the equation
+arabic influence in spain long after the time of al khwarizmi is found in don quixote where the word algebrista is used for a bone setter that is a restorer the term is used by al khwarizmi to describe the operations that he introduced reduction and balancing referring to the transposition of subtracted terms to the other side of an equation that is the cancellation of like terms on opposite sides of the equation
+algebra did not always make use of the symbolism that is now ubiquitous in mathematics instead it went through three distinct stages
+the stages in the development of symbolic algebra are approximately as follows
+rhetorical algebra in which equations are written in full sentences
+for example the rhetorical form of
+displaystyle x
+is the thing plus one equals two or possibly the thing plus equals
+rhetorical algebra was first developed by the ancient babylonians and remained dominant up to the th century
+syncopated algebra in which some symbolism is used but which does not contain all of the characteristics of symbolic algebra
+for instance there may be a restriction that subtraction may be used only once within one side of an equation which is not the case with symbolic algebra
+syncopated algebraic expression first appeared in diophantus arithmetica rd century ad followed by brahmagupta s brahma sphuta siddhanta th century
+symbolic algebra in which full symbolism is used
+early steps toward this can be seen in the work of several islamic mathematicians such as ibn al banna th th centuries and al qalasadi th century although fully symbolic algebra was developed by fran ois vi te th century
+later ren descartes th century introduced the modern notation for example the use of x see below and showed that the problems occurring in geometry can be expressed and solved in terms of algebra cartesian geometry equally important as the use or lack of symbolism in algebra was the degree of the equations that were addressed
+quadratic equations played an important role in early algebra and throughout most of history until the early modern period all quadratic equations were classified as belonging to one of three categories
+displaystyle x px q
+displaystyle x px q
+displaystyle x q px
+where
+displaystyle p
+displaystyle q
+are positive
+this trichotomy comes about because quadratic equations of the form
+displaystyle x px q
+displaystyle p
+displaystyle q
+positive have no positive roots
+in between the rhetorical and syncopated stages of symbolic algebra a geometric constructive algebra was developed by classical greek and vedic indian mathematicians in which algebraic equations were solved through geometry
+for instance an equation of the form
+displaystyle x a
+was solved by finding the side of a square of area
+displaystyle a
+in addition to the three stages of expressing algebraic ideas some authors recognized four conceptual stages in the development of algebra that occurred alongside the changes in expression
+these four stages were as follows
+geometric stage where the concepts of algebra are largely geometric
+this dates back to the babylonians and continued with the greeks and was later revived by omar khayy m
+static equation solving stage where the objective is to find numbers satisfying certain relationships
+the move away from the geometric stage dates back to diophantus and brahmagupta but algebra didn t decisively move to the static equation solving stage until al khwarizmi introduced generalized algorithmic processes for solving algebraic problems
+dynamic function stage where motion is an underlying idea
+the idea of a function began emerging with sharaf al d n al t s but algebra did not decisively move to the dynamic function stage until gottfried leibniz
+abstract stage where mathematical structure plays a central role
+abstract algebra is largely a product of the th and th centuries the origins of algebra can be traced to the ancient babylonians who developed a positional number system that greatly aided them in solving their rhetorical algebraic equations
+the babylonians were not interested in exact solutions but rather approximations and so they would commonly use linear interpolation to approximate intermediate values
+one of the most famous tablets is the plimpton tablet created around bc which gives a table of pythagorean triples and represents some of the most advanced mathematics prior to greek mathematics
+babylonian algebra was much more advanced than the egyptian algebra of the time whereas the egyptians were mainly concerned with linear equations the babylonians were more concerned with quadratic and cubic equations
+the babylonians had developed flexible algebraic operations with which they were able to add equals to equals and multiply both sides of an equation by like quantities so as to eliminate fractions and factors
+they were familiar with many simple forms of factoring three term quadratic equations with positive roots and many cubic equations although it is not known if they were able to reduce the general cubic equation
+ancient egyptian algebra dealt mainly with linear equations while the babylonians found these equations too elementary and developed mathematics to a higher level than the egyptians
+the rhind papyrus also known as the ahmes papyrus is an ancient egyptian papyrus written c
+bc by ahmes who transcribed it from an earlier work that he dated to between and bc
+it is the most extensive ancient egyptian mathematical document known to historians
+the rhind papyrus contains problems where linear equations of the form
+displaystyle x ax b
+displaystyle x ax bx c
+are solved where
+displaystyle a b
+displaystyle c
+are known and
+displaystyle x
+which is referred to as aha or heap is the unknown
+the solutions were possibly but not likely arrived at by using the method of false position or regula falsi where first a specific value is substituted into the left hand side of the equation then the required arithmetic calculations are done thirdly the result is compared to the right hand side of the equation and finally the correct answer is found through the use of proportions
+in some of the problems the author checks his solution thereby writing one of the earliest known simple proofs
+it is sometimes alleged that the greeks had no algebra but this is inaccurate
+by the time of plato greek mathematics had undergone a drastic change
+the greeks created a geometric algebra where terms were represented by sides of geometric objects usually lines that had letters associated with them and with this new form of algebra they were able to find solutions to equations by using a process that they invented known as the application of areas
+the application of areas is only a part of geometric algebra and it is thoroughly covered in euclid s elements
+an example of geometric algebra would be solving the linear equation
+displaystyle ax bc
+the ancient greeks would solve this equation by looking at it as an equality of areas rather than as an equality between the ratios
+displaystyle a b
+displaystyle c x
+the greeks would construct a rectangle with sides of length
+displaystyle b
+displaystyle c
+then extend a side of the rectangle to length
+displaystyle a
+and finally they would complete the extended rectangle so as to find the side of the rectangle that is the solution
+iamblichus in introductio arithmatica says that thymaridas c
+bce c
+bce worked with simultaneous linear equations
+in particular he created the then famous rule that was known as the bloom of thymaridas or as the flower of thymaridas which states that
+if the sum of
+displaystyle n
+quantities be given and also the sum of every pair containing a particular quantity then this particular quantity is equal to
+displaystyle n
+of the difference between the sums of these pairs and the first given sum or using modern notation the solution of the following system of
+displaystyle n
+linear equations in
+displaystyle n
+unknowns
+displaystyle x x x cdots x n s
+displaystyle x x m
+displaystyle x x m
+displaystyle vdots
+displaystyle x x n m n
+displaystyle x cfrac m m m n s n cfrac sum i n m i s n
+iamblichus goes on to describe how some systems of linear equations that are not in this form can be placed into this form
+euclid greek was a greek mathematician who flourished in alexandria egypt almost certainly during the reign of ptolemy i bce
+neither the year nor place of his birth have been established nor the circumstances of his death
+euclid is regarded as the father of geometry
+his elements is the most successful textbook in the history of mathematics
+although he is one of the most famous mathematicians in history there are no new discoveries attributed to him rather he is remembered for his great explanatory skills
+the elements is not as is sometimes thought a collection of all greek mathematical knowledge to its date rather it is an elementary introduction to it
+the geometric work of the greeks typified in euclid s elements provided the framework for generalizing formulae beyond the solution of particular problems into more general systems of stating and solving equations
+book ii of the elements contains fourteen propositions which in euclid s time were extremely significant for doing geometric algebra
+these propositions and their results are the geometric equivalents of our modern symbolic algebra and trigonometry
+today using modern symbolic algebra we let symbols represent known and unknown magnitudes i e
+numbers and then apply algebraic operations on them while in euclid s time magnitudes were viewed as line segments and then results were deduced using the axioms or theorems of geometry
+many basic laws of addition and multiplication are included or proved geometrically in the elements
+for instance proposition of book ii states
+if there be two straight lines and one of them be cut into any number of segments whatever the rectangle contained by the two straight lines is equal to the rectangles contained by the uncut straight line and each of the segments but this is nothing more than the geometric version of the left distributive law
+displaystyle a b c d ab ac ad
+and in books v and vii of the elements the commutative and associative laws for multiplication are demonstrated
+many basic equations were also proved geometrically
+for instance proposition in book ii proves that
+displaystyle a b a b a b
+and proposition in book ii proves that
+displaystyle a b a ab b
+furthermore there are also geometric solutions given to many equations
+for instance proposition of book ii gives the solution to the quadratic equation
+displaystyle ax x b
+and proposition of book ii gives a solution to
+displaystyle ax x a
+data is a work written by euclid for use at the schools of alexandria and it was meant to be used as a companion volume to the first six books of the elements
+the book contains some fifteen definitions and ninety five statements of which there are about two dozen statements that serve as algebraic rules or formulas
+some of these statements are geometric equivalents to solutions of quadratic equations
+for instance data contains the solutions to the equations
+displaystyle dx adx b c
+and the familiar babylonian equation
+displaystyle xy a x pm y b
+a conic section is a curve that results from the intersection of a cone with a plane
+there are three primary types of conic sections ellipses including circles parabolas and hyperbolas
+the conic sections are reputed to have been discovered by menaechmus c
+bc and since dealing with conic sections is equivalent to dealing with their respective equations they played geometric roles equivalent to cubic equations and other higher order equations
+menaechmus knew that in a parabola the equation
+displaystyle y lx
+holds where
+displaystyle l
+is a constant called the latus rectum although he was not aware of the fact that any equation in two unknowns determines a curve
+he apparently derived these properties of conic sections and others as well
+using this information it was now possible to find a solution to the problem of the duplication of the cube by solving for the points at which two parabolas intersect a solution equivalent to solving a cubic equation
+we are informed by eutocius that the method he used to solve the cubic equation was due to dionysodorus bc bc
+dionysodorus solved the cubic by means of the intersection of a rectangular hyperbola and a parabola
+this was related to a problem in archimedes on the sphere and cylinder
+conic sections would be studied and used for thousands of years by greek and later islamic and european mathematicians
+in particular apollonius of perga s famous conics deals with conic sections among other topics
+chinese mathematics dates to at least bc with the zhoubi suanjing generally considered to be one of the oldest chinese mathematical documents
+chiu chang suan shu or the nine chapters on the mathematical art written around bc is one of the most influential of all chinese math books and it is composed of some problems
+chapter eight deals with solving determinate and indeterminate simultaneous linear equations using positive and negative numbers with one problem dealing with solving four equations in five unknowns
+ts e yuan hai ching or sea mirror of the circle measurements is a collection of some problems written by li zhi or li ye ce
+he used fan fa or horner s method to solve equations of degree as high as six although he did not describe his method of solving equations
+shu shu chiu chang or mathematical treatise in nine sections was written by the wealthy governor and minister ch in chiu shao c
+with the introduction of a method for solving simultaneous congruences now called the chinese remainder theorem it marks the high point in chinese indeterminate analysis
+the earliest known magic squares appeared in china
+in nine chapters the author solves a system of simultaneous linear equations by placing the coefficients and constant terms of the linear equations into a magic square i e
+a matrix and performing column reducing operations on the magic square
+the earliest known magic squares of order greater than three are attributed to yang hui fl
+who worked with magic squares of order as high as ten
+ssy y an y chien or precious mirror of the four elements was written by chu shih chieh in and it marks the peak in the development of chinese algebra
+the four elements called heaven earth man and matter represented the four unknown quantities in his algebraic equations
+the ssy y an y chien deals with simultaneous equations and with equations of degrees as high as fourteen
+the author uses the method of fan fa today called horner s method to solve these equations
+the precious mirror opens with a diagram of the arithmetic triangle pascal s triangle using a round zero symbol but chu shih chieh denies credit for it
+a similar triangle appears in yang hui s work but without the zero symbol
+there are many summation equations given without proof in the precious mirror
+a few of the summations are
+displaystyle cdots n n n n over
+displaystyle cdots n n n over n n n n n over
+diophantus was a hellenistic mathematician who lived c
+ce but the uncertainty of this date is so great that it may be off by more than a century
+he is known for having written arithmetica a treatise that was originally thirteen books but of which only the first six have survived
+arithmetica has very little in common with traditional greek mathematics since it is divorced from geometric methods and it is different from babylonian mathematics in that diophantus is concerned primarily with exact solutions both determinate and indeterminate instead of simple approximations
+it is usually rather difficult to tell whether a given diophantine equation is solvable
+there is no evidence that suggests diophantus even realized that there could be two solutions to a quadratic equation
+he also considered simultaneous quadratic equations
+also no general method may be abstracted from all diophantus solutions
+in arithmetica diophantus is the first to use symbols for unknown numbers as well as abbreviations for powers of numbers relationships and operations thus he used what is now known as syncopated algebra
+the main difference between diophantine syncopated algebra and modern algebraic notation is that the former lacked special symbols for operations relations and exponentials
+so for example what we would write as
+displaystyle x x x
+which can be rewritten as
+displaystyle left x x right left x x right x
+would be written in diophantus s syncopated notation as
+displaystyle mathrm k upsilon overline alpha zeta overline iota pitchfork delta upsilon overline beta mathrm m overline alpha
+displaystyle sigma mathrm m overline varepsilon
+where the symbols represent the following
+unlike in modern notation the coefficients come after the variables and that addition is represented by the juxtaposition of terms
+a literal symbol for symbol translation of diophantus s syncopated equation into a modern symbolic equation would be the following
+displaystyle x x x x x
+where to clarify if the modern parentheses and plus are used then the above equation can be rewritten as
+displaystyle left x x right left x x right x
+arithmetica is a collection of some solved problems with specific numbers and there is no postulational development nor is a general method explicitly explained although generality of method may have been intended and there is no attempt to find all of the solutions to the equations
+arithmetica does contain solved problems involving several unknown quantities which are solved if possible by expressing the unknown quantities in terms of only one of them
+arithmetica also makes use of the identities
+displaystyle a b c d
+displaystyle ac db bc ad
+displaystyle ad bc ac bd
+the indian mathematicians were active in studying about number systems
+the earliest known indian mathematical documents are dated to around the middle of the first millennium bc around the th century bc
+the recurring themes in indian mathematics are among others determinate and indeterminate linear and quadratic equations simple mensuration and pythagorean triples
+aryabhata was an indian mathematician who authored aryabhatiya
+in it he gave the rules
+displaystyle cdots n n n n over
+displaystyle cdots n cdots n
+brahmagupta fl
+was an indian mathematician who authored brahma sphuta siddhanta
+in his work brahmagupta solves the general quadratic equation for both positive and negative roots
+in indeterminate analysis brahmagupta gives the pythagorean triads
+displaystyle m frac left m over n n right
+displaystyle frac left m over n n right
+but this is a modified form of an old babylonian rule that brahmagupta may have been familiar with
+he was the first to give a general solution to the linear diophantine equation
+displaystyle ax by c
+where
+displaystyle a b
+displaystyle c
+are integers
+unlike diophantus who only gave one solution to an indeterminate equation brahmagupta gave all integer solutions but that brahmagupta used some of the same examples as diophantus has led some historians to consider the possibility of a greek influence on brahmagupta s work or at least a common babylonian source
+like the algebra of diophantus the algebra of brahmagupta was syncopated
+addition was indicated by placing the numbers side by side subtraction by placing a dot over the subtrahend and division by placing the divisor below the dividend similar to our modern notation but without the bar
+multiplication evolution and unknown quantities were represented by abbreviations of appropriate terms
+the extent of greek influence on this syncopation if any is not known and it is possible that both greek and indian syncopation may be derived from a common babylonian source
+bh skara ii c
+was the leading mathematician of the th century
+in algebra he gave the general solution of pell s equation
+he is the author of lilavati and vija ganita which contain problems dealing with determinate and indeterminate linear and quadratic equations and pythagorean triples and he fails to distinguish between exact and approximate statements
+many of the problems in lilavati and vija ganita are derived from other hindu sources and so bhaskara is at his best in dealing with indeterminate analysis
+bhaskara uses the initial symbols of the names for colors as the symbols of unknown variables
+so for example what we would write today as
+displaystyle x x x
+bhaskara would have written as
+ya ru
+ya ru
+sum ya ru where ya indicates the first syllable of the word for black and ru is taken from the word species
+the dots over the numbers indicate subtraction
+the first century of the islamic arab empire saw almost no scientific or mathematical achievements since the arabs with their newly conquered empire had not yet gained any intellectual drive and research in other parts of the world had faded
+in the second half of the th century islam had a cultural awakening and research in mathematics and the sciences increased
+the muslim abbasid caliph al mamun is said to have had a dream where aristotle appeared to him and as a consequence al mamun ordered that arabic translation be made of as many greek works as possible including ptolemy s almagest and euclid s elements
+greek works would be given to the muslims by the byzantine empire in exchange for treaties as the two empires held an uneasy peace
+many of these greek works were translated by thabit ibn qurra who translated books written by euclid archimedes apollonius ptolemy and eutocius
+arabic mathematicians established algebra as an independent discipline and gave it the name algebra al jabr
+they were the first to teach algebra in an elementary form and for its own sake
+there are three theories about the origins of arabic algebra
+the first emphasizes hindu influence the second emphasizes mesopotamian or persian syriac influence and the third emphasizes greek influence
+many scholars believe that it is the result of a combination of all three sources
+throughout their time in power the arabs used a fully rhetorical algebra where often even the numbers were spelled out in words
+the arabs would eventually replace spelled out numbers e g
+twenty two with arabic numerals e g
+but the arabs did not adopt or develop a syncopated or symbolic algebra until the work of ibn al banna who developed a symbolic algebra in the th century followed by ab al hasan ibn al al qalas d in the th century
+the muslim persian mathematician muhammad ibn m s al khw rizm was a faculty member of the house of wisdom bait al hikma in baghdad which was established by al mamun
+al khwarizmi who died around ce wrote more than half a dozen mathematical and astronomical works some of which were based on the indian sindhind
+one of al khwarizmi s most famous books is entitled al jabr wa l muqabalah or the compendious book on calculation by completion and balancing and it gives an exhaustive account of solving polynomials up to the second degree
+the book also introduced the fundamental concept of reduction and balancing referring to the transposition of subtracted terms to the other side of an equation that is the cancellation of like terms on opposite sides of the equation
+this is the operation which al khwarizmi originally described as al jabr
+the name algebra comes from the al jabr in the title of his book
+rashed and angela armstrong write
+al jabr is divided into six chapters each of which deals with a different type of formula
+the first chapter of al jabr deals with equations whose squares equal its roots
+displaystyle left ax bx right
+the second chapter deals with squares equal to number
+displaystyle left ax c right
+the third chapter deals with roots equal to a number
+displaystyle left bx c right
+the fourth chapter deals with squares and roots equal a number
+displaystyle left ax bx c right
+the fifth chapter deals with squares and number equal roots
+displaystyle left ax c bx right
+and the sixth and final chapter deals with roots and number equal to squares
+displaystyle left bx c ax right
+in al jabr al khwarizmi uses geometric proofs he does not recognize the root
+displaystyle x
+and he only deals with positive roots
+he also recognizes that the discriminant must be positive and described the method of completing the square though he does not justify the procedure
+the greek influence is shown by al jabr s geometric foundations and by one problem taken from heron
+he makes use of lettered diagrams but all of the coefficients in all of his equations are specific numbers since he had no way of expressing with parameters what he could express geometrically although generality of method is intended
+al khwarizmi most likely did not know of diophantus s arithmetica which became known to the arabs sometime before the th century
+and even though al khwarizmi most likely knew of brahmagupta s work al jabr is fully rhetorical with the numbers even being spelled out in words
+so for example what we would write as
+displaystyle x x
+diophantus would have written as
+displaystyle delta upsilon overline alpha varsigma overline iota
+displaystyle sigma mathrm m lambda overline theta
+and al khwarizmi would have written as
+one square and ten roots of the same amount to thirty nine dirhems that is to say what must be the square which when increased by ten of its own roots amounts to thirty nine abd al ham d ibn turk authored a manuscript entitled logical necessities in mixed equations which is very similar to al khwarzimi s al jabr and was published at around the same time as or even possibly earlier than al jabr
+the manuscript gives exactly the same geometric demonstration as is found in al jabr and in one case the same example as found in al jabr and even goes beyond al jabr by giving a geometric proof that if the discriminant is negative then the quadratic equation has no solution
+the similarity between these two works has led some historians to conclude that arabic algebra may have been well developed by the time of al khwarizmi and abd al hamid
+arabic mathematicians treated irrational numbers as algebraic objects
+the egyptian mathematician ab k mil shuj ibn aslam c
+was the first to accept irrational numbers often in the form of a square root cube root or fourth root as solutions to quadratic equations or as coefficients in an equation
+he was also the first to solve three non linear simultaneous equations with three unknown variables
+al karkhi also known as al karaji was the successor of ab al waf al b zj n and he discovered the first numerical solution to equations of the form
+displaystyle ax n bx n c
+al karkhi only considered positive roots
+al karkhi is also regarded as the first person to free algebra from geometrical operations and replace them with the type of arithmetic operations which are at the core of algebra today
+his work on algebra and polynomials gave the rules for arithmetic operations to manipulate polynomials
+the historian of mathematics f
+woepcke in extrait du fakhri trait d alg bre par abou bekr mohammed ben alhacan alkarkhi paris praised al karaji for being the first who introduced the theory of algebraic calculus
+stemming from this al karaji investigated binomial coefficients and pascal s triangle
+omar khayy m c
+wrote a book on algebra that went beyond al jabr to include equations of the third degree
+omar khayy m provided both arithmetic and geometric solutions for quadratic equations but he only gave geometric solutions for general cubic equations since he mistakenly believed that arithmetic solutions were impossible
+his method of solving cubic equations by using intersecting conics had been used by menaechmus archimedes and ibn al haytham alhazen but omar khayy m generalized the method to cover all cubic equations with positive roots
+he only considered positive roots and he did not go past the third degree
+he also saw a strong relationship between geometry and algebra
+in the th century sharaf al d n al t s wrote the al mu adalat treatise on equations which dealt with eight types of cubic equations with positive solutions and five types of cubic equations which may not have positive solutions
+he used what would later be known as the ruffini horner method to numerically approximate the root of a cubic equation
+he also developed the concepts of the maxima and minima of curves in order to solve cubic equations which may not have positive solutions
+he understood the importance of the discriminant of the cubic equation and used an early version of cardano s formula to find algebraic solutions to certain types of cubic equations
+some scholars such as roshdi rashed argue that sharaf al din discovered the derivative of cubic polynomials and realized its significance while other scholars connect his solution to the ideas of euclid and archimedes
+sharaf al din also developed the concept of a function
+in his analysis of
+the equation
+displaystyle x d bx
+for example he begins by changing the equation s form to
+displaystyle x b x d
+he then states that the question of whether the equation has a solution depends on whether or not the function on the left side reaches the value
+displaystyle d
+to determine this he finds a maximum value for the function
+he proves that the maximum value occurs when
+displaystyle x frac b
+which gives the functional value
+displaystyle frac b
+sharaf al din then states that if this value is less than
+displaystyle d
+there are no positive solutions if it is equal to
+displaystyle d
+then there is one solution at
+displaystyle x frac b
+and if it is greater than
+displaystyle d
+then there are two solutions one between
+displaystyle
+displaystyle frac b
+and one between
+displaystyle frac b
+displaystyle b
+in the early th century jamsh d al k sh developed an early form of newton s method to numerically solve the equation
+displaystyle x p n
+to find roots of
+displaystyle n
+al k sh also developed decimal fractions and claimed to have discovered it himself
+however j
+lennart berggrenn notes that he was mistaken as decimal fractions were first used five centuries before him by the baghdadi mathematician abu l hasan al uqlidisi as early as the th century
+al hass r a mathematician from morocco specializing in islamic inheritance jurisprudence during the th century developed the modern symbolic mathematical notation for fractions where the numerator and denominator are separated by a horizontal bar
+this same fractional notation appeared soon after in the work of fibonacci in the th century
+ab al hasan ibn al al qalas d was the last major medieval arab algebraist who made the first attempt at creating an algebraic notation since ibn al banna two centuries earlier who was himself the first to make such an attempt since diophantus and brahmagupta in ancient times
+the syncopated notations of his predecessors however lacked symbols for mathematical operations
+al qalasadi took the first steps toward the introduction of algebraic symbolism by using letters in place of numbers and by using short arabic words or just their initial letters as mathematical symbols
+just as the death of hypatia signals the close of the library of alexandria as a mathematical center so does the death of boethius signal the end of mathematics in the western roman empire
+although there was some work being done at athens it came to a close when in the byzantine emperor justinian closed the pagan philosophical schools
+the year is now taken to be the beginning of the medieval period
+scholars fled the west towards the more hospitable east particularly towards persia where they found haven under king chosroes and established what might be termed an athenian academy in exile
+under a treaty with justinian chosroes would eventually return the scholars to the eastern empire
+during the dark ages european mathematics was at its nadir with mathematical research consisting mainly of commentaries on ancient treatises and most of this research was centered in the byzantine empire
+the end of the medieval period is set as the fall of constantinople to the turks in
+the th century saw a flood of translations from arabic into latin and by the th century european mathematics was beginning to rival the mathematics of other lands
+in the th century the solution of a cubic equation by fibonacci is representative of the beginning of a revival in european algebra
+as the islamic world was declining after the th century the european world was ascending
+and it is here that algebra was further developed
+modern notation for arithmetic operations was introduced between the end of the th century and the beginning of the th century by johannes widmann and michael stifel
+at the end of th century fran ois vi te introduced symbols now called variables for representing indeterminate or unknown numbers
+this created a new algebra consisting of computing with symbolic expressions as if they were numbers
+another key event in the further development of algebra was the general algebraic solution of the cubic and quartic equations developed in the mid th century
+the idea of a determinant was developed by japanese mathematician kowa seki in the th century followed by gottfried leibniz ten years later for the purpose of solving systems of simultaneous linear equations using matrices
+gabriel cramer also did some work on matrices and determinants in the th century
+by tradition the first unknown variable in an algebraic problem is nowadays represented by the symbol
+displaystyle mathit x
+and if there is a second or a third unknown then these are labeled
+displaystyle mathit y
+displaystyle mathit z
+respectively
+algebraic
+displaystyle x
+is conventionally printed in italic type to distinguish it from the sign of multiplication
+mathematical historians generally agree that the use of
+displaystyle x
+in algebra was introduced by ren descartes and was first published in his treatise la g om trie
+in that work he used letters from the beginning of the alphabet
+displaystyle a b c ldots
+for known quantities and letters from the end of the alphabet
+displaystyle z y x ldots
+for unknowns
+it has been suggested that he later settled on
+displaystyle x
+in place of
+displaystyle z
+for the first unknown because of its relatively greater abundance in the french and latin typographical fonts of the time
+three alternative theories of the origin of algebraic
+displaystyle x
+were suggested in the th century a symbol used by german algebraists and thought to be derived from a cursive letter
+displaystyle r
+mistaken for
+displaystyle x
+the numeral with oblique strikethrough and an arabic spanish source see below
+but the swiss american historian of mathematics florian cajori examined these and found all three lacking in concrete evidence cajori credited descartes as the originator and described his
+displaystyle x y
+displaystyle z
+as free from tradition and their choice purely arbitrary
+nevertheless the hispano arabic hypothesis continues to have a presence in popular culture today
+it is the claim that algebraic
+displaystyle x
+is the abbreviation of a supposed loanword from arabic in old spanish
+the theory originated in with the german orientalist paul de lagarde shortly after he published his edition of a spanish arabic bilingual glossary in which spanish cosa thing was paired with its arabic equivalent shay transcribed as xei
+the sh sound in old spanish was routinely spelled
+displaystyle x
+evidently lagarde was aware that arab mathematicians in the rhetorical stage of algebra s development often used that word to represent the unknown quantity
+he surmised that nothing could be more natural nichts war also nat rlicher than for the initial of the arabic word romanized as the old spanish
+displaystyle x
+to be adopted for use in algebra
+a later reader reinterpreted lagarde s conjecture as having proven the point
+lagarde was unaware that early spanish mathematicians used not a transcription of the arabic word but rather its translation in their own language cosa
+there is no instance of xei or similar forms in several compiled historical vocabularies of spanish
+although the mathematical notion of function was implicit in trigonometric and logarithmic tables which existed in his day gottfried leibniz was the first in and to employ it explicitly to denote any of several geometric concepts derived from a curve such as abscissa ordinate tangent chord and the perpendicular
+in the th century function lost these geometrical associations
+leibniz realized that the coefficients of a system of linear equations could be arranged into an array now called a matrix which can be manipulated to find the solution of the system if any
+this method was later called gaussian elimination
+leibniz also discovered boolean algebra and symbolic logic also relevant to algebra
+the ability to do algebra is a skill cultivated in mathematics education
+as explained by andrew warwick cambridge university students in the early th century practiced mixed mathematics doing exercises based on physical variables such as space time and weight
+over time the association of variables with physical quantities faded away as mathematical technique grew
+eventually mathematics was concerned completely with abstract polynomials complex numbers hypercomplex numbers and other concepts
+application to physical situations was then called applied mathematics or mathematical physics and the field of mathematics expanded to include abstract algebra
+for instance the issue of constructible numbers showed some mathematical limitations and the field of galois theory was developed
+the title of the father of algebra is frequently credited to the persian mathematician al khwarizmi supported by historians of mathematics such as carl benjamin boyer solomon gandz and bartel leendert van der waerden
+however the point is debatable and the title is sometimes credited to the hellenistic mathematician diophantus
+those who support diophantus point to the algebra found in al jabr being more elementary than the algebra found in arithmetica and arithmetica being syncopated while al jabr is fully rhetorical
+however the mathematics historian kurt vogel argues against diophantus holding this title as his mathematics was not much more algebraic than that of the ancient babylonians
+those who support al khwarizmi point to the fact that he gave an exhaustive explanation for the algebraic solution of quadratic equations with positive roots and was the first to teach algebra in an elementary form and for its own sake whereas diophantus was primarily concerned with the theory of numbers
+al khwarizmi also introduced the fundamental concept of reduction and balancing which he originally used the term al jabr to refer to referring to the transposition of subtracted terms to the other side of an equation that is the cancellation of like terms on opposite sides of the equation
+other supporters of al khwarizmi point to his algebra no longer being concerned with a series of problems to be resolved but an exposition which starts with primitive terms in which the combinations must give all possible prototypes for equations which henceforward explicitly constitute the true object of study they also point to his treatment of an equation for its own sake and in a generic manner insofar as it does not simply emerge in the course of solving a problem but is specifically called on to define an infinite class of problems victor j
+katz regards al jabr as the first true algebra text that is still extant
+al mansur nd abbasid caliph r
+timeline of algebra notable events in the history of algebraalcal pedro de de lingua arabica granada edition by paul de lagarde g ttingen arnold hoyer citation cs maint location link
+alonso mart n diccionario del espa ol medieval salamanca universidad pontificia de salamanca
+aurel marco libro primero de arithmetica algebratica valencia joan de mey
+bashmakova i and smirnova g
+the beginnings and evolution of algebra dolciani mathematical expositions
+translated by abe shenitzer
+the mathematical association of america
+boyer carl b
+a history of mathematics second ed john wiley sons inc isbn
+burton david m
+burton s history of mathematics an introduction rd ed dubuque wm
+brown
+burton david m
+the history of mathematics an introduction third ed the mcgraw hill companies inc isbn
+cajori florian how x came to stand for unknown quantity school science and mathematics doi j tb x
+cajori florian a history of mathematical notations chicago open court publishing isbn
+cooke roger the history of mathematics a brief course wiley interscience isbn
+derbyshire john unknown quantity a real and imaginary history of algebra washington dc joseph henry press isbn
+descartes ren la g om trie leyde ian maire
+online ed
+hermann project gutenberg
+descartes ren the geometry of ren descartes chicago open court isbn
+d ez juan sumario compendioso de las quentas de plata y oro que en los reynos del piru son necessarias a los mercaderes y todo genero de tratantes con algunas reglas tocantes al arithmetica mexico city
+enestr m gustaf kleine mitteilungen bibliotheca mathematica ser
+online access only in u s
+flegg graham numbers their history and meaning dover publications isbn
+heath thomas little a a history of greek mathematics volume i dover publications isbn
+heath thomas little b a history of greek mathematics volume ii dover publications isbn
+jacob georg oriental elements of culture in the occident annual report of the board of regents of the smithsonian institution for the year ending june
+kasten lloyd a cody florian j
+tentative dictionary of medieval spanish nd ed new york hispanic seminary of medieval studies
+katz victor j parshall karen hunger taming the unknown a history of algebra from antiquity to the early twentieth century princeton nj princeton university press isbn
+lagarde paul de woher stammt das x der mathematiker mittheilungen vol goettingen dieterichsche sortimentsbuchhandlung pp
+nunes pedro libro de algebra en arithmetica y geometria antwerp arnoldo birckman
+oelschl ger victor r
+a medieval spanish word list madison university of wisconsin press
+ortega juan de tractado subtilissimo de arismetica y geometria granada ren rabut
+p rez de moya juan aritm tica pr ctica y especulativa salamanca mathias gast
+puig andr s arithmetica especulativa y practica y arte de algebra barcelona antonio lacavalleria
+rider robin e
+a bibliography of early modern algebra berkeley berkeley papers in history of science
+sesiano jacques an introduction to the history of algebra solving equations from mesopotamian times to the renaissance providence ri american mathematical society isbn
+stillwell john mathematics and its history second ed springer science business media inc isbn
+swetz frank j
+the european mathematical awakening a journey through the history of mathematics nd ed mineola ny dover publications isbn
+tropfke johannes geschichte der elementar mathematik in systematischer darstellung vol leipzig von veit comp commentary by islam s sheikh zakariyya al ansari on ibn al h im s poem on the science of algebra and balancing called the creator s epiphany in explaining the cogent featuring the basic concepts of algebra dating back to the th century from the world digital library
+

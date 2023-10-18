@@ -1,0 +1,129 @@
+vinton gray cerf formemrs s rf born june is an american internet pioneer and is recognized as one of the fathers of the internet sharing this title with tcp ip co developer bob kahn
+he has received honorary degrees and awards that include the national medal of technology the turing award the presidential medal of freedom the marconi prize and membership in the national academy of engineering
+vinton gray cerf was born in new haven connecticut on june the son of muriel n e gray and vinton thurston cerf
+cerf attended van nuys high school with jon postel and steve crocker
+while in high school cerf worked at rocketdyne on the apollo program and helped write statistical analysis software for the non destructive tests of the f engines
+cerf received a bachelor of science degree in mathematics from stanford university
+after college cerf worked at ibm as a systems engineer supporting quiktran for two years
+cerf and his wife sigrid both have hearing deficiencies they met at a hearing aid agent s practice in the s which led him to becoming an advocate for accessibility
+they would later join a methodist church
+he left ibm to attend graduate school at ucla where he earned his m s
+degree in and his phd in
+cerf studied under professor gerald estrin and worked in professor leonard kleinrock s data packet networking group that connected the first two nodes of the arpanet the first node on the internet and contributed to a host to host protocol for the arpanet
+while at ucla cerf met bob kahn who was working on the arpanet system architecture
+cerf wrote the first tcp protocol with yogen dalal and carl sunshine called specification of internet transmission control program rfc published in december
+cerf worked as assistant professor at stanford university from to where he conducted research on packet network interconnection protocols and co designed the dod tcp ip protocol suite with kahn
+cerf worked at the united states defense advanced research projects agency darpa from to and funded various groups to develop tcp ip packet radio prnet packet satellite satnet and packet security technology
+these efforts were rooted in the needs of the military
+in the late s cerf moved to mci where he helped develop the first commercial email system mci mail to be connected to the internet
+cerf is active in a number of global humanitarian organizations
+cerf is also known for his sartorial style typically appearing in a three piece suit a rarity in an industry known for its casual dress norms
+as vice president of mci digital information services from to cerf led the engineering of mci mail the first commercial email service to be connected to the internet
+in he joined bob kahn at the corporation for national research initiatives as its vice president working with kahn on digital libraries knowledge robots and gigabit speed networks
+since cerf lobbied for the privatization of the internet
+in he and kahn among others founded the internet society isoc to provide leadership in education policy and standards related to the internet
+cerf served as the first president of isoc
+cerf rejoined mci during and served as senior vice president of technology strategy
+in this role he helped to guide corporate strategy development from a technical perspective
+previously he served as mci s senior vice president of architecture and technology leading a team of architects and engineers to design advanced networking frameworks including internet based solutions for delivering a combination of data information voice and video services for business and consumer use
+during cerf joined the board of trustees of gallaudet university a university for the education of the deaf and hard of hearing
+cerf himself is hard of hearing
+he has also served on the university s board of associates
+cerf as leader of mci s internet business was criticized due to mci s role in providing the ip addresses used by send safe com a vendor of spamware that uses a botnet in order to send spam
+mci refused to terminate the spamware vendor
+at the time spamhaus also listed mci as the isp with the most spamhaus block list listings
+cerf has worked for google as a vice president and chief internet evangelist since october
+in this function he has become well known for his predictions on how technology will affect future society encompassing such areas as artificial intelligence environmentalism the advent of ipv and the transformation of the television industry and its delivery model
+since cerf has served as a commissioner for the broadband commission for digital development a un body which aims to make broadband internet technologies more widely available
+cerf helped fund and establish icann the internet corporation for assigned names and numbers
+he joined the board in and served until november
+he was chairman from november to his departure from the board
+cerf was a member of bulgarian president georgi parvanov s it advisory council from march january
+he is also a member of the advisory board of eurasia group the political risk consultancy
+cerf is also working on the interplanetary internet together with nasa s jet propulsion laboratory and other nasa laboratories
+it will be a new standard to communicate from planet to planet using radio laser communications that are tolerant of signal degradations including variable delay and disruption caused for example by celestial motion
+on february cerf testified before the u s
+senate committee on commerce science and transportation s hearing on net neutrality
+speaking as google s chief internet evangelist cerf noted that nearly half of all consumers lacked meaningful choice in broadband providers and expressed concerns that without network neutrality government regulation broadband providers would be able to use their dominance to limit options for consumers and charge companies like google for their use of bandwidth
+cerf currently serves on the board of advisors of scientists and engineers for america an organization focused on promoting sound science in american government
+he also serves on the advisory council of crdf global civilian research and development foundation and was on the international multilateral partnership against cyber threats impact international advisory board
+cerf was elected as the president of the association for computing machinery in may and joined the council on cybersecurity s board of advisors in august
+from to cerf was chairman of the board of trustees of arin the regional internet registry rir of ip addresses for united states canada and part of the caribbean
+until fall cerf chaired the board of directors of stopbadware a non profit anti malware organization that started as a project at harvard university s berkman center for internet society
+cerf is on the board of advisors to the liquid information company ltd of the uk which works to make the web more usefully interactive and which has produced the mac os x utility called liquid
+vint cerf is a member of the curiositystream advisory board
+during cerf chaired the internationalized domain name idnabis working group of the ietf
+in cerf was a major contender to be designated the first u s
+chief technology officer by president barack obama
+cerf is the co chair of campus party silicon valley the us edition of one of the largest technology festivals in the world along with al gore and tim berners lee
+from to cerf was an elected member of the governing board of the smart grid interoperability panel sgip
+sgip is a public private consortium established by nist in and provides a forum for businesses and other stakeholder groups to participate in coordinating and accelerating development of standards for the evolving smart grid
+cerf was elected to a two year term as president of the association for computing machinery acm beginning july
+in cerf co founded with mei lin fung and is currently chairman of people centered internet pci
+on january u s
+president barack obama announced his intent to appoint cerf to the national science board
+cerf served until may when his six year term expired
+cerf is also among the members of governing council of international institute of information technology hyderabad
+in june his work with nasa led to delay tolerant networking being installed on the international space station with an aim towards an interplanetary internet
+since at least cerf has been raising concerns about the wide ranging risks of digital obsolescence the potential of losing much historic information about our time a digital dark age or black hole given the ubiquitous digital storage of text data images music and more
+among the concerns are the long term storage of and continued reliable access to our vast stores of present day digital data and the associated programs operating systems computers and peripherals required to access such
+in march cerf confirmed that he had tested positive for covid
+he announced the news via a tweet in which he also criticized president donald trump for the way he was handling the covid pandemic in the united states
+on april cerf announced via twitter that va public health had certified his wife and himself as no longer contagious with the virus
+cerf has received a number of honorary degrees including doctorates from the university of the balearic islands ethz in zurich switzerland capitol college gettysburg college yale university george mason university marymount university bethany college kansas university of pisa university of rovira and virgili tarragona spain rensselaer polytechnic institute lule university of technology sweden university of twente netherlands beijing university of posts and telecommunications tsinghua university beijing brooklyn polytechnic upct university of cartagena spain zaragoza university spain university of reading united kingdom royal roads university canada mgimo moscow state university of international relations buenos aires institute of technology argentina polytechnic university of madrid keio university japan university of south australia australia university of st andrews scotland university of pittsburgh and gallaudet university united states
+other awards include
+edward a
+dickson alumnus of the year award from ucla
+prince of asturias award for science and technology
+life member ieee
+fellow of the association for computing machinery
+elected as a member into the national academy of engineering in for contributions to the design and development of network protocols and leadership in the evolution of the internet
+yuri rubinsky memorial award
+sigcomm award for contributions to the internet spanning more than years from development of the fundamental tcp ip protocols
+certificate of merit from the franklin institute in
+in december he along with his partner robert e
+kahn was presented with the national medal of technology by president bill clinton for creating and sustaining development of internet protocols and continuing to provide leadership in the emerging industry of internetworking
+in he received the honorary doctorate degree from urv spain
+he received the living legend medal from the library of congress in april
+in he was made a fellow of the computer history museum for his contributions to computer architecture operating systems and software engineering
+cerf was selected as a fellow of the association for women in science awis in
+cerf was awarded the award of technology from the telluride tech festival in also known as the tesla festival since the world s first ac hydro power power plant was built in telluride in by l l
+nunn who purchased the generator and plans from george westinghouse and tesla
+cerf and kahn were the winners of the turing award for for their pioneering work on internetworking including
+the internet s basic communications protocols
+and for inspired leadership in networking
+in november vinton cerf and kahn were awarded the presidential medal of freedom by president george w
+bush for their contributions to the creation of the internet
+he and robert kahn were inducted into the national inventors hall of fame in may
+vinton cerf was awarded the st
+cyril and methodius in the coat of arms order in july
+vinton cerf and robert kahn were each inducted as an honorary fellow of the society for technical communication stc in may
+he and robert kahn were awarded the japan prize in january
+cerf was inducted into the worshipful company of information technologists and given the freedom of the city of london in april
+cerf was awarded an honorary membership in the yale political union after keynoting a lively debate on the subject resolved online communities are real communities the motion passed
+in celebration of the five year anniversary of youtube he was selected as a guest curator by the site and chose the six videos on youtube he found most memorable
+ieee hkn eta kappa nu eminent member
+in may he was awarded an hpi fellowship as a tribute to his work for a new medium which influenced the everyday life of our society like no other one
+in september he was made a distinguished fellow of british computer society in recognition of his outstanding contribution and service to the advancement of computing
+in he was inducted as a pioneer into the internet hall of fame
+in cerf was one of five internet and web pioneers awarded the inaugural queen elizabeth prize for engineering
+in cerf presented the bernard price memorial lecture
+in cerf was awarded the order of the cross of terra mariana st class for his role in invention of tcp ip by president of estonia toomas hendrik ilves
+in cerf was awarded officer of the french l gion d honneur
+in cerf received an honorary doctorate from the university of reading uk
+cerf was elected a foreign member of the uk royal society in
+in cerf was named a recipient of the benjamin franklin medal
+in cerf was awarded catalonia s international awardcerf writes under the column name cerf s up and cerf s car has a vanity plate registration cerfsup
+list of internet pioneers
+list of pioneers in computer science
+paul baran and donald davies independently invented packet switched networkscerf vinton g
+april oral history interview with vinton g
+cerf minnesota minneapolis charles babbage institute
+cerf vinton may dr
+vinton cerf an interview conducted by david hochfelder institute of electrical and electronics engineersbio at google
+vint cerf on the icann wiki
+vint cerf on reinventing the internet youtube
+internet society
+vint cerf at ted
+appearances on c span
+

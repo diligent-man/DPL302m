@@ -1,0 +1,54 @@
+plasma protein binding refers to the degree to which medications attach to proteins within the blood
+a drug s efficiency may be affected by the degree to which it binds
+the less bound a drug is the more efficiently it can traverse cell membranes or diffuse
+common blood proteins that drugs bind to are human serum albumin lipoprotein glycoprotein and and globulins
+a drug in blood exists in two forms bound and unbound
+depending on a specific drug s affinity for plasma protein a proportion of the drug may become bound to plasma proteins with the remainder being unbound
+if the protein binding is reversible then a chemical equilibrium will exist between the bound and unbound states such that
+protein drug protein drug complexnotably it is the unbound fraction which exhibits pharmacologic effects
+it is also the fraction that may be metabolized and or excreted
+for example the fraction bound of the anticoagulant warfarin is
+this means that of the amount of warfarin in the blood is bound to plasma proteins
+the remaining the fraction unbound is the fraction that is actually active and may be excreted
+protein binding can influence the drug s biological half life
+the bound portion may act as a reservoir or depot from which the drug is slowly released as the unbound form
+since the unbound form is being metabolized and or excreted from the body the bound fraction will be released in order to maintain equilibrium
+since albumin is alkalotic acidic and neutral drugs will primarily bind to albumin
+if albumin becomes saturated then these drugs will bind to lipoprotein
+basic drugs will bind to the acidic alpha acid glycoprotein
+this is significant because various medical conditions may affect the levels of albumin alpha acid glycoprotein and lipoproteins
+only the unbound fraction of the drug undergoes metabolism in the liver and other tissues
+as the drug dissociates from the protein more and more drug undergoes metabolism
+changes in the levels of free drug change the volume of distribution because free drug may distribute into the tissues leading to a decrease in plasma concentration profile
+for the drugs which rapidly undergo metabolism clearance is dependent on the hepatic blood flow
+for drugs which slowly undergo metabolism changes in the unbound fraction of the drug directly change the clearance of the drug
+note the most commonly used methods for measuring drug concentration levels in the plasma measure bound as well as unbound fractions of the drug the fraction unbound can be altered by a number of variables such as the concentration of drug in the body the amount and quality of plasma protein and other drugs that bind to plasma proteins
+higher drug concentrations would lead to a higher fraction unbound because the plasma protein would be saturated with drug and any excess drug would be unbound
+if the amount of plasma protein is decreased such as in catabolism malnutrition liver disease renal disease there would also be a higher fraction unbound
+additionally the quality of the plasma protein may affect how many drug binding sites there are on the protein
+using drugs at the same time can sometimes affect each other s fraction unbound
+for example assume that drug a and drug b are both protein bound drugs
+if drug a is given it will bind to the plasma proteins in the blood
+if drug b is also given it can displace drug a from the protein thereby increasing drug a s fraction unbound
+this may increase the effects of drug a since only the unbound fraction may exhibit activity
+note that for drug a the increase in unbound fraction is hence drug a s pharmacological effect can potentially double depending on whether the free molecules get to their target before they are eliminated by metabolism or excretion
+this change in pharmacologic effect could have adverse consequences
+however this effect is really only noticeable in closed systems where the pool of available proteins could potentially be exceeded by the number of drug molecules
+biological systems such as humans and animals are open systems where molecules can be gained lost or redistributed and where the protein pool capacity is almost never exceeded by the number of drug molecules
+a drug that is bound means that of the drug molecules are bound to blood proteins not that of the blood proteins are bound with drug
+when two highly protein bound drugs a and b are added into the same biological system it will lead to an initial small increase in the concentration of free drug a as drug b ejects some of the drug a from its proteins
+however this free drug a is now more available for redistribution into the body tissues and or for excretion
+this means the total amount of drug in the system will decrease quite rapidly keeping the free drug fraction the concentration of free drug divided by the total drug concentration constant and yielding almost no change in clinical effect
+the effects of drugs displacing each other and changing the clinical effect though important in some examples is vastly overestimated usually and a common example incorrectly used to display the importance of this effect is the anticoagulant warfarin
+warfarin is highly protein bound and has a low therapeutic index
+since a low therapeutic index indicates that there is a high risk of toxicity when using the drug any potential increases in warfarin concentration could be very dangerous and lead to hemorrhage
+in horses it is very true that if warfarin and phenylbutazone are administered concurrently the horse can develop bleeding issues which can be fatal
+this is often explained as being due to the effect of phenylbutazone ejecting warfarin from its plasma protein thus increasing the concentration of free warfarin and increasing its anticoagulant effect
+however the real problem is that phenylbutazone interferes with the liver s ability to metabolize warfarin so free warfarin cannot be metabolized properly or excreted
+this leads to an increase in free warfarin and the resulting bleeding issues
+blood proteins
+pharmacokineticsshargel leon
+applied biopharmaceutics pharmacokinetics
+new york mcgraw hill medical pub
+division
+

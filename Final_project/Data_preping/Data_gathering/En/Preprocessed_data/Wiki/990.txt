@@ -1,0 +1,47 @@
+scott joel aaronson born may is an american theoretical computer scientist and david j
+bruton jr
+centennial professor of computer science at the university of texas at austin
+his primary areas of research are quantum computing and computational complexity theory
+aaronson grew up in the united states though he spent a year in asia when his father a science writer turned public relations executive was posted to hong kong
+he enrolled in a school there that permitted him to skip ahead several years in math but upon returning to the us he found his education restrictive getting bad grades and having run ins with teachers
+he enrolled in the clarkson school a program for gifted youngsters run by clarkson university which enabled aaronson to apply for colleges while only in his freshman year of high school
+he was accepted into cornell university where he obtained his bsc in computer science in and where he resided at the telluride house
+he then attended the university of california berkeley for his phd which he got in under the supervision of umesh vazirani
+aaronson had shown ability in mathematics from an early age teaching himself calculus at the age of provoked by symbols in a babysitter s textbook
+he discovered computer programming at age and felt he lagged behind peers who had already been coding for years
+in part due to aaronson getting into advanced mathematics before getting into computer programming he felt drawn to theoretical computing particularly computational complexity theory
+at cornell he became interested in quantum computing and devoted himself to computational complexity and quantum computing
+after postdoctorates at the institute for advanced study and the university of waterloo he took a faculty position at mit in
+his primary area of research is quantum computing and computational complexity theory more generally
+in the summer of he moved from mit to the university of texas at austin as david j
+bruton jr
+centennial professor of computer science and as the founding director of ut austin s new quantum information center
+aaronson is one of two winners of the alan t
+waterman award
+best student paper awards at the computational complexity conference for the papers limitations of quantum advice and one way communication and quantum certificate complexity
+danny lewin best student paper award at the symposium on theory of computing for the paper lower bounds for local search by quantum arguments
+presidential early career award for scientists and engineers
+simons investigator
+he was elected as an acm fellow in for contributions to quantum computing and computational complexity
+he was awarded the acm prize in computing for groundbreaking contributions to quantum computing he is a founder of the complexity zoo wiki which catalogs all classes of computational complexity
+he is the author of the much read blog shtetl optimized
+in the interview to scientific american he answers why his blog is called shtetl optimized and about his preoccupation to the past
+he also wrote the essay who can name the bigger number
+the latter work widely distributed in academic computer science uses the concept of busy beaver numbers as described by tibor rad to illustrate the limits of computability in a pedagogic environment
+he has also taught a graduate level survey course quantum computing since democritus for which notes are available online and have been published as a book by cambridge university press
+it weaves together disparate topics into a cohesive whole including quantum mechanics complexity free will time travel the anthropic principle and more
+many of these interdisciplinary applications of computational complexity were later fleshed out in his article why philosophers should care about computational complexity
+since then aaronson published a book entitled quantum computing since democritus based on the course
+an article of aaronson s the limits of quantum computers was published in scientific american and he was a guest speaker at the foundational questions in science institute conference
+aaronson is frequently cited in the non academic press such as science news the age zdnet slashdot new scientist the new york times and forbes magazine
+aaronson was the subject of media attention in october when he accused australian advertising agency love communications of plagiarizing a lecture he wrote on quantum mechanics in an advertisement of theirs
+he alleged that a commercial for ricoh australia by sydney based agency love communications appropriated content almost verbatim from the lecture
+aaronson received an email from the agency claiming to have sought legal advice and saying they did not believe that they were in violation of his copyright
+dissatisfied aaronson pursued the matter and the agency settled the dispute without admitting wrongdoing by making a charitable contribution to two science organizations of his choice
+concerning this matter aaronson stated someone suggested on my blog a cameo with the models but if it was between that and a free printer i think i d take the printer
+aaronson is married to computer scientist dana moshkovitz
+scott aaronson at the mathematics genealogy project
+aaronson s blog
+aaronson homepage
+ut austin quantum information center homepage
+

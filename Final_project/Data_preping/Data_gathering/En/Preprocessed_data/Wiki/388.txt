@@ -1,0 +1,44 @@
+an artificial brain or artificial mind is software and hardware with cognitive abilities similar to those of the animal or human brain
+research investigating artificial brains and brain emulation plays three important roles in science
+an ongoing attempt by neuroscientists to understand how the human brain works known as cognitive neuroscience
+a thought experiment in the philosophy of artificial intelligence demonstrating that it is possible at least in theory to create a machine that has all the capabilities of a human being
+a long term project to create machines exhibiting behavior comparable to those of animals with complex central nervous system such as mammals and most particularly humans
+the ultimate goal of creating a machine exhibiting human like behavior or intelligence is sometimes called strong ai an example of the first objective is the project reported by aston university in birmingham england where researchers are using biological cells to create neurospheres small clusters of neurons in order to develop new treatments for diseases including alzheimer s motor neurone and parkinson s disease
+the second objective is a reply to arguments such as john searle s chinese room argument hubert dreyfus s critique of ai or roger penrose s argument in the emperor s new mind
+these critics argued that there are aspects of human consciousness or expertise that can not be simulated by machines
+one reply to their arguments is that the biological processes inside the brain can be simulated to any degree of accuracy
+this reply was made as early as by alan turing in his classic paper computing machinery and intelligence
+the third objective is generally called artificial general intelligence by researchers
+however ray kurzweil prefers the term strong ai
+in his book the singularity is near he focuses on whole brain emulation using conventional computing machines as an approach to implementing artificial brains and claims on grounds of computer power continuing an exponential growth trend that this could be done by
+henry markram director of the blue brain project which is attempting brain emulation made a similar claim at the oxford ted conference in
+although direct human brain emulation using artificial neural networks on a high performance computing engine is a commonly discussed approach there are other approaches
+an alternative artificial brain implementation could be based on holographic neural technology hnet non linear phase coherence decoherence principles
+the analogy has been made to quantum processes through the core synaptic algorithm which has strong similarities to the quantum mechanical wave equation
+evbrain is a form of evolutionary software that can evolve brainlike neural networks such as the network immediately behind the retina
+in november ibm received a us million grant from the pentagon for research into creating intelligent computers
+the blue brain project is being conducted with the assistance of ibm in lausanne
+the project is based on the premise that it is possible to artificially link the neurons in the computer by placing thirty million synapses in their proper three dimensional position
+some proponents of strong ai speculated in that computers in connection with blue brain and soul catcher may exceed human intellectual capacity by around and that it is likely that we will be able to download the human brain at some time around
+while blue brain is able to represent complex neural connections on the large scale the project does not achieve the link between brain activity and behaviors executed by the brain
+in project spaun semantic pointer architecture unified network attempted to model multiple parts of the human brain through large scale representations of neural connections that generate complex behaviors in addition to mapping
+spaun s design recreates elements of human brain anatomy
+the model consisting of approximately million neurons includes features of the visual and motor cortices gabaergic and dopaminergic connections the ventral tegmental area vta substantia nigra and others
+the design allows for several functions in response to eight tasks using visual inputs of typed or handwritten characters and outputs carried out by a mechanical arm
+spaun s functions include copying a drawing recognizing images and counting
+there are good reasons to believe that regardless of implementation strategy the predictions of realising artificial brains in the near future are optimistic
+in particular brains including the human brain and cognition are not currently well understood and the scale of computation required is unknown
+another near term limitation is that all current approaches for brain simulation require orders of magnitude larger power consumption compared with a human brain
+the human brain consumes about w of power whereas current supercomputers may use as much as mw i e an order of more
+some critics of brain simulation believe that it is simpler to create general intelligent action directly without imitating nature
+some commentators have used the analogy that early attempts to construct flying machines modeled them after birds but that modern aircraft do not look like birds
+neukart florian november
+reverse engineering the mind consciously acting machines and accelerated evolution
+wolfsburg germany springer
+retrieved october
+bandyopadhyay anirban april
+nanobrain the making of an artificial brain from a time crystal
+bosa roca usa taylor francis crc press
+retrieved may
+artificial brains the quest to build sentient machines
+

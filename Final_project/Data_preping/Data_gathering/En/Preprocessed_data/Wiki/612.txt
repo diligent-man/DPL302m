@@ -1,0 +1,109 @@
+salesforce inc
+is an american cloud based software company headquartered in san francisco california
+it provides customer relationship management crm software and applications focused on sales customer service marketing automation analytics and application development
+the company was founded in by former oracle executive marc benioff together with parker harris dave moellenhoff and frank dominguez as a software as a service saas company
+initial funding for the company came from larry ellison and halsey minor
+in salesforce held its first annual dreamforce conference in san francisco
+in june the company had its initial public offering on the new york stock exchange under the stock symbol crm and raised us million
+in salesforce launched ideaexchange a platform that allows customers to connect with company product managers
+in salesforce passed billion in annual revenue
+also in the company launched service cloud an application that helps companies manage service conversations about their products and services
+in the company released trailhead a free online learning platform
+in october salesforce announced the development of its customer success platform
+in september salesforce announced the launch of einstein an artificial intelligence platform that supports several of salesforce s cloud services
+in february co chief executive officer keith block stepped down from his position in the company
+marc benioff remained as chairman and chief executive officer
+on december it was announced that salesforce would acquire slack for billion
+the acquisition closed on july
+in february amy weaver previously the chief legal officer became cfo
+former cfo mark hawkins announced that he would be retiring in october
+in november bret taylor was named vice chair and co ceo of the company
+in april salesforce acquired phennecs a privacy sandbox startup
+also in april salesforce announced a five year partnership with formula one
+in may salesforce announced the acquisition of slack bot maker troops ai
+salesforce s products include several customer relationship management crm technologies including sales cloud service cloud marketing cloud and commerce cloud and platform
+additional technologies include slack mulesoft tableau analytics and trailhead
+salesforce s main technologies are tools for customer management
+other products enable customers to create apps integrate data from other systems visualize data and offer training courses
+salesforce platform also known as force com is a platform as a service paas that allows developers to create add on applications that integrate into the main salesforce com application
+these third party applications are hosted on salesforce com s infrastructure
+force com applications are built using declarative tools backed by lightning and apex a proprietary java like programming language for force com as well as visualforce a framework including an xml syntax typically used to generate html
+the force com platform typically receives three complete releases a year
+as the platform is provided as a service to its developers every single development instance also receives all these updates
+in a new framework for building user interfaces lightning components was introduced in beta
+lightning components are built using the open source aura framework but with support for apex as the server side language instead of aura s javascript dependency
+this has been described as an alternative to not necessarily a replacement for visualforce pages
+as of the force com platform has million registered developers
+lightning base components is the component library built on top of lightning web components
+launched in the salesforce appexchange is an online application marketplace that connects customers with third party applications and consulting services
+as of the exchange has over apps listed
+launched in trailhead is a free online learning platform with courses focused on salesforce technologies
+desk com is a saas help desk and customer support product that was acquired by salesforce for million in
+the product focused on connecting small businesses to their customers
+in march salesforce announced that desk com would be consolidated with other services into service cloud essentials
+do com was a cloud based task management system for small groups and businesses introduced in and discontinued in
+salesforce is headquartered in san francisco in the salesforce tower
+salesforce has international offices in hong kong israel and sydney
+standard poor s added salesforce to the s p index in september
+according to marc benioff salesforce corporate culture is based on the concept of ohana
+in cynthia perry a design research senior manager resigned over discrimination in the workplace and posted her resignation letter on linkedin
+on september benioff tweeted that the company is prepared to help any employee who wishes to move out of the state of texas following the abortion in texas legislation announced on september
+for the fiscal year salesforce reported revenue of us billion an increase of year over year and in constant currency
+the crm giant reported subscription and support revenues of us billion an increase of year over year
+salesforce ranked on the fortune list of the largest united states companies by revenue
+salesforce migrated to dell servers with advanced micro devices processors running linux from sun fire e k servers with sparc processors running solaris in
+in salesforce announced plans to build a data center in the uk to handle european citizens personal data
+the center opened in
+in salesforce and oracle announced a nine year partnership focusing on applications platforms and infrastructure
+in salesforce announced that it will use amazon web services hosting for countries with restrictive data residency requirements and where no salesforce data centers are operating
+salesforce has acquired many companies throughout its history
+in salesforce acquired sendia a mobile web service firm for million and kieden an online advertising company
+in koral a content management service was acquired
+in salesforce acquired instranet for million
+in salesforce acquired multiple companies including jigsaw a cloud based data service provider for million heroku a ruby application platform as a service for million and activa live chat a live chat software provider
+in salesforce acquired dimdim a web conferencing platform for million radian a social media tracking company for million and rypple a performance management software company
+rypple became known as work com in
+in salesforce acquired buddy media a social media marketer for million and goinstant a browser collaboration startup for million
+in salesforce acquired exacttarget an email marketer for billion
+in salesforce acquired relateiq a data company for million
+in salesforce acquired multiple companies for undisclosed sums including toopher a mobile authentication company tempo an ai calendar app and minhash an ai platform
+the company also acquired steelbrick a software company for million
+in salesforce spent over billion in acquisitions
+companies acquired included demandware a cloud based provider of e commerce services for billion and quip a word processing app for million
+in the company acquired sequence a user experience design agency for an undisclosed amount
+in salesforce acquired several companies including mulesoft a cloud service company for billion as well as rebel an email services provider and datorama an ai marketing platform for undisclosed amounts
+in salesforce acquired tableau a data visualization software company for billion and clicksoftware for billion
+in salesforce acquired acumen solutions a consulting firm for million vlocity a crm company for billion and slack technologies for billion
+in salesforce acquired servicetrace a robotic process automation company in november a phishing attack compromised contact information on a number of salesforce customers
+some customers then received phishing emails that appeared to be invoices from salesforce
+salesforce has stated that a phisher tricked someone into disclosing a password but this intrusion did not stem from a security flaw in the salesforce com application or database
+in at def con two security engineers were let go after giving a presentation on an internal project called meatpistol
+the presenters were sent a message minutes prior to the presentation telling them not to go on stage but the message wasn t seen until after they finished
+the meatpistol tool was anticipated to be released as open source at the time of the presentation but salesforce didn t release the code to developers or the public during the conference
+the terminated employees called on the company to open source the software after being let go
+the not for profit organization refugee and immigrant center for education and legal services raices rejected a us donation from salesforce because the company has contracts with u s
+customs and border protection
+in december the institute on taxation and economic policy found that salesforce was one of companies who paid an effective federal tax rate of or less in as a result of the tax cuts and jobs act of
+their findings were published in a report based on the fortune companies that declared a profit in
+in march salesforce faced a lawsuit by anonymous women claiming to be victims and survivors of sex trafficking abuse and rape
+the suit alleges that the company profited from and helped build technology that facilitated sex trafficking on backpage com a now defunct website
+in march a judge granted partial dismissal of the case dismissing charges of negligence and conspiracy but allowed the case to proceed regarding charges of sex trafficking
+in july salesforce japan faced a discrimination lawsuit from a former employee according to japanese legal media at a time when the firm has been publicly challenged about its commitment to equality
+the firm declined to comment on the suit to the media
+the ex employee who has autism spectrum disorder and adhd claimed she was discriminated against because of her disability and terminated in the firm s japan web marketing team
+the suit alleged that the anonymous woman as an employee at salesforce japan from to faced hate speech microaggressions and rejection of reasonable accommodation from the manager
+she alleged that her attempts to resolve the problem were met with pressure from hr and job coach
+the lawsuit started on september in tokyo district court
+the th trial will open on july
+salesforce japan won the st rank of great place to work japan in and nd rank in st rank in
+in salesforce began investing in startups
+these investments became salesforce ventures headed by john somorjai in september sfv set up salesforce fund aimed at start ups creating applications primarily for mobile phones
+in december salesforce ventures announced the launch of the japan trailblazer fund focused on japanese startups
+in august salesforce ventures reported investments totaling over billion in companies including cloudcraze e commerce figure eight artificial intelligence forter online fraud prevention and financialforce automation software
+in svf s five largest investments domo data visualization software surveymonkey online survey software twilio cloud communication dropbox cloud storage and docusign secure e signature company accounted for nearly half of its portfolio
+in salesforce announced that its investments had resulted in billion annual gain
+salesforce tower
+salesforce tower indianapolis
+salesforce marketing cloud
+salesforceiqbusiness data for salesforce inc google financesec filingsyahoo finance
+

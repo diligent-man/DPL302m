@@ -1,0 +1,262 @@
+in the mathematical theory of functional analysis the krein milman theorem is a proposition about compact convex sets in locally convex topological vector spaces tvss
+this theorem generalizes to infinite dimensional spaces and to arbitrary compact convex sets the following basic observation a convex i e
+filled triangle including its perimeter and the area inside of it is equal to the convex hull of its three vertices where these vertices are exactly the extreme points of this shape
+this observation also holds for any other convex polygon in the plane
+displaystyle mathbb r
+throughout
+displaystyle x
+will be a real or complex vector space
+for any elements
+displaystyle x
+displaystyle y
+in a vector space the set
+displaystyle x y tx t y leq t leq
+is called the closed line segment or closed interval between
+displaystyle x
+displaystyle y
+the open line segment or open interval between
+displaystyle x
+displaystyle y
+displaystyle x x varnothing
+displaystyle x y
+while it is
+displaystyle x y tx t y t
+displaystyle x neq y
+it satisfies
+displaystyle x y x y setminus x y
+displaystyle x y x y cup x y
+the points
+displaystyle x
+displaystyle y
+are called the endpoints of these interval
+an interval is said to be non degenerate or proper if its endpoints are distinct
+the intervals
+displaystyle x x x
+displaystyle x y
+always contain their endpoints while
+displaystyle x x varnothing
+displaystyle x y
+never contain either of their endpoints
+displaystyle x
+displaystyle y
+are points in the real line
+displaystyle mathbb r
+then the above definition of
+displaystyle x y
+is the same as its usual definition as a closed interval
+for any
+displaystyle p x y in x
+the point
+displaystyle p
+is said to strictly lie between
+displaystyle x
+displaystyle y
+displaystyle p
+belongs to the open line segment
+displaystyle x y
+displaystyle k
+is a subset of
+displaystyle x
+displaystyle p in k
+displaystyle p
+is called an extreme point of
+displaystyle k
+if it does not lie between any two distinct points of
+displaystyle k
+that is if there does not exist
+displaystyle x y in k
+displaystyle t
+such that
+displaystyle x neq y
+displaystyle p tx t y
+in this article the set of all extreme points of
+displaystyle k
+will be denoted by
+extreme
+displaystyle operatorname extreme k
+for example the vertices of any convex polygon in the plane
+displaystyle mathbb r
+are the extreme points of that polygon
+the extreme points of the closed unit disk in
+displaystyle mathbb r
+is the unit circle
+every open interval and degenerate closed interval in
+displaystyle mathbb r
+has no extreme points while the extreme points of a non degenerate closed interval
+displaystyle x y
+displaystyle x
+displaystyle y
+a set
+displaystyle s
+is called convex if for any two points
+displaystyle x y in s
+displaystyle s
+contains the line segment
+displaystyle x y
+the smallest convex set containing
+displaystyle s
+is called the convex hull of
+displaystyle s
+and it is denoted by
+displaystyle operatorname co s
+the closed convex hull of a set
+displaystyle s
+denoted by
+displaystyle overline operatorname co s
+is the smallest closed and convex set containing
+displaystyle s
+it is also equal to the intersection of all closed convex subsets that contain
+displaystyle s
+and to the closure of the convex hull of
+displaystyle s
+that is
+displaystyle overline operatorname co s overline operatorname co s
+where the right hand side denotes the closure of
+displaystyle operatorname co s
+while the left hand side is notation
+for example the convex hull of any set of three distinct points forms either a closed line segment if they are collinear or else a solid that is filled triangle including its perimeter
+and in the plane
+displaystyle mathbb r
+the unit circle is not convex but the closed unit disk is convex and furthermore this disk is equal to the convex hull of the circle
+in the case where the compact set
+displaystyle k
+is also convex the above theorem has as a corollary the first part of the next theorem which is also often called the krein milman theorem
+the convex hull of the extreme points of
+displaystyle k
+forms a convex subset of
+displaystyle k
+so the main burden of the proof is to show that there are enough extreme points so that their convex hull covers all of
+displaystyle k
+for this reason the following corollary to the above theorem is also often called the krein milman theorem
+to visualized this theorem and its conclusion consider the particular case where
+displaystyle k
+is a convex polygon
+in this case the corners of the polygon which are its extreme points are all that is needed to recover the polygon shape
+the statement of the theorem is false if the polygon is not convex as then there are many ways of drawing a polygon having given points as corners
+the requirement that the convex set
+displaystyle k
+be compact can be weakened to give the following strengthened version of the theorem
+the property above is sometimes called quasicompactness or convex compactness
+compactness implies convex compactness because a topological space is compact if and only if every family of closed subsets having the finite intersection property fip has non empty intersection that is its kernel is not empty
+the definition of convex compactness is similar to this characterization of compact spaces in terms of the fip except that it only involves those closed subsets that are also convex rather than all closed subsets
+the assumption of local convexity for the ambient space is necessary because james roberts constructed a counter example for the non locally convex space
+displaystyle l p
+where
+displaystyle p
+linearity is also needed because the statement fails for weakly compact convex sets in cat spaces as proved by nicolas monod
+however theo buehler proved that the krein milman theorem does hold for metrically compact cat spaces
+under the previous assumptions on
+displaystyle k
+displaystyle t
+is a subset of
+displaystyle k
+and the closed convex hull of
+displaystyle t
+is all of
+displaystyle k
+then every extreme point of
+displaystyle k
+belongs to the closure of
+displaystyle t
+this result is known as milman s partial converse to the krein milman theorem
+the choquet bishop de leeuw theorem states that every point in
+displaystyle k
+is the barycenter of a probability measure supported on the set of extreme points of
+displaystyle k
+under the zermelo fraenkel set theory zf axiomatic framework the axiom of choice ac suffices to prove all version of the krein milman theorem given above including statement km and its generalization skm
+the axiom of choice also implies but is not equivalent to the boolean prime ideal theorem bpi which is equivalent to the banach alaoglu theorem
+conversely the krein milman theorem km together with the boolean prime ideal theorem bpi imply the axiom of choice
+in summary ac holds if and only if both km and bpi hold
+it follows that under zf the axiom of choice is equivalent to the following statement
+the closed unit ball of the continuous dual space of any real normed space has an extreme point furthermore skm together with the hahn banach theorem for real vector spaces hb are also equivalent to the axiom of choice
+it is known that bpi implies hb but that it is not equivalent to it said differently bpi is strictly stronger than hb
+the original statement proved by mark krein and david milman was somewhat less general than the form stated here
+earlier hermann minkowski proved that if
+displaystyle x
+is dimensional then
+displaystyle k
+equals the convex hull of the set of its extreme points
+this assertion was expanded to the case of any finite dimension by ernst steinitz
+the krein milman theorem generalizes this to arbitrary locally convex
+displaystyle x
+however to generalize from finite to infinite dimensional spaces it is necessary to use the closure
+banach alaoglu theorem closed ball in the dual space is weak compact
+carath odory s theorem convex hull point in the convex hull of a set p in rd is the convex combination of d points in p
+choquet theory
+helly s theorem theorem about the intersections of d dimensional convex sets
+radon s theorem says d points in d dimensions can be partitioned into two subsets whose convex hulls intersect
+shapley folkman lemma sums of sets of vectors are nearly convex
+topological vector space vector space with a notion of nearnessadasch norbert ernst bruno keim dieter
+topological vector spaces the theory without convexity conditions
+lecture notes in mathematics
+berlin new york springer verlag
+bourbaki nicolas
+topological vector spaces chapters
+l ments de math matique
+translated by eggleston h g madan s
+berlin new york springer verlag
+paul e
+black ed
+extreme point
+dictionary of algorithms and data structures
+us national institute of standards and technology
+retrieved
+borowski ephraim j borwein jonathan m
+extreme point
+dictionary of mathematics
+collins dictionary
+harper collins
+grothendieck alexander
+topological vector spaces
+translated by chaljub orlando
+new york gordon and breach science publishers
+jarchow hans
+locally convex spaces
+stuttgart b g
+teubner
+kelley john l namioka isaac
+linear topological spaces
+graduate texts in mathematics
+berlin heidelberg springer verlag
+k the gottfried
+topological vector spaces i
+grundlehren der mathematischen wissenschaften
+translated by garling d j h
+new york springer science business media
+k the gottfried
+topological vector spaces ii
+grundlehren der mathematischen wissenschaften
+new york springer science business media
+narici lawrence beckenstein edward
+topological vector spaces
+pure and applied mathematics second ed
+boca raton fl crc press
+nikol skij ed
+functional analysis i
+springer verlag
+robertson alex p robertson wendy j
+topological vector spaces
+cambridge tracts in mathematics
+cambridge england cambridge university press
+royden real analysis
+prentice hall englewood cliffs new jersey
+rudin walter
+functional analysis
+international series in pure and applied mathematics
+vol second ed
+new york ny mcgraw hill science engineering math
+schaefer helmut h wolff manfred p
+topological vector spaces
+vol second ed
+new york ny springer new york imprint springer
+schechter eric
+handbook of analysis and its foundations
+san diego ca academic press
+tr ves fran ois
+topological vector spaces distributions and kernels
+mineola n y dover publications
+wilansky albert
+modern methods in topological vector spaces
+mineola new york dover publications inc
+oclc this article incorporates material from krein milman theorem on planetmath which is licensed under the creative commons attribution share alike license
+

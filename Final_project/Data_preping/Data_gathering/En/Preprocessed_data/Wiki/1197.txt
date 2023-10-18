@@ -1,0 +1,73 @@
+in computer architecture the memory hierarchy separates computer storage into a hierarchy based on response time
+since response time complexity and capacity are related the levels may also be distinguished by their performance and controlling technologies
+memory hierarchy affects performance in computer architectural design algorithm predictions and lower level programming constructs involving locality of reference
+designing for high performance requires considering the restrictions of the memory hierarchy i e
+the size and capabilities of each component
+each of the various components can be viewed as part of a hierarchy of memories m m mn in which each member mi is typically smaller and faster than the next highest member mi of the hierarchy
+to limit waiting by higher levels a lower level will respond by filling a buffer and then signaling for activating the transfer
+there are four major storage levels
+internal processor registers and cache
+main the system ram and controller cards
+on line mass storage secondary storage
+off line bulk storage tertiary and off line storage this is a general memory hierarchy structuring
+many other structures are useful
+for example a paging algorithm may be considered as a level for virtual memory when designing a computer architecture and one can include a level of nearline storage between online and offline storage
+adding complexity slows down the memory hierarchy
+cmox memory technology stretches the flash space in the memory hierarchy
+one of the main ways to increase system performance is minimising how far down the memory hierarchy one has to go to manipulate data
+latency and bandwidth are two metrics associated with caches
+neither of them is uniform but is specific to a particular component of the memory hierarchy
+predicting where in the memory hierarchy the data resides is difficult
+the location in the memory hierarchy dictates the time required for the prefetch to occur the number of levels in the memory hierarchy and the performance at each level has increased over time
+the type of memory or storage components also change historically
+for example the memory hierarchy of an intel haswell mobile processor circa is
+processor registers the fastest possible access usually cpu cycle
+a few thousand bytes in size
+cache
+level l micro operations cache bytes kib in size
+level l instruction cache kib in size
+level l data cache kib in size
+best access speed is around gb s
+level l instruction and data shared mib in size
+best access speed is around gb s
+level l shared cache mib in size
+best access speed is around gb s
+level l shared cache mib in size
+best access speed is around gb s
+main memory primary storage gib in size
+best access speed is around gb s
+in the case of a numa machine access times may not be uniform
+disk storage secondary storage terabytes in size
+as of best access speed is from a consumer solid state drive is about mb s
+nearline storage tertiary storage up to exabytes in size
+as of best access speed is about mb s
+offline storagethe lower levels of the hierarchy from disks downwards are also known as tiered storage
+the formal distinction between online nearline and offline storage is
+online storage is immediately available for i o
+nearline storage is not immediately available but can be made online quickly without human intervention
+offline storage is not immediately available and requires some human intervention to bring online for example always on spinning disks are online while spinning disks that spin down such as massive array of idle disk maid are nearline
+removable media such as tape cartridges that can be automatically loaded as in a tape library are nearline while cartridges that must be manually loaded are offline
+most modern cpus are so fast that for most program workloads the bottleneck is the locality of reference of memory accesses and the efficiency of the caching and memory transfer between different levels of the hierarchy
+as a result the cpu spends much of its time idling waiting for memory i o to complete
+this is sometimes called the space cost as a larger memory object is more likely to overflow a small fast level and require use of a larger slower level
+the resulting load on memory use is known as pressure respectively register pressure cache pressure and main memory pressure
+terms for data being missing from a higher level and needing to be fetched from a lower level are respectively register spilling due to register pressure register to cache cache miss cache to main memory and hard page fault main memory to disk
+modern programming languages mainly assume two levels of memory main memory and disk storage though in assembly language and inline assemblers in languages such as c registers can be directly accessed
+taking optimal advantage of the memory hierarchy requires the cooperation of programmers hardware and compilers as well as underlying support from the operating system
+programmers are responsible for moving data between disk and memory through file i o
+hardware is responsible for moving data between memory and caches
+optimizing compilers are responsible for generating code that when executed will cause the hardware to use caches and registers efficiently many programmers assume one level of memory
+this works fine until the application hits a performance wall
+then the memory hierarchy will be assessed during code refactoring
+cache hierarchy
+use of spatial and temporal locality hierarchical memory
+buffer vs
+cache
+cache hierarchy in a modern processor
+memory wall
+computer memory
+hierarchical storage management
+cloud storage
+memory access pattern
+communication avoiding algorithm
+

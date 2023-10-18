@@ -1,0 +1,53 @@
+national financial switch nfs is the largest network of shared automated teller machines atms in india
+it was designed developed and deployed by the institute for development and research in banking technology idrbt in with the goal of inter connecting the atms in the country and facilitating convenience banking
+it is run by the national payments corporation of india npci
+as on st january there were members that includes direct sub members rrbs and wlaos using nfs network connected to more than lac atm including cash deposit machines recyclers
+the first atm in india was set up in by hsbc in mumbai
+in the following ten years about atms were set up in india
+in the indian banks association iba set up swadhan the first network of shared atms in india
+it was managed by india switch company isc for five years and allowed cardholders to withdraw cash from any atm in the network for a fee if they did not have an account with the bank that owned the atm
+in the network connected over atms of the member banks of the association
+the network was capable of handling transactions per day but only transactions worth about took place each day
+in contrast icici bank s network of about atms handled transactions worth about each day
+after the contract with isc expired iba failed to find a bidder to manage the operationally uneconomical network and shut it down on december
+after the collapse of swadhan bank of india union bank of india indian bank united bank of india and syndicate bank formed an atm sharing network called cashtree
+citibank the industrial development bank of india standard chartered bank and axis bank formed a similar network called cashnet
+punjab national bank and canara bank also created such networks
+in august the idrbt announced that it would be creating the national financial switch nfs to link together the country s atms in a single network
+the idrbt collaborated with euronet worldwide and opus software to build a platform to allow banks to connect their own switches to the nfs
+the nfs consisted of an inter atm switch and a e commerce payment gateway
+the national financial switch was launched by the idrbt on august connecting the atms of three banks corporation bank bank of baroda and icici bank
+the idrbt then worked towards bringing all major banks in india on board and by december the network had grown to connect atms of banks thereby emerging as the largest network of shared atms in the country
+idrbt decided to hive off its operational role on atm switching to refocus on research and development and was sought to shift the business to a national level payment system organization
+the national payments corporation of india npci started discussions with idrbt on the feasibility of taking over
+the board for regulation and supervision of payment and settlement systems bpss at its meeting held on september approved in principle to issue authorisation to npci for operating various retail payment systems in the country
+the reserve bank of india granted authorisation to npci to take over the operations of national financial switch nfs from the institute of development and research in banking technology idrbt on a as is where is basis on october
+npci deputed its officials to idrbt hyderabad and the institute handed over the national financial switch to the npci on december
+any bank that provides core banking services with x transaction banking capabilities with or without atms may join the national financial switch through a sponsor bank
+this allows non scheduled urban co operative banks ucbs and regional rural banks rrbs to gain access to the national network of over atms in the country
+before august access was limited to scheduled banks with rtgs membership
+the sponsorship scheme was started to increase the connectivity of atms across the country and to enable customers to use atms across india
+the primary headquarters is located at mumbai
+as of april the nfs network connects total of atms in india
+among them atms of direct member banks atms of sub member banks atms of rrb member banks and atms of white label atm providers which is the largest number of atms under a single network in india
+nfs which is the largest domestic atm network in the country member banks has been in the fore front in providing inter bank atm services to maximum customers
+initially the following basic transactions were available in the nfs network
+cash withdrawal
+balance enquiry
+pin change
+mini statementto enable the member banks of nfs to offer greater utility to their customers npci has introduced the below mentioned functionalities as value added services to enable customers to use these services at any participating bank atms
+card to card fund transfer atm debit card to atm debit card using this service a card holder of a participating nfs member bank will be able to remit funds to another card holder of a participating nfs member bank
+the funds will be transferred basis the beneficiary s card number which the remitter will be required to input at the time of the transaction
+the main features of the service are mentioned below
+inter operable
+instant fund transfer
+availability
+paper less
+secure
+better fund management
+transaction limits the transaction limits are in accordance with the rbi s circular on domestic money transfer
+accordingly for cases where the issuing and beneficiary cards are debit atm cards the per transaction limit will be rs and the monthly limit will be rs per remitter cheque book request statement request at present although statement cheque book request options are available at atms these are available only for customers of that particular bank
+nfs aims to make this option inter operable wherein customers will be able to avail the aforementioned services at nfs member bank atms who avail this particular service from npci
+reserve bank of india
+national financial switch official web page
+

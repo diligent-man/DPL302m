@@ -1,0 +1,19 @@
+on spirals greek is a treatise by archimedes written around bc
+notably archimedes employed the archimedean spiral in this book to square the circle and trisect an angle
+archimedes begins on spirals with a message to dositheus of pelusium mentioning the death of conon as a loss to mathematics
+he then goes on to summarize the results of on the sphere and cylinder and on conoids and spheroids
+he continues to state his results of on spirals
+the archimedean spiral was first studied by conon and was later studied by archimedes in on spirals
+archimedes was able to find various tangents to the spiral
+he defines the spiral as
+the construction as to how archimedes trisected the angle is as follows
+suppose the angle abc is to be trisected
+trisect the segment bc and find bd to be one third of bc
+draw a circle with center b and radius bd
+suppose the circle with center b intersects the spiral at point e
+angle abe is one third angle abc to square the circle archimedes gave the following construction
+let p be the point on the spiral when it has completed one turn
+let the tangent at p cut the line perpendicular to op at t
+ot is the length of the circumference of the circle with radius op archimedes had already proved as the first proposition of measurement of a circle that the area of a circle is equal to a right angled triangle having the legs lengths equal to the radius of the circle and the circumference of the circle
+so the area of the circle with radius op is equal to the area of the triangle opt
+

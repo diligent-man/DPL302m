@@ -18,59 +18,90 @@ class TextPreprocessor:
     def get_preprocessed_data_path(self):
         return self.__preprocessed_data_path
 
+
+    @staticmethod
+    def has_BOM(filename):
+        # ref: https://codeverge.com/unicodeerror-utf-16-stream-does-not-start-with-bom
+        with open(filename, 'rb') as f:
+            initial_bytes = f.read(2)
+        return initial_bytes in [b'\xFE\xFF', b'\xFF\xFE']
+
     @staticmethod
     def save_preprocessed_data(preprocessed_data_path: str, filename: str, data: str) -> None:
-        with open(preprocessed_data_path + '/' + filename, 'w') as f:
+        with open(preprocessed_data_path + '/' + filename, 'w', encoding='utf-8') as f:
             f.write(data + '\n')
         return None
 
-
     def split_into_sentence(self):
         for filename in os.listdir(self.__data_path):
+            with open(self.__data_path + '/' + filename, 'r', encoding='utf-8') as f:
+                # Split by paragraph
+                data = f.read().split('\n')
+                paragraph = [paragraph.strip() for paragraph in data if len(paragraph) != 0]
+                # Split by period
+                paragraph = [sentence.split('. ') for sentence in paragraph]
+                # Take only available sentence
+                sentences = [sentence for sentences in paragraph for sentence in sentences if len(sentence) != 0]
 
-            # if self.has_BOM(self.__data_path + '/' + filename):
-            print(filename)
+            # save data to preprocessed_data folder
+            data = '\n'.join(sentences)
+
+            self.save_preprocessed_data(self.__preprocessed_data_path, filename, data)
+
+    def remove_special_chars(self):
+        for filename in sorted(os.listdir(self.__data_path)):
+            with open(os.path.join(self.__data_path, filename), 'r', encoding='utf-8') as f:
+                data = ''
+                for line in f:
+                    # remove special chars
+                    line = re.sub(r'[^a-zA-Z ]', ' ', line.lower())
+                    if line.startswith('-'):
+                        line = line[1:]
+
+                    # Loại bỏ khoảng trắng đầu dòng và giữ một khoảng trắng giữa các từ
+                    line = ' '.join(line.strip().split())
+
+                    # if len line < 5, ignore it
+                    if len(line) >= 5:
+                        print(line, len(line))
+                        data = data + line + '\n'
+
+                # save to file
+                self.save_preprocessed_data(self.__preprocessed_data_path, filename, data)
 
 
-
-
-def BBC_preprocessing(parent_path: str, original_path: str) -> None:
-    # parent_path: ../Data/BBC
-    os.chdir(parent_path)
-    category_ls  = sorted(os.listdir())
-    preprocessed_data_dir = '../../Preprocessed_data/BBC'
+def en_preprocessing() -> None:
+    category_ls = ['Business', 'Entertainment', 'Health', 'Sport', 'Style',
+                'Tech', 'Ted_talk', 'Travel', 'Weather',
+                'Wiki','World']
+    data_dir = 'D:/FPT/data/Data'
+    preprocessed_data_dir = "D:/FPT/data/Preprocessed_data"
 
     # split into singular sentence
     for category in category_ls:
         text_preprocessor = TextPreprocessor()
-        text_preprocessor.set_data_path(parent_path + '/' + category)
-        text_preprocessor.set_preprocessed_data_path(preprocessed_data_dir + '/BBC/' + category)
-
+        text_preprocessor.set_data_path(data_dir + '/' + category)
+        text_preprocessor.set_preprocessed_data_path(preprocessed_data_dir + '/' + category)
 
         # remove preprocessed data dir if it exists
         if category in os.listdir(preprocessed_data_dir):
             shutil.rmtree(path=preprocessed_data_dir + '/' + category)
         os.mkdir(path=preprocessed_data_dir + '/' + category, mode=0o777)
 
-        # text_preprocessor.split_into_sentence()
+        # perform splitting
+        text_preprocessor.split_into_sentence()
 
 
-
-    os.chdir(original_path)
-    return None
-
-
-def Ted_talk() -> None:
-    return None
-
-
-def Wiki() -> None:
-    return None    
+    # remove punctuation marks
+    for category in category_ls:
+        text_preprocessor = TextPreprocessor()
+        text_preprocessor.set_data_path(preprocessed_data_dir + '/' + category)
+        text_preprocessor.set_preprocessed_data_path(preprocessed_data_dir + '/' + category)
+        text_preprocessor.remove_special_chars()
 
 
 def main() -> None:
-    original_path = os.getcwd()
-    BBC_preprocessing(parent_path='../Data/BBC', original_path=original_path)    
+    en_preprocessing()
     return None
 
 

@@ -1,0 +1,132 @@
+in theoretical computer science a circuit is a model of computation in which input values proceed through a sequence of gates each of which computes a function
+circuits of this kind provide a generalization of boolean circuits and a mathematical model for digital logic circuits
+circuits are defined by the gates they contain and the values the gates can produce
+for example the values in a boolean circuit are boolean values and the circuit includes conjunction disjunction and negation gates
+the values in an integer circuit are sets of integers and the gates compute set union set intersection and set complement as well as the arithmetic operations addition and multiplication
+a circuit is a triple
+displaystyle m l g
+where
+displaystyle m
+is a set of values
+displaystyle l
+is a set of gate labels each of which is a function from
+displaystyle m i
+displaystyle m
+for some non negative integer
+displaystyle i
+where
+displaystyle i
+represents the number of inputs to the gate and
+displaystyle g
+is a labelled directed acyclic graph with labels from
+displaystyle l
+the vertices of the graph are called gates
+for each gate
+displaystyle g
+of in degree
+displaystyle i
+the gate
+displaystyle g
+can be labeled by an element
+displaystyle ell
+displaystyle l
+if and only if
+displaystyle ell
+is defined on
+displaystyle m i
+the gates of in degree are called inputs or leaves
+the gates of out degree are called outputs
+if there is an edge from gate
+displaystyle g
+to gate
+displaystyle h
+in the graph
+displaystyle g
+displaystyle h
+is called a child of
+displaystyle g
+we suppose there is an order on the vertices of the graph so we can speak of the
+displaystyle k
+th child of a gate when
+displaystyle k
+is less than the out degree of the gate
+the size of a circuit is the number of nodes of a circuit
+the depth of a gate
+displaystyle g
+is the length of the longest path in
+displaystyle g
+beginning at
+displaystyle g
+up to an output gate
+in particular the gates of out degree are the only gates of depth
+the depth of a circuit is the maximum depth of any gate
+level
+displaystyle i
+is the set of all gates of depth
+displaystyle i
+a levelled circuit is a circuit in which the edges to gates of depth
+displaystyle i
+comes only from gates of depth
+displaystyle i
+or from the inputs
+in other words edges only exist between adjacent levels of the circuit
+the width of a levelled circuit is the maximum size of any level
+the exact value
+displaystyle v g
+of a gate
+displaystyle g
+with in degree
+displaystyle i
+and label
+displaystyle l
+is defined recursively for all gates
+displaystyle g
+is an input
+otherwise
+displaystyle v g begin cases l text if g text is an input l v g dotsc v g i text otherwise end cases
+where each
+displaystyle g j
+is a parent of
+displaystyle g
+the value of the circuit is the value of each of the output gates
+the labels of the leaves can also be variables which take values in
+displaystyle m
+if there are
+displaystyle n
+leaves then the circuit can be seen as a function from
+displaystyle m n
+displaystyle m
+it is then usual to consider a family of circuits
+displaystyle c n n in mathbb n
+a sequence of circuits indexed by the integers where the circuit
+displaystyle c n
+displaystyle n
+variables
+families of circuits can thus be seen as functions from
+displaystyle m
+displaystyle m
+the notions of size depth and width can be naturally extended to families of functions becoming functions from
+displaystyle mathbb n
+displaystyle mathbb n
+for example
+displaystyle size n
+is the size of the
+displaystyle n
+th circuit of the family
+computing the output of a given boolean circuit on a specific input is p complete problem
+if the input is an integer circuit however it is unknown whether this problem is decidable
+circuit complexity attempts to classify boolean functions with respect to the size or depth of circuits that can compute them
+arithmetic circuit complexity
+boolean circuit
+circuit complexity
+circuits over sets of natural numbers
+the complexity classes nc ac and tc
+quantum circuit and bqpvollmer heribert
+introduction to circuit complexity
+berlin springer
+yang ke
+integer circuit evaluation is pspace complete
+journal of computer and system sciences
+september
+doi jcss
+

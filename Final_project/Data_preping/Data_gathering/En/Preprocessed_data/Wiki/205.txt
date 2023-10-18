@@ -1,0 +1,260 @@
+ultra high definition television also known as ultra hd television ultra hd uhdtv uhd and super hi vision today includes k uhd and k uhd which are two digital video formats with an aspect ratio of
+these were first proposed by nhk science technology research laboratories and later defined and approved by the international telecommunication union itu
+it is a digital television dtv standard and the successor to high definition television hdtv which in turn was the successor to standard definition television sdtv
+the consumer electronics association announced on october that ultra high definition or ultra hd would be used for displays that have an aspect ratio of or wider and at least one digital input capable of carrying and presenting native video at a minimum resolution of
+in the ultra hd forum was created to bring together the end to end video production ecosystem to ensure interoperability and produce industry guidelines so that adoption of ultra high definition television could accelerate
+from just in q the forum published a list up to commercial services available around the world offering k resolution
+the uhd alliance an industry consortium of content creators distributors and hardware manufacturers announced during a consumer electronics show ces press conference its ultra hd premium specification which defines resolution bit depth color gamut high dynamic range hdr performance required for ultra hd uhdtv content and displays to carry their ultra hd premium logo
+ultra high definition television is also known as ultra hd uhd uhdtv and k
+in japan k uhdtv will be known as super hi vision since hi vision was the term used in japan for hdtv
+in the consumer electronics market companies had previously only used the term k at the ces but that had changed to ultra hd during ces
+ultra hd was selected by the consumer electronics association after extensive consumer research as the term has also been established with the introduction of ultra hd blu ray
+two resolutions are defined as uhdtv
+uhdtv is pixels wide by pixels tall megapixels which is four times as many pixels as the megapixels of current p hdtv full hdtv
+also known as p and k uhd
+although roughly similar in resolution to k digital cinema formats it should not be confused with other k resolutions such as the dci k cinema k
+the total number of pixels of rgb stripe type is mega pixel
+uhdtv is pixels wide by pixels tall megapixels also referred to as p and k uhd which is sixteen times as many pixels as current p hdtv which brings it closer to the detail level of mm imax
+nhk advertises the k uhdtv format with surround sound as super hi vision the human visual system has a limited ability to discern improvements in resolution when picture elements are already small enough or distant enough from the viewer
+at some home viewing distances and current tv sizes hd resolution is near the limits of resolution for the eye and increasing resolution to k has little perceptual impact if consumers are beyond the critical distance lechner distance to appreciate the differences in pixel count between k and hd
+one exception is that even if resolution surpasses the resolving ability of the human eye there is still an improvement in the way the image appears due to higher resolutions reducing spatial aliasing
+uhdtv provides other image enhancements in addition to pixel density
+specifically dynamic range and color are greatly enhanced and these impact saturation and contrast differences that are readily resolved greatly improve the experience of ktv compared to hdtv
+uhdtv allows the future use of the new rec
+uhdtv color space which can reproduce colors that cannot be shown with the current rec
+hdtv color space
+in terms of cie color space the rec
+color space covers compared to coverage by the dci p digital cinema reference projector color space of just by adobe rgb color space while the rec
+color space covers only
+uhdtv s increases in dynamic range allow not only brighter highlights but also increased detail in the greyscale
+uhdtv also allows for frame rates up to frames per second fps
+uhdtv potentially allows rec
+higher dynamic range and higher frame rates to work on hd services without increasing resolution to k providing improved quality without as high of an increase in bandwidth demand
+the first displays capable of displaying k content appeared in as the ibm t t lcd monitors
+nhk researchers built a uhdtv prototype which they demonstrated in
+they used an array of hdtv recorders with a total capacity of almost tb that could capture up to minutes of test footage
+the camera itself was built with four inch mm ccds each with a resolution of only
+using two ccds for green and one each for red and blue they then used a spatial pixel offset method to bring it to
+subsequently an improved and more compact system was built using cmos image sensor technology and the cmos image sensor system was demonstrated at expo aichi japan the nab and nab conferences las vegas at ibc and ibc amsterdam netherlands and ces
+a review of the nab demo was published in a broadcast engineering e newsletter
+individuals at nhk and elsewhere projected that the timeframe for uhdtv to be available in domestic homes varied between and but japan was to get it in the time frame
+on november nhk demonstrated a live relay of a uhdtv program over a kilometer distance by a fiber optic network
+using dense wavelength division multiplex dwdm gbit s speed was achieved with a total of different wavelength signals
+on december nhk demonstrated a live relay of their annual k haku uta gassen over ip from tokyo to a in m screen in osaka
+using a codec developed by nhk the video was compressed from gbit s to mbit s and the audio was compressed from mbit s to mbit s
+uncompressed a minute broadcast would require roughly tb of storage
+the smpte first released standard for uhdtv in
+uhdtv was defined as having two levels called uhdtv and uhdtv
+in may the nhk did an indoor demonstration at the nhk open house in which a uhdtv signal at fps was compressed to a mbit s mpeg stream
+the signal was input to a mhz wide band modulator and broadcast using a mhz qpsk modulation
+this on the air transmission had a very limited range less than meters but shows the feasibility of a satellite transmission in the km orbit
+in aptina imaging announced the introduction of a new cmos image sensor specifically designed for the nhk uhdtv project
+during ibc japan s nhk italy s rai bskyb sony samsung panasonic corporation sharp corporation and toshiba with various partners demonstrated the first ever public live transmission of uhdtv from london to the conference site in amsterdam
+on june panasonic announced that its professional plasma display lineup would include an inch m plasma display with k resolution
+at the time of announcement it was the largest k display and the largest television
+on september the nhk partnered up and recorded the charlatans live in the uk in the uhdtv format before broadcasting over the internet to japan
+on may sharp in collaboration with nhk demonstrated a direct view in cm lcd display capable of pixels at bits per channel
+it was the first direct view super hi vision compatible display released
+before uhdtv allowed for frame rates of and fps
+in an itu r meeting during an additional frame rate was added to uhdtv of fps
+on february nhk announced that with shizuoka university they had developed an k sensor that can shoot video at fps
+in april panasonic in collaboration with nhk announced a in cm display at fps which has million mm square pixels
+in april the four major korean terrestrial broadcasters kbs mbc sbs and ebs announced that in the future they would begin test broadcasts of uhdtv on channel in seoul
+at the time of the announcement the uhdtv technical details had not yet been decided
+lg electronics and samsung are also involved in uhdtv test broadcasts
+in may nhk showed the world s first ultra high definition shoulder mount camera
+by reducing the size and weight of the camera the portability had been improved making it more maneuverable than previous prototypes so it could be used in a wide variety of shooting situations
+the single chip sensor uses a bayer color filter array where only one color component is acquired per pixel
+researchers at nhk also developed a high quality up converter which estimates the other two color components to convert the output into full resolution video
+also in may nhk showed the ultra high definition imaging system it has developed in conjunction with shizuoka university which outputs megapixel video at fps with a color depth of bits per component
+as ultra high definition broadcasts at full resolution are designed for large wall sized displays there is a possibility that fast moving subjects may not be clear when shot at fps so the option of fps has been standardized for these situations
+to handle the sensor output of approximately billion pixels per second with a data rate as high as gbit s a faster analog to digital converter has been developed to process the data from the pixels and then a high speed output circuit distributes the resulting digital signals into parallel channels
+this in mm cmos sensor is smaller and uses less power when compared to conventional ultra high definition sensors and it is also the world s first to support the full specifications of the ultra high definition standard
+during the summer olympics in great britain the format was publicly showcased by the world s largest broadcaster the bbc which set up meter wide screens in london glasgow and bradford to allow viewers to see the games in ultra high definition
+on may sony released the vpl vw es k d projector the world s first consumer prosumer projector using the k uhdtv system with the shutter glasses stereoscopic d technology priced at us
+on august lg announced the world s first d uhdtv using the k system
+on august uhdtv was officially approved as a standard by the international telecommunication union itu standardizing both k and k resolutions for the format in itu r recommendation bt
+on september david wood deputy director of the ebu technology and development department who chairs the itu working group that created rec told the hollywood reporter that korea plans to begin test broadcasts of k uhdtv next year
+wood also said that many broadcasters have the opinion that going from hdtv to k uhdtv is too much of a leap and that it would be better to start with k uhdtv
+in the same article masakazu iwaki nhk research senior manager said that the nhk plan to go with k uhdtv is for economic reasons since directly going to k uhdtv would avoid an additional transition from k uhdtv to k uhdtv
+on october the consumer electronics association cea announced that it had been unanimously agreed by the cea s board of industry leaders that the term ultra high definition or ultra hd would be used for displays that have a resolution of at least megapixels with a vertical resolution of at least pixels and a horizontal resolution of at least pixels
+the ultra hd label also requires the display to have an aspect ratio of or wider and to have at least one digital input that can carry and present a native video signal of without having to rely on a video scaler
+sony announced they would market their k products as k ultra high definition k uhd
+on october ortus technology co ltd announced the development of the world s smallest pixel lcd panel with a size of in cm and a pixel density of px in
+the lcd panel is designed for medical equipment and professional video equipment
+on october lg electronics began selling the first flat panel ultra hd display in the united states with a resolution of
+the lg lm is an in cm flat panel led backlit lcd display with a price of us though the retail store was selling it for us
+on november sony announced the k ultra hd video player a hard disk server preloaded with ten k movies and several k video clips that they planned to include with the sony xbr x
+the preloaded k movies are the amazing spider man total recall the karate kid salt battle los angeles the other guys bad teacher that s my boy taxi driver and the bridge on the river kwai
+additional k movies and k video clips will be offered for the k ultra hd video player in the future
+on november red digital cinema camera company announced that they were taking pre orders for the us redray k cinema player which can output k resolution to a single k display or to four p displays arranged in any configuration via four hdmi connections
+video output can be dci k k ultra hd p and p at frame rates of up to fps with a color depth of up to bpc with chroma subsampling
+audio output can be up to channels
+content is distributed online using the odemax video service
+external storage can be connected using esata ethernet usb or a secure digital memory card
+on january the nhk announced that super hi vision satellite broadcasts could begin in japan in
+on january eutelsat announced the first dedicated k ultra hd channel
+ateme uplinks the h mpeg avc channel to the eutelsat a satellite
+the k ultra hd channel has a frame rate of fps and is encoded at mbit s
+the channel started transmission on january
+on the same day qualcomm ceo paul jacobs announced that mobile devices capable of playing and recording k ultra hd video would be released in using the snapdragon chip
+on january broadcom announced the bcm an ultra hd decoding chip capable of decoding high efficiency video coding hevc at up to at fps
+the bcm is a nm arm architecture chip capable of dhrystone mips with volume production estimated for the middle of
+on the same day thx announced the thx k certification program for ultra hd displays
+the certification involves up to tests and the goal of the program is so that content viewed on a thx certified ultra hd display meets the most exacting video standards achievable in a consumer television today
+on january blu ray disc association president andy parsons stated that a task force created three months ago is studying an extension to the blu ray disc specification that would add support for k ultra hd video
+on january the bbc announced that the bbc natural history unit would produce survival the first wildlife tv series recorded in k resolution
+this was announced after the bbc had experimented with k during the london olympics
+on january asahi shimbun reported that k ultra hd satellite broadcasts would start in japan with the fifa world cup
+japan s ministry of internal affairs and communications decided on this move to stimulate demand for k ultra hd tvs
+on february sony announced that the playstation would support k resolution output for photos and videos but wouldn t render games at that resolution
+on march the advanced television systems committee atsc announced a call for proposals for the atsc physical layer that specifies support for resolution at fps
+on april bulb tv created by canadian entrepreneur evan kosiner became the first broadcaster to provide a k linear channel and vod content to cable and satellite companies in north america
+the channel is licensed by the canadian radio television and telecommunications commission to provide educational content
+on april ses announced the first ultra hd transmission using the hevc standard
+the transmission had a resolution of and a bit rate of mbit s
+on may nhk and mitsubishi electric announced that they had jointly developed the first hevc encoder for k ultra hd tv which is also called super hi vision shv
+the hevc encoder supports the main profile at level allowing it to encode bpc video with a resolution of at fps
+the hevc encoder has g sdi inputs and uses boards for parallel processing with each board encoding a row of pixels to allow for real time video encoding
+the hevc encoder is compliant with draft of the hevc standard and has a maximum bit rate of mbit s
+the hevc encoder was shown at the nhk science technology research laboratories open house that took place from may to june
+at the nhk open house the hevc encoder used a bit rate of mbit s which gives a compression ratio of
+on may microsoft announced the xbox one which supports k resolution video output and surround sound
+yusuf mehdi corporate vice president of marketing and strategy for microsoft has stated that there is no hardware restriction that would prevent xbox one games from running at k resolution
+on may eye io announced that their encoding technology was licensed by sony pictures entertainment to deliver k ultra hd video
+eye io encodes their video assets at and includes support for the xvycc color space
+in mid a chinese television manufacturer produced the first inch uhd television set costing less than
+on june comcast announced that they had demonstrated the first public u s based delivery of k ultra hd video at the ncta show
+the demonstration included segments from oblivion defiance and nature content sent over a docsis network
+on june espn announced that they would end the broadcast of the espn d channel by the end of that year and would experiment with things like uhdtv
+on june sharp announced the lc ud u which is a in cm k ultra hd tv
+the lc ud u is the world s first tv with thx k certification
+on july jimmy kimmel live recorded in k ultra hd a performance by musical guest karmin and the video clip was used as demonstration material at sony stores
+on july sony announced the release of their k ultra hd media player with a price of us for rentals and us for purchases
+the k ultra hd media player only worked with sony s k ultra hd tvs
+on july the cta published cta f a standard that applies to interfaces such as dvi hdmi and lvds
+the cta f standard adds support for several ultra hd video formats and additional color spaces
+on september acer announced the first smartphone dubbed liquid s capable of recording k video
+on september the hdmi forum released the hdmi specification which supports k resolution at fps
+on the same day panasonic announced the panasonic tc l wt the first k tv to support k resolution at fps
+the panasonic tc l wt has a in cm screen support for displayport a support for hdmi an expected ship date of october and a suggested retail price of us
+on september at the ibc conference in amsterdam nagra introduced an ultra hd user interface called project ultra based on html which works with opentv
+on october digitaleurope announced the requirements for their uhd logo in europe
+the digitaleurope uhd logo requires that the display support a resolution of at least a aspect ratio the rec
+hdtv color space bpc color depth a frame rate of or fps and at least channel audio
+on october elemental technologies announced support for real time k ultra hd hevc video processing
+elemental provided live video streaming of the osaka marathon on october in a workflow designed by k opticom a telecommunications operator in japan
+live coverage of the race in k ultra hd was available to viewers at the international exhibition center in osaka
+this transmission of k ultra hd hevc video in real time was an industry first
+on november organizing committee of the xxii olympic winter games and xi paralympic winter games in sochi chief dmitri chernyshenko stated that the olympic winter games would be shot in k super hi vision
+on december youtube added a p k option to its videoplayer
+previously a visitor had to select the original setting in the video quality menu to watch a video in k resolution
+with the new setting youtube users can much more easily identify and play k videos
+on december samsung announced availability of its in cm ultra hdtv for custom orders making this the world s largest ultra hdtv so far
+on january european southern observatory became the first scientific organization to deliver ultra hd footage at regular intervals
+on may france announced dvb t tests in paris for ultra hd hevc broadcast with objectives to replace by the current dvb t mpeg hd national broadcast
+on may satellite operator eutelsat announced the launch of europe s first ultra hd demo channel in hevc broadcasting at fps
+the channel is available on the hot bird satellites and can be watched by viewers with k tvs equipped with dvb s demodulators and hevc decoders
+in june the fifa world cup of that year held in brazil became the first shot entirely in k ultra hd by sony
+the european broadcasting union ebu broadcast matches of the fifa world cup to audiences in north america latin america europe and asia in ultra hd via ses nss and ses satellites
+indian satellite tv provider unveils its plan to launch k uhd service early in and showcased live fifa world cup quarter final match in k uhd through sony entertainment television sony six
+on june the cea updated the guidelines for ultra high definition and released guidelines for connected ultra high definition adding support for internet video delivered with hevc
+the cea is developing a uhd logo for voluntary use by companies that make products that meet cea guidelines
+the cea also clarified that ultra high definition ultra hd or uhd can be used with other modifiers and gave an example with ultra high definition tv k
+on july researchers from the university of essex both captured and delivered its graduation ceremonies in k uhdtv over the internet using h in realtime
+the k video stream was published at mbit s and mbit s for all its ceremonies with people viewing in from countries such as cyprus bulgaria germany australia uk and others
+on september canon inc
+announced that a firmware upgrade would add rec
+color space support to their eos c and eos c pl camera models and their dp v k display
+on september microsoft announced a firmware update for the microsoft lumia icon and phones that adds k video recording
+the update was later released by the individual phone carriers over the following weeks and months after the announcement
+on september the blu ray disc association announced that the k blu ray disc specification supports k video at fps high efficiency video coding the rec
+color space high dynamic range and bpc color depth
+k blu ray disc will have a data rate of at least mbit s and may include support for gb and gb discs
+k blu ray disc began licensing in with k blu ray disc players released late that year
+on september digitaleurope released an ultra hd logo for companies that meet their technical requirements
+on september satellite operator ses announced the first ultra hd conditional access protected broadcast using dvb standards at the ibc show in amsterdam
+the demonstration used a samsung ultra hd tv with a standard kudelski smardtv ci plus conditional access module to decrypt a full pixel cas protected ultra hd signal in hevc broadcast via an ses astra satellite at e
+on november rock band linkin park s concert at berlin s o world arena was broadcast live in ultra hd via an astra e satellite
+the broadcast was encoded in the uhd k standard with the hevc codec fps and a bpc color depth and was a joint enterprise of satellite owner ses ses platform services later mx now part of ses video and samsung
+indian satellite pay tv provider tata sky launched uhd service and uhd set top box on january
+the service is k at fps and price of the uhd box is for existing sd hd customers and for new customers
+the cricket world cup was telecast live in k for free to those who own tata sky s uhd k stb
+in may france t l visions broadcast matches from roland garros live in ultra hd via the eutelsat west a satellite in the hevc standard
+the channel france tv sport ultra hd was available via the fransat platform for viewers in france
+in may satellite operator ses announced that europe s first free to air ultra hd channel from germany s pearl tv shopping channel would launch in september broadcast in native ultra hd via the astra e satellite position
+in june ses launched its first ultra hd demonstration channel for cable operators and content distributors in north america to prepare their systems and test their networks for ultra hd delivery
+the channel is broadcast from the ses satellite at w
+in june spi international previewed its k funbox uhd ultra hd channel on the hot bird k channel in advance of its commercial launch on eutelsat s hot bird satellites in the autumn
+in july german hd satellite broadcaster hd and tv equipment manufacturer technisat announced an ultra hd tv set with integrated decryption for reception of existing hd channels available in the autumn and a new ultra hd demonstration channel due to begin broadcasting in september
+on august the fa community shield in england was broadcast in ultra hd by broadcast company bt sport becoming the first live football game shown in ultra hd on the world s first commercial ultra hd channel
+the match was shown on europe s first ultra hd channel bt sport ultra hd where selected live english premier league and european champions league matches were broadcast
+fashion one k launched on september becoming the first global ultra hd tv channel
+reaching nearly million households across the world the fashion lifestyle and entertainment network broadcasts via satellite from measat at e for asia pacific middle east australia and from ses satellites astra e for europe ses at w for north america nss at w for south america
+in september eutelsat presented new consumer research conducted by tns and gfk on ultra hd and screen sales in key tv markets
+the study looked at consumer exposure to ultra hd perceived benefits and willingness to invest in equipment and content
+gfk predicts a increase in ultra hd screen sales from june to december with sales expected to reach five million by the end of the year
+gfk also forecasts that ultra hd screens in will represent more than of total sales across europe and almost in the middle east and north africa
+on september sony unveiled the xperia z premium the first smartphone with a k display
+on september apple inc
+announced that their new smartphone the iphone s could record video in k
+on october microsoft unveiled the latest version of their microsoft surface book laptop with a display of over million pixels and their new phones the microsoft lumia and xl which aside from k video recording that their predecessors included feature a display of over million pixels
+on december the ceremony of the opening of the holy door in vatican city which marked the beginning of the jubilee year of mercy in the roman catholic church was the first worldwide ultra hd broadcast via satellite
+the event was produced by the vatican television center with the support of eutelsat sony globecast and dbw communication
+the team did some advanced experimentation with k high dynamic range live images and in particular using technology developed by the bbc s r d division and japan s public broadcaster nhk in terms of hybrid log gamma hlg signals
+the uhd alliance an industry consortium of content creators distributors and hardware manufacturers announced monday on the th of january during ces press conference its ultra hd premium specification which defines resolution bit depth color gamut high dynamic range hdr performance required for ultra hd uhdtv content and displays to carry their ultra hd premium logo
+on april ultra high definition television demo channel uhd broadcast the le corsaire ballet in ultra hd live from the vienna state opera
+the programme was produced by astra satellite owner ses in collaboration with european culture channel arte and transmitted free to air available to anyone with reception of the astra e satellites and an ultra hd screen equipped with an hevc decoder
+as of april the npd group reported that million k uhd televisions had been sold
+in may modern times group owner of the viasat dth platform announced the launch of viasat ultra hd the first uhd channel for the nordic region
+the channel features selected live sport events especially produced in ultra hd and launch in the autumn via the ses satellite at e
+viasat is also launching an ultra hd set top box from samsung and a tv module that enables existing uhd tvs to display the channel
+satellite operator ses said that the launch of viasat ultra hd brings the number of uhd channels including test channels and regional versions carried on ses satellites to or of all uhd channels broadcast via satellite worldwide
+in august sky announced that k broadcasts would begin via their new sky q tb box
+the opening match of the premier league between hull city and leicester city on sky sports was the first k transmission
+on september bsat a dedicated for uhdtv programming and was also claimed the world s first k satellite was launched from the guiana space centre aboard ariane rocket
+bsat a would be used for summer olympics held in japan
+additionally in september kaleidescape a manufacturer of home theater movie players and servers made k uhd movies compatible with their movie store and with their movie players
+in december qualcomm announced that their snapdragon chipset and spectra image signal processor would be the first phone soc to record video in uhd premium
+in april rtl started broadcasting its own uhd channel in germany
+first available at astra e the channel shows uhd productions formula football and deutschland sucht den superstar
+satellite operator ses broadcast an k television signal via its satellite system for the first time in may
+the k demonstration content with a resolution of pixels a frame rate of fps and bpc color depth was encoded in hevc and transmitted at a rate of mbit s via the astra b satellite during ses s industry days conference in luxembourg
+in june fubotv broadcast the fifa world cup live in k and hdr becoming the first ott streaming service to do so
+quarter semi and final matches were available on many popular streaming devices including apple tv chromecast ultra fire tv roku and android tvs
+content was streamed at frames per second using hls and dash
+video was sent in fragmented mp containers delivering hevc encoded video
+on december nhk launched bs k a broadcast channel transmitting at k resolution
+in may for the first time in europe k demonstration content was received via satellite without the need for a separate external receiver or decoder
+at the ses industry days conference at betzdorf luxembourg broadcast quality k content with a resolution of pixels at fps was encoded using a spin digital hevc encoder at a bit rate of mbit s uplinked to a single mhz transponder on ses astra e satellites and the downlink received and displayed on a samsung in cm q rb production model tv
+nhk bs k japan
+cctv k china field trials using existing digital terrestrial television dtt transmitters have included the following
+standards that deal with uhdtv include
+standards approved in itu r
+itu r bt
+itu r bt
+itu r bt revised
+itu r bt a reference viewing environment for evaluation of hdtv program material or completed programmes
+itu r bs advanced sound system for programme production
+itu r bt other documents prepared or being prepared by itu r
+report itu r bt the present state of ultra high definition television
+draft new report itu r bt uhdtv dtt trials sub working group a collection of field trials of uhdtv over dtt networksstandards developed in itu t s vceg and iso iec jtc s mpeg that support ultra hd include
+h mpeg h hevc high efficiency video coding revised
+h mpeg avc advanced video coding support for ultra hd added circa smpte
+smpte
+smpte dvb approved the standard ts v published in the dvb blue book a specification for the use of video and audio coding in broadcasting applications based on the mpeg transport stream which was published by etsi in the following months
+standards for uhdtv in korea have been developed by its telecommunications technology association
+on august the scenarios for k uhdtv service were described in the report ttar a study on the uhdtv service scenarios and its considerations
+on may the technical report ttar terrestrial k uhdtv broadcasting service was published
+on october an interim standard ttai ko transmission and reception for terrestrial uhdtv broadcasting service was published based on hevc encoding with mpeg ts and dvb t serving as the standards
+on june a standard ttak ko transmission and reception for terrestrial uhdtv broadcasting service was published based on hevc encoding with mmtp route ip and atsc serving as the standards
+itu r recommendation for uhdtv
+k resolution resolutions of common k formats and list of k monitors tvs projectors
+k resolution specifications for x k uhd and kx k fulldome
+ultra hd blu ray p k resolution format blu ray disc as specified by blu ray disc association
+imax a film theater format that historically has been innovative in creating a more realistic viewing experience
+high efficiency video coding hevc
+vp webm
+surround sound the audio component of super hi vision k tv mag an online magazine about ultra hd tv
+what is k ultra hd k tv mag
+
