@@ -121,7 +121,8 @@ def alpaca_model(img_size, data_augmenter=data_augmenter()):
 
     # S2
     inputs = tf.keras.Input(shape=input_shape)
-    # preprocessing
+    
+    # data augmentation
     x = data_augmenter(inputs)
     x = kr.applications.mobilenet_v2.preprocess_input(x)
 
@@ -137,9 +138,6 @@ def alpaca_model(img_size, data_augmenter=data_augmenter()):
     return kr.Model(inputs=inputs, outputs=outputs)
 
 
-def fine_tuned_alpaca_model(img_size, data_augmentation):
-
-    return kr.Model(inputs=inputs, outputs=outputs)
 ###########################################################################################################################
 def visualize_result(history) -> None:
     acc = [0.] + history.history['accuracy']
@@ -167,21 +165,26 @@ def visualize_result(history) -> None:
     plt.xlabel('epoch')
     plt.show()
     return None
+
+
 #####################################################################################################################
 def main() -> None:
     batch_size = 1; img_size = (160, 160); dir = "dataset"
     train_set = kr.preprocessing.image_dataset_from_directory(directory=dir, shuffle=True,
                                                               batch_size=batch_size, image_size=img_size,
                                                               validation_split=0.2, subset='training',  seed=1)
+    class_names = train_set.class_names
+    # prevent memory bottlenecks when reading from disk
+    train_dataset = train_set.prefetch(buffer_size=tf.data.experimental.AUTOTUNE)
+
 
     dev_set = kr.preprocessing.image_dataset_from_directory(directory=dir, shuffle=True,
                                                             batch_size=batch_size, image_size=img_size,
                                                             validation_split=0.2, subset='validation', seed=1)
-    # prevent memory bottlenecks when reading from disk
-    train_dataset = train_set.prefetch(buffer_size=tf.data.experimental.AUTOTUNE)
-    # class_names = train_set.class_names
+    
+    
+    
     # visualize_train_set()
-
     data_augmentation = data_augmenter()
     # visualize_augmented_data(train_set, data_augmentation)
 

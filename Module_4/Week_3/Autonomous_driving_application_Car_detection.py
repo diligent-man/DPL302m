@@ -5,9 +5,9 @@ import tensorflow as tf
 
 from tensorflow import keras as kr
 from PIL import Image
-from yad2k.keras_yolo import yolo_head
-from yad2k.utils import scale_boxes, preprocess_image, read_anchors, read_classes, draw_boxes
-from yad2k.draw_boxes import get_colors_for_classes
+from yad2k_source import keras_yolo
+from yad2k_source.utils import scale_boxes, preprocess_image, read_anchors, read_classes, draw_boxes
+from yad2k_source.draw_boxes import get_colors_for_classes
 
 
 
@@ -283,7 +283,7 @@ def predict(yolo_model, img_name):
     image, image_data = preprocess_image("Images/" + img_name, model_image_size=(608, 608))
 
     yolo_model_outputs = yolo_model(image_data)
-    yolo_outputs = yolo_head(yolo_model_outputs, anchors, len(class_names))
+    yolo_outputs = keras_yolo.yolo_head(yolo_model_outputs, anchors, len(class_names))
 
     out_scores, out_boxes, out_classes = yolo_eval(yolo_outputs, [image.size[1],  image.size[0]], 10, 0.3, 0.5)
 
