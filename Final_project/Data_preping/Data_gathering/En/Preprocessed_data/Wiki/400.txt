@@ -1,0 +1,97 @@
+a chi squared test also chi square or test is a statistical hypothesis test that is valid to perform when the test statistic is chi squared distributed under the null hypothesis specifically pearson s chi squared test and variants thereof
+pearson s chi squared test is used to determine whether there is a statistically significant difference between the expected frequencies and the observed frequencies in one or more categories of a contingency table
+in the standard applications of this test the observations are classified into mutually exclusive classes
+if the null hypothesis that there are no differences between the classes in the population is true the test statistic computed from the observations follows a frequency distribution
+the purpose of the test is to evaluate how likely the observed frequencies would be assuming the null hypothesis is true
+test statistics that follow a distribution occur when the observations are independent
+there are also tests for testing the null hypothesis of independence of a pair of random variables based on observations of the pairs
+chi squared tests often refers to tests for which the distribution of the test statistic approaches the distribution asymptotically meaning that the sampling distribution if the null hypothesis is true of the test statistic approximates a chi squared distribution more and more closely as sample sizes increase
+in the th century statistical analytical methods were mainly applied in biological data analysis and it was customary for researchers to assume that observations followed a normal distribution such as sir george airy and mansfield merriman whose works were criticized by karl pearson in his paper
+at the end of the th century pearson noticed the existence of significant skewness within some biological observations
+in order to model the observations regardless of being normal or skewed pearson in a series of articles published from to devised the pearson distribution a family of continuous probability distributions which includes the normal distribution and many skewed distributions and proposed a method of statistical analysis consisting of using the pearson distribution to model the observation and performing a test of goodness of fit to determine how well the model really fits to the observations
+in pearson published a paper on the test which is considered to be one of the foundations of modern statistics
+in this paper pearson investigated a test of goodness of fit
+suppose that n observations in a random sample from a population are classified into k mutually exclusive classes with respective observed numbers xi for i k and a null hypothesis gives the probability pi that an observation falls into the ith class
+so we have the expected numbers mi npi for all i where
+displaystyle begin aligned sum i k p i pt sum i k m i n sum i k p i n sum i k x i end aligned
+pearson proposed that under the circumstance of the null hypothesis being correct as n the limiting distribution of the quantity given below is the distribution
+displaystyle x sum i k frac x i m i m i sum i k frac x i m i n
+pearson dealt first with the case in which the expected numbers mi are large enough known numbers in all cells assuming every xi may be taken as normally distributed and reached the result that in the limit as n becomes large x follows the distribution with k degrees of freedom
+however pearson next considered the case in which the expected numbers depended on the parameters that had to be estimated from the sample and suggested that with the notation of mi being the true expected numbers and m i being the estimated expected numbers the difference
+displaystyle x x sum i k frac x i m i sum i k frac x i m i
+will usually be positive and small enough to be omitted
+in a conclusion pearson argued that if we regarded x as also distributed as distribution with k degrees of freedom the error in this approximation would not affect practical decisions
+this conclusion caused some controversy in practical applications and was not settled for years until fisher s and papers
+one test statistic that follows a chi squared distribution exactly is the test that the variance of a normally distributed population has a given value based on a sample variance
+such tests are uncommon in practice because the true variance of the population is usually unknown
+however there are several statistical tests where the chi squared distribution is approximately valid
+for an exact test used in place of the chi squared test for independence see fisher s exact test
+for an exact test used in place of the chi squared test for goodness of fit see binomial test
+cochran mantel haenszel chi squared test
+mcnemar s test used in certain tables with pairing
+tukey s test of additivity
+the portmanteau test in time series analysis testing for the presence of autocorrelation
+likelihood ratio tests in general statistical modelling for testing whether there is evidence of the need to move from a simple model to a more complicated one where the simple model is nested within the complicated one using the chi squared distribution to interpret pearson s chi squared statistic requires one to assume that the discrete probability of observed binomial frequencies in the table can be approximated by the continuous chi squared distribution
+this assumption is not quite correct and introduces some error
+to reduce the error in approximation frank yates suggested a correction for continuity that adjusts the formula for pearson s chi squared test by subtracting from the absolute difference between each observed value and its expected value in a contingency table
+this reduces the chi squared value obtained and thus increases its p value
+if a sample of size n is taken from a population having a normal distribution then there is a result see distribution of the sample variance which allows a test to be made of whether the variance of the population has a pre determined value
+for example a manufacturing process might have been in stable condition for a long period allowing a value for the variance to be determined essentially without error
+suppose that a variant of the process is being tested giving rise to a small sample of n product items whose variation is to be tested
+the test statistic t in this instance could be set to be the sum of squares about the sample mean divided by the nominal value for the variance i e
+the value to be tested as holding
+then t has a chi squared distribution with n degrees of freedom
+for example if the sample size is the acceptance region for t with a significance level of is between and
+suppose there is a city of residents with four neighborhoods a b c and d
+a random sample of residents of the city is taken and their occupation is recorded as white collar blue collar or no collar
+the null hypothesis is that each person s neighborhood of residence is independent of the person s occupational classification
+the data are tabulated as
+total
+white collar
+blue collar
+no collar
+total
+let us take the sample living in neighborhood a to estimate what proportion of the whole live in neighborhood a
+similarly we take to estimate what proportion of the are white collar workers
+by the assumption of independence under the hypothesis we should expect the number of white collar workers in neighborhood a to be
+displaystyle times frac approx
+then in that cell of the table we have
+observed
+expected
+expected
+displaystyle frac left text observed text expected right text expected frac left right approx
+the sum of these quantities over all of the cells is the test statistic in this case
+displaystyle approx
+under the null hypothesis this sum has approximately a chi squared distribution whose number of degrees of freedom is
+number of rows
+number of columns
+displaystyle text number of rows text number of columns
+if the test statistic is improbably large according to that chi squared distribution then one rejects the null hypothesis of independence
+a related issue is a test of homogeneity
+suppose that instead of giving every resident of each of the four neighborhoods an equal chance of inclusion in the sample we decide in advance how many residents of each neighborhood to include
+then each resident has the same chance of being chosen as do all residents of the same neighborhood but residents of different neighborhoods would have different probabilities of being chosen if the four sample sizes are not proportional to the populations of the four neighborhoods
+in such a case we would be testing homogeneity rather than independence
+the question is whether the proportions of blue collar white collar and no collar workers in the four neighborhoods are the same
+however the test is done in the same way
+in cryptanalysis the chi squared test is used to compare the distribution of plaintext and possibly decrypted ciphertext
+the lowest value of the test means that the decryption was successful with high probability
+this method can be generalized for solving modern cryptographic problems
+in bioinformatics the chi squared test is used to compare the distribution of certain properties of genes e g genomic content mutation rate interaction network clustering etc belonging to different categories e g disease genes essential genes genes on a certain chromosome etc
+chi squared test nomogram
+g test
+minimum chi square estimation
+nonparametric statistics
+wald test
+wilson score intervalweisstein eric w
+chi squared test
+mathworld
+corder g
+w foreman d
+nonparametric statistics a step by step approach new york wiley isbn
+greenwood cindy nikulin m
+a guide to chi squared testing new york wiley isbn x
+nikulin m
+chi squared test for normality proceedings of the international vilnius conference on probability theory and mathematical statistics vol pp
+bagdonavicius v nikulin m
+chi squared goodness of fit test for right censored data the international journal of applied mathematics and statistics pp
+

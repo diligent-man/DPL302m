@@ -1,0 +1,52 @@
+a free license or open license is a license which allows others to reuse another creator s work as they wish
+without a special license these uses are normally prohibited by copyright patent or commercial license
+most free licenses are worldwide royalty free non exclusive and perpetual see copyright durations
+free licenses are often the basis of crowdsourcing and crowdfunding projects
+the invention of the term free license and the focus on the rights of users were connected to the sharing traditions of the hacker culture of the s public domain software ecosystem the social and political free software movement since and the open source movement since the s
+these rights were codified by different groups and organizations for different domains in free software definition open source definition debian free software guidelines definition of free cultural works and the open definition
+these definitions were then transformed into licenses using the copyright as legal mechanism
+since then ideas of free open licenses spread into different spheres of society
+open source free culture unified as free and open source movement anticopyright wikimedia foundation projects public domain advocacy groups and pirate parties are connected with free and open licenses
+public domain licenses
+creative commons cc
+wtfpl
+unlicense
+public domain dedication and license pddl
+permissive licenses
+bsd license
+mit license
+mozilla public license file based permissive copyleft
+creative commons attribution
+copyleft patentleft licenses
+gnu gpl lgpl weaker copyleft agpl stronger copyleft
+creative commons attribution share alike
+mozilla public license
+common development and distribution license
+gfdl without invariant sections
+free art licenseopen source software
+the open source definition
+open content
+open content license
+open publication license
+open source hardware
+open database
+creative commons v
+open database licencecreative commons
+free software foundation
+open source initiative
+microsoft
+microsoft public license
+microsoft reciprocal license
+open content project
+open data commons from open knowledge foundation
+public domain dedication and license pddl
+attribution license odc by
+open database license odc odbl
+european union
+european union public licencelicense compatibility
+license proliferationopen software licenses
+open licenses
+various licenses and comments about them gnu project free software foundation
+licenses definition of free cultural works
+proposed open source hardware oshw statement of principles and definition v
+

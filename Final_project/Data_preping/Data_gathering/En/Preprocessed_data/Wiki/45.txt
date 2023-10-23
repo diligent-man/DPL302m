@@ -1,0 +1,80 @@
+in statistics a q q plot quantile quantile plot is a probability plot which is a graphical method for comparing two probability distributions by plotting their quantiles against each other
+first the set of intervals for the quantiles is chosen
+a point x y on the plot corresponds to one of the quantiles of the second distribution y coordinate plotted against the same quantile of the first distribution x coordinate
+thus the line is a parametric curve with the parameter which is the number of the interval for the quantile
+if the two distributions being compared are similar the points in the q q plot will approximately lie on the line y x
+if the distributions are linearly related the points in the q q plot will approximately lie on a line but not necessarily on the line y x
+q q plots can also be used as a graphical means of estimating parameters in a location scale family of distributions
+a q q plot is used to compare the shapes of distributions providing a graphical view of how properties such as location scale and skewness are similar or different in the two distributions
+q q plots can be used to compare collections of data or theoretical distributions
+the use of q q plots to compare two samples of data can be viewed as a non parametric approach to comparing their underlying distributions
+a q q plot is generally a more powerful approach to do this than the common technique of comparing histograms of the two samples but requires more skill to interpret
+q q plots are commonly used to compare a data set to a theoretical model
+this can provide an assessment of goodness of fit that is graphical rather than reducing to a numerical summary
+q q plots are also used to compare two theoretical distributions to each other
+since q q plots compare distributions there is no need for the values to be observed as pairs as in a scatter plot or even for the numbers of values in the two groups being compared to be equal
+the term probability plot sometimes refers specifically to a q q plot sometimes to a more general class of plots and sometimes to the less commonly used p p plot
+the probability plot correlation coefficient plot ppcc plot is a quantity derived from the idea of q q plots which measures the agreement of a fitted distribution with observed data and which is sometimes used as a means of fitting a distribution to data
+a q q plot is a plot of the quantiles of two distributions against each other or a plot based on estimates of the quantiles
+the pattern of points in the plot is used to compare the two distributions
+the main step in constructing a q q plot is calculating or estimating the quantiles to be plotted
+if one or both of the axes in a q q plot is based on a theoretical distribution with a continuous cumulative distribution function cdf all quantiles are uniquely defined and can be obtained by inverting the cdf
+if a theoretical probability distribution with a discontinuous cdf is one of the two distributions being compared some of the quantiles may not be defined so an interpolated quantile may be plotted
+if the q q plot is based on data there are multiple quantile estimators in use
+rules for forming q q plots when quantiles must be estimated or interpolated are called plotting positions
+a simple case is where one has two data sets of the same size
+in that case to make the q q plot one orders each set in increasing order then pairs off and plots the corresponding values
+a more complicated construction is the case where two data sets of different sizes are being compared
+to construct the q q plot in this case it is necessary to use an interpolated quantile estimate so that quantiles corresponding to the same underlying probability can be constructed
+more abstractly given two cumulative probability distribution functions f and g with associated quantile functions f and g the inverse function of the cdf is the quantile function the q q plot draws the q th quantile of f against the q th quantile of g for a range of values of q
+thus the q q plot is a parametric curve indexed over with values in the real plane r
+the points plotted in a q q plot are always non decreasing when viewed from left to right
+if the two distributions being compared are identical the q q plot follows the line y x
+if the two distributions agree after linearly transforming the values in one of the distributions then the q q plot follows some line but not necessarily the line y x
+if the general trend of the q q plot is flatter than the line y x the distribution plotted on the horizontal axis is more dispersed than the distribution plotted on the vertical axis
+conversely if the general trend of the q q plot is steeper than the line y x the distribution plotted on the vertical axis is more dispersed than the distribution plotted on the horizontal axis
+q q plots are often arced or s shaped indicating that one of the distributions is more skewed than the other or that one of the distributions has heavier tails than the other
+although a q q plot is based on quantiles in a standard q q plot it is not possible to determine which point in the q q plot determines a given quantile
+for example it is not possible to determine the median of either of the two distributions being compared by inspecting the q q plot
+some q q plots indicate the deciles to make determinations such as this possible
+the intercept and slope of a linear regression between the quantiles gives a measure of the relative location and relative scale of the samples
+if the median of the distribution plotted on the horizontal axis is the intercept of a regression line is a measure of location and the slope is a measure of scale
+the distance between medians is another measure of relative location reflected in a q q plot
+the probability plot correlation coefficient ppcc plot is the correlation coefficient between the paired sample quantiles
+the closer the correlation coefficient is to one the closer the distributions are to being shifted scaled versions of each other
+for distributions with a single shape parameter the probability plot correlation coefficient plot provides a method for estimating the shape parameter one simply computes the correlation coefficient for different values of the shape parameter and uses the one with the best fit just as if one were comparing distributions of different types
+another common use of q q plots is to compare the distribution of a sample to a theoretical distribution such as the standard normal distribution n as in a normal probability plot
+as in the case when comparing two samples of data one orders the data formally computes the order statistics then plots them against certain quantiles of the theoretical distribution
+the choice of quantiles from a theoretical distribution can depend upon context and purpose
+one choice given a sample of size n is k n for k n as these are the quantiles that the sampling distribution realizes
+the last of these n n corresponds to the th percentile the maximum value of the theoretical distribution which is sometimes infinite
+other choices are the use of k n or instead to space the points evenly in the uniform distribution using k n
+many other choices have been suggested both formal and heuristic based on theory or simulations relevant in context
+the following subsections discuss some of these
+a narrower question is choosing a maximum estimation of a population maximum known as the german tank problem for which similar sample maximum plus a gap solutions exist most simply m m n
+a more formal application of this uniformization of spacing occurs in maximum spacing estimation of parameters
+the k n approach equals that of plotting the points according to the probability that the last of n randomly drawn values will not exceed the k th smallest of the first n randomly drawn values
+in using a normal probability plot the quantiles one uses are the rankits the quantile of the expected value of the order statistic of a standard normal distribution
+more generally shapiro wilk test uses the expected values of the order statistics of the given distribution the resulting plot and line yields the generalized least squares estimate for location and scale from the intercept and slope of the fitted line
+although this is not too important for the normal distribution the location and scale are estimated by the mean and standard deviation respectively it can be useful for many other distributions
+however this requires calculating the expected values of the order statistic which may be difficult if the distribution is not normal
+alternatively one may use estimates of the median of the order statistics which one can compute based on estimates of the median of the order statistics of a uniform distribution and the quantile function of the distribution this was suggested by filliben
+this can be easily generated for any distribution for which the quantile function can be computed but conversely the resulting estimates of location and scale are no longer precisely the least squares estimates though these only differ significantly for n small
+several different formulas have been used or proposed as affine symmetrical plotting positions
+such formulas have the form k a n a for some value of a in the range from to which gives a range between k n and k n
+expressions include
+k n for large sample size n there is little difference between these various expressions
+the order statistic medians are the medians of the order statistics of the distribution
+these can be expressed in terms of the quantile function and the order statistic medians for the continuous uniform distribution by
+displaystyle n i g u i
+where u i are the uniform order statistic medians and g is the quantile function for the desired distribution
+the quantile function is the inverse of the cumulative distribution function probability that x is less than or equal to some value
+that is given a probability we want the corresponding quantile of the cumulative distribution function
+james j
+filliben filliben uses the following estimates for the uniform order statistic medians
+displaystyle m i begin cases n i dfrac i n i ldots n n i n end cases
+the reason for this estimate is that the order statistic medians do not have a simple form
+empirical distribution function
+probit analysis was developed by chester ittner bliss in probability plot
+alternate description of the qq plot http www stats gla ac uk steps glossary probability distributions html qqplot
+

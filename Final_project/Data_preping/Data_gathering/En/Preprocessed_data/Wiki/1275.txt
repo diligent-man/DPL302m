@@ -1,0 +1,60 @@
+the project management body of knowledge pmbok is a set of standard terminology and guidelines a body of knowledge for project management
+the body of knowledge evolves over time and is presented in a guide to the project management body of knowledge pmbok guide a book whose seventh edition was released in
+this document results from work overseen by the project management institute pmi which offers the capm and pmp certifications
+much of the pmbok guide is unique to project management such as critical path method and work breakdown structure wbs
+the pmbok guide also overlaps with general management regarding planning organising staffing executing and controlling the operations of an organisation
+other management disciplines which overlap with the pmbok guide include financial forecasting organisational behaviour management science budgeting and other planning methods
+earlier versions of the pmbok guide were recognized as standards by the american national standards institute ansi which assigns standards in the united states ansi pmi and the institute of electrical and electronics engineers ieee
+the evolution of the pmbok guide is reflected in editions of the guide
+the pmbok guide is intended to be a subset of the project management body of knowledge that is generally recognized as a good practice
+generally recognized means the knowledge and practices described are applicable to most projects most of the time and there is a consensus about their value and usefulness
+good practice means there is a general agreement that the application of the knowledge skills tools and techniques can enhance the chance of success over many projects this means that sometimes the latest project management trends often promoted by consultants may not be part of the latest version of the pmbok guide
+however the th edition of the pmbok guide now includes an agile practice guide
+the pmbok guide is process based meaning it describes work as being accomplished by processes
+this approach is consistent with other management standards such as iso and the software engineering institute s cmmi
+processes overlap and interact throughout a project or its various phases
+inputs documents plans designs etc
+tools and techniques mechanisms applied to inputs
+outputs documents plans designs etc a guide to the project management body of knowledge sixth edition provides guidelines for managing individual projects and defines project management related concepts
+it also describes the project management life cycle and its related processes as well as the project life cycle
+and for the first time it includes an agile practice guide
+the pmbok as described in the guide recognizes processes that fall into five basic process groups and ten knowledge areas that are typical of most projects most of the time
+the five process groups are
+initiating processes performed to define a new project or a new phase of an existing project by obtaining authorization to start the project or phase
+planning those processes required to establish the scope of the project refine the objectives and define the course of action required to attain the objectives that the project was undertaken to achieve
+executing those processes performed to complete the work defined in the project management plan to satisfy the project specifications
+monitoring and controlling those processes required to track review and regulate the progress and performance of the project identify any areas in which changes to the plan are required and initiate the corresponding changes
+closing those processes performed to finalize all activities across all process groups to formally close the project or phase the ten knowledge areas each of which contains some or all of the project management processes are
+project integration management the processes and activities needed to identify define combine unify and coordinate the various processes and project management activities within the project management process groups
+project scope management the processes required to ensure that the project includes all the work required and only the work required to complete the project successfully
+project schedule management the processes required to manage the timely completion of the project
+until the th edition of the pmbok guide this was called project time management
+project cost management the processes involved in planning estimating budgeting financing funding managing and controlling costs so that the project can be completed within the approved budget
+project quality management the processes and activities of the performing organization that determine quality policies objectives and responsibilities so that the project will satisfy the needs for which it was undertaken
+project resource management the processes that organize manage and lead the project team
+until the th edition of the pmbok guide this was called project human resource management
+project communications management the processes that are required to ensure timely and appropriate planning collection creation distribution storage retrieval management control monitoring and the ultimate disposition of project information
+project risk management the processes of conducting risk management planning identification analysis response planning and controlling risk on a project
+project procurement management the processes necessary to purchase or acquire products services or results needed from outside the project team
+processes in this area include procurement planning solicitation planning solicitation source selection contract administration and contract closeout
+project stakeholder engagement the processes required to identify all people or organizations impacted by the project analyzing stakeholder expectations and impact on the project and developing appropriate management strategies for effectively engaging stakeholders in project decisions and execution each of the ten knowledge areas contains the processes that need to be accomplished within its discipline in order to achieve effective project management
+each of these processes also falls into one of the five process groups creating a matrix structure such that every process can be related to one knowledge area and one process group
+while the pmbok guide is meant to offer a general guide to manage most projects most of the time there are currently three official extensions
+software extension to the pmbok guide
+construction extension to the pmbok guide
+government extension to the pmbok guidethe pmbok is a widely accepted standard in project management however there are alternatives to the pmbok standard and pmbok does have its critics
+one thrust of critique has come from the critical chain developers and followers e g
+eliyahu m
+goldratt and lawrence p
+leach as opposed to critical path method adherents
+the pmbok guide section on project time management does indicate critical chain as an alternative method to critical path
+a second strand of criticism originates in lean construction
+this approach emphasises the lack of two way communication in the pmbok model and offers an alternative which emphasises a language action perspective and continual improvement in the planning process
+iso for quality management on projects
+iso for project management
+iso for risk management
+pmhub
+prince pmbok webpage by the project management institute
+pmbok summarized a remarkbly concise guide to the pmbok pdf
+us dod extension to pmbok guide pdf
+

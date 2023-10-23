@@ -1,0 +1,225 @@
+a wildlife corridor habitat corridor or green corridor is an area of habitat connecting wildlife populations separated by human activities or structures such as roads development or logging
+this allows an exchange of individuals between populations which may help prevent the negative effects of inbreeding and reduced genetic diversity via genetic drift that often occur within isolated populations
+corridors may also help facilitate the re establishment of populations that have been reduced or eliminated due to random events such as fires or disease
+this may potentially moderate some of the worst effects of habitat fragmentation wherein urbanization can split up habitat areas causing animals to lose both their natural habitat and the ability to move between regions to use all of the resources they need to survive
+habitat fragmentation due to human development is an ever increasing threat to biodiversity and habitat corridors are a possible mitigation
+the main goal of implementing habitat corridors is to increase biodiversity
+when areas of land are broken up by human interference population numbers become unstable and many animal and plant species become endangered
+by re connecting the fragments the population fluctuations can decrease dramatically
+corridors can contribute to three factors that stabilize a population
+colonization animals are able to move and occupy new areas when food sources or other natural resources are lacking in their core habitat
+migration species that relocate seasonally can do so more safely and effectively when it does not interfere with human development barriers
+interbreeding animals can find new mates in neighbouring regions increasing genetic diversity rosenberg et al
+were among the first to define what constitutes a wildlife corridor
+the definitions of biological corridor i e wildlife corridor had in the early years of studying corridors been vague and inconsistent and often they confound ed form and function rosenberg et al
+developed a conceptual model that emphasized the role of a wildlife corridor as a facilitator of movement that is not restricted by requirements of native vegetation or intermediate target patches of habitat
+their definition simply required that movement to a target patch via the corridor be greater than if the corridor were absent
+although corridors had originally been implemented with the assumption that they would increase biodiversity not enough research had been done to come to a solid conclusion
+the case for corridors had been built more on intuition rather than empirical evidence tewksbury et al
+tewksbury et al
+claimed that the early controversies had arisen because most studies had been limited in that they had a narrow taxonomic focus and that if corridors facilitate animal movement they should also have strong indirect effects on plant populations due to increased pollen and seed by animals
+results of their experiment provided a large scale experimental demonstration that habitat or wildlife corridors facilitate movement of disparate taxa between otherwise isolated patches even after controlling for area effects tewksbury et al
+another factor that needs to be taken into account is what species the corridor is intended for
+some species have reacted more positively to corridors than others
+a habitat corridor could be considered as a possible solution in an area where the destruction of a natural area has greatly affected its native species
+development such as roads buildings and farms can interrupt plants and animals in the region being destroyed
+furthermore natural disasters such as wildfires and floods can leave animals with no choice but to evacuate
+if the habitat is not connected to a safer one it will ultimately lead to death
+a remaining portion of natural habitat is called a remnant and to conserve species such portions need to be connected because when migration decreases extinction increases fleury
+corridors can be made in two distinct areas either water or land
+water corridors are called riparian ribbons and usually come in the form of rivers and streams
+land corridors come on a scale as large as wooded strips connecting larger woodland areas
+however they can also be as simple as a line of shrubs along a sidewalk fleury
+such areas can facilitate the movement of small animals especially birds from tree to tree until they find a safe habitat to rest in
+not only do minimal corridors aid in the movement of animals they are also aesthetically pleasing which can sometimes encourage the community to accept and support them
+species can be categorized in one of two groups passage users and corridor dwellers
+passage users occupy corridors for brief periods of time
+these animals use corridors for such events as seasonal migration dispersal of a juvenile or moving between parts of a large home range
+usually large herbivores medium to large carnivores and migratory species are passage users
+one common misconception is that the corridor only needs to be wide enough for the passage users to get through
+however the corridor still must be wide enough to be safe and also encourage the animals to use it even though they do not live out their entire lives in it
+corridor dwellers can occupy the passage anywhere from several days to several years
+species such as plants reptiles amphibians birds insects and small mammals can spend their entire lives in linear habitats
+in this case the corridor must include everything that a species needs to live and breed such as soil for germination burrowing areas and multiple other breeding adults
+habitat corridors can be categorized according to their width
+typically the wider the corridor the more use it will get from species
+however the width length ratio as well as design and quality play just as important of a role in creating the perfect corridor fleury
+the strip of land will suffer less from edge effects such as weeds predators and chemicals if it is constructed properly
+the following are three divisions in corridor widths
+regional m wide connect major ecological gradients such as migratory pathways
+sub regional m wide connect larger vegetated landscape features such as ridgelines and valley floors
+local some m connect remnant patches of gullies wetlands ridgelines etc habitat corridors can also be divided according to their continuity
+continuous corridors are strips that are not broken up while stepping stone corridors are small patches of suitable habitat
+when stepping stones are arranged in a line they form a strip of land connecting two areas just like a continuous corridor
+some kinds provide linkages between protected core areas and stimulate or allow species to migrate
+corridors can also be miniature in the form of wildlife crossings
+underpasses or overpasses used for crossing a man made feature such as highways
+they improve safety for both animals and humans
+many busy highways cross through natural habitats that native species occupy as well
+large animals such as deer become a hazard when they cross in front of traffic and get hit
+an overpass or an underpass serves as a bridge to facilitate the movement of animals across a busy road
+observations have shown that underpasses are actually more successful than overpasses because many times animals are too timid to cross over a bridge in front of traffic and would prefer to be more hidden dole et al
+corridors can be expensive to plan out and put into action
+for example daniel simberloff et al
+states that a bridge that would maintain a riparian corridor costs about times as much per lane mile as would a road that would sever the corridor he also states that maintenance of a corridor would be much more costly than refuges for endangered species
+it would simply be easier to move animals between refuges than to buy land install a corridor and maintain it
+however where the goal is not just to preserve a few large animal species but to protect biodiversity among all plants and animals then habitat corridors may be the only option
+corridors are going to be expensive to implement no matter what but it does depend on the type location and size which can all vary to a great degree
+with the lack of field data on the effectiveness many agencies are not willing to consider putting in corridors
+researchers must pay attention to the population changes in animals after a corridor has been implemented to ensure that there are no harmful effects
+researchers can use both mark recapture techniques and evaluate genetic flow in order to observe how much a corridor is being used
+marking and recapturing animals is more useful when keeping a close eye on individual movement
+however tagging animals and watching them does not give any data on whether the migrating individuals are successfully mating with other populations in connected areas of land
+genetic techniques can be more effective in evaluating migration and mating patterns
+one of the most important goals of developing a corridor is to increase migration in certain animal species
+by looking at a population s gene flow researchers can understand the genetic consequences of corridors via information about the migration patterns of an entire population instead of the movements of a few individuals
+from these techniques researchers can better understand whether or not habitat corridors are increasing biodiversity
+stephen mech and james hallett introduce an additional reason genetic techniques are more useful they measure average migration rates over time which reveals the effects of fragmentation of several generations and is not as sensitive to current population sizes as mark recapture studies are for example when a population is extremely small mark recapture is almost impossible
+according to new research wildlife corridors are best built with a certain degree of randomness or asymmetry rather than built symmetrically
+the research was conducted at the university of california davis
+wildlife corridors are susceptible to edge effects habitat quality along the edge of a habitat fragment is often much lower than in core habitat areas
+wildlife corridors are important for large species requiring significant sized ranges however they are also vital as connection corridors for smaller animals and plants as well as ecological connectors to provide a rescue effect
+both the safety of animals and humans can be achieved through the creation of corridors
+in alberta canada an overpass was constructed to keep animals off the busy highway which crosses a national park
+the top of the bridge is covered in the native grass of the area
+fences were also put on either side of the overpass to help guide animals in the right direction
+in southern california underpasses and drainage culverts were observed to see how many animals used them as corridors
+they proved to be especially effective on wide ranging species such as carnivores mule deer small mammals and reptiles even though the corridors were not intended specifically for animals
+researchers also learned that factors such as surrounding habitat underpass dimensions and human activity also played a role in how much use they got
+from this experiment much was learned about what would constitute a successful habitat corridor
+in south carolina five remnant areas of land were monitored one was put in the center and four were surrounding it
+then a corridor was put between one of the remnants and the center
+butterflies that were placed in the center habitat were two to four times more likely to move to the connected remnant rather than the disconnected ones
+furthermore male holly plants were placed in the center region and female holly plants in the connected region increased by percent in seed production compared to those plants in the disconnected region
+the most impressive dispersal into the connected region though was through bird droppings
+far more plant seeds were dispersed through bird droppings in the corridor connected patch of land
+there have also been positive effects on the rates of transfer and interbreeding in vole populations
+a control population in which voles were confined to their core habitat with no corridor was compared to a treatment population in their core habitat with passages that they could use to move to other regions
+females typically stayed and mated within their founder population but the rate of transfer through corridors in the males was very high
+researchers are not sure why the females did not move about as much but it is apparent that the corridor effectively transferred at least some of the species to another location for breeding
+in a wolf corridor was restored through a golf course in jasper national park alberta which enabled wolves to pass through the course
+after this restoration wolves passed through the corridor frequently
+this is one of the first demonstrations that corridors are used by wildlife and can be effective in decreasing fragmentation
+earlier studies had been criticised for failing to demonstrate that corridor restoration leads to a change in wildlife behaviour
+elephant corridors are narrow strips of land that allow elephants to move from one habitat patch to another
+there are identified elephant corridors in india
+in africa botswana houses the largest number of free roaming elephant herds
+elephants without borders ewb studies the movement of elephants is working to gain community support of local community corridors so that elephants and humans can co exist
+the pas o pantera also known as the mesoamerican biological corridor or pas o del jaguar
+the eastern himalayan corridor
+china russia tiger corridor
+tandai tiger corridor
+the european green belt
+the siju rewak corridor located in the garo hills of india protects an important population of elephants thought to be approximately of all the elephants that survive in the country
+this corridor project links together the siju wildlife sanctuary and the rewak reserve forest in meghalaya state close to the india bangladesh border
+this area lies within the meeting place of the himalayan mountain range and the indian peninsula and contains at least other species of mammal including tiger clouded leopard and the himalayan black bear
+the ecologische hoofdstructuur is a network of corridors and habitats created for wildlife in the netherlands
+the km long kanha pench elevated corridor on nh
+two elephant passes and two minor bridges on nh in assam s lumding reserve forest
+three elephant underpasses each with six meters of vertical clearance on nh and nh in uttarakhand india
+terai arc landscapes lower himalayan region some animal species are much more apt to use habitat corridors than others depending on what their migration and mating patterns are like
+for example many cases of birds and butterflies successfully using corridors have been observed
+less successful stories have come out of mammals such as deer
+how effective a corridor is may simply rely on what species it is directed towards
+corridors created with birds in mind may be more successful because they are highly migratory to begin with
+human interference is almost inevitable with the quickly increasing population
+the goal behind habitat corridors shows the most hope for solving habitat fragmentation and restoring biodiversity as much as possible
+although there are many positives and negatives there may be enough positives to continue studying and improving corridors
+it is truly difficult to say whether corridors are the solution to increasing biodiversity because each one must be judged on its own
+each corridor has its own set of standards and goals that may set it apart from another one
+a major downfall to habitat corridors is that not much information has been gathered about their success
+due to the lack of positive data many agencies will not allow corridors to be established because they are unsure of their effectiveness
+another problem with corridors is that they are not as useful as simply preserving land so that it cannot be fragmented
+however it is becoming very difficult to set aside land for nature reserves when road building industry and urban sprawl are all competing for space
+even if corridors are sought as a solution it does not necessarily mean that animals will use them
+especially in the case of overpasses research shows that animals do not like to use them to get to another remnant area of land
+usually overpasses are built over busy highways and many species are too timid to expose themselves in front of all of the traffic
+as more roads and buildings arise there becomes less space to try to preserve
+habitat corridors need to be species specific not every kind of animal will use every kind of corridor and corridors can be barriers to some species
+for instance plants may use road verges as corridors however some mammals will not cross roads to reach a suitable habitat
+when a corridor is implemented many times development is so close by that it becomes difficult to build a wide enough passage
+there is usually a very limited amount of space available for corridors so buffers are not usually added in
+without a buffer zone corridors become susceptible to harmful outside factors from city streets suburb development rural homes forestry cropland and feedlots
+unfortunately another limiting factor to the implementation of corridors is money
+with such inconclusive data about the effectiveness of connecting land it is difficult to get the proper funding
+those who would be in charge of the corridor design and construction would ask such questions as what if the corridors affect species negatively and what if they actually aid in the spread of disease and catastrophic events furthermore there is a possibility that corridors could not only aid in the dispersal of native organisms but invasive ones as well
+if invasive species take over an area they could potentially threaten another species even to the point of extinction
+although wildlife corridors have been proposed as solutions to habitat and wildlife population fragmentation there is little evidence that they are broadly useful as a conservation strategy for all biodiversity in non developed or less developed areas compared to protecting connectivity as the relevant ecological attribute
+in other words corridors may be a useful meme for conservation planning ers but the concept has less meaning to wildlife species themselves
+very few wildlife follow easily identified corridors or linkages e g using computer modeling instead most species meander and opportunistically move through landscapes during daily seasonal and dispersal movement behavior
+wildlife corridors may be useful in highly developed landscapes where they are easily identified as the last remaining and available habitat
+habitat corridors may be defenseless against a number of outside influences but they are still an efficient way of increasing biodiversity
+strips of land aid in the movement of various animal species and pollen and seed dispersal which is an added benefit to the intended one
+for example when insects carrying pollen or birds carrying seeds travel to another area plant species effectively get transported as well
+another positive aspect of corridors is that they allow both animals and humans to occupy virtually the same areas of land and thus co exist where without the corridor this would not be possible
+large animals such as bears can be attracted to residential areas in search of food due to lack of natural resources because of habitat fragmentation
+a corridor would provide a passage for the bears to forage in other locations so that they would not pose as much of a threat to humans
+aquatic organism passage
+biolink zones
+emerald network
+habitat conservation
+habitat destruction
+landscape connectivity
+marine protected area
+natura
+the pollinator pathway
+roadkill
+gary tabor wildlife corridor conservationist
+tugay
+wildlife crossing
+yellowstone to yukon conservation initiativebeier p noss r f
+december
+do habitat corridors provide connectivity
+conservation biology
+doi j x
+bennett a f
+linkages in the landscape the role of corridors and connectivity in wildlife conservation
+the world conservation union gland switzerland
+de chant t
+a future of conservation
+northfield habitat corridors community plan northfield minnesota
+department of environment and conservation dec
+wildlife corridors
+dec new south wales
+dole j w ng s j sauvajot r m
+use of highway undercrossings by wildlife in southern california
+biology conservation
+foreman dave
+rewilding north america a vision for conservation in the st century
+washington island
+fleury a m brown r d
+a framework for the design of wildlife conservation corridors with specific application to southwestern ontario
+landscape and urban planning
+doi s
+ecology insects pollen seeds travel wildlife corridors
+science news
+mech s g hallett j g
+evaluating the effectiveness of corridors a genetic approach
+conservation biology
+doi j x
+roach j
+first evidence that wildlife corridors boost biodiversity study says
+national geographic society washington d c
+rosenberg d k noon b r meslow e c
+biological corridors form function and efficacy
+bioscience
+jstor
+simberloff d farr j a cox j mehlman d w
+movement corridors conservation bargains or poor investments
+conservation biology
+doi j x
+sutcliffe o l thomas c d
+open corridors appear to facilitate dispersal by ringlet butterflies aphantopus hyperantus between woodland clearings
+conservation biology
+doi j x
+tewksbury j j levey d j haddad n m sargent s orrock j l weldon a danielson b j brinkerhoff j damschen e i townsend p
+corridors affect plants animals and their interactions in fragmented landscapes
+bibcode pnas t
+doi pnas
+pmid defragmentation in belgium flanders connecting nature connecting people
+accessed january
+wildlife passages de fragmentation in the netherlands how to evaluate their effectiveness accessed january
+corridordesign org gis tools for designing wildlife corridors accessed march
+conservationcorridor org information tools and links to connect the science of landscape corridors to conservation in practice
+accessed september
+

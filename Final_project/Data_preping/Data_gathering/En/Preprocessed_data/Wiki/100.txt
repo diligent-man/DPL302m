@@ -1,0 +1,86 @@
+metalogic is the study of the metatheory of logic
+whereas logic studies how logical systems can be used to construct valid and sound arguments metalogic studies the properties of logical systems
+logic concerns the truths that may be derived using a logical system metalogic concerns the truths that may be derived about the languages and systems that are used to express truths
+the basic objects of metalogical study are formal languages formal systems and their interpretations
+the study of interpretation of formal systems is the branch of mathematical logic that is known as model theory and the study of deductive systems is the branch that is known as proof theory
+a formal language is an organized set of symbols the symbols of which precisely define it by shape and place
+such a language therefore can be defined without reference to the meanings of its expressions it can exist before any interpretation is assigned to it that is before it has any meaning
+first order logic is expressed in some formal language
+a formal grammar determines which symbols and sets of symbols are formulas in a formal language
+a formal language can be formally defined as a set a of strings finite sequences on a fixed alphabet
+some authors including rudolf carnap define the language as the ordered pair a
+carnap also requires that each element of must occur in at least one string in a
+formation rules also called formal grammar are a precise description of the well formed formulas of a formal language
+they are synonymous with the set of strings over the alphabet of the formal language that constitute well formed formulas
+however it does not describe their semantics i e
+what they mean
+a formal system also called a logical calculus or a logical system consists of a formal language together with a deductive apparatus also called a deductive system
+the deductive apparatus may consist of a set of transformation rules also called inference rules or a set of axioms or have both
+a formal system is used to derive one expression from one or more other expressions
+a formal system can be formally defined as an ordered triple
+displaystyle mathcal i
+displaystyle mathcal d
+d where
+displaystyle mathcal d
+d is the relation of direct derivability
+this relation is understood in a comprehensive sense such that the primitive sentences of the formal system are taken as directly derivable from the empty set of sentences
+direct derivability is a relation between a sentence and a finite possibly empty set of sentences
+axioms are so chosen that every first place member of
+displaystyle mathcal d
+d is a member of
+displaystyle mathcal i
+and every second place member is a finite subset of
+displaystyle mathcal i
+a formal system can also be defined with only the relation
+displaystyle mathcal d
+thereby can be omitted
+displaystyle mathcal i
+and in the definitions of interpreted formal language and interpreted formal system
+however this method can be more difficult to understand and use
+a formal proof is a sequence of well formed formulas of a formal language the last of which is a theorem of a formal system
+the theorem is a syntactic consequence of all the well formed formulae that precede it in the proof system
+for a well formed formula to qualify as part of a proof it must result from applying a rule of the deductive apparatus of some formal system to the previous well formed formulae in the proof sequence
+an interpretation of a formal system is the assignment of meanings to the symbols and truth values to the sentences of the formal system
+the study of interpretations is called formal semantics
+giving an interpretation is synonymous with constructing a model
+in metalogic formal languages are sometimes called object languages
+the language used to make statements about an object language is called a metalanguage
+this distinction is a key difference between logic and metalogic
+while logic deals with proofs in a formal system expressed in some formal language metalogic deals with proofs about a formal system which are expressed in a metalanguage about some object language
+in metalogic syntax has to do with formal languages or formal systems without regard to any interpretation of them whereas semantics has to do with interpretations of formal languages
+the term syntactic has a slightly wider scope than proof theoretic since it may be applied to properties of formal languages without any deductive systems as well as to formal systems
+semantic is synonymous with model theoretic
+in metalogic the words use and mention in both their noun and verb forms take on a technical sense in order to identify an important distinction
+the use mention distinction sometimes referred to as the words as words distinction is the distinction between using a word or phrase and mentioning it
+usually it is indicated that an expression is being mentioned rather than used by enclosing it in quotation marks printing it in italics or setting the expression by itself on a line
+the enclosing in quotes of an expression gives us the name of an expression for example
+metalogic is the name of this article
+this article is about metalogic the type token distinction is a distinction in metalogic that separates an abstract concept from the objects which are particular instances of the concept
+for example the particular bicycle in your garage is a token of the type of thing known as the bicycle whereas the bicycle in your garage is in a particular place at a particular time that is not true of the bicycle as used in the sentence the bicycle has become more popular recently this distinction is used to clarify the meaning of symbols of formal languages
+metalogical questions have been asked since the time of aristotle
+however it was only with the rise of formal languages in the late th and early th century that investigations into the foundations of logic began to flourish
+in david hilbert observed that in investigating the foundations of mathematics that logical notions are presupposed and therefore a simultaneous account of metalogical and metamathematical principles was required
+today metalogic and metamathematics are largely synonymous with each other and both have been substantially subsumed by mathematical logic in academia
+a possible alternate less mathematical model may be found in the writings of charles sanders peirce and other semioticians
+results in metalogic consist of such things as formal proofs demonstrating the consistency completeness and decidability of particular formal systems
+major results in metalogic include
+proof of the uncountability of the power set of the natural numbers cantor s theorem
+l wenheim skolem theorem leopold l wenheim and thoralf skolem
+proof of the consistency of truth functional propositional logic emil post
+proof of the semantic completeness of truth functional propositional logic paul bernays emil post
+proof of the syntactic completeness of truth functional propositional logic emil post
+proof of the decidability of truth functional propositional logic emil post
+proof of the consistency of first order monadic predicate logic leopold l wenheim
+proof of the semantic completeness of first order monadic predicate logic leopold l wenheim
+proof of the decidability of first order monadic predicate logic leopold l wenheim
+proof of the consistency of first order predicate logic david hilbert and wilhelm ackermann
+proof of the semantic completeness of first order predicate logic g del s completeness theorem
+proof of the cut elimination theorem for the sequent calculus gentzen s hauptsatz
+proof of the undecidability of first order predicate logic church s theorem
+g del s first incompleteness theorem
+g del s second incompleteness theorem
+tarski s undefinability theorem g del and tarski in the s metalogic programming
+metamathematics media related to metalogic at wikimedia commons
+dragalin a g
+meta logic encyclopedia of mathematics ems press
+

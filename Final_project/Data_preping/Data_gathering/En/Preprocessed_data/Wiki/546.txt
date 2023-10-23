@@ -1,0 +1,28 @@
+in nonstandard analysis a branch of mathematics overspill referred to as overflow by goldblatt p is a widely used proof technique
+it is based on the fact that the set of standard natural numbers n is not an internal subset of the internal set n of hypernatural numbers
+by applying the induction principle for the standard integers n and the transfer principle we get the principle of internal induction
+for any internal subset a of n if
+is an element of a and
+for every element n of a n also belongs to a then
+a nif n were an internal set then instantiating the internal induction principle with n it would follow n n which is known not to be the case
+the overspill principle has a number of useful consequences
+the set of standard hyperreals is not internal
+the set of bounded hyperreals is not internal
+the set of infinitesimal hyperreals is not internal in particular
+if an internal set contains all infinitesimal non negative hyperreals it contains a positive non infinitesimal or appreciable hyperreal
+if an internal set contains n it contains an unlimited infinite element of n these facts can be used to prove the equivalence of the following two conditions for an internal hyperreal valued function defined on r
+displaystyle forall epsilon in mathbb r exists delta in mathbb r h leq delta implies f x h f x leq varepsilon
+displaystyle forall h cong f x h f x cong
+the proof that the second fact implies the first uses overspill since given a non infinitesimal positive
+positive
+displaystyle forall mbox positive delta cong h leq delta implies f x h f x varepsilon
+applying overspill we obtain a positive appreciable with the requisite properties
+these equivalent conditions express the property known in nonstandard analysis as s continuity or microcontinuity of at x
+s continuity is referred to as an external property
+the first definition is external because it involves quantification over standard values only
+the second definition is external because it involves the external relation of being infinitesimal
+robert goldblatt
+lectures on the hyperreals
+an introduction to nonstandard analysis
+springer
+

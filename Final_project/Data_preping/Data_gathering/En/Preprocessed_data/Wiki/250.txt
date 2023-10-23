@@ -1,0 +1,321 @@
+the following is a partial list of the c codes for medical subject headings mesh as defined by the united states national library of medicine nlm
+this list continues the information at list of mesh codes c
+codes following these are found at list of mesh codes c
+for other mesh codes see list of mesh codes
+the source for this content is the set of mesh trees from the nlm
+mesh c anemia aplastic
+mesh c anemia hypoplastic congenital
+mesh c anemia diamond blackfan
+mesh c fanconi anemia
+mesh c anemia hemolytic
+mesh c anemia hemolytic autoimmune
+mesh c anemia hemolytic congenital
+mesh c anemia dyserythropoietic congenital
+mesh c anemia hemolytic congenital nonspherocytic
+mesh c anemia sickle cell
+mesh c hemoglobin sc disease
+mesh c sickle cell trait
+mesh c elliptocytosis hereditary
+mesh c glucosephosphate dehydrogenase deficiency
+mesh c favism
+mesh c hemoglobin c disease
+mesh c spherocytosis hereditary
+mesh c thalassemia
+mesh c alpha thalassemia
+mesh c beta thalassemia
+mesh c favism
+mesh c hemoglobinuria
+mesh c hemoglobinuria paroxysmal
+mesh c hemolytic uremic syndrome
+mesh c anemia hypochromic
+mesh c anemia iron deficiency
+mesh c anemia macrocytic
+mesh c anemia megaloblastic
+mesh c anemia pernicious
+mesh c anemia myelophthisic
+mesh c anemia neonatal
+mesh c fetofetal transfusion
+mesh c fetomaternal transfusion
+mesh c anemia refractory
+mesh c anemia refractory with excess of blasts
+mesh c anemia sideroblastic
+mesh c red cell aplasia pure
+mesh c anemia diamond blackfanmesh c coagulation protein disorders
+mesh c activated protein c resistance
+mesh c afibrinogenemia
+mesh c factor v deficiency
+mesh c factor vii deficiency
+mesh c factor x deficiency
+mesh c factor xi deficiency
+mesh c factor xii deficiency
+mesh c factor xiii deficiency
+mesh c hemophilia a
+mesh c hemophilia b
+mesh c hypoprothrombinemias
+mesh c von willebrand disease
+mesh c disseminated intravascular coagulation
+mesh c blood coagulation disorders inherited
+mesh c activated protein c resistance
+mesh c afibrinogenemia
+mesh c antithrombin iii deficiency
+mesh c bernard soulier syndrome
+mesh c factor v deficiency
+mesh c factor vii deficiency
+mesh c factor x deficiency
+mesh c factor xi deficiency
+mesh c factor xii deficiency
+mesh c factor xiii deficiency
+mesh c hemophilia a
+mesh c hemophilia b
+mesh c hermanski pudlak syndrome
+mesh c hypoprothrombinemias
+mesh c protein c deficiency
+mesh c thrombasthenia
+mesh c von willebrand disease
+mesh c wiskott aldrich syndrome
+mesh c platelet storage pool deficiency
+mesh c hermanski pudlak syndrome
+mesh c protein s deficiency
+mesh c purpura
+mesh c purpura hyperglobulinemic
+mesh c purpura schoenlein henoch
+mesh c purpura thrombocytopenic
+mesh c purpura thrombocytopenic
+mesh c purpura thrombocytopenic idiopathic
+mesh c purpura thrombotic thrombocytopenic
+mesh c wiskott aldrich syndrome
+mesh c thrombocythemia hemorrhagic
+mesh c vitamin k deficiency
+mesh c hemorrhagic disease of newbornmesh c erythroblastosis fetal
+mesh c hydrops fetalis
+mesh c kernicterus
+mesh c rh isoimmunizationmesh c bernard soulier syndrome
+mesh c platelet storage pool deficiency
+mesh c hermanski pudlak syndrome
+mesh c thrombasthenia
+mesh c thrombocytopenia
+mesh c hemolytic uremic syndrome
+mesh c purpura thrombocytopenic
+mesh c purpura thrombocytopenic idiopathic
+mesh c purpura thrombotic thrombocytopenic
+mesh c wiskott aldrich syndrome
+mesh c thrombocytosis
+mesh c thrombocythemia hemorrhagic
+mesh c von willebrand diseasemesh c abetalipoproteinemia
+mesh c agammaglobulinemia
+mesh c antithrombin iii deficiency
+mesh c dysgammaglobulinemia
+mesh c iga deficiency
+mesh c igg deficiency
+mesh c hypergammaglobulinemia
+mesh c monoclonal gammopathies benign
+mesh c hypoproteinemia
+mesh c hypoalbuminemia
+mesh c paraproteinemias
+mesh c cryoglobulinemia
+mesh c heavy chain disease
+mesh c immunoproliferative small intestinal disease
+mesh c multiple myeloma
+mesh c poems syndrome
+mesh c waldenstrom macroglobulinemia
+mesh c protein c deficiency
+mesh c protein s deficiencymesh c anemia aplastic
+mesh c anemia hypoplastic congenital
+mesh c anemia diamond blackfan
+mesh c fanconi anemia
+mesh c bone marrow neoplasms
+mesh c myelodysplastic syndromes
+mesh c anemia refractory
+mesh c anemia refractory with excess of blasts
+mesh c anemia sideroblastic
+mesh c hemoglobinuria paroxysmal
+mesh c leukemia myeloid
+mesh c myeloproliferative disorders
+mesh c anemia myelophthisic
+mesh c leukemia erythroblastic acute
+mesh c leukemoid reaction
+mesh c myelofibrosis
+mesh c myeloid metaplasia
+mesh c polycythemia vera
+mesh c thrombocytosis
+mesh c thrombocythemia hemorrhagicmesh c bone marrow neoplasmsmesh c anemia sickle cell
+mesh c hemoglobin sc disease
+mesh c sickle cell trait
+mesh c hemoglobin c disease
+mesh c thalassemia
+mesh c alpha thalassemia
+mesh c hydrops fetalis
+mesh c beta thalassemiamesh c afibrinogenemia
+mesh c bernard soulier syndrome
+mesh c disseminated intravascular coagulation
+mesh c factor v deficiency
+mesh c factor vii deficiency
+mesh c factor x deficiency
+mesh c factor xi deficiency
+mesh c factor xii deficiency
+mesh c factor xiii deficiency
+mesh c hemophilia a
+mesh c hemophilia b
+mesh c hypoprothrombinemias
+mesh c platelet storage pool deficiency
+mesh c hermanski pudlak syndrome
+mesh c purpura thrombocytopenic idiopathic
+mesh c thrombasthenia
+mesh c thrombocythemia hemorrhagic
+mesh c vascular hemostatic disorders
+mesh c cryoglobulinemia
+mesh c ehlers danlos syndrome
+mesh c hemangioma cavernous
+mesh c hemangioma cavernous central nervous system
+mesh c multiple myeloma
+mesh c pseudoxanthoma elasticum
+mesh c purpura hyperglobulinemic
+mesh c purpura schoenlein henoch
+mesh c scurvy
+mesh c shwartzman phenomenon
+mesh c telangiectasia hereditary hemorrhagic
+mesh c waldenstrom macroglobulinemia
+mesh c vitamin k deficiency
+mesh c hemorrhagic disease of newborn
+mesh c von willebrand disease
+mesh c waterhouse friderichsen syndrome
+mesh c wiskott aldrich syndromemesh c eosinophilia
+mesh c angiolymphoid hyperplasia with eosinophilia
+mesh c eosinophilia myalgia syndrome
+mesh c eosinophilic granuloma
+mesh c hypereosinophilic syndrome
+mesh c pulmonary eosinophilia
+mesh c infectious mononucleosis
+mesh c leukocytosis
+mesh c leukemoid reaction
+mesh c lymphocytosis
+mesh c leukopenia
+mesh c agranulocytosis
+mesh c neutropenia
+mesh c lymphopenia
+mesh c t lymphocytopenia idiopathic cd positive
+mesh c leukostasis
+mesh c pelger huet anomaly
+mesh c phagocyte bactericidal dysfunction
+mesh c chediak higashi syndrome
+mesh c granulomatous disease chronic
+mesh c job s syndromemesh c activated protein c resistance
+mesh c antithrombin iii deficiency
+mesh c disseminated intravascular coagulation
+mesh c protein c deficiency
+mesh c protein s deficiency
+mesh c purpura thrombotic thrombocytopenicmesh c cat scratch disease
+mesh c histiocytic necrotizing lymphadenitis
+mesh c mesenteric lymphadenitis
+mesh c tuberculosis lymph nodemesh c lymphangiectasis intestinalmesh c lymphangiectasis intestinalmesh c elephantiasis
+mesh c elephantiasis filarialmesh c agammaglobulinemia
+mesh c giant lymph node hyperplasia
+mesh c granuloma
+mesh c angiolymphoid hyperplasia with eosinophilia
+mesh c churg strauss syndrome
+mesh c heavy chain disease
+mesh c immunoproliferative small intestinal disease
+mesh c immunoblastic lymphadenopathy
+mesh c infectious mononucleosis
+mesh c leukemia hairy cell
+mesh c leukemia lymphocytic
+mesh c leukemia myeloid
+mesh c leukemia nonlymphocytic acute
+mesh c leukemia myelocytic acute
+mesh c lymphangiomyoma
+mesh c lymphangioleiomyomatosis
+mesh c lymphoma
+mesh c hodgkin disease
+mesh c lymphoma non hodgkin
+mesh c lymphoma b cell
+mesh c burkitt lymphoma
+mesh c lymphoma aids related
+mesh c lymphoma mucosa associated lymphoid tissue
+mesh c lymphoma small cell
+mesh c lymphoma diffuse
+mesh c lymphoma large cell diffuse
+mesh c lymphoma large cell immunoblastic
+mesh c lymphoma lymphoblastic
+mesh c lymphoma mixed cell diffuse
+mesh c lymphoma small cleaved cell diffuse
+mesh c lymphoma mantle cell
+mesh c lymphoma small lymphocytic
+mesh c lymphoma small noncleaved cell
+mesh c lymphoma follicular
+mesh c lymphoma large cell follicular
+mesh c lymphoma mixed cell follicular
+mesh c lymphoma small cleaved cell follicular
+mesh c lymphoma high grade
+mesh c lymphoma large cell immunoblastic
+mesh c lymphoma lymphoblastic
+mesh c lymphoma small noncleaved cell
+mesh c burkitt lymphoma
+mesh c lymphoma intermediate grade
+mesh c lymphoma large cell diffuse
+mesh c lymphoma large cell follicular
+mesh c lymphoma mixed cell diffuse
+mesh c lymphoma small cleaved cell diffuse
+mesh c lymphoma mantle cell
+mesh c lymphoma large cell
+mesh c lymphoma large cell diffuse
+mesh c lymphoma large cell follicular
+mesh c lymphoma large cell immunoblastic
+mesh c lymphoma large cell ki
+mesh c lymphoma lymphoblastic
+mesh c lymphoma low grade
+mesh c lymphoma mixed cell follicular
+mesh c lymphoma mucosa associated lymphoid tissue
+mesh c lymphoma small cleaved cell follicular
+mesh c lymphoma small lymphocytic
+mesh c lymphoma mixed cell
+mesh c lymphoma mixed cell diffuse
+mesh c lymphoma mixed cell follicular
+mesh c lymphoma small cell
+mesh c lymphoma small cleaved cell diffuse
+mesh c lymphoma mantle cell
+mesh c lymphoma small cleaved cell follicular
+mesh c lymphoma small lymphocytic
+mesh c lymphoma small noncleaved cell
+mesh c lymphoma t cell
+mesh c lymphoma lymphoblastic
+mesh c lymphoma t cell cutaneous
+mesh c lymphoma large cell ki
+mesh c mycosis fungoides
+mesh c sezary syndrome
+mesh c lymphoma t cell peripheral
+mesh c lymphoma undifferentiated
+mesh c lymphoma large cell diffuse
+mesh c lymphoma small noncleaved cell
+mesh c burkitt lymphoma
+mesh c lymphomatoid granulomatosis
+mesh c marek disease
+mesh c sarcoidosis
+mesh c sarcoidosis pulmonary
+mesh c uveoparotid fever
+mesh c sezary syndrome
+mesh c tumor lysis syndrome
+mesh c waldenstrom macroglobulinemiamesh c gaucher disease
+mesh c histiocytosis
+mesh c histiocytic disorders malignant
+mesh c histiocytosis malignant
+mesh c leukemia monocytic acute
+mesh c lymphoma large cell
+mesh c lymphoma large cell ki
+mesh c histiocytosis langerhans cell
+mesh c eosinophilic granuloma
+mesh c histiocytosis non langerhans cell
+mesh c erdheim chester disease
+mesh c histiocytosis sinus
+mesh c lymphohistiocytosis hemophagocytic
+mesh c niemann pick diseases
+mesh c sea blue histiocyte syndrome
+mesh c xanthogranuloma juvenile
+mesh c mast cell sarcomamesh c hypersplenism
+mesh c myeloid metaplasia
+mesh c splenic infarction
+mesh c splenic neoplasms
+mesh c splenic rupture
+mesh c splenosis
+mesh c tuberculosis splenic
+mesh c wandering spleenmesh c king s evilthe list continues at list of mesh codes c
+

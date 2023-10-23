@@ -1,0 +1,77 @@
+chemspider is a database of chemicals
+chemspider is owned by the royal society of chemistry
+the database contains information on more than million molecules from over data sources including
+epa dsstox
+food and drug administration fda
+human metabolome database
+journal of heterocyclic chemistry
+kumgm
+leadscope
+lipidmaps
+marinlit
+micad
+mlsmr
+nanogen
+nature chemical biology
+niaid
+national institutes of health nih
+ninds approved drug screening program
+nist chemistry webbook
+nmmlsc
+nmrshiftdb
+panache
+peptides
+prous science drugs of the future
+r d chemicals
+san diego center for chemical genomics
+sgcoxcompounds sgcstocompounds
+specs
+structural genomics consortium
+surechem
+synthon lab
+thomson pharma
+total toslab building blocks
+um bbd
+upcmld
+usefulchem
+web of science
+xpharmeach chemical is given a unique identifier which forms part of a corresponding url
+for example acetone is and thus has the url http www chemspider com chemical structure html
+the chemspider database can be updated with user contributions including chemical structure deposition spectra deposition and user curation
+this is a crowdsourcing approach to develop an online chemistry database
+crowdsourced based curation of the data has produced a dictionary of chemical names associated with chemical structures that has been used in text mining applications of the biomedical and chemical literature
+however database rights are not waived and a data dump is not available in fact the faq even states that only limited downloads are allowed therefore the right to fork is not guaranteed and the project can t be considered free open
+a number of available search modules are provided
+the standard search allows querying for systematic names trade names and synonyms and registry numbers
+the advanced search allows interactive searching by chemical structure chemical substructure using also molecular formula and molecular weight range cas numbers suppliers etc
+the search can be used to widen or restrict already found results
+structure searching on mobile devices can be done using free apps for ios iphone ipod ipad and for the android operating system the chemspider database has been used in combination with text mining as the basis of chemistry document markup
+chemmantis the chemistry markup and nomenclature transformation integrated system uses algorithms to identify and extract chemical names from documents and web pages and converts the chemical names to chemical structures using name to structure conversion algorithms and dictionary look ups in the chemspider database
+the result is an integrated system between chemistry documents and information look up via chemspider into over data sources
+chemspider was acquired by the royal society of chemistry rsc in may
+prior to the acquisition by rsc chemspider was controlled by a private corporation chemzoo inc
+the system was first launched in march in a beta release form and transitioned to release in march
+a number of services are made available online
+these include the conversion of chemical names to chemical structures the generation of smiles and inchi strings as well as the prediction of many physicochemical parameters and integration to a web service allowing nmr prediction
+syntheticpages is a free interactive database of synthetic chemistry procedures operated by the royal society of chemistry
+users submit synthetic procedures which they have conducted themselves for publication on the site
+these procedures may be original works but they are more often based on literature reactions
+citations to the original published procedure are made where appropriate
+they are checked by a scientific editor before posting
+the pages do not undergo formal peer review like a scientific journal article but comments can be made by logged in users
+the comments are also moderated by scientific editors
+the intention is to collect practical experience of how to conduct useful chemical synthesis in the lab
+while experimental methods published in an ordinary academic journal are listed formally and concisely the procedures in chemspider syntheticpages are given with more practical detail
+informality is encouraged
+comments by submitters are included as well
+other publications with comparable amounts of detail include organic syntheses and inorganic syntheses
+the syntheticpages site was originally set up by professors kevin booker milburn university of bristol stephen caddick university college london peter scott university of warwick and dr max hammond
+in february a merger was announced with the royal society of chemistry s chemical structure search engine chemspider and the formation of chemspider syntheticpages cs sp
+chemspider served as the chemical compound repository as part of the open phacts project an innovative medicines initiative
+open phacts developed to open standards with an open access semantic web approach to address bottlenecks in small molecule drug discovery disparate information sources lack of standards and information overload
+pubchem
+drugbank
+chebi
+chembl
+software for molecular modeling
+

@@ -1,0 +1,29 @@
+a voltage regulator module vrm sometimes called processor power module ppm is a buck converter that provides microprocessor and chipset the appropriate supply voltage converting v v or v to lower voltages required by the devices allowing devices with different supply voltages be mounted on the same motherboard
+on personal computer pc systems the vrm is typically made up of power mosfet devices
+most voltage regulator module implementations are soldered onto the motherboard
+some processors such as intel haswell and ice lake cpus feature some voltage regulation components on the same cpu package reduce the vrm design of the motherboard such a design brings certain levels of simplification to complex voltage regulation involving numerous cpu supply voltages and dynamic powering up and down of various areas of a cpu
+a voltage regulator integrated on package or on die is usually referred to as fully integrated voltage regulator fivr or simply an integrated voltage regulator ivr
+most modern cpus require less than v as cpu designers tend to use lower cpu core voltages lower voltages help in reducing cpu power dissipation which is often specified through thermal design power tdp that serves as the nominal value for designing cpu cooling systems
+some voltage regulators provide a fixed supply voltage to the processor but most of them sense the required supply voltage from the processor essentially acting as a continuously variable adjustable regulator
+in particular vrms that are soldered to the motherboard are supposed to do the sensing according to the intel specification
+modern video cards also use a vrm due to higher power and current requirements
+these vrms may generate a significant amount of heat and require heat sinks separate from the gpu
+the correct supply voltage is communicated by the microprocessor to the vrm at startup via a number of bits called vid voltage identification definition
+in particular the vrm initially provides a standard supply voltage to the vid logic which is the part of the processor whose only aim is to then send the vid to the vrm
+when the vrm has received the vid identifying the required supply voltage it starts acting as a voltage regulator providing the required constant voltage supply to the processor
+instead of having a power supply unit generate some fixed voltage the cpu uses a small set of digital signals the vid lines to instruct an on board power converter of the desired voltage level
+the switch mode buck converter then adjusts its output accordingly
+the flexibility so obtained makes it possible to use the same power supply unit for cpus with different nominal supply voltages and to reduce power consumption during idle periods by lowering the supply voltage
+for example a unit with bit vid would output one of at most distinct output voltages
+these voltages are usually but not always evenly spaced within a given range
+some of the code words may be reserved for special functions such as shutting down the unit hence a bit vid unit may have fewer than output voltage levels
+how the numerical codes map to supply voltages is typically specified in tables provided by component manufacturers
+since vid comes in and bit varieties and is mostly applied to power modules outputting between v and v
+the vrms are essential for overclocking
+the quality of a vrm directly impacts the motherboard s overclocking potential
+the same overclocked processor can exhibit noticeable performance differences when paired with different vrms
+the reason for this is that a steady power supply is needed for successful overclocking
+when a chip is pushed past its factory settings that increases the power draw so the vrm needs to match its output accordingly
+switched mode power supply applications smps applications
+pulse width modulation microprocessor power management
+

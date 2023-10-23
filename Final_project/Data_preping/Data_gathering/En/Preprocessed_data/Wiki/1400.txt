@@ -1,0 +1,30 @@
+a combination drug or a fixed dose combination fdc is a medicine that includes two or more active ingredients combined in a single dosage form
+terms like combination drug or combination drug product can be common shorthand for a fdc product since most combination drug products are currently fdcs although the latter is more precise if in fact referring to a mass produced product having a predetermined combination of drugs and respective dosages as opposed to customized polypharmacy via compounding
+and it should also be distinguished from the term combination product in medical contexts which without further specification can refer to products that combine different types of medical products such as device drug combinations as opposed to drug drug combinations
+note that when a combination drug product whether fixed dose or not is a pill i e a tablet or capsule then it is also a kind of polypill or combopill
+initially fixed dose combination drug products were developed to target a single disease such as with antiretroviral fdcs used against aids
+however fdcs may also target multiple diseases conditions
+in cases of fdcs targeting multiple conditions such conditions might often be related in order to increase the number of prospective patients who might be likely to utilize a given fdc product
+this is because each fdc product is mass produced and thus typically requires having a critical mass of potentially applicable patients in order to justify its manufacture distribution stocking etc
+over the counter medicines
+dimenhydrinate chlorotheophylline diphenhydramine used to treat motion sickness and nausea
+glucose fructose phosphoric acid antiemetic taken to relieve nausea and vomitingprescription drugs
+adderall dextroamphetamine sulfate amphetamine sulfate dextroamphetamine saccharate amphetamine aspartate monohydrate treatment of attention deficit hyperactivity disorder adhd and narcolepsy
+aspirin paracetamol caffeine pain treatment especially tension headache and migraine
+caffeine ergotamine treatment of headaches such as migraine headache
+nirmatrelvir ritonavir granted emergency use authorization eua by the us food and drug administration fda for the treatment and management of covid in addition to simply being a means of facilitating the general advantages of combination therapy specific advantages of fixed dose combination fdc drug products include
+improved medication compliance by reducing the pill burden of patients
+note that pill burden is not only the number of pills needing to be taken but also the associated burdens such as keeping track of several medications understanding their various instructions etc
+ability to compose combined profiles of for example pharmacokinetics effects and adverse effects that may be specific for the relative dosages in a given fdc product providing a simpler overview compared to when looking at the profiles of each single drug individually
+such combined profiles can also include effects caused by interaction between the individual drugs that may be omitted in individual drug profiles
+since fdcs are reviewed by regulating agencies such as the food and drug administration in the united states the active ingredients used in the fdcs are unlikely to exhibit adverse drug interactions with each other
+however fdcs may interact with other drugs that a patient is taking so the usual medical and pharmaceutical precautions against drug drug interactions or ddis remain warranted
+fdc drug products may be developed by a pharmaceutical company as a way to in effect extend proprietary rights and marketability of a drug product
+since fdcs may be protected by patents a company may obtain exclusive rights to sell a particular fdc or formulation thereof even though the individual active ingredients and many therapeutic uses thereof may be off patent there may not be an fdc available with the appropriate drugs and or in the most appropriate respective strength s for a given patient which can lead to some patients getting too much of an ingredient and others getting too little as the aao notes that fdcs limit clinicians ability to customize dosing regimens in such cases an alternative possibility instead of an fdc is to utilize custom compounded polypills prepared by a compounding pharmacist according to a prescription
+pharmaceutical compounding is the practice of preparing individualized drug products for individual patients which can aid with polypharmacy
+if an adverse drug reaction occurs from using an fdc it may be difficult to identify the active ingredient responsible for causing the reaction
+this problem might be alleviated by starting the medications individually and monitoring for reactions and then switching to an fdc when no problems have been observed assuming of course that it s the active ingredient causing the problem
+formulation scientists experience challenges in the development stages of multi drug formulations such as compatibility issues among active ingredients and excipients affecting solubility and dissolution
+if one drug is contraindicated for a patient whole fdc cannot be prescribed
+media related to combination drugs at wikimedia commons
+

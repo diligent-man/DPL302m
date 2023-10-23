@@ -1,0 +1,47 @@
+markets
+fear greed index
+latest market news
+since apple has turned down multiple opportunities to chip away at google s search engine dominance according to newly unsealed court transcripts including a chance to purchase microsoft s bing and to make the privacy focused duckduckgo a default for users of its safari s private browsing mode
+the previously confidential records unsealed this week by the judge presiding over the us government s antitrust lawsuit against google illustrate the challenges that have faced google s rivals in search as they ve tried to unseat the tech giant from its pole position as apple s default search provider on millions of iphones and mac computers
+it s a privilege for which google has paid apple at least billion a year
+the closed door testimony by the ceo of duckduckgo gabriel weinberg and a senior apple executive john giannandrea offers a glimpse of the kind of failed deals and backroom negotiations that have helped google maintain its lead as the world s foremost search engine
+but it also shows how apple has wrestled with google s rise and how some at apple yearned for optionality apple didn t immediately respond to a request for comment
+giannandrea testified last month apple began seriously considering a deal with bing in after a conversation between apple ceo tim cook and microsoft ceo satya nadella launched a series of further discussions between the two companies
+last week nadella testified that he has spent every year of his tenure as ceo trying to persuade apple to adopt bing
+apple insiders ultimately came up with four options for cook buy bing outright invest in bing and take an ownership share of the search engine collaborate with microsoft on a shared search index that both companies could use or do nothing and continue with the google partnership
+at the same time apple had been actively working with duckduckgo on a proposal that could have made it the default search in safari browser s private mode while still maintaining google as the default in normal mode which logs user activity weinberg testified
+our impression was that they were really serious about it weinberg told the court last month referring to the roughly meetings and phone calls that duckduckgo held with apple officials including some senior executives from late to late on the matter
+the two companies deliberated over everything from product mockups to contractual language apple even went as far as sending a draft contract to duckduckgo outlining specific proposed revenue shares
+if we were the default in safari private browsing mode our market share by our calculations at the time would increase multiple times over said weinberg according to the transcript
+we would be getting exposure for our brand every time someone opened up private browsing mode
+ultimately however apple backed away from both potential deals
+weinberg blamed apple s contract with google for sinking the initiative calling it the elephant in the room during many of his team s meetings with apple
+similar negotiations with other browser or device makers including mozilla opera and samsung fell through due to the google contract as well weinberg claimed prompting duckduckgo to abandon its efforts to gain better browser placement
+in his testimony giannandrea acknowledged a perception that the apple google relationship could be undermined by such plans
+in discussing a slide presentation prepared for cook and introduced in court giannandrea said the slides suggested that even a joint venture with bing would probably put us in head to head competition with google that would probably result in the end of the google search contract with apple altogether
+giannandrea was opposed to moving ahead with a bing deal he said largely because apple s testing showed bing to be inferior to google in most respects and that replacing bing as the default would not best serve apple s customers
+he made a similar argument internally about duckduckgo saying in an email that moving ahead with that partnership was probably a bad idea duckduckgo licenses search results from bing
+still giannandrea testified some within apple thought that dealing with bing in some fashion could yield benefits to apple
+in one email introduced in closed session adrian perica who leads apple s strategic investment and merger efforts argued that collaborating with microsoft on search technology would help build them up create incremental negotiating leverage to keep the take rate from google and further our optionality to replace google down the line
+giannandrea believed the proposal wasn t a very feasible idea and in his testimony dismissed perica s thinking as a businessperson s spitballing
+apple today has the enormous resources to build a true rival to google giannandrea testified
+but as he wrote in a email it s probably not the best way to differentiate our products a belief he said he still holds today
+most stock quote data provided by bats
+us market indices are shown in real time except for the s p which is refreshed every two minutes
+all times are et
+factset factset research systems inc
+all rights reserved
+chicago mercantile certain market data is the property of chicago mercantile exchange inc
+and its licensors
+all rights reserved
+dow jones the dow jones branded indices are proprietary to and are calculated distributed and marketed by dji opco a subsidiary of s p dow jones indices llc and have been licensed for use to s p opco llc and cnn
+standard poor s and s p are registered trademarks of standard poor s financial services llc and dow jones is a registered trademark of dow jones trademark holdings llc
+all content of the dow jones branded indices copyright s p dow jones indices llc and or its affiliates
+fair value provided by indexarb com
+market holidays and trading hours provided by copp clark limited
+cable news network
+a warner bros
+discovery company
+all rights reserved
+cnn sans cable news network
+

@@ -1,0 +1,74 @@
+occupational noise is the amount of acoustic energy received by an employee s auditory system when they are working in the industry
+occupational noise or industrial noise is often a term used in occupational safety and health as sustained exposure can cause permanent hearing damage
+occupational noise is considered an occupational hazard traditionally linked to loud industries such as ship building mining railroad work welding and construction but can be present in any workplace where hazardous noise is present
+in the usa the national institute for occupational safety and health niosh and the occupational safety and health administration osha work together to provide standards and regulations for noise in the workplace
+national institute for occupational safety and health niosh occupational safety and health administration osha mine safety and health administration msha federal railroad administration fra have all set standards on hazardous occupational noise in their respective industries
+each industry is different as workers tasks and equipment differ but most regulations agree that noise becomes hazardous when it exceeds decibels for an hour time exposure typical work shift
+this relationship between allotted noise level and exposure time is known as an exposure action value eav or permissible exposure limit pel
+the eav or pel can be seen as equations which manipulate the allotted exposure time according to the intensity of the industrial noise
+this equation works as an inverse exponential relationship
+as the industrial noise intensity increases the allotted exposure time to still remain safe decreases
+thus a worker exposed to a noise level of decibels for minutes would be at the same risk level as a worker exposed to decibels for hours
+using this mathematical relationship an employer can calculate whether or not their employees are being overexposed to noise
+when it is suspected that an employee will reach or exceed the pel a monitoring program for that employee should be implemented by the employer
+the above calculations of pel and eav are based on measurements taken to determine the intensity of that particular industrial noise
+a weighted measurements are commonly used to determine noise levels that can cause harm to the human ear
+there are also special exposure meters available that integrate noise over a period of time to give an leq value equivalent sound pressure level defined by standards
+occupational noise if experienced repeatedly at high intensity for an extended period of time can cause noise induced hearing loss nihl which is then classified as occupational hearing loss
+most often this is a type of sensorineural hearing loss
+noise in the context of industrial noise is hazardous to a person s hearing because of its loud intensity through repeated long term exposure
+in order for noise to cause hearing impairment for the worker the noise has to be close enough loud enough and sustained long enough to damage the hair cells in the auditory system
+these factors have been taken into account by the governing occupational health and safety organization to determine the unsafe noise exposure levels and durations for their respective industries
+noise can also affect the safety of the employee and others
+noise can be a causal factor in work accidents as it may mask hazards and warning signals and impede concentration
+high intensity noise interferes with vital workplace communication which increases the chance of accidents and decreases productivity
+noise may also act synergistically with other hazards to increase the risk of harm to workers
+in particular toxic materials e g
+some solvents metals asphyxiants and pesticides have some ototoxic properties that may affect hearing function
+modern thinking in occupational safety and health further identifies noise as hazardous to workers safety and health
+this hazard is experienced in various places of employment and through a variety of sources
+there are several ways to limit exposure to hazardous occupational noise
+the hierarchy of controls is a guideline for reducing hazardous noise
+before starting a noise reduction program base noise levels should first be recorded
+after this the company can start to eliminate the noise source
+if the noise source cannot be eliminated the company must try to reduce the noise with alternative methods
+this process is called acoustic quieting
+acoustic quieting is the process of making machinery quieter by damping vibrations to prevent them from reaching the observer
+the company can isolate the certain piece of machinery by placing materials on the machine or in between the machine and the worker to decreases the signal intensity that reaches the worker s ear
+if elimination and substitution are not sufficient in reducing the noise exposure engineering controls should be put in place by the employer
+an engineering control usually changes the physical environment of a workplace
+for noise reduction an engineering control might be as simple as putting barriers in between the noise source and the employee in order to disrupt the transmission path
+an engineering control might also involve changing the machine that produces the noise
+ideally most machines should be made with noise reduction in mind but this doesn t always happen
+changing the machinery involved in an industrial process may not be possible but is a good way to reduce the noise at its source
+to decrease an employee s exposure to hazardous noise the company can also take administrative control by limiting the employee s exposure time
+this can be done by changing work shifts and switching employees out from the noise exposure area
+an employer might also implement a training program so that employees can learn about the hazards of occupational noise
+other administrative controls might include restricting access to noisy areas as well as placing warning signs around those same areas
+if all other controls fail to decrease the occupational noise exposure to an acceptable level hearing protection should be used
+there are several types of earplugs that can be used to attenuate the noise to a safe level
+some earplug types include single use earplugs multiple use ear plugs and banded ear plugs
+depending on the type of work being done and the needs of the employees earmuffs might also be a good option
+while earmuffs might not have as high of a noise reduction rating nnr as earplugs they can be useful if the noise exposure isn t very high or if an employee cannot wear earplugs
+since the hazards of occupational noise exposure were realized programs and initiatives such as the us buy quiet program have been set up to regulate or discourage noise exposure
+the buy quiet initiative promotes the purchase of quieter tools and equipment and encourages manufacturers to design quieter machines
+additionally the safe in sound award was created to recognize successes in hearing loss prevention programs or initiatives
+hearing conservation program
+occupational hearing loss
+noise induced hearing loss
+buy quiet
+earplug
+earmuffs
+protective clothing
+a weighting
+itu r noise weighting
+weighting filter
+equal loudness contour
+safe in sound award excellence in hearing loss preventiongeneral
+health effects from noise
+noise control
+noise pollution
+noise regulationoccupational safety health administration
+niosh buy quiet topic page
+establishing an osha compliant occupational hearing testing program
+

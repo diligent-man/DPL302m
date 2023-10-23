@@ -1,0 +1,22 @@
+atc code a antiemetics and antinauseants is a therapeutic subgroup of the anatomical therapeutic chemical classification system a system of alphanumeric codes developed by the world health organization who for the classification of drugs and other medical products
+subgroup a is part of the anatomical group a alimentary tract and metabolism
+codes for veterinary use atcvet codes can be created by placing the letter q in front of the human atc code for example qa
+atcvet codes without corresponding human atc codes are cited with the leading q in the following list national issues of the atc classification may include additional codes not present in this list which follows the who version
+a aa ondansetron
+a aa granisetron
+a aa tropisetron
+a aa dolasetron
+a aa palonosetron
+a aa palonosetron combinationsa ad scopolamine
+a ad cerium oxalate
+a ad chlorobutanol
+a ad metopimazine
+a ad dronabinol
+a ad nabilone
+a ad aprepitant
+a ad casopitant
+a ad rolapitant
+a ad scopolamine combinations
+a ad chlorobutanol combinations
+qa ad maropitant
+

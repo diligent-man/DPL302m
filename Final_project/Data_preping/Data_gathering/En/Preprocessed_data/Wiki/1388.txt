@@ -1,0 +1,9 @@
+medroxalol is a vasodilator beta blocker also classified as a mixed receptor blocker as it blocks both alpha and beta receptors
+for the first step salicylamide is the subject of a friedel crafts acetylation and then the aromatic methylketone is halogenated
+in the usual manner
+the bromide in is then displaced by the nitrogen in n benzyl methylenedioxyphenyl butylamine which is itself prepared by reductive amination on the corresponding ketone
+the product of the last step is catalytically hydrogenated
+this serves the dual purpose both of reducing the ketone and removing the benzyl protecting group affording the product medroxalol
+note that a benzyl protecting group is not necessarily used
+labetalol
+

@@ -1,0 +1,104 @@
+the phags pa script is an alphabet designed by the tibetan monk and state preceptor later imperial preceptor drog n ch gyal phagpa for kublai khan the founder of the yuan dynasty as a unified script for the written languages within the yuan
+the actual use of this script was limited to about a hundred years during the mongol led yuan dynasty and it fell out of use with the advent of the ming dynasty
+it was used to write and transcribe varieties of chinese the tibetic languages mongolian the uyghur language sanskrit persian and other neighboring languages during the yuan era
+for historical linguists the documentation of its use provides clues about the changes in these languages
+its descendant systems include horizontal square script used to write tibetan and sanskrit
+there is a theory that the korean hangul alphabet had a limited influence from phags pa see origin of hangul
+during the pax mongolica the script has even made numerous appearances in western medieval art
+phags pa script mongxol tshi mongolian script
+mongolian d rv ljin seg square script
+tibetan wylie hor yig gsar ba new mongolian script
+yuan dynasty chinese pinyin m ngg x nz new mongolian script
+modern chinese pinyin b s b w n phags pa script
+in chinese it is also written as p k s b
+in english it is also written as phaspa paspa baschpah and pa sse pa
+during the mongol empire the mongol rulers wanted a universal script to write down the languages of the people they subjugated
+the uyghur based mongolian alphabet is not a perfect fit for the middle mongol language and it would be impractical to extend it to a language with a very different phonology like chinese
+therefore during the yuan dynasty c
+kublai khan asked the tibetan monk phags pa to design a new alphabet for use by the whole empire
+phags pa extended his native tibetan alphabet to encompass mongol and chinese evidently central plains mandarin
+the resulting letters have been known by several descriptive names such as square script based on their shape but today are primarily known as the phags pa alphabet
+descending from tibetan script it is part of the brahmic family of scripts which includes devanagari and scripts used throughout southeast asia and central asia
+it is unique among brahmic scripts in that it is written top bottom like how classical chinese used to be written and like the manchu alphabet or later mongolian alphabet
+despite its origin the script was written vertically top to bottom like the previous mongolian scripts
+it did not receive wide acceptance and was not a popular script even among the elite mongols themselves although it was used as an official script of the yuan dynasty until the early s when the red turban rebellion started
+after this it was mainly used as a phonetic gloss for mongols learning chinese characters
+it was also used as one of the scripts on tibetan currency in the twentieth century as script for tibetan seal inscriptions from the middle ages up to the th century and for inscriptions on the entrance doors of tibetan monasteries
+although it is an alphabet phagspa is written like a syllabary or abugida with letters forming a single syllable glued or ligated together unlike the ancestral tibetan script all phags pa letters are written in temporal order that is cv is written in the order c v for all vowels and in line that is the vowels are not diacritics
+however vowel letters retain distinct initial forms and short a is not written except initially making phags pa transitional between an abugida a syllabary and a full alphabet
+the letters of a phags pa syllable are linked together so that they form syllabic blocks
+phags pa was written in a variety of graphic forms
+the standard form top at right was blocky but a tibetan form bottom was even more so consisting almost entirely of straight orthogonal lines and right angles
+a seal script form chinese pinyin m ngg zhu nz mongolian seal script used for imperial seals and the like was more elaborate with squared sinusoidal lines and spirals
+this phags pa script is different from the phags pa script or in chinese that shares the same name but its earliest usage can be traced back to the late th century the early reign of wanli emperor
+according to professor junast of the chinese academy of social sciences the later phags pa script is actually a seal script of tibetan
+korean records state that hangul was based on an old seal script which may be phags pa and a reference to its chinese name m ngg zhu nz see origin of hangul
+however it is the simpler standard form of phags pa that is the closer graphic match to hangul
+the following are the basic phags pa letters
+letters and are base consonants
+the order of letters is the same as the traditional order of the thirty basic letters of the tibetan script to which they correspond
+letters represent sounds that do not occur in tibetan and are either derived from an existing tibetan base consonant e g
+letters and are both derived from the simple tibetan letter kha but are graphically distinct from each other or from a combination of an existing tibetan base consonant and the semi vowel subjoined letter wa e g
+letter is derived from the complex tibetan letter khwa
+as is the case with tibetan these letters have an inherent a vowel sound attached to them in non final positions when no other vowel sign is present e g
+the letter ka with no attached vowel represents the syllable ka but with an appended vowel i represents the syllable ki
+letters and are vowels
+letters follow the traditional order of the corresponding tibetan vowels
+letter represents a vowel quality that does not occur in tibetan and may be derived from the tibetan double e vowel sign
+unlike tibetan in which vowels signs may not occur in isolation but must always be attached to a base consonant to form a valid syllable in the phags pa script initial vowels other than a may occur without a base consonant when they are not the first element in a diphthong e g
+ue or a digraph e g
+eeu and eeo
+thus in chinese phags pa texts the syllables u w on w n and o occur and in mongolian phags pa texts the words ong qo chas boats u su nu gen water e du ee now and i hee een protection occur
+these are all examples of where o u e i etc
+would be expected if the tibetan model had been followed exactly
+an exception to this rule is the mongolian word er di nis jewels where a single vowel sign is attached to a null base consonant
+note that the letter ee is never found in an initial position in any language written in the phags pa script for example in tao zongyi s description of the old uighur script he glosses all instances of uighur e with the phags pa letter ee except for when it is found in the initial position when he glosses it with the phags pa letter e instead
+however initial semi vowels diphthongs and digraphs must be attached to the null base consonant a letter
+so in chinese phags pa texts the syllables wen yu n ue w i and eeu y occur and in mongolian phags pa texts the words eeu lu not and eeog bee e gave occur
+as there is no sign for the vowel a which is implicit in an initial base consonant with no attached vowel sign then words that start with an a vowel must also use the null base consonant letter a e g
+mongolian a mi than living beings
+in chinese and rarely mongolian another null base consonant a letter may be found before initial vowels see letter below
+following are the initials of the phags pa script as presented in menggu ziyun
+they are ordered according to the chinese philological tradition of the initials
+the shilin guangji used phagspa to annotate chinese text serving as a precursor to modern pinyin
+the following are the phagspa transcriptions of a section of the hundred family surnames in the shilin guangji
+for example the name jin meaning gold is written as or gim similar to how it is transliterated in korean kim
+phags pa script was added to the unicode standard in july with the release of version
+the unicode block for phags pa is u a u a
+u a phags pa letter small a is transliterated using u a f latin letter sinological dot from the latin extended d unicode block
+brahmic scripts
+mongolian alphabets
+origin of hangul
+mongol elements in western medieval art
+menggu ziyun yuan dynasty phags pa chinese rhyming dictionary
+shilin guangji
+siddha scriptcoblin w
+south
+a handbook of phags pa chinese
+abc dictionary series
+honolulu university of hawai i press
+retrieved april
+denlinger paul
+chinese in hp ags pa script
+retrieved april
+everding karl heinz
+herrscherurkunden aus der zeit des mongolischen gro reiches f r tibetische adelsh user geistliche und kl ster
+teil diplomata mongolica
+mittelmongolische urkunden in phags pa schrift
+eidtion bersetzung analyse
+halle international institute for tibetan and buddhist studies
+poppe nicholas
+the mongolian monuments in hp ags pa script second ed
+wiesbaden harrassowitz
+sampson geoffrey
+writing systems a linguistic introduction
+great britain anchor brenton ltd
+schuh dieter
+grundlagen tibetischer siegelkunde
+eine untersuchung ber tibetische siegelaufschriften in phags pa schrift
+sankt augustin vgh wissenschaftsverlag
+isbn babelstone phags pa script with free fonts
+omniglot phags pa script
+ancientscripts hphags pa
+mongolian characters after kublai khan
+

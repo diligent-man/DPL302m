@@ -1,0 +1,65 @@
+code is an american cybersecurity software company based in minneapolis specializing in insider risk management
+it is the maker of the cloud native data protection products incydr and crashplan
+code s incydr is a saas data loss protection product
+incydr is designed to help enterprise security teams detect insider risks to data that could lead to data leak and data loss and insider threat breaches and respond to them appropriately
+code s crashplan for small business is cloud data backup and recovery software
+code was founded as an it consulting company in by matthew dornquast brian bispala and mitch coopet
+the company s name honors douglas adams who authored hitchhiker s guide to the galaxy and had died that year
+in the book the number is the answer to the ultimate question of life the universe and everything
+some of code s first projects included a redesign of sun country airlines website in a project for the retailer target corporation and the ticket booking engine for midwest airlines
+income from the it services business was used to fund product ideas for six years
+in the company planned to create a facebook like desktop application but the project became too large and impractical
+code focused on the online storage element of the application creating crashplan in
+in june code acquired a minneapolis based mobile development company recursive awesome llc to support its software on mobile devices
+in code raised million in funding
+the funding was the first distribution from a million pool established in by accel partners to fund big data companies
+in mid former eloqua ceo joe payne succeeded co founder matthew dornquast as ceo
+the company raised an additional million in funding in october
+on august code announced they were shutting down crashplan for home effective in october
+they were not accepting new subscriptions but would maintain existing subscriptions until the end of their existing subscription period at which point the backups would be purged
+the home plans had been replaced by crashplan for small business which are business focused although still possible to use for private purposes
+backups to friends family are not supported in the new product the company explained as we shift our business strategy to focus exclusively on enterprise and small business segments you have two great options to continue getting the best backup solution
+in september code launched its incydr data risk detection and response product a saas data protection tool for enterprises
+incydr allows security teams to effectively mitigate file exposure and exfiltration risks without disrupting legitimate work and collaboration
+incydr guards intellectual property source code and trade secrets
+incydr is code s flagship product
+also in september code leaders joe payne jadee hanson and mark wojtasiak co authored and published the book inside jobs why insider risk is the biggest cyber threat you can t ignore
+the book explores the problem of insider risk what drives it why they believe traditional methods of protecting company data are inadequate and what security leaders can do to keep their data secure
+as of april of code software s revenue comes from business customers
+most of the remainder comes from consumers and a small portion from service provider partners
+it was reported in that code had been profitable each year since it was founded
+it grew from million in revenue in to million in and million in
+in code s saas business was million annually
+as of the company had backed up petabytes of data and processed billion files a day
+code is the maker of the incydr data loss detection and response product
+it allows security teams to mitigate file exposure and exfiltration risks without disrupting collaboration
+incydr comes in two plans basic and advanced
+incydr displays information about what data is relevant including how when and where that data is moving and who is moving it
+it monitors the creation deletion modification and movement of all files whether the activity is within a company s security protocols or not
+even though incydr monitors all file activity it distinguishes between acceptable team collaboration and file sharing and events that represent risks to businesses
+code also is the maker of cloud backup and recovery software crashplan for small business
+crashplan backs up data to remote servers or hard drives
+it is available on mac windows and linux
+as of backup to other computers is no longer supported
+initial backups may take several hours via lan or days over the internet depending on the amount of data and bandwidth available but afterwards continuous and incremental backups are conducted without user intervention
+around there used to be a paid option for seed loading in which a hard drive was sent to the user so a faster local backup could be performed to the drive and it could be shipped back to code for initial backup
+however this seeded backup service was no longer offered in neither was the corresponding restore to door service which would allow a hard drive containing extensive restore data from backups to be shipped back to the user faster than an over the internet download
+with crashplan data is encrypted password protected and stored in a proprietary format
+there is also an option for a more secure private key
+corporate users in that had crashplan proe back up to private servers instead of code s data centers in four out of five cases
+in the software had an option to create a private on site backup server
+in code developed released and marketed a file sharing service called shareplan
+according to the star tribune it competed with dropbox but shareplan used a pin to access files and track users
+in october a revision of the software added features for regulatory compliance like sarbanes oxley and options for a private public or hybrid cloud deployment
+it had a single login with crashplan using a feature called the code edge platform which was improved in december with two factor authentication features
+shareplan was discontinued in august
+in a comparative review published in in the wall street journal geoffrey fowler observed crashplan was his favorite out of the four services evaluated
+he observed it lacked fine print whereas some of the other services charged additional fees for basic features or weren t really unlimited
+pc magazine in gave crashplan out of stars and awarded it editor s choice
+the review praised it for its user interface local backup options and security features but said its mobile and explorer based features were limited
+a product review on macworld gave crashplan a rating of out of and gartner in gave the enterprise version crashplan proe an excellent rating
+all things digital praised crashplan for its operating system support and configuration options
+also in ars technica said crashplan had better features and pricing options than its competitors
+comparison of online backup servicescode com official website
+crashplan com official website
+

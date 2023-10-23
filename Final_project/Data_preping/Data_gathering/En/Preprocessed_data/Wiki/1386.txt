@@ -1,0 +1,64 @@
+the power is a microprocessor developed by international business machines ibm that implemented the bit powerpc and powerpc as instruction set architectures
+released in the power succeeded the power and rs microprocessors enabling rs and eserver iseries models of as computer servers to run on the same processor as a step toward converging the two lines
+the power was a multicore microprocessor with two cores on a single die the first non embedded microprocessor to do so
+power chip was first commercially available multiprocessor chip
+the original power had a clock speed of and ghz while an enhanced version the power reached a clock speed of ghz
+the powerpc is a derivative of the power
+the power has a unified l cache divided into three equal parts
+each has its own independent l controller which can feed bytes of data per cycle
+the core interface unit ciu connects each l controller to either the data cache or instruction cache in either of the two processors
+the non cacheable nc unit is responsible for handling instruction serializing functions and performing any noncacheable operations in the storage topology
+there is an l cache controller but the actual memory is off chip
+the gx bus controller controls i o device communications and there are two byte wide gx buses one incoming and the other outgoing
+the fabric controller is the master controller for the network of buses controlling communications for both l l controllers communications between power chips way way way way and power mcm s
+trace and debug used for first failure data capture is provided
+there is also a built in self test function bist and performance monitoring unit pmu
+power on reset por is supported
+the power implements a superscalar microarchitecture through high frequency speculative out of order execution using eight independent execution units
+they are two floating point units fp two load store units ld two fixed point units fx a branch unit br and a conditional register unit cr
+these execution units can complete up to eight operations per clock not including the br and cr units
+each floating point unit can complete one fused multiply add per clock two operations
+each load store unit can complete one instruction per clock
+each fixed point unit can complete one instruction per clock the pipeline stages are
+branch prediction
+instruction fetch
+decode crack and group formation
+group dispatch and instruction issue
+load store unit operation
+load hit store
+store hit load
+load hit load
+instruction execution pipelinethe power also came in a configuration using a multi chip module mcm containing four power dies in a single package with up to mb of shared l ecc cache per mcm
+the power released in was an improved version of the power that ran at up to ghz
+it contained million transistors measured mm and was fabricated in a m soi cmos process with eight layers of copper interconnect
+ibm power microprocessors power focuses on memory bandwidth
+october
+microprocessor report
+ibm s power unveiling continues
+november
+microprocessor report
+power system microarchitecture pdf
+archived from the original pdf on
+retrieved
+tendler j
+dodson j
+fields jr h
+sinharoy
+power system microarchitecture
+ibm journal of research and development
+doi rd
+retrieved
+warnock j
+keaty j
+petrovick j
+clabes c
+kircher b
+krauter p
+restle b
+zoric c
+anderson
+the circuit and physical design of the power microprocessor
+ibm journal of research and development
+doi rd
+retrieved
+

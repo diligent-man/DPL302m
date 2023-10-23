@@ -1,0 +1,246 @@
+cell is a multi core microprocessor microarchitecture that combines a general purpose powerpc core of modest performance with streamlined coprocessing elements which greatly accelerate multimedia and vector processing applications as well as many other forms of dedicated computation
+it was developed by sony toshiba and ibm an alliance known as sti
+the architectural design and first implementation were carried out at the sti design center in austin texas over a four year period beginning march on a budget reported by sony as approaching us million
+cell is shorthand for cell broadband engine architecture commonly abbreviated cbea in full or cell be in part
+the first major commercial application of cell was in sony s playstation game console released in
+in may the cell based ibm roadrunner supercomputer became the first top linpack sustained petaflops system
+mercury computer systems also developed designs based on the cell
+the cell architecture includes a memory coherence architecture that emphasizes power efficiency prioritizes bandwidth over low latency and favors peak computational throughput over simplicity of program code
+for these reasons cell is widely regarded as a challenging environment for software development
+ibm provides a linux based development platform to help developers program for cell chips
+in mid sony computer entertainment toshiba corporation and ibm formed an alliance known as sti to design and manufacture the processor
+the sti design center opened in march
+the cell was designed over a period of four years using enhanced versions of the design tools for the power processor
+over engineers from the three companies worked together in austin with critical support from eleven of ibm s design centers
+during this period ibm filed many patents pertaining to the cell architecture manufacturing process and software environment
+an early patent version of the broadband engine was shown to be a chip package comprising four processing elements which was the patent s description for what is now known as the power processing element ppe
+each processing element would contain synergistic processing elements spes on the chip
+this chip package was supposed to run at a clock speed of ghz and with spes providing gigaflops each fp quarter precision the broadband engine was meant to have teraflops of raw computing power in theory
+the design with ppes and spes was never realized
+instead sony and ibm only manufactured a design with one ppe and spes
+this smaller design the cell broadband engine or cell be was fabricated using a nm soi process
+in march ibm announced that the nm version of cell be is in production at its plant at the time now globalfoundries in east fishkill new york with bandai namco entertainment using the cell be processor for their arcade board as well as the subsequent
+in february ibm announced that it would begin to fabricate cell processors with the nm process
+in may ibm introduced the high performance double precision floating point version of the cell processor the powerxcell i at the nm feature size
+in may an opteron and powerxcell i based supercomputer the ibm roadrunner system became the world s first system to achieve one petaflops and was the fastest computer in the world until third quarter
+the world s three most energy efficient supercomputers as represented by the green list are similarly based on the powerxcell i
+in august the nm cell processor was introduced in concert with sony s playstation slim
+by november ibm had discontinued the development of a cell processor with apus but was still developing other cell products
+on may sony computer entertainment confirmed some specifications of the cell processor that would be shipping in the then forthcoming playstation console
+this cell configuration has one ppe on the core with eight physical spes in silicon
+in the playstation one spe is locked out during the test process a practice which helps to improve manufacturing yields and another one is reserved for the os leaving free spes to be used by games code
+the target clock frequency at introduction is ghz
+the introductory design is fabricated using a nm soi process with initial volume production slated for ibm s facility in east fishkill new york
+the relationship between cores and threads is a common source of confusion
+the ppe core is dual threaded and manifests in software as two independent threads of execution while each active spe manifests as a single thread
+in the playstation configuration as described by sony the cell processor provides nine independent threads of execution
+on june ibm and mercury computer systems announced a partnership agreement to build cell based computer systems for embedded applications such as medical imaging industrial inspection aerospace and defense seismic processing and telecommunications
+mercury has since then released blades conventional rack servers and pci express accelerator boards with cell processors
+in the fall of ibm released the qs blade module using double cell be processors for tremendous performance in certain applications reaching a peak of gigaflops in fp quarter precision per module
+the qs based on the powerxcell i processor was used for the ibm roadrunner supercomputer
+mercury and ibm uses the fully utilized cell processor with eight active spes
+on april fixstars corporation released a pci express accelerator board based on the powerxcell i processor
+sony s high performance media computing server zego uses a ghz cell b e processor
+the cell broadband engine or cell as it is more commonly known is a microprocessor intended as a hybrid of conventional desktop processors such as the athlon and core families and more specialized high performance processors such as the nvidia and ati graphics processors gpus
+the longer name indicates its intended use namely as a component in current and future online distribution systems as such it may be utilized in high definition displays and recording equipment as well as hdtv systems
+additionally the processor may be suited to digital imaging systems medical scientific etc and physical simulation e g scientific and structural engineering modeling
+in a simple analysis the cell processor can be split into four components external input and output structures the main processor called the power processing element ppe a two way simultaneous multithreaded powerpc core eight fully functional co processors called the synergistic processing elements or spes and a specialized high bandwidth circular data bus connecting the ppe input output elements and the spes called the element interconnect bus or eib
+to achieve the high performance needed for mathematically intensive tasks such as decoding encoding mpeg streams generating or transforming three dimensional data or undertaking fourier analysis of data the cell processor marries the spes and the ppe via eib to give access via fully cache coherent dma direct memory access to both main memory and to other external data storage
+to make the best of eib and to overlap computation and data transfer each of the nine processing elements ppe and spes is equipped with a dma engine
+since the spe s load store instructions can only access its own local scratchpad memory each spe entirely depends on dmas to transfer data to and from the main memory and other spes local memories
+a dma operation can transfer either a single block area of size up to kb or a list of to such blocks
+one of the major design decisions in the architecture of cell is the use of dmas as a central means of intra chip data transfer with a view to enabling maximal asynchrony and concurrency in data processing inside a chip
+the ppe which is capable of running a conventional operating system has control over the spes and can start stop interrupt and schedule processes running on the spes
+to this end the ppe has additional instructions relating to the control of the spes
+unlike spes the ppe can read and write the main memory and the local memories of spes through the standard load store instructions
+despite having turing complete architectures the spes are not fully autonomous and require the ppe to prime them before they can do any useful work
+as most of the horsepower of the system comes from the synergistic processing elements the use of dma as a method of data transfer and the limited local memory footprint of each spe pose a major challenge to software developers who wish to make the most of this horsepower demanding careful hand tuning of programs to extract maximal performance from this cpu
+the ppe and bus architecture includes various modes of operation giving different levels of memory protection allowing areas of memory to be protected from access by specific processes running on the spes or the ppe
+both the ppe and spe are risc architectures with a fixed width bit instruction format
+the ppe contains a bit general purpose register set gpr a bit floating point register set fpr and a bit altivec register set
+the spe contains bit registers only
+these can be used for scalar data types ranging from bits to bits in size or for simd computations on a variety of integer and floating point formats
+system memory addresses for both the ppe and spe are expressed as bit values for a theoretic address range of bytes exabytes or terabytes
+in practice not all of these bits are implemented in hardware
+local store addresses internal to the spu synergistic processor unit processor are expressed as a bit word
+in documentation relating to cell a word is always taken to mean bits a doubleword means bits and a quadword means bits
+in ibm announced a revised variant of the cell called the powerxcell i which is available in qs blade servers from ibm
+the powerxcell is manufactured on a nm process and adds support for up to gb of slotted ddr memory as well as dramatically improving double precision floating point performance on the spes from a peak of about gflops to gflops total for eight spes which coincidentally is the same peak performance as the nec sx vector processor released around the same time
+the ibm roadrunner supercomputer the world s fastest during consisted of powerxcell i processors along with amd opteron processors
+the powerxcell i powered super computers also dominated all of the top greenest systems in the green list with highest mflops watt ratio supercomputers in the world
+beside the qs and supercomputers the powerxcell processor is also available as an accelerator on a pci express card and is used as the core processor in the qpace project
+since the powerxcell i removed the rambus memory interface and added significantly larger ddr interfaces and enhanced spes the chip layout had to be reworked which resulted in both larger chip die and packaging
+while the cell chip can have a number of different configurations the basic configuration is a multi core chip composed of one power processor element ppe sometimes called processing element or pe and multiple synergistic processing elements spe
+the ppe and spes are linked together by an internal high speed bus dubbed element interconnect bus eib
+the ppe is the powerpc based dual issue in order two way simultaneous multithreaded cpu core with a stage pipeline acting as the controller for the eight spes which handle most of the computational workload
+ppe has limited out of order execution capabilities it can perform loads out of order and has delayed execution pipelines
+the ppe will work with conventional operating systems due to its similarity to other bit powerpc processors while the spes are designed for vectorized floating point code execution
+the ppe contains a kib level cache kib instruction and a kib data and a kib level cache
+the size of a cache line is bytes
+additionally ibm has included an altivec vmx unit which is fully pipelined for single precision floating point altivec does not support double precision floating point vectors bit fixed point unit fxu with bit register file per thread load and store unit lsu bit floating point unit fpu branch unit bru and branch execution unit bxu
+ppe consists of three main units instruction unit iu execution unit xu and vector scalar execution unit vsu
+iu contains l instruction cache branch prediction hardware instruction buffers and dependency checking logic
+xu contains integer execution units fxu and load store unit lsu
+vsu contains all of the execution resources for fpu and vmx
+each ppe can complete two double precision operations per clock cycle using a scalar fused multiply add instruction which translates to gflops at ghz or eight single precision operations per clock cycle with a vector fused multiply add instruction which translates to gflops at ghz
+the ppe was designed specifically for the cell processor but during development microsoft approached ibm wanting a high performance processor core for its xbox
+ibm complied and made the tri core xenon processor based on a slightly modified version of the ppe with added vmx extensions
+each spe is a dual issue in order processor composed of a synergistic processing unit spu and a memory flow controller mfc dma mmu and bus interface
+spes do not have any branch prediction hardware hence there is a heavy burden on the compiler
+each spe has execution units divided among odd and even pipelines on each spe the spu runs a specially developed instruction set isa with bit simd organization for single and double precision instructions
+with the current generation of the cell each spe contains a kib embedded sram for instruction and data called local storage not to be mistaken for local memory in sony s documents that refer to the vram which is visible to the ppe and can be addressed directly by software
+each spe can support up to gib of local store memory
+the local store does not operate like a conventional cpu cache since it is neither transparent to software nor does it contain hardware structures that predict which data to load
+the spes contain a bit entry register file and measures mm on a nm process
+an spe can operate on sixteen bit integers eight bit integers four bit integers or four single precision floating point numbers in a single clock cycle as well as a memory operation
+note that the spu cannot directly access system memory the bit virtual memory addresses formed by the spu must be passed from the spu to the spe memory flow controller mfc to set up a dma operation within the system address space
+in one typical usage scenario the system will load the spes with small programs similar to threads chaining the spes together to handle each step in a complex operation
+for instance a set top box might load programs for reading a dvd video and audio decoding and display and the data would be passed off from spe to spe until finally ending up on the tv
+another possibility is to partition the input data set and have several spes performing the same kind of operation in parallel
+at ghz each spe gives a theoretical gflops of single precision performance
+compared to its personal computer contemporaries the relatively high overall floating point performance of a cell processor seemingly dwarfs the abilities of the simd unit in cpus like the pentium and the athlon
+however comparing only floating point abilities of a system is a one dimensional and application specific metric
+unlike a cell processor such desktop cpus are more suited to the general purpose software usually run on personal computers
+in addition to executing multiple instructions per clock processors from intel and amd feature branch predictors
+the cell is designed to compensate for this with compiler assistance in which prepare to branch instructions are created
+for double precision floating point operations as sometimes used in personal computers and often used in scientific computing cell performance drops by an order of magnitude but still reaches gflops gflops per spe gflops per ppe
+the powerxcell i variant which was specifically designed for double precision reaches gflops in double precision calculations
+tests by ibm show that the spes can reach of their theoretical peak performance running optimized parallel matrix multiplication
+toshiba has developed a co processor powered by four spes but no ppe called the spursengine designed to accelerate d and movie effects in consumer electronics
+each spe has a local memory of kb
+in total the spes have mb of local memory
+the eib is a communication bus internal to the cell processor which connects the various on chip system elements the ppe processor the memory controller mic the eight spe coprocessors and two off chip i o interfaces for a total of participants in the ps the number of spu can vary in industrial applications
+the eib also includes an arbitration unit which functions as a set of traffic lights
+in some documents ibm refers to eib participants as units
+the eib is presently implemented as a circular ring consisting of four byte wide unidirectional channels which counter rotate in pairs
+when traffic patterns permit each channel can convey up to three transactions concurrently
+as the eib runs at half the system clock rate the effective channel rate is bytes every two system clocks
+at maximum concurrency with three active transactions on each of the four rings the peak instantaneous eib bandwidth is bytes per clock concurrent transactions bytes wide system clocks per transfer
+while this figure is often quoted in ibm literature it is unrealistic to simply scale this number by processor clock speed
+the arbitration unit imposes additional constraints
+ibm senior engineer david krolak eib lead designer explains the concurrency model
+each participant on the eib has one byte read port and one byte write port
+the limit for a single participant is to read and write at a rate of bytes per eib clock for simplicity often regarded bytes per system clock
+each spu processor contains a dedicated dma management queue capable of scheduling long sequences of transactions to various endpoints without interfering with the spu s ongoing computations these dma queues can be managed locally or remotely as well providing additional flexibility in the control model
+data flows on an eib channel stepwise around the ring
+since there are twelve participants the total number of steps around the channel back to the point of origin is twelve
+six steps is the longest distance between any pair of participants
+an eib channel is not permitted to convey data requiring more than six steps such data must take the shorter route around the circle in the other direction
+the number of steps involved in sending the packet has very little impact on transfer latency the clock speed driving the steps is very fast relative to other considerations
+however longer communication distances are detrimental to the overall performance of the eib as they reduce available concurrency
+despite ibm s original desire to implement the eib as a more powerful cross bar the circular configuration they adopted to spare resources rarely represents a limiting factor on the performance of the cell chip as a whole
+in the worst case the programmer must take extra care to schedule communication patterns where the eib is able to function at high concurrency levels
+david krolak explained
+at ghz each channel flows at a rate of gb s
+viewing the eib in isolation from the system elements it connects achieving twelve concurrent transactions at this flow rate works out to an abstract eib bandwidth of gb s
+based on this view many ibm publications depict available eib bandwidth as greater than gb s
+this number reflects the peak instantaneous eib bandwidth scaled by processor frequency
+however other technical restrictions are involved in the arbitration mechanism for packets accepted onto the bus
+the ibm systems performance group explained
+this quote apparently represents the full extent of ibm s public disclosure of this mechanism and its impact
+the eib arbitration unit the snooping mechanism and interrupt generation on segment or page translation faults are not well described in the documentation set as yet made public by ibm
+in practice effective eib bandwidth can also be limited by the ring participants involved
+while each of the nine processing cores can sustain gb s read and write concurrently the memory interface controller mic is tied to a pair of xdr memory channels permitting a maximum flow of gb s for reads and writes combined and the two io controllers are documented as supporting a peak combined input speed of gb s and a peak combined output speed of gb s
+to add further to the confusion some older publications cite eib bandwidth assuming a ghz system clock
+this reference frame results in an instantaneous eib bandwidth figure of gb s and an arbitration limited bandwidth figure of gb s
+all things considered the theoretic gb s number most often cited is the best one to bear in mind
+the ibm systems performance group has demonstrated spu centric data flows achieving gb s on a cell processor running at ghz so this number is a fair reflection on practice as well
+cell contains a dual channel rambus xio macro which interfaces to rambus xdr memory
+the memory interface controller mic is separate from the xio macro and is designed by ibm
+the xio xdr link runs at gbit s per pin
+two bit channels can provide a theoretical maximum of gb s
+the i o interface also a rambus design is known as flexio
+the flexio interface is organized into lanes each lane being a unidirectional bit wide point to point path
+five bit wide point to point paths are inbound lanes to cell while the remaining seven are outbound
+this provides a theoretical peak bandwidth of gb s gb s outbound gb s inbound at ghz
+the flexio interface can be clocked independently typ
+at ghz
+inbound outbound lanes are supporting memory coherency
+some companies such as leadtek have released pci e cards based upon the cell to allow for faster than real time transcoding of h mpeg and mpeg video
+on august ibm announced the bladecenter qs
+generating a measured giga floating point operations per second gigaflops per watt with peak performance of approximately gflops it is one of the most power efficient computing platforms to date
+a single bladecenter chassis can achieve tera floating point operations per second teraflops and over teraflops in a standard u rack
+on may ibm announced the bladecenter qs
+the qs introduces the powerxcell i processor with five times the double precision floating point performance of the qs and the capacity for up to gb of ddr memory on blade
+ibm has discontinued the blade server line based on cell processors as of january
+several companies provide pci e boards utilising the ibm powerxcell i
+the performance is reported as gflops sp gflops dp at ghz
+sony s playstation video game console was the first production application of the cell processor clocked at ghz and containing seven out of eight operational spes to allow sony to increase the yield on the processor manufacture
+only six of the seven spes are accessible to developers as one is reserved by the os
+toshiba has produced hdtvs using cell
+they presented a system to decode standard definition mpeg streams simultaneously on a screen
+this can enable a viewer to choose a channel based on dozens of thumbnail videos displayed simultaneously on the screen
+ibm s supercomputer ibm roadrunner was a hybrid of general purpose x opteron as well as cell processors
+this system assumed the spot on the june top list as the first supercomputer to run at petaflops speeds having gained a sustained petaflops speed using the standard linpack benchmark
+ibm roadrunner used the powerxcell i version of the cell processor manufactured using nm technology and enhanced spus that can handle double precision calculations in the bit registers reaching double precision gflops per chip
+clusters of playstation consoles are an attractive alternative to high end systems based on cell blades
+innovative computing laboratory a group led by jack dongarra in the computer science department at the university of tennessee investigated such an application in depth
+terrasoft solutions is selling node and node ps clusters with yellow dog linux pre installed an implementation of dongarra s research
+as first reported by wired on october an interesting application of using playstation in a cluster configuration was implemented by astrophysicist gaurav khanna from the physics department of university of massachusetts dartmouth who replaced time used on supercomputers with a cluster of eight playstation s
+subsequently the next generation of this machine now called the playstation gravity grid uses a network of machines and exploits the cell processor for the intended application which is binary black hole coalescence using perturbation theory
+in particular the cluster performs astrophysical simulations of large supermassive black holes capturing smaller compact objects and has generated numerical data that has been published multiple times in the relevant scientific research literature
+the cell processor version used by the playstation has a main cpu and spes available to the user giving the gravity grid machine a net of general purpose processors and vector processors
+the machine has a one time cost of to build and is adequate for black hole simulations which would otherwise cost per run on a conventional supercomputer
+the black hole calculations are not memory intensive and are highly localizable and so are well suited to this architecture
+khanna claims that the cluster s performance exceeds that of a intel xeon core based traditional linux cluster on his simulations
+the ps gravity grid gathered significant media attention through and
+the computational biochemistry and biophysics lab at the universitat pompeu fabra in barcelona deployed in a boinc system called ps grid for collaborative computing based on the cellmd software the first one designed specifically for the cell processor
+the united states air force research laboratory has deployed a playstation cluster of over units nicknamed the condor cluster for analyzing high resolution satellite imagery
+the air force claims the condor cluster would be the rd largest supercomputer in the world in terms of capacity
+the lab has opened up the supercomputer for use by universities for research
+with the help of the computing power of over half a million playstation consoles the distributed computing project folding home has been recognized by guinness world records as the most powerful distributed network in the world
+the first record was achieved on september as the project surpassed one petaflops which had never previously been attained by a distributed computing network
+additionally the collective efforts enabled ps alone to reach the petaflops mark on september
+in comparison the world s second most powerful supercomputer at the time ibm s bluegene l performed at around teraflops which means folding home s computing power is approximately twice bluegene l s although the cpu interconnect in bluegene l is more than one million times faster than the mean network speed in folding home
+as of may folding home runs at about x petaflops with petaflops generated by active ps s alone
+ibm announced on april that it would begin integrating its cell broadband engine architecture microprocessors into the company s line of mainframes
+this has led to a gameframe
+the architecture of the processor makes it better suited to hardware assisted cryptographic brute force attack applications than conventional processors
+due to the flexible nature of the cell there are several possibilities for the utilization of its resources not limited to just different computing paradigms
+the ppe maintains a job queue schedules jobs in spes and monitors progress
+each spe runs a mini kernel whose role is to fetch a job execute it and synchronize with the ppe
+the mini kernel and scheduling is distributed across the spes
+tasks are synchronized using mutexes or semaphores as in a conventional operating system
+ready to run tasks wait in a queue for an spe to execute them
+the spes use shared memory for all tasks in this configuration
+each spe runs a distinct program
+data comes from an input stream and is sent to spes
+when an spe has terminated the processing the output data is sent to an output stream
+this provides a flexible and powerful architecture for stream processing and allows explicit scheduling for each spe separately
+other processors are also able to perform streaming tasks but are limited by the kernel loaded
+in patches enabling cell support in the linux kernel were submitted for inclusion by ibm developers
+arnd bergmann one of the developers of the aforementioned patches also described the linux based cell architecture at linuxtag
+as of release march the linux kernel officially supports the cell processor
+both ppe and spes are programmable in c c using a common api provided by libraries
+fixstars solutions provides yellow dog linux for ibm and mercury cell based systems as well as for the playstation
+terra soft strategically partnered with mercury to provide a linux board support package for cell and support and development of software applications on various other cell platforms including the ibm bladecenter js and cell qs and mercury cell based solutions
+terra soft also maintains the y hpc high performance computing cluster construction and management suite and y bio gene sequencing tools
+y bio is built upon the rpm linux standard for package management and offers tools which help bioinformatics researchers conduct their work with greater efficiency
+ibm has developed a pseudo filesystem for linux coined spufs that simplifies access to and use of the spe resources
+ibm is currently maintaining a linux kernel and gdb ports while sony maintains the gnu toolchain gcc binutils
+in november ibm released a cell broadband engine cbe software development kit version consisting of a simulator and assorted tools to its web site
+development versions of the latest kernel and tools for fedora core are maintained at the barcelona supercomputing center website
+in august mercury computer systems released a software development kit for playstation for high performance computing
+in november fixstars corporation released the new cvcell module aiming to accelerate several important opencv apis for cell
+in a series of software calculation tests they recorded execution times on a ghz cell processor that were between x and x faster compared with the same software on a ghz intel core duo
+illustrations of the different generations of cell b e
+processors and the powerxcell i
+the images are not to scale all cell b e
+packages measures mm and the powerxcell i measures mm
+sti center of competence for the cell processor
+adapteva epiphany architecture a similar network on a chip with local stores and dma but more cores and easier off core communication
+vision processing unit an emerging class of processor with some similar features
+mpsoc
+octopiler
+xenon processor
+ibm powerpccell broadband engine resource center
+sony computer entertainment incorporated s cell resource page
+cmpware configurable multiprocessor development kit for cell be
+isscc the cell microprocessor a comprehensive overview of the cell microarchitecture
+holy chip
+the little broadband engine that could
+introducing the ibm sony toshiba cell processor part i the simd processing units
+introducing the ibm sony toshiba cell processor part ii the cell architecture
+the soul of cell an interview with dr
+peter hofstee
+

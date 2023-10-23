@@ -1,0 +1,32 @@
+beonex communicator is a discontinued open source internet suite based on the mozilla application suite mas by ben bucksch a german mozilla developer
+it was intended to have a higher security and privacy level than other commercial products
+the internet suite contains a web browser an email and news client an html editor based on mozilla composer and an irc client based on chatzilla
+beonex business services offered the suite for free and provided documentation easy install routines for third party plug ins and tried to sell support and customer specific changes on the browser
+the main goal was to implement kerberos openpgp and ldap in beonex but that was marked as failed in mid
+it was discontinued before reaching production release stage
+mozilla organization stated that the mozilla application suite was only for developers and testing purposes and was not meant for end users
+on january beonex was included in the linux distribution kmlinux version s but was removed in version s released on march
+beonex was released in june received positive reviews about its speed
+beonex launcher beol spoken b o l was an additional upcoming product that never left alpha status it was a stripped down version of beonex communicator a web browser combined with an email client and a chat client
+with a few preview releases of version in mid bucksch showed some new features he wanted to integrate but before this version gained a stable status he announced on march that no new releases were planned until the mozilla foundation decided its future policy
+in the mozilla foundation officially changed its policies and created the mozilla corporation to provide end user support
+beonex communicator stable has several known security issues
+beonex never received much market share
+in october the distributor of beonex joined the coalition for app fairness which defends the rights of app developers
+the browser does not transmit referrers by default and has the possibility to create a fake referrers
+the browser deletes all cookies upon exiting and disables several javascript functions which could have served as attack vectors
+beonex also allows changing the user agent
+in the following comparison table not all releases of netscape and mas are included
+for a more complete table see gecko layout engine
+in contrast with netscape beonex has included nearly the same features except the proprietary parts like the integrated net phone and the aol instant messenger
+for online chatting chatzilla was integrated and the sidebar and the search engines are also pre configured
+beonex is less resource intensive than netscape
+beonex includes a migration tool to import old profiles from netscape communicator
+beonex communicator was not a fork of mas rather it was a separate branch so no significant changes were made
+html email and javascript are turned off by default and thus it displays email only in plain text with bold and cursive additions which were added later in mas
+the search engines is compatible with the mycroft project and is located in the sidebar providing more features
+beonex
+beonex
+freecode
+beonex communicator screenshots flickr
+

@@ -1,0 +1,13 @@
+The fallacy of exclusive premises is a syllogistic fallacy committed in a categorical syllogism that is invalid because both of its premises are negative.
+Example of an EOO-4 type invalid syllogism
+E Proposition: No cats are dogs.
+O Proposition: Some dogs are not pets.
+O Proposition: Therefore, some pets are not cats.Explanation of Example 1:
+This may seem like a logical conclusion, as it appears to be logically derived that if Some dogs are not pets, then surely some are pets, otherwise, the premise would have stated "No Dogs are pets", and if some pets are dogs, then not all pets can be cats, thus, some pets are not cats. But if this assumption is applied to the final statement then we have drawn the conclusion: some pets are cats.  But this is not supported by either premise.  Cats not being dogs, and the state of dogs as either pets or not, has nothing to do with whether cats are pets.  Two negative premises cannot give a logical foundation for a conclusion, as they will invariably be independent statements that cannot be directly related, thus the name 'Exclusive Premises'.  It is made more clear when the subjects in the argument are more clearly unrelated such as the following:Additional Example of an EOO-4 invalid syllogism
+E Proposition: No planets are dogs.
+O Proposition: Some dogs are not pets.
+O Proposition: Therefore, some pets are not planets.Explanation of Example 2:
+In this example we can more clearly see that the physical difference between a dog and a planet isn't causally linked to the domestication of dogs.  The two premises are exclusive and the subsequent conclusion is nonsense, as the transpose would imply that some pets are planets.Conclusion:
+The verisimilitude of the final statement is not relevant in this fallacy.  The conclusions in both examples are uncontroversial; however, both are argued on fallacious logic and would not hold up as valid arguments.Affirmative conclusion from a negative premise, in which a syllogism is invalid because the conclusion is affirmative yet one of the premises is negative
+Negative conclusion from affirmative premises, in which a syllogism is invalid because the conclusion is negative yet the premises are affirmativeSyllogistic Fallacies: Exclusive Premises
+Stephen Downes Guide to the Logical Fallacies: Exclusive Premises

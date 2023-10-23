@@ -1,0 +1,80 @@
+markets
+fear greed index
+latest market news
+in the space of a week a year old entrepreneur once hailed as a modern day j p
+morgan watched his digital empire including billions of his own fortune evaporate in a death spiral that s shaken the foundations of the trillion dollar crypto industry
+on thursday sam bankman fried issued a mea culpa i f ked up he wrote in a lengthy twitter thread apologizing to investors and customers of ftx the exchange platform he founded in
+by friday morning ftx said bankman fried had resigned as ceo and that the firm was filing for bankruptcy
+gold standard crypto exchange ftx files for bankruptcy
+ceo resigns
+failures are not uncommon in the murky largely unregulated world of crypto but ftx is not your average crypto startup
+its near collapse this week represents a potential turning point for an industry that many critics say has been given a pass for far too long
+so what happened to ftx and why is the entire crypto space freaking out about it there are still a lot of uncertainties but here s what we know
+last week the crypto news website coindesk published an article based on a leaked financial document from bankman fried s hedge fund alameda research
+the report suggested that alameda s business rested on shaky financial footing
+namely that the bulk of its assets are held in ftt a digital token minted by alameda s sister firm ftx
+that was a red flag for investors as the companies were on paper at least separate
+alameda s disproportionate holdings of the token however suggested the two were much more closely linked
+on sunday the ceo of binance ftx s much larger rival said his company was liquidating million worth of ftx holdings
+that set off a firestorm of draw downs that ftx didn t have the cash to facilitate
+by monday concerns about alameda and ftx had bled into the broader crypto market
+but bankman fried was defiant tweeting that ftx and its assets were fine he also sparred with the ceo of binance changpeng zhao whose tweet had fueled the run on ftx deposits
+there was clearly bad blood between the two which is why it shocked the industry when the pair announced a tentative deal tuesday for binance to bail out ftx
+this afternoon ftx asked for our help zhao tweeted that afternoon noting that there was a significant liquidity crunch at the company and that binance would have to conduct corporate due diligence before going forward with any deal
+almost immediately after getting a look at under the hood though binance began to backtrack
+meanwhile bankman fried s personal fortune also tumbled
+according to the bloomberg billionaire index bankman fried s net worth cratered in a single day from more than billion to just under billion the biggest one day loss ever clocked by the index
+the estimate of his wealth was based on the assumption that binance would ultimately bail out ftx where much of bankman fried s personal assets are held
+which means his net worth may have farther to fall
+on wednesday cryptocurrencies continued to slump as investor anxiety about the ftx bailout spread
+bitcoin and ether the two most popular tokens both hit their lowest level in two years
+the selloff deepened after media reports emerged that binance was leaning toward walking away from the deal
+sure enough on wednesday afternoon zhao tweeted a withering assessment of ftx s problems
+in the beginning our hope was to be able to support ftx s customers to provide liquidity but the issues are beyond our control or ability to help
+he also alluded to allegations of mishandled funds and investigations by us regulators
+binance was out
+ftx s best shot at a lifeline was gone
+the full extent of ftx s financial problems aren t yet known but multiple reports say the firm is facing an billion shortfall
+without a quick infusion of equity bankman fried reportedly told investors thursday the firm was facing bankruptcy
+since the binance deal fell apart bankman fried has been scrambling to raise funds
+on thursday tweeted that there were a number of players the firm was in talks with
+we re spending the week doing everything we can to raise liquidity he wrote in his apology thread
+every penny of that plus the remaining collateral will go toward making users whole followed by investors and employees
+despite its reputation as a dependable low risk investment portal ftx s business appears to have been built on a complex extremely risky kind of leveraged trading
+customers deposited their money to engage in crypto trading
+but it appears that ftx instead took billions of dollars worth of that money and loaned it out to its sister firm alameda to fund those high risk bets according to the wall street journal
+bloomberg columnist matt levine put it another way ftx took its customers money and traded it for a pile of magic beans and now the beans are worthless
+at the end of the day ftx experienced the crypto equivalent of a classic bank run
+customers wanted their money out and ftx didn t have it
+in traditional finance customers funds are protected by the federal deposit insurance corporation which insures deposits
+the fdic does not insure stocks or cryptocurrencies however leaving the fate of ftx s customers and investors in question
+one of those investors was the ontario teachers pension plan which said it invested million in both ftx international and its us entity to gain small scale exposure to an emerging area in the financial technology sector in a statement thursday the plan noted that any loss on its investment would have limited impact as it represents less than of its total net assets
+after a chaotic week ftx filed for bankruptcy
+in a statement ftx said john ray iii has been appointed the new ceo and that many exchange employees are expected to stay on to run the firm as it goes through the chapter process
+ray said bankruptcy protection will give ftx the chance to assess its situation and develop a process to maximize recoveries for stakeholders
+regulators are now swirling to investigate what went wrong at ftx and some lawmakers are demanding a crackdown
+securities regulators in the bahamas where ftx is based froze some of the embattled exchange s assets on thursday
+both the justice department and securities and exchange commission are investigating ftx according to the wall street journal
+the doj declined to comment and the sec said it does not comment on the existence or nonexistence of investigations
+the collapse of ftx is a loud warning bell that cryptocurrencies can fail democratic sen
+sherrod brown the chairman of the senate banking committee said in a statement on thursday
+and just like we saw with over the counter derivatives that led to a financial crisis these failures can have a ripple effect on consumers and other parts of our financial system
+most stock quote data provided by bats
+us market indices are shown in real time except for the s p which is refreshed every two minutes
+all times are et
+factset factset research systems inc
+all rights reserved
+chicago mercantile certain market data is the property of chicago mercantile exchange inc
+and its licensors
+all rights reserved
+dow jones the dow jones branded indices are proprietary to and are calculated distributed and marketed by dji opco a subsidiary of s p dow jones indices llc and have been licensed for use to s p opco llc and cnn
+standard poor s and s p are registered trademarks of standard poor s financial services llc and dow jones is a registered trademark of dow jones trademark holdings llc
+all content of the dow jones branded indices copyright s p dow jones indices llc and or its affiliates
+fair value provided by indexarb com
+market holidays and trading hours provided by copp clark limited
+cable news network
+a warner bros
+discovery company
+all rights reserved
+cnn sans cable news network
+

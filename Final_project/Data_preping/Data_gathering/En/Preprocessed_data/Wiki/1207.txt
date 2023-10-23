@@ -1,0 +1,46 @@
+this is a list of calendars
+included are historical calendars as well as proposed ones
+historical calendars are often grouped into larger categories by cultural sphere or historical period thus o neil distinguishes the groupings egyptian calendars ancient egypt babylonian calendars ancient mesopotamia indian calendars hindu and buddhist traditions of the indian subcontinent chinese calendars and mesoamerican calendars
+these are not specific calendars but series of historical calendars undergoing reforms or regional diversification
+in classical antiquity the hellenic calendars inspired the roman calendar including the solar julian calendar introduced in bc
+many modern calendar proposals including the gregorian calendar introduced in ad contains modifications from that of the julian calendar
+in the list below specific calendars are given listed by calendar type solar lunisolar or lunar time of introduction if known and the context of use and cultural or historical grouping if applicable
+where appropriate the regional or historical group hijri calendar mayan aztecan egyptian mesopotamian iranian hindu buddhist pre columbian mesoamerican hellenic julian or gregorian derived is noted
+calendars fall into four types lunisolar solar lunar and seasonal
+most pre modern calendars are lunisolar
+the seasonal calendars rely on changes in the environment e g wet season dry season rather than lunar or solar observations
+the islamic and some buddhist calendars are lunar while most modern calendars are solar based on either the julian or the gregorian calendars
+some calendars listed are identical to the gregorian calendar except for substituting regional month names or using a different calendar epoch
+for example the thai solar calendar introduced is the gregorian calendar using a different epoch bc and different names for the gregorian months thai names based on the signs of the zodiac
+regional or historical names for lunations or julian gregorian months
+coordinated universal time adopted and since including a system of observation based leap seconds
+iso standard based on the gregorian calendar coordinated universal time and iso week date a leap week calendar system used with the gregorian calendar
+fiscal year varies with different countries
+used in accounting only
+day calendar used for accounting
+day calendar used for accounting
+unix time number of seconds elapsed since january utc
+julian day number of days elapsed since january bc utc
+heliocentric julian date julian day corrected for differences in the earth s position with respect to the sun
+barycentric julian date julian day corrected for differences in the earth s position with respect to the barycentre of the solar system
+lilian date number of days elapsed since the beginning of the gregorian calendar on october
+rata die number of days elapsed since january ad in the proleptic gregorian calendar darian calendar proposed for mars not used in planetary science
+discworld calendar fictional
+middle earth calendars fictional
+stardates from star trek fictional history of calendars
+epoch
+horology
+perpetual calendar
+liturgical year
+calendar of saints
+advent calendar
+wall calendar
+geologic calendar
+cosmic calendar
+lunar calendar
+world calendarbrian williams calendars cherrytree books
+sacha stern calendars in antiquity empires states and societies oup oxford
+william matthew o neil time and the calendars manchester university press
+anthony f
+aveni empires of time calendars clocks and cultures tauris parke paperbacks
+

@@ -1,0 +1,16 @@
+tez was a mobile payments service by google targeted at users in india later folded into the new google pay app on august
+it operated atop the unified payments interface developed by the national payments corporation of india
+tez worked on the vast majority of india s smartphones with apps for both android and ios with the android app supporting english hindi tamil bengali gujarati kannada marathi and telugu
+there were plans to release the app in other emerging countries including vietnam indonesia and thailand
+tez is the hindi word for fast
+within days after being launched tez got about million installations
+over million transactions were made on the app as of october
+tez is currently accepted by pvr cinemas redbus mcdonald s act broadband state government electricity boards and is expected to be joined by a number of other businesses like dish tv jet airways and domino s vi voda idea swiggy zomato uber ola clubfactory zappfresh amazon flipkart and many more businesses
+google is also working with existing advertisers and online e commerce platforms like shopify and payment aggregators like billdesk and payu
+google also plans to add even more ways to pay on tez e g credit cards and wallets
+select phones from manufacturer partners lava nokia mobile and panasonic will come in with tez preinstalled
+the app is compatible with the vast majority of android and ios devices
+the application does not require users to share any personal information such as mobile numbers or usernames like other payment applications
+instead it uses audio qr codes that rely on sound transmitted at a frequency inaudible to the human ear from the payee handset to the merchant handset
+this technology does away with the need for nfc chips on the handsets giving it an advantage because a significant number of smartphones in india and other developing markets do not have nfc chips embedded
+

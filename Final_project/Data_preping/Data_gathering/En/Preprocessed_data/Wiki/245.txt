@@ -1,0 +1,15 @@
+sycamore is a quantum processor created by google s artificial intelligence division
+it has qubits
+in sycamore completed a task in seconds that google claimed in a nature paper would take a state of the art supercomputer years to finish
+thus google claimed to have achieved quantum supremacy
+to estimate the time that would be taken by a classical supercomputer google ran portions of the quantum circuit simulation on the summit the most powerful classical computer in the world
+later ibm made a counter argument claiming that the task would only take days on a classical system like summit
+if google s claims are upheld then it would represent an exponential leap in computing power
+in august quantum engineers working for google reported the largest chemical simulation on a quantum computer a hartree fock approximation with sycamore paired with a classical computer that analyzed results to provide new parameters for the qubit system
+in april researchers working with sycamore reported that they were able to realize the ground state of the toric code a topologically ordered state with qubits
+they showed long range entanglement properties of the state by measuring non zero topological entropy simulating anyon interferometry and their braiding statistics and preparing a topological quantum error correcting code with one logical qubit
+in july a collaboration consisting of google and multiple universities reported the observation of a discrete time crystal on the sycamore processor
+the chip of qubits was used to obtain a many body localization configuration of up and down spins
+the configuration was stimulated with a laser to achieve a periodically driven floquet system where all up spins are flipped for down and vice versa in periodic cycles which are multiples of the laser s cycles
+no energy was absorbed from the laser so the system remained in a protected eigenstate order
+

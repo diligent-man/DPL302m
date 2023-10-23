@@ -1,0 +1,134 @@
+the abo blood group system is used to denote the presence of one both or neither of the a and b antigens on erythrocytes
+for human blood transfusions it is the most important of the different blood type or group classification systems currently recognized by the international society of blood transfusions isbt as of june
+a mismatch very rare in modern medicine in this or any other serotype can cause a potentially fatal adverse reaction after a transfusion or an unwanted immune response to an organ transplant
+the associated anti a and anti b antibodies are usually igm antibodies produced in the first years of life by sensitization to environmental substances such as food bacteria and viruses
+the abo blood types were discovered by karl landsteiner in he received the nobel prize in physiology or medicine in for this discovery
+abo blood types are also present in other primates such as apes and old world monkeys
+the abo blood types were first discovered by an austrian physician karl landsteiner working at the pathological anatomical institute of the university of vienna now medical university of vienna
+in he found that red blood cells would clump together agglutinate when mixed in test tubes with sera from different persons and that some human blood also agglutinated with animal blood
+he wrote a two sentence footnote
+this was the first evidence that blood variations exist in humans it was believed that all humans have similar blood
+the next year in he made a definitive observation that blood serum of an individual would agglutinate with only those of certain individuals
+based on this he classified human blood into three groups namely group a group b and group c
+he defined that group a blood agglutinates with group b but never with its own type
+similarly group b blood agglutinates with group a
+group c blood is different in that it agglutinates with both a and b
+this was the discovery of blood groups for which landsteiner was awarded the nobel prize in physiology or medicine in
+in his paper he referred to the specific blood group interactions as isoagglutination and also introduced the concept of agglutinins antibodies which is the actual basis of antigen antibody reaction in the abo system
+he asserted
+thus he discovered two antigens agglutinogens a and b and two antibodies agglutinins anti a and anti b
+his third group c indicated absence of both a and b antigens but contains anti a and anti b
+the following year his students adriano sturli and alfred von decastello discovered the fourth type but not naming it and simply referred to it as no particular type
+in ludwik hirszfeld and emil freiherr von dungern introduced the term o null for the group landsteiner designated as c and ab for the type discovered by sturli and von decastello
+they were also the first to explain the genetic inheritance of the blood groups
+czech serologist jan jansk independently introduced blood type classification in in a local journal
+he used the roman numerical i ii iii and iv corresponding to modern o a b and ab
+unknown to jansk an american physician william l
+moss devised a slightly different classification using the same numerical his i ii iii and iv corresponding to modern ab a b and o
+these two systems created confusion and potential danger in medical practice
+moss s system was adopted in britain france and us while jansk s was preferred in most european countries and some parts of us
+to resolve the chaos the american association of immunologists the society of american bacteriologists and the association of pathologists and bacteriologists made a joint recommendation in that the jansky classification be adopted based on priority
+but it was not followed particularly where moss s system had been used
+in landsteiner had moved to the rockefeller institute for medical research in new york
+as a member of a committee of the national research council concerned with blood grouping he suggested to substitute jansk s and moss s systems with the letters o a b and ab
+there was another confusion on the use of figure for german null as introduced by hirszfeld and von dungern because others used the letter o for ohne meaning without or zero landsteiner chose the latter this classification was adopted by the national research council and became variously known as the national research council classification the international classification and most popularly the new landsteiner classification
+the new system was gradually accepted and by the early s it was universally followed
+the first practical use of blood typing in transfusion was by an american physician reuben ottenberg in
+and the large scale application started during the first world war when citric acid was developed as blood clot prevention
+felix bernstein demonstrated the correct blood group inheritance pattern of multiple alleles at one locus in
+watkins and morgan in england discovered that the abo epitopes were conferred by sugars to be specific n acetylgalactosamine for the a type and galactose for the b type
+after much published literature claiming that the abh substances were all attached to glycosphingolipids finne et al
+found that the human erythrocyte glycoproteins contain polylactosamine chains that contains abh substances attached and represent the majority of the antigens
+the main glycoproteins carrying the abh antigens were identified to be the band and band proteins and glycophorin
+later yamamoto s group showed the precise glycosyl transferase set that confers the a b and o epitopes
+blood groups are inherited from both parents
+the abo blood type is controlled by a single gene the abo gene with three types of alleles inferred from classical genetics i i and i
+the i designation stands for isoagglutinogen another term for antigen
+the gene encodes a glycosyltransferase that is an enzyme that modifies the carbohydrate content of the red blood cell antigens
+the gene is located on the long arm of the ninth chromosome q
+the i allele gives type a i gives type b and i gives type o
+as both i and i are dominant over i only ii people have type o blood
+individuals with ii or ii have type a blood and individuals with ii or ii have type b
+ii people have both phenotypes because a and b express a special dominance relationship codominance which means that type a and b parents can have an ab child
+a couple with type a and type b can also have a type o child if they are both heterozygous ii ii
+the cis ab phenotype has a single enzyme that creates both a and b antigens
+the resulting red blood cells do not usually express a or b antigen at the same level that would be expected on common group a or b red blood cells which can help solve the problem of an apparently genetically impossible blood group
+the table above summarizes the various blood groups that children may inherit from their parents
+genotypes are shown in the second column and in small print for the offspring ao and aa both test as type a bo and bb test as type b
+the four possibilities represent the combinations obtained when one allele is taken from each parent each has a chance but some occur more than once
+the text above them summarizes the outcomes
+historically abo blood tests were used in paternity testing but in only of american men falsely accused were able to use them as evidence against paternity
+occasionally the blood types of children are not consistent with expectations for example a type o child can be born to an ab parent due to rare situations such as bombay phenotype and cis ab
+the a blood type contains about subgroups of which a and a are the most common over
+a makes up about of all a type blood with a making up almost all of the rest
+these two subgroups are not always interchangeable as far as transfusion is concerned as some a individuals produce antibodies against the a antigen
+complications can sometimes arise in rare cases when typing the blood
+with the development of dna sequencing it has been possible to identify a much larger number of alleles at the abo locus each of which can be categorized as a b or o in terms of the reaction to transfusion but which can be distinguished by variations in the dna sequence
+there are six common alleles in white individuals of the abo gene that produce one s blood type
+the same study also identified rare alleles which generally have a weaker glycosylation activity
+people with weak alleles of a can sometimes express anti a antibodies though these are usually not clinically significant as they do not stably interact with the antigen at body temperature
+cis ab is another rare variant in which a and b genes are transmitted together from a single parent
+the distribution of the blood groups a b o and ab varies across the world according to the population
+there are also variations in blood type distribution within human subpopulations
+in the uk the distribution of blood type frequencies through the population still shows some correlation to the distribution of placenames and to the successive invasions and migrations including celts norsemen danes anglo saxons and normans who contributed the morphemes to the placenames and the genes to the population
+the native celts tended to have more type o blood while the other populations tended to have more type a
+the two common o alleles o and o share their first nucleotides with the group a allele a
+however unlike the group a allele a guanosine base is subsequently deleted
+a premature stop codon results from this frame shift mutation
+this variant is found worldwide and likely predates human migration from africa
+the o allele is considered to predate the o allele
+some evolutionary biologists theorize that there are four main lineages of the abo gene and that mutations creating type o have occurred at least three times in humans
+from oldest to youngest these lineages comprise the following alleles a a o b o and o
+the continued presence of the o alleles is hypothesized to be the result of balancing selection
+both theories contradict the previously held theory that type o blood evolved first
+it is possible that food and environmental antigens bacterial viral or plant antigens have epitopes similar enough to a and b glycoprotein antigens
+the antibodies created against these environmental antigens in the first years of life can cross react with abo incompatible red blood cells that it comes in contact with during blood transfusion later in life
+anti a antibodies are hypothesized to originate from immune response towards influenza virus whose epitopes are similar enough to the d n galactosamine on the a glycoprotein to be able to elicit a cross reaction
+anti b antibodies are hypothesized to originate from antibodies produced against gram negative bacteria such as e
+coli cross reacting with the d galactose on the b glycoprotein
+however it is more likely that the force driving evolution of allele diversity is simply negative frequency dependent selection cells with rare variants of membrane antigens are more easily distinguished by the immune system from pathogens carrying antigens from other hosts
+thus individuals possessing rare types are better equipped to detect pathogens
+the high within population diversity observed in human populations would then be a consequence of natural selection on individuals
+the carbohydrate molecules on the surfaces of red blood cells have roles in cell membrane integrity cell adhesion membrane transportation of molecules and acting as receptors for extracellular ligands and enzymes
+abo antigens are found having similar roles on epithelial cells as well as red blood cells
+the abo antigen is also expressed on the von willebrand factor vwf glycoprotein which participates in hemostasis control of bleeding
+in fact having type o blood predisposes to bleeding as of the total genetic variation observed in plasma vwf is explained by the effect of the abo blood group and individuals with group o blood normally have significantly lower plasma levels of vwf and factor viii than do non o individuals
+in addition vwf is degraded more rapidly due to the higher prevalence of blood group o with the cys variant of vwf an amino acid polymorphism in vwf the gene for adamts vwf cleaving protease maps to human chromosome band q the same locus as abo blood type
+higher levels of vwf are more common amongst people who have had ischemic stroke from blood clotting for the first time
+the results of this study found that the occurrence was not affected by adamts polymorphism and the only significant genetic factor was the person s blood group
+abo blood group incompatibilities between the mother and child does not usually cause hemolytic disease of the newborn hdn because antibodies to the abo blood groups are usually of the igm type which do not cross the placenta
+however in an o type mother igg abo antibodies are produced and the baby can potentially develop abo hemolytic disease of the newborn
+in human cells the abo alleles and their encoded glycosyltransferases have been described in several oncologic conditions
+using anti gta gtb monoclonal antibodies it was demonstrated that a loss of these enzymes was correlated to malignant bladder and oral epithelia
+furthermore the expression of abo blood group antigens in normal human tissues is dependent the type of differentiation of the epithelium
+in most human carcinomas including oral carcinoma a significant event as part of the underlying mechanism is decreased expression of the a and b antigens
+several studies have observed that a relative down regulation of gta and gtb occurs in oral carcinomas in association with tumor development
+more recently a genome wide association study gwas has identified variants in the abo locus associated with susceptibility to pancreatic cancer
+in addition another large gwas study has associated abo histo blood groups as well as fut secretor status with the presence in the intestinal microbiome of specific bacterial species
+in this case the association was with bacteroides and faecalibacterium spp
+bacteroides of the same otu operational taxonomic unit have been shown to be associated with inflammatory bowel disease thus the study suggests an important role for the abo histo blood group antigens as candidates for direct modulation of the human microbiome in health and disease
+a multi locus genetic risk score study based on a combination of loci including the abo gene identified individuals at increased risk for both incident and recurrent coronary artery disease events as well as an enhanced clinical benefit from statin therapy
+the study was based on a community cohort study the malmo diet and cancer study and four additional randomized controlled trials of primary prevention cohorts jupiter and ascot and secondary prevention cohorts care and prove it timi
+in april an international team of researchers announced in the journal nature biotechnology an inexpensive and efficient way to convert types a b and ab blood into type o
+this is done by using glycosidase enzymes from specific bacteria to strip the blood group antigens from red blood cells
+the removal of a and b antigens still does not address the problem of the rh blood group antigen on the blood cells of rh positive individuals and so blood from rh negative donors must be used
+the sort of blood is named enzyme converted to o eco blood
+patient trials will be conducted before the method can be relied on in live situations
+one such phase ii trial was done on b to o blood in
+another approach to the blood antigen problem is the manufacture of artificial blood which could act as a substitute in emergencies
+during the s connecting blood groups to personality types became popular in japan and other areas of the world
+studies of this association have yet to confirm its existence definitively
+other popular but unsupported ideas include the use of a blood type diet claims that group a causes severe hangovers group o is associated with perfect teeth and those with blood group a have the highest iqs
+scientific evidence in support of these concepts is limited at best
+secretor status secretion of abo antigens in body fluidsdean l
+chapter the abo blood group
+blood groups and red cell antigens
+retrieved march
+farr a april
+blood group serology the first four decades
+med hist
+doi s
+pmid abo at bgmut blood group antigen gene mutation database at ncbi nih
+encyclop dia britannica abo blood group system
+national blood transfusion service
+

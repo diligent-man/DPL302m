@@ -1,0 +1,163 @@
+this is a list of products released by fitbit
+released in march the fitbit ace is the best version of the alta for children aged and above
+in march the fitbit ace for kids aged and above was released
+in march the fitbit ace was released
+the ace is a slightly smaller version of the ace only with a curved screen and a smaller band
+according to fitbit once kids outgrow the design they can use their ace or ace with any inspire hr or bands and accessories for a more sophisticated feel
+announced in february in three different colors black lilac and black white
+there are also two different strap colors
+an optional clip on accessory allows the inspire to be worn in other locations such as a belt waistline pocket or bra
+the fitbit inspire was released soon after the charge sometime in
+in addition to all the inspire hr s features it has an improved screen double the battery life new active zone minutes feature
+the fitbit charge is a tracker released in september
+the fitbit charge is said to be redefining how you overall track your health well being while keeping in mind the pulse of your fitness heart health stress the add on ability to track your body to carry out the required workouts
+fitbit luxe is a fitness tracker released on april
+in terms of features and specifications it is almost similar to fitbit inspire
+however this is a fashion forward fitness tracker that mainly targets the female users
+rather than the grayscale display of other fitbit fitness trackers it comes with a colour touchscreen display
+the features includes heart rate monitoring sleep tracking female health tracking and days of battery life
+but it does not have music control or music streaming feature like fitbit charge
+the fitbit versa was released in september
+new features include amazon alexa heart rate tracking and sleep tracking
+the fitbit versa was announced in august and released at the end of september
+this model adds the gps function compared to its predecessor versa and google assistant integration
+more improvements to the previous model include active zone minutes a display with a higher resolution and fast charging
+android users can answer phone calls using the versa
+these features and the addition of a speaker required a slight increase in the thickness from mm to mm
+the feature to store music on the device as available in the fitbit versa however is not available in the fitbit versa
+the fitbit sense was also released at the end of september as the most advanced product of the brand
+the sense received fda approval for its electrocardiogram function
+this function was available in select regions only at launch
+this model features stress tracking as well as blood oxygen measurements
+similar to the fitbit versa this fitbit also removes the ability to store music on the device as available in the fitbit versa
+the fitbit aria air was released in it is set of scales and not a tracking watch
+the fit tracker was a small black and teal device that could be clipped discing and worn
+it uses a three dimensional accelerometer to sense user movement
+the tracker measures steps taken and combines it with user data to calculate distance walked calories burned floors climbed and activity duration and intensity
+it uses an oled display to display this and other information such as the battery level
+it also measures sleep quality by tracking periods of restlessness how long it takes the wearer to fall asleep and how long they are actually asleep
+a wireless base station is included to receive data from the tracker and to charge its battery
+when connected to a computer the base station will upload data to the fitbit website where a number of features are available seeing an overview of physical activity setting and tracking goals keeping food and activity logs and interacting with friends
+use of the website is free
+the fitbit classic tracked only steps taken distance traveled calories burned activity intensity and sleep
+at the techcrunch during the mobile session on september fitbit received positive reactions during its panel from experts like rafe needleman tim o reilly and evan williams who cited its wearability price and lack of subscription fees
+the fitbit ultra was announced on october
+the new features included
+an altimeter that measures elevation gain in terms of floors with one floor roughly equivalent to ten feet
+a digital clock visible on the device s display
+a stopwatch that can be used to time activities
+randomized chatter messages show when the ultra is moved after sitting idle for a while
+new colorsthe fitbit ultra is powered by a small lithium polymer battery
+the fitbit ultra suffered from a small design flaw the unit had a permanently curved shape in order to clip directly onto any piece of clothing
+the plastic used in the unit was not appropriate for the strain experienced at the looped end and with time would become brittle and crack
+while most users experienced only minor cracking with no effects to the device s function in a few cases the cracking led to total failure
+fitbit offered replacement or repair of affected units that were under warranty
+announced on september the fitbit one is an update to the fitbit ultra that has a more vivid digital display has a separate clip and a separate charging cable and wireless sync dongle
+the fitbit one and the fitbit zip were the first wireless activity trackers to sync using bluetooth or bluetooth low energy technology
+the wireless syncing is currently available on ios and android devices such as the iphone s and higher ipad rd generation ipod touch th generation samsung galaxy note ii and higher samsung galaxy s iii and higher lg g htc one moto x and nexus or higher
+fitbit one can record several daily activities including but not limited to number of steps taken distance traveled on foot number of floors climbed calories burned vigorously active minutes and sleep efficiency
+announced on september the fitbit zip is about the size of a united states quarter and tracks steps taken distance traveled and calories burned
+it is able to sync its data wirelessly to supported mobile devices
+notably it showed faces based on how much activity the wearer was showing
+if the wearer had little to no activity it would show a frown but if they had sufficient activity it would show a smiley face
+the fitbit zip was discontinued and replaced with the fitbit inspire clip accessory in march
+in may fitbit released the fitbit flex the first fitbit tracker worn on the wrist
+it tracks movement hours a day including sleep patterns
+it has a simple display of led lights that indicate the progress toward the goal number of steps walked in a day and vibrates to indicate when the goal has been reached
+the sync functions are similar to the fitbit one and zip
+the flex is a water resistant tracker though unlike its successor the flex cannot be worn while swimming
+it includes a specialized usb charger the battery lasts days and it takes hours to charge
+released in
+it is waterproof and can track swimming
+the tracker can be worn in a wristband or pendant or carried in a pocket
+the led lights function similarly to the original flex with the number of illuminated dots indicating progress toward the set goal
+it features reminder to move alerts and vibrations when a call or text is received
+the fitbit force was announced on october
+it has an oled display that shows time and daily activity
+the force tracks a number of statistics in real time including steps taken distance traveled calories burned stairs climbed and active minutes throughout the day
+at night the force tracks sleep and can wake a user silently with a vibrating alarm
+on january it was reported that an unconfirmed number of fitbit customers had complained about skin irritation after wearing the force for extended periods of time
+fitbit stated on its website that the company consulted with medical professionals whose assessments are that these irritations are most likely allergic reactions to nickel a component of the surgical grade steel or the adhesives used to assemble the fitbit force
+fitbit working with the consumer protection safety commission recalled the fitbit force on february
+on march the consumer product safety commission cpsc made the recall official
+at that time it was revealed that the fitbit force had caused about injuries
+it is no longer for sale on fitbit s website
+announced in october the fitbit charge is intended as a replacement for the recalled fitbit force
+it was released in november for us retail
+the charge s wrist band is textured
+the charge automatically tracks users steps sleep flights of stairs and an approximation of distance traveled
+it tracks steps using a axis accelerometer by tracking forward movement along with upward movements
+announced in october and released in early january the charge hr is similar to the charge with an additional heart rate monitor
+with this addition the day battery life is reduced to days
+the charge hr has the same textured band as the charge and comes in black plum blue tangerine pink and teal colors
+the charge hr band clasp resembles that of a traditional watch instead of the snap on band of the original charge as the band needs to fit tightly for the heart rate feature
+the fitbit charge featured a new multi sport mode allowing users to start workouts from their fitbit
+compared to its predecessor it had a larger screen
+the fitbit charge was released in october
+it has a heart rate sensor as well as an oxygen saturation spo sensor however it shipped non functional but fitbit eventually enabled the feature
+sleep tracking has been improved from the charge
+in november a special edition of the fitbit charge was released featuring fitbit pay as a special feature
+the fitbit charge is a phenomenal tracker released in march
+it shares the same form factor as the charge but includes additional features such as in built spotify controls active zone minutes and fitbit pay support
+charge also has built in gps and many of the charge clock faces return
+the fitbit alta was released in february
+the wristband offers a full oled screen that can be tapped for reminders a clock and smartphone notifications
+while not a touch screen it is interacted with by tapping the band similar to previous models
+the alta is also able to recognize the type of activity in progress running football or walking
+the fitbit alta hr was released in march
+it has an added heart rate monitor
+it includes the new sleep stages feature which intends to show the stages of sleep rather than just time asleep as in previous versions
+the fitbit inspire hr was released alongside the inspire in to replace the alta and the alta hr
+in addition to all the inspire s features the hr also offers heart rate tracking
+an optional clip on accessory is compatible with the inspire but not the inspire hr
+the fitbit inspire was released in unifying both the inspire and inspire hr in a single product
+it is also compatible with a different optional clip on accessory but heart rate measurement is not available when the clip on option is used
+announced in october the surge was a smartwatch and an activity tracker
+it features a heart rate monitor and the ability to track pace distance and elevation using the gps on the device
+the surge also can send alerts of text and incoming calls from a connected smartphone
+the surge was discontinued in late and was replaced by the ionic
+released in january the fitbit blaze is a smartwatch made to compete with the apple watch pebble and android wear
+the blaze comes with a colored touchscreen and an exchangeable strap and frame
+it can auto track exercises and has a heart rate monitor
+blaze has connected gps meaning it tracks location using the connected smartphone s gps
+it can display notifications including incoming calls texts and calendar appointments
+the blaze introduces the sleep stages feature
+the fitbit blaze also integrates with fitstar fitbit s website for customized workouts
+these workouts can be displayed on the blaze s screen
+the blaze was discontinued in early and was replaced by the versa
+the fitbit ionic was released in late september
+designed to compete with the apple watch series it is the successor to both the blaze and the surge
+like the surge the ionic uses built in gps using glonass to tap into global satellites and provide better accuracy when recording exercises with the antenna being integrated into the watch case for a stronger connection
+the ionic also features smarttrack which auto recognizes user activity and records it in the fitbit app
+the ionic has interchangeable bands including classic fitbit bands leather bands and perforated bands for a more sport like appearance and the release mechanism has been modified to make swapping out bands easier
+it is also water resistant making it safe to wear when swimming
+many of the blaze s clock faces return as do several new clock faces
+new to the ionic is the ability to load apps onto the watch itself such as accuweather and starbucks as well as an nfc chip that allows the ionic to be used for credit card purchases at places that allow contactless payment
+as a result the tactile buttons on the ionic have some new functions
+when not in workout mode the right side buttons now function as shortcuts for the leftmost two apps loaded onto the watch while a long press on the left side button brings up fitbit pay as well as music and quick settings
+the ionic is shipped in three color combinations of the wristband and watch case charcoal smoke gray slate blue burnt orange and blue gray silver gray
+in the ionic was updated to fitbit os alongside the release of the versa
+the most notable change from os is the addition of a new app called fitbit today a dashboard displaying the user s health and fitness data
+in july fitbit announced the best fitbit os apps for travel which can be downloaded in ionic and some are also available in versa
+on march fitbit announced a recall for the ionic units due to a burn hazard risk
+released in april it has a square design with round edges similar to the apple watch and pebble watches
+it retains most of the ionic s features and interface
+it is capable of tracking women s menstrual cycles
+it does not have built in gps like the ionic instead using connected gps like the blaze
+there are three variants of the versa the standard edition the special edition and the lite edition
+the standard versa comes in three colors black rose gold or silver
+the special edition comes in rose gold with a lavender band or graphite with a charcoal band
+the special edition also includes woven wristbands
+in the united states the special edition of the versa is the only version of the watch to ship with fitbit pay
+the lite edition has a more limited feature set and comes in silver with a white or lilac band marina blue or mulberry
+in april fitbit released a weighing scale called the fitbit aria
+it recognizes users and measures weight body mass index bmi and percentage of body fat of the user
+it can keep track of eight individual users and updates information to fitbit com automatically via wi fi network
+the information is also updated to smartphone apps
+the aria was announced in august concurrently with the ionic
+the aria has been re engineered for greater accuracy and easier bluetooth setup
+the aria also has personalized face icons and greetings compatibility with more wi fi networks and has an increased weight tolerance of up to pounds
+sweatproof wireless earphones by fitbit
+has noise isolation
+official website
+

@@ -1,0 +1,181 @@
+phenol also called carbolic acid is an aromatic organic compound with the molecular formula c h oh
+it is a white crystalline solid that is volatile
+the molecule consists of a phenyl group c h bonded to a hydroxy group oh
+mildly acidic it requires careful handling because it can cause chemical burns
+phenol was first extracted from coal tar but today is produced on a large scale about billion kg year from petroleum derived feedstocks
+it is an important industrial commodity as a precursor to many materials and useful compounds
+it is primarily used to synthesize plastics and related materials
+phenol and its chemical derivatives are essential for production of polycarbonates epoxies bakelite nylon detergents herbicides such as phenoxy herbicides and numerous pharmaceutical drugs
+phenol is an organic compound appreciably soluble in water with about g dissolving in ml m
+homogeneous mixtures of phenol and water at phenol to water mass ratios of and higher are possible
+the sodium salt of phenol sodium phenoxide is far more water soluble
+phenol is a weak acid
+in aqueous solution in the ph range ca
+it is in equilibrium with the phenolate anion c h o also called phenoxide
+c h oh c h o hphenol is more acidic than aliphatic alcohols
+the differing pka is attributed to resonance stabilization of the phenoxide anion
+in this way the negative charge on oxygen is delocalized on to the ortho and para carbon atoms through the pi system
+an alternative explanation involves the sigma framework postulating that the dominant effect is the induction from the more electronegative sp hybridised carbons the comparatively more powerful inductive withdrawal of electron density that is provided by the sp system compared to an sp system allows for great stabilization of the oxyanion
+in support of the second explanation the pka of the enol of acetone in water is making it only slightly less acidic than phenol pka
+thus the greater number of resonance structures available to phenoxide compared to acetone enolate seems to contribute very little to its stabilization
+however the situation changes when solvation effects are excluded
+a recent in silico comparison of the gas phase acidities of the vinylogues of phenol and cyclohexanol in conformations that allow for or exclude resonance stabilization leads to the inference that about of the increased acidity of phenol is attributable to inductive effects with resonance accounting for the remaining difference
+in carbon tetrachloride and alkane solvents phenol hydrogen bonds with a wide range of lewis bases such as pyridine diethyl ether and diethyl sulfide
+the enthalpies of adduct formation and the oh ir frequency shifts accompanying adduct formation have been studied
+phenol is classified as a hard acid which is compatible with the c e ratio of the ecw model with ea and ca
+the relative acceptor strength of phenol toward a series of bases versus other lewis acids can be illustrated by c b plots
+the phenoxide anion is a strong nucleophile with a nucleophilicity comparable to the one of carbanions or tertiary amines
+it can react at both its oxygen or carbon sites as an ambident nucleophile see hsab theory
+generally oxygen attack of phenoxide anions is kinetically favored while carbon attack is thermodynamically preferred see thermodynamic versus kinetic reaction control
+mixed oxygen carbon attack and by this a loss of selectivity is usually observed if the reaction rate reaches diffusion control
+phenol exhibits keto enol tautomerism with its unstable keto tautomer cyclohexadienone but only a tiny fraction of phenol exists as the keto form
+the equilibrium constant for enolisation is approximately which means only one in every ten trillion molecules is in the keto form at any moment
+the small amount of stabilisation gained by exchanging a c c bond for a c o bond is more than offset by the large destabilisation resulting from the loss of aromaticity
+phenol therefore exists essentially entirely in the enol form
+substituted cyclohexadienone can undergo a dienone phenol rearrangement in acid conditions and form stable disubstituted phenol
+phenoxides are enolates stabilised by aromaticity
+under normal circumstances phenoxide is more reactive at the oxygen position but the oxygen position is a hard nucleophile whereas the alpha carbon positions tend to be soft
+phenol is highly reactive toward electrophilic aromatic substitution
+the enhance nucleophilicity is attributed to donation pi electron density from o into the ring
+many groups can be attached to the ring via halogenation acylation sulfonation and related processes
+phenol s ring is so strongly activated that bromination and chlorination lead readily to polysubstitution
+phenol reacts with dilute nitric acid at room temperature to give a mixture of nitrophenol and nitrophenol while with concentrated nitric acid additional nitro groups are introduced e g
+to give trinitrophenol
+aqueous solutions of phenol are weakly acidic and turn blue litmus slightly to red
+phenol is neutralized by sodium hydroxide forming sodium phenate or phenolate but being weaker than carbonic acid it cannot be neutralized by sodium bicarbonate or sodium carbonate to liberate carbon dioxide
+c h oh naoh c h ona h owhen a mixture of phenol and benzoyl chloride are shaken in presence of dilute sodium hydroxide solution phenyl benzoate is formed
+this is an example of the schotten baumann reaction
+c h cocl hoc h c h co c h hclphenol is reduced to benzene when it is distilled with zinc dust or when its vapour is passed over granules of zinc at c
+c h oh zn c h znowhen phenol is treated with diazomethane in the presence of boron trifluoride bf anisole is obtained as the main product and nitrogen gas as a byproduct
+c h oh ch n c h och n when phenol reacts with iron iii chloride solution an intense violet purple solution is formed
+because of phenol s commercial importance many methods have been developed for its production but the cumene process is the dominant technology
+accounting for of production is the cumene process also called hock process
+it involves the partial oxidation of cumene isopropylbenzene via the hock rearrangement compared to most other processes the cumene process uses relatively mild conditions and relatively inexpensive raw materials
+for the process to be economical both phenol and the acetone by product must be in demand
+in worldwide demand for acetone was approximately million tonnes percent of which was satisfied with acetone produced by the cumene process
+a route analogous to the cumene process begins with cyclohexylbenzene
+it is oxidized to a hydroperoxide akin to the production of cumene hydroperoxide
+via the hock rearrangement cyclohexylbenzene hydroperoxide cleaves to give phenol and cyclohexanone
+cyclohexanone is an important precursor to some nylons
+the direct oxidation of benzene to phenol is theoretically possible and of great interest but it has not been commercialized
+c h o c h ohnitrous oxide is a potentially green oxidant that is a more potent oxidant than o
+routes for the generation of nitrous oxide however remain uncompetitive
+an electrosynthesis employing alternating current gives phenol from benzene
+the oxidation of toluene as developed by dow chemical involves copper catalyzed reaction of molten sodium benzoate with air
+c h ch o c h oh co h othe reaction is proposed to proceed via formation of benzyoylsalicylate
+early methods relied on extraction of phenol from coal derivatives or the hydrolysis of benzene derivatives
+an early commercial route developed by bayer and monsanto in the early s begins with the reaction of a strong base with benzenesulfonic acid
+the conversion is represented by this idealized equation
+c h so h naoh c h oh na so h ochlorobenzene can be hydrolyzed to phenol using base dow process or steam raschig hooker process
+c h cl naoh c h oh nacl
+c h cl h o c h oh hclthese methods suffer from the cost of the chlorobenzene and the need to dispose of the chloride by product
+phenol is also a recoverable byproduct of coal pyrolysis
+in the lummus process the oxidation of toluene to benzoic acid is conducted separately
+phenyldiazonium salts hydrolyze to phenol
+the method is of no commercial interest since the precursor is expensive
+c h nh hcl nano c h oh n h o nacl
+salicylic acid decarboxylates to phenol
+the major uses of phenol consuming two thirds of its production involve its conversion to precursors for plastics
+condensation with acetone gives bisphenol a a key precursor to polycarbonates and epoxide resins
+condensation of phenol alkylphenols or diphenols with formaldehyde gives phenolic resins a famous example of which is bakelite
+partial hydrogenation of phenol gives cyclohexanone a precursor to nylon
+nonionic detergents are produced by alkylation of phenol to give the alkylphenols e g nonylphenol which are then subjected to ethoxylation
+phenol is also a versatile precursor to a large collection of drugs most notably aspirin but also many herbicides and pharmaceutical drugs
+phenol is a component in liquid liquid phenol chloroform extraction technique used in molecular biology for obtaining nucleic acids from tissues or cell culture samples
+depending on the ph of the solution either dna or rna can be extracted
+phenol is widely used as an antiseptic
+its use was pioneered by joseph lister see history section
+from the early s to the s it was used in the production of carbolic soap
+concentrated phenol liquids are commonly used for permanent treatment of ingrown toe and finger nails a procedure known as a chemical matrixectomy
+the procedure was first described by otto boll in
+since that time it has become the chemical of choice for chemical matrixectomies performed by podiatrists
+concentrated liquid phenol can be used topically as a local anesthetic for otology procedures such as myringotomy and tympanotomy tube placement as an alternative to general anesthesia or other local anesthetics
+it also has hemostatic and antiseptic qualities that make it ideal for this use
+phenol spray usually at phenol as an active ingredient is used medically to treat sore throat
+it is the active ingredient in some oral analgesics such as chloraseptic spray tcp and carmex
+phenol is so inexpensive that it attracts many small scale uses
+it is a component of industrial paint strippers used in the aviation industry for the removal of epoxy polyurethane and other chemically resistant coatings
+phenol derivatives have been used in the preparation of cosmetics including sunscreens hair colorings and skin lightening preparations
+however due to safety concerns phenol is banned from use in cosmetic products in the european union and canada
+phenol was discovered in by friedlieb ferdinand runge who extracted it in impure form from coal tar
+runge called phenol karbols ure coal oil acid carbolic acid
+coal tar remained the primary source until the development of the petrochemical industry
+in the french chemist auguste laurent obtained phenol in pure form
+in auguste laurent coined the name ph ne for benzene this is the root of the word phenol and phenyl
+in french chemist charles gerhardt coined the name ph nol
+the antiseptic properties of phenol were used by sir joseph lister in his pioneering technique of antiseptic surgery
+lister decided that the wounds themselves had to be thoroughly cleaned
+he then covered the wounds with a piece of rag or lint covered in phenol or carbolic acid as he called it
+the skin irritation caused by continual exposure to phenol eventually led to the introduction of aseptic germ free techniques in surgery
+joseph lister was a student at university college london under robert liston later rising to the rank of surgeon at glasgow royal infirmary
+lister experimented with cloths covered in carbolic acid after studying the works and experiments of his contemporary louis pasteur in sterilizing various biological media
+lister was inspired to try to find a way to sterilize living wounds which could not be done with the heat required by pasteur s experiments
+in examining pasteur s research lister began to piece together his theory that patients were being killed by germs
+he theorized that if germs could be killed or prevented no infection would occur
+lister reasoned that a chemical could be used to destroy the micro organisms that cause infection
+meanwhile in carlisle england officials were experimenting with a sewage treatment using carbolic acid to reduce the smell of sewage cess pools
+having heard of these developments and having himself previously experimented with other chemicals for antiseptic purposes without much success lister decided to try carbolic acid as a wound antiseptic
+he had his first chance on august when he received a patient an eleven year old boy with a tibia bone fracture which pierced the skin of his lower leg
+ordinarily amputation would be the only solution
+however lister decided to try carbolic acid
+after setting the bone and supporting the leg with splints lister soaked clean cotton towels in undiluted carbolic acid and applied them to the wound covered with a layer of tin foil leaving them for four days
+when he checked the wound lister was pleasantly surprised to find no signs of infection just redness near the edges of the wound from mild burning by the carbolic acid
+reapplying fresh bandages with diluted carbolic acid the boy was able to walk home after about six weeks of treatment
+by march when the first results of lister s work were published in the lancet he had treated a total of eleven patients using his new antiseptic method
+of those only one had died and that was through a complication that was nothing to do with lister s wound dressing technique
+now for the first time patients with compound fractures were likely to leave the hospital with all their limbs intact
+richard hollingham blood and guts a history of surgery p
+before antiseptic operations were introduced at the hospital there were sixteen deaths in thirty five surgical cases
+almost one in every two patients died
+after antiseptic surgery was introduced in the summer of there were only six deaths in forty cases
+the mortality rate had dropped from almost per cent to around per cent
+it was a remarkable achievement
+richard hollingham blood and guts a history of surgery p
+phenol was the main ingredient of the carbolic smoke ball an ineffective device marketed in london in the th century as protection against influenza and other ailments and the subject of the famous law case carlill v carbolic smoke ball company
+the toxic effect of phenol on the central nervous system discussed below causes sudden collapse and loss of consciousness in both humans and animals a state of cramping precedes these symptoms because of the motor activity controlled by the central nervous system
+injections of phenol were used as a means of individual execution by nazi germany during the second world war
+it was originally used by the nazis in as part of the aktion t euthanasia program
+the germans learned that extermination of smaller groups was more economical by injection of each victim with phenol
+phenol injections were given to thousands of people
+maximilian kolbe was also killed with a phenol injection after surviving two weeks of dehydration and starvation in auschwitz when he volunteered to die in place of a stranger
+approximately one gram is sufficient to cause death
+phenol is a normal metabolic product excreted in quantities up to mg l in human urine
+the temporal gland secretion of male elephants showed the presence of phenol and methylphenol during musth
+it is also one of the chemical compounds found in castoreum
+this compound is ingested from the plants the beaver eats
+phenol is a measurable component in the aroma and taste of the distinctive islay scotch whisky generally ppm but it can be over ppm in the malted barley used to produce whisky
+this amount is different from and presumably higher than the amount in the distillate
+cryptanaerobacter phenolicus is a bacterium species that produces benzoate from phenol via hydroxybenzoate
+rhodococcus phenolicus is a bacterium species able to degrade phenol as sole carbon source
+phenol and its vapors are corrosive to the eyes the skin and the respiratory tract
+its corrosive effect on skin and mucous membranes is due to a protein degenerating effect
+repeated or prolonged skin contact with phenol may cause dermatitis or even second and third degree burns
+inhalation of phenol vapor may cause lung edema
+the substance may cause harmful effects on the central nervous system and heart resulting in dysrhythmia seizures and coma
+the kidneys may be affected as well
+long term or repeated exposure of the substance may have harmful effects on the liver and kidneys
+there is no evidence that phenol causes cancer in humans
+besides its hydrophobic effects another mechanism for the toxicity of phenol may be the formation of phenoxyl radicals
+since phenol is absorbed through the skin relatively quickly systemic poisoning can occur in addition to the local caustic burns
+resorptive poisoning by a large quantity of phenol can occur even with only a small area of skin rapidly leading to paralysis of the central nervous system and a severe drop in body temperature
+the ld for oral toxicity is less than mg kg for dogs rabbits or mice the minimum lethal human dose was cited as mg kg
+the agency for toxic substances and disease registry atsdr u s
+department of health and human services states the fatal dose for ingestion of phenol is from to g
+chemical burns from skin exposures can be decontaminated by washing with polyethylene glycol isopropyl alcohol or perhaps even copious amounts of water
+removal of contaminated clothing is required as well as immediate hospital treatment for large splashes
+this is particularly important if the phenol is mixed with chloroform a commonly used mixture in molecular biology for dna and rna purification
+phenol is also a reproductive toxin causing increased risk of miscarriage and low birth weight indicating retarded development in utero
+the word phenol is also used to refer to any compound that contains a six membered aromatic ring bonded directly to a hydroxyl group oh
+thus phenols are a class of organic compounds of which the phenol discussed in this article is the simplest member
+bamberger rearrangement
+claisen rearrangement
+cresol
+fries rearrangement
+polyphenolinternational chemical safety card
+phenol material safety data sheet
+national pollutant inventory phenol fact sheet
+niosh pocket guide to chemical hazards
+cdc phenol niosh workplace safety and health topic
+iarc monograph phenol
+arcane radio trivia outlines competing uses for phenol circa
+

@@ -1,0 +1,102 @@
+niemann pick disease is a group of severe inherited metabolic disorders in which sphingomyelin accumulates in lysosomes in cells the lysosomes normally degrade material that comes from out of cells
+these disorders involve the dysfunctional metabolism of sphingolipids which are fats found in cell membranes so it is a kind of sphingolipidosis which is included in the larger family of lysosomal storage diseases
+symptoms are related to the organs in which sphingomyelin accumulates
+enlargement of the liver and spleen hepatosplenomegaly may cause reduced appetite abdominal distension and pain
+enlargement of the spleen splenomegaly may also cause low levels of platelets in the blood thrombocytopenia
+accumulation of sphingomyelin in the central nervous system including the cerebellum results in unsteady gait ataxia slurring of speech dysarthria and difficulty swallowing dysphagia
+basal ganglia dysfunction causes abnormal posturing of the limbs trunk and face dystonia
+upper brainstem disease results in impaired voluntary rapid eye movements supranuclear gaze palsy
+more widespread disease involving the cerebral cortex and subcortical structures causes gradual loss of intellectual abilities causing dementia and seizures
+bones also may be affected with the disease causing enlarged bone marrow cavities thinned cortical bone or a distortion of the hip bone called coxa vara
+sleep related disorders also occur with the condition such as sleep inversion sleepiness during the day and wakefulness at night
+gelastic cataplexy the sudden loss of muscle tone when the affected patient laughs is also seen
+mutations in the smpd gene cause niemann pick disease types a and b
+they produce a deficiency in the activity of the lysosomal enzyme acid sphingomyelinase that breaks down the lipid sphingomyelin
+mutations in npc or npc cause niemann pick disease type c npc which affects a protein used to transport lipids
+type d originally was separated from type c to delineate a group of patients with otherwise identical disorders who shared a common nova scotian ancestry
+patients in this group are known to share a specific mutation in the npc gene so npc is used for both groups
+before the molecular defects were described the terms niemann pick type i and niemann pick type ii were proposed to separate the high and low sphingomyelin forms of the disease in the early s
+niemann pick disease is inherited in an autosomal recessive pattern which means both copies or both alleles of the gene must be defective to cause the disease
+defective means they are altered in a way that impairs their function
+most often the parents of a child with an autosomal recessive disorder are carriers they have one copy of the altered gene but are not affected because the other copy produces the enzyme
+if both parents are carriers each pregnancy has a chance of producing an affected child
+genetic counseling and genetic testing are recommended for families who may be carriers of the disease
+niemann pick diseases are a subgroup of lipid storage disorders called sphingolipidoses in which harmful quantities of fatty substances or lipids accumulate in the spleen liver lungs bone marrow and brain
+in the classic infantile type a variant a missense mutation causes complete deficiency of sphingomyelinase
+sphingomyelin is a component of cell membrane including the organellar membrane so the enzyme deficiency blocks degradation of lipid resulting in the accumulation of sphingomyelin within lysosomes in the macrophage monocyte phagocyte lineage
+affected cells become enlarged sometimes up to m in diameter secondary to the distention of lysosomes with sphingomyelin and cholesterol
+histology shows lipid laden macrophages in the marrow and sea blue histiocytes on pathology
+numerous small vacuoles of relatively uniform size are created giving the cytoplasm a foamy appearance
+for type a and b levels of sphingomylinase can be measured from a blood sample
+to diagnose type c a skin sample can help determine whether the transporter is affected via the filipin test which detects build up of unesterified cholesterol via fluorescent staining
+there are four types of niemann pick disease in two categories
+patients with asm deficiency are classified into type a and b
+type a patients exhibit hepatosplenomegaly in infancy and profound central nervous system involvement and unable to survive beyond two years of age
+type b patients also show hepatosplenomegaly and pathologic alterations of their lungs but usually without the involvement of their central nervous system
+some can develop significant life threatening complications including liver failure hemorrhage oxygen dependency pulmonary infections and splenic rupture
+some develop coronary artery or valvular heart disease
+in a longitudinal natural history study nearly of the patients died
+for those classified into type c they may have mild hepatosplenomegaly but their central nervous system is profoundly affected
+niemann pick disease smpd associated which includes types a and bniemann pick disease type a classic infantile
+niemann pick disease type b visceralniemann pick disease type c subacute juvenile includes types c of type c and c
+type c is the most common form of the disease type c is a rare form of the disease niemann pick disease type d or nova scotia form is now believed to be the same condition as niemann pick disease type c
+two poorly characterized forms of niemann pick disease have also been described as types e and f
+no specific treatment is known for type a but symptoms are treated
+in adult patients with type b physicians try to keep cholesterol levels down to normal levels
+if statins are used they monitor liver function
+if the spleen is enlarged and platelet levels low acute episodes of bleeding may require transfusions of blood products
+if they have symptoms of interstitial lung disease they may need oxygen
+anecdotally organ transplant has been attempted with limited success
+future prospects include enzyme replacement and gene therapy
+bone marrow transplant has been tried for type b
+in january actelion announced the drug miglustat zavesca had been approved in the european union for the treatment of progressive neurological manifestations in adult patients and pediatric patients with npc
+the drug is available to patients in the united states on an experimental basis
+in march the fda requested additional preclinical and clinical information regarding zavesca from actelion before making a final decision on approving the drug in the united states for npc
+olipudase alfa xenpozyme was approved for medical use in japan in march
+highly variable infantile neurovisceral niemann pick disease type a asmd is usually fatal before years of age
+in type b asmd mortality before adulthood is common
+but many patients live well into adulthood and may reach a normal lifespan
+diagnoses have been made in the th decade of life
+type c is an entirely different disorder which also has a highly variable prognosis
+the incidence among ashkenazi jews is estimated to be about one in for type a of niemann pick disease
+the incidence of both niemann pick disease types a and b in all other populations is estimated to be one in
+the incidence of niemann pick disease type c is estimated to be one in
+albert niemann published the first description of what now is known as niemann pick disease type a in
+ludwig pick described the pathology of the disease in a series of papers in the s
+in the classification of niemann pick disease into types a b and c was introduced and also contained a type d called the nova scotian type
+genetic studies showed that type d is caused by the same gene as type c and the type d designation is no longer used
+research has been ongoing to better understand the disease and treatments for it
+the loss of myelin in the central nervous system is considered to be a main pathogenic factor
+research uses animal models carrying the underlying mutation for niemann pick disease e g
+a mutation in the npc gene as seen in niemann pick type c disease
+in this model the expression of myelin gene regulatory factor mrf has been shown to be significantly decreased
+mrf is a transcription factor of critical importance in the development and maintenance of myelin sheaths
+a perturbation of oligodendrocyte maturation and the myelination process might therefore be an underlying mechanism of the neurological deficits
+curiously in fibroblast cells derived from patients with niemann pick type c disease were shown to be resistant to ebola virus because of mutations in the npc protein which is needed for viral escape from the vesicular compartment
+other studies have uncovered small molecules which inhibit the receptor and may be a potential therapeutic strategy
+in the european medicines agency ema granted orphan drug designation to arimoclomol for the treatment of niemann pick type c
+this was followed in by the u s
+food drug administration fda
+dosing in a placebo controlled phase ii iii clinical trial to investigate treatment for niemann pick type c for patients with both type c and c using arimoclomol began in
+researchers at the university of arizona first proposed the use of hydroxypropyl cyclodextrins for the treatment of niemann pick type c in
+researchers noted that hpbcds with varying levels of hydroxypropyl substitution had effects in delaying neurological symptoms and in decreasing liver cholesterol storage in a niemann pick mouse model
+later researchers at the university of texas southwestern medical center found that when niemann pick type c mice were injected with hydroxypropyl cyclodextrin hpbcd when they were days old they showed marked improvement in liver function much less neurodegeneration and ultimately they lived longer lives than the mice who did not receive this treatment
+these results suggest hpbcd acutely reverses the storage defect seen in npc
+in april the u s
+national institutes of health nih in collaboration with the therapeutics for rare and neglected diseases program trnd announced they were developing a clinical trial using hpbcd for niemann pick type c patients
+a clinical trial conducted by vtesse llc began in january and was completed in march
+on april the european medicines agency granted international niemann pick disease alliance inpda the united kingdom orphan designation for hpbcd for the treatment of niemann pick disease type c
+gene therapy
+gene therapy is being used clinically to treat genetic diseases including haemophilia and spinal muscular atrophy
+it has been used preclinically in a mouse model of niemann pick type c using an adeno associated virus derived viral vector has been shown to extend lifespan following injection into the lateral ventricles of the neonatal brain
+in a separate proof of concept study a similar vector but with a modified capsid was injected intravenously into niemann pick type c mice at around four weeks of age this resulted in extended lifespan and improved weight gain
+gene therapy has also been used preclinically in a mouse model of niemann pick type a
+injection into the cisterna magna at weeks of age prevented motor and memory impairment and neuronal cell death
+lysosomal storage disease
+niemann pick disease type c
+gaucher s disease
+medical genetics of ashkenazi jewsniemann at ninds
+genetics home reference on niemann pick disease
+this article incorporates public domain text from the u s
+national library of medicine
+

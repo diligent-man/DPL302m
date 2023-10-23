@@ -1,0 +1,128 @@
+Tuyển sinh 2005 Có thể hoãn thi trắc nghiệm
+Trước sựphản đối của dư luận tối 20/1 một thành viên Ban chỉ đạo tuyển sinh cho VnExpress biết nhiều khả năng sẽ không tiến hành thi trắc nghiệm trong kỳ thi ĐH CĐ 2005
+Quyết định chính thức sẽ được Bộ trưởng Nguyễn Minh Hiển đưa ra tại Hội nghị tuyển sinh ngày 1/2
+Lý do hoãn thi trắc nghiệm theo vị quan chức này là có nhiều ý kiến cho rằng nếu áp dụng ngay trong năm nay sẽ quá vội vàng
+Công tác tập huấn thi chấm thi cũng như các điều kiện về cơ sở vật chất của các trường chưa đảm bảo
+Về phía học sinh các em chưa được quen với phương pháp thi mới có thể tạo tâm lý không tốt trong phòng thi
+Cũng theo nguồn tin trên kết luận cuối cùng về việc hoãn thi trắc nghiệm sẽ được Bộ trưởng Nguyễn Minh Hiển công bố chính thức tại Hội nghị thi và tuyển sinh toàn quốc diễn ra ngày 1/2
+Dự kiến phương pháp thi trắc nghiệm ở cả hai kỳ thi tốt nghiệp THPT và tuyển sinh ĐH CĐ sẽ bắt đầu áp dụng từ năm 2006 khi đã chuẩn bị chu đáo
+Tháng 12/2004 Bộ GDĐT chính thức quyết định sử dụng phương pháp thi trắc nghiệm Ngoại ngữ trong hai kỳ thi tốt nghiệp và tuyển sinh ĐH CĐ 2005
+Tháng 1/2005 Bộ đã có văn bản hướng dẫn thi trắc nghiệm gửi các địa phương
+Cục trưởng Khảo thí và kiểm định Nguyễn An Ninh từng khẳng định đơn vị này đã chuẩn bị một ngân hàng đề thi đủ mạnh
+Các loại máy móc kỹ thuật phần mềm
+phục vụ chấm thi trắc nghiệm cũng đã được trang bị
+Theo quan điểm của ông Ninh đối với môn Ngoại ngữ thi trắc nghiệm không phải là điều mới mẻ bởi đề Ngoại ngữ những năm qua cũng có 30-60 câu hỏi dạng trắc nghiệm
+Học sinh nếu nắm chắc kiến thức thì sẽ làm được bài
+Thế nhưng tại Hội nghị tuyển sinh ảo nhiều thầy cô học sinh lại không nghĩ vậy
+Thi ngay trắc nghiệm Bộ GDĐT quá vội vàng20/01/2005
+Mở phòng họp ảo Bộ GDĐT tiết kiệm hàng tỷ đồng18/01/2005
+Đề tốt nghiệp THPT môn Ngoại ngữ gồm 50 câu03/01/2005
+Tuyển sinh 2005 Đề thi Ngoại ngữ ít nhất 80 câu23/12/2004
+Năm 2005 mức sàn đại học dự kiến 15 điểm22/12/2004
+Xem tiếp
+Độc giả có thể gửi ý kiến tại đây
+function CheckSubmit
+documentContactUsfNamevalue = TrimdocumentContactUsfNamevalue
+if documentContactUsfNamevalue ==
+alertXin hay nhap Ho ten
+documentContactUsfNamefocus
+return
+if SEmail = CheckEmailAddressdocumentContactUsfEmailvalue==
+alertDia chi Email khong hop le
+documentContactUsfEmailfocus
+return
+documentContactUsfEmailvalue = SEmail
+documentContactUsfTitlevalue = TrimdocumentContactUsfTitlevalue
+if documentContactUsfTitlevalue ==
+alertXin hay nhap Tieu de
+documentContactUsfTitlefocus
+return
+documentContactUsfContentvalue = TrimdocumentContactUsfContentvalue
+if documentContactUsfContentvalue ==
+alertXin hay Noi dung
+documentContactUsfContentfocus
+return
+documentContactUsfCateDescvalue = documentContactUsfCategoryoptionsdocumentContactUsfCategoryselectedIndextext
+if confirmGui y kien toi Ban bien tap
+return
+vWH = 160
+vWW = 330
+vWN = ContactUs
+winDef = status=noresizable=noscrollbars=notoolbar=nolocation=nofullscreen=notitlebar=yesheight=concatvWHconcatconcatwidth=concatvWWconcat
+winDef = winDefconcattop=concatscreenheight - vWH/2concat
+winDef = winDefconcatleft=concatscreenwidth - vWW/2
+newwin = open vWN winDef
+documentContactUsaction = /ContactUs/AddSubmitasp
+documentContactUstarget = vWN
+documentContactUssubmit
+Họ tên
+Email
+Gửi tới
+Ban Biên tập
+Ban Khoa học
+Ban Kinh doanh
+Ban Pháp luật
+Góp ý Luật Cạnh tranh
+Góp ý Luật Chính quyền địa phương
+Góp ý Luật Chống bán phá giá
+Góp ý Luật Đất đai
+Góp ý Bộ luật Tố tụng hình sự
+Ban Sức khoẻ
+Ban Thế giới
+Ban Thể thao
+Ban Văn hoá
+Ban Vi tính
+Ban Xã hội
+Ban Ôtô Xe máy
+Ban Bạn đọc
+Tìm người quen
+Mục Tâm sự
+Mục Vui cười
+Tiêu đề
+Nội dung
+Gõ tiếng Việt
+Telex
+Với Internet Explorer 40 trở lênbạn có thể nhập tiếng Việt theo kiểu Telexmà không cần bộ gõ
+if d = GetPostVariabled =
+SetSelectValuedocumentContactUsfCategory dtoLowerCase
+documentContactUsfNamevalue = UnicodeGetgetCookieVisitorName
+documentContactUsfEmailvalue = getCookieVisitorEmail
+if CurrentFolderindexOf/vietnam/the-gioi=0documentContactUsfCategoryvalue=thegioivnexpressnet
+if CurrentFolderindexOf/vietnam/van-hoa=0  documentContactUsfCategoryvalue=vanhoavnexpressnet
+if CurrentFolderindexOf/vietnam/kinh-doanh=0 documentContactUsfCategoryvalue=kinhdoanhvnexpressnet
+if CurrentFolderindexOf/vietnam/the-thao=0 documentContactUsfCategoryvalue=thethaovnexpressnet
+if CurrentFolderindexOf/vietnam/euro=0 documentContactUsfCategoryvalue=thethaovnexpressnet
+if CurrentFolderindexOf/vietnam/vi-tinh=0 documentContactUsfCategoryvalue=vitinhvnexpressnet
+if CurrentFolderindexOf/vietnam/xa-hoi=0 documentContactUsfCategoryvalue=xahoivnexpressnet
+switch getCookieUnikonv 2
+case 0
+kmode = 1
+kfont = tcvn
+break
+case 1
+kmode = 1
+kfont = vni
+break
+case 2
+case 3
+kmode = 1
+kfont = utf8
+break
+case 4
+kmode = 1
+kfont = viqr
+break
+case 5
+kmode = 1
+kfont = utf8
+break
+case 6
+kmode = 1
+kfont = vps
+break
+default
+kmode = 1
+kfont = utf8
+break
+initVietTyperkmode kfont
+

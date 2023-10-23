@@ -1,0 +1,447 @@
+in mathematics any vector space
+displaystyle v
+has a corresponding dual vector space or just dual space for short consisting of all linear forms on
+displaystyle v
+together with the vector space structure of pointwise addition and scalar multiplication by constants
+the dual space as defined above is defined for all vector spaces and to avoid ambiguity may also be called the algebraic dual space
+when defined for a topological vector space there is a subspace of the dual space corresponding to continuous linear functionals called the continuous dual space
+dual vector spaces find application in many branches of mathematics that use vector spaces such as in tensor analysis with finite dimensional vector spaces
+when applied to vector spaces of functions which are typically infinite dimensional dual spaces are used to describe measures distributions and hilbert spaces
+consequently the dual space is an important concept in functional analysis
+early terms for dual include polarer raum hahn espace conjugu adjoint space alaoglu and transponierter raum schauder and banach
+the term dual is due to bourbaki
+given any vector space
+displaystyle v
+over a field
+displaystyle f
+the algebraic dual space
+displaystyle v
+alternatively denoted by
+displaystyle v lor
+displaystyle v
+is defined as the set of all linear maps
+displaystyle varphi v to f
+linear functionals
+since linear maps are vector space homomorphisms the dual space may be denoted
+displaystyle hom v f
+the dual space
+displaystyle v
+itself becomes a vector space over
+displaystyle f
+when equipped with an addition and scalar multiplication satisfying
+displaystyle begin aligned varphi psi x varphi x psi x a varphi x a left varphi x right end aligned
+for all
+displaystyle varphi psi in v
+displaystyle x in v
+displaystyle a in f
+elements of the algebraic dual space
+displaystyle v
+are sometimes called covectors or one forms
+the pairing of a functional
+displaystyle varphi
+in the dual space
+displaystyle v
+and an element
+displaystyle x
+displaystyle v
+is sometimes denoted by a bracket
+displaystyle varphi x x varphi
+displaystyle varphi x langle x varphi rangle
+this pairing defines a nondegenerate bilinear mapping
+displaystyle langle cdot cdot rangle v times v to f
+called the natural pairing
+if v is finite dimensional then v has the same dimension as v
+given a basis e en in v it is possible to construct a specific basis in v called the dual basis
+this dual basis is a set e e of linear functionals on v defined by the relation
+displaystyle mathbf e i c mathbf e cdots c n mathbf e n c i quad i ldots n
+for any choice of coefficients c f
+in particular letting in turn each one of those coefficients be equal to one and the other coefficients zero gives the system of equations
+displaystyle mathbf e i mathbf e j delta j i
+where
+displaystyle delta j i
+is the kronecker delta symbol
+this property is referred to as bi orthogonality property
+for example if v is r let its basis be chosen as e e
+the basis vectors are not orthogonal to each other
+then e and e are one forms functions that map a vector to a scalar such that e e e e e e and e e
+note the superscript here is the index not an exponent this system of equations can be expressed using matrix notation as
+displaystyle begin bmatrix e e e e end bmatrix begin bmatrix e e e e end bmatrix begin bmatrix end bmatrix
+solving this equation shows the dual basis to be e e
+because e and e are functionals they can be rewritten as e x y x and e x y x y
+in general when v is r if e e en is a matrix whose columns are the basis vectors and e e is a matrix whose columns are the dual basis vectors then
+displaystyle e t hat e i n
+where in is an identity matrix of order n
+the biorthogonality property of these two basis sets allows any point x v to be represented as
+displaystyle mathbf x sum i langle mathbf x mathbf e i rangle mathbf e i sum i langle mathbf x mathbf e i rangle mathbf e i
+even when the basis vectors are not orthogonal to each other
+strictly speaking the above statement only makes sense once the inner product
+displaystyle langle cdot cdot rangle
+and the corresponding duality pairing are introduced as described below in bilinear products and dual spaces
+in particular r can be interpreted as the space of columns of n real numbers its dual space is typically written as the space of rows of n real numbers
+such a row acts on r as a linear functional by ordinary matrix multiplication
+this is because a functional maps every n vector x into a real number y
+then seeing this functional as a matrix m and x y as a n matrix and a matrix trivially a real number respectively if mx y then by dimension reasons m must be a n matrix that is m must be a row vector
+if v consists of the space of geometrical vectors in the plane then the level curves of an element of v form a family of parallel lines in v because the range is dimensional so that every point in the range is a multiple of any one nonzero element
+so an element of v can be intuitively thought of as a particular family of parallel lines covering the plane
+to compute the value of a functional on a given vector it suffices to determine which of the lines the vector lies on
+informally this counts how many lines the vector crosses
+more generally if v is a vector space of any dimension then the level sets of a linear functional in v are parallel hyperplanes in v and the action of a linear functional on a vector can be visualized in terms of these hyperplanes
+if v is not finite dimensional but has a basis e indexed by an infinite set a then the same construction as in the finite dimensional case yields linearly independent elements e a of the dual space but they will not form a basis
+for instance the space r whose elements are those sequences of real numbers that contain only finitely many non zero entries which has a basis indexed by the natural numbers n for i n ei is the sequence consisting of all zeroes except in the i th position which is
+the dual space of r is isomorphic to r the space of all sequences of real numbers each real sequence an defines a function where the element xn of r is sent to the number
+displaystyle sum n a n x n
+which is a finite sum because there are only finitely many nonzero xn
+the dimension of r is countably infinite whereas r does not have a countable basis
+this observation generalizes to any infinite dimensional vector space v over any field f a choice of basis e a identifies v with the space f of functions f a f such that f f is nonzero for only finitely many a where such a function f is identified with the vector
+displaystyle sum alpha in a f alpha mathbf e alpha
+in v the sum is finite by the assumption on f and any v v may be written in this way by the definition of the basis
+the dual space of v may then be identified with the space f of all functions from a to f a linear functional t on v is uniquely determined by the values t e it takes on the basis of v and any function a f with defines a linear functional t on v by
+displaystyle t left sum alpha in a f alpha mathbf e alpha right sum alpha in a f alpha t e alpha sum alpha in a f alpha theta alpha
+again the sum is finite because f is nonzero for only finitely many
+the set f may be identified essentially by definition with the direct sum of infinitely many copies of f viewed as a dimensional vector space over itself indexed by a i e
+there are linear isomorphisms
+displaystyle v cong f a cong bigoplus alpha in a f
+on the other hand f is again by definition the direct product of infinitely many copies of f indexed by a and so the identification
+displaystyle v cong left bigoplus alpha in a f right cong prod alpha in a f cong prod alpha in a f cong f a
+is a special case of a general result relating direct sums of modules to direct products
+considering cardinal numbers denoted here as absolute values one has thus for a f vector space v that has an infinite basis a
+displaystyle v max f a v ast f a
+it follows that if a vector space is not finite dimensional then the axiom of choice implies that the algebraic dual space is always of larger dimension as a cardinal number than the original vector space since if two bases have the same cardinality the spanned vector spaces have the same cardinality
+this is in contrast to the case of the continuous dual space discussed below which may be isomorphic to the original vector space even if the latter is infinite dimensional
+if v is finite dimensional then v is isomorphic to v
+but there is in general no natural isomorphism between these two spaces
+any bilinear form on v gives a mapping of v into its dual space via
+displaystyle v mapsto langle v cdot rangle
+where the right hand side is defined as the functional on v taking each w v to v w
+in other words the bilinear form determines a linear mapping
+displaystyle phi langle cdot cdot rangle v to v
+defined by
+displaystyle left phi langle cdot cdot rangle v w right langle v w rangle
+if the bilinear form is nondegenerate then this is an isomorphism onto a subspace of v
+if v is finite dimensional then this is an isomorphism onto all of v
+conversely any isomorphism
+displaystyle phi
+from v to a subspace of v resp all of v if v is finite dimensional defines a unique nondegenerate bilinear form
+displaystyle langle cdot cdot rangle phi
+on v by
+displaystyle langle v w rangle phi phi v w phi v w
+thus there is a one to one correspondence between isomorphisms of v to a subspace of resp all of v and nondegenerate bilinear forms on v
+if the vector space v is over the complex field then sometimes it is more natural to consider sesquilinear forms instead of bilinear forms
+in that case a given sesquilinear form determines an isomorphism of v with the complex conjugate of the dual space
+displaystyle phi langle cdot cdot rangle v to overline v
+the conjugate of the dual space
+displaystyle overline v
+can be identified with the set of all additive complex valued functionals f v c such that
+displaystyle f alpha v overline alpha f v
+there is a natural homomorphism
+displaystyle psi
+displaystyle v
+into the double dual
+displaystyle v phi v to f phi mathrm linear
+defined by
+displaystyle psi v varphi varphi v
+for all
+displaystyle v in v varphi in v
+in other words if
+displaystyle mathrm ev v v to f
+is the evaluation map defined by
+displaystyle varphi mapsto varphi v
+displaystyle psi v to v
+is defined as the map
+displaystyle v mapsto mathrm ev v
+this map
+displaystyle psi
+is always injective it is an isomorphism if and only if
+displaystyle v
+is finite dimensional
+indeed the isomorphism of a finite dimensional vector space with its double dual is an archetypal example of a natural isomorphism
+infinite dimensional hilbert spaces are not a counterexample to this as they are isomorphic to their continuous double duals not to their algebraic double duals
+if f v w is a linear map then the transpose or dual f w v is defined by
+displaystyle f varphi varphi circ f
+for every
+displaystyle varphi in w
+the resulting functional
+displaystyle f varphi
+displaystyle v
+is called the pullback of
+displaystyle varphi
+along
+displaystyle f
+the following identity holds for all
+displaystyle varphi in w
+displaystyle v in v
+displaystyle f varphi v varphi f v
+where the bracket on the left is the natural pairing of v with its dual space and that on the right is the natural pairing of w with its dual
+this identity characterizes the transpose and is formally similar to the definition of the adjoint
+the assignment f f produces an injective linear map between the space of linear operators from v to w and the space of linear operators from w to v this homomorphism is an isomorphism if and only if w is finite dimensional
+if v w then the space of linear maps is actually an algebra under composition of maps and the assignment is then an antihomomorphism of algebras meaning that fg gf
+in the language of category theory taking the dual of vector spaces and the transpose of linear maps is therefore a contravariant functor from the category of vector spaces over f to itself
+it is possible to identify f with f using the natural injection into the double dual
+if the linear map f is represented by the matrix a with respect to two bases of v and w then f is represented by the transpose matrix a with respect to the dual bases of w and v hence the name
+alternatively as f is represented by a acting on the left on column vectors f is represented by the same matrix acting on the right on row vectors
+these points of view are related by the canonical inner product on r which identifies the space of column vectors with the dual space of row vectors
+let s be a subset of v
+the annihilator of s in v denoted here s is the collection of linear functionals f v such that f s for all s s
+that is s consists of all linear functionals f v f such that the restriction to s vanishes f s
+within finite dimensional vector spaces the annihilator is dual to isomorphic to the orthogonal complement
+the annihilator of a subset is itself a vector space
+the annihilator of the zero vector is the whole dual space
+displaystyle v
+and the annihilator of the whole space is just the zero covector
+displaystyle v subseteq v
+furthermore the assignment of an annihilator to a subset of v reverses inclusions so that if s t v then
+displaystyle subseteq t subseteq s subseteq v
+if a and b are two subsets of v then
+displaystyle a b subseteq a cap b
+and equality holds provided v is finite dimensional
+if ai is any family of subsets of v indexed by i belonging to some index set i then
+displaystyle left bigcup i in i a i right bigcap i in i a i
+in particular if a and b are subspaces of v then
+displaystyle a b a cap b
+if v is finite dimensional and w is a vector subspace then
+displaystyle w w
+after identifying w with its image in the second dual space under the double duality isomorphism v v
+in particular forming the annihilator is a galois connection on the lattice of subsets of a finite dimensional vector space
+if w is a subspace of v then the quotient space v w is a vector space in its own right and so has a dual
+by the first isomorphism theorem a functional f v f factors through v w if and only if w is in the kernel of f
+there is thus an isomorphism
+displaystyle v w cong w
+as a particular consequence if v is a direct sum of two subspaces a and b then v is a direct sum of a and b
+when dealing with topological vector spaces the continuous linear functionals from the space into the base field
+displaystyle mathbb f mathbb c
+displaystyle mathbb r
+are particularly important
+this gives rise to the notion of the continuous dual space or topological dual which is a linear subspace of the algebraic dual space
+displaystyle v
+denoted by
+displaystyle v
+for any finite dimensional normed vector space or topological vector space such as euclidean n space the continuous dual and the algebraic dual coincide
+this is however false for any infinite dimensional normed space as shown by the example of discontinuous linear maps
+nevertheless in the theory of topological vector spaces the terms continuous dual space and topological dual space are often replaced by dual space
+for a topological vector space
+displaystyle v
+its continuous dual space or topological dual space or just dual space in the sense of the theory of topological vector spaces
+displaystyle v
+is defined as the space of all continuous linear functionals
+displaystyle varphi v to mathbb f
+if x is a hausdorff topological vector space tvs then the continuous dual space of x is identical to the continuous dual space of the completion of x
+there is a standard construction for introducing a topology on the continuous dual
+displaystyle v
+of a topological vector space
+displaystyle v
+fix a collection
+displaystyle mathcal a
+of bounded subsets of
+displaystyle v
+this gives the topology on
+displaystyle v
+of uniform convergence on sets from
+displaystyle mathcal a
+or what is the same thing the topology generated by seminorms of the form
+displaystyle varphi a sup x in a varphi x
+where
+displaystyle varphi
+is a continuous linear functional on
+displaystyle v
+displaystyle a
+runs over the class
+displaystyle mathcal a
+this means that a net of functionals
+displaystyle varphi i
+tends to a functional
+displaystyle varphi
+displaystyle v
+if and only if
+for all
+displaystyle text for all a in mathcal a qquad varphi i varphi a sup x in a varphi i x varphi x underset i to infty longrightarrow
+usually but not necessarily the class
+displaystyle mathcal a
+is supposed to satisfy the following conditions
+each point
+displaystyle x
+displaystyle v
+belongs to some set
+displaystyle a in mathcal a
+for all
+there exists some
+such that
+displaystyle text for all x in v quad text there exists some a in mathcal a quad text such that x in a
+each two sets
+displaystyle a in mathcal a
+displaystyle b in mathcal a
+are contained in some set
+displaystyle c in mathcal a
+for all
+there exists some
+such that
+displaystyle text for all a b in mathcal a quad text there exists some c in mathcal a quad text such that a cup b subseteq c
+displaystyle mathcal a
+is closed under the operation of multiplication by scalars
+for all
+and all
+such that
+displaystyle text for all a in mathcal a quad text and all lambda in mathbb f quad text such that lambda cdot a in mathcal a
+if these requirements are fulfilled then the corresponding topology on
+displaystyle v
+is hausdorff and the sets
+displaystyle u a left varphi in v quad varphi a right qquad text for a in mathcal a
+form its local base
+here are the three most important special cases
+the strong topology on
+displaystyle v
+is the topology of uniform convergence on bounded subsets in
+displaystyle v
+so here
+displaystyle mathcal a
+can be chosen as the class of all bounded subsets in
+displaystyle v
+displaystyle v
+is a normed vector space for example a banach space or a hilbert space then the strong topology on
+displaystyle v
+is normed in fact a banach space if the field of scalars is complete with the norm
+displaystyle varphi sup x leq varphi x
+the stereotype topology on
+displaystyle v
+is the topology of uniform convergence on totally bounded sets in
+displaystyle v
+so here
+displaystyle mathcal a
+can be chosen as the class of all totally bounded subsets in
+displaystyle v
+the weak topology on
+displaystyle v
+is the topology of uniform convergence on finite subsets in
+displaystyle v
+so here
+displaystyle mathcal a
+can be chosen as the class of all finite subsets in
+displaystyle v
+each of these three choices of topology on
+displaystyle v
+leads to a variant of reflexivity property for topological vector spaces
+displaystyle v
+is endowed with the strong topology then the corresponding notion of reflexivity is the standard one the spaces reflexive in this sense are just called reflexive
+displaystyle v
+is endowed with the stereotype dual topology then the corresponding reflexivity is presented in the theory of stereotype spaces the spaces reflexive in this sense are called stereotype
+displaystyle v
+is endowed with the weak topology then the corresponding reflexivity is presented in the theory of dual pairs the spaces reflexive in this sense are arbitrary hausdorff locally convex spaces with the weak topology let p be a real number and consider the banach space of all sequences a an for which
+displaystyle mathbf a p left sum n infty a n p right frac p infty
+define the number q by p q
+then the continuous dual of is naturally identified with given an element
+displaystyle varphi in ell p
+the corresponding element of is the sequence
+displaystyle varphi mathbf e n
+where
+displaystyle mathbf e n
+denotes the sequence whose n th term is and all others are zero
+conversely given an element a an the corresponding continuous linear functional
+displaystyle varphi
+on is defined by
+displaystyle varphi mathbf b sum n a n b n
+for all b bn see h lder s inequality
+in a similar manner the continuous dual of is naturally identified with the space of bounded sequences
+furthermore the continuous duals of the banach spaces c consisting of all convergent sequences with the supremum norm and c the sequences converging to zero are both naturally identified with
+by the riesz representation theorem the continuous dual of a hilbert space is again a hilbert space which is anti isomorphic to the original space
+this gives rise to the bra ket notation used by physicists in the mathematical formulation of quantum mechanics
+by the riesz markov kakutani representation theorem the continuous dual of certain spaces of continuous functions can be described using measures
+if t v w is a continuous linear map between two topological vector spaces then the continuous transpose t w v is defined by the same formula as before
+displaystyle t varphi varphi circ t quad varphi in w
+the resulting functional t is in v
+the assignment t t produces a linear map between the space of continuous linear maps from v to w and the space of linear maps from w to v
+when t and u are composable continuous linear maps then
+displaystyle u circ t t circ u
+when v and w are normed spaces the norm of the transpose in l w v is equal to that of t in l v w
+several properties of transposition depend upon the hahn banach theorem
+for example the bounded linear map t has dense range if and only if the transpose t is injective
+when t is a compact linear map between two banach spaces v and w then the transpose t is compact
+this can be proved using the arzel ascoli theorem
+when v is a hilbert space there is an antilinear isomorphism iv from v onto its continuous dual v
+for every bounded linear map t on v the transpose and the adjoint operators are linked by
+displaystyle i v circ t t circ i v
+when t is a continuous linear map between two topological vector spaces v and w then the transpose t is continuous when w and v are equipped with compatible topologies for example when for x v and x w both duals x have the strong topology x x of uniform convergence on bounded sets of x or both have the weak topology x x of pointwise convergence on x
+the transpose t is continuous from w w to v v or from w w to v v
+assume that w is a closed linear subspace of a normed space v and consider the annihilator of w in v
+displaystyle w perp varphi in v w subseteq ker varphi
+then the dual of the quotient v w can be identified with w and the dual of w can be identified with the quotient v w
+indeed let p denote the canonical surjection from v onto the quotient v w then the transpose p is an isometric isomorphism from v w into v with range equal to w
+if j denotes the injection map from w into v then the kernel of the transpose j is the annihilator of w
+displaystyle ker j w perp
+and it follows from the hahn banach theorem that j induces an isometric isomorphism
+v w w
+if the dual of a normed space v is separable then so is the space v itself
+the converse is not true for example the space is separable but its dual is not
+in analogy with the case of the algebraic double dual there is always a naturally defined continuous linear operator v v from a normed space v into its continuous double dual v defined by
+displaystyle psi x varphi varphi x quad x in v varphi in v
+as a consequence of the hahn banach theorem this map is in fact an isometry meaning x x for all x v
+normed spaces for which the map is a bijection are called reflexive
+when v is a topological vector space then x can still be defined by the same formula for every x v however several difficulties arise
+first when v is not locally convex the continuous dual may be equal to and the map trivial
+however if v is hausdorff and locally convex the map is injective from v to the algebraic dual v of the continuous dual again as a consequence of the hahn banach theorem
+second even in the locally convex setting several natural vector space topologies can be defined on the continuous dual v so that the continuous double dual v is not uniquely defined as a set
+saying that maps from v to v or in other words that x is continuous on v for every x v is a reasonable minimal requirement on the topology of v namely that the evaluation mappings
+displaystyle varphi in v mapsto varphi x quad x in v
+be continuous for the chosen topology on v
+further there is still a choice of a topology on v and continuity of depends upon this choice
+as a consequence defining reflexivity in this framework is more involved than in the normed case
+covariance and contravariance of vectors
+dual module
+dual norm
+duality mathematics
+duality projective geometry
+pontryagin duality
+reciprocal lattice dual space basis in crystallographyaxler sheldon jay
+linear algebra done right rd ed
+springer
+bourbaki nicolas
+elements of mathematics algebra i
+springer verlag
+bourbaki nicolas
+elements of mathematics topological vector spaces
+springer verlag
+halmos paul richard
+finite dimensional vector spaces nd ed
+springer
+katznelson yitzhak katznelson yonatan r
+a terse introduction to linear algebra
+american mathematical society
+lang serge algebra graduate texts in mathematics vol revised third ed new york springer verlag isbn mr zbl
+tu loring w
+an introduction to manifolds nd ed
+springer
+mac lane saunders birkhoff garrett
+algebra rd ed
+ams chelsea publishing
+misner charles w thorne kip s wheeler john a
+gravitation
+freeman
+narici lawrence beckenstein edward
+topological vector spaces
+pure and applied mathematics second ed
+boca raton fl crc press
+rudin walter
+functional analysis
+international series in pure and applied mathematics
+vol first ed
+new york ny mcgraw hill science engineering math
+rudin walter
+functional analysis
+international series in pure and applied mathematics
+vol second ed
+new york ny mcgraw hill science engineering math
+robertson a p robertson w
+topological vector spaces
+cambridge university press
+schaefer helmut h
+topological vector spaces
+new york the macmillan company
+schaefer helmut h wolff manfred p
+topological vector spaces
+vol second ed
+new york ny springer new york imprint springer
+tr ves fran ois
+topological vector spaces distributions and kernels
+mineola n y dover publications
+oclc weisstein eric w
+dual space
+mathworld
+

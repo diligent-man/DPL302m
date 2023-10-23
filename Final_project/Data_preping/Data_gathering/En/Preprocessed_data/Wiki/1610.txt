@@ -1,0 +1,56 @@
+in finance a non deliverable forward ndf is an outright forward or futures contract in which counterparties settle the difference between the contracted ndf price or rate and the prevailing spot price or rate on an agreed notional amount
+it is used in various markets such as foreign exchange and commodities
+ndfs are also known as forward contracts for differences fcd
+ndfs are prevalent in some countries where forward fx trading has been banned by the government usually as a means to prevent exchange rate volatility
+the ndf market is an over the counter market
+ndfs began to trade actively in the s
+ndf markets developed for emerging markets with capital controls where the currencies could not be delivered offshore
+most ndfs are cash settled in us dollars usd
+the more active banks quote ndfs from between one month to one year although some would quote up to two years upon request
+the most commonly traded ndf tenors are imm dates but banks also offer odd dated ndfs
+ndfs are typically quoted with the usd as the reference currency and the settlement amount is also in usd
+below is a non exhaustive list of currencies where non deliverable forwards are traded
+not all non convertible currencies have a ndf market e g
+bdt had no active market as of
+a currency may be convertible by some market participants while being non convertible to others
+an ndf is a short term cash settled currency forward between two counterparties
+on the contracted settlement date the profit or loss is adjusted between the two counterparties based on the difference between the contracted ndf rate and the prevailing spot fx rates on an agreed notional amount
+the features of an ndf include
+notional amount this is the face value of the ndf which is agreed between the two counterparties
+it should again be noted that there is never any intention to exchange the notional amounts in the two currencies
+fixing date this is the day and time whereby the comparison between the ndf rate and the prevailing spot rate is made
+this is essentially days before the settlement day
+settlement date or delivery date this is the day when the difference is paid or received
+it is usually one or two business days after the fixing date
+contracted ndf rate the rate agreed on the transaction date and is essentially the outright forward rate of the currencies dealt
+prevailing spot rate or fixing spot rate the rate on the fixing date usually provided by the central bank and commonly calculated by calling a number of dealers in the market for a quote at a specified time of day and taking the average
+the exact method of determining the fixing rate is agreed when a trade is initiated because an ndf is a cash settled instrument the notional amount is never exchanged
+the only exchange of cash flows is the difference between the ndf rate and the prevailing spot market rate that is determined on the fixing date and exchanged on the settlement date applied to the notional i e
+cash flow ndf rate spot rate notional
+consequently since ndf is a non cash off balance sheet item and since the principal sums do not move ndf bears much lower counter party risk
+ndfs are committed short term instruments both counterparties are committed and are obliged to honor the deal
+nevertheless either counterparty can cancel an existing contract by entering into another offsetting deal at the prevailing market rate
+an investor enters into a forward agreement to purchase a notional amount n of the base currency at the contracted forward rate f and would pay nf units of the quoted currency
+on the fixing date that investor would theoretically be able to sell the notional amount n of the base currency at the prevailing spot rate s earning ns units of the quoted currency
+therefore the profit
+displaystyle pi
+on this trade in terms of the base currency is given by
+displaystyle pi frac ns nf s n left frac f s right
+the base currency is usually the more liquid and more frequently traded currency for example us dollar or euros
+ndfs can be used to create a foreign currency loan in a currency which may not be of interest to the lender
+for example the borrower wants dollars but wants to make repayments in euros
+so the borrower receives a dollar sum and repayments will still be calculated in dollars but payment will be made in euros using the current exchange rate at time of repayment
+the lender wants to lend dollars and receive repayments in dollars
+so at the same time as disbursing the dollar sum to the borrower the lender enters into a non deliverable forward agreement with a counterparty for example on the chicago market that matches the cash flows from the foreign currency repayments
+effectively the borrower has a synthetic euro loan the lender has a synthetic dollar loan and the counterparty has an ndf contract with the lender
+under certain circumstances the rates achievable using synthetic foreign currency lending may be lower than borrowing in the foreign currency directly implying that there is a possibility for arbitrage
+although this is theoretically identical to a second currency loan with settlement in dollars the borrower may face basis risk the possibility that a difference arises between the swap market s exchange rate and the exchange rate on the home market
+the lender also bears counterparty risk
+the borrower could in theory enter into ndf contracts directly and borrow in dollars separately and achieve the same result
+ndf counterparties however may prefer to work with a limited range of entities such as those with a minimum credit rating
+it is estimated that between and per cent of ndf trading is speculative
+the main difference between the outright forward deals and the non deliverable forwards is that the settlement is made in dollars since the dealer or counterparty can not settle in the alternative currency of the deal
+misra sangita behera harendra non deliverable foreign exchange forward market an overview pdf reserve bank of india occasional papers
+ma guonan ho corrinne mccauley robert n
+the markets for non deliverable forwards in asian currencies pdf bis quarterly review june
+

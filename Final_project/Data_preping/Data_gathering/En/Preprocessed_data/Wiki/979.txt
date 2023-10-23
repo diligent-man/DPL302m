@@ -1,0 +1,166 @@
+in linguistics deixis da ks s de ks s is the use of general words and phrases to refer to a specific time place or person in context e g the words tomorrow there and they
+words are deictic if their semantic meaning is fixed but their denoted meaning varies depending on time and or place
+words or phrases that require contextual information to be fully understood for example english pronouns are deictic
+deixis is closely related to anaphora
+although this article deals primarily with deixis in spoken language the concept is sometimes applied to written language gestures and communication media as well
+in linguistic anthropology deixis is treated as a particular subclass of the more general semiotic phenomenon of indexicality a sign pointing to some aspect of its context of occurrence
+although this article draws examples primarily from english deixis is believed to be a feature to some degree of all natural languages
+the term s origin is ancient greek romanized deixis lit display demonstration or reference the meaning point of reference in contemporary linguistics having been taken over from chrysippus
+charles j
+fillmore used the term major grammaticalized types to refer to the most common categories of contextual information person place and time
+similar categorizations can be found elsewhere
+personal deixis or person deixis concerns itself with the grammatical persons involved in an utterance those directly involved e g
+the speaker the addressee those not directly involved e g
+those who hear the utterance but who are not being directly addressed and those mentioned in the utterance
+in english the distinctions are generally indicated by pronouns personal deictical terms are in italics
+i am going to the movies
+would you like to have dinner
+they tried to hurt me but she came to the rescue in many languages with gendered pronouns the third person masculine pronouns he his him in english are used as a default when referring to a person whose gender is unknown or irrelevant
+to each his own in contrast english for some time used the neuter gender for cases of unspecified gender in the singular with the use of the plural starting in around the fourteenth century but many grammarians drew on latin to come to the preference for he in such cases
+however it remains common to use the third person plural they their them theirs even when the antecedent is singular a phenomenon known as singular they
+to each their own in languages that distinguish between masculine and feminine plural pronouns such as french or serbo croatian the masculine is again often used as default
+ils vont la biblioth que oni idu u biblioteku they go to the library may refer either to a group of masculine nouns or a group of both masculine and feminine nouns
+elles vont one idu would be used only for a group of feminine nouns
+in many such languages the gender as a grammatical category of a noun is only tangentially related to the gender of the thing the noun represents
+for example in french the generic personne meaning a person of either sex is always a feminine noun so if the subject of discourse is les personnes the people the use of elles is obligatory even if the people being considered are all men
+spatial deixis or place deixis concerns itself with the spatial locations relevant to an utterance
+similarly to personal deixis the locations may be either those of the speaker and addressee or those of persons or objects being referred to
+the most salient english examples are the adverbs here and there and the demonstratives this these that and those although those are far from exclusive
+some example sentences spatial deictical terms are in italics
+i enjoy living in this city
+here is where we will place the statue
+she was sitting over there unless otherwise specified spatial deictical terms are generally understood to be relative to the location of the speaker as in
+the shop is across the street where across the street is understood to mean across the street from where i the speaker am right now although here and there are often used to refer to locations near to and far from the speaker respectively as in
+here is a good spot it is too sunny over there there can also refer to the location of the addressee if they are not in the same location as the speaker as in
+how is the weather there deictic projection in some contexts spatial deixis is used metaphorically rather than physically i e
+the speaker is not speaking as the deictic center
+for example i am coming home now the above utterance would generally denote the speaker s going home from their own point of reference yet it appears to be perfectly normal for one to project his physical presence to his home rather than away from home
+here is another example
+i am not here please leave a message
+despite its common usage to address people who call when no one answers the phone the here here is semantically contradictory to the speaker s absence
+nevertheless this is considered normal for most people as speakers have to project themselves as answering the phone when in fact they are not physically present
+languages usually show at least a two way referential distinction in their deictic system proximal i e
+near or closer to the speaker and distal i e
+far from the speaker and or closer to the addressee
+english exemplifies this with such pairs as this and that here and there etc
+in other languages the distinction is three way or higher proximal i e
+near the speaker medial i e
+near the addressee and distal i e
+far from both
+this is the case in a few romance languages and in serbo croatian korean japanese thai filipino macedonian yaqui and turkish
+the archaic english forms yon and yonder still preserved in some regional dialects once represented a distal category that has now been subsumed by the formerly medial there
+in the sinhala language there is a four way deixis system for both person and place near the speaker me near the addressee o close to a third person visible ar and far from all not visible e
+the malagasy language has seven degrees of distance combined with two degrees of visibility while many inuit languages have even more complex systems
+temporal deixis or time deixis concerns itself with the various times involved in and referred to in an utterance
+this includes time adverbs like now then and soon as well as different verbal tenses
+a further example is the word tomorrow which denotes the next consecutive day after any day it is used
+tomorrow when spoken on a day last year denoted a different day from tomorrow when spoken next week
+time adverbs can be relative to the time when an utterance is made what fillmore calls the encoding time or et or the time when the utterance is heard fillmore s decoding time or dt
+although these are frequently the same time they can differ as in the case of prerecorded broadcasts or correspondence
+for example if one were to write temporal deictical terms are in italics
+it is raining now but i hope when you read this it will be sunny the et and dt would be different with now referring to the moment the sentence is written and when referring to the moment the sentence is read
+tenses are generally separated into absolute deictic and relative tenses
+so for example simple english past tense is absolute such as in
+he went whereas the pluperfect is relative to some other deictically specified time as in
+he had gone though the traditional categories of deixis are perhaps the most obvious there are other types of deixis that are similarly pervasive in language use
+these categories of deixis were first discussed by fillmore and lyons and were echoed in works of others
+discourse deixis also referred to as text deixis refers to the use of expressions within an utterance to refer to parts of the discourse that contain the utterance including the utterance itself
+for example in
+this is a great story this refers to an upcoming portion of the discourse and in
+that was an amazing account that refers to a prior portion of the discourse
+distinction must be made between discourse deixis and anaphora which is when an expression makes reference to the same referent as a prior term as in
+matthew is an incredible athlete he came in first in the race in this case he is not deictical because within the above sentence its denotative meaning of matthew is maintained regardless of the speaker where or when the sentence is used etc
+lyons points out that it is possible for an expression to be both deictic and anaphoric at the same time
+in his example
+i was born in london and i have lived here there all my life here or there function anaphorically in their reference to london and deictically in that the choice between here or there indicates whether the speaker is or is not currently in london
+the rule of thumb to distinguish the two phenomena is as follows when an expression refers to another linguistic expression or a piece of discourse it is discourse deictic
+when that expression refers to the same item as a prior linguistic expression it is anaphoric
+switch reference is a type of discourse deixis and a grammatical feature found in some languages which indicates whether the argument of one clause is the same as the argument of the previous clause
+in some languages this is done through same subject markers and different subject markers
+in the translated example john punched tom and left same subject marker it is john who left and in john punched tom and left different subject marker it is tom who left
+discourse deixis has been observed in internet language particularly with the use of iconic language forms resembling arrows
+social deixis concerns the social information that is encoded within various expressions such as relative social status and familiarity
+two major forms of it are the so called t v distinctions and honorifics
+t v distinctiont v distinctions named for the latin tu and vos singular and plural versions of you is the name given to the phenomenon when a language has at least two different second person pronouns
+the varying usage of these pronouns indicates something about formality familiarity and or solidarity between the interactants
+so for example the t form might be used when speaking to a friend or social equal whereas the v form would be used speaking to a stranger or social superior
+this phenomenon is common in european languages
+honorificshonorifics are a much more complex form of social deixis than t v distinctions though they encode similar types of social information
+they can involve words being marked with various morphemes as well as nearly entirely different lexicons being used based on the social status of the interactants
+this type of social deixis is found in a variety of languages but is especially common in south and east asia
+persian also makes wide use of honorifics
+technological deixis is a reference to the forms and purposes literacy takes as technology changes the nature of literacy in general e g how one reads a webpage navigates new software etc how those literacies might be expressed and the speed and efficiency with which those literacies might change leu kinzer coiro and cammack http www readingonline org electronic elec index asp href electronic rt column index html
+generally speaking anaphora refers to the way in which a word or phrase relates to other text
+an exophoric reference refers to language outside of the text in which the reference is found
+a homophoric reference is a generic phrase that obtains a specific meaning through knowledge of its context
+for example the meaning of the phrase the queen may be determined by the country in which it is spoken
+because there may be many queens throughout the world when the sentence is used the location of the speaker provides the extra information that allows an individual queen to be identified
+an endophoric reference refers to something inside of the text in which the reference is found
+an anaphoric reference when opposed to cataphora refers to something within a text that has been previously identified
+for example in susan dropped the plate
+it shattered loudly the word it refers to the phrase the plate
+a cataphoric reference refers to something within a text that has not yet been identified
+for example in since he was very cold david promptly put on his coat the identity of he is unknown until the individual is also referred to as david a deictic center sometimes referred to as an origo is a set of theoretical points that a deictic expression is anchored to such that the evaluation of the meaning of the expression leads one to the relevant point
+as deictic expressions are frequently egocentric the center often consists of the speaker at the time and place of the utterance and additionally the place in the discourse and relevant social factors
+however deictic expressions can also be used in such a way that the deictic center is transferred to other participants in the exchange or to persons places etc
+being described in a narrative
+so for example in the sentence
+i am standing here now the deictic center is simply the person at the time and place of speaking
+but say two people are talking on the phone long distance from london to new york
+the londoner can say
+we are going to london next week in which case the deictic center is in london or they can equally validly say
+we are coming to new york next week in which case the deictic center is in new york
+similarly when telling a story about someone the deictic center is likely to switch to him her or they third person pronouns
+so then in the sentence
+he then ran twenty feet to the left it is understood that the center is with the person being spoken of and thus to the left refers not to the speaker s left but to the object of the story s left that is the person referred to as he at the time immediately before he ran twenty feet
+it is helpful to distinguish between two usages of deixis gestural and symbolic as well as non deictic usages of frequently deictic words
+gestural deixis refers broadly to deictic expressions whose understanding requires some sort of audio visual information
+a simple example is when an object is pointed at and referred to as this or that
+however the category can include other types of information than pointing such as direction of gaze tone of voice and so on
+symbolic usage by contrast requires generally only basic spatio temporal knowledge of the utterance
+so for example
+i broke this finger requires being able to see which finger is being held up whereas
+i love this city requires only knowledge of the current location
+in a similar vein
+i went to this city one time is a non deictic usage of this which does not identify anywhere specifically
+rather it is used as an indefinite article much the way a could be used in its place
+the terms deixis and indexicality are frequently used almost interchangeably and both deal with essentially the same idea of contextually dependent references
+however the two terms have different histories and traditions
+in the past deixis was associated specifically with spatiotemporal reference and indexicality was used more broadly
+more importantly each is associated with a different field of study
+deixis is associated with linguistics and indexicality is associated with philosophy as well as pragmatics
+anaphora
+deictic field and narration
+demonstrative
+generic antecedents
+metaphysics of presence
+observation
+present
+pro form
+selfanderson stephen r keenan edward l
+deixis
+shopen ed language typology and syntactic description grammatical categories and the lexicon vol
+cambridge cambridge university press
+fillmore charles j
+deictic categories in the semantics of come
+foundations of language
+fillmore charles j
+towards a descriptive framework for spatial deixis
+jarvell w
+klein eds speech place and action studies in deixis and related topics pp
+london wiley
+gaynesford m
+de i the meaning of the first person term oxford oxford university press
+george grigore la deixis spatial dans l arabe parl bagdad estudios de dialectologia arabe n zaragoza pp
+kordi snje ana
+w rter im grenzbereich von lexikon und grammatik im serbokroatischen serbo croatian words on the border between lexicon and grammar
+studies in slavic linguistics in german
+munich lincom europa
+summary
+traut gregory p
+and kazzazi kerstin
+dictionary of language and linguistics
+routledge
+london and new york demonstratives indexicals at internet encyclopedia of philosophy
+what is deixis
+

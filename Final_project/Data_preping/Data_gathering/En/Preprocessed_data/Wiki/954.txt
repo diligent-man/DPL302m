@@ -1,0 +1,24 @@
+facebook home was a user interface layer for android smartphones
+developed by the company then known as facebook now meta platforms the software was designed to be a drop in replacement for the device s existing home screen launcher
+it provided a replacement home screen that allowed users to easily view and post content on facebook along with launching apps a replacement lock screen that displayed notifications from facebook and other apps and an overlay which allowed users to chat via facebook messages or sms from any app
+facebook home was unveiled at a press event on april and was released on april for a limited selection of devices from htc and samsung electronics including the htc first a new smartphone pre loaded with the software
+meta platforms is no longer supporting or providing updates for facebook home
+citing that many users use smartphones for social networking services such as facebook its designers aimed to create an alternative user environment that would emphasize interacting with the device through people instead of apps
+the cover feed served as the replacement home screen while using facebook home it was used to view updates posted by others on facebook in a full screen environment and access an application launcher
+the lock screen displayed notifications sorted by priority using an internal algorithm from both facebook and other apps on cards while also displaying updates in a similar format
+home aimed to hide as much of the android shell as possible by default interface elements such as the status bar on the top of the screen were hidden
+a system known as chat heads was used for messages and sms avatars of friends in a conversation with the user were overlaid on the android interface
+tapping an avatar opened a pop up chat window over the app currently in use
+facebook promised support for home on a wide range of devices including smartphones and tablets but it is currently only compatible with the htc first which is pre loaded with home and was unveiled alongside the software one x one x one m samsung galaxy s iii s note ii and nexus
+initially the ability to view non facebook notifications through home was only available on the htc first as technical limitations that prevented this functionality on other devices were patched by htc in the first s distribution of android
+while the facebook home interface was officially incompatible with all other android devices some of its features were backported to facebook s main apps
+an update to the facebook messenger app added chat heads while an update to the main facebook app in august added the ability to enable cover feed as the lock screen however cover feed only supported devices that would otherwise support facebook home
+a few hours after release it had received an average review of out of on google play
+though expert reviews such as from david pogue of the new york times were more positive they generally acknowledged that while the experience of home was very polished it reinvents the way you open programs on your phone to enhance focus on facebook features to the detriment of other apps not focused on social networking
+others like om malik highlighted potential privacy concerns noting that use of facebook home might allow the company unprecedented access to user data on mobile devices
+in response to its poor reception facebook indicated in late may that it was planning on making improvements to home in response to consumer feedback
+the first of these improvements came in an update released in early june adding the ability to pin shortcuts to a tray on the bottom of the application menu screen
+in december facebook released an update to home which added a more traditional home screen
+home has not been updated since and is no longer available in the google play store
+home now unpublished on google play
+

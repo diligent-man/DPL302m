@@ -1,0 +1,16 @@
+Nghiên cứu nộp phạt vi phạm giao thông trên VNeID
+Bộ Giao thông Vận tải tích hợp đồng bộ dữ liệu giấy phép lái xe để phục vụ nộp phạt vi phạm giao thông trên ứng dụng VNeID Chính phủ yêu cầu
+Nghị quyết phiên họp Chính phủ thường kỳ ngày 11/9 Chính phủ giao Bộ Giao thông Vận tải nghiên cứu nộp phạt vi phạm giao thông thuộc thẩm quyền của thanh tra giao thông trên VNeID
+Bộ Công an hoàn thiện ứng dụng VNeID tích hợp các tiện ích quản lý xã hội ứng dụng phục vụ người dân và doanh nghiệp làm thủ tục hành chính trên môi trường điện tử
+Từ tháng 7/2020 người dân cả nước được nộp phạt vi phạm giao thông trực tuyến trên Cổng dịch vụ công quốc gia và nhận giấy tờ tại nhà
+Thời gian hệ thống cập nhật quyết định xử phạt là 7 ngày
+Sau 7 ngày kể từ khi nhận quyết định xử phạt người dân nhập số biên bản vi phạm hành chính ngày tháng năm vi phạm họ và tên sẽ tìm ra quyết định số tiền bị xử phạt
+Sau đó thực hiện các bước thanh toán qua ngân hàng/trung tâm thanh toán nhận biên lai
+Cảnh sát giao thông căn cứ vào biên lai thu tiền phạt để trả giấy tờ cho người dân qua bưu điện
+Tháng 3/2021 Cục Cảnh sát giao thông Bộ Công an thử nghiệm kết nối Cơ sở dữ liệu quốc gia về dân cư với Cơ sở dữ liệu về xử lý vi phạm hành chính
+Người vi phạm giao thông cung cấp mã số định danh cá nhân 12 số trên thẻ căn cước có mã QR để cảnh sát tra cứu dữ liệu ở Cổng dịch vụ công Quốc gia phục vụ nộp phạt qua mạng
+Nếu được nộp phạt vi phạm giao thông qua ứng dụng VNeID người dân sẽ có thêm kênh trực tuyến để thực hiện việc này
+Hồi tháng 7 Thủ tướng yêu cầu tích hợp hàng loạt tiện ích lên ứng dụng VNeID gồm trình độ học vấn quan hệ họ hàng giấy phép lái xe tài khoản ngân hàng điện nước viễn thông công chức viên chức đảng viên
+Các đô thị loại 3 thành phố hoặc thị xã thuộc tỉnh có các phường nội thành nội thị và các xã ngoại thành ngoại thị sớm nghiên cứu thí điểm tích hợp ứng dụng quản lý xã hội trên VNeID như tố giác tội phạm phòng chống cháy nổ an toàn giao thông bảo vệ môi trường khai báo tạm trú tạm vắng
+Các tiện ích cho người dân như cấp lý lịch tư pháp sổ sức khỏe điện tử giấy khai sinh kết hôn ly hôn dịch vụ ngân hàng tiện ích cho nhóm yếu thế người già trẻ em người có công cũng sẽ được tích hợp vào ứng dụng
+

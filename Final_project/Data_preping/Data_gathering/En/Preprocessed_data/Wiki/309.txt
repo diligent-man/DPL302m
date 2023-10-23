@@ -1,0 +1,80 @@
+iso is a family of standards relating to risk management codified by the international organization for standardization
+iso provides principles and generic guidelines on managing risks faced by organizations
+iso seeks to provide a universally recognized paradigm for practitioners and companies employing risk management processes to replace the myriad of existing standards methodologies and paradigms that differed between industries subject matters and regions
+for this purpose the recommendations provided in iso can be customized to any organization and its context
+as of iso tc the committee responsible for this family of standards has published five standards while four additional standards are in the proposal development stages
+published standards
+iso risk management guidelines
+iso tr risk management guidance for the implementation of iso
+iec risk management risk assessment techniques
+iso risk management guidelines for the management of legal risk
+iso travel risk management guidance for organizations
+iwa risk management guidelines on using iso in management systemsstandards under development
+iso awi risk management vocabulary
+iso wd guidance for managing emerging risks to enhance resilience
+iso cd risk management guidelines on core conceptsiso also designed its iso guidance on project management standard to align with iso
+iso was published as a standard on november and provides a standard on the implementation of risk management
+a revised and harmonized iso iec guide was published at the same time
+the purpose of iso is to be applicable and adaptable for any public private or community enterprise association group or individual accordingly the general scope of iso as a family of risk management standards is not developed for a particular industry group management system or subject matter field in mind rather to provide best practice structure and guidance to all operations concerned with risk management
+it began the process for its first revision on may
+a draft international standard dis which was open for public comment was published on february
+the iso has been criticized for lack of solidness and misleading language
+an update to iso was added in early
+the update is different in that iso provides more strategic guidance than iso and places more emphasis on both the involvement of senior management and the integration of risk management into the organization
+iso provides a set of principles guidelines for the design implementation of a risk management framework and recommendations for the application of a risk management process
+the risk management process as described in iso can be applied to any activity including decision making at all levels
+the difference between the terms risk management framework and risk management process is described by iso as in the following
+risk management framework set of components that provide the foundations and organizational arrangements for designing implementing mentoring reviewing and continually improving risk management throughout the organization
+with the help of the pdca cycle the system can be improved on an ongoing basis
+risk management process systematic application of management policies procedures and practices to the activities of communication consulting establishing the context and identifying analyzing evaluating treating monitoring and reviewing risk
+in other words what iso does is that it formalizes risk management practices and this approach is intended to facilitate broader adoption by companies who require an enterprise risk management standard that accommodates multiple silo centric management systems
+the scope of this approach to risk management is to enable all strategic management and operational tasks of an organization throughout projects functions and processes to be aligned to a common set of risk management objectives
+accordingly iso is intended for a broad stakeholder group including
+executive level stakeholders
+appointment holders in the enterprise risk management group
+risk analysts and management officers
+line managers and project managers
+compliance and internal auditors
+independent practitioners one of the key paradigm shifts proposed in iso is a controversial change in how risk is conceptualised and defined
+under both iso and iso guide the definition of risk is no longer chance or probability of loss but effect of uncertainty on objectives
+thus causing the word risk to refer to positive consequences of uncertainty as well as negative ones
+in order that iso completes this controversial change the historical origin and meaning of the word risk would cease to exist
+it follows that it would be better for iso to invent a new term such as risk opportunity management to describe their definition than to place incorrect meaning on an historical definition that relates to the origins of a word
+a similar definition was adopted in iso quality management system standard in which risk is defined as effect of uncertainty additionally a new risk related requirement risk based thinking was introduced there
+likewise a broad new definition for stakeholder was established in iso person or persons that can affect be affected by or perceive themselves to be affected by a decision or activity it is the verbatim definition given for the term interested party as defined in iso
+iso has been developed on the basis of an existing standard on risk management as nzs in the form of as nzs iso
+whereas the initial standards australia approach provided a process by which risk management could be undertaken iso addresses the entire management system that supports the design implementation maintenance and improvement of risk management processes
+the intent of iso is to be applied within existing management systems to formalize and improve risk management processes as opposed to wholesale substitution of legacy management practices
+subsequently when implementing iso attention is to be given to integrating existing risk management processes in the new paradigm addressed in the standard
+the focus of many iso harmonization programmes have centered on
+transferring accountability gaps in enterprise risk management
+aligning objectives of the governance frameworks with iso
+embedding management system reporting mechanisms
+creating uniform risk criteria and evaluation metricswhile adopting any new standard may have re engineering implications to existing management practices no requirement to conform is set out in this standard
+a detailed framework is described to ensure that an organization will have the foundations and arrangements required to embed needed organizational capabilities in order to maintain successful risk management practices
+foundations include risk management policy objectives and mandate and commitment by top management
+arrangements include plans relationships accountabilites resources processes and activities
+accordingly senior position holders in an enterprise risk management organisation will need to be cognisant of the implications for adopting the standard and be able to develop effective strategies for implementing the standard embedding it as an integral part of all organizational processes including supply chains and commercial operations
+in domains that concern risk management which may operate using relatively unsophisticated risk management processes such as security and corporate social responsibility more material change will be required such as creating a clearly articulated risk management policy formalising risk ownership processes structuring framework processes and adopting continuous improvement programmes
+certain aspects of top management accountability strategic policy implementation and effective governance frameworks including communications and consultation will require more consideration by organisations that have used previous risk management methodologies which have not specified such requirements
+iso gives a list on how to deal with risk
+avoiding the risk by deciding not to start or continue with the activity that gives rise to the risk
+accepting or increasing the risk in order to pursue an opportunity
+removing the risk source
+changing the likelihood
+changing the consequences
+sharing the risk with another party or parties including contracts and risk financing
+retaining the risk by informed decisioniso has not been developed with the intention for certification
+annex sl
+enterprise risk management
+international disaster and risk conference
+operational risk management
+risk assessment
+risk management
+risk management tools
+security riskairmic alarm irm a structured approach to enterprise risk management erm and the requirements of iso standard international organization for standardization
+standard as nzs iso risk management principles and guidelines
+discussion linkedin discussion forum on iso risk management principles and guidelines
+article iso the gold standard alex dali and christopher lajtha strategic risk september
+article iso standard a different perspective on risk and risk management
+

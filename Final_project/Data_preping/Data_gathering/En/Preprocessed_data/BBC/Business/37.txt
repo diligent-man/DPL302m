@@ -1,0 +1,85 @@
+markets
+fear greed index
+latest market news
+navigating the grocery aisle is overwhelming especially when trying to make sense of food labels
+nutrition claims like sugar free or reduced fat are hard enough to parse even when they are clearly defined
+shoppers who want to know where their food comes from or how long it will last have to work even harder
+government agencies have strict guidelines for food safety and nutrition labels on packaged foods
+but other information like sell by dates or animal welfare labels are less regulated and some are effectively meaningless
+here s how to know what you re looking at when you re reading food labels
+organic has slightly different definitions depending on what kind of food you re buying
+for fruits vegetables and other agricultural products to be certified organic by the usda farmers and growers need to avoid the use of prohibited substances generally anything synthetic when managing pests weeds disease and soil
+instead farmers need to use permitted substances as well as farming practices like using cover crops and rotating crops to promote soil health to manage their operations
+seeds used can t be genetically engineered
+the requirements for animal products are a little different
+livestock have to consume an organic diet plus vitamin and mineral supplements as needed
+both poultry and livestock must have access to an outdoor space throughout the year
+and for packaged foods it s all about the ingredients for a food item with multiple ingredients to be considered organic by the usda at least of those ingredients have to be certified organic
+in a blog post the usda explained that not all usda graded eggs are cage free and not all cage free eggs are graded by usda
+egg sellers don t have to tell customers how hens are treated
+but they can use a third party to certify certain claims or ask the usda to certify that its hens are cage free or free range
+companies that opt in to this usda certification have to pay a fee
+according to the usda s standards cage free birds can freely roam a building room or enclosed area with unlimited access to food and fresh water during their production cycle they also need to have access to perches and nests and be protected from predators
+that may look different from farm to farm the agency noted
+in addition to these conditions free range hens should have continuous access to the outdoors while they are in their laying cycle the usda explained
+that outdoor area may be fenced in or covered with a net
+when it comes to claims about how animals are raised the government generally lets companies self report
+there are no food safety and inspection service regulations specifically addressing animal raising claims an fsis spokesperson explained
+however animal raising claims are treated as special statements and these claims must be pre approved by fsis prior to use in commerce
+that means that while animal product processors don t have to tell customers how animals are raised they are supposed to adhere to a set of standards if they make these types of claims
+to get the agency s approval companies have to show documentation explaining how animals are raised and providing proof of third party certification when applicable among other things
+tyson will stop using its no antibiotics ever label on chicken
+but the government offers guidance on certain labels
+the voluntary claims raised without antibiotics no antibiotics ever or other similar ones apply only to meat from animals that have not been administered antibiotics via their food water or directly during the production process according to the usda
+the agency is considering raising its standards for how these claims are substantiated
+fsis in partnership with usda s agricultural research service ars will be conducting a sampling project to assess antibiotic residues in cattle destined for the raised without antibiotics market the agency said in june
+the results it noted will help it decide whether to change the current process
+some companies specify what types of antibiotics are used
+tyson s chicken for example has no antibiotics important to human medicine to use this and similar types of labels companies have to go through the fsis s regular approval process
+if a meat processor wants to describe beef as grass fed it can apply that term only to meat coming from cows that were fed exclusively grass after they were weaned the fsis explained
+this means grass fed animals are never confined to a feedlot and are able to access pasture throughout the growing season
+grass fed is distinct from grass finished which allows animals to have been fed grain before moving to a grass diet
+here s where things start to get vague
+there s no usda labeling policy for the phrase pasture raised according to the agency
+other claims that fall into this category according to fsis are ones like free roaming pasture fed and meadow raised
+in those cases companies define the terms and explain them to fsis or rely on third party certifiers if they want to use them
+but there s no standard definition
+consumers might assume that the words humane or sustainable on a label imply that the above conditions like grass fed or pasture raised are met
+but again there s no set definition for words like humane or sustainable in this context
+dena jones director of the farmed animal program at the animal welfare institute which fights for improving the treatment of animals noted that producers define these terms themselves
+and often they define claims that the public identifies as value added like humane or sustainable with baseline industry standard
+for jones this ill defined language is a problem
+consumers are being deceived she said
+the animal welfare institute is lobbying for stricter definitions or higher standards for the words humane and sustainable as well as claims like pasture raised and free range
+according to the usda lots of different brands use the word humane but the verification of these claims varies widely
+consumers who want to know exactly what those vague terms mean can try to find out more through the brand s website said jones though they may not find much
+another way to go is to look for third party certification labels on animal products
+a number of nonprofits like american humane global animal partnership and a greener world have their own certification programs with specific standards and review processes
+their websites offer consumers and producers specific information about each of these
+for most types of food there s no national standard for how enjoy by or sell by dates should be determined or described
+the truth and strategy of food expiration dates
+the sell by date often referred to as the expiration date is generally just the company s estimate of when a food item will taste best not when it will become unsafe to eat
+although consuming shelf stable items after a best if used by date is likely fine fresh meat and poultry could go bad even before the date on the label
+fsis offers a guide for consumers looking for a rule of thumb
+many canned goods can last on shelves for anywhere between one and five years according to the agency if properly stored
+under the right conditions packages of rice and dried pasta can last about two years
+people should cook or freeze some meats within two days of bringing them home from the store
+most stock quote data provided by bats
+us market indices are shown in real time except for the s p which is refreshed every two minutes
+all times are et
+factset factset research systems inc
+all rights reserved
+chicago mercantile certain market data is the property of chicago mercantile exchange inc
+and its licensors
+all rights reserved
+dow jones the dow jones branded indices are proprietary to and are calculated distributed and marketed by dji opco a subsidiary of s p dow jones indices llc and have been licensed for use to s p opco llc and cnn
+standard poor s and s p are registered trademarks of standard poor s financial services llc and dow jones is a registered trademark of dow jones trademark holdings llc
+all content of the dow jones branded indices copyright s p dow jones indices llc and or its affiliates
+fair value provided by indexarb com
+market holidays and trading hours provided by copp clark limited
+cable news network
+a warner bros
+discovery company
+all rights reserved
+cnn sans cable news network
+
