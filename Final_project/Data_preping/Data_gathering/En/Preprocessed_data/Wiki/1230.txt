@@ -1,60 +1,105 @@
-a lissajous curve l s u also known as lissajous figure or bowditch curve ba d t is the graph of a system of parametric equations
-displaystyle x a sin at delta quad y b sin bt
+A Lissajous curve /ˈlɪsəʒuː/, also known as Lissajous figure or Bowditch curve /ˈbaʊdɪtʃ/, is the graph of a system of parametric equations
+x
+=
+A
+sin
+⁡
+(
+a
+t
++
+δ
+)
+,
+y
+=
+B
+sin
+⁡
+(
+b
+t
+)
+,
+{\displaystyle x=A\sin(at+\delta ),\quad y=B\sin(bt),}
 which describe complex harmonic motion
-this family of curves was investigated by nathaniel bowditch in and later in more detail in by jules antoine lissajous for whom it has been named
-the appearance of the figure is highly sensitive to the ratio a b
-for a ratio of the figure is an ellipse with special cases including circles a b radians and lines
-another simple lissajous figure is the parabola b a
-other ratios produce more complicated curves which are closed only if a b is rational
-the visual form of these curves is often suggestive of a three dimensional knot and indeed many kinds of knots including those known as lissajous knots project to the plane as lissajous figures
-visually the ratio a b determines the number of lobes of the figure
-for example a ratio of or produces a figure with three major lobes see image
-similarly a ratio of produces a figure with five horizontal lobes and four vertical lobes
-rational ratios produce closed connected or still figures while irrational ratios produce figures that appear to rotate
-the ratio a b determines the relative width to height ratio of the curve
-for example a ratio of produces a figure that is twice as wide as it is high
-finally the value of determines the apparent rotation angle of the figure viewed as if it were actually a three dimensional curve
-for example produces x and y components that are exactly in phase so the resulting figure appears as an apparent three dimensional figure viewed from straight on
-in contrast any non zero produces a figure that appears to be rotated either as a left right or an up down rotation depending on the ratio a b
-lissajous figures where a b n n is a natural number and
-displaystyle delta frac n n frac pi
-are chebyshev polynomials of the first kind of degree n
-this property is exploited to produce a set of points called padua points at which a function may be sampled in order to compute either a bivariate interpolation or quadrature of the function over the domain
-the relation of some lissajous curves to chebyshev polynomials is clearer to understand if the lissajous curve which generates each of them is expressed using cosine functions rather than sine functions
-displaystyle x cos t quad y cos nt
-the animation shows the curve adaptation with continuously increasing a b fraction from to in steps of
-below are examples of lissajous figures with an odd natural number a an even natural number b and a b
-prior to modern electronic equipment lissajous curves could be generated mechanically by means of a harmonograph
-lissajous curves can also be generated using an oscilloscope as illustrated
-an octopus circuit can be used to demonstrate the waveform images on an oscilloscope
-two phase shifted sinusoid inputs are applied to the oscilloscope in x y mode and the phase relationship between the signals is presented as a lissajous figure
-in the professional audio world this method is used for realtime analysis of the phase relationship between the left and right channels of a stereo audio signal
-on larger more sophisticated audio mixing consoles an oscilloscope may be built in for this purpose
-on an oscilloscope we suppose x is ch and y is ch a is the amplitude of ch and b is the amplitude of ch a is the frequency of ch and b is the frequency of ch so a b is the ratio of frequencies of the two channels and is the phase shift of ch
-a purely mechanical application of a lissajous curve with a b is in the driving mechanism of the mars light type of oscillating beam lamps popular with railroads in the mid s
-the beam in some versions traces out a lopsided figure pattern on its side
-when the input to an lti system is sinusoidal the output is sinusoidal with the same frequency but it may have a different amplitude and some phase shift
-using an oscilloscope that can plot one signal against another as opposed to one signal against time to plot the output of an lti system against the input to the lti system produces an ellipse that is a lissajous figure for the special case of a b
-the aspect ratio of the resulting ellipse is a function of the phase shift between the input and output with an aspect ratio of perfect circle corresponding to a phase shift of and an aspect ratio of a line corresponding to a phase shift of or
-the figure below summarizes how the lissajous figure changes over different phase shifts
-the phase shifts are all negative so that delay semantics can be used with a causal lti system note that is equivalent to
-the arrows show the direction of rotation of the lissajous figure
-a lissajous curve is used in experimental tests to determine if a device may be properly categorized as a memristor
-it is also used to compare two different electrical signals a known reference signal and a signal to be tested
-lissajous figures were sometimes displayed on oscilloscopes meant to simulate high tech equipment in science fiction tv shows and movies in the s and s the title sequence by john whitney for alfred hitchcock s feature film vertigo is based on lissajous figures lissajous figures are sometimes used in graphic design as logos
-examples include
-the australian broadcasting corporation a b
-the lincoln laboratory at mit a b
-the university of electro communications japan a b
-disney s movies anywhere streaming video application uses a stylized version of the curve
-facebook s rebrand into meta platforms is also a lissajous curve echoing the shape of a capital letter m a b the dadaist artist max ernst painted lissajous figures directly by swinging a punctured bucket of paint over a canvas lissajous orbit
-blackburn pendulum
-lemniscate of gerono
-spirographlissajous curve at mathworld d java applets depicting the construction of lissajous curves in an oscilloscope
-tutorial from the nhmfl
-physics applet by chiu king ng
-detailed lissajous figures simulation drawing lissajous figures with interactive sliders in javascript
-lissajous curves interactive simulation of graphical representations of musical intervals and vibrating strings
-interactive lissajous curve generator javascript applet using jsxgraph
-animated lissajous figures
-
+This family of curves was investigated by Nathaniel Bowditch  in 1815, and later in more detail in 1857 by Jules Antoine Lissajous (for whom it has been named).
+The appearance of the figure is highly sensitive to the ratio a/b
+For a ratio of 1, the figure is an ellipse, with special cases including circles (A = B, δ = π/2 radians) and lines (δ = 0)
+Another simple Lissajous figure is the parabola (b/a = 2, δ = π/4)
+Other ratios produce more complicated curves, which are closed only if a/b is rational
+The visual form of these curves is often suggestive of a three-dimensional knot, and indeed many kinds of knots, including those known as Lissajous knots, project to the plane as Lissajous figures.
+Visually, the ratio a/b determines the number of "lobes" of the figure
+For example, a ratio of 3/1 or 1/3 produces a figure with three major lobes (see image)
+Similarly, a ratio of 5/4 produces a figure with five horizontal lobes and four vertical lobes
+Rational ratios produce closed (connected) or "still" figures, while irrational ratios produce figures that appear to rotate
+The ratio A/B determines the relative width-to-height ratio of the curve
+For example, a ratio of 2/1 produces a figure that is twice as wide as it is high
+Finally, the value of δ determines the apparent "rotation" angle of the figure, viewed as if it were actually a three-dimensional curve
+For example, δ = 0 produces x and y components that are exactly in phase, so the resulting figure appears as an apparent three-dimensional figure viewed from straight on (0°)
+In contrast, any non-zero δ produces a figure that appears to be rotated, either as a left–right or an up–down rotation (depending on the ratio a/b).
+Lissajous figures where a = 1, b = N (N is a natural number) and
+δ
+=
+N
+−
+1
+N
+π
+2
+{\displaystyle \delta ={\frac {N-1}{N}}{\frac {\pi }{2}}}
+are Chebyshev polynomials of the first kind of degree N
+This property is exploited to produce a set of points, called Padua points, at which a function may be sampled in order to compute either a bivariate interpolation or quadrature of the function over the domain [−1,1] × [−1,1].
+The relation of some Lissajous curves to Chebyshev polynomials is clearer to understand if the Lissajous curve which generates each of them is expressed using cosine functions rather than sine functions.
+x
+=
+cos
+⁡
+(
+t
+)
+,
+y
+=
+cos
+⁡
+(
+N
+t
+)
+{\displaystyle x=\cos(t),\quad y=\cos(Nt)}
+The animation shows the curve adaptation with continuously increasing a/b fraction from 0 to 1 in steps of 0.01 (δ = 0).
+Below are examples of Lissajous figures with an odd natural number a, an even natural number b, and |a − b| = 1.
+Prior to modern electronic equipment, Lissajous curves could be generated mechanically by means of a harmonograph.
+Lissajous curves can also be generated using an oscilloscope (as illustrated)
+An octopus circuit can be used to demonstrate the waveform images on an oscilloscope
+Two phase-shifted sinusoid inputs are applied to the oscilloscope in X-Y mode and the phase relationship between the signals is presented as a Lissajous figure.
+In the professional audio world, this method is used for realtime analysis of the phase relationship between the left and right channels of a stereo audio signal
+On larger, more sophisticated audio mixing consoles an oscilloscope may be built-in for this purpose.
+On an oscilloscope, we suppose x is CH1 and y is CH2, A is the amplitude of CH1 and B is the amplitude of CH2, a is the frequency of CH1 and b is the frequency of CH2, so a/b is the ratio of frequencies of the two channels, and δ is the phase shift of CH1.
+A purely mechanical application of a Lissajous curve with a = 1, b = 2 is in the driving mechanism of the Mars Light type of oscillating beam lamps popular with railroads in the mid-1900s
+The beam in some versions traces out a lopsided figure-8 pattern on its side.
+When the input to an LTI system is sinusoidal, the output is sinusoidal with the same frequency, but it may have a different amplitude and some phase shift
+Using an oscilloscope that can plot one signal against another (as opposed to one signal against time) to plot the output of an LTI system against the input to the LTI system produces an ellipse that is a Lissajous figure for the special case of a = b
+The aspect ratio of the resulting ellipse is a function of the phase shift between the input and output, with an aspect ratio of 1 (perfect circle) corresponding to a phase shift of ±90° and an aspect ratio of ∞ (a line) corresponding to a phase shift of 0° or 180°.
+The figure below summarizes how the Lissajous figure changes over different phase shifts
+The phase shifts are all negative so that delay semantics can be used with a causal LTI system (note that −270° is equivalent to +90°)
+The arrows show the direction of rotation of the Lissajous figure.
+A Lissajous curve is used in experimental tests to determine if a device may be properly categorized as a memristor
+It is also used to compare two different electrical signals: a known reference signal and a signal to be tested.
+Lissajous figures were sometimes displayed on oscilloscopes meant to simulate high-tech equipment in science-fiction TV shows and movies in the 1960s and 1970s.The title sequence by John Whitney for Alfred Hitchcock's 1958 feature film Vertigo is based on Lissajous figures.Lissajous figures are sometimes used in graphic design as logos
+Examples include:
+The Australian Broadcasting Corporation (a = 1, b = 3, δ = π/2)
+The Lincoln Laboratory at MIT (a = 3, b = 4, δ = π/2)
+The University of Electro-Communications, Japan (a = 5, b = 6, δ = π/2).
+Disney's Movies Anywhere streaming video application uses a stylized version of the curve
+Facebook's rebrand into Meta Platforms is also a Lissajous Curve, echoing the shape of a capital letter M (a = 1, b = -2, δ = π/20).The Dadaist artist Max Ernst painted Lissajous figures directly by swinging a punctured bucket of paint over a canvas.Lissajous orbit
+Blackburn pendulum
+Lemniscate of Gerono
+SpirographLissajous Curve at Mathworld3D Java applets depicting the construction of Lissajous curves in an oscilloscope:
+Tutorial from the NHMFL
+Physics applet by Chiu-king Ng
+Detailed Lissajous figures simulation Drawing Lissajous figures with interactive sliders in Javascript
+Lissajous Curves: Interactive simulation of graphical representations of musical intervals and vibrating strings
+Interactive Lissajous curve generator – Javascript applet using JSXGraph
+Animated Lissajous figures

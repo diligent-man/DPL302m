@@ -1,85 +1,84 @@
-in islamic jurisprudence qiyas arabic is the process of deductive analogy in which the teachings of the hadith are compared and contrasted with those of the quran in order to apply a known injunction nass to a new circumstance and create a new injunction
-here the ruling of the sunnah and the quran may be used as a means to solve or provide a response to a new problem that may arise
-this however is only the case providing that the set precedent or paradigm and the new problem that has come about will share operative causes illah
-the illah is the specific set of circumstances that trigger a certain law into action
-an example of the use of qiy s is the case of the ban on selling or buying of goods after the last call for friday prayers until the end of the prayer stated in the quran
-by analogy this prohibition is extended to other transactions and activities such as agricultural work and administration
-among sunni muslims qiyas has been accepted as a secondary source of sharia law along with ijm after the primary sources of the quran and the sunnah
-late and modern sunni jurisprudence regards analogical reason as a secondary source of islamic law along with binding consensus following the quran and prophetic tradition
-while muslim scholarship in the later period traditionally claimed that analogy had existed in islamic jurisprudence since their religion s inception modern scholarship generally points to muslim scholar abu hanifa as the first to incorporate analogical reason as a secondary source of law
-since its inception analogical reason has been the subject of extensive study in regard to both its proper place in islamic law and its proper application
-among sunni traditions there is still a range of attitudes regarding the validity of analogy as a method of jurisprudence
-imam bukhari ahmad ibn hanbal and dawud al zahiri for example rejected the use of analogical reason outright arguing that to rely on personal opinion in law making would mean that each individual would ultimately form their own subjective conclusions
-bernard g
-weiss one of today s foremost experts on islamic law and philosophy explains that while analogical reason was accepted as a fourth source of law by later generations its validity was not a foregone conclusion among earlier muslim jurists
-thus while its status as a fourth source of law was accepted by the majority of later and modern muslim jurists this was not the case at the inception of muslim jurisprudence as a field
-opposition to qiyas came from a number of angles
-professor wal d b
-ibr h m al ujaj imam muhammad ibn saud islamic university explains the opposition to qiyas as coming from multiple angles
-some of them argued that qiy s is contrary to reason
-one argument given in this light was that delving into this method is intellectually repugnant in its own right
-another argument was islamic legal rulings are based on human well being and no one knows human well being except the one who gave us the sacred law
-therefore the only way we can know the sacred law is from the revelation other scholars said that qiy s is not contrary to reason but prohibited by the sacred law itself scott lucas when mentioning ahmad dallal s position on salafism states that dallal
-declared that salafism is better understood as a method of thinking of or an approach to authoritative sources than as a distinct school of thought that includes the elevation of the quran and sound hadith at the expense of the opinions attributed to the eponyms of the four sunni schools and the rejection or sever curtailment of qiyasimam bukhari maintained a negative position towards qiyas as he held views aligned with the zahiris of his time
-scott lucas states that bukhari s rejection of qiyas was placed within the context of what bukhari perceived as invalid techniques of ijtihad which included religious innovation bid a ra y and tamthil
-lucas also points out common mistakes other scholars make when analyzing bukhari s position on qiyas
-the biggest source of confusion for scholars is the fact that while rejecting qiyas bukhari accepts the idea of tashbih comparison which seems similar to analogy
-however this is not the case as tashbih is a comparison used in explanation such as a metaphor whereas qiyas applies a specific legal ruling to another case
-bukhari is also known for his criticism of those who say that the prophet used qiyas and he devoted a section of his sahih to the topic
-bukhari states
-if the prophet was asked about something about which he had not received a revelation he either said i do not know or did not reply until he received a revelation
-he did not reply by means of ra y or qiyas due to the quranic verse in accordance to what god has shown you on ahmad s views christopher melchert states ahmad and his fellow traditionalists of the ninth century expressly condemned the hanafi exercise of qiyas when compared with dawud al zahiri s intensely negative stance towards qiyas melchert also states ahmad ibn hanbal could likewise be quoted as we have seen in total rejection of ra y opinion and qiyas analogy
-ahmad ibn hanbal has been quoted as saying there is no qiyas in the sunnah and examples are not to be made up for it
-early support for the validity of analogical reason in jurisprudence came from abu hanifa and his student abu yusuf
-al shafi i was a proponent of analogical reasoning as well though his usage was less frequent than that of abu hanifa
-acceptance of analogical reason gradually increased within the muslim world
-with the malikite and hanbalite schools eventually granting full acceptance as the hanafites and shafi ites already had done the overwhelming majority of sunni jurists from the late period onward affirmed its validity
-japanese scholar of islam kojiro nakamura defined the orthodox sunni schools in regard to their eventual acceptance of analogy in descending order of that acceptance hanafis malikis shafi is hanbalis and zahiris
-much work was performed on the details of proper analogy with major figures such as al qastallani al baqillani al juwayni and al amidi from the shafi ite school and ibn abidin from the hanafite school providing rules and guidelines still used to this day
-sunni scholar baghawi gave a commonly accepted definition of analogy in islamic law analogical reasoning is the knowledge by which one learns the method of deriving a ruling from the quran and prophetic tradition
-in this case the above mentioned ruling should not already be apparent in the quran prophetic tradition or consensus
-if there is no derivation involved due to the explicitness of the ruling in the quran and prophetic tradition then such a person is not by definition a mujtahid
-in order for qiyas to be used in islamic law three things are necessary
-first there must be a new case for which the quran and sunnah of the prophet do not provide a clear ruling
-second there must be an original case which was resolved using a hukm or ruling from the quran sunnah or the process of ijma
-third there must be a common illa or reasoning which applies to both cases in an analogous way
-these three conditions allow for a hukm to be made on the new case based on the analogical connection to the reasoning from the original case
-not unlike the sunni hanbalis and zahiris the shi a rejected both pure reason and analogical reason completely on account of the multitude of perspectives that would arise from it viewing both methods as subjective
-there are various instances in which the quran disapproves of a divergence of beliefs such as the following
-within the twelver shi i legal tradition the fourth source for deriving legal principles is not qiy s but rather the intellect aql
-twelver shi a regard the ulama scholars as authorities in legal and religious matters during the occultation ghayba of the imamah mahdi
-until the return of the hidden imam it is the responsibility of the ul ma to be his deputies and provide guidance on worldly matters
-in modern interpretations of twelver shi ism the most revered and learned scholars are styled as references for emulation marja taql d
-this system of deriving legal principles effectively replaces both the sunni notion of consensus ijm and deductive analogy qiy s
-accordingly in the chapter on knowledge of the twelver collection of prophetic traditions kitab al kafi one finds many traditions cited from the imams that forbid the use of qiy s for example
-among the most notable ismaili thinkers bu ishaq quhistani regarded the notion of subjective opinion qiy s as completely contradictory to the islamic notion of tawh d unity as it ultimately gave rise to a countless divergent conclusions besides which those who exercised deductive analogy relied on little more than their imperfect individual intellects
-according to bu ishaq there must be a supreme intellect in every age just as muhammad was in his time
-without this it would be impossible for any ordinary individual to attain knowledge of the divine using mere speculation
-the supreme intellect he reasoned could be none other than the imam of the age
-bu ishaq quhistani referred to the quranic tale of adam and eve to support his argument for the necessity of a perfect teacher who could provide spiritual edification ta l m in place of what he felt were subjective whims and wayward personal opinions ra y
-commenting on the quranic foundational narrative bu ishaq explains that when god taught adam the names of all things adam was commanded to teach the angels as in sura al baqara ayah
-spiritual instruction therefore had its root in the quran itself however satan in his arrogance refused to bow down before adam
-instead he protested i am better than he
-you created me from fire and him from clay thus the first to use deductive analogy was none other than satan himself by reasoning and challenging the command of god to prostrate
-it was for this reason that satan was punished for eternity and fell from favor until the final day
-in ismaili thought therefore the truth lay not in subjective opinion ra y and analogy qiy s but rather in the teaching of the bearer of truth muhiqq that is the imam of the time
-the supreme teacher therefore exists at all times for the imperfect human intellects to submit tasl m to as is proclaimed in the divine dictate
-primarily being a school of theology and not jurisprudence the mu tazila generally did not hold independent positions on such issues
-the majority of the mu tazila despite being a distinct sect from both sunni and shi ite islam still preferred the juristic school of abu hanifa with a minority following al shafi i s views
-this resulted in the odd combination of being mu tazilite in creed but sunni in jurisprudence and consequently most of the mu tazila accepted analogical reason in addition to pure reason
-mu tazilite scholar abu l husayn al basri a major contributor to early muslim jurisprudence said that in order for a jurist to perform analogical reason they must possess a thorough knowledge of the rules and procedures for which allows the application of revealed law to an unprecedented case in addition to basic knowledge of the quran and prophetic tradition
-not all of the mu tazila followed sunni jurisprudence
-al nazzam in particular denied the validity of analogical reason wholesale preferring to rely on pure reason instead
-the inquisition that took place in the middle of the th century which was initiated by the mutazilite caliph al mamun ensured the persecution of many scholars who did not agree with the caliph s rationalistic views
-the most famous of these persecuted scholars is ahmad ibn hanbal who maintained his view that the quran was not created but eternal
-wael hallaq argues that the mihna was not just about whether or not the quran was created
-the issues of ra y qiyas and rationalism were all represented within the inquisition and hallaq states the mihna thus brought to a climax the struggle between two opposing movements the traditionalists whose cause ibn hanbal was seen to champion and the rationalists headed by the caliphs and the mu tazilites among whom there were many hanafites
-christopher melchert similarly argues that the mihna demonstrated a relationship between the hanafis of baghdad who were associated with the heavy use of qiyas and the mu tazilites
-before the middle ages there was a logical debate among islamic logicians philosophers and theologians over whether the term qiyas refers to analogical reasoning inductive reasoning or categorical syllogism
-some islamic scholars argued that qiyas refers to inductive reasoning which ibn hazm disagreed with arguing that qiyas does not refer to inductive reasoning but refers to categorical syllogism in a real sense and analogical reasoning in a metaphorical sense
-on the other hand al ghazali and ibn qud mah al maqd s argued that qiyas refers to analogical reasoning in a real sense and categorical syllogism in a metaphorical sense
-other islamic scholars at the time however argued that the term qiyas refers to both analogical reasoning and categorical syllogism in a real sense
-qiyas analogical reasoning and some problematic issues in islamic law
-mohammad hashim kamali principles of islamic jurisprudence
-shi a site refuting multiple qiyas regarding nikah mut ah
-
+In Islamic jurisprudence, qiyas (Arabic: قياس) is the process of deductive analogy in which the teachings of the hadith are compared and contrasted with those of the Quran, in order to apply  a known injunction (nass) to a new circumstance and create a new injunction
+ Here the ruling of the Sunnah and the Quran may be used as a means to solve or provide a response to a new problem that may arise
+This, however, is only the case providing that the set precedent or paradigm and the new problem that has come about will share operative causes (عِلّة, ʿillah)
+The ʿillah is the specific set of circumstances that trigger a certain law into action
+An example of the use of qiyās is the case of the ban on selling or buying of goods after the last call for Friday prayers until the end of the prayer stated in the Quran 62:9
+By analogy this prohibition is extended to other transactions and activities such as agricultural work and administration
+Among Sunni Muslims, Qiyas has been accepted as a secondary source of Sharia law along with Ijmāʿ, after the primary sources of the Quran, and the Sunnah.
+Late and modern Sunni jurisprudence regards analogical reason as a secondary source of Islamic law along with binding consensus, following the Quran, and prophetic tradition
+While Muslim scholarship in the later period traditionally claimed that analogy had existed in Islamic jurisprudence since their religion's inception, modern scholarship generally points to Muslim scholar Abu Hanifa as the first to incorporate analogical reason as a secondary source of law
+Since its inception, analogical reason has been the subject of extensive study in regard to both its proper place in Islamic law and its proper application.
+Among Sunni traditions, there is still a range of attitudes regarding the validity of analogy as a method of jurisprudence
+Imam Bukhari, Ahmad ibn Hanbal, and Dawud al-Zahiri for example, rejected the use of analogical reason outright, arguing that to rely on personal opinion in law-making would mean that each individual would ultimately form their own subjective conclusions
+Bernard G
+Weiss, one of today's foremost experts on Islamic law and philosophy, explains that while analogical reason was accepted as a fourth source of law by later generations, its validity was not a foregone conclusion among earlier Muslim jurists
+Thus, while its status as a fourth source of law was accepted by the majority of later and modern Muslim jurists, this was not the case at the inception of Muslim jurisprudence as a field.
+Opposition to qiyas came from a number of angles
+Professor Walîd b
+Ibrâhîm al-`Ujajî Imam Muhammad ibn Saud Islamic University explains the opposition to qiyas as coming from multiple angles:
+Some of them argued that qiyâs is contrary to reason
+One argument given in this light was that: “Delving into this method is intellectually repugnant in its own right”
+Another argument was: “Islamic legal rulings are based on human well-being, and no one knows human well-being except the One who gave us the sacred law
+Therefore, the only way we can know the sacred law is from the revelation.” Other scholars said that qiyâs is not contrary to reason, but prohibited by the sacred law itself.Scott Lucas, when mentioning Ahmad Dallal’s position on Salafism, states that Dallal:
+...declared that Salafism "is better understood as a method of thinking of, or an approach to, authoritative sources than as a distinct school of thought" that includes the elevation of the Quran and sound hadith at the expense of the opinions attributed to the eponyms of the four Sunni schools and the rejection (or sever curtailment) of qiyasImam Bukhari maintained a negative position towards qiyas, as he held views aligned with the Zahiris of his time
+Scott Lucas states that Bukhari’s rejection of qiyas was placed within the context of what Bukhari perceived as invalid techniques of ijtihad, which included religious innovation (bid’a), ra’y, and tamthil.
+Lucas also points out common mistakes other scholars make when analyzing Bukhari’s position on qiyas
+The biggest source of confusion for scholars is the fact that, while rejecting qiyas, Bukhari accepts the idea of tashbih (comparison), which seems similar to analogy
+However, this is not the case, as tashbih is a comparison used in explanation (such as a metaphor), whereas qiyas applies a specific legal ruling to another case.
+Bukhari is also known for his criticism of those who say that the Prophet used qiyas, and he devoted a section of his Sahih to the topic
+Bukhari states:
+If the Prophet was asked about something about which he had not received a revelation, he either said, ‘I do not know’ or did not reply until he received a revelation
+he did not [reply] by means of ra’y or qiyas, due to the [Quranic] verse, "…in accordance to what God has shown you" (4:105).On Ahmad's views, Christopher Melchert states “Ahmad and his fellow traditionalists of the ninth century expressly condemned the Hanafi exercise of qiyas…” When compared with Dawud al-Zahiri's intensely negative stance towards qiyas, Melchert also states “Ahmad ibn Hanbal could likewise be quoted, as we have seen, in total rejection of ra’y (opinion) and qiyas (analogy)."
+Ahmad ibn Hanbal has been quoted as saying "There is no qiyas in the Sunnah, and examples are not to be made up for it”
+Early support for the validity of analogical reason in jurisprudence came from Abu Hanifa and his student Abu Yusuf
+Al-Shafi'i was a proponent of analogical reasoning as well, though his usage was less frequent than that of Abu Hanifa.
+Acceptance of analogical reason gradually increased within the Muslim world
+With the Malikite and Hanbalite schools eventually granting full acceptance as the Hanafites and Shafi'ites already had done, the overwhelming majority of Sunni jurists from the late period onward affirmed its validity
+Japanese scholar of Islam Kojiro Nakamura defined the orthodox Sunni schools in regard to their eventual acceptance of analogy in descending order of that acceptance: Hanafis, Malikis, Shafi'is, Hanbalis and Zahiris
+Much work was performed on the details of proper analogy, with major figures such as Al-Qastallani, Al-Baqillani, Al-Juwayni and al-Amidi from the Shafi'ite school and Ibn Abidin from the Hanafite school providing rules and guidelines still used to this day.
+Sunni scholar Baghawi gave a commonly accepted definition of analogy in Islamic law: analogical reasoning is the knowledge by which one learns the method of deriving a ruling from the Quran and prophetic tradition
+In this case, the above-mentioned ruling should not already be apparent in the Quran, prophetic tradition or consensus
+If there is no derivation involved due to the explicitness of the ruling in the Quran and prophetic tradition, then such a person is not, by definition, a mujtahid.
+In order for Qiyas to be used in Islamic law, three things are necessary
+First, there must be a new case for which the Quran and Sunnah of the Prophet do not provide a clear ruling
+Second, there must be an original case which was resolved using a hukm, or ruling, from the Quran, Sunnah, or the process of Ijma
+Third, there must be a common illa, or reasoning, which applies to both cases in an analogous way
+These three conditions allow for a hukm to be made on the new case based on the analogical connection to the reasoning from the original case.
+Not unlike the Sunni Hanbalis and Zahiris, the Shi’a rejected both pure reason and analogical reason completely on account of the multitude of perspectives that would arise from it, viewing both methods as subjective
+There are various instances in which the Quran disapproves of a divergence of beliefs such as the following:
+Within the Twelver Shi’i legal tradition, the fourth source for deriving legal principles is not qiyās but rather the intellect ’’'Aql’’
+Twelver Shi’a regard the ulama (scholars) as authorities in legal and religious matters during the Occultation (ghayba) of the Imamah Mahdi
+Until the return of the hidden Imam, it is the responsibility of the ulāma’ to be his deputies and provide guidance on worldly matters
+In modern interpretations of Twelver Shi’ism, the most revered and learned scholars are styled as references for emulation (marja taqlīd)
+This system of deriving legal principles effectively replaces both the Sunni notion of consensus (ijmā’) and deductive analogy (qiyās)
+Accordingly, in the chapter on Knowledge of the Twelver collection of prophetic traditions, Kitab al-Kafi, one finds many traditions cited from the Imams that forbid the use of qiyās, for example:
+Among the most notable Ismaili thinkers, Bu Ishaq Quhistani regarded the notion of subjective opinion (qiyās) as completely contradictory to the Islamic notion of tawhīd (unity) as it ultimately gave rise to a countless divergent conclusions, besides which those who exercised deductive analogy  relied on little more than their imperfect individual intellects
+According to Bu Ishaq, there must be a supreme intellect in every age, just as Muhammad was in his time
+Without this, it would be impossible for any ordinary individual to attain knowledge of the Divine using mere speculation
+The supreme intellect, he reasoned, could be none other than the Imam of the age.
+Bu Ishaq Quhistani referred to the Quranic tale of Adam and Eve to support his argument for the necessity of a perfect teacher who could provide spiritual edification (ta’līm) in place of what he felt were subjective whims and wayward personal opinions (ra’y)
+Commenting on the Quranic foundational narrative, Bu Ishaq explains that when God taught Adam the names of all things, Adam was commanded to teach the angels, as in sura 2 (Al-Baqara), ayah 33
+Spiritual instruction therefore had its root in the Quran itself, however Satan, in his arrogance, refused to bow down before Adam
+Instead he protested, "I am better than he
+You created me from fire and him from clay." Thus the first to use deductive analogy was none other than Satan himself, by reasoning and challenging the command of God to prostrate
+It was for this reason that Satan was punished for eternity and fell from favor until the final day
+In Ismaili thought, therefore, the truth lay not in subjective opinion (ra’y) and analogy (qiyās), but rather in the teaching of the bearer of truth (muhiqq), that is, the Imam of the time
+The supreme teacher therefore exists at all times for the imperfect human intellects to submit (taslīm) to, as is proclaimed in the divine dictate:
+Primarily being a school of theology and not jurisprudence, the Mu'tazila generally did not hold independent positions on such issues
+The majority of the Mu'tazila, despite being a distinct sect from both Sunni and Shi'ite Islam, still preferred the juristic school of Abu Hanifa, with a minority following Al-Shafi'i's views
+This resulted in the odd combination of being Mu'tazilite in creed but Sunni in jurisprudence, and consequently most of the Mu'tazila accepted analogical reason in addition to pure reason.
+Mu'tazilite scholar Abu'l Husayn al-Basri, a major contributor to early Muslim jurisprudence, said that in order for a jurist to perform analogical reason, they must possess a thorough knowledge of the rules and procedures for which allows the application of revealed law to an unprecedented case, in addition to basic knowledge of the Quran and prophetic tradition.
+Not all of the Mu'tazila followed Sunni jurisprudence
+Al-Nazzam in particular denied the validity of analogical reason wholesale, preferring to rely on pure reason instead.
+The Inquisition that took place in the middle of the 9th century, which was initiated by the Mutazilite caliph al-Mamun, ensured the persecution of many scholars who did not agree with the caliph's rationalistic views
+The most famous of these persecuted scholars is Ahmad ibn Hanbal, who maintained his view that the Quran was not created, but eternal.
+Wael Hallaq argues that the Mihna was not just about whether or not the Quran was created
+The issues of ra’y, qiyas, and rationalism were all represented within the Inquisition, and Hallaq states “The Mihna thus brought to a climax the struggle between two opposing movements: the traditionalists, whose cause Ibn Hanbal was seen to champion; and the rationalists, headed by the caliphs and the Mu’tazilites, among whom there were many Hanafites”
+Christopher Melchert similarly argues that the Mihna demonstrated a relationship between the Hanafis of Baghdad, who were associated with the heavy use of qiyas, and the Mu’tazilites.
+Before the Middle Ages there was a logical debate among Islamic logicians, philosophers and theologians over whether the term qiyas refers to analogical reasoning, inductive reasoning or categorical syllogism
+Some Islamic scholars argued that qiyas refers to inductive reasoning, which Ibn Hazm (994-1064) disagreed with, arguing that qiyas does not refer to inductive reasoning, but refers to categorical syllogism in a real sense and analogical reasoning in a metaphorical sense
+On the other hand, al-Ghazali (1058–1111) and Ibn Qudāmah al-Maqdīsī (1147-1223) argued that qiyas refers to analogical reasoning in a real sense and categorical syllogism in a metaphorical sense
+Other Islamic scholars at the time, however, argued that the term qiyas refers to both analogical reasoning and categorical syllogism in a real sense.
+Qiyas (Analogical Reasoning) and Some Problematic Issues in Islamic law
+Mohammad Hashim Kamali, Principles of Islamic Jurisprudence (2003)
+Shi'a site refuting multiple Qiyas regarding Nikah Mut'ah

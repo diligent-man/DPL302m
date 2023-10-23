@@ -1,4 +1,3 @@
-iso is the part of international standard iso that defines names and symbols for quantities and units related to acoustics
-it is superseded by iso
-its definitions include
-
+ISO 31-7 is the part of international standard ISO 31 that defines names and symbols for quantities and units related to acoustics
+It is superseded by ISO 80000-8.
+Its definitions include:

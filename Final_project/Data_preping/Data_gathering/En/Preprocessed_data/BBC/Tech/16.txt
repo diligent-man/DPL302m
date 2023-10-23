@@ -1,44 +1,43 @@
-markets
-fear greed index
-latest market news
-the anti defamation league on wednesday said it plans to resume advertising on x the platform formerly known as twitter following a spat with owner elon musk
-musk last month threatened to sue the adl for defamation claiming that the nonprofit organization s statements about rising hate speech on the social media platform had hurt x s advertising revenue
-adl ceo jonathan greenblatt pushed back on the claims saying that while the adl was part of a coalition of groups that called on companies to pause advertising on the platform immediately following musk s acquisition last year it had not been engaged in such calls in recent months
-musk s statements about the group also amplified a campaign of antisemitic hate against the organization that had begun prior to musk s legal threat leading to a surge of threats directed at the adl greenblatt told cnn last month
-the rights group reiterated in a statement wednesday that any allegation that adl has somehow orchestrated a boycott of x or caused billions of dollars of losses to the company or is pulling the strings for other advertisers is false
-benjamin netanyahu asks elon musk to roll back antisemitism on x
-indeed we ourselves were advertising on the platform until the anti adl attacks began a few weeks ago the group said
-we now are preparing to do so again to bring our important message on fighting hate to x and its users
-musk responded to the adl s statement in a post wednesday saying thank you for clarifying that you support advertising on x
-the statement appears to mark a resolution for now to weekslong tension between musk and the adl which has coincided with incidents of antisemitism rising across the united states
-but the group says it will continue to monitor for antisemitic content on x
-as we have noted in our research over the past several years x along with other social media platforms has a serious issue with antisemites and other extremists using these platforms to push their hateful ideas and in some cases bully jewish and other users it said
-a better healthier and safer x would be a win for the world as we do with all platforms we will credit x as it moves in that direction and we also will call it out when it has not
-the adl and other similar organizations including the center for countering digital hate have said in reports that the volume of hate speech on the website has grown dramatically under musk s stewardship
-musk has criticized the findings
-two brands in august paused their ad spending on x after their advertisements ran alongside an account promoting nazism
-x suspended the account after the issue was flagged and said ad impressions on the page were minimal
-x has emphasized its new freedom of speech not freedom of reach policy that aims to limit the reach of so called lawful but awful content on the platform and to protect brands from having their ads appear alongside such content
-ceo linda yaccarino has also promoted additional brand safety controls for advertisers including the ability to avoid having their ads show next to targeted hate speech sexual content gratuitous gore excessive profanity obscenity spam and drugs
-asked about musk s threats to sue the adl in an interview last week yaccarino said i wish that would be different we re looking into that she added that the adl should acknowledge x s progress on addressing antisemitism
-it appears the platform may have more work to do
-a search on wednesday for greenblatt s name immediately surfaced multiple hateful and antisemitic tweets about the adl leader
-most stock quote data provided by bats
-us market indices are shown in real time except for the s p which is refreshed every two minutes
-all times are et
-factset factset research systems inc
-all rights reserved
-chicago mercantile certain market data is the property of chicago mercantile exchange inc
+Markets
+Fear & Greed Index
+Latest Market News
+The Anti-Defamation League on Wednesday said it plans to resume advertising on X, the platform formerly known as Twitter, following a spat with owner Elon Musk.
+Musk last month threatened to sue the ADL for defamation, claiming that the nonprofit organization’s statements about rising hate speech on the social media platform had hurt X’s advertising revenue
+ADL CEO Jonathan Greenblatt pushed back on the claims, saying that while the ADL was part of a coalition of groups that called on companies to pause advertising on the platform immediately following Musk’s acquisition last year, it had not been engaged in such calls in recent months.
+Musk’s statements about the group also amplified a campaign of antisemitic hate against the organization that had begun prior to Musk’s legal threat, leading to a surge of threats directed at the ADL, Greenblatt told CNN last month.
+The rights group reiterated in a statement Wednesday that “any allegation that ADL has somehow orchestrated a boycott of X or caused billions of dollars of losses to the company or is ‘pulling the strings’ for other advertisers is false.”
+Benjamin Netanyahu asks Elon Musk to 'roll back' antisemitism on X
+“Indeed, we ourselves were advertising on the platform until the anti-ADL attacks began a few weeks ago,” the group said
+“We now are preparing to do so again to bring our important message on fighting hate to X and its users.”
+Musk responded to the ADL’s statement in a post Wednesday saying, “Thank you for clarifying that you support advertising on X.”
+The statement appears to mark a resolution — for now — to weekslong tension between Musk and the ADL, which has coincided with incidents of antisemitism rising across the United States
+But the group says it will continue to monitor for antisemitic content on X.
+“As we have noted in our research over the past several years, X – along with other social media platforms — has a serious issue with antisemites and other extremists using these platforms to push their hateful ideas and, in some cases, bully Jewish and other users,” it said
+“A better, healthier, and safer X would be a win for the world … As we do with all platforms, we will credit X as it moves in that direction, and we also will call it out when it has not.”
+The ADL and other similar organizations, including the Center for Countering Digital Hate, have said in reports that the volume of hate speech on the website has grown dramatically under Musk’s stewardship
+(Musk has criticized the findings.)
+Two brands in August paused their ad spending on X after their advertisements ran alongside an account promoting Nazism
+X suspended the account after the issue was flagged and said ad impressions on the page were minimal.
+X has emphasized its new “freedom of speech, not freedom of reach” policy that aims to limit the reach of so-called lawful but awful content on the platform and to protect brands from having their ads appear alongside such content
+CEO Linda Yaccarino has also promoted additional brand safety controls for advertisers, including the ability to avoid having their ads show next to “targeted hate speech, sexual content, gratuitous gore, excessive profanity, obscenity, spam, [and] drugs.”
+Asked about Musk’s threats to sue the ADL in an interview last week, Yaccarino said, “I wish that would be different … We’re looking into that.” She added that the ADL should acknowledge X’s progress on addressing antisemitism.
+It appears the platform may have more work to do
+A search on Wednesday for Greenblatt’s name immediately surfaced multiple hateful and antisemitic tweets about the ADL leader.
+Most stock quote data provided by BATS
+US market indices are shown in real time, except for the S&P 500 which is refreshed every two minutes
+All times are ET
+Factset: FactSet Research Systems Inc
+All rights reserved
+Chicago Mercantile: Certain market data is the property of Chicago Mercantile Exchange Inc
 and its licensors
-all rights reserved
-dow jones the dow jones branded indices are proprietary to and are calculated distributed and marketed by dji opco a subsidiary of s p dow jones indices llc and have been licensed for use to s p opco llc and cnn
-standard poor s and s p are registered trademarks of standard poor s financial services llc and dow jones is a registered trademark of dow jones trademark holdings llc
-all content of the dow jones branded indices copyright s p dow jones indices llc and or its affiliates
-fair value provided by indexarb com
-market holidays and trading hours provided by copp clark limited
-cable news network
-a warner bros
-discovery company
-all rights reserved
-cnn sans cable news network
-
+All rights reserved
+Dow Jones: The Dow Jones branded indices are proprietary to and are calculated, distributed and marketed by DJI Opco, a subsidiary of S&P Dow Jones Indices LLC and have been licensed for use to S&P Opco, LLC and CNN
+Standard & Poor’s and S&P are registered trademarks of Standard & Poor’s Financial Services LLC and Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC
+All content of the Dow Jones branded indices Copyright S&P Dow Jones Indices LLC and/or its affiliates
+Fair value provided by IndexArb.com
+Market holidays and trading hours provided by Copp Clark Limited.
+© 2023 Cable News Network
+A Warner Bros
+Discovery Company
+All Rights Reserved
+ CNN Sans ™ & © 2016 Cable News Network.

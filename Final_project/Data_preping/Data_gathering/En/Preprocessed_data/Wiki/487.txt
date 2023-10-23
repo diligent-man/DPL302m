@@ -1,20 +1,19 @@
-the pixel a is an android smartphone designed developed and marketed by google as part of the google pixel product line
-it serves as a mid range variant of the pixel and pixel pro
-the device was announced on may as part of google i o s keynote speech
-the pixel a is built with an aluminum frame a plastic back and gorilla glass for the screen
-the design includes a camera bar and two tone color scheme on the back similar to the pixel and pixel pro
-the device is available in chalk charcoal sage
-it has stereo loudspeakers one located on the bottom edge and the other doubling as the earpiece
-a usb c port is used for charging and connecting other accessories
-the pixel a uses the google tensor system on chip with gb of ram and gb of non expandable ufs internal storage
-the pixel a has a mah battery and is capable of fast charging at up to w
-it has an ip water protection rating
-the pixel a features a inch p oled display with hdr support
-the display has a aspect ratio and a circular cutout in the upper center for the front facing camera
-the pixel a includes dual rear facing cameras
-the wide mm f lens has the sony exmor imx megapixel sensor while the ultrawide f lens has a megapixel sensor the front facing camera uses an megapixel sensor
-it is capable of recording k video at or fps
-the pixel a will ship with android at launch
-it is expected to receive years of major os upgrades and years of security updates
-official website
-
+The Pixel 6a is an Android smartphone designed, developed, and marketed by Google as part of the Google Pixel product line
+It serves as a mid-range variant of the Pixel 6 and Pixel 6 Pro
+The device was announced on May 11, 2022 as part of Google I/O's keynote speech.
+The Pixel 6a is built with an aluminum frame, a plastic back and Gorilla Glass 3 for the screen
+The design includes a camera bar and two-tone color scheme on the back similar to the Pixel 6 and Pixel 6 Pro
+The device is available in Chalk, Charcoal, Sage
+It has stereo loudspeakers, one located on the bottom edge and the other doubling as the earpiece
+A USB-C port is used for charging and connecting other accessories.
+The Pixel 6a uses the Google Tensor system-on-chip, with 6 GB of RAM and 128 GB of non-expandable UFS 3.1 internal storage.
+The Pixel 6a has a 4410 mAh battery, and is capable of fast charging at up to 18 W
+It has an IP67 water protection rating.
+The Pixel 6a features a 6.1-inch 1080p OLED display with HDR support
+The display has a 20:9 aspect ratio, and a circular cutout in the upper center for the front-facing camera.
+The Pixel 6a includes dual rear-facing cameras
+The wide 27 mm f/1.7 lens has the Sony Exmor IMX363 12.2-megapixel sensor, while the ultrawide 114° f/2.2 lens has a 12-megapixel sensor; the front-facing camera uses an 8-megapixel sensor
+It is capable of recording 4K video at 30 or 60 fps.
+The Pixel 6a will ship with Android 12 at launch
+It is expected to receive 3 years of major OS upgrades and 5 years of security updates.
+Official website

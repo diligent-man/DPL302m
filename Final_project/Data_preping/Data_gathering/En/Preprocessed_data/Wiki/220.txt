@@ -1,151 +1,151 @@
-government spending or expenditure includes all government consumption investment and transfer payments
-in national income accounting the acquisition by governments of goods and services for current use to directly satisfy the individual or collective needs of the community is classed as government final consumption expenditure
-government acquisition of goods and services intended to create future benefits such as infrastructure investment or research spending is classed as government investment government gross capital formation
-these two types of government spending on final consumption and on gross capital formation together constitute one of the major components of gross domestic product
-government spending can be financed by government borrowing taxes custom duties the sale or lease of natural resources and various fees like national park entry fees or licensing fees
-when governments choose to borrow money they have to pay interest on the money borrowed
-changes in government spending is a major component of fiscal policy used to stabilize the macroeconomic business cycle
-government spending can be a useful economic policy tool for governments
-fiscal policy can be defined as the use of government spending and or taxation as a mechanism to influence an economy
-there are two types of fiscal policy expansionary fiscal policy and contractionary fiscal policy
-expansionary fiscal policy is an increase in government spending or a decrease in taxation while contractionary fiscal policy is a decrease in government spending or an increase in taxes
-expansionary fiscal policy can be used by governments to stimulate the economy during a recession
-for example an increase in government spending directly increases demand for goods and services which can help increase output and employment
-on the other hand contractionary fiscal policy can be used by governments to cool down the economy during an economic boom
-a decrease in government spending can help keep inflation in check
-during economic downturns in the short run government spending can be changed either via automatic stabilization or discretionary stabilization
-automatic stabilization is when existing policies automatically change government spending or taxes in response to economic changes without the additional passage of laws
-a primary example of an automatic stabilizer is unemployment insurance which provides financial assistance to unemployed workers
-discretionary stabilization is when a government takes actions to change government spending or taxes in direct response to changes in the economy
-for instance a government may decide to increase government spending as a result of a recession
-with discretionary stabilization the government must pass a new law to make changes in government spending
-john maynard keynes was one of the first economists to advocate for government deficit spending as part of the fiscal policy response to an economic contraction
-according to keynesian economics increased government spending raises aggregate demand and increases consumption which leads to increased production and faster recovery from recessions
-classical economists on the other hand believe that increased government spending exacerbates an economic contraction by shifting resources from the private sector which they consider productive to the public sector which they consider unproductive
-in economics the potential shifting in resources from the private sector to the public sector as a result of an increase in government deficit spending is called crowding out
-the figure to the right depicts the market for capital otherwise known as the market for loanable funds
-the downward sloping demand curve d represents demand for private capital by firms and investors and the upward sloping supply curve s represents savings by private individuals
-the initial equilibrium in this market is represented by point a where the equilibrium quantity of capital is k and the equilibrium interest rate is r
-if the government increases deficit spending it will borrow money from the private capital market and reduce the supply of savings to s
-the new equilibrium is at point b where the interest rate has increased to r and the quantity of capital available to the private sector has decreased to k
-the government has essentially made borrowing more expensive and has taken away savings from the market which crowds out some private investment
-the crowding out of private investment could limit the economic growth from the initial increase government spending
-the above explanation of the impacts of government spending comes from conventional orthodox economics a set of models that did not predict the largest economic event of the last years the global financial crisis gfc or sub prime mortgage derivatives meltdown
-although economics provokes controversy empirical evidence that orthodox economics is valid in explaining current conditions is at least questionable
-see steve keen s debunking economics the naked emperor dethroned for a complete account of its failings
-keen himself won the revere prize in economics for correctly predicting the gfc
-matt stoller a fellow at the open markets institute says the point of orthodox economics is to create a language and methodology for governing that hides political assumptions from the public calling it a science in the conventional sense of that word is at least open to question
-among the questionable concepts orthodox economics promotes is crowding out which presumes the economy is a zero sum game
-if that were true then the assumption is that resources are utilized and when government employs additional resources it must do so at the expense of the private sector
-but the u s
-economy as of this writing is at only of its current capacity never mind adding capacity and as the covid epidemic proceeds that figure is likely to go lower
-a more realistic economics would conclude that government spending would employ idle resources not crowd out private use of those resources
-history demonstrates this conclusion is realistic too
-historical gdp growth rates increase dramatically when the u s
-government spent for the new deal and for big public works projects like world war ii
-one could conclude the additional gdp grown was a result of bringing resources un or under employed during the great depression back into production
-orthodox economists contend that government borrowing competes for savings too
-the orthodox model says if government tries to borrow more by issuing and selling more bonds then the competition for finance would push up interest rates emphasis added
-some private firms would decide not to borrow at the higher rates and hence investment would be lower
-also durable consumption expenditure by households will decline because some of it is financed by borrowing
-however that model is incorrect
-government fiscal deficits generate non government surpluses flows that accumulate to the non government sector s net acquisition of financial assets a stock
-since there are more savings as a result of higher income levels arising from the deficits and greater financial wealth it is not true that government is competing with private sector borrowers for a limited supply of savings a flow to place government bonds into wealth portfolios that are fixed in size
-both savings and portfolios expand as government deficits grow and contrariwise as government practices austerity savings shrink and economic instability grows
-historically whenever government has succumbed to the siren song of this fiscal responsibility and significantly reduced deficits the economy goes into a tailspin of the time
-perhaps the clearest evidence of its failings is orthodox economics prediction for the consequences for larger government debt
-note government debt is nothing like household debt it s like bank debt
-if you have a bank account that is your asset but to the bank it s a liability a debt reducing the bank s debt reduces the size of depositors accounts
-as the above paragraph indicates what follows reducing people s savings is an economic downturn replete with waves of asset forfeitures and foreclosures when people are unable to pay their obligations out of reduced savings
-because it discouraged government debt orthodox economics blessed the clinton federal budget surplus deregulated markets reduced government spending and encouraged wall street s derivatives that led to the gfc in
-an estimated people lost their homes in that debacle
-despite these events according to orthodox economics there s a threshold for government debt beyond which the economy suffers and bond markets will demand higher interest rates or they cannot sell government debt
-people often point to greece which has to pay high interest rates to borrow as an example
-but unlike the u s greece no longer makes its own currency so it isn t comparable to a monetary sovereign who can print the means to repay such debt there is no credit risk when monetary sovereigns with floating exchange rates can print the means to repay their debt just as there would be no credit risk banks would be unable to pay depositors if they could print banknotes
-orthodox economists reinhart and rogoff even wrote a study concluding that government debt larger than of gdp impaired economic performance
-however others examined their work found they cherry picked their examples and even had a mistake in the spreadsheet formulas they used to calculate this result
-what is comparable to the monetary sovereign u s situation is japan s
-japan makes its own fiat currency yen and has a floating exchange rate
-its current debt to gdp ratio is roughly far above reinhart and rogoff s threshold
-the orthodox economics school would conclude that the japanese have borrowed too much and they have impaired their ability to repay government debt therefore the orthodox economics prediction is that bond markets would charge a risk premium higher interest rates before japan s central bank could sell yen denominated bonds
-the truth is that the national debt of japan sells at near a zero interest rate
-these conclusions stir controversy because they contradict the narrative so widely disseminated by the press and orthodox economic journals
-heterodox economists have had to found their own journals had to deal with difficulty getting tenure and employment as a result of their conclusions
-nevertheless the events cited above the federal reserve s response to the gfc extending trillion in credit to the financial sector and the current multi trillion dollar response to the covid pandemic appear to validate the conclusions of the heterodox economists particularly modern money theory
-government spending on goods and services for current use to directly satisfy individual or collective needs of the members of the community is called government final consumption expenditure gfce it is a purchase from the national accounts use of income account for goods and services directly satisfying of individual needs individual consumption or collective needs of members of the community collective consumption
-gfce consists of the value of the goods and services produced by the government itself other than own account capital formation and sales and of purchases by the government of goods and services produced by market producers that are supplied to households without any transformation as social transfers in kind
-government spending or government expenditure can be divided into three primary groups government consumption transfer payments and interest payments
-government consumption are government purchases of goods and services
-examples include road and infrastructure repairs national defence schools healthcare and government workers salaries
-investments in sciences and strategic technological innovations to serve the public needs
-transfer payments are government payments to individuals
-such payments are made without the exchange of good or services for example old age security payments employment insurance benefits veteran and civil service pensions foreign aid and social assistance payments
-subsidies to businesses are also included in this category
-interest payments are the interest paid to the holders of government bonds such as saving bonds and treasury bills the united states spends vastly more than other countries on national defense
-for example in the united states approved a budget of billion in discretionary military spending china was second with an estimated billion dollars in military spending
-the table below shows the top countries with the largest military expenditures as of the most recent year with publicly available data
-as the table suggests the united states spent nearly times as much on the military as china the country with the next largest military spending
-the u s
-military budget dwarfed spending by all other countries in the top with out of countries spending less than billion in
-in the omnibus spending package increased the military budget by another billion further increasing the united states as the largest defense spenders
-research australia found of australians think improving hospitals and the health system should be the australian government s first spending priority
-crowding in also happens in university life science research subsidies funding and government business or projects like this are often justified on the basis of their positive return on investment
-life science crowding in contrasts with crowding out in public funding of research more widely increase in government r d funding reduced private r d expenditure by in australia the average cost of public funds is estimated to be and for each dollar raised robson
-the marginal cost is probably higher but estimates differ widely depending on the tax that is increased
-in the us the total investment in medical and health research and development r d in the us had grown by over the five years from to and it is led by industry and the federal government
-however the industry accounted for of total spending in followed by the federal government at
-according to the national institute of health nih accounted for the lion s share of federal spending in medical and health research in was billion or
-also academic and research institutions this includes colleges and universities independent research iris and independent hospital medical research centres also increased spending dedicating more than billion of their own funds endowment donations etc to medical and health r d in
-although other funding sources foundations state and local government voluntary health associations and professional societies accounted for of total medical and health r d expenditure
-on the other hand global health spending continues to increase and rise rapidly to us trillion in or about of gdp and per capita up from us trillion in
-in addition about of this spending was public and private with donor funding representing less than of the total although the health spending in real terms has risen by in a year while global gdp had grown by
-according to the world health organisation who the increase in health spending in low income countries and it rose by a year between and while their economy grew by it is explained in the figure
-however the middle income economies health spending grew more than and average annual growth in high income countries was which is about twice as fast as economic growth
-in contrast health spending by the high income countries continues to represent to be the largest share of global spending which is about despite it covers only of world s population although it down from in
-the primary driver of this change in global spending on healthcare is india and china which they moved to higher income groups
-furthermore just over of the world population lived in low income countries which is now they dropped to
-moreover significant spending increment was in upper middle income economies population share has more than doubled over the period of and share of global health spending nearly also doubled due to china and india s vast population joining that group
-unfortunately all other spending share income groups had declined
-from the continent view north america western europe and oceanic countries have the highest levels of spending and west central asia and east africa the lowest which is followed closely by south asia it is explained in the figure
-it is also true that fast economic growth is associated with increased health spending and sustained rapid economic growth between and
-even more fast economic growth which is generally associated with the higher government revenues and health spending is mostly located in asia such as china india and indonesia followed by the middle east and latin america
-in these countries the real health spending per capita grew by times and increased by percentage point as per a share of gdp from to
-government acquisition intended to create future benefits such as infrastructure investment or research spending is called gross fixed capital formation or government investment which usually is the largest part of the government
-acquisition of goods and services is made through production by the government using the government s labour force fixed assets and purchased goods and services for intermediate consumption or through purchases of goods and services from market producers
-in economic theory or in macroeconomics investment is the amount purchased of goods which are not consumed but are to be used for future production i e
-capital
-examples include railroad or factory construction
-infrastructure spending is considered government investment because it will usually save money in the long run and thereby reduce the net present value of government liabilities
-spending on physical infrastructure in the u s
-returns an average of about for each spent on nonresidential construction because it is almost always less expensive to maintain than repair or replace once it has become unusable
-likewise government spending on social infrastructure such as preventative health care can save several hundreds of billions of dollars per year in the u s because for example cancer patients are more likely to be diagnosed at stage i where curative treatment is typically a few outpatient visits instead of at stage iii or later in an emergency room where treatment can involve years of hospitalization and is often terminal
-in national governments spent an average of per person while the average for the world s largest economies in terms of gdp was per person
-norway and sweden expended the most at and per capita respectively
-the federal government of the united states spent per person
-other large economy country spending figures include south korea brazil russia china and india
-the figures below of of gdp spending and a gdp per capita of for the u s
-indicate a total per person spending including national state and local governments was in the u s
-this is a list of countries by government spending as a percentage of gross domestic product gdp for the listed countries according to the index of economic freedom by the heritage foundation and the wall street journal
-tax revenue is included for comparison
-these statistics utilize the united nations system of national accounts sna which measures the government sector differently than the u s
-bureau of economic analysis bea the sna counts as government spending the gross cost of public services such as state universities and public hospitals for example the sna counts the entire cost of running the public university system not just what legislators appropriate to supplement students tuition payments those adjustments push up the sna s measure of spending by roughly percent of gdp compared with the standard measure tallied by the bea
-public social spending comprises cash benefits direct in kind provision of goods and services and tax breaks with social purposes provided by general government that is central state and local governments including social security funds
-rahn curve
-open government
-government operations
-public expenditure
-public finance
-government budget
-government waste
-fiscal policy
-fiscal council
-sovereign wealth fund
-mandatory spending
-taxpayers unions
-eurostat
-government spending in the united kingdom
-government spending in the united states
-list of countries by government spending as percentage of gdpoecd government spending statistics
-canadian governments compared
-eurostat s government spending per sector
-
+Government spending or expenditure includes all government consumption, investment, and transfer payments
+In national income accounting, the acquisition by governments of goods and services for current use, to directly satisfy the individual or collective needs of the community, is classed as government final consumption expenditure
+Government acquisition of goods and services intended to create future benefits, such as infrastructure investment or research spending, is classed as government investment (government gross capital formation)
+These two types of government spending, on final consumption and on gross capital formation, together constitute one of the major components of gross domestic product.
+Government spending can be financed by government borrowing, taxes, custom duties, the sale or lease of natural resources, and various fees like national park entry fees or licensing fees
+When Governments choose to borrow money, they have to pay interest on the money borrowed
+Changes in government spending is a major component of fiscal policy used to stabilize the macroeconomic business cycle.
+Government spending can be a useful economic policy tool for governments
+Fiscal policy can be defined as the use of government spending and/or taxation as a mechanism to influence an economy
+There are two types of fiscal policy: expansionary fiscal policy, and contractionary fiscal policy
+Expansionary fiscal policy is an increase in government spending or a decrease in taxation, while contractionary fiscal policy is a decrease in government spending or an increase in taxes
+Expansionary fiscal policy can be used by governments to stimulate the economy during a recession
+For example, an increase in government spending directly increases demand for goods and services, which can help increase output and employment
+On the other hand, contractionary fiscal policy can be used by governments to cool down the economy during an economic boom
+A decrease in government spending can help keep inflation in check
+During economic downturns, in the short run, government spending can be changed either via automatic stabilization or discretionary stabilization
+Automatic stabilization is when existing policies automatically change government spending or taxes in response to economic changes, without the additional passage of laws
+A primary example of an automatic stabilizer is unemployment insurance, which provides financial assistance to unemployed workers
+Discretionary stabilization is when a government takes actions to change government spending or taxes in direct response to changes in the economy
+For instance, a government may decide to increase government spending as a result of a recession
+With discretionary stabilization, the government must pass a new law to make changes in government spending.
+John Maynard Keynes was one of the first economists to advocate for government deficit spending as part of the fiscal policy response to an economic contraction
+According to Keynesian economics, increased government spending raises aggregate demand and increases consumption, which leads to increased production and faster recovery from recessions
+Classical economists, on the other hand, believe that increased government spending exacerbates an economic contraction by shifting resources from the private sector, which they consider productive, to the public sector, which they consider unproductive.
+In economics, the potential "shifting" in resources from the private sector to the public sector as a result of an increase in government deficit spending is called crowding out
+The figure to the right depicts the market for capital, otherwise known as the market for loanable funds
+The downward sloping demand curve D1 represents demand for private capital by firms and investors, and the upward sloping supply curve S1 represents savings by private individuals
+The initial equilibrium in this market is represented by point A, where the equilibrium quantity of capital is K1 and the equilibrium interest rate is R1
+If the government increases deficit spending, it will borrow money from the private capital market and reduce the supply of savings to S2
+The new equilibrium is at point B, where the interest rate has increased to R2 and the quantity of capital available to the private sector has decreased to K2
+The government has essentially made borrowing more expensive and has taken away savings from the market, which "crowds out" some private investment
+The crowding out of private investment could limit the economic growth from the initial increase government spending.
+The above explanation of the impacts of government spending comes from conventional, orthodox economics, a set of models that did not predict the largest economic event of the last 80 years—the Global Financial Crisis (GFC), or sub-prime mortgage derivatives meltdown
+Although economics provokes controversy, empirical evidence that orthodox economics is valid in explaining current conditions is at least questionable
+See Steve Keen's Debunking Economics: The Naked Emperor Dethroned for a complete account of its failings
+Keen himself won the Revere Prize in economics for correctly predicting the GFC.
+Matt Stoller, a fellow at the Open Markets Institute, says the point of orthodox economics "is to create a language and methodology for governing that hides political assumptions from the public" Calling it a "science" in the conventional sense of that word is at least open to question.
+Among the questionable concepts orthodox economics promotes is Crowding Out, which presumes the economy is a zero-sum game
+If that were true, then the assumption is that resources are 100% utilized, and when government employs additional resources, it must do so at the expense of the private sector
+But the U.S
+economy, as of this writing, is at only 77% of its current capacity (never mind adding capacity), and as the COVID-19 epidemic proceeds, that figure 77% is likely to go lower
+A more realistic economics would conclude that government spending would employ idle resources, not "crowd out" private use of those resources.
+History demonstrates this conclusion is realistic, too
+Historical GDP growth rates increase dramatically when the U.S
+government spent for the New Deal and for big public works projects like World War II
+One could conclude the additional GDP grown was a result of bringing resources un- or under-employed during the Great Depression back into production.
+Orthodox economists contend that government 'borrowing' competes for savings, too
+The orthodox model says: "If government tries to borrow more by issuing and selling more bonds, then the competition for finance would push up interest rates [emphasis added]
+Some private firms would decide not to borrow at the higher rates and hence investment would be lower
+Also, durable consumption expenditure by households will decline because some of it is financed by borrowing.
+"However, that model is incorrect
+Government fiscal deficits generate non-government surpluses (flows) that accumulate to the non-government sector's net acquisition of financial assets (a stock)..
+Since there are more savings (as a result of higher income levels arising from the deficits) and greater financial wealth, it is not true that government is competing with private sector borrowers for a limited supply of savings (a flow) to place government bonds into wealth portfolios that are fixed in size
+Both savings and portfolios expand as government deficits grow." And contrariwise, as government practices austerity, savings shrink and economic instability grows
+Historically, whenever government has succumbed to the siren song of this "fiscal responsibility" and significantly reduced deficits, the economy goes into a tailspin...100% of the time.
+Perhaps the clearest evidence of its failings is orthodox economics' prediction for the consequences for larger government 'debt.'
+Note: Government 'debt' is nothing like household debt, it's like bank debt
+If you have a bank account, that is your asset, but to the bank, it's a liability, a 'debt.' Reducing the bank's 'debt' reduces the size of depositors' accounts
+As the above paragraph indicates, what follows reducing people's savings is an economic downturn, replete with waves of asset forfeitures and foreclosures when people are unable to pay their obligations out of (reduced) savings.
+Because it discouraged government 'debt,' orthodox economics blessed the Clinton federal budget surplus, deregulated markets, reduced government spending, and encouraged Wall Street's derivatives that led to the GFC in 2007–8
+An estimated 8,000,000 people lost their homes in that debacle.
+Despite these events, according to orthodox economics, there's a threshold for government debt, beyond which the economy suffers, and bond markets will demand higher interest rates, or they cannot sell government debt
+People often point to Greece, which has to pay high interest rates to borrow, as an example
+But, unlike the U.S, Greece no longer makes its own currency, so it isn't comparable to a monetary sovereign who can "print" the means to repay such 'debt.' There is no credit risk when monetary sovereigns with floating exchange rates can "print" the means to repay their 'debt,' just as there would be no credit risk banks would be unable to pay depositors if they could print banknotes.
+Orthodox economists Reinhart and Rogoff even wrote a study concluding that government 'debt' larger than 90% of GDP impaired economic performance
+However, others examined their work found they cherry-picked their examples, and even had a mistake in the spreadsheet formulas they used to calculate this result.
+What is comparable to the monetary sovereign U.S.' situation is Japan's
+Japan makes its own fiat currency (Yen) and has a floating exchange rate
+Its current 'debt'-to-GDP ratio is roughly 240%--far above Reinhart and Rogoff's 90% threshold
+The orthodox economics school would conclude that the Japanese have borrowed too much, and they have impaired their ability to repay government 'debt.' Therefore, the orthodox economics prediction is that bond markets would charge a risk premium (higher interest rates) before Japan's central bank could sell Yen-denominated bonds
+The truth is that the National debt of Japan sells at near a zero interest rate.
+These conclusions stir controversy because they contradict the narrative so widely disseminated by the press and orthodox economic journals
+Heterodox economists have had to found their own journals, had to deal with difficulty getting tenure and employment as a result of their conclusions
+Nevertheless, the events cited above, the Federal Reserve's response to the GFC (extending $16 - $29 trillion in credit to the financial sector) and the current multi-trillion-dollar response to the COVID-19 pandemic appear to validate the conclusions of the heterodox economists, particularly Modern Money Theory.
+Government spending on goods and services for current use to directly satisfy individual or collective needs of the members of the community is called government final consumption expenditure (GFCE.) It is a purchase from the national accounts "use of income account" for goods and services directly satisfying of individual needs (individual consumption) or collective needs of members of the community (collective consumption)
+GFCE consists of the value of the goods and services produced by the government itself other than own-account capital formation and sales and of purchases by the government of goods and services produced by market producers that are supplied to households—without any transformation—as "social transfers" in kind.
+Government spending or government expenditure can be divided into three primary groups, government consumption, transfer payments, and interest payments.
+Government consumption are government purchases of goods and services
+Examples include road and infrastructure repairs, national defence, schools, healthcare, and government workers’ salaries.
+Investments in sciences and strategic technological innovations to serve the public needs.
+Transfer payments are government payments to individuals
+Such payments are made without the exchange of good or services, for example Old Age Security payments, Employment Insurance benefits, veteran and civil service pensions, foreign aid, and social assistance payments
+Subsidies to businesses are also included in this category.
+Interest payments are the interest paid to the holders of government bonds, such as Saving Bonds and Treasury bills.The United States spends vastly more than other countries on national defense
+For example, In 2019 the United States approved a budget of 686.1 billion in discretionary military spending, China was second with an estimated 261 billion dollars in military spending
+The table below shows the top 10 countries with the largest military expenditures as of 2015, the most recent year with publicly available data
+As the table suggests, the United States spent nearly 3 times as much on the military as China, the country with the next largest military spending
+The U.S
+military budget dwarfed spending by all other countries in the top 10, with 8 out of countries spending less than $100 billion in 2016
+ In 2022, the omnibus spending package increased the military budget by another $42 billion further increasing the United States as the largest defense spenders.
+Research Australia found 91% of Australians think 'improving hospitals and the health system' should be the Australian Government's first spending priority.
+Crowding 'in' also happens in university life science research Subsidies, funding and government business or projects like this are often justified on the basis of their positive return on investment
+Life science crowding in contrasts with crowding out in public funding of research more widely: "10% increase in government R&D funding reduced private R&D expenditure by 3%...In Australia, the average cost of public funds is estimated to be $1.20 and $1.30 for each dollar raised (Robson, 2005)
+The marginal cost is probably higher, but estimates differ widely depending on the tax that is increased".
+In the US the total investment in medical and health research and development (R&D) in the US had grown by 27% over the five years from 2013 to 2017, and it is led by industry and the federal government
+However, the industry accounted for 67% of total spending in 2017, followed by the federal government at 22%
+According to the National Institute of Health (NIH) accounted for the lion's share of federal spending in medical and health research in 2017 was $32.4 billion or 82.1%.
+Also, academic and research institutions, this includes colleges, and universities, independent research (IRIs), and independent hospital medical research centres also increased spending, dedicating more than $14.2 billion of their own funds (endowment, donations etc.) to medical and health R&D in 2017
+Although other funding sources - foundations, state and local government, voluntary health associations and professional societies - accounted for 3.7% of total medical and health R&D expenditure.
+On the other hand, global health spending continues to increase and rise rapidly – to US$7.8 trillion in 2017 or about 10% of GDP and $1.80 per capita – up from US£7.6 trillion in 2016
+In addition, about 605 of this spending was public and 40% private, with donor funding representing less than 0.2% of the total although the health spending in real terms has risen by 3.79% in a year while global GDP had grown by 3.0%.
+According to the World Health Organisation (WHO), the increase in health spending in low-income countries, and it rose by 7.8% a year between 2000 and 2017 while their economy grew by 6.4%, it is explained in the figure
+However, the middle-income economies health spending grew more than 6%, and average annual growth in high-income countries was 3.5%, which is about twice as fast as economic growth
+In contrast, health spending by the high-income countries continues to represent to be the largest share of global spending, which is about 81%, despite it covers only 16% of world's population; although it down from 87% in 2000
+The primary driver of this change in global spending on healthcare is India and China, which they moved to higher-income groups
+Furthermore, just over 40% of the world population lived in low-income countries, which is now they dropped to 10%
+Moreover, significant spending increment was in upper-middle-income economies population share has more than  doubled over the period of, and share of global health spending nearly also doubled due to China and India's vast population joining that group
+Unfortunately, all other spending share income groups had declined.
+From the continent view, North America, Western Europe, and Oceanic countries have the highest levels of spending, and West Central Asia, and East Africa the lowest, which is followed closely by South Asia, it is explained in the figure.
+It is also true that fast economic growth is associated with increased health spending and sustained rapid economic growth between 2000 and 2017
+Even more, fast economic growth which is generally associated with the higher government revenues and health spending is mostly located in Asia such as China, India and Indonesia followed by the Middle East and Latin America
+In these countries, the real health spending per capita grew by 2.2 times and increased by 0.6 percentage point as per a share of GDP from 2000 to 2017.
+Government acquisition intended to create future benefits, such as infrastructure investment or research spending, is called gross fixed capital formation, or government investment, which usually is the largest part of the government
+Acquisition of goods and services is made through production by the government (using the government's labour force, fixed assets and purchased goods and services for intermediate consumption) or through purchases of goods and services from market producers
+In economic theory or in macroeconomics, investment is the amount purchased of goods which are not consumed but are to be used for future production (i.e
+capital)
+Examples include railroad or factory construction.
+Infrastructure spending is considered government investment because it will usually save money in the long run, and thereby reduce the net present value of government liabilities.
+Spending on physical infrastructure in the U.S
+returns an average of about $1.92 for each $1.00 spent on nonresidential construction because it is almost always less expensive to maintain than repair or replace once it has become unusable.
+Likewise, government spending on social infrastructure, such as preventative health care, can save several hundreds of billions of dollars per year in the U.S., because for example cancer patients are more likely to be diagnosed at Stage I where curative treatment is typically a few outpatient visits, instead of at Stage III or later in an emergency room where treatment can involve years of hospitalization and is often terminal.
+In 2010 national governments spent an average of $2,376 per person, while the average for the world's 20 largest economies (in terms of GDP) was $16,110 per person
+Norway and Sweden expended the most at $40,908 and $26,760 per capita respectively
+The federal government of the United States spent $11,041 per person
+Other large economy country spending figures include South Korea ($4,557), Brazil ($2,813), Russia ($2,458), China ($1,010), and India ($226)
+The figures below of 42% of GDP spending and a GDP per capita of $54,629 for the U.S
+indicate a total per person spending including national, state, and local governments was $22,726 in the U.S.
+This is a list of countries by government spending as a percentage of gross domestic product (GDP) for the listed countries, according to the 2014 Index of Economic Freedom by The Heritage Foundation and The Wall Street Journal
+Tax revenue is included for comparison
+These statistics utilize the United Nations' System of National Accounts (SNA), which measures the government sector differently than the U.S
+Bureau of Economic Analysis (BEA). The SNA counts as government spending the gross cost of public services such as state universities and public hospitals. For example, the SNA counts the entire cost of running the public-university system, not just what legislators appropriate to supplement students' tuition payments. Those adjustments push up the SNA's measure of spending by roughly 4 percent of GDP compared with the standard measure tallied by the BEA.
+Public social spending comprises cash benefits, direct in-kind provision of goods and services, and tax breaks with social purposes provided by general government (that is central, state, and local governments, including social security funds).
+Rahn curve
+Open government
+Government operations
+Public expenditure
+Public finance
+Government budget
+Government waste
+Fiscal policy
+Fiscal council
+Sovereign wealth fund
+Tax
+Mandatory spending
+Taxpayers unions
+Eurostat
+Government spending in the United Kingdom
+Government spending in the United States
+List of countries by government spending as percentage of GDPOECD Government spending statistics
+Canadian Governments Compared
+Eurostat's government spending per sector

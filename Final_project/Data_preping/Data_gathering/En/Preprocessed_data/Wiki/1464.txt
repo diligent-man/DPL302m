@@ -1,18 +1,17 @@
-in typography and handwriting a descender is the portion of a letter that extends below the baseline of a font
-for example in the letter y the descender is the tail or that portion of the diagonal line which lies below the v created by the two lines converging
-in the letter p it is the stem reaching down past the o
-in most fonts descenders are reserved for lowercase characters such as g j q p y and sometimes f
-some fonts however also use descenders for some numerals typically and
-such numerals are called old style numerals
-some italic fonts such as computer modern italic put a descender on the numeral but not on any other numerals
-such fonts are not considered old style some fonts also use descenders for the tails on a few uppercase letters such as j and q
-the parts of characters that extend above the x height of a font are called ascenders
-descenders are often reduced in small print typefaces for uses such as newspapers directories or pocket bibles to fit more text on a page
-more radically on may philip rusher of banbury patented a new patent type with eliminated descenders and shortened ascenders
-the type did not prove successful nor did another use in
-the art nouveau display typeface hobo and headline typeface permanent headline which also eliminate descenders have both been somewhat popular since
-some early computer displays for example the compukit uk and printers for example the commodore restricted the vertical spacing of characters so that there was no space for correct display of descenders
-instead characters with descenders were displaced vertically upwards so that the bottom of the descender was aligned with the baseline
-contemporary systems that did not have this restriction were described as supporting true descenders
-the dictionary definition of descender at wiktionary
-
+In typography and handwriting, a descender is the portion of a letter that extends below the baseline of a font.
+For example, in the letter y, the descender is the "tail", or that portion of the diagonal line which lies below the v created by the two lines converging
+In the letter p, it is the stem reaching down past the o.
+In most fonts, descenders are reserved for lowercase characters such as g, j, q, p, y, and sometimes f
+Some fonts, however, also use descenders for some numerals (typically 3, 4, 5, 7, and 9)
+Such numerals are called old-style numerals
+(Some italic fonts, such as Computer Modern italic, put a descender on the numeral 4 but not on any other numerals
+Such fonts are not considered old-style.) Some fonts also use descenders for the tails on a few uppercase letters such as J and Q.
+The parts of characters that extend above the x-height of a font are called ascenders.
+Descenders are often reduced in small-print typefaces for uses such as newspapers, directories or pocket Bibles to fit more text on a page
+More radically, on 20 May 1802 Philip Rusher of Banbury patented a new Patent Type with eliminated descenders and shortened ascenders
+The type did not prove successful, nor did another use in 1852
+The Art Nouveau display typeface Hobo and headline typeface Permanent Headline which also eliminate descenders have both been somewhat popular since.
+Some early computer displays (for example, the Compukit UK101) and printers (for example, the Commodore 4022) restricted the vertical spacing of characters so that there was no space for correct display of descenders
+Instead, characters with descenders were displaced vertically upwards so that the bottom of the descender was aligned with the baseline
+Contemporary systems that did not have this restriction were described as supporting true descenders.
+The dictionary definition of descender at Wiktionary

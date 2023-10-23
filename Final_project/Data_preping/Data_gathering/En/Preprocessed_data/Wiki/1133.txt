@@ -1,86 +1,85 @@
-the institut national des sciences appliqu es de lyon or insa lyon is a french grande cole and engineering school
-the university is located on the la doua lyontech campus in a cluster of science and technological universities and grandes coles
-la doua is located in villeurbanne a suburb of lyon
-the school was founded in to train highly qualified engineers support continuing education and conduct research
-the five year curriculum aims at training engineers who possess human qualities and are well versed in the primary areas of science and engineering
-students may pursue a phd upon completion of the year curriculum
-graduates from insa lyon are called insaliens
-the five year academic curriculum starts with a two year preparatory cycle where students focus on fundamental sciences such as mathematics physics chemistry mechanics and computer science
-this cycle aims to provide insa engineers with a wide range of skills and competencies thus allowing them to redirect their careers independently of their initial specialization
-several special sections are available
-eurinsa with half of the students coming from other european countries
-amerinsa with half of the students coming from latin american countries mainly brazil mexico venezuela bolivia chile argentina and colombia
-asinsa with half of the students coming from asian countries mainly china vietnam and malaysia
-scan with students coming from all over the world and in which courses taught in english
-shn a section for high level athletes
-art sections music plastic arts theater dance and cinema
-for the past ten years insa lyon has been consistently the most desired engineering school by french high school students who express their wishes through a national portal
-the second cycle lasts years and trains students in departments of engineering
-biosciences
-biochemistry biotechnologies
-bioinformatics and modelling
-civil engineering urban planning
-computer science
-electrical engineering
-energy and environmental engineering
-industrial engineering
-mechanical engineering
-materials science and engineering
-telecommunications engineeringinsa lyon has a policy of encouraging international education
-students are required to spend at least months of their curriculum abroad either during an internship or as an exchange student
-insa lyon has over partner universities around the world double degrees and international laboratories
-there different languages taught at insa lyon and students must study at least two foreign languages
-there are of foreign students at insa lyon with over nationalities represented
-insa lyon s preparatory level offers international sections eurinsa asinsa amerinsa and scan with extra language and culture classes insa lyon is blessed with the largest research funding among grandes coles in france
-it features laboratories
-in insa lyon had phd students and supported theses
-the school also offers masters of science for students interested in research careers
-since its creation insa lyon has offered its students the possibility to live on campus and provide various facilities including various clubs library restaurants
-february le gala
-after the graduation ceremony a dinner and a celebration party are organized at the palais des congr s de lyon
-shrove tuesday le karnaval a student run carnival
-april le bal a prestigious party open to all students
-may les heures de l insa france s largest student festivalover a hundred associations have been registered so far such as
-le bureau des l ves bde insa lyon s student office
-alumni insa lyon insa lyon s alumni association
-forum rh ne alpes france s largest engineering job fair
-etic insa technologies and france s best junior enterprise
-la k f t argil student pub
-l insatiable student newspaper
-le karnaval shrove tuesday carnival association
-objectif sustainable development association
-exit lgbt association
-best lyon european association
-cles facil rocket club
-clubelek mechatronics club
-cin club movie club
-la mouette video club
-graines d images photography club
-club bd manga comics club
-cluji board games club
-insa talks club organizing the yearly tedxinsa eventmost of the departments also have a student association adege for electrical engineering students aedi for computer science students
-shanghai ranking by subject insa lyon is in the world top in mathematics and mechanics
-qs ranking by subject insa lyon is among the top universities in mechanical aeronautical industrial engineering and in civil engineering it ranks in the top of universities in engineering technology electrical and electronic engineering materials sciences and it telecommunications
-times higher education the impact rankings th french university for its approach and research activities for sustainable development
-the world university ranking out of institutions top
-qs world university ranking out of institutions top
-st place in the ranking performed by weekly magazine le point le point february n of the top french engineering schools with admittance directly after high school secondary school
-insa lyon is also ranked among the top preferred engineering schools for recruiters
-nd position according to the magazine l expansion with respect to salary offered for the first employment and after years experience
-nd place in the ranking of french computer engineering graduate schools according to a survey carried out by the magazine le monde informatique in supelec insa lyon mines polytechnique centrale paris
-st place according to l express among year schools
-in the french education system high school graduates go to prepa courses for years then compete for engineering schools where they spend more years whereas other schools like insa include the prepa as part of their year cursus
-ranking differ between these categories the lyontech campus offers many sports facilities that are also available to insa students
-insa was awarded the title of the best sports university in france
-the centre des sports sports centre is run by specialised sports teachers and has four objectives to supervise sports practices to run the association sportive sports association to supervise students in the top athletes sports section and to coordinate technological research applied to sports equipment
-this association brings together students who wish to specialise in the practice of a particular sport
-it runs on the basis of one or more training session per week and participates in the french university championships approximately one third of insa students are licensed with the sports association
-the association s achievements are excellent with many french championship titles being won every year
-insa lyon students are frequently selected to represent the french national university team at the various university world championships and in the universiades participating in many of the olympic sports
-top athletes
-since insa has been entrusted by the ministries of national education and sports with the administration of a sports section called shn sportifs de haut niveau literally high level sportsmen
-students from this section have participated in the olympic games
-world champions have graduated from insa
-fran ois gabart is a french professional offshore yacht racer who won the th vend e globe race in and established a new record
-institut national des sciences appliqu esinsa lyoncoordinates n e n e
-
+The Institut National des Sciences Appliquées de Lyon or INSA Lyon is a French grande école and engineering school
+The university is located on the La Doua – LyonTech campus, in a cluster of science and technological universities and Grandes Écoles
+La Doua is located in Villeurbanne, a suburb of Lyon.
+The school was founded in 1957 to train highly qualified engineers, support continuing education, and conduct research
+The five-year curriculum aims at training engineers who possess human qualities and are well versed in the primary areas of science and engineering
+Students may pursue a PhD upon completion of the 5-year curriculum
+Graduates from INSA Lyon are called Insaliens.
+The five-year academic curriculum starts with a two-year preparatory cycle where students focus on fundamental sciences such as mathematics, physics, chemistry, mechanics and computer science
+This cycle aims to provide INSA engineers with a wide range of skills and competencies, thus allowing them to redirect their careers independently of their initial specialization.
+Several special sections are available:
+EURINSA, with half of the students coming from other European countries
+AMERINSA, with half of the students coming from Latin American countries (mainly Brazil, Mexico, Venezuela, Bolivia, Chile, Argentina and Colombia)
+ASINSA, with half of the students coming from Asian countries (mainly China, Vietnam, and Malaysia)
+SCAN, with students coming from all over the world, and in which courses taught in English.
+SHN, a section for high level athletes
+5 art sections (Music, Plastic Arts, Theater, Dance and Cinema)
+For the past ten years, INSA Lyon has been consistently the most desired Engineering school by French high school students who express their wishes through a national portal
+The second cycle lasts 3 years and trains students in 9 departments of engineering:
+Biosciences
+Biochemistry & Biotechnologies
+Bioinformatics and Modelling
+Civil Engineering & Urban planning
+Computer science
+Electrical engineering
+Energy and environmental engineering
+Industrial engineering
+Mechanical Engineering
+Materials science and Engineering
+Telecommunications engineeringINSA Lyon has a policy of encouraging international education.
+Students are required to spend at least 6 months of their curriculum abroad, either during an internship or as an exchange student
+INSA Lyon has over 200 partner universities around the world, 36 double degrees and 7 international laboratories.
+There 10 different languages taught at INSA Lyon, and students must study at least two foreign languages.
+There are 30% of foreign students at INSA Lyon, with over 90 nationalities represented.
+INSA Lyon's Preparatory Level offers 4 international sections (EURINSA, ASINSA, AMERINSA, and SCAN) with extra language and culture classes.INSA Lyon is blessed with the largest research funding among Grandes Écoles in France
+It features 23 laboratories.
+In 2016, INSA Lyon had 613 PhD students and supported 155 theses.
+The school also offers 10 Masters of Science for students interested in research careers.
+Since its creation, INSA Lyon has offered its students the possibility to live on-campus and provide various facilities including various clubs, library, restaurants...
+February : Le Gala
+After the graduation ceremony, a dinner and a celebration party are organized at the Palais des congrès de Lyon.
+Shrove Tuesday : Le Karnaval, a student-run carnival
+April : Le Bal, a prestigious party open to all students
+May : Les 24 heures de l'INSA, France's largest student festivalOver a hundred associations have been registered so far, such as:
+Le Bureau des Élèves (BDE): INSA Lyon's student office
+Alumni INSA Lyon: INSA Lyon's alumni association
+Forum Rhône-Alpes: France's largest engineering job fair
+Etic INSA Technologies: 2016 and 2019 France's best junior enterprise
+La K-Fêt (ARGIL): student pub
+L'insatiable: student newspaper
+Le Karnaval: Shrove Tuesday carnival association
+Objectif 21: sustainable development association
+Exit: LGBT association
+BEST Lyon: European association
+CLES FACIL: rocket club
+Clubelek: mechatronics club
+Ciné Club movie club
+La Mouette: video club
+Graines d'Images: photography club
+Club BD Manga: comics club
+CLUJI: board games club
+Insa Talks: club organizing the yearly TEDxINSA eventMost of the departments also have a student association (Adege for electrical engineering students, AEDI for computer science students).
+Shanghai Ranking by Subject 2021: INSA Lyon is in the world top 100 in mathematics and mechanics
+QS Ranking by Subject 2020: INSA Lyon is among the top 11% universities in Mechanical, Aeronautical & Industrial Engineering and in Civil Engineering ;It ranks in the top 22% of universities in Engineering & Technology, Electrical and Electronic Engineering, Materials Sciences and IT Telecommunications.
+Times Higher Education (THE) Impact Rankings 2020: 5th French University for its approach and research activities for sustainable development (#201-300)
+THE World University Ranking 2020: #601 out of 1,400 institutions (top 43%)
+QS World University Ranking 2021: #541 out of 1,600 institutions (top 34%)
+1st place in the ranking performed by weekly magazine Le Point (Le Point – 17 February 2005 – N°1692) of the top French engineering schools (with admittance directly after high school/secondary school)
+INSA Lyon is also ranked among the top 5 preferred Engineering Schools for recruiters.
+2nd position according to the magazine "l'Expansion", with respect to salary offered for the first employment and after 3 years experience.
+2nd place in the ranking of French Computer Engineering Graduate Schools, according to a survey carried out by the magazine Le Monde Informatique in 2006 (1 Supelec, 2 INSA Lyon, 3 Mines, 4 Polytechnique, 5 Centrale Paris).
+1st place according to L'Express (06/01/2010), among 5-year schools
+In the French education system, high school graduates go to "Prepa" courses for 2 years, then compete for engineering schools where they spend 3 more years; whereas other schools like INSA include the "Prepa" as part of their 5-year cursus
+Ranking differ between these 2 categories.The LyonTech campus offers many sports facilities that are also available to INSA students
+INSA was awarded the title of the best sports university in France
+The "Centre des Sports" (sports centre) is run by 18 specialised sports teachers and has four objectives: to supervise sports practices, to run the “Association Sportive” (Sports Association), to supervise students in the top athletes sports section, and to coordinate technological research applied to sports equipment.
+This association brings together students who wish to specialise in the practice of a particular sport
+It runs on the basis of one or more training session per week and participates in the French University Championships Approximately one third of INSA students are licensed with the Sports Association
+The Association's achievements are excellent, with many French Championship titles being won every year
+INSA Lyon students are frequently selected to represent the French National University team at the various University World Championships and in the “Universiades”, participating in many of the Olympic Sports.
+Top athletes
+Since 1981, INSA has been entrusted by the Ministries of National Education and Sports with the administration of a sports section called SHN (Sportifs de Haut Niveau, literally High Level Sportsmen).
+11 students from this section have participated in the Olympic Games.
+2 World Champions have graduated from INSA
+François Gabart is a French professional offshore yacht racer who won the 7th Vendée Globe race in 2013 and established a new record.
+Institut National des Sciences AppliquéesINSA LyonCoordinates: 45°46′53″N 4°52′20″E﻿ / ﻿45.78139°N 4.87222°E﻿ / 45.78139; 4.87222

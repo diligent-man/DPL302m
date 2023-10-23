@@ -1,11 +1,11 @@
-the lg g pro is an android phablet smartphone produced by lg electronics
-serving as a successor to the lg optimus g pro it was unveiled in february during the mobile world congress in barcelona spain
-the phone comes in white or black
-it has two rgb notification leds one on the front and another on the back in the power button
-it also supports the slimport video out standard
-the volume and power buttons are at the back for easy accessibility with the index finger
-the display is inches diagonally with an unusually wide screen of mm inches
-lg g series
-lg optimus g pro
-lg g pro lite
-
+The LG G Pro 2 is an Android phablet smartphone produced by LG Electronics
+Serving as a successor to the LG Optimus G Pro, it was unveiled in February 2014 during the 2014 Mobile World Congress in Barcelona, Spain.
+The phone comes in white or black
+It has two RGB notification LEDs, one on the front and another on the back in the power button
+It also supports the SlimPort video out standard
+The volume and power buttons are at the back for easy accessibility with the index finger
+The display is 5.9 inches diagonally - with an unusually wide screen of 82 mm / 3.22 inches.
+LG G series
+LG G2
+LG Optimus G Pro
+LG G Pro Lite

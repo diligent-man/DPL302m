@@ -1,13 +1,12 @@
-the great cannon of china is an internet attack tool that is used by the chinese government to launch distributed denial of service attacks on websites by performing a man in the middle attack on large amounts of web traffic and injecting code which causes the end user s web browsers to flood traffic to targeted websites
-according to the researchers at the citizen lab the international computer science institute and princeton university s center for information technology policy who coined the term the great cannon hijacks foreign web traffic intended for chinese websites and re purposes them to flood targeted web servers with enormous amounts of traffic in an attempt to disrupt their operations
-while it is co located with the great firewall the great cannon is a separate offensive system with different capabilities and design
-besides launching denial of service attacks the tool is also capable of monitoring web traffic and distributing malware in targeted attacks in ways that are similar to the quantum insert system used by the u s
-national security agency
-the great cannon hijacks insecure traffic inbound to servers within the great firewall and injects javascript that redirects that traffic to the target
-these attacks fail when websites have https encryption
-the first known targets of the great cannon in late march were websites hosting censorship evading tools including github a web based code hosting service and greatfire a service monitoring blocked websites in china
-in the great cannon was used to attack the mingjing news website
-as of december the great cannon was being used to attempt to take down the hong kong based lihkg online forum even though the basic law of hong kong clearly states that hong kong s internet is the affairs of hong kong and hong kong only
-quartz reported that the github attack caused severe political problems for china including the united states department of state viewing it as an attack against us infrastructure
-internet censorship in china
-
+The Great Cannon of China is an Internet attack tool that is used by the Chinese government to launch distributed denial-of-service attacks on websites by performing a man-in-the-middle attack on large amounts of web traffic and injecting code which causes the end-user's web browsers to  flood traffic to targeted websites
+According to the researchers at the Citizen Lab, the International Computer Science Institute, and Princeton University's Center for Information Technology Policy, who coined the term, the Great Cannon hijacks foreign web traffic intended for Chinese websites and re-purposes them to flood targeted web servers with enormous amounts of traffic in an attempt to disrupt their operations
+While it is co-located with the Great Firewall, the Great Cannon is "a separate offensive system, with different capabilities and design."
+Besides launching denial-of-service attacks, the tool is also capable of monitoring web traffic and distributing malware in targeted attacks in ways that are similar to the Quantum Insert system used by the U.S
+National Security Agency.
+The Great Cannon hijacks insecure traffic inbound to servers within the Great Firewall, and injects JavaScript that redirects that traffic to the target
+These attacks fail when websites have HTTPS encryption.
+The first known targets of the Great Cannon (in late March 2015) were websites hosting censorship-evading tools, including GitHub, a web-based code hosting service, and GreatFire, a service monitoring blocked websites in China.
+In 2017, the Great Cannon was used to attack the Mingjing News website.
+As of December 2019, the Great Cannon was being used to attempt to take down the Hong Kong-based LIHKG online forum, even though the Basic Law of Hong Kong clearly states that Hong Kong's internet is the affairs of Hong Kong and Hong Kong only.
+Quartz reported that the 2015 GitHub attack caused "severe" political problems for China, including the United States Department of State viewing it as "an attack against US infrastructure".
+Internet censorship in China

@@ -1,67 +1,78 @@
-visigothic script was a type of medieval script that originated in the visigothic kingdom in hispania the iberian peninsula modern spain and portugal
-its more limiting alternative designations littera toletana and littera mozarabica associate it with scriptoria specifically in toledo and with mozarabic culture more generally respectively
-the script which exists in book hand and cursive versions was used from approximately the late seventh century until the thirteenth century mostly in visigothic iberia but also somewhat in southern france
-it was perfected in the th th centuries and declined afterwards
-it developed from uncial script and shares many features of uncial especially an uncial form of the letter g
-other features of the script include an open top a very similar to the letter u similar shapes for the letters r and s and a long letter i resembling the modern letter l
-there are two forms of the letter d one with a straight vertical ascender and another with an ascender slanting towards the left
-the top stroke of the letter t by itself has a hook curving to the left t also has a number of other forms when used in ligatures and there are two different ligatures for the two sounds of ti hard or unassibilated and soft or sibilated as spoken in hispano latin during this period
-the letters e and r also have many different forms when written in ligature
-of particular interest is the special visigothic z which after adoption into carolingian handwriting eventually transformed into the c cedilla
-from the standard script a capital letter display script was developed with long slender forms
-there was also a cursive form that was used for charters and non religious writings which had northern leonese and southern mozarabic forms
-the leonese cursive was used in the christian north and the mozarabic was used by christians living in the muslim south
-the cursive forms were probably influenced by roman cursive brought to iberia from north africa
-visigothic script has many similarities with beneventan script and merovingian script
-verona orational fonts for latin paleography user s manual
-th edition a manual of latin paleography a comprehensive pdf file containing pages profusely illustrated january
-littera visigothica blog specialized in visigothic script
-visigothic minuscule on medieval writing
-mu oz y rivero jes s
-paleograf a visigoda m todo te rico pr ctico para aprender a leer los c dices y documentos espa oles de los siglos v al xii obra ilustrada con l minas dibujadas por el autor visigothic paleography a theoretical practical method for learning to read spanish codices and documents from the th to th centuries illustrated with figures drawn by the author in spanish
-madrid d
-jorro alturo perucho jes s
-la escritura visig tica
-estado de la cuesti n
-archiv f r diplomatik in spanish
-viena
-del camino mart nez m del carmen
-los or genes de la escritura visig tica
-actas del viii coloquio del comit international de pal ographie latine in spanish
-madrid toledo
-d az y d az manuel
-libros y librer as en la rioja altomedieval in spanish
-logro o ier
-d az y d az manuel
-c dices visig ticos en la monarqu a leonesa
-le n csic
-millares carlo agust n
-consideraciones sobre la escritura visig tica cursiva
-millares carlo agust n con la colaboraci n de jos manuel ruiz asencio
-tratado de paleograf a espa ola in spanish
-madrid espasa calpe
-mund anscari m
-la dataci n de los c dices lit rgicos toledanos
-hispania sacra in spanish
-xviii
-issn x
-mund anscari m alturo perucho jes s
-la escritura de transici n de la visg tica a la carolina en la catalu a del siglo ix
-actas del viii coloquio del comit international de pal ographie latine in spanish
-madrid toledo
-n ez contreras luis
-manual de paleograf a in spanish
-madrid c tedra
-rodr guez d az elena e
-die mozaraber
-definitionen und perspektiven der forschung los manuscritos moz rabes una encrucijada de culturas in german
-m nster lit
-selig maria frank barbara hartmann j rg
-le passage l crit des langues romanes in french
-gunter narr verlag
-vel zquez soriano isabel
-las pizarras visigodas
-edici n cr tica y estudio
-antig edad y cristianismo monograf as hist ricas sobre la antig edad tard a in spanish
-murcia universidad de murcia
-
+Visigothic script was a type of medieval script that originated in the Visigothic kingdom in Hispania (the Iberian Peninsula, modern Spain and Portugal)
+Its more limiting alternative designations littera toletana and littera mozarabica associate it with scriptoria specifically in Toledo and with Mozarabic culture more generally, respectively.
+The script, which exists in book-hand and cursive versions, was used from approximately the late seventh century until the thirteenth century, mostly in Visigothic Iberia but also somewhat in southern France
+It was perfected in the 9th–11th centuries and declined afterwards
+It developed from uncial script, and shares many features of uncial, especially an uncial form of the letter ⟨g⟩.
+Other features of the script include an open-top ⟨a⟩ (very similar to the letter ⟨u⟩), similar shapes for the letters ⟨r⟩ and ⟨s⟩, and a long letter ⟨i⟩ resembling the modern letter ⟨l⟩
+There are two forms of the letter ⟨d⟩, one with a straight vertical ascender and another with an ascender slanting towards the left
+The top stroke of the letter ⟨t⟩, by itself, has a hook curving to the left; ⟨t⟩ also has a number of other forms when used in ligatures, and there are two different ligatures for the two sounds of ⟨ti⟩ (“hard” or unassibilated and "soft" or sibilated) as spoken in Hispano-Latin during this period
+The letters ⟨e⟩ and ⟨r⟩ also have many different forms when written in ligature
+Of particular interest is the special Visigothic z ⟨ꝣ⟩, which, after adoption into Carolingian handwriting, eventually transformed into the c-cedilla ⟨ç⟩.
+From the standard script, a capital-letter display script was developed, with long slender forms
+There was also a cursive form that was used for charters and non-religious writings, which had northern ("Leonese") and southern ("Mozarabic") forms
+The Leonese cursive was used in the Christian north, and the Mozarabic was used by Christians living in the Muslim south
+The cursive forms were probably influenced by Roman cursive, brought to Iberia from North Africa.
+Visigothic script has many similarities with Beneventan script and Merovingian script.
+Verona Orational'Fonts for Latin Paleography: User's Manual
+5th edition' A manual of Latin paleography; a comprehensive PDF file containing 82 pages profusely illustrated, 2 January 2017).
+Littera Visigothica, blog specialized in Visigothic script
+Visigothic Minuscule on Medieval Writing
+Muñoz y Rivero, Jesús (1919)
+Paleografía visigoda: método teórico-práctico para aprender a leer los códices y documentos españoles de los siglos V al XII; obra ilustrada con 45 láminas dibujadas por el autor (Visigothic Paleography: A Theoretical-Practical Method for Learning to Read Spanish Codices and Documents from the 5th to 11th centuries; Illustrated with 45 Figures Drawn by the Author) (in Spanish)
+Madrid: D
+Jorro.Alturo Perucho, Jesús (2004)
+"La escritura visigótica
+Estado de la cuestión"
+Archiv für Diplomatik (in Spanish)
+Viena (50): 347–386
+ISSN 0066-6297.
+del Camino Martínez, Mª del Carmen (1990)
+Los orígenes de la escritura visigótica
+Actas del VIII Coloquio del Comité International de Paléographie Latine (in Spanish)
+Madrid-Toledo
+pp. 29–37
+ISBN 84-7094-111-9.
+Díaz y Díaz, Manuel (1979)
+Libros y librerías en la Rioja altomedieval (in Spanish)
+Logroño: IER.
+Díaz y Díaz, Manuel (1983)
+Códices visigóticos en la Monarquía leonesa
+León: CSIC.
+Millares Carlo, Agustín (1973)
+Consideraciones sobre la escritura visigótica cursiva
+León.
+Millares Carlo, Agustín; con la colaboración de José Manuel Ruiz Asencio (1983)
+Tratado de Paleografía Española (in Spanish)
+Madrid: Espasa Calpe
+ISBN 84-239-4986-9.
+Mundó, Anscari M
+(1965)
+"La datación de los códices litúrgicos toledanos"
+Hispania Sacra (in Spanish)
+XVIII
+ISSN 0018-215X.
+Mundó, Anscari M.; Alturo Perucho, Jesús (1990)
+"La escritura de transición de la visgótica a la carolina en la Cataluña del siglo IX"
+Actas del VIII Coloquio del Comité International de Paléographie Latine (in Spanish)
+Madrid-Toledo: 131–138
+ISBN 84-7094-111-9.
+Núñez Contreras, Luis (1994)
+Manual de Paleografía (in Spanish)
+Madrid: Cátedra
+ISBN 84-376-1245-4.
+Rodríguez Díaz, Elena E
+(2011)
+Die Mozaraber
+Definitionen und Perspektiven der Forschung [Los manuscritos mozárabes: una encrucijada de culturas] (in German)
+Münster: Lit
+ISBN 978-3-643-11117-3.
+Selig, Maria; Frank, Barbara; Hartmann, Jörg (1993)
+Le passage à l'écrit des langues romanes (in French)
+Gunter Narr Verlag
+ISBN 9783823342618.
+Velázquez Soriano, Isabel (1989)
+Las pizarras visigodas
+Edición crítica y estudio
+Antigüedad y Cristianismo: Monografías históricas sobre la Antigüedad Tardía (in Spanish)
+Murcia: Universidad de Murcia
+ISSN 0214-7165.

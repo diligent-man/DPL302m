@@ -1,12 +1,11 @@
-infocus epic is a smartphone marketed by infocus and manufactured by foxconn
-it was released on october
-display inch full hd display
-processor mt m deca core ghz
-rear camera megapixels
-front camera megapixels
-ram gb
-os android marshmallow
-storage gb expandable to gb
-battery capacity mahinfocus m
-official website
-
+InFocus Epic 1 is a smartphone marketed by InFocus and manufactured by Foxconn
+It was released on 25 October 2016.
+Display: 5.50-inch Full HD Display
+Processor: MT6797M Deca Core (1.4 GHz)
+Rear Camera: 16 megapixels
+Front Camera: 8 megapixels
+RAM: 3GB
+OS: Android 6.0 Marshmallow
+Storage: 32GB (Expandable to 128GB)
+Battery capacity: 3000mAhInFocus M810
+Official website

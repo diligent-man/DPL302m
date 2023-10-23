@@ -1,51 +1,50 @@
-markets
-fear greed index
-latest market news
-oil prices surged while stock markets and the israeli currency fell at the start of the week as investors reacted to war between hamas and israel
-although israel is not a major oil producer escalating tensions in the oil rich middle east spooked investors who had been selling off oil in recent weeks
-inflation fear of a global economic downturn and a correction to prices that were surging in recent months had sent us oil down from around a barrel in late september to just above last week
-but on monday us oil prices traded higher above
-brent crude the global benchmark was also up almost trading at nearly a barrel
-hamas has launched an unprecedented attack against israel
-here s what to know
-israel formally declared war on hamas sunday after the islamist militant group launched its deadly surprise assault saturday
-more than people have been killed in israel and more than palestinians have been killed according to authorities
-with the israeli government warning of a long and difficult war there are concerns that deep and incessant retaliative strikes on gaza could potentially bring iran into the conflict and have an impact on the flow of energy in the region susannah streeter head of money and markets at hargreaves landsdown wrote in a note
-on monday the israeli shekel weakened to to the us dollar its worst level since
-israel s central bank said it would sell up to billion worth of foreign currencies to stabilize the currency and to provide the necessary liquidity for the continued proper functioning of the markets
-in a statement the bank of israel said it would provide an additional billion of support if needed saying it would continue monitoring developments tracking all the markets and acting with the tools available to it as necessary
-in equity markets us stocks which surged friday on a surprisingly strong american job market report were mixed but relatively unchanged after ticking down earlier in the session
-the dow opened lower but by midday monday it was up by points or
-the s p added and the nasdaq composite declined
-global investors fear the conflict in israel could spill over to the wider region and that prolonged tensions in the middle east could hurt the fragile global economic recovery
-european stocks also fell at the open monday as traders digested the news
-but they later steadied a little with france s cac index falling while germany s dax index dipped
-london s ftse inched up propped up by gains in the shares of oil companies
-israel at war with hamas after unprecedented attacks
-in asia initial reaction among investors was mixed
-in mainland china the shanghai composite slipped after it reopened following a holiday week
-meanwhile australia s s p asx ended higher
-hong kong s hang seng index ticked up when trading resumed following a morning suspension due to a typhoon while markets in japan and south korea were closed for holidays
-the key question for markets now is whether the conflict remains contained or spreads to involve other regions particularly saudi arabia analysts at anz wrote in a report monday
-initially at least it seems markets will assume the situation will remain limited in scope duration and oil price consequences
-but higher volatility can be expected
-robert north and krystal hur contributed to this report
-most stock quote data provided by bats
-us market indices are shown in real time except for the s p which is refreshed every two minutes
-all times are et
-factset factset research systems inc
-all rights reserved
-chicago mercantile certain market data is the property of chicago mercantile exchange inc
+Markets
+Fear & Greed Index
+Latest Market News
+Oil prices surged while stock markets and the Israeli currency fell at the start of the week as investors reacted to war between Hamas and Israel.
+Although Israel is not a major oil producer, escalating tensions in the oil-rich Middle East spooked investors who had been selling off oil in recent weeks.
+Inflation, fear of a global economic downturn and a correction to prices that were surging in recent months had sent US oil down from around $95 a barrel in late September to just above $80 last week.
+But on Monday, US oil prices traded 4% higher above $86
+Brent crude, the global benchmark, was also up almost 4%, trading at nearly $88 a barrel.
+Hamas has launched an unprecedented attack against Israel
+Here's what to know
+Israel formally declared war on Hamas Sunday after the Islamist militant group launched its deadly surprise assault Saturday.
+More than 700 people have been killed in Israel, and more than 400 Palestinians have been killed, according to authorities.
+“With the Israeli government warning of a long and difficult war, there are concerns that deep and incessant retaliative strikes on Gaza could potentially bring Iran into the conflict and have an impact on the flow of energy in the region,” Susannah Streeter, head of money and markets at Hargreaves Landsdown, wrote in a note.
+On Monday, the Israeli shekel weakened to 3.92 to the US dollar, its worst level since 2016.
+Israel’s central bank said it would sell up to $30 billion worth of foreign currencies to stabilize the currency and to “provide the necessary liquidity for the continued proper functioning of the markets.”
+In a statement, the Bank of Israel said it would provide an additional $15 billion of support if needed, saying it would “continue monitoring developments, tracking all the markets, and acting with the tools available to it as necessary.”
+In equity markets, US stocks, which surged Friday on a surprisingly strong American job market report, were mixed, but relatively unchanged after ticking down earlier in the session.
+The Dow opened lower but by midday Monday it was up by 39 points, or 0.1%
+The S&P 500 added 0.05% and the Nasdaq Composite declined 0.3%.
+Global investors fear the conflict in Israel could spill over to the wider region, and that prolonged tensions in the Middle East could hurt the fragile global economic recovery.
+European stocks also fell at the open Monday as traders digested the news
+But they later steadied a little, with France’s CAC 40 index falling 0.6%, while Germany’s DAX index dipped 0.7%
+London’s FTSE 100 inched up 0.03%, propped up by gains in the shares of oil companies.
+Israel at war with Hamas after unprecedented attacks
+In Asia, initial reaction among investors was mixed.
+In mainland China, the Shanghai Composite slipped 0.4% after it reopened following a holiday week
+Meanwhile, Australia’s S&P/ASX 200 ended 0.2% higher.
+Hong Kong’s Hang Seng index ticked up 0.2% when trading resumed following a morning suspension due to a typhoon, while markets in Japan and South Korea were closed for holidays.
+The key question for markets now “is whether the conflict remains contained or spreads to involve other regions, particularly Saudi Arabia,” analysts at ANZ wrote in a report Monday.
+“Initially at least, it seems markets will assume the situation will remain limited in scope, duration, and oil price consequences
+But higher volatility can be expected.”
+— Robert North and Krystal Hur contributed to this report.
+Most stock quote data provided by BATS
+US market indices are shown in real time, except for the S&P 500 which is refreshed every two minutes
+All times are ET
+Factset: FactSet Research Systems Inc
+All rights reserved
+Chicago Mercantile: Certain market data is the property of Chicago Mercantile Exchange Inc
 and its licensors
-all rights reserved
-dow jones the dow jones branded indices are proprietary to and are calculated distributed and marketed by dji opco a subsidiary of s p dow jones indices llc and have been licensed for use to s p opco llc and cnn
-standard poor s and s p are registered trademarks of standard poor s financial services llc and dow jones is a registered trademark of dow jones trademark holdings llc
-all content of the dow jones branded indices copyright s p dow jones indices llc and or its affiliates
-fair value provided by indexarb com
-market holidays and trading hours provided by copp clark limited
-cable news network
-a warner bros
-discovery company
-all rights reserved
-cnn sans cable news network
-
+All rights reserved
+Dow Jones: The Dow Jones branded indices are proprietary to and are calculated, distributed and marketed by DJI Opco, a subsidiary of S&P Dow Jones Indices LLC and have been licensed for use to S&P Opco, LLC and CNN
+Standard & Poor’s and S&P are registered trademarks of Standard & Poor’s Financial Services LLC and Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC
+All content of the Dow Jones branded indices Copyright S&P Dow Jones Indices LLC and/or its affiliates
+Fair value provided by IndexArb.com
+Market holidays and trading hours provided by Copp Clark Limited.
+© 2023 Cable News Network
+A Warner Bros
+Discovery Company
+All Rights Reserved
+ CNN Sans ™ & © 2016 Cable News Network.

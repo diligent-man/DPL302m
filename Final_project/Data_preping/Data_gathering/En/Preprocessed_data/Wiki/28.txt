@@ -1,76 +1,83 @@
-this is a list of places in the continent of asia which have standing links to local communities in other countries
-in most cases the association especially when formalised by local government is known as town twinning usually in europe or sister cities usually in the rest of the world and while most of the places included are towns the list also includes villages cities districts and counties with similar links
-asadabad
-union city united statesghazni
-herat
-jalalabad
-san diego united stateskabul
-kandahar
-council bluffs united statesmazar i sharif
-manama
-bandar seri begawan
-nanjing chinaphnom penh
-sihanoukville
-aktobe
-almaty
-karaganda
-kostanay
-kirklees england united kingdomkyzylorda
-nur sultan
-oskemen
-petropavl
-omsk russiashymkent
-ahmadi
-ho chi minh city vietnamkuwait city
-bishkek
-champasak
-luang prabang
-chengdu chinavientiane
-beirut
-darkhan
-erdenet
-kharkhorin
-bolu turkeyulaanbaatar
-mandalay
-kunming chinayangon
-bharatpur
-golmud chinagorkha
-rushmoor england united kingdomindrawati
-jersey city united statesjanakpur
-ayodhya indiakathmandu
-pokhara
-siddharthanagar
-baoji chinachongjin
-changchun chinahaeju
-ulan ude russiahamhung
-shanghai chinakaesong
-cusco perunampo
-pyongsong
-pernik bulgariapyongyang
-sariwon
-lahore pakistanwonsan
-muscat
-jeddah
-colombo
-galle
-velsen netherlandshambantota
-guangzhou chinajaffna
-moratuwa
-suita japannuwara eliya
-polonnaruwa
-kunming chinaaleppo
-damascus
-latakia
-dushanbe
-istaravshan
-krasnoyarsk russiakhujand
-kulob
-ashgabat
-t rkmenabat
-i zmir turkeyabu dhabi
-dubai
-bukhara
-samarkand
-tashkent
-shanghai chinasanaa
-
+This is a list of places in the continent of Asia which have standing links to local communities in other countries
+In most cases, the association, especially when formalised by local government, is known as "town twinning" (usually in Europe) or "sister cities" (usually in the rest of the world), and while most of the places included are towns, the list also includes villages, cities, districts, and counties with similar links.
+Asadabad
+Union City, United StatesGhazni
+Herat
+Jalalabad
+San Diego, United StatesKabul
+Kandahar
+Council Bluffs, United StatesMazar-i-Sharif
+Manama
+Bandar Seri Begawan
+Nanjing, ChinaPhnom Penh
+Sihanoukville
+Dili
+Aktobe
+Almaty
+Karaganda
+Kostanay
+Kirklees, England, United KingdomKyzylorda
+Nur-Sultan
+Oral
+Oskemen
+Petropavl
+Omsk, RussiaShymkent
+Ahmadi
+Ho Chi Minh City, VietnamKuwait City
+Bishkek
+Özgön
+Champasak
+Luang Prabang
+Chengdu, ChinaVientiane
+Beirut
+Malé
+Darkhan
+Erdenet
+Kharkhorin
+Bolu, TurkeyUlaanbaatar
+Mandalay
+Kunming, ChinaYangon
+Bharatpur
+Golmud, ChinaGorkha
+Rushmoor, England, United KingdomIndrawati
+Jersey City, United StatesJanakpur
+Ayodhya, IndiaKathmandu
+Pokhara
+Siddharthanagar
+Baoji, ChinaChongjin
+Changchun, ChinaHaeju
+Ulan-Ude, RussiaHamhung
+Shanghai, ChinaKaesong
+Cusco, PeruNampo
+Pyongsong
+Pernik, BulgariaPyongyang
+Sariwon
+Lahore, PakistanWonsan
+Muscat
+Doha
+Jeddah
+Colombo
+Galle
+Velsen, NetherlandsHambantota
+Guangzhou, ChinaJaffna
+Moratuwa
+Suita, JapanNuwara Eliya
+Polonnaruwa
+Kunming, ChinaAleppo
+Damascus
+Homs
+Latakia
+Dushanbe
+Istaravshan
+Krasnoyarsk, RussiaKhujand
+Kulob
+Ashgabat
+Mary
+Türkmenabat
+İzmir, TurkeyAbu Dhabi
+Dubai
+Bukhara
+Samarkand
+Tashkent
+Aden
+Shanghai, ChinaSanaa

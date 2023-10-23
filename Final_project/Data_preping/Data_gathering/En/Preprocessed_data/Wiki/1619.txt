@@ -1,374 +1,373 @@
-a high voltage direct current hvdc electric power transmission system also called a power superhighway or an electrical superhighway uses direct current dc for the transmission of electrical power in contrast with the more common alternating current ac systems
-most hvdc links use voltages between kv and kv
-however a kv link in china was completed in over a distance of km mi with a power capacity of gw
-with this dimension intercontinental connections become possible which could help to deal with the fluctuations of wind power and photovoltaics
-hvdc allows power transmission between ac transmission systems that are not synchronized
-since the power flow through an hvdc link can be controlled independently of the phase angle between source and load it can stabilize a network against disturbances due to rapid changes in power
-hvdc also allows transfer of power between grid systems running at different frequencies such as hz and hz
-this improves the stability and economy of each grid by allowing exchange of power between incompatible networks
-the modern form of hvdc transmission uses technology developed extensively in the s in sweden asea and in germany
-early commercial installations included one in the soviet union in between moscow and kashira and a kv mw system between gotland and mainland sweden in
-before the chinese project of the longest hvdc link in the world was the rio madeira link in brazil which consists of two bipoles of kv mw each connecting porto velho in the state of rond nia to the s o paulo area with a length of more than km mi
-high voltage is used for electric power transmission to reduce the energy lost in the resistance of the wires
-for a given quantity of power transmitted doubling the voltage will deliver the same power at only half the current
-since the power lost as heat in the wires is directly proportional to the square of the current doubling the voltage reduces the line losses by a factor of
-while power lost in transmission can also be reduced by increasing the conductor size larger conductors are heavier and more expensive
-high voltage cannot readily be used for lighting or motors so transmission level voltages must be reduced for end use equipment
-transformers are used to change the voltage levels in alternating current ac transmission circuits
-transformers made voltage changes practical and ac generators were more efficient than those using dc
-these advantages led to early low voltage dc transmission systems being supplanted by ac systems around the turn of the th century
-practical conversion of power between ac and dc became possible with the development of power electronics devices such as mercury arc valves and starting in the s semiconductor devices as thyristors integrated gate commutated thyristors igcts mos controlled thyristors mcts and insulated gate bipolar transistors igbt
-the first long distance transmission of electric power was demonstrated using direct current in at miesbach munich power transmission but only kw was transmitted
-an early method of hvdc transmission was developed by the swiss engineer ren thury and his method was put into practice by in italy by the acquedotto de ferrari galliera company
-this system used series connected motor generator sets to increase the voltage
-each set was insulated from electrical ground and driven by insulated shafts from a prime mover
-the transmission line was operated in a constant current mode with up to volts across each machine some machines having double commutators to reduce the voltage on each commutator
-this system transmitted kw at kv dc over a distance of km
-the moutiers lyon system transmitted kw of hydroelectric power a distance of km including km of underground cable
-this system used eight series connected generators with dual commutators for a total voltage of kv between the positive and negative poles and operated from c until
-fifteen thury systems were in operation by
-other thury systems operating at up to kv dc worked into the s but the rotating machinery required high maintenance and had high energy loss
-various other electromechanical devices were tested during the first half of the th century with little commercial success
-one technique attempted for conversion of direct current from a high transmission voltage to lower utilization voltage was to charge series connected batteries then reconnect the batteries in parallel to serve distribution loads
-while at least two commercial installations were tried around the turn of the th century the technique was not generally useful owing to the limited capacity of batteries difficulties in switching between series and parallel connections and the inherent energy inefficiency of a battery charge discharge cycle
-a modern battery storage power station includes transformers and inverters to change energy from alternating current to direct current forms at appropriate voltages
-first proposed in the grid controlled mercury arc valve became available for power transmission during the period to
-starting in general electric tested mercury vapor valves and a kv dc transmission line which also served to convert hz generation to serve hz loads at mechanicville new york
-in a mw kv km buried cable link was designed for the city of berlin using mercury arc valves elbe project but owing to the collapse of the german government in the project was never completed
-the nominal justification for the project was that during wartime a buried cable would be less conspicuous as a bombing target
-the equipment was moved to the soviet union and was put into service there as the moscow kashira hvdc system
-the moscow kashira system and the connection by uno lamm s group at asea between the mainland of sweden and the island of gotland marked the beginning of the modern era of hvdc transmission
-mercury arc valves require an external circuit to force the current to zero and thus turn off the valve
-in hvdc applications the ac power system itself provides the means of commutating the current to another valve in the converter
-consequently converters built with mercury arc valves are known as line commutated converters lcc
-lccs require rotating synchronous machines in the ac systems to which they are connected making power transmission into a passive load impossible
-mercury arc valves were common in systems designed up to the last mercury arc hvdc system the nelson river bipole system in manitoba canada having been put into service in stages between and
-since then all mercury arc systems have been either shut down or converted to use solid state devices
-the last hvdc system to use mercury arc valves was the inter island hvdc link between the north and south islands of new zealand which used them on one of its two poles
-the mercury arc valves were decommissioned on august ahead of commissioning of replacement thyristor converters
-since new hvdc systems have used only solid state devices in most cases thyristors
-like mercury arc valves thyristors require connection to an external ac circuit in hvdc applications to turn them on and off
-hvdc using thyristors is also known as line commutated converter lcc hvdc
-development of thyristor valves for hvdc began in the late s
-the first complete hvdc scheme based on thyristor was the eel river scheme in canada which was built by general electric and went into service in
-on march a mw thyristor based direct current connection between cabora bassa and johannesburg km was energized
-the conversion equipment was built in by allgemeine elektricit ts gesellschaft ag aeg and brown boveri cie bbc and siemens were partners in the project
-service interruptions of several years were a result of a civil war in mozambique
-the transmission voltage of kv was the highest in the world at the time
-line commutated converters have some limitations in their use for hvdc systems
-this results from requiring the ac circuit to turn off the thyristor current and the need for a short period of reverse voltage to effect the turn off turn off time
-an attempt to address these limitations is the capacitor commutated converter ccc which has been used in a small number of hvdc systems
-the ccc differs from a conventional hvdc system in that it has series capacitors inserted into the ac line connections either on the primary or secondary side of the converter transformer
-the series capacitors partially offset the commutating inductance of the converter and help to reduce fault currents
-this also allows a smaller extinction angle to be used with a converter inverter reducing the need for reactive power support
-however ccc has remained only a niche application because of the advent of voltage source converters vsc which eliminate the need for an extinction turn off time
-widely used in motor drives since the s voltage source converters started to appear in hvdc in with the experimental hellsj n gr ngesberg project in sweden
-by the end of this technology had captured a significant proportion of the hvdc market
-the development of higher rated insulated gate bipolar transistors igbts gate turn off thyristors gtos and integrated gate commutated thyristors igcts has made smaller hvdc systems economical
-the manufacturer abb group calls this concept hvdc light while siemens calls a similar concept hvdc plus power link universal system and alstom call their product based upon this technology hvdc maxsine
-they have extended the use of hvdc down to blocks as small as a few tens of megawatts and overhead lines as short as a few dozen kilometers
-there are several different variants of vsc technology most installations built until use pulse width modulation in a circuit that is effectively an ultrahigh voltage motor drive
-current installations including hvdc plus and hvdc maxsine are based on variants of a converter called a modular multilevel converter mmc
-multilevel converters have the advantage that they allow harmonic filtering equipment to be reduced or eliminated altogether
-by way of comparison ac harmonic filters of typical line commutated converter stations cover nearly half of the converter station area
-with time voltage source converter systems will probably replace all installed simple thyristor based systems including the highest dc power transmission applications
-a long distance point to point hvdc transmission scheme generally has lower overall investment cost and lower losses than an equivalent ac transmission scheme
-hvdc conversion equipment at the terminal stations is costly but the total dc transmission line costs over long distances are lower than for an ac line of the same distance
-hvdc requires less conductor per unit distance than an ac line as there is no need to support three phases and there is no skin effect
-depending on voltage level and construction details hvdc transmission losses are quoted at per km about less than ac lines at the same voltage
-this is because direct current transfers only active power and thus causes lower losses than alternating current which transfers both active and reactive power
-hvdc transmission may also be selected for other technical benefits
-hvdc can transfer power between separate ac networks
-hvdc powerflow between separate ac systems can be automatically controlled to support either network during transient conditions but without the risk that a major power system collapse in one network will lead to a collapse in the second
-hvdc improves on system controllability with at least one hvdc link embedded in an ac grid in the deregulated environment the controllability feature is particularly useful where control of energy trading is needed
-the combined economic and technical benefits of hvdc transmission can make it a suitable choice for connecting electricity sources that are located far away from the main users
-specific applications where hvdc transmission technology provides benefits include
-undersea cable transmission schemes e g
-the km north sea link the km norned cable between norway and the netherlands italy s km sapei cable between sardinia and the mainland the km basslink between the australian mainland and tasmania and the km baltic cable between sweden and germany
-endpoint to endpoint long haul bulk power transmission without intermediate taps usually to connect a remote generating plant to the main grid for example the nelson river dc transmission system in canada
-increasing the capacity of an existing power grid in situations where additional wires are difficult or expensive to install
-power transmission and stabilization between unsynchronized ac networks with the extreme example being an ability to transfer power between countries that use ac at different frequencies
-since such transfer can occur in either direction it increases the stability of both networks by allowing them to draw on each other in emergencies and failures
-stabilizing a predominantly ac power grid without increasing fault levels prospective short circuit current
-integration of renewable resources such as wind into the main transmission grid
-hvdc overhead lines for onshore wind integration projects and hvdc cables for offshore projects have been proposed in north america and europe for both technical and economic reasons
-dc grids with multiple voltage source converters vscs are one of the technical solutions for pooling offshore wind energy and transmitting it to load centers located far away onshore long undersea or underground high voltage cables have a high electrical capacitance compared with overhead transmission lines since the live conductors within the cable are surrounded by a relatively thin layer of insulation the dielectric and a metal sheath
-the geometry is that of a long coaxial capacitor
-the total capacitance increases with the length of the cable
-this capacitance is in a parallel circuit with the load
-where alternating current is used for cable transmission additional current must flow in the cable to charge this cable capacitance
-this extra current flow causes added energy loss via dissipation of heat in the conductors of the cable raising its temperature
-additional energy losses also occur as a result of dielectric losses in the cable insulation
-however if direct current is used the cable capacitance is charged only when the cable is first energized or if the voltage level changes there is no additional current required
-for a sufficiently long ac cable the entire current carrying ability of the conductor would be needed to supply the charging current alone
-this cable capacitance issue limits the length and power carrying ability of ac power cables
-dc powered cables are limited only by their temperature rise and ohm s law
-although some leakage current flows through the dielectric insulator this is small compared to the cable s rated current
-the capacitive effect of long underground or undersea cables in ac transmission applications also applies to ac overhead lines although to a much lesser extent
-nevertheless for a long ac overhead transmission line the current flowing just to charge the line capacitance can be significant and this reduces the capability of the line to carry useful current to the load at the remote end
-another factor that reduces the useful current carrying ability of ac lines is the skin effect which causes a nonuniform distribution of current over the cross sectional area of the conductor
-transmission line conductors operating with direct current suffer from neither constraint
-therefore for the same conductor losses or heating effect a given conductor can carry more power to the load when operating with hvdc than ac
-finally depending upon the environmental conditions and the performance of overhead line insulation operating with hvdc it may be possible for a given transmission line to operate with a constant hvdc voltage that is approximately the same as the peak ac voltage for which it is designed and insulated
-the power delivered in an ac system is defined by the root mean square rms of an ac voltage but rms is only about of the peak voltage
-therefore if the hvdc line can operate continuously with an hvdc voltage that is the same as the peak voltage of the ac equivalent line then for a given current where hvdc current is the same as the rms current in the ac line the power transmission capability when operating with hvdc is approximately higher than the capability when operating with ac
-because hvdc allows power transmission between unsynchronized ac distribution systems it can help increase system stability by preventing cascading failures from propagating from one part of a wider power transmission grid to another
-changes in load that would cause portions of an ac network to become unsynchronized and to separate would not similarly affect a dc link and the power flow through the dc link would tend to stabilize the ac network
-the magnitude and direction of power flow through a dc link can be directly controlled and changed as needed to support the ac networks at either end of the dc link
-this has caused many power system operators to contemplate wider use of hvdc technology for its stability benefits alone
-the disadvantages of hvdc are in conversion switching control availability and maintenance
-hvdc is less reliable and has lower availability than alternating current ac systems mainly due to the extra conversion equipment
-single pole systems have availability of about with about a third of the downtime unscheduled due to faults
-fault tolerant bipole systems provide high availability for of the link capacity but availability of the full capacity is about to
-the required converter stations are expensive and have limited overload capacity
-at smaller transmission distances the losses in the converter stations may be bigger than in an ac transmission line for the same distance
-the cost of the converters may not be offset by reductions in line construction cost and lower line loss
-operating an hvdc scheme requires many spare parts to be kept often exclusively for one system as hvdc systems are less standardized than ac systems and technology changes more quickly
-in contrast to ac systems realizing multi terminal systems is complex especially with line commutated converters as is expanding existing schemes to multi terminal systems
-controlling power flow in a multi terminal dc system requires good communication between all the terminals power flow must be actively regulated by the converter control system instead of relying on the inherent impedance and phase angle properties of an ac transmission line
-multi terminal systems are rare
-as of only two are in service the hydro qu bec new england transmission between radisson sandy pond and nicolet and the sardinia mainland italy link which was modified in to also provide power to the island of corsica
-hvdc circuit breakers are difficult to build because of arcing under ac the voltage inverts and in doing so crosses zero volts dozens of times a second
-an ac arc will self extinguish at one of these zero crossing points because there cannot be an arc where there is no potential difference
-dc will never cross zero volts and never self extinguish so arc distance and duration is far greater with dc than the same voltage ac
-this means some mechanism must be included in the circuit breaker to force current to zero and extinguish the arc otherwise arcing and contact wear would be too great to allow reliable switching
-in november abb announced development of the world s first ultrafast hvdc circuit breaker
-mechanical circuit breakers are too slow for use in hvdc grids although they have been used for years in other applications
-conversely semiconductor breakers are fast enough but have a high resistance when conducting wasting energy and generating heat in normal operation
-the abb breaker combines semiconductor and mechanical breakers to produce a hybrid breaker with both a fast break time and a low resistance in normal operation
-generally providers of hvdc systems such as alstom siemens and abb do not specify cost details of particular projects
-it may be considered a commercial matter between the provider and the client
-costs vary widely depending on the specifics of the project such as power rating circuit length overhead vs
-cabled route land costs site seismology and ac network improvements required at either terminal
-a detailed comparison of dc vs
-ac transmission costs may be required in situations where there is no clear technical advantage to dc and economical reasoning alone drives the selection
-however some practitioners have provided some information
-an april announcement for a mw km line between spain and france is estimated at million
-this includes the cost of a tunnel through the pyrenees
-at the heart of an hvdc converter station the equipment which performs the conversion between ac and dc is referred to as the converter
-almost all hvdc converters are inherently capable of converting from ac to dc rectification and from dc to ac inversion although in many hvdc systems the system as a whole is optimized for power flow in only one direction
-irrespective of how the converter itself is designed the station that is operating at a given time with power flow from ac to dc is referred to as the rectifier and the station that is operating with power flow from dc to ac is referred to as the inverter
-early hvdc systems used electromechanical conversion the thury system but all hvdc systems built since the s have used electronic static converters
-electronic converters for hvdc are divided into two main categories
-line commutated converters lcc
-voltage sourced converters or current source converters most of the hvdc systems in operation today are based on line commutated converters
-the basic lcc configuration uses a three phase bridge rectifier or six pulse bridge containing six electronic switches each connecting one of the three phases to one of the two dc rails
-a complete switching element is usually referred to as a valve irrespective of its construction
-however with a phase change only every considerable harmonic distortion is produced at both the dc and ac terminals when this arrangement is used
-an enhancement of this arrangement uses valves in a twelve pulse bridge
-the ac is split into two separate three phase supplies before transformation
-one of the sets of supplies is then configured to have a star wye secondary the other a delta secondary establishing a phase difference between the two sets of three phases
-with twelve valves connecting each of the two sets of three phases to the two dc rails there is a phase change every and harmonics are considerably reduced
-for this reason the twelve pulse system has become standard on most line commutated converter hvdc systems built since the s
-with line commutated converters the converter has only one degree of freedom the firing angle which represents the time delay between the voltage across a valve becoming positive at which point the valve would start to conduct if it were made from diodes and the thyristors being turned on
-the dc output voltage of the converter steadily becomes less positive as the firing angle is increased firing angles of up to correspond to rectification and result in positive dc voltages while firing angles above correspond to inversion and result in negative dc voltages
-the practical upper limit for the firing angle is about because above this the valve would have insufficient turnoff time
-early lcc systems used mercury arc valves which were rugged but required high maintenance
-because of this many mercury arc hvdc systems were built with bypass switchgear across each six pulse bridge so that the hvdc scheme could be operated in six pulse mode for short periods of maintenance
-the last mercury arc system was shut down in
-the thyristor valve was first used in hvdc systems in
-the thyristor is a solid state semiconductor device similar to the diode but with an extra control terminal that is used to switch the device on at a particular instant during the ac cycle
-because the voltages in hvdc systems up to kv in some cases far exceed the breakdown voltages of the thyristors used hvdc thyristor valves are built using large numbers of thyristors in series
-additional passive components such as grading capacitors and resistors need to be connected in parallel with each thyristor in order to ensure that the voltage across the valve is evenly shared between the thyristors
-the thyristor plus its grading circuits and other auxiliary equipment is known as a thyristor level
-each thyristor valve will typically contain tens or hundreds of thyristor levels each operating at a different high potential with respect to earth
-the command information to turn on the thyristors therefore cannot simply be sent using a wire connection it needs to be isolated
-the isolation method can be magnetic but is usually optical
-two optical methods are used indirect and direct optical triggering
-in the indirect optical triggering method low voltage control electronics send light pulses along optical fibres to the high side control electronics which derives its power from the voltage across each thyristor
-the alternative direct optical triggering method dispenses with most of the high side electronics instead using light pulses from the control electronics to switch light triggered thyristors ltts although a small monitoring electronics unit may still be required for protection of the valve
-in a line commutated converter the dc current usually cannot change direction it flows through a large inductance and can be considered almost constant
-on the ac side the converter behaves approximately as a current source injecting both grid frequency and harmonic currents into the ac network
-for this reason a line commutated converter for hvdc is also considered as a current source inverter
-because thyristors can only be turned on not off by control action the control system has only one degree of freedom when to turn on the thyristor
-this is an important limitation in some circumstances
-with some other types of semiconductor device such as the insulated gate bipolar transistor igbt both turn on and turn off can be controlled giving a second degree of freedom
-as a result they can be used to make self commutated converters
-in such converters the polarity of dc voltage is usually fixed and the dc voltage being smoothed by a large capacitance can be considered constant
-for this reason an hvdc converter using igbts is usually referred to as a voltage sourced converter
-the additional controllability gives many advantages notably the ability to switch the igbts on and off many times per cycle in order to improve the harmonic performance
-being self commutated the converter no longer relies on synchronous machines in the ac system for its operation
-a voltage sourced converter can therefore feed power to an ac network consisting only of passive loads something which is impossible with lcc hvdc
-hvdc systems based on voltage sourced converters normally use the six pulse connection because the converter produces much less harmonic distortion than a comparable lcc and the twelve pulse connection is unnecessary
-most of the vsc hvdc systems built until were based on the two level converter which can be thought of as a six pulse bridge in which the thyristors have been replaced by igbts with inverse parallel diodes and the dc smoothing reactors have been replaced by dc smoothing capacitors
-such converters derive their name from the discrete two voltage levels at the ac output of each phase that correspond to the electrical potentials of the positive and negative dc terminals
-pulse width modulation pwm is usually used to improve the harmonic distortion of the converter
-some hvdc systems have been built with three level converters but today most new vsc hvdc systems are being built with some form of multilevel converter most commonly the modular multilevel converter mmc in which each valve consists of a number of independent converter submodules each containing its own storage capacitor
-the igbts in each submodule either bypass the capacitor or connect it into the circuit allowing the valve to synthesize a stepped voltage with very low levels of harmonic distortion
-at the ac side of each converter a bank of transformers often three physically separated single phase transformers isolate the station from the ac supply to provide a local earth and to ensure the correct eventual dc voltage
-the output of these transformers is then connected to the converter
-converter transformers for lcc hvdc schemes are quite specialized because of the high levels of harmonic currents which flow through them and because the secondary winding insulation experiences a permanent dc voltage which affects the design of the insulating structure valve side requires more solid insulation inside the tank
-in lcc systems the transformers also need to provide the phase shift needed for harmonic cancellation
-converter transformers for vsc hvdc systems are usually simpler and more conventional in design than those for lcc hvdc systems
-a major drawback of hvdc systems using line commutated converters is that the converters inherently consume reactive power
-the ac current flowing into the converter from the ac system lags behind the ac voltage so that irrespective of the direction of active power flow the converter always absorbs reactive power behaving in the same way as a shunt reactor
-the reactive power absorbed is at least mvar mw under ideal conditions and can be higher than this when the converter is operating at higher than usual firing or extinction angle or reduced dc voltage
-although at hvdc converter stations connected directly to power stations some of the reactive power may be provided by the generators themselves in most cases the reactive power consumed by the converter must be provided by banks of shunt capacitors connected at the ac terminals of the converter
-the shunt capacitors are usually connected directly to the grid voltage but in some cases may be connected to a lower voltage via a tertiary winding on the converter transformer
-since the reactive power consumed depends on the active power being transmitted the shunt capacitors usually need to be subdivided into a number of switchable banks typically four per converter in order to prevent a surplus of reactive power being generated at low transmitted power
-the shunt capacitors are almost always provided with tuning reactors and where necessary damping resistors so that they can perform a dual role as harmonic filters
-voltage source converters on the other hand can either produce or consume reactive power on demand with the result that usually no separate shunt capacitors are needed other than those required purely for filtering
-all power electronic converters generate some degree of harmonic distortion on the ac and dc systems to which they are connected and hvdc converters are no exception
-with the recently developed modular multilevel converter mmc levels of harmonic distortion may be practically negligible but with line commutated converters and simpler types of voltage source converters considerable harmonic distortion may be produced on both the ac and dc sides of the converter
-as a result harmonic filters are nearly always required at the ac terminals of such converters and in hvdc transmission schemes using overhead lines may also be required on the dc side
-the basic building block of a line commutated hvdc converter is the six pulse bridge
-this arrangement produces very high levels of harmonic distortion by acting as a current source injecting harmonic currents of order n into the ac system and generating harmonic voltages of order n superimposed on the dc voltage
-it is very costly to provide harmonic filters capable of suppressing such harmonics so a variant known as the twelve pulse bridge consisting of two six pulse bridges in series with a phase shift between them is nearly always used
-with the twelve pulse arrangement harmonics are still produced but only at orders n on the ac side and n on the dc side
-the task of suppressing such harmonics is still challenging but manageable
-line commutated converters for hvdc are usually provided with combinations of harmonic filters designed to deal with the th and th harmonics on the ac side and th harmonic on the dc side
-sometimes high pass filters may be provided to deal with rd th th th
-on the ac side and th th
-on the dc side
-sometimes the ac filters may also need to provide damping at lower order noncharacteristic harmonics such as rd or th harmonics
-the task of designing ac harmonic filters for hvdc converter stations is complex and computationally intensive since in addition to ensuring that the converter does not produce an unacceptable level of voltage distortion on the ac system it must be ensured that the harmonic filters do not resonate with some component elsewhere in the ac system
-a detailed knowledge of the harmonic impedance of the ac system at a wide range of frequencies is needed in order to design the ac filters
-dc filters are required only for hvdc transmission systems involving overhead lines
-voltage distortion is not a problem in its own right since consumers do not connect directly to the dc terminals of the system so the main design criterion for the dc filters is to ensure that the harmonic currents flowing in the dc lines do not induce interference in nearby open wire telephone lines
-with the rise in digital mobile telecommunication systems which are much less susceptible to interference dc filters are becoming less important for hvdc systems
-some types of voltage sourced converters may produce such low levels of harmonic distortion that no filters are required at all
-however converter types such as the two level converter used with pulse width modulation pwm still require some filtering albeit less than on line commutated converter systems
-with such converters the harmonic spectrum is generally shifted to higher frequencies than with line commutated converters
-this usually allows the filter equipment to be smaller
-the dominant harmonic frequencies are sidebands of the pwm frequency and multiples thereof
-in hvdc applications the pwm frequency is typically around to khz
-in a monopole configuration one of the terminals of the rectifier is connected to earth ground
-the other terminal at high voltage relative to ground is connected to a transmission line
-the earthed terminal may be connected to the corresponding connection at the inverting station by means of a second conductor
-if no metallic return conductor is installed current flows in the earth or water between two electrodes
-this arrangement is a type of single wire earth return system
-the electrodes are usually located some tens of kilometers from the stations and are connected to the stations via a medium voltage electrode line
-the design of the electrodes themselves depends on whether they are located on land on the shore or at sea
-for the monopolar configuration with earth return the earth current flow is unidirectional which means that the design of one of the electrodes the cathode can be relatively simple although the design of anode electrode is quite complex
-for long distance transmission earth return can be considerably cheaper than alternatives using a dedicated neutral conductor but it can lead to problems such as
-electrochemical corrosion of long buried metal objects such as pipelines
-underwater earth return electrodes in seawater may produce chlorine or otherwise affect water chemistry
-an unbalanced current path may result in a net magnetic field which can affect magnetic navigational compasses for ships passing over an underwater cable these effects can be eliminated with installation of a metallic return conductor between the two ends of the monopolar transmission line
-since one terminal of the converters is connected to earth the return conductor need not be insulated for the full transmission voltage which makes it less costly than the high voltage conductor
-the decision of whether or not to use a metallic return conductor is based upon economic technical and environmental factors
-modern monopolar systems for pure overhead lines carry typically gw
-if underground or underwater cables are used the typical value is mw
-most monopolar systems are designed for future bipolar expansion
-transmission line towers may be designed to carry two conductors even if only one is used initially for the monopole transmission system
-the second conductor is either unused used as electrode line or connected in parallel with the other as in case of baltic cable
-an alternative is to use two high voltage conductors operating at about half of the dc voltage with only a single converter at each end
-in this arrangement known as the symmetrical monopole the converters are earthed only via a high impedance and there is no earth current
-the symmetrical monopole arrangement is uncommon with line commutated converters the norned interconnector being a rare example but is very common with voltage sourced converters when cables are used
-in bipolar transmission a pair of conductors is used each at a high potential with respect to ground in opposite polarity
-since these conductors must be insulated for the full voltage transmission line cost is higher than a monopole with a return conductor
-however there are a number of advantages to bipolar transmission which can make it an attractive option
-under normal load negligible earth current flows as in the case of monopolar transmission with a metallic earth return
-this reduces earth return loss and environmental effects
-when a fault develops in a line with earth return electrodes installed at each end of the line approximately half the rated power can continue to flow using the earth as a return path operating in monopolar mode
-since for a given total power rating each conductor of a bipolar line carries only half the current of monopolar lines the cost of the second conductor is reduced compared to a monopolar line of the same rating
-in very adverse terrain the second conductor may be carried on an independent set of transmission towers so that some power may continue to be transmitted even if one line is damaged a bipolar system may also be installed with a metallic earth return conductor
-bipolar systems may carry as much as gw at voltages of kv with a single converter per pole as on the ningdong shandong project in china
-with a power rating of mw per twelve pulse converter the converters for that project were as of the most powerful hvdc converters ever built
-even higher powers can be achieved by connecting two or more twelve pulse converters in series in each pole as is used in the kv xiangjiaba shanghai project in china which uses two twelve pulse converter bridges in each pole each rated at kv dc and mw
-submarine cable installations initially commissioned as a monopole may be upgraded with additional cables and operated as a bipole
-a bipolar scheme can be implemented so that the polarity of one or both poles can be changed
-this allows the operation as two parallel monopoles
-if one conductor fails transmission can still continue at reduced capacity
-losses may increase if ground electrodes and lines are not designed for the extra current in this mode
-to reduce losses in this case intermediate switching stations may be installed at which line segments can be switched off or parallelized
-this was done at inga shaba hvdc
-a back to back station or b b for short is a plant in which both converters are in the same area usually in the same building
-the length of the direct current line is kept as short as possible
-hvdc back to back stations are used for
-coupling of electricity grids of different frequencies as in japan and south america and the gcc interconnector between uae hz and saudi arabia hz completed in
-coupling two networks of the same nominal frequency but no fixed phase relationship as until in etzenricht d rnrohr vienna and the vyborg hvdc scheme
-different frequency and phase number for example as a replacement for traction current converter plants the dc voltage in the intermediate circuit can be selected freely at hvdc back to back stations because of the short conductor length
-the dc voltage is usually selected to be as low as possible in order to build a small valve hall and to reduce the number of thyristors connected in series in each valve
-for this reason at hvdc back to back stations valves with the highest available current rating in some cases up to a are used
-the most common configuration of an hvdc link consists of two converter stations connected by an overhead power line or undersea cable
-multi terminal hvdc links connecting more than two points are rare
-the configuration of multiple terminals can be series parallel or hybrid a mixture of series and parallel
-parallel configuration tends to be used for large capacity stations and series for lower capacity stations
-an example is the mw quebec new england transmission system opened in which is currently the largest multi terminal hvdc system in the world
-multi terminal systems are difficult to realize using line commutated converters because reversals of power are effected by reversing the polarity of dc voltage which affects all converters connected to the system
-with voltage sourced converters power reversal is achieved instead by reversing the direction of current making parallel connected multi terminals systems much easier to control
-for this reason multi terminal systems are expected to become much more common in the near future
-china is expanding its grid to keep up with increased power demand while addressing environmental targets
-china southern power grid started a three terminals vsc hvdc pilot project in
-the project has designed ratings of kv mw mw mw and will be used to bring wind power generated on nanao island into the mainland guangdong power grid through km of combination of hvdc land cables sea cables and overhead lines
-this project was put into operation on december
-in india the multi terminal north east agra project is planned for commissioning in
-it is rated mw and it transmits power on a kv bipolar line from two converter stations at biswanath chariali and alipurduar in the east to a converter at agra a distance of km
-cross skagerrak consisted since of poles from which were switched in parallel and the third used an opposite polarity with a higher transmission voltage
-this configuration ended in when poles and again were rebuilt to work in bipole and pole lcc works in bipole with a new pole vsc
-this is the first hvdc transmission where lcc and vsc poles cooperate in a bipole
-a similar arrangement was the hvdc inter island in new zealand after a capacity upgrade in in which the two original converters using mercury arc valves were parallel switched feeding the same pole and a new third thyristor converter installed with opposite polarity and higher operation voltage
-this configuration ended in when the two old converters were replaced with a single new thyristor converter
-a scheme patented in is intended for conversion of existing ac transmission lines to hvdc
-two of the three circuit conductors are operated as a bipole
-the third conductor is used as a parallel monopole equipped with reversing valves or parallel valves connected in reverse polarity
-this allows heavier currents to be carried by the bipole conductors and full use of the installed third conductor for energy transmission
-high currents can be circulated through the line conductors even when load demand is low for removal of ice
-as of no tripole conversions are in operation although a transmission line in india has been converted to bipole hvdc hvdc sileru barsoor
-corona discharge is the creation of ions in a fluid such as air by the presence of a strong electric field
-electrons are torn from neutral air and either the positive ions or the electrons are attracted to the conductor while the charged particles drift
-this effect can cause considerable power loss create audible and radio frequency interference generate toxic compounds such as oxides of nitrogen and ozone and bring forth arcing
-both ac and dc transmission lines can generate coronas in the former case in the form of oscillating particles in the latter a constant wind
-due to the space charge formed around the conductors an hvdc system may have about half the loss per unit length of a high voltage ac system carrying the same amount of power
-with monopolar transmission the choice of polarity of the energized conductor leads to a degree of control over the corona discharge
-in particular the polarity of the ions emitted can be controlled which may have an environmental impact on ozone creation
-negative coronas generate considerably more ozone than positive coronas and generate it further downwind of the power line creating the potential for health effects
-the use of a positive voltage will reduce the ozone impacts of monopole hvdc power lines
-the controllability of a current flow through hvdc rectifiers and inverters their application in connecting unsynchronized networks and their applications in efficient submarine cables mean that hvdc interconnectors are often used at national or regional boundaries for the exchange of power in north america hvdc connections divide much of canada and the united states into several electrical regions that cross national borders although the purpose of these connections is still to connect unsynchronized ac grids to each other
-offshore windfarms also require undersea cables and their turbines are unsynchronized
-in very long distance connections between two locations such as power transmission from a large hydroelectric power plant at a remote site to an urban area hvdc transmission systems may appropriately be used several schemes of these kind have been built
-for interconnectors to siberia canada india and the scandinavian north the decreased line costs of hvdc also make it applicable see list of hvdc projects
-other applications are noted throughout this article
-ac transmission lines can interconnect only synchronized ac networks with the same frequency with limits on the allowable phase difference between the two ends of the line
-many areas that wish to share power have unsynchronized networks
-the power grids of the uk northern europe and continental europe are not united into a single synchronized network
-japan has hz and hz networks
-continental north america while operating at hz throughout is divided into regions which are unsynchronized east west texas quebec and alaska
-brazil and paraguay which share the enormous itaipu dam hydroelectric plant operate on hz and hz respectively
-however hvdc systems make it possible to interconnect unsynchronized ac networks and also add the possibility of controlling ac voltage and reactive power flow
-a generator connected to a long ac transmission line may become unstable and fall out of synchronization with a distant ac power system
-an hvdc transmission link may make it economically feasible to use remote generation sites
-wind farms located off shore may use hvdc systems to collect power from multiple unsynchronized generators for transmission to the shore by an underwater cable
-in general however an hvdc power line will interconnect two ac regions of the power distribution grid
-machinery to convert between ac and dc power adds a considerable cost in power transmission
-the conversion from ac to dc is known as rectification and from dc to ac as inversion
-above a certain break even distance about km for submarine cables and perhaps km for overhead cables the lower cost of the hvdc electrical conductors outweighs the cost of the electronics
-the conversion electronics also present an opportunity to effectively manage the power grid by means of controlling the magnitude and direction of power flow
-an additional advantage of the existence of hvdc links therefore is potential increased stability in the transmission grid
-a number of studies have highlighted the potential benefits of very wide area super grids based on hvdc since they can mitigate the effects of intermittency by averaging and smoothing the outputs of large numbers of geographically dispersed wind farms or solar farms
-czisch s study concludes that a grid covering the fringes of europe could bring renewable power wind biomass at close to today s prices
-there has been debate over the technical feasibility of this proposal and the political risks involved in energy transmission across a large number of international borders
-the construction of such green power superhighways is advocated in a white paper that was released by the american wind energy association and the solar energy industries association in
-clean line energy partners is developing four hvdc lines in the u s
-for long distance electric power transmission
-in january the european commission proposed million to subsidize the development of hvdc links between ireland britain the netherlands germany denmark and sweden as part of a wider billion package supporting links to offshore wind farms and cross border interconnectors throughout europe
-meanwhile the recently founded union of the mediterranean has embraced a mediterranean solar plan to import large amounts of concentrated solar power into europe from north africa and the middle east
-japan taiwan philippines hvdc interconnector was proposed in
-the purpose of this interconnector is to facilitate cross border renewable power trading with indonesia and australia in preparation for the future asian pacific super grid
-uhvdc ultrahigh voltage direct current is shaping up to be the latest technological front in high voltage dc transmission technology
-uhvdc is defined as dc voltage transmission of above kv hvdc is generally just to kv
-one of the problems with current uhvdc supergrids is that although less than ac transmission or dc transmission at lower voltages they still suffer from power loss as the length is extended
-a typical loss for kv lines is over km
-increasing the transmission voltage on such lines reduces the power loss but until recently the interconnectors required to bridge the segments were prohibitively expensive
-however with advances in manufacturing it is becoming more and more feasible to build uhvdc lines
-in abb group built the world s first kv uhvdc in china
-the zhundong wannan uhvdc line with kv km length and gw capacity was completed in
-as of at least thirteen uhvdc transmission lines in china have been completed
-while the majority of recent uhvdc technology deployment is in china it has also been deployed in south america as well as other parts of asia
-in india a km kv gw line between raigarh and pugalur is expected to be completed in
-in brazil the xingu estreito line over km with kv and gw was completed in and the xingu rio line over km with kv and gw was completed in both to transmit the energy from belo monte dam
-as of no uhvdc line kv exists in europe or north america
-kimbark e w direct current transmission volume wiley interscience
-cory b j adamson c ainsworth j d freris l l funke b harris l a sykes j h m high voltage direct current converters and systems macdonald co
-publishers ltd
-v k sood hvdc and facts controllers applications of static converters in power systems isbn kluwer academic publishers
-d jovcic high voltage direct current transmission converters systems and dc grids john wiley sons
-k sharifabadi l harnefors hp nee s norrga r teodorescu design control and application of modular multilevel converters for hvdc transmission systems john wiley sons china s ambitious plan to build the world s biggest supergrid ieee spectrum
-https web archive org web ished by international council on large electric systems cigr
-world bank briefing document about hvdc systems
-uhvdc challenges explained from siemens archived at the wayback machine
-windpowerengineering com article entitled report hvdc converters globally to hit billion by by paul dvorak dated
-september
-elimination of commutation failure by flexible lcc hvdc explained
-reactive power and voltage control by flexible lcc hvdc explained
-
+A high-voltage, direct current (HVDC) electric power transmission system (also called a power superhighway or an electrical superhighway) uses direct current (DC) for the transmission of electrical power, in contrast with the more common alternating current (AC) systems.
+Most HVDC links use voltages between 100 kV and 800 kV
+However, a 1,100 kV link in China was completed in 2019 over a distance of 3,300 km (2,100 mi) with a power capacity of 12 GW
+With this dimension, intercontinental connections become possible which could help to deal with the fluctuations of wind power and photovoltaics.
+HVDC allows power transmission between  AC transmission systems that are not synchronized
+Since the power flow through an HVDC link can be controlled independently of the phase angle between source and load, it can stabilize a network against disturbances due to rapid changes in power
+HVDC also allows transfer of power between grid systems running at different frequencies, such as 50 Hz and 60 Hz
+This improves the stability and economy of each grid, by allowing exchange of power between incompatible networks.
+The modern form of HVDC transmission uses technology developed extensively in the 1930s in Sweden (ASEA) and in Germany
+Early commercial installations included one in the Soviet Union in 1951 between Moscow and Kashira, and a 100 kV, 20 MW system between Gotland and mainland Sweden in 1954
+Before the Chinese project of 2019, the longest HVDC link in the world was the Rio Madeira link in Brazil, which consists of two bipoles of ±600 kV, 3150 MW each, connecting Porto Velho in the state of Rondônia to the São Paulo area with a length of more than 2,500 km (1,600 mi).
+High voltage is used for electric power transmission to reduce the energy lost in the resistance of the wires
+For a given quantity of power transmitted, doubling the voltage will deliver the same power at only half the current
+Since the power lost as heat in the wires is directly proportional to the square of the current, doubling the voltage reduces the line losses  by a factor of 4
+While power lost in transmission can also be reduced by increasing the conductor size, larger conductors are heavier and more expensive.
+High voltage cannot readily be used for lighting or motors, so transmission-level voltages must be reduced for end-use equipment
+Transformers are used to change the voltage levels in alternating current (AC) transmission circuits
+ Transformers made voltage changes practical, and AC generators were more efficient than those using DC
+These advantages led to early low voltage DC transmission systems being supplanted by AC systems around the turn of the 20th century.
+Practical conversion of power between AC and DC became possible with the development of power electronics devices such as mercury-arc valves and, starting in the 1970s, semiconductor devices as thyristors, integrated gate-commutated thyristors (IGCTs), MOS-controlled thyristors (MCTs) and insulated-gate bipolar transistors (IGBT).
+The first long-distance transmission of electric power was demonstrated using direct current in 1882 at Miesbach-Munich Power Transmission, but only 1.5 kW was transmitted
+An early method of HVDC transmission was developed by the Swiss engineer René Thury and his method was put into practice by 1889 in Italy by the Acquedotto De Ferrari-Galliera company
+This system used series-connected motor-generator sets to increase the voltage
+Each set was insulated from electrical ground and driven by insulated shafts from a prime mover
+The transmission line was operated in a 'constant current' mode, with up to 5,000 volts across each machine, some machines having double commutators to reduce the voltage on each commutator
+This system transmitted 630 kW at 14 kV DC over a distance of 120 km
+The Moutiers–Lyon system transmitted 8,600 kW of hydroelectric power a distance of 200 km, including 10 km of underground cable
+This system used eight series-connected generators with dual commutators for a total voltage of 150 kV between the positive and negative poles, and operated from c.1906 until 1936
+Fifteen Thury systems were in operation by 1913
+ Other Thury systems operating at up to 100 kV DC worked into the 1930s, but the rotating machinery required high maintenance and had high energy loss
+Various other electromechanical devices were tested during the first half of the 20th century with little commercial success.
+One technique attempted for conversion of direct current from a high transmission voltage to lower utilization voltage was to charge series-connected batteries, then reconnect the batteries in parallel to serve distribution loads
+While at least two commercial installations were tried around the turn of the 20th century, the technique was not generally useful owing to the limited capacity of batteries, difficulties in switching between series and parallel connections, and the inherent energy inefficiency of a battery charge/discharge cycle
+(A modern battery storage power station includes transformers and inverters to change energy from alternating current to direct current forms at appropriate voltages.)
+First proposed in 1914, the grid controlled mercury-arc valve became available for power transmission during the period 1920 to 1940
+Starting in 1932, General Electric tested mercury-vapor valves and a 12 kV DC transmission line, which also served to convert 40 Hz generation to serve 60 Hz loads, at Mechanicville, New York
+ In 1941, a 60 MW, ±200 kV, 115 km buried cable link was designed for the city of Berlin using mercury arc valves (Elbe-Project), but owing to the collapse of the German government in 1945 the project was never completed
+The nominal justification for the project was that, during wartime, a buried cable would be less conspicuous as a bombing target
+The equipment was moved to the Soviet Union and was put into service there as the Moscow–Kashira HVDC system
+The Moscow–Kashira system and the 1954 connection by Uno Lamm's group at ASEA  between the mainland of Sweden and the island of Gotland marked the beginning of the modern era of HVDC transmission.
+Mercury arc valves require an external circuit to force the current to zero and thus turn off the valve
+In HVDC applications, the AC power system itself provides the means of commutating the current to another valve in the converter
+ Consequently, converters built with mercury arc valves are known as line-commutated converters (LCC)
+ LCCs require rotating synchronous machines in the AC systems to which they are connected, making power transmission into a passive load impossible.
+Mercury arc valves were common in systems designed up to 1972, the last mercury arc HVDC system (the Nelson River Bipole 1 system in Manitoba, Canada) having been put into service in stages between 1972 and 1977
+Since then, all mercury arc systems have been either shut down or converted to use solid state devices
+The last HVDC system to use mercury arc valves was the Inter-Island HVDC link between the North and South Islands of New Zealand, which used them on one of its two poles
+The mercury arc valves were decommissioned on 1 August 2012, ahead of commissioning of replacement thyristor converters.
+Since 1977, new HVDC systems have used only solid-state devices, in most cases thyristors
+ Like mercury arc valves, thyristors require connection to an external AC circuit in HVDC applications to turn them on and off
+HVDC using thyristors is also known as Line-Commutated Converter (LCC) HVDC.
+Development of thyristor valves for HVDC began in the late 1960s
+ The first complete HVDC scheme based on thyristor was the Eel River scheme in Canada, which was built by General Electric and went into service in 1972.
+On March 15, 1979, a 1920 MW thyristor based direct current connection between Cabora Bassa and Johannesburg (1,410 km) was energized
+The conversion equipment was built in 1974 by Allgemeine Elektricitäts-Gesellschaft AG (AEG), and Brown, Boveri & Cie (BBC) and Siemens were partners in the project
+ Service interruptions of several years were a result of a civil war in Mozambique
+ The transmission voltage of ±533 kV was the highest in the world at the time.
+Line-commutated converters have some limitations in their use for HVDC systems
+This results from requiring the AC circuit to turn off the thyristor current and the need for a short period of 'reverse' voltage to effect the turn-off (turn-off time)
+ An attempt to address these limitations is the capacitor-commutated converter (CCC) which has been used in a small number of HVDC systems
+ The CCC differs from a conventional HVDC system in that it has series capacitors inserted into the AC line connections, either on the primary or secondary side of the converter transformer
+ The series capacitors partially offset the commutating inductance of the converter and help to reduce fault currents
+ This also allows a smaller extinction angle to be used with a converter/inverter, reducing the need for reactive power support.
+However, CCC has remained only a niche application because of the advent of voltage-source converters (VSC) which eliminate the need for an extinction (turn-off) time.
+Widely used in motor drives since the 1980s, voltage-source converters started to appear in HVDC in 1997 with the experimental Hellsjön–Grängesberg project in Sweden
+ By the end of 2011, this technology had captured a significant proportion of the HVDC market.
+The development of higher rated insulated-gate bipolar transistors (IGBTs), gate turn-off thyristors (GTOs) and integrated gate-commutated thyristors (IGCTs), has made smaller HVDC systems economical
+ The manufacturer ABB Group calls this concept HVDC Light, while Siemens calls a similar concept HVDC PLUS (Power Link Universal System) and Alstom call their product based upon this technology HVDC MaxSine
+They have extended the use of HVDC down to blocks as small as a few tens of megawatts and overhead lines as short as a few dozen kilometers
+There are several different variants of VSC technology: most installations built until 2012 use pulse-width modulation in a circuit that is effectively an ultrahigh-voltage motor drive
+Current installations, including HVDC PLUS and HVDC MaxSine, are based on variants of a converter called a Modular Multilevel Converter (MMC).
+Multilevel converters have the advantage that they allow harmonic filtering equipment to be reduced or eliminated altogether
+By way of comparison, AC harmonic filters of typical line-commutated converter stations cover nearly half of the converter station area.
+With time, voltage-source converter systems will probably replace all installed simple thyristor-based systems, including the highest DC power transmission applications.
+A long-distance, point-to-point HVDC transmission scheme generally has lower overall investment cost and lower losses than an equivalent AC transmission scheme
+HVDC conversion equipment at the terminal stations is costly, but the total DC transmission-line costs over long distances are lower than for an AC line of the same distance
+HVDC requires less conductor per unit distance than an AC line, as there is no need to support three phases and there is no skin effect.
+Depending on voltage level and construction details, HVDC transmission losses are quoted at 3.5% per 1,000 km, about 50% less than AC (6.7%) lines at the same voltage
+This is because direct current transfers only active power and thus causes lower losses than alternating current, which transfers both active and reactive power.
+HVDC transmission may also be selected for other technical benefits
+HVDC can transfer power between separate AC networks
+HVDC powerflow between separate AC systems can be automatically controlled to support either network during transient conditions, but without the risk that a major power-system collapse in one network will lead to a collapse in the second
+HVDC improves on system controllability, with at least one HVDC link embedded in an AC grid—in the deregulated environment, the controllability feature is particularly useful where control of energy trading is needed.
+The combined economic and technical benefits of HVDC transmission can make it a suitable choice for connecting electricity sources that are located far away from the main users.
+Specific applications where HVDC transmission technology provides benefits include:
+Undersea-cable transmission schemes (e.g
+the 720 km North Sea Link, the 580 km NorNed cable between Norway and the Netherlands, Italy's 420 km SAPEI cable between Sardinia and the mainland, the 290 km Basslink between the Australian mainland and Tasmania, and the 250 km Baltic Cable between Sweden and Germany).
+Endpoint-to-endpoint long-haul bulk power transmission without intermediate 'taps,' usually to connect a remote generating plant to the main grid, for example the Nelson River DC Transmission System in Canada.
+Increasing the capacity of an existing power grid in situations where additional wires are difficult or expensive to install.
+Power transmission and stabilization between unsynchronized AC networks, with the extreme example being an ability to transfer power between countries that use AC at different frequencies
+Since such transfer can occur in either direction, it increases the stability of both networks by allowing them to draw on each other in emergencies and failures.
+Stabilizing a predominantly AC power grid, without increasing fault levels (prospective short-circuit current).
+Integration of renewable resources such as wind into the main transmission grid
+HVDC overhead lines for onshore wind integration projects and HVDC cables for offshore projects have been proposed in North America and Europe for both technical and economic reasons
+DC grids with multiple voltage-source converters (VSCs) are one of the technical solutions for pooling offshore wind energy and transmitting it to load centers located far away onshore.Long undersea or underground high-voltage cables have a high electrical capacitance compared with overhead transmission lines, since the live conductors within the cable are surrounded by a relatively thin layer of insulation (the dielectric), and a metal sheath
+ The geometry is that of a long coaxial capacitor
+The total capacitance increases with the length of the cable
+ This capacitance is in a parallel circuit with the load
+ Where alternating current is used for cable transmission, additional current must flow in the cable to charge this cable capacitance
+This extra current flow causes added energy loss via dissipation of heat in the conductors of the cable, raising its temperature
+Additional energy losses also occur as a result of dielectric losses in the cable insulation.
+However, if direct current is used, the cable capacitance is charged only when the cable is first energized or if the voltage level changes; there is no additional current required
+For a sufficiently long AC cable, the entire current-carrying ability of the conductor would be needed to supply the charging current alone
+This cable capacitance issue limits the length and power-carrying ability of AC power cables
+DC powered cables are limited only by their temperature rise and Ohm's law
+Although some leakage current flows through the dielectric insulator, this is small compared to the cable's rated current.
+The capacitive effect of long underground or undersea cables in AC transmission applications also applies to AC overhead lines, although to a much lesser extent
+Nevertheless, for a long AC overhead transmission line, the current flowing just to charge the line capacitance can be significant, and this reduces the capability of the line to carry useful current to the load at the remote end
+Another factor that reduces the useful current-carrying ability of AC lines is the skin effect, which causes a nonuniform distribution of current over the cross-sectional area of the conductor
+Transmission line conductors operating with direct current suffer from neither constraint
+Therefore, for the same conductor losses (or heating effect), a given conductor can carry more power to the load when operating with HVDC than AC.
+Finally, depending upon the environmental conditions and the performance of overhead line insulation operating with HVDC, it may be possible for a given transmission line to operate with a constant HVDC voltage that is approximately the same as the peak AC voltage for which it is designed and insulated
+The power delivered in an AC system is defined by the root mean square (RMS) of an AC voltage, but RMS is only about 71% of the peak voltage
+Therefore, if the HVDC line can operate continuously with an HVDC voltage that is the same as the peak voltage of the AC equivalent line, then for a given current (where HVDC current is the same as the RMS current in the AC line), the power transmission capability when operating with HVDC is approximately 40% higher than the capability when operating with AC.
+Because HVDC allows power transmission between unsynchronized AC distribution systems, it can help increase system stability, by preventing cascading failures from propagating from one part of a wider power transmission grid to another
+Changes in load that would cause portions of an AC network to become unsynchronized and to separate, would not similarly affect a DC link, and the power flow through the DC link would tend to stabilize the AC network
+The magnitude and direction of power flow through a DC link can be directly controlled, and changed as needed to support the AC networks at either end of the DC link
+This has caused many power system operators to contemplate wider use of HVDC technology for its stability benefits alone.
+The disadvantages of HVDC are in conversion, switching, control, availability, and maintenance.
+HVDC is less reliable and has lower availability than alternating current (AC) systems, mainly due to the extra conversion equipment
+Single-pole systems have availability of about 98.5%, with about a third of the downtime unscheduled due to faults
+Fault-tolerant bipole systems provide high availability for 50% of the link capacity, but availability of the full capacity is about 97% to 98%.
+The required converter stations are expensive and have limited overload capacity
+At smaller transmission distances, the losses in the converter stations may be bigger than in an AC transmission line for the same distance
+The cost of the converters may not be offset by reductions in line construction cost and lower line loss.
+Operating an HVDC scheme requires many spare parts to be kept, often exclusively for one system, as HVDC systems are less standardized than AC systems and technology changes more quickly.
+In contrast to AC systems, realizing multi-terminal systems is complex (especially with line commutated converters), as is expanding existing schemes to multi-terminal systems
+Controlling power flow in a multi-terminal DC system requires good communication between all the terminals; power flow must be actively regulated by the converter control system instead of relying on the inherent impedance and phase angle properties of an AC transmission line
+Multi-terminal systems are rare
+As of 2012 only two are in service: the Hydro Québec – New England transmission between Radisson, Sandy Pond, and Nicolet and the Sardinia–mainland Italy link which was modified in 1989 to also provide power to the island of Corsica.
+HVDC circuit breakers are difficult to build because of arcing: under AC the voltage inverts, and in doing so crosses zero volts, dozens of times a second
+An AC arc will "self-extinguish" at one of these zero-crossing points, because there cannot be an arc where there is no potential difference
+DC will never cross zero volts and never self-extinguish, so arc distance and duration is far greater with DC than the same voltage AC
+This means some mechanism must be included in the circuit breaker to force current to zero and extinguish the arc, otherwise arcing and contact wear would be too great to allow reliable switching.
+In November 2012, ABB announced development of the world's first ultrafast HVDC circuit breaker
+Mechanical circuit breakers are too slow for use in HVDC grids, although they have been used for years in other applications
+Conversely, semiconductor breakers are fast enough but have a high resistance when conducting, wasting energy and generating heat in normal operation
+The ABB breaker combines semiconductor and mechanical breakers to produce a "hybrid breaker" with both a fast break time and a low resistance in normal operation.
+Generally, providers of HVDC systems, such as Alstom, Siemens and ABB, do not specify cost details of particular projects
+It may be considered a commercial matter between the provider and the client.
+Costs vary widely depending on the specifics of the project (such as power rating,  circuit length, overhead vs
+cabled route, land costs, site seismology, and AC network improvements required at either terminal)
+A detailed comparison of DC vs
+AC transmission costs may be required in situations where there is no clear technical advantage to DC, and economical reasoning alone drives the selection.
+However, some practitioners have provided some information:
+An April 2010 announcement for a 2,000 MW, 64 km line between Spain and France is estimated at €700 million
+This includes the cost of a tunnel through the Pyrenees.
+At the heart of an HVDC converter station, the equipment which performs the conversion between AC and DC is referred to as the converter
+Almost all HVDC converters are inherently capable of converting from AC to DC (rectification) and from DC to AC (inversion), although in many HVDC systems, the system as a whole is optimized for power flow in only one direction
+Irrespective of how the converter itself is designed, the station that is operating (at a given time) with power flow from AC to DC is referred to as the rectifier and the station that is operating with power flow from DC to AC is referred to as the inverter.
+Early HVDC systems used electromechanical conversion (the Thury system) but all HVDC systems built since the 1940s have used electronic (static) converters
+Electronic converters for HVDC are divided into two main categories:
+Line-commutated converters (LCC)
+Voltage-sourced converters, or current-source converters.Most of the HVDC systems in operation today are based on line-commutated converters.
+The basic LCC configuration uses a three-phase bridge rectifier or six-pulse bridge, containing six electronic switches, each connecting one of the three phases to one of the two DC rails
+ A complete switching element is usually referred to as a valve, irrespective of its construction
+ However, with a phase change only every 60°, considerable harmonic distortion is produced at both the DC and AC terminals when this arrangement is used.
+An enhancement of this arrangement uses 12 valves in a twelve-pulse bridge
+The AC is split into two separate three phase supplies before transformation
+One of the sets of supplies is then configured to have a star (wye) secondary, the other a delta secondary, establishing a 30° phase difference between the two sets of three phases
+With twelve valves connecting each of the two sets of three phases to the two DC rails, there is a phase change every 30°, and harmonics are considerably reduced
+For this reason the twelve-pulse system has become standard on most line-commutated converter HVDC systems built since the 1970s.
+With line commutated converters, the converter has only one degree of freedom – the firing angle, which represents the time delay between the voltage across a valve becoming positive (at which point the valve would start to conduct if it were made from diodes) and the thyristors being turned on
+ The DC output voltage of the converter steadily becomes less positive as the firing angle is increased:  firing angles of up to 90° correspond to rectification and result in positive DC voltages, while firing angles above 90° correspond to inversion and result in negative DC voltages
+ The practical upper limit for the firing angle is about 150–160° because above this, the valve would have insufficient turnoff time.
+Early LCC systems used mercury-arc valves, which were rugged but required high maintenance
+Because of this, many mercury-arc HVDC systems were built with bypass switchgear across each six-pulse bridge so that the HVDC scheme could be operated in six-pulse mode for short periods of maintenance
+ The last mercury arc system was shut down in 2012.
+The thyristor valve was first used in HVDC systems in 1972
+The thyristor is a solid-state semiconductor device similar to the diode, but with an extra control terminal that is used to switch the device on at a particular instant during the AC cycle
+Because the voltages in HVDC systems, up to 800 kV in some cases, far exceed the breakdown voltages of the thyristors used, HVDC thyristor valves are built using large numbers of thyristors in series
+Additional passive components such as grading capacitors and resistors need to be connected in parallel with each thyristor in order to ensure that the voltage across the valve is evenly shared between the thyristors
+ The thyristor plus its grading circuits and other auxiliary equipment is known as a thyristor level.
+Each thyristor valve will typically contain tens or hundreds of thyristor levels, each operating at a different (high) potential with respect to earth
+ The command information to turn on the thyristors therefore cannot simply be sent using a wire connection – it needs to be isolated
+ The isolation method can be magnetic but is usually optical
+ Two optical methods are used:  indirect and direct optical triggering
+ In the indirect optical triggering method, low-voltage control electronics send light pulses along optical fibres to the high-side control electronics, which derives its power from the voltage across each thyristor
+ The alternative direct optical triggering method dispenses with most of the high-side electronics, instead using light pulses from the control electronics to switch light-triggered thyristors (LTTs), although a small monitoring electronics unit may still be required for protection of the valve.
+In a line-commutated converter, the DC current (usually) cannot change direction; it flows through a large inductance and can be considered almost constant
+ On the AC side, the converter behaves approximately as a current source, injecting both grid-frequency and harmonic currents into the AC network
+ For this reason, a line commutated converter for HVDC is also considered as a current-source inverter.
+Because thyristors can only be turned on (not off) by control action, the control system has only one degree of freedom – when to turn on the thyristor
+ This is an important limitation in some circumstances.
+With some other types of semiconductor device such as the insulated-gate bipolar transistor (IGBT), both turn-on and turn-off can be controlled, giving a second degree of freedom
+As a result, they can be used to make self-commutated converters
+In such converters, the polarity of DC voltage is usually fixed and the DC voltage, being smoothed by a large capacitance, can be considered constant
+For this reason, an HVDC converter using IGBTs is usually referred to as a voltage sourced converter
+The additional controllability gives many advantages, notably the ability to switch the IGBTs on and off many times per cycle in order to improve the harmonic performance
+Being self-commutated, the converter no longer relies on synchronous machines in the AC system for its operation
+A voltage sourced converter can therefore feed power to an AC network consisting only of passive loads, something which is impossible with LCC HVDC.
+HVDC systems based on voltage sourced converters normally use the six-pulse connection because the converter produces much less harmonic distortion than a comparable LCC and the twelve-pulse connection is unnecessary.
+Most of the VSC HVDC systems built until 2012 were based on the two level converter, which can be thought of as a six pulse bridge in which the thyristors have been replaced by IGBTs with inverse-parallel diodes, and the DC smoothing reactors have been replaced by DC smoothing capacitors
+ Such converters derive their name from the discrete, two voltage levels at the AC output of each phase that correspond to the electrical potentials of the positive and negative DC terminals
+Pulse-width modulation (PWM) is usually used to improve the harmonic distortion of the converter.
+Some HVDC systems have been built with three level converters, but today most new VSC HVDC systems are being built with some form of  multilevel converter, most commonly the modular multilevel converter (MMC), in which each valve consists of a number of independent converter submodules, each containing its own storage capacitor
+The IGBTs in each submodule either bypass the capacitor or connect it into the circuit, allowing the valve to synthesize a stepped voltage with very low levels of harmonic distortion.
+At the AC side of each converter, a bank of transformers, often three physically separated single-phase transformers, isolate the station from the AC supply, to provide a local earth, and to ensure the correct eventual DC voltage
+The output of these transformers is then connected to the converter.
+Converter transformers for LCC HVDC schemes are quite specialized because of the high levels of harmonic currents which flow through them, and because the secondary winding insulation experiences a permanent DC voltage, which affects the design of the insulating structure (valve side requires more solid insulation) inside the tank
+ In LCC systems, the transformers also need to provide the 30° phase shift needed for harmonic cancellation.
+Converter transformers for VSC HVDC systems are usually simpler and more conventional in design than those for LCC HVDC systems.
+A major drawback of HVDC systems using line-commutated converters is that the converters inherently consume reactive power
+ The AC current flowing into the converter from the AC system lags behind the AC voltage so that, irrespective of the direction of active power flow, the converter always absorbs reactive power, behaving in the same way as a shunt reactor
+ The reactive power absorbed is at least 0.5 Mvar/MW under ideal conditions and can be higher than this when the converter is operating at higher than usual firing or extinction angle, or reduced DC voltage.
+Although at HVDC converter stations connected directly to power stations some of the reactive power may be provided by the generators themselves, in most cases the reactive power consumed by the converter must be provided by banks of shunt capacitors connected at the AC terminals of the converter
+ The shunt capacitors are usually connected directly to the grid voltage but in some cases may be connected to a lower voltage via a tertiary winding on the converter transformer.
+Since the reactive power consumed depends on the active power being transmitted, the shunt capacitors usually need to be subdivided into a number of switchable banks (typically four per converter) in order to prevent a surplus of reactive power being generated at low transmitted power.
+The shunt capacitors are almost always provided with tuning reactors and, where necessary, damping resistors so that they can perform a dual role as harmonic filters.
+Voltage-source converters, on the other hand, can either produce or consume reactive power on demand, with the result that usually no separate shunt capacitors are needed (other than those required purely for filtering).
+All power electronic converters generate some degree of harmonic distortion on the AC and DC systems to which they are connected, and HVDC converters are no exception.
+With the recently developed modular multilevel converter (MMC), levels of harmonic distortion may be practically negligible, but with line-commutated converters and simpler types of voltage-source converters, considerable harmonic distortion may be produced on both the AC and DC sides of the converter
+As a result, harmonic filters are nearly always required at the AC terminals of such converters, and in HVDC transmission schemes using overhead lines, may also be required on the DC side.
+The basic building-block of a line-commutated HVDC converter is the six-pulse bridge
+ This arrangement produces very high levels of harmonic distortion by acting as a current source injecting harmonic currents of order 6n±1 into the AC system and generating harmonic voltages of order 6n superimposed on the DC voltage.
+It is very costly to provide harmonic filters capable of suppressing such harmonics, so a variant known as the twelve-pulse bridge (consisting of two six-pulse bridges in series with a 30° phase shift between them) is nearly always used
+With the twelve-pulse arrangement, harmonics are still produced but only at orders 12n±1 on the AC side and 12n on the DC side
+ The task of suppressing such harmonics is still challenging, but manageable.
+Line-commutated converters for HVDC are usually provided with combinations of harmonic filters designed to deal with the 11th and 13th harmonics on the AC side, and 12th harmonic on the DC side
+ Sometimes, high-pass filters may be provided to deal with 23rd, 25th, 35th, 37th..
+on the AC side and 24th, 36th..
+on the DC side
+Sometimes, the AC filters may also need to provide damping at lower-order, noncharacteristic harmonics such as 3rd or 5th harmonics.
+The task of designing AC harmonic filters for HVDC converter stations is complex and computationally intensive, since in addition to ensuring that the converter does not produce an unacceptable level of voltage distortion on the AC system, it must be ensured that the harmonic filters do not resonate with some component elsewhere in the AC system
+A detailed knowledge of the harmonic impedance of the AC system, at a wide range of frequencies, is needed in order to design the AC filters.
+DC filters are required only for HVDC transmission systems involving overhead lines
+Voltage distortion is not a problem in its own right, since consumers do not connect directly to the DC terminals of the system, so the main design criterion for the DC filters is to ensure that the harmonic currents flowing in the DC lines do not induce interference in nearby open-wire telephone lines
+With the rise in digital mobile telecommunication systems, which are much less susceptible to interference, DC filters are becoming less important for HVDC systems.
+Some types of voltage-sourced converters may produce such low levels of harmonic distortion that no filters are required at all
+However, converter types such as the two-level converter, used with pulse-width modulation (PWM), still require some filtering, albeit less than on line-commutated converter systems.
+With such converters, the harmonic spectrum is generally shifted to higher frequencies than with line-commutated converters
+This usually allows the filter equipment to be smaller
+The dominant harmonic frequencies are sidebands of the PWM frequency and multiples thereof
+In HVDC applications, the PWM frequency is typically around 1 to 2 kHz.
+In a monopole configuration one of the terminals of the rectifier is connected to earth ground
+The other terminal, at high voltage relative to ground, is connected to a transmission line
+The earthed terminal may be connected to the corresponding connection at the inverting station by means of a second conductor.
+If no metallic return conductor is installed, current flows in the earth (or water) between two electrodes
+This arrangement is a type of single-wire earth return system.
+The electrodes are usually located some tens of kilometers from the stations and are connected to the stations via a medium-voltage electrode line
+The design of the electrodes themselves depends on whether they are located on land, on the shore or at sea
+ For the monopolar configuration with earth return, the earth current flow is unidirectional, which means that the design of one of the electrodes (the cathode) can be relatively simple, although the design of anode electrode is quite complex.
+For long-distance transmission, earth return can be considerably cheaper than alternatives using a dedicated neutral conductor, but it can lead to problems such as:
+Electrochemical corrosion of long buried metal objects such as pipelines
+Underwater earth-return electrodes in seawater may produce chlorine or otherwise affect water chemistry.
+An unbalanced current path may result in a net magnetic field, which can affect magnetic navigational compasses for ships passing over an underwater cable.These effects can be eliminated with installation of a metallic return conductor between the two ends of the monopolar transmission line
+Since one terminal of the converters is connected to earth, the return conductor need not be insulated for the full transmission voltage which makes it less costly than the high-voltage conductor
+The decision of whether or not to use a metallic return conductor is based upon economic, technical and environmental factors.
+Modern monopolar systems for pure overhead lines carry typically 1.5 GW
+If underground or underwater cables are used, the typical value is 600 MW.
+Most monopolar systems are designed for future bipolar expansion
+Transmission line towers may be designed to carry two conductors, even if only one is used initially for the monopole transmission system
+The second conductor is either unused, used as electrode line or connected in parallel with the other (as in case of Baltic Cable).
+An alternative is to use two high-voltage conductors, operating at about half of the DC voltage, with only a single converter at each end
+ In this arrangement, known as the symmetrical monopole, the converters are earthed only via a high impedance and there is no earth current
+ The symmetrical monopole arrangement is uncommon with line-commutated converters (the NorNed interconnector being a rare example) but is very common with Voltage Sourced Converters when cables are used.
+In bipolar transmission a pair of conductors is used, each at a high potential with respect to ground, in opposite polarity
+Since these conductors must be insulated for the full voltage, transmission line cost is higher than a monopole with a return conductor
+However, there are a number of advantages to bipolar transmission which can make it an attractive option.
+Under normal load, negligible earth-current flows, as in the case of monopolar transmission with a metallic earth-return
+This reduces earth return loss and environmental effects.
+When a fault develops in a line, with earth return electrodes installed at each end of the line, approximately half the rated power can continue to flow using the earth as a return path, operating in monopolar mode.
+Since for a given total power rating each conductor of a bipolar line carries only half the current of monopolar lines, the cost of the second conductor is reduced compared to a monopolar line of the same rating.
+In very adverse terrain, the second conductor may be carried on an independent set of transmission towers, so that some power may continue to be transmitted even if one line is damaged.A bipolar system may also be installed with a metallic earth return conductor.
+Bipolar systems may carry as much as 4 GW at voltages of ±660 kV with a single converter per pole, as on the Ningdong–Shandong project in China
+ With a power rating of 2,000 MW per twelve-pulse converter, the converters for that project were (as of 2010) the most powerful HVDC converters ever built
+ Even higher powers can be achieved by connecting two or more twelve-pulse converters in series in each pole, as is used in the ±800 kV Xiangjiaba–Shanghai project in China, which uses two twelve-pulse converter bridges in each pole, each rated at 400 kV DC and 1,600 MW.
+Submarine cable installations initially commissioned as a monopole may be upgraded with additional cables and operated as a bipole.
+A bipolar scheme can be implemented so that the polarity of one or both poles can be changed
+This allows the operation as two parallel monopoles
+If one conductor fails, transmission can still continue at reduced capacity
+Losses may increase if ground electrodes and lines are not designed for the extra current in this mode
+To reduce losses in this case, intermediate switching stations may be installed, at which line segments can be switched off or parallelized
+This was done at Inga–Shaba HVDC.
+A back-to-back station (or B2B for short) is a plant in which both converters are in the same area, usually in the same building
+The length of the direct current line is kept as short as possible
+HVDC back-to-back stations are used for
+coupling of electricity grids of different frequencies (as in Japan and South America; and the GCC interconnector between UAE (50 Hz) and Saudi Arabia (60 Hz) completed in 2009)
+coupling two networks of the same nominal frequency but no fixed phase relationship (as until 1995/96 in Etzenricht, Dürnrohr, Vienna, and the Vyborg HVDC scheme).
+different frequency and phase number (for example, as a replacement for traction current converter plants)The DC voltage in the intermediate circuit can be selected freely at HVDC back-to-back stations because of the short conductor length
+The DC voltage is usually selected to be as low as possible, in order to build a small valve hall and to reduce the number of thyristors connected in series in each valve
+For this reason, at HVDC back-to-back stations, valves with the highest available current rating (in some cases, up to 4,500 A) are used.
+The most common configuration of an HVDC link consists of two converter stations connected by an overhead power line or undersea cable.
+Multi-terminal HVDC links, connecting more than two points, are rare
+The configuration of multiple terminals can be series, parallel, or hybrid (a mixture of series and parallel)
+Parallel configuration tends to be used for large capacity stations, and series for lower capacity stations
+An example is the 2,000 MW Quebec - New England Transmission system opened in 1992, which is currently the largest multi-terminal HVDC system in the world.
+Multi-terminal systems are difficult to realize using line commutated converters because reversals of power are effected by reversing the polarity of DC voltage, which affects all converters connected to the system
+ With Voltage Sourced Converters, power reversal is achieved instead by reversing the direction of current, making parallel-connected multi-terminals systems much easier to control
+ For this reason, multi-terminal systems are expected to become much more common in the near future.
+China is expanding its grid to keep up with increased power demand, while addressing environmental targets
+China Southern Power Grid started a three terminals VSC HVDC pilot project in 2011
+The project has designed ratings of ±160 kV/200 MW-100 MW-50 MW and will be used to bring wind power generated on Nanao island into the mainland Guangdong power grid through 32 km of combination of HVDC land cables, sea cables and overhead lines
+This project was put into operation on December 19, 2013.
+In India, the multi-terminal North-East Agra project is planned for commissioning in 2015–2017
+ It is rated 6,000 MW, and it transmits power on a ±800 kV bipolar line from two converter stations, at Biswanath Chariali and Alipurduar, in the east to a converter at Agra, a distance of 1,728 km.
+Cross-Skagerrak consisted since 1993 of 3 poles, from which 2 were switched in parallel and the third used an opposite polarity with a higher transmission voltage
+This configuration ended in 2014 when poles 1 and 2 again were rebuilt to work in bipole and pole 3 (LCC) works in bipole with a new pole 4 (VSC)
+This is the first HVDC transmission where LCC and VSC poles cooperate in a bipole.
+A similar arrangement was the HVDC Inter-Island in New Zealand after a capacity upgrade in 1992, in which the two original converters (using mercury-arc valves) were parallel-switched feeding the same pole and a new third (thyristor) converter installed with opposite polarity and higher operation voltage
+This configuration ended in 2012 when the two old converters were replaced with a single, new, thyristor converter.
+A scheme patented in 2004 is intended for conversion of existing AC transmission lines to HVDC
+Two of the three circuit conductors are operated as a bipole
+The third conductor is used as a parallel monopole, equipped with reversing valves (or parallel valves connected in reverse polarity)
+This allows heavier currents to be carried by the bipole conductors, and full use of the installed third conductor for energy transmission
+High currents can be circulated through the line conductors even when load demand is low, for removal of ice
+As of 2012, no tripole conversions are in operation, although a transmission line in India has been converted to bipole HVDC (HVDC Sileru-Barsoor).
+Corona discharge is the creation of ions in a fluid (such as air) by the presence of a strong electric field
+Electrons are torn from neutral air, and either the positive ions or the electrons are attracted to the conductor, while the charged particles drift
+This effect can cause considerable power loss, create audible and radio-frequency interference, generate toxic compounds such as oxides of nitrogen and ozone, and bring forth arcing.
+Both AC and DC transmission lines can generate coronas, in the former case in the form of oscillating particles, in the latter a constant wind
+Due to the space charge formed around the conductors, an HVDC system may have about half the loss per unit length of a high voltage AC system carrying the same amount of power
+With monopolar transmission the choice of polarity of the energized conductor leads to a degree of control over the corona discharge
+In particular, the polarity of the ions emitted can be controlled, which may have an environmental impact on ozone creation
+Negative coronas generate considerably more ozone than positive coronas, and generate it further downwind of the power line, creating the potential for health effects
+The use of a positive voltage will reduce the ozone impacts of monopole HVDC power lines.
+The controllability of a current-flow through HVDC rectifiers and inverters, their application in connecting unsynchronized networks, and their applications in efficient submarine cables mean that HVDC interconnectors are often used at national or regional boundaries for the exchange of power (in North America, HVDC connections divide much of Canada and the United States into several electrical regions that cross national borders, although the purpose of these connections is still to connect unsynchronized AC grids to each other)
+Offshore windfarms also require undersea cables, and their turbines are unsynchronized
+In very long-distance connections between two locations, such as power transmission from a large hydroelectric power plant at a remote site to an urban area, HVDC transmission systems may appropriately be used; several schemes of these kind have been built
+For interconnectors to Siberia, Canada, India, and the Scandinavian North, the decreased line-costs of HVDC also make it applicable, see List of HVDC projects
+Other applications are noted throughout this article.
+AC transmission lines can interconnect only synchronized AC networks with the same frequency with limits on the allowable phase difference between the two ends of the line
+Many areas that wish to share power have unsynchronized networks
+The power grids of the UK, Northern Europe and continental Europe are not united into a single synchronized network
+Japan has 50 Hz and 60 Hz networks
+Continental North America, while operating at 60 Hz throughout, is divided into regions which are unsynchronized: East, West, Texas, Quebec, and Alaska
+Brazil and Paraguay, which share the enormous Itaipu Dam hydroelectric plant, operate on 60 Hz and 50 Hz respectively
+However, HVDC systems make it possible to interconnect unsynchronized AC networks, and also add the possibility of controlling AC voltage and reactive power flow.
+A generator connected to a long AC transmission line may become unstable and fall out of synchronization with a distant AC power system
+An HVDC transmission link may make it economically feasible to use remote generation sites
+Wind farms located off-shore may use HVDC systems to collect power from multiple unsynchronized generators for transmission to the shore by an underwater cable.
+In general, however, an HVDC power line will interconnect two AC regions of the power-distribution grid
+Machinery to convert between AC and DC power adds a considerable cost in power transmission
+The conversion from AC to DC is known as rectification, and from DC to AC as inversion
+Above a certain break-even distance (about 50 km for submarine cables, and perhaps 600–800 km for overhead cables), the lower cost of the HVDC electrical conductors outweighs the cost of the electronics.
+The conversion electronics also present an opportunity to effectively manage the power grid by means of controlling the magnitude and direction of power flow
+An additional advantage of the existence of HVDC links, therefore, is potential increased stability in the transmission grid.
+A number of studies have highlighted the potential benefits of very wide area super grids based on HVDC since they can mitigate the effects of intermittency by averaging and smoothing the outputs of large numbers of geographically dispersed wind farms or solar farms
+Czisch's study concludes that a grid covering the fringes of Europe could bring 100% renewable power (70% wind, 30% biomass) at close to today's prices
+There has been debate over the technical feasibility of this proposal and the political risks involved in energy transmission across a large number of international borders.
+The construction of such green power superhighways is advocated in a white paper that was released by the American Wind Energy Association and the Solar Energy Industries Association in 2009
+Clean Line Energy Partners is developing four HVDC lines in the U.S
+for long-distance electric power transmission.
+In January 2009, the European Commission proposed €300 million to subsidize the development of HVDC links between Ireland, Britain, the Netherlands, Germany, Denmark, and Sweden, as part of a wider €1.2 billion package supporting links to offshore wind farms and cross-border interconnectors throughout Europe
+Meanwhile, the recently founded Union of the Mediterranean has embraced a Mediterranean Solar Plan to import large amounts of concentrated solar power into Europe from North Africa and the Middle East
+ Japan-Taiwan-Philippines HVDC interconnector was proposed in 2020
+The purpose of this interconnector is to facilitate cross-border renewable power trading with Indonesia and Australia, in preparation for the future Asian Pacific Super Grid.
+UHVDC (ultrahigh-voltage direct-current) is shaping up to be the latest technological front in high voltage DC transmission technology
+ UHVDC is defined as DC voltage transmission of above 800 kV (HVDC is generally just 100 to 800 kV).
+One of the problems with current UHVDC supergrids is that – although less than AC transmission or DC transmission at lower voltages – they still suffer from power loss as the length is extended
+A typical loss for 800 kV lines is 2.6% over 800 km
+Increasing the transmission voltage on such lines reduces the power loss, but until recently, the interconnectors required to bridge the segments were prohibitively expensive
+However, with advances in manufacturing, it is becoming more and more feasible to build UHVDC lines.
+In 2010, ABB Group built the world's first 800 kV UHVDC in China
+The Zhundong–Wannan UHVDC line with 1100 kV, 3400 km length and 12 GW capacity was completed in 2018
+As of 2020, at least thirteen UHVDC transmission lines in China have been completed.
+While the majority of recent UHVDC technology deployment is in China, it has also been deployed in South America as well as other parts of Asia
+In India, a 1830 km, 800 kV, 6 GW line between Raigarh and Pugalur is expected to be completed in 2019
+In Brazil, the Xingu-Estreito line over 2076 km with 800 kV and 4 GW was completed in 2017, and the Xingu-Rio line over 2543 km with 800 kV and 4 GW was completed in 2019, both to transmit the energy from Belo Monte Dam
+As of 2020, no UHVDC line (≥ 800 kV) exists in Europe or North America.
+Kimbark, E.W., Direct current transmission, volume 1, Wiley Interscience, 1971.
+Cory, B.J., Adamson, C., Ainsworth, J.D., Freris, L.L., Funke, B., Harris, L.A., Sykes, J.H.M., High voltage direct current converters and systems, Macdonald & Co
+(publishers) Ltd, 1965.
+V.K.Sood, HVDC and FACTS Controllers - Applications of Static Converters in Power Systems, 2004, ISBN 1-4020-7890-0, Kluwer Academic Publishers.
+D Jovcic "High Voltage Direct Current Transmission: Converters Systems and DC Grids", John Wiley & Sons, 2019.
+K Sharifabadi, L Harnefors, HP Nee, S Norrga, R Teodorescu "Design, control, and application of modular multilevel converters for HVDC transmission systems", John Wiley & Sons, 2016.China’s Ambitious Plan to Build the World’s Biggest Supergrid, IEEE Spectrum (2019)
+[https://web.archive.org/web/ished by International Council on Large Electric Systems (CIGRÉ)
+World Bank briefing document about HVDC systems
+UHVDC challenges explained from Siemens Archived 2013-01-14 at the Wayback Machine
+Windpowerengineering.com article entitled "Report: HVDC converters globally to hit $89.6 billion by 2020" By Paul Dvorak, dated 18
+September 2013
+Elimination of commutation failure by "Flexible LCC HVDC" explained
+Reactive power and voltage control by "Flexible LCC HVDC" explained

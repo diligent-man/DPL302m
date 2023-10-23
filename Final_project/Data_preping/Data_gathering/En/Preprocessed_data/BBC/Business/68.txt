@@ -1,80 +1,79 @@
-markets
-fear greed index
-latest market news
-editor s note a version of this article first appeared in the reliable sources newsletter
-sign up for the daily digest chronicling the evolving media landscape here
-marty baron the renowned executive editor of the washington post who led the newspaper during eight tumultuous years in american politics and media published his anticipated memoir this week offering readers an urgent exploration of the nature of power in the st century
-in the book titled collision of power trump bezos and the washington post baron recounts his time and challenges leading the legendary newspaper under the ownership of billionaire jeff bezos and while under sustained assault from then president donald trump
-baron s book comes at a perilous moment for american democracy and the news media tasked with covering its erosion
-on wednesday baron participated in a q a with cnn on the consequential issues the industry faces
-below is the conversation printed in full
-do you believe that news organizations broadly speaking are meeting the moment in terms of covering the chaos that the republican party is inflicting on america
-i think the coverage of the latest chaos has been very good based on what i ve read
-it portrays the republican party as chaos central which it is
-the party is proving to be ungovernable and that is wreaking havoc on the country as a whole
-the bigger issue is trump
-i d like to see substantially more coverage of what a second trump administration would do upon taking office
-who would be put in cabinet posts who would be put in charge of regulatory agencies
-no doubt trump would embark on an immediate campaign of vengeance
-plans are already in the works
-what would that mean for the fbi doj the courts the press really for all the institutional pillars of our democracy some stories have been produced though not enough in my view
-those sorts of stories would serve the public better than yet another interview with trump himself
-look the party that now levels evidence free charges of weaponization of government openly boasts of how it would weaponize government against its perceived enemies
-are newsrooms being clear eyed enough with their audiences about the reality of the gop in or do you believe that language used in stories gets watered down and journalists are still too often falling into the both sides trap in their efforts to appear neutral
-i wouldn t want to generalize
-some stories are admirably accurate clear and forthright in their language
-others are not
-the important thing though is that the stories make absolutely clear what s true and what s false giving those proper weight and that we show the public the evidence
-if news organizations believe donald trump is a threat to democracy and the country s framework of government should they remain totally neutral in covering his candidacy
-there s evidence aplenty that trump is an aspiring authoritarian
-he has talked openly about suspending the constitution
-he has talked openly about using the military to suppress legitimate protests
-he has suggested that someone like mark milley should be executed
-he has called for prosecuting nbc for treason
-he continues to use language that excuses and is likely to incite violence against his political opponents
-he has called for shutting down the government as a way to end federal prosecutions directed at him
-these are unmistakable signals of the sort of presidency he intends to have and the coverage needs to make that clear
-that s just being accurate based on a mountain of evidence which again we need to show in full
-how would you describe fox news do you believe it should be treated as a serious news organization or a propaganda arm of the gop
-well it s a media outlet though diminishingly a news organization
-there s certainly little serious news coverage
-it has routinely spread baseless even bizarre conspiracy theories
-i know you ve argued for at least calling it right wing and i d say that s an entirely sound recommendation or saying that it s tightly aligned with the republican party
-the defamation suit by dominion voting certainly documented just how close the relationship is even beyond what was already known
-what do you believe is the toughest challenge running a major newsroom in
-covering the nation s radioactive politics fairly honestly honorably and rigorously but also aggressively and unflinchingly without becoming partisans and engaging in performative outrage
-the gop is a mess and trump s agenda and that of his close allies and enablers is a threat to democracy
-but the democratic party has its own issues and there are plenty of democratic politicians who deserve close scrutiny
-robert menendez is the latest standout example
-how do you think news organizations should approach ai
-generative ai poses huge risks but also offers some intriguing opportunities
-i think we re all familiar with the risks especially when ai pulls so called information out of the ether
-the result is what are typically called hallucinations more appropriately they should be called fabrications
-but there are ways to introduce some efficiencies in newsroom operations with the careful use of generative ai
-reporters and editors are burdened with all sorts of tasks they didn t have to perform in a previous era search and social friendly headlines photo selection metadata alerts multiple versions of stories throughout the day and the list goes on
-the use of ai that draws upon a news organization s own archival content and fresh reporting by its own staff can potentially help immensely in time management for reporters and editors
-do you think that newsrooms and journalists should remain on twitter x especially given that owner elon musk has smeared most major media outlets and made the website a haven for conspiracy theories and hate speech
-i m not an active user and i certainly wouldn t pay to be verified
-and as is well known i feel journalists should exercise great care and restraint in their social media posts
-i wouldn t advocate abandoning twitter x altogether
-it can still be useful
-but i think it s advisable for journalists to moderate their use of it for all sorts of reasons with only one of them being the ever more odious drift in its content and leadership
-most stock quote data provided by bats
-us market indices are shown in real time except for the s p which is refreshed every two minutes
-all times are et
-factset factset research systems inc
-all rights reserved
-chicago mercantile certain market data is the property of chicago mercantile exchange inc
+Markets
+Fear & Greed Index
+Latest Market News
+Editor’s Note: A version of this article first appeared in the “Reliable Sources” newsletter
+Sign up for the daily digest chronicling the evolving media landscape here.
+Marty Baron, the renowned executive editor of The Washington Post who led the newspaper during eight tumultuous years in American politics and media, published his anticipated memoir this week, offering readers “an urgent exploration of the nature of power in the 21st century.”
+In the book, titled “Collision of Power: Trump, Bezos, and THE WASHINGTON POST,” Baron recounts his time — and challenges — leading the legendary newspaper under the ownership of billionaire Jeff Bezos and while under sustained assault from then-President Donald Trump.
+Baron’s book comes at a perilous moment for American democracy and the news media tasked with covering its erosion
+On Wednesday, Baron participated in a Q&A with CNN on the consequential issues the industry faces
+Below is the conversation, printed in full.
+Do you believe that news organizations, broadly speaking, are meeting the moment in terms of covering the chaos that the Republican Party is inflicting on America?
+I think the coverage of the latest chaos has been very good, based on what I’ve read
+It portrays the Republican Party as Chaos Central, which it is
+The party is proving to be ungovernable, and that is wreaking havoc on the country as a whole
+The bigger issue is Trump
+I’d like to see substantially more coverage of what a second Trump administration would do upon taking office
+Who would be put in cabinet posts? Who would be put in charge of regulatory agencies?
+No doubt Trump would embark on an immediate campaign of vengeance
+Plans are already in the works
+What would that mean for the FBI, DOJ, the courts, the press — really for all the institutional pillars of our democracy? Some stories have been produced, though not enough in my view
+Those sorts of stories would serve the public better than yet-another interview with Trump himself
+Look, the party that now levels evidence-free charges of “weaponization” of government openly boasts of how it would weaponize government against its perceived enemies.
+Are newsrooms being clear-eyed enough with their audiences about the reality of the GOP in 2023? Or do you believe that language used in stories gets watered down and journalists are still too often falling into the both sides trap in their efforts to appear neutral?
+I wouldn’t want to generalize
+Some stories are admirably accurate, clear and forthright in their language
+Others are not
+The important thing, though, is that the stories make absolutely clear what’s true and what’s false, giving those proper weight, and that we show the public the evidence.
+If news organizations believe Donald Trump is a threat to democracy and the country’s framework of government, should they remain totally neutral in covering his candidacy?
+There’s evidence aplenty that Trump is an aspiring authoritarian
+He has talked openly about suspending the Constitution
+He has talked openly about using the military to suppress legitimate protests
+He has suggested that someone like Mark Milley should be executed
+He has called for prosecuting NBC for treason
+He continues to use language that excuses, and is likely to incite, violence against his political opponents
+He has called for shutting down the government as a way to end federal prosecutions directed at him
+These are unmistakable signals of the sort of presidency he intends to have, and the coverage needs to make that clear
+That’s just being accurate, based on a mountain of evidence — which, again, we need to show in full.
+How would you describe Fox News? Do you believe it should be treated as a serious news organization or a propaganda arm of the GOP?
+Well, it’s a media outlet, though diminishingly a “news” organization
+There’s certainly little serious news coverage
+It has routinely spread baseless, even bizarre, conspiracy theories
+I know you’ve argued for at least calling it “right-wing,” and I’d say that’s an entirely sound recommendation — or saying that it’s tightly aligned with the Republican Party
+The defamation suit by Dominion Voting certainly documented just how close the relationship is, even beyond what was already known.
+What do you believe is the toughest challenge running a major newsroom in 2023?
+Covering the nation’s radioactive politics fairly, honestly, honorably and rigorously — but also aggressively and unflinchingly — without becoming partisans and engaging in performative outrage
+The GOP is a mess, and Trump’s agenda and that of his close allies and enablers is a threat to democracy
+But the Democratic Party has its own issues, and there are plenty of Democratic politicians who deserve close scrutiny
+Robert Menendez is the latest standout example.
+How do you think news organizations should approach AI?
+Generative AI poses huge risks but also offers some intriguing opportunities
+I think we’re all familiar with the risks, especially when AI pulls so-called information out of the ether
+The result is what are typically called “hallucinations.” More appropriately they should be called “fabrications.”
+But there are ways to introduce some efficiencies in newsroom operations with the careful use of generative AI
+Reporters and editors are burdened with all sorts of tasks they didn’t have to perform in a previous era: search- and social-friendly headlines, photo selection, metadata, alerts, multiple versions of stories throughout the day, and the list goes on
+The use of AI that draws upon a news organization’s own archival content — and fresh reporting by its own staff — can potentially help immensely in time management for reporters and editors.
+Do you think that newsrooms and journalists should remain on Twitter/X, especially given that owner Elon Musk has smeared most major media outlets and made the website a haven for conspiracy theories and hate speech?
+I’m not an active user, and I certainly wouldn’t pay to be verified
+And, as is well known, I feel journalists should exercise great care and restraint in their social media posts
+I wouldn’t advocate abandoning Twitter/X altogether
+It can still be useful
+But I think it’s advisable for journalists to moderate their use of it for all sorts of reasons, with only one of them being the ever more odious drift in its content and leadership.
+Most stock quote data provided by BATS
+US market indices are shown in real time, except for the S&P 500 which is refreshed every two minutes
+All times are ET
+Factset: FactSet Research Systems Inc
+All rights reserved
+Chicago Mercantile: Certain market data is the property of Chicago Mercantile Exchange Inc
 and its licensors
-all rights reserved
-dow jones the dow jones branded indices are proprietary to and are calculated distributed and marketed by dji opco a subsidiary of s p dow jones indices llc and have been licensed for use to s p opco llc and cnn
-standard poor s and s p are registered trademarks of standard poor s financial services llc and dow jones is a registered trademark of dow jones trademark holdings llc
-all content of the dow jones branded indices copyright s p dow jones indices llc and or its affiliates
-fair value provided by indexarb com
-market holidays and trading hours provided by copp clark limited
-cable news network
-a warner bros
-discovery company
-all rights reserved
-cnn sans cable news network
-
+All rights reserved
+Dow Jones: The Dow Jones branded indices are proprietary to and are calculated, distributed and marketed by DJI Opco, a subsidiary of S&P Dow Jones Indices LLC and have been licensed for use to S&P Opco, LLC and CNN
+Standard & Poor’s and S&P are registered trademarks of Standard & Poor’s Financial Services LLC and Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC
+All content of the Dow Jones branded indices Copyright S&P Dow Jones Indices LLC and/or its affiliates
+Fair value provided by IndexArb.com
+Market holidays and trading hours provided by Copp Clark Limited.
+© 2023 Cable News Network
+A Warner Bros
+Discovery Company
+All Rights Reserved
+ CNN Sans ™ & © 2016 Cable News Network.

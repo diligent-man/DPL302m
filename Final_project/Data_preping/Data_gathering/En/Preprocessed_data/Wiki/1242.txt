@@ -1,19 +1,18 @@
-the indiewire critics poll is an annual poll by indiewire that recognizes the best in american and international films in a ranking of films on different categories
-the winners are chosen by the votes of the critics from indiewire
-the poll began in
-best film
-best director
-best actor
-best actress
-best supporting actor
-best supporting actress
-best documentary
-best undistributed film
-best first feature
-best screenplay
-best original score soundtrack
-best cinematography
-best editing
-best overlooked film
-most anticipated of
-
+The IndieWire Critics Poll is an annual poll by IndieWire that recognizes the best in American and international films in a ranking of 10 films on 15 different categories
+The winners are chosen by the votes of the critics from Indiewire
+The poll began in 2006.
+Best Film
+Best Director
+Best Actor
+Best Actress
+Best Supporting Actor
+Best Supporting Actress
+Best Documentary
+Best Undistributed Film
+Best First Feature
+Best Screenplay
+Best Original Score/Soundtrack
+Best Cinematography
+Best Editing
+Best Overlooked Film
+Most Anticipated of 2017

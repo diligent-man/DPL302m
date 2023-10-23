@@ -1,46 +1,45 @@
-markets
-fear greed index
-latest market news
-a complex but concerning method of gaining control over a user s iphone and permanently locking them out the device appears to be on the rise
-some iphone thieves are exploiting a security setting called the recovery key that makes it nearly impossible for owners to access their photos messages data and more according to a recent wall street journal report
-some victims also told the publication their bank accounts were drained after the thieves gained access to their financial apps
-it s important to note however this type of takeover is hard to pull off
-it requires a criminal essentially watching an iphone user enter the device s passcode for example by looking over their shoulder at a bar or sporting event or manipulating the device s owner so they ll share their passcode
-and that s all before they physically steal the device
-from there a thief could use the passcode to change the device s apple id turn off find my iphone so their location can t be tracked and then reset the recovery key a complex digit code intended to protect its owners from online hackers
-apple requires this key to help reset or regain access to an apple id in an effort to bolster the user s security but if a thief changes it the original owner will not have the new code and will be locked out of the account
-we sympathize with people who have had this experience and we take all attacks on our users very seriously no matter how rare an apple spokesperson said in a statement to cnn
-we work tirelessly every day to protect our users accounts and data and are always investigating additional protections against emerging threats like this one
-on its website apple warns you re responsible for maintaining access to your trusted devices and your recovery key
-if you lose both of these items you could be locked out of your account permanently
-jeff pollard vp and principal analyst at forrester research said the company should offer more customer support options and ways for apple users to authenticate so they can reset these settings
-for now however there are a handful of steps users can take to potentially protect themselves from having this happen to them
-the first step is protecting the passcode
-an apple spokesperson told cnn people can use face id or touch id when unlocking their phone in public to avoid revealing their passcode to anyone who might be watching
-users can also set up a longer alphanumeric passcode that s harder for bad actors to figure out
-device owners should also change the passcode immediately if they believe someone else has seen it
-another step someone could consider is a hack not necessarily endorsed by apple but one that s been circulating online
-within an iphone s screen time setting which allows guardians to set up restrictions on how kids can use the device there is the option to set up a secondary password that would be required from any user before they could successfully change an apple id
-by enabling this a thief would be prompted for that secondary password before changing an apple id password
-finally users can protect themselves by regularly backing up an iphone via icloud or itunes so data can be recovered in the case an iphone is stolen
-at the same time users may want to consider storing important photos or other sensitive files and data in another cloud service such as google photos microsoft onedrive amazon photos or dropbox
-this won t stop a bad actor from gaining access to the device but it should limit some of the fallout if it ever should happen
-most stock quote data provided by bats
-us market indices are shown in real time except for the s p which is refreshed every two minutes
-all times are et
-factset factset research systems inc
-all rights reserved
-chicago mercantile certain market data is the property of chicago mercantile exchange inc
+Markets
+Fear & Greed Index
+Latest Market News
+A complex but concerning method of gaining control over a user’s iPhone and permanently locking them out the device appears to be on the rise.
+Some iPhone thieves are exploiting a security setting, called the recovery key, that makes it nearly impossible for owners to access their photos, messages, data and more, according to a recent Wall Street Journal report
+Some victims also told the publication their bank accounts were drained after the thieves gained access to their financial apps.
+It’s important to note, however, this type of takeover is hard to pull off
+It requires a criminal essentially watching an iPhone user enter the device’s passcode – for example, by looking over their shoulder at a bar or sporting event – or manipulating the device’s owner so they’ll share their passcode
+And that’s all before they physically steal the device.
+From there, a thief could use the passcode to change the device’s Apple ID, turn off “Find my iPhone” so their location can’t be tracked, and then reset the recovery key, a complex 28-digit code intended to protect its owners from online hackers.
+Apple requires this key to help reset or regain access to an Apple ID in an effort to bolster the user’s security, but if a thief changes it, the original owner will not have the new code and will be locked out of the account.
+“We sympathize with people who have had this experience and we take all attacks on our users very seriously, no matter how rare,” an Apple spokesperson said in a statement to CNN
+“We work tirelessly every day to protect our users’ accounts and data, and are always investigating additional protections against emerging threats like this one.”
+On its website, Apple warns “you’re responsible for maintaining access to your trusted devices and your recovery key
+If you lose both of these items, you could be locked out of your account permanently.”
+Jeff Pollard, VP and principal analyst at Forrester Research, said the company should offer more customer support options and “ways for Apple users to authenticate so they can reset these settings.”
+For now, however, there are a handful of steps users can take to potentially protect themselves from having this happen to them.
+The first step is protecting the passcode.
+An Apple spokesperson told CNN people can use Face ID or Touch ID when unlocking their phone in public to avoid revealing their passcode to anyone who might be watching.
+Users can also set up a longer, alphanumeric passcode that’s harder for bad actors to figure out
+Device owners should also change the passcode immediately if they believe someone else has seen it.
+Another step someone could consider is a hack not necessarily endorsed by Apple but one that’s been circulating online
+Within an iPhone’s Screen Time setting, which allows guardians to set up restrictions on how kids can use the device, there is the option to set up a secondary password that would be required from any user before they could successfully change an Apple ID.
+By enabling this, a thief would be prompted for that secondary password before changing an Apple ID password.
+Finally, users can protect themselves by regularly backing up an iPhone – via iCloud or iTunes – so data can be recovered in the case an iPhone is stolen
+At the same time, users may want to consider storing important photos or other sensitive files and data in another cloud service, such as Google Photos, Microsoft OneDrive, Amazon Photos or Dropbox.
+This won’t stop a bad actor from gaining access to the device, but it should limit some of the fallout if it ever should happen.
+Most stock quote data provided by BATS
+US market indices are shown in real time, except for the S&P 500 which is refreshed every two minutes
+All times are ET
+Factset: FactSet Research Systems Inc
+All rights reserved
+Chicago Mercantile: Certain market data is the property of Chicago Mercantile Exchange Inc
 and its licensors
-all rights reserved
-dow jones the dow jones branded indices are proprietary to and are calculated distributed and marketed by dji opco a subsidiary of s p dow jones indices llc and have been licensed for use to s p opco llc and cnn
-standard poor s and s p are registered trademarks of standard poor s financial services llc and dow jones is a registered trademark of dow jones trademark holdings llc
-all content of the dow jones branded indices copyright s p dow jones indices llc and or its affiliates
-fair value provided by indexarb com
-market holidays and trading hours provided by copp clark limited
-cable news network
-a warner bros
-discovery company
-all rights reserved
-cnn sans cable news network
-
+All rights reserved
+Dow Jones: The Dow Jones branded indices are proprietary to and are calculated, distributed and marketed by DJI Opco, a subsidiary of S&P Dow Jones Indices LLC and have been licensed for use to S&P Opco, LLC and CNN
+Standard & Poor’s and S&P are registered trademarks of Standard & Poor’s Financial Services LLC and Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC
+All content of the Dow Jones branded indices Copyright S&P Dow Jones Indices LLC and/or its affiliates
+Fair value provided by IndexArb.com
+Market holidays and trading hours provided by Copp Clark Limited.
+© 2023 Cable News Network
+A Warner Bros
+Discovery Company
+All Rights Reserved
+ CNN Sans ™ & © 2016 Cable News Network.

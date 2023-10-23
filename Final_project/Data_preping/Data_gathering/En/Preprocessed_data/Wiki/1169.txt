@@ -1,42 +1,41 @@
-in internationalization cjk characters is a collective term for the chinese japanese and korean languages all of which include chinese characters and derivatives in their writing systems sometimes paired with other scripts
-collectively the cjk characters often include h nz in chinese kanji and kana in japanese hanja and hangul in korean
-rarely vietnamese is included making the abbreviation cjkv since vietnamese historically used chinese characters as well in which context they were known as ch h n and ch n m in vietnamese
-standard mandarin chinese and standard cantonese are written almost exclusively in chinese characters
-over characters are required for general literacy with up to characters for reasonably complete coverage
-japanese uses fewer characters general literacy in japanese can be expected with characters
-the use of chinese characters in korea is increasingly rare although idiosyncratic use of chinese characters in proper names requires knowledge and therefore availability of many more characters
-even today however south korean students are taught characters
-other scripts used for these languages such as bopomofo and the latin based pinyin for chinese hiragana and katakana for japanese and hangul for korean are not strictly cjk characters although cjk character sets almost invariably include them as necessary for full coverage of the target languages
-until the early th century classical chinese was the written language of government and scholarship in vietnam
-popular literature in vietnamese was written in the ch n m script consisting of borrowed chinese characters together with many characters created locally
-from s onwards the script since then used for recording literature has been the latin ch qu c ng
-the sinologist carl leban produced an early survey of cjk encoding systems
-the number of characters required for complete coverage of all these languages needs cannot fit in the character code space of bit character encodings requiring at least a bit fixed width encoding or multi byte variable length encodings
-the bit fixed width encodings such as those from unicode up to and including version are now deprecated due to the requirement to encode more characters than a bit encoding can accommodate unicode has some han characters and the requirement by the chinese government that software in china support the gb character set
-although cjk encodings have common character sets the encodings often used to represent them have been developed separately by different east asian governments and software companies and are mutually incompatible
-unicode has attempted with some controversy to unify the character sets in a process known as han unification
-cjk character encodings should consist minimally of han characters plus language specific phonetic scripts such as pinyin bopomofo hiragana katakana and hangul
-cjk character encodings include
-the cjk character sets take up the bulk of the assigned unicode code space
-there is much controversy among japanese experts of chinese characters about the desirability and technical merit of the han unification process used to map multiple chinese and japanese character sets into a single set of unified characters
-all three languages can be written both left to right and top to bottom right to left and top to bottom in ancient documents but are usually considered left to right scripts when discussing encoding issues
-libraries cooperated on encoding standards for jackphy characters in the early s
-according to ken lunde the abbreviation cjk was a registered trademark of research libraries group which merged with oclc in
-the trademark owned by oclc between and has now expired
-chinese character description languages
-chinese character encoding
-chinese input methods for computers
-cjk compatibility ideographs
-cjk strokes
-cjk unified ideographs
-complex text layout languages ctl
-input method editor
-japanese language and computers
-korean language and computers
-list of cjk fonts
-sinoxenic
-variable width encodingcjkv a brief introduction
-lemberg cjk article from above tugboat
-on cjk unified ideograph from wenlin com
-fga unicode cjkv character set rationalization
-
+In internationalization, CJK characters is a collective term for the Chinese, Japanese, and Korean languages, all of which include Chinese characters and derivatives in their writing systems, sometimes paired with other scripts
+Collectively, the CJK characters often include Hànzì in Chinese, Kanji and Kana in Japanese, Hanja and Hangul in Korean
+Rarely, Vietnamese is included, making the abbreviation CJKV, since Vietnamese historically used Chinese characters as well, in which context they were known as Chữ Hán and Chữ Nôm in Vietnamese.
+Standard Mandarin Chinese and Standard Cantonese are written almost exclusively in Chinese characters
+Over 3,000 characters are required for general literacy, with up to 40,000 characters for reasonably complete coverage
+Japanese uses fewer characters—general literacy in Japanese can be expected with 2,136 characters
+The use of Chinese characters in Korea is increasingly rare, although idiosyncratic use of Chinese characters in proper names requires knowledge (and therefore availability) of many more characters
+ Even today, however, South Korean students are taught 1,800 characters.
+Other scripts used for these languages, such as bopomofo and the Latin-based pinyin for Chinese, hiragana and katakana for Japanese, and hangul for Korean, are not strictly "CJK characters", although CJK character sets almost invariably include them as necessary for full coverage of the target languages.
+Until the early 20th century, Classical Chinese was the written language of government and scholarship in Vietnam
+Popular literature in Vietnamese was written in the chữ Nôm script, consisting of borrowed Chinese characters together with many characters created locally
+From 1920s onwards, the script since then used for recording literature has been the Latin chữ Quốc ngữ.
+The sinologist Carl Leban (1971) produced an early survey of CJK encoding systems.
+The number of characters required for complete coverage of all these languages' needs cannot fit in the 256-character code space of 8-bit character encodings, requiring at least a 16-bit fixed width encoding or multi-byte variable-length encodings
+The 16-bit fixed width encodings, such as those from Unicode up to and including version 2.0, are now deprecated due to the requirement to encode more characters than a 16-bit encoding can accommodate—Unicode 5.0 has some 70,000 Han characters—and the requirement by the Chinese government that software in China support the GB 18030 character set.
+Although CJK encodings have common character sets, the encodings often used to represent them have been developed separately by different East Asian governments and software companies, and are mutually incompatible
+Unicode has attempted, with some controversy, to unify the character sets in a process known as Han unification.
+CJK character encodings should consist minimally of Han characters plus language-specific phonetic scripts such as pinyin, bopomofo, hiragana, katakana and hangul.
+CJK character encodings include:
+The CJK character sets take up the bulk of the assigned Unicode code space
+There is much controversy among Japanese experts of Chinese characters about the desirability and technical merit of the Han unification process used to map multiple Chinese and Japanese character sets into a single set of unified characters.
+All three languages can be written both left-to-right and top-to-bottom (right-to-left and top-to-bottom in ancient documents), but are usually considered left-to-right scripts when discussing encoding issues.
+Libraries cooperated on encoding standards for JACKPHY characters in the early 1980s
+ According to Ken Lunde, the abbreviation "CJK" was a registered trademark of Research Libraries Group (which merged with OCLC in 2006)
+  The trademark owned by OCLC between 1987 and 2009 has now expired.
+Chinese character description languages
+Chinese character encoding
+Chinese input methods for computers
+CJK Compatibility Ideographs
+CJK strokes
+CJK Unified Ideographs
+Complex Text Layout languages (CTL)
+Input method editor
+Japanese language and computers
+Korean language and computers
+List of CJK fonts
+Sinoxenic
+Variable-width encodingCJKV: A Brief Introduction
+Lemberg CJK article from above, TUGboat18-3
+On “CJK Unified Ideograph”, from Wenlin.com
+FGA: Unicode CJKV character set rationalization

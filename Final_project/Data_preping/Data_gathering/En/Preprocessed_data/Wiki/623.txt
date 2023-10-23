@@ -1,34 +1,33 @@
-motorola one stylised as motorolaone is a series of android phones developed by motorola mobility
-the motorola one series first launched in as upper mid range replacements for the moto x was originally a series of phones featuring the android one version of android and mostly made available in asian and european markets
-however the latest motorola one series phones like motorola one zoom does not support android one
-the first release in the series is named the motorola one however it did carry the alternative name of p play in areas of asia
-it was released in october with android oreo
-it came to the market at a price of euros making it a low end phone
-the second release in this series is named the motorola one power also called the p note in china
-it was released in october and boasted a mah battery
-it came to the market at a price of euros making it a mid range phone
-the third release in this series is named the motorola one vision
-it was released on june and boasted a screen and a mp main sensor as well as android pie
-it came to the market at a price of euros making it a mid range phone
-this was motorola s first phone to feature samsung exynos processors
-the fourth release in this series is named the motorola one action
-it was released on october and was the first phone in the market to record landscape video footage when held in the portrait position enabled by an ultrawide camera
-it came to the market at a price of euros making it a mid range phone
-like the motorola one vision it features the samsung exynos chipset
-the us version of this phone is not supported by the android one program
-the fifth release in the series is named the motorola one zoom
-it was released on september with a quad camera setup including telephoto and ultrawide lenses and a mp main sensor
-it came to the market at a price of euros making it a mid range phone and the most expensive in the series
-the sixth release in the series is named the motorola one macro
-it was released on october with a dedicated macro camera
-it costs euros making it a low end phone and cheaper than the original device
-the seventh release in the series is named the motorola one hyper
-it was released on december with a pop up selfie camera w fast charging a mp main sensor and android
-it costs euros making it a mid range phone and the second most expensive in the series
-the eighth release in the series is named the motorola one fusion
-it was released on july with a mah battery and a mp quad camera setup
-it costs euros making it a mid range phone
-the ninth release in the series is named the motorola one fusion
-it was released on june with a pop up selfie camera a mah battery and a mp quad camera setup
-it costs euros making it a mid range phone
-
+Motorola One (stylised as MotorolaOne) is a series of Android phones developed by Motorola Mobility
+The Motorola One series, first launched in 2018 as upper mid-range replacements for the Moto X4, was originally a series of phones featuring the Android One version of Android and mostly made available in Asian and European markets
+However, the latest Motorola One series phones like Motorola One Zoom does not support Android One.
+The first release in the series is named the Motorola One, however it did carry the alternative name of P30 Play in areas of Asia
+It was released in October 2018 with Android Oreo
+It came to the market at a price of 180 Euros, making it a low-end phone.
+The second release in this series is named the Motorola One Power, also called the P30 Note in China
+It was released in October 2018 and boasted a 5000 mAh battery
+It came to the market at a price of 250 Euros, making it a mid-range phone.
+The third release in this series is named the Motorola One Vision
+It was released on June 20, 2019 and boasted a 21:9 screen and a 48 MP main sensor, as well as Android Pie
+It came to the market at a price of 300 Euros, making it a mid-range phone
+This was Motorola's first phone to feature Samsung Exynos processors.
+The fourth release in this series is named the Motorola One Action
+It was released on October 31, 2019 and was the first phone in the market to record landscape video footage when held in the portrait position enabled by an ultrawide camera
+It came to the market at a price of 300 Euros, making it a mid-range phone
+Like the Motorola One Vision, it features the Samsung Exynos 9609 chipset
+The US version of this phone is not supported by the Android One program.
+The fifth release in the series is named the Motorola One Zoom
+It was released on September 5, 2019 with a quad camera setup including telephoto and ultrawide lenses and a 48 MP main sensor
+It came to the market at a price of 400 Euros, making it a mid-range phone and the most expensive in the series.
+The sixth release in the series is named the Motorola One Macro
+It was released on October 12, 2019 with a dedicated macro camera
+It costs 130 Euros, making it a low-end phone and cheaper than the original device.
+The seventh release in the series is named the Motorola One Hyper
+It was released on December 4, 2019 with a pop-up selfie camera, 45W fast charging, a 64 MP main sensor and Android 10
+It costs 360 Euros, making it a mid-range phone and the second most expensive in the series.
+The eighth release in the series is named the Motorola One Fusion
+It was released on July 2, 2020 with a 5000 mAh battery and a 48 MP quad camera setup
+It costs 200 Euros, making it a mid-range phone.
+The ninth release in the series is named the Motorola One Fusion+
+It was released on June 8, 2020 with a pop-up selfie camera, a 5000 mAh battery and a 64 MP quad camera setup
+It costs 300 Euros, making it a mid-range phone.

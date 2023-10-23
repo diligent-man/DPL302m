@@ -1,206 +1,213 @@
-research funding is a term generally covering any funding for scientific research in the areas of natural science technology and social science
-different methods can be used to disburse funding but the term often connotes funding obtained through a competitive process in which potential research projects are evaluated and only the most promising receive funding
-it is often measured via gross domestic expenditure on r d gerd
-most research funding comes from two major sources corporations through research and development departments and government primarily carried out through universities and specialized government agencies often known as research councils
-a smaller amount of scientific research is funded by charitable foundations especially in relation to developing cures for diseases such as cancer malaria and aids
-according to the organisation for economic co operation and development oecd more than of research and development in scientific and technical fields is carried out by industry and and respectively by universities and government
-comparatively in countries with less gdp such as portugal and mexico the industry contribution is significantly lower
-the government funding proportion in certain industries is higher and it dominates research in social science and humanities
-in commercial research and development all but the most research oriented corporations focus more heavily on near term commercialization possibilities rather than blue sky ideas or technologies such as nuclear fusion
-conducting research requires funds
-over the past years funding for research has gone from a closed patronage system to which only few could contribute to an open system with multiple funding possibilities
-in the early zhou dynasty c
-th century to bce government officials used their resources to fund schools of thought of which they were patron
-the bulk of their philosophies are still relevant including confucianism legalism and taoism
-during the mayan empire c
-scientific research was funded for religious purposes
-the venus table is developed showing precise astronomical data about the position of venus in the sky
-in cairo c
-the mamluk sultan qalawun funded a monumental hospital patronizing the medical sciences over the religious sciences
-furthermore tycho brahe was given an estate c
-by his royal patron king frederik ii which was used to build uraniborg an early research institute
-in scientific academies became central creators of scientific knowledge
-funded by state sponsorship societies are still free to manage scientific developments
-membership is exclusive in terms of gender race and class but academies open the world of research up beyond the traditional patronage system
-in louis nicolas robert patents the paper machine
-when he quarrels over invention ownership he seeks financing from the fourdrinier brothers
-in th century europe businessmen financed the application of science to industry
-in the eighteenth and nineteenth centuries as the pace of technological progress increased before and during the industrial revolution most scientific and technological research was carried out by individual inventors using their own funds
-a system of patents was developed to allow inventors a period of time often twenty years to commercialize their inventions and recoup a profit although in practice many found this difficult
-the manhattan project had cost billion and employed people many of them scientists charged with producing the first nuclear weapons
-in scientists signed the szilard petition asking president truman to make a demonstration of the power of the bomb before using it
-most of the signers lost their jobs in military research
-in the twentieth century scientific and technological research became increasingly systematized as corporations developed and discovered that continuous investment in research and development could be a key element of success in a competitive strategy
-it remained the case however that imitation by competitors circumventing or simply flouting patents especially those registered abroad was often just as successful a strategy for companies focused on innovation in matters of organisation and production technique or even in marketing
-today many funders move towards transparent and accessible research outcomes through data repositories or open access mandates
-some researchers turn to crowdfunding in search of new projects to fund
-private and public foundations governments and others stand as an expansion of funding opportunities for researchers
-as new funding sources become available the research community grows and becomes accessible to a wider and more diverse group of scientists
-the guidelines for r d data collections are laid down in the frascati manual published by the oecd
-in the publication r d denotes three type of activity basic research applied research and experimental development
-this definition does not cover innovation but it may feed into the innovative process
-business sector innovation has a dedicated oecd manual
-the most frequently used measurement for r d is gross domestic expenditure on r d gerd gerd is often represented in gerd to gdp ratios as it allows for easier comparisons between countries
-the data collection for gerd is based on reporting by performers
-gerd differentiates according to the funding sector business enterprise government higher education private non profit rest of the world and the sector of performance all funding sectors with the exception of rest of the world as gerd only measures activity within the territory of a country
-the two may coincide for example when government funds government performed r d
-government funded science also may be measured by the government budget appropriations and outlays for r d gbaord gbard
-gbard is a funder based method it denotes what governments committed to r d even if final payment might be different
-gerd source of funding government and gbard are not directly comparable
-on data collection gerd is performer based gbard is funder
-the level of government considered also differs gerd should include spending by all levels of the government federal state local whereas gbard excludes the local level and often lacks state level data
-on geographic coverage gerd takes into account performance within the territory of a country whereas gbard also payments to the rest of the world
-comparisons on the effectiveness of both the different sources of funding and sectors of performance as well as their interplay have been made
-the analysis often boils down to whether public and private finance show crowding in or crowding out patterns
-public funding refers to activities financed by tax payers money
-this is primarily the case when the source of funds is the government
-higher education institutions are usually not completely publicly financed as they charge tuition fees and may receive funds from non public sources
-r d is a costly and long term investment to which disruptions are harmful
-the public sector has multiple reasons to fund science
-the private sector is said to focus on the closer to the market stage of r d policy where appropriability hence private returns are high
-basic research is weak on appropriability and so remains risky and under financed
-consequently although governmental r d may provide support across the r d value chain it is often characterized as market failure induced intervention to maintain early stage research where incentives to invest are low
-the theory of public goods seconds this argument
-publicly funded research often supports research fields where social rate of return is higher than private rate of return often related to appropriability potential
-the general free rider problem of public goods is a threat especially in case of global public goods such as climate change research which may lower incentives to invest by both the private sector but also other governments
-in endogenous growth theories r d contributes to growth
-some have depicted this relationship in the inverse claiming that growth drives innovation
-recently tacit knowledge itself is said to be a source of economic driver internalized by science workers
-when this knowledge and or human capital emigrates countries face the so called brain drain
-science policy can assist to avoid this as large shares of governmental r d is spent on researchers and supporting staff personnel salaries
-in this sense science funding is not only discretionary spending but also has elements of entitlement spending
-r d funded and especially performed by the state may allow greater influence over its direction
-this is particularly important in the case of r d contributing to public goods
-however the ability of governments have been criticized over whether they are best positioned to pick winners and losers
-in the eu dedicated safeguards have been enacted under a dedicated form of competition law called state aid
-state aid safeguards business activities from governmental interventions
-this invention was largely driven by the german ordoliberal school as to eliminate state subsidies advocated by the french dirigiste
-threats to global public goods has refueled the debate on the role of governments beyond a mere market failure fixer the so called mission driven policies
-governments may fund science through different instruments such as direct subsidies tax credits loans financial instruments regulatory measures public procurement etc
-while direct subsidies have been the prominent instrument to fund business r d since the financial crisis a shift has taken place in oecd countries in the direction of tax breaks
-the explanation seems to lay in the theoretical argument that firms know better and in the practical benefit of lower administrative burden of such schemes
-depending on the funding type different modalities to distribute the funds may be used
-for regulatory measures often the competition antitrust authorities will rule on exemptions
-in case of block funding the funds may be directly allocated to given institutions such as higher education institutions with relative autonomy over their use
-for competitive grants governments are often assisted by research councils to distribute the funds
-research councils are usually public bodies that provide research funding in the form of research grants or scholarships
-these include arts councils and research councils for the funding of science
-an incomplete list of national and international pan disciplinary public research councils
-in addition to project deliverables funders also increasingly introduce new eligibility requirements alongside traditional ones such as research integrity ethics
-with the open science movement funding is increasingly tied to data management plans and making data fair
-the open science requirement complements open access mandates which today are widespread
-the gender dimension also gained ground in recent years
-the european commission mandates applicants to adopt gender equality plans across their organization
-the uk research and innovation global challenges research fund mandates a gender equality statement
-most recently the european commission also introduced a do no significant harm principle to the framework program which aims to curb the environmental footprint of scientific projects
-do no significant harm has been criticized as coupled with other eligibility requirements it is often characterized as red tape
-the european commission has been trying to simplify the framework program for numerous years with limited success
-simplification attempts are also taken by the uk research and innovation
-often scientists apply for research funding which a granting agency may or may not approve to financially support
-these grants require a lengthy process as the granting agency can inquire about the researcher s s background the facilities used the equipment needed the time involved and the overall potential of the scientific outcome
-the process of grant writing and grant proposing is a somewhat delicate process for both the grantor and the grantee the grantors want to choose the research that best fits their scientific principles and the individual grantees want to apply for research in which they have the best chances but also in which they can build a body of work towards future scientific endeavors
-the engineering and physical sciences research council in the united kingdom has devised an alternative method of fund distribution the sandpit
-most universities have research administration offices to facilitate the interaction between the researcher and the granting agency
-research administration is all about service service to our faculty to our academic units to the institution and to our sponsors
-to be of service we first have to know what our customers want and then determine whether or not we are meeting those needs and expectations
-in the united states of america the national council of university research administrators serves its members and advances the field of research administration through education and professional development programs the sharing of knowledge and experience and by fostering a professional collegial and respected community
-in academic contexts hard money may refer to funding received from a government or other entity at regular intervals thus providing a steady inflow of financial resources to the beneficiary
-the antonym soft money refers to funding provided only through competitive research grants and the writing of grant proposals
-hard money is usually issued by the government for the advancement of certain projects or for the benefit of specific agencies
-community healthcare for instance may be supported by the government by providing hard money
-since funds are disbursed regularly and continuously the offices in charge of such projects are able to achieve their objectives more effectively than if they had been issued one time grants
-individual jobs at a research institute may be classified as hard money positions or soft money positions the former are expected to provide job security because their funding is secure in the long term whereas individual soft money positions may come and go with fluctuations in the number of grants awarded to the institution
-private funding for research comes from philanthropists crowd funding private companies non profit foundations and professional organizations
-philanthropists and foundations have been pouring millions of dollars into a wide variety of scientific investigations including basic research discovery disease cures particle physics astronomy marine science and the environment
-privately funded research has been adept at identifying important and transformative areas of scientific research
-many large technology companies spend billions of dollars on research and development each year to gain an innovative advantage over their competitors though only about of this funding goes towards projects that are considered substantially new or capable of yielding radical breakthroughs
-new scientific start up companies initially seek funding from crowd funding organizations venture capitalists and angel investors gathering preliminary results using rented facilities but aim to eventually become self sufficient
-europe and the united states have both reiterated the need for further private funding within universities
-the european commission highlights the need for private funding via research in policy areas such the european green deal and europe s role in the digital age
-the source of funding may introduce conscious or unconscious biases into a researcher s work
-this is highly problematic due to academic freedom in case of universities and regulatory capture in case of government funded r d
-disclosure of potential conflicts of interest cois is used by journals to guarantee credibility and transparency of the scientific process
-conflict of interest disclosure however is not systematically nor consistently dealt with by journals that publish scientific research results
-when research is funded by the same agency that can be expected to gain from a favorable outcome there is a potential for biased results and research shows that results are indeed more favorable than would be expected from a more objective view of the evidence
-a systematic review studied the scope and impact of industry sponsorship in biomedical research
-the researchers found financial relationships among industry scientific investigators and academic institutions widespread
-results showed a statistically significant association between industry sponsorship and pro industry conclusions and concluded that conflicts of interest arising from these ties can influence biomedical research in important ways
-a british study found that a majority of the members on national and food policy committees receive funding from food companies
-in an effort to cut costs the pharmaceutical industry has turned to the use of private nonacademic research groups i e contract research organizations cros which can do the work for less money than academic investigators
-in cros came under criticism when the editors of major scientific journals issued a joint editorial published in each journal on the control over clinical trials exerted by sponsors particularly targeting the use of contracts which allow sponsors to review the studies prior to publication and withhold publication of any studies in which their product did poorly
-they further criticized the trial methodology stating that researchers are frequently restricted from contributing to the trial design accessing the raw data and interpreting the results
-the cochrane collaboration a worldwide group that aims to provide compiled scientific evidence to aid well informed health care decisions conducts systematic reviews of randomized controlled trials of health care interventions and tries to disseminate the results and conclusions derived from them
-a few more recent reviews have also studied the results of non randomized observational studies
-the systematic reviews are published in the cochrane library
-a study done to disclose possible conflicts of interests in underlying research studies used for medical meta analyses reviewed meta analyses and found that conflicts of interest in the studies underlying the meta analyses were rarely disclosed
-the meta analyses reviewed an aggregate of randomized controlled trials
-of these trials reported funding sources with industry funded
-of the trials reported author disclosures of conflict of interest with studies disclosing industry financial ties with one or more authors
-however the information was seldom reflected in the meta analyses
-only two reported funding sources and none reported author industry ties
-the authors concluded without acknowledgment of coi due to industry funding or author industry financial ties from rcts included in meta analyses readers understanding and appraisal of the evidence from the meta analysis may be compromised
-in researchers looked at the association between authors published positions on the safety and efficacy in assisting with weight loss of olestra a fat substitute manufactured by the procter gamble p g and their financial relationships with the food and beverage industry
-they found that supportive authors were significantly more likely than critical or neutral authors to have financial relationships with p g and all authors disclosing an affiliation with p g were supportive
-the authors of the study concluded because authors published opinions were associated with their financial relationships obtaining noncommercial funding may be more essential to maintaining objectivity than disclosing personal financial interests
-a study in the journal nature surveyed us researchers who were all publicly funded by the national institutes of health
-out of the scientists questioned admitted to altering design methodology or results of their studies due to pressure of an external funding source
-private funding also may be chanelled to public funders
-in a news story broke following the resignation of eric lander former director of the office of science and technology policy ostp at the biden administration that the charity of former google executive eric schmidt schmidt futures paid the salary of a number employees of the ostp
-ethics inquiries were initiated in the ostp
-the traditional measurement for efficiency of funding are publication output citation impact number of patents number of phds awarded etc
-however the use of journal impact factor has generated a publish or perish culture and a theoretical model has been established whose simulations imply that peer review and over competitive research funding foster mainstream opinion to monopoly
-calls have been made to reform research assessment most notably in the san francisco declaration on research assessment and the leiden manifesto for research metrics
-the current system also has limitations to measure excellence in the global south
-novel measurement systems such as the research quality plus has been put forward to better emphasize local knowledge and contextualization in the evaluation of excellence
-another question is how to allocate funds to different disciplines institutions or researchers
-a recent study by wayne walsh found that prestigious institutions had on average higher grant application success rates and larger award sizes whereas less prestigious institutions produced more publications and had a higher citation impact per dollar of funding
-in endogenous growth theories r d contributes to economic growth
-therefore countries have strong incentives to maintain investments in r d
-different countries spend vastly different amounts on research in both absolute and relative terms
-for instance south korea and israel spend more than of their gdp while many less developed countries spend less than
-in developed economies gerd is financed mainly by the business sector whereas the government and the university sector dominates in less developed economies
-in some countries funding from the rest of the world makes up of total gerd probably due to fdi and foreign aid but only in mali it is the main source of fund
-private non profit is not the main source of fund in any countries but it reaches of total gerd in columbia and honduras
-when comparing annual gerd and gdp growth it can be seen that countries with lower gerd are often growing faster
-however as most of these countries are developping their growth is probably driven by other factors of production
-on the other hand developed countries who have higher gerd also produce positive growth rates
-gerd in these countries has a more substantial contribution to growth rate
-in crisis business r d tends to act procyclically
-as r d is a long term investments and so disruptions should be avoided keynesian countercyclical reactions were advocated for in the wake of the financial crisis but this was difficult to achieve for some countries
-due to the nature of covid the pandemic accelerated publicly funded r d spending in primarily into the pharmaceutical industry
-a fall is expected in spending for although not below levels
-the pandemic made health research and sectors with strategic value chain dependencies the main target of science funding
-scientific funding advisory bodies category
-funding bias
-metascience
-science policy
-self organized funding allocation
-industry funding of academic researcheisfeld reschke j rg herb ulrich wenzlaff karsten
-research funding in open science
-bartling s
-friesike eds opening science pp
-heidelberg springer
-herb ulrich
-open science s final frontier
-research europe magazine
-archived from the original on
-retrieved
-martinson brian c de vries raymond et al
-scientists behaving badly
-nature
-bibcode natur m
-doi a
-s cid
-mello michelle m et al
-academic medical centers standards for clinical trial agreements with industry
-new england journal of medicine
-doi nejmsa
-s cid
-odlyzko andrew
-the decline of unfettered research
-retrieved where to search for funding science aaas from science careers from the journal science
-researchcrossroads aggregated funding data from the national institutes of health the national science foundation nsf private foundations and the european union
-seventh framework programme the european unions s programme for funding and promoting research at the european level
-cordis the official website of the european unions s programme for funding and promoting research this website contains comprehensive information on research projects already funded
-research councils uk the portal for the uk based research councils
-
+Research funding is a term generally covering any funding for scientific research, in the areas of natural science, technology, and social science
+Different methods can be used to disburse funding, but the term often connotes funding obtained through a competitive process, in which potential research projects are evaluated and only the most promising receive funding
+It is often measured via Gross domestic expenditure on R&D (GERD).
+Most research funding comes from two major sources, corporations (through research and development departments) and government (primarily carried out through universities and specialized government agencies; often known as research councils)
+A smaller amount of scientific research is funded by charitable foundations, especially in relation to developing cures for diseases such as cancer, malaria, and AIDS.
+According to the Organisation for Economic Co-operation and Development (OECD), more than 60% of research and development in scientific and technical fields is carried out by industry, and 20% and 10% respectively by universities and government
+Comparatively, in countries with less GDP such as Portugal and Mexico, the industry contribution is significantly lower
+The government funding proportion in certain industries is higher, and it dominates research in social science and humanities
+In commercial research and development, all but the most research-oriented corporations focus more heavily on near-term commercialization possibilities rather than "blue-sky" ideas or technologies (such as nuclear fusion).
+Conducting research requires funds
+Over the past years, funding for research has gone from a closed patronage system to which only few could contribute, to an open system with multiple funding possibilities.
+In the early Zhou dynasty (-c
+6th century to 221 BCE), government officials used their resources to fund schools of thought of which they were patron
+The bulk of their philosophies are still relevant, including Confucianism, Legalism and Taoism.
+During the Mayan Empire (-c
+1200-1250), scientific research was funded for religious purposes
+The Venus Table is developed, showing precise astronomical data about the position of Venus in the sky
+In Cairo (-c
+1283), the Mamluk Sultan Qalawun funded a monumental hospital, patronizing the medical sciences over the religious sciences
+Furthermore, Tycho Brahe was given an estate (-c
+1576 – 1580) by his royal patron King Frederik II, which was used to build Uraniborg, an early research institute.
+In 1700-1799, scientific academies became central creators of scientific knowledge
+Funded by state sponsorship, societies are still free to manage scientific developments
+Membership is exclusive in terms of gender, race and class, but academies open the world of research up beyond the traditional patronage system.
+In 1799, Louis-Nicolas Robert patents the paper machine
+When he quarrels over invention ownership, he seeks financing from the Fourdrinier brothers
+In 19th century Europe, businessmen financed the application of science to industry.
+In the eighteenth and nineteenth centuries, as the pace of technological progress increased before and during the industrial revolution, most scientific and technological research was carried out by individual inventors using their own funds
+A system of patents was developed to allow inventors a period of time (often twenty years) to commercialize their inventions and recoup a profit, although in practice many found this difficult.
+The Manhattan Project (1942 – 1946) had cost $27 billion and employed 130,000 people, many of them scientists charged with producing the first nuclear weapons
+In 1945, 70 scientists signed the Szilard petition, asking President Truman to make a demonstration of the power of the bomb before using it
+Most of the signers lost their jobs in military research.
+In the twentieth century, scientific and technological research became increasingly systematized, as corporations developed, and discovered that continuous investment in research and development could be a key element of success in a competitive strategy
+It remained the case, however, that imitation by competitors - circumventing or simply flouting patents, especially those registered abroad - was often just as successful a strategy for companies focused on innovation in matters of organisation and production technique, or even in marketing.
+Today, many funders move towards transparent and accessible research outcomes through data repositories or Open-access mandates
+Some researchers turn to crowdfunding in search of new projects to fund
+Private and public foundations, governments, and others stand as an expansion of funding opportunities for researchers
+As new funding sources become available, the research community grows and becomes accessible to a wider, and more diverse group of scientists.
+The guidelines for R&D data collections are laid down in the Frascati Manual published by the OECD
+In the publication, R&D denotes three type of activity: basic research, applied research and experimental development
+This definition does not cover innovation but it may feed into the innovative process
+Business sector innovation has a dedicated OECD manual.
+The most frequently used measurement for R&D is Gross domestic expenditure on R&D (GERD). GERD is often represented in GERD-to-GDP ratios, as it allows for easier comparisons between countries
+The data collection for GERD is based on reporting by performers
+GERD differentiates according to the funding sector (business, enterprise, government, higher education, private non-profit, rest of the world) and the sector of performance (all funding sectors with the exception of rest of the world as GERD only measures activity within the territory of a country)
+The two may coincide for example when government funds government performed R&D.
+Government funded science also may be measured by the Government budget appropriations and outlays for R&D (GBAORD/ GBARD)
+GBARD is a funder-based method, it denotes what governments committed to R&D (even if final payment might be different)
+GERD-source of funding-government and GBARD are not directly comparable
+On data collection, GERD is performer based, GBARD is funder
+The level of government considered also differs: GERD should include spending by all levels of the government (federal – state – local), whereas GBARD excludes the local level and often lacks state level data
+On geographic coverage, GERD takes into account performance within the territory of a country whereas GBARD also payments to the Rest of the world.
+Comparisons on the effectiveness of both the different sources of funding and sectors of performance as well as their interplay have been made
+The analysis often boils down to whether public and private finance show crowding-in or crowding-out patterns.
+Public funding refers to activities financed by tax-payers money
+This is primarily the case when the source of funds is the government
+Higher education institutions are usually not completely publicly financed as they charge tuition fees and may receive funds from non-public sources.
+R&D is a costly, and long-term investment to which disruptions are harmful.
+The public sector has multiple reasons to fund science
+The private sector is said to focus on the closer to the market stage of R&D policy, where appropriability hence private returns are high
+Basic research is weak on appropriability and so remains risky and under-financed
+Consequently, although governmental R&D may provide support across the R&D value chain, it is often characterized as Market failure induced intervention to maintain early-stage research where incentives to invest are low
+The theory of public goods seconds this argument
+Publicly funded research often supports research fields where social rate of return is higher than private rate of return often related to appropriability potential
+The general free rider problem of public goods is a threat especially in case of global public goods such as climate change research, which may lower incentives to invest by both the private sector but also other governments.
+In endogenous growth theories, R&D contributes to growth
+Some have depicted this relationship in the inverse, claiming that growth drives innovation
+Recently, (tacit) knowledge itself is said to be a source of economic driver internalized by science workers
+When this knowledge and/or human capital emigrates, countries face the so-called brain–drain
+Science policy can assist to avoid this as large shares of governmental R&D is spent on researchers and supporting staff personnel salaries
+In this sense, science funding is not only discretionary spending but also has elements of entitlement spending.
+R&D funded and especially performed by the State may allow greater influence over its direction
+This is particularly important in the case of R&D contributing to public goods
+However, the ability of governments have been criticized over whether they are best positioned to pick winners and losers
+In the EU, dedicated safeguards have been enacted under a dedicated form of competition law called State Aid
+State Aid safeguards business activities from governmental interventions
+This invention was largely driven by the German ordoliberal school as to eliminate state subsidies advocated by the French dirigiste
+Threats to global public goods has refueled the debate on the role of governments beyond a mere market failure fixer, the so-called mission-driven policies.
+Governments may fund science through different instruments such as: direct subsidies, tax credits, loans, financial instruments, regulatory measures, public procurement etc.
+While direct subsidies have been the prominent instrument to fund business R&D, since the financial crisis a shift has taken place in OECD countries in the direction of tax breaks
+The explanation seems to lay in the theoretical argument that firms know better, and in the practical benefit of lower administrative burden of such schemes
+Depending on the funding type, different modalities to distribute the funds may be used
+For regulatory measures, often the competition/antitrust authorities will rule on exemptions
+In case of block funding the funds may be directly allocated to given institutions such as higher education institutions with relative autonomy over their use
+For competitive grants, governments are often assisted by research councils to distribute the funds
+Research councils are (usually public) bodies that provide research funding in the form of research grants or scholarships
+These include arts councils and research councils for the funding of science.
+An incomplete list of national and international pan-disciplinary public research councils:
+In addition to project deliverables, funders also increasingly introduce new eligibility requirements alongside traditional ones such as research integrity/ethics.
+With the Open Science movement, funding is increasingly tied to data management plans and making data FAIR
+The Open Science requirement complements Open Access mandates which today are widespread.
+The gender dimension also gained ground in recent years
+The European Commission mandates applicants to adopt gender equality plans across their organization
+The UK Research and Innovation Global Challenges Research Fund mandates a gender equality statement.
+Most recently, the European Commission also introduced a “Do No Significant Harm” principle to the Framework Program which aims to curb the environmental footprint of scientific projects
+"Do No Significant Harm" has been criticized as coupled with other eligibility requirements it is often characterized as red-tape
+The European Commission has been trying to simplify the Framework Program for numerous years with limited success
+Simplification attempts are also taken by the UK Research and Innovation.
+Often scientists apply for research funding which a granting agency may (or may not) approve to financially support
+These grants require a lengthy process as the granting agency can inquire about the researcher(s)'s background, the facilities used, the equipment needed, the time involved, and the overall potential of the scientific outcome
+The process of grant writing and grant proposing is a somewhat delicate process for both the grantor and the grantee: the grantors want to choose the research that best fits their scientific principles, and the individual grantees want to apply for research in which they have the best chances but also in which they can build a body of work towards future scientific endeavors.
+The Engineering and Physical Sciences Research Council in the United Kingdom has devised an alternative method of fund-distribution: the sandpit.
+Most universities have research administration offices to facilitate the interaction between the researcher and the granting agency
+"Research administration is all about service—service to our faculty, to our academic units, to the institution, and to our sponsors
+To be of service, we first have to know what our customers want and then determine whether or not we are meeting those needs and expectations."
+In the United States of America, the National Council of University Research Administrators serves its members and advances the field of research administration through education and professional development programs, the sharing of knowledge and experience, and by fostering a professional, collegial, and respected community.
+In academic contexts, hard money may refer to funding received from a government or other entity at regular intervals, thus providing a steady inflow of financial resources to the beneficiary
+The antonym, soft money, refers to funding provided only through competitive research grants and the writing of grant proposals.
+Hard money is usually issued by the government for the advancement of certain projects or for the benefit of specific agencies
+Community healthcare, for instance, may be supported by the government by providing hard money
+Since funds are disbursed regularly and continuously, the offices in charge of such projects are able to achieve their objectives more effectively than if they had been issued one-time grants.
+Individual jobs at a research institute may be classified as "hard-money positions" or "soft-money positions"; the former are expected to provide job security because their funding is secure in the long term, whereas individual "soft-money" positions may come and go with fluctuations in the number of grants awarded to the institution.
+Private funding for research comes from philanthropists, crowd-funding, private companies, non-profit foundations, and professional organizations
+Philanthropists and foundations have been pouring millions of dollars into a wide variety of scientific investigations, including basic research discovery, disease cures, particle physics, astronomy, marine science, and the environment
+Privately funded research has been adept at identifying important and transformative areas of scientific research
+Many large technology companies spend billions of dollars on research and development each year to gain an innovative advantage over their competitors, though only about 42% of this funding goes towards projects that are considered substantially new, or capable of yielding radical breakthroughs
+New scientific start-up companies initially seek funding from crowd-funding organizations, venture capitalists, and angel investors, gathering preliminary results using rented facilities, but aim to eventually become self-sufficient.
+Europe and the United States have both reiterated the need for further private funding within universities
+The European Commission highlights the need for private funding via research in policy areas such the European Green Deal and Europe’s role in the digital age.
+The source of funding may introduce conscious or unconscious biases into a researcher's work
+This is highly problematic due to academic freedom in case of universities and regulatory capture in case of government-funded R&D.
+Disclosure of potential conflicts of interest (COIs) is used by journals to guarantee credibility and transparency of the scientific process
+Conflict of interest disclosure, however, is not systematically nor consistently dealt with by journals that publish scientific research results.
+When research is funded by the same agency that can be expected to gain from a favorable outcome there is a potential for biased results and research shows that results are indeed more favorable than would be expected from a more objective view of the evidence
+A 2003 systematic review studied the scope and impact of industry sponsorship in biomedical research
+ The researchers found financial relationships among industry, scientific investigators, and academic institutions widespread
+ Results  showed a statistically significant association between industry sponsorship and pro-industry conclusions and concluded that "Conflicts of interest arising from these ties can influence biomedical research in important ways"
+A British study found that a majority of the members on national and food policy committees receive funding from food companies.
+In an effort to cut costs, the pharmaceutical industry has turned to the use of private, nonacademic research groups (i.e., contract research organizations [CROs]) which can do the work for less money than academic investigators
+ In 2001 CROs came under criticism when the editors of 12 major scientific journals issued a joint editorial, published in each journal, on the control over clinical trials exerted by sponsors, particularly targeting the use of contracts which allow sponsors to review the studies prior to publication and withhold publication of any studies in which their product did poorly
+They further criticized the trial methodology stating that researchers are frequently restricted from contributing to the trial design, accessing the raw data, and interpreting the results.
+The Cochrane Collaboration, a worldwide group that aims to provide compiled scientific evidence to aid well informed health care decisions,  conducts systematic reviews of randomized controlled trials of health care interventions and tries to disseminate the results and conclusions derived from them
+ A few more recent reviews have also studied the results of non-randomized, observational studies
+The systematic reviews are published in the Cochrane Library
+A 2011 study done to disclose possible conflicts of interests in underlying research studies used for medical meta-analyses reviewed 29 meta-analyses and found that conflicts of interest in the studies underlying the meta-analyses were rarely disclosed
+ The 29 meta-analyses reviewed an aggregate of 509 randomized controlled trials
+Of these, 318 trials reported funding sources with 219 (69%) industry funded
+132 of the 509 trials reported author disclosures of conflict of interest, with 91 studies (69%) disclosing industry financial ties with one or more authors
+However, the information was seldom reflected in the meta-analyses
+Only two (7%) reported funding sources and none reported author-industry ties
+The authors concluded, "without acknowledgment of COI due to industry funding or author industry financial ties from RCTs included in meta-analyses, readers' understanding and appraisal of the evidence from the meta-analysis may be compromised."
+In 2003 researchers looked at the association between authors' published positions on the safety and efficacy in assisting with weight loss of olestra, a fat substitute manufactured by the Procter & Gamble (P&G), and their financial relationships with the food and beverage industry
+ They found that supportive authors were significantly more likely than critical or neutral authors to have financial relationships with P&G and all authors disclosing an affiliation with P&G were supportive
+ The authors of the study concluded: "Because authors' published opinions were associated with their financial relationships, obtaining noncommercial funding may be more essential to maintaining objectivity than disclosing personal financial interests."
+A 2005 study in the journal Nature surveyed 3247 US researchers who were all publicly funded (by the National Institutes of Health)
+Out of the scientists questioned, 15.5% admitted to altering design, methodology or results of their studies due to pressure of an external funding source.
+Private funding also may be chanelled to public funders
+In 2022, a news story broke following the resignation of Eric Lander, former director of the Office of Science and Technology Policy (OSTP) at the Biden Administration, that the charity of former Google executive Eric Schmidt, Schmidt Futures, paid the salary of a number employees of the OSTP
+Ethics inquiries were initiated in the OSTP.
+The traditional measurement for efficiency of funding are publication output, citation impact, number of patents, number of PhDs awarded etc
+However, the use of journal impact factor has generated a publish-or-perish culture and a theoretical model has been established whose simulations imply that peer review and over-competitive research funding foster mainstream opinion to monopoly
+Calls have been made to reform research assessment, most notably in the San Francisco Declaration on Research Assessment and the Leiden Manifesto for research metrics
+The current system also has limitations to measure excellence in the Global South
+Novel measurement systems such as the Research Quality Plus has been put forward to better emphasize local knowledge and contextualization in the evaluation of excellence.
+Another question is how to allocate funds to different disciplines, institutions, or researchers
+A recent study by Wayne Walsh found that “prestigious institutions had on average 65% higher grant application success rates and 50% larger award sizes, whereas less-prestigious institutions produced 65% more publications and had a 35% higher citation impact per dollar of funding.”
+In endogenous growth theories R&D contributes to economic growth
+Therefore, countries have strong incentives to maintain investments in R&D.
+Different countries spend vastly different amounts on research, in both absolute and relative terms
+For instance, South Korea and Israel spend more than 4% of their GDP while many less developed countries spend less than 1%
+In developed economies, GERD is financed mainly by the business sector, whereas the government and the university sector dominates in less-developed economies
+In some countries, funding from the Rest of the World makes up 20-30% of total GERD, probably due to FDI and foreign aid, but only in Mali it is the main source of fund
+Private non-profit is not the main source of fund in any countries, but it reaches 10% of total GERD in Columbia and Honduras.
+When comparing annual GERD and GDP Growth, it can be seen that countries with lower GERD are often growing faster
+However, as most of these countries are developping, their growth is probably driven by other factors of production
+On the other hand, developed countries who have higher GERD also produce positive growth rates
+GERD in these countries has a more substantial contribution to growth rate.
+In crisis, business R&D tends to act procyclically
+As R&D is a long-term investments and so disruptions should be avoided Keynesian countercyclical reactions were advocated for in the wake of the 2008 financial crisis, but this was difficult to achieve for some countries
+Due to the nature of COVID-19, the pandemic accelerated publicly funded R&D spending in 2020, primarily into the pharmaceutical industry
+A fall is expected in spending for 2021, although not below 2020 levels
+The pandemic made health research and sectors with strategic value-chain dependencies the main target of science funding.
+Scientific funding advisory bodies (category)
+Funding bias
+Metascience
+Science policy
+Self-Organized Funding Allocation
+Industry funding of academic researchEisfeld-Reschke, Jörg, Herb, Ulrich, & Wenzlaff, Karsten (2014)
+Research Funding in Open Science
+In S
+Bartling & S
+Friesike (Eds.), Opening Science (pp. 237–253)
+Heidelberg: Springer
+ doi:10.1007/978-3-319-00026-8_16
+Herb, Ulrich (2014-07-31)
+"Open science's final frontier"
+Research Europe Magazine
+Archived from the original on 2014-09-03
+Retrieved 2014-08-30.
+Martinson, Brian C.; De Vries, Raymond;  et al
+(2005)
+"Scientists behaving badly"
+Nature
+435 (7043): 737–738
+Bibcode:2005Natur.435..737M
+doi:10.1038/435737a
+PMID 15944677
+S2CID 4341622.
+Mello, Michelle M.;  et al
+(2005)
+"Academic Medical Centers' Standards for Clinical-Trial Agreements with Industry"
+New England Journal of Medicine
+352 (21): 2202–2210
+doi:10.1056/nejmsa044115
+PMID 15917385
+S2CID 8283797.
+Odlyzko, Andrew (1995-10-04)
+"The Decline of Unfettered Research"
+Retrieved 2007-11-02.Where to Search for Funding | Science | AAAS, from Science Careers, from the Journal Science.
+ResearchCrossroads Aggregated funding data from the National Institutes of Health, the National Science Foundation, NSF, private foundations and the European Union
+Seventh Framework Programme (2007–2013) The European Unions's programme for funding and promoting research at the European level
+CORDIS - the official website of the European Unions's programme for funding and promoting research This website contains comprehensive information on research projects already funded.
+Research Councils UK The portal for the UK-based Research Councils.

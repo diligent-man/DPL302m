@@ -1,108 +1,242 @@
-in logic mathematics and linguistics and
-displaystyle wedge
-is the truth functional operator of logical conjunction the and of a set of operands is true if and only if all of its operands are true
-the logical connective that represents this operator is typically written as
-displaystyle wedge
-displaystyle a land b
+In logic, mathematics and linguistics, And (
+∧
+{\displaystyle \wedge }
+) is the truth-functional operator of logical conjunction; the and of a set of operands is true if and only if all of its operands are true
+The logical connective that represents this operator is typically written as
+∧
+{\displaystyle \wedge }
+or  ⋅ .
+A
+∧
+B
+{\displaystyle A\land B}
 is true if and only if
-displaystyle a
+A
+{\displaystyle A}
 is true and
-displaystyle b
-is true
-an operand of a conjunction is a conjunct
-beyond logic the term conjunction also refers to similar concepts in other fields
-in natural language the denotation of expressions such as english and
-in programming languages the short circuit and control structure
-in set theory intersection
-in lattice theory logical conjunction greatest lower bound
-in predicate logic universal quantification and is usually denoted by an infix operator in mathematics and logic it is denoted by
-displaystyle wedge
-or in electronics and in programming languages or and
-in jan ukasiewicz s prefix notation for logic the operator is k for polish koniunkcja
-logical conjunction is an operation on two logical values typically the values of two propositions that produces a value of true if and only if both of its operands are true
-the conjunctive identity is true which is to say that and ing an expression with true will never change the value of the expression
-in keeping with the concept of vacuous truth when conjunction is defined as an operator or function of arbitrary arity the empty conjunction and ing over an empty set of operands is often defined as having the result true
-the truth table of
-displaystyle a land b
-in systems where logical conjunction is not a primitive it may be defined as
-displaystyle a land b neg a to neg b
-displaystyle a land b neg neg a lor neg b
-as a rule of inference conjunction introduction is a classically valid simple argument form
-the argument form has two premises a and b
-intuitively it permits the inference of their conjunction
-therefore a and b or in logical operator notation
-displaystyle a
-displaystyle b
-displaystyle vdash a land b
-here is an example of an argument that fits the form conjunction introduction
-bob likes apples
-bob likes oranges
-therefore bob likes apples and bob likes oranges conjunction elimination is another classically valid simple argument form
-intuitively it permits the inference from any conjunction of either element of that conjunction
-a and b
-therefore a or alternatively
-a and b
-therefore b in logical operator notation
-displaystyle a land b
-displaystyle vdash a
-or alternatively
-displaystyle a land b
-displaystyle vdash b
-a conjunction
-displaystyle a land b
+B
+{\displaystyle B}
+is true.
+An operand of a conjunction is a conjunct.
+Beyond logic, the term "conjunction" also refers to similar concepts in other fields:
+In natural language, the denotation of expressions such as English "and".
+In programming languages, the short-circuit and control structure.
+In set theory, intersection.
+In lattice theory, logical conjunction (greatest lower bound).
+In predicate logic, universal quantification.And is usually denoted by an infix operator: in mathematics and logic, it is denoted by
+∧
+{\displaystyle \wedge }
+, & or  × ; in electronics,  ⋅ ; and in programming languages, &, &&, or and
+  In Jan Łukasiewicz's prefix notation for logic, the operator is K, for Polish koniunkcja.
+Logical conjunction is an operation on two logical values, typically the values of two propositions, that produces a value of true if and only if both of its operands are true.
+The conjunctive identity is true, which is to say that AND-ing an expression with true will never change the value of the expression
+In keeping with the concept of vacuous truth, when conjunction is defined as an operator or function of arbitrary arity, the empty conjunction (AND-ing over an empty set of operands) is often defined as having the result true.
+The truth table of
+A
+∧
+B
+{\displaystyle A\land B}
+:
+In systems where logical conjunction is not a primitive, it may be defined as
+A
+∧
+B
+=
+¬
+(
+A
+→
+¬
+B
+)
+{\displaystyle A\land B=\neg (A\to \neg B)}
+or
+A
+∧
+B
+=
+¬
+(
+¬
+A
+∨
+¬
+B
+)
+.
+{\displaystyle A\land B=\neg (\neg A\lor \neg B).}
+As a rule of inference, conjunction introduction is a classically valid, simple argument form
+The argument form has two premises, A and B
+Intuitively, it permits the inference of their conjunction.
+A,
+B.
+Therefore, A and B.or in logical operator notation:
+A
+,
+{\displaystyle A,}
+B
+{\displaystyle B}
+⊢
+A
+∧
+B
+{\displaystyle \vdash A\land B}
+Here is an example of an argument that fits the form conjunction introduction:
+Bob likes apples.
+Bob likes oranges.
+Therefore, Bob likes apples and Bob likes oranges.Conjunction elimination is another classically valid, simple argument form
+Intuitively, it permits the inference from any conjunction of either element of that conjunction.
+A and B.
+Therefore, A....or alternatively,
+A and B.
+Therefore, B.In logical operator notation:
+A
+∧
+B
+{\displaystyle A\land B}
+⊢
+A
+{\displaystyle \vdash A}
+...or alternatively,
+A
+∧
+B
+{\displaystyle A\land B}
+⊢
+B
+{\displaystyle \vdash B}
+A conjunction
+A
+∧
+B
+{\displaystyle A\land B}
 is proven false by establishing either
-displaystyle neg a
-displaystyle neg b
-in terms of the object language this reads
-displaystyle neg a to neg a land b
-this formula can be seen as a special case of
-displaystyle a to c to a land b to c
-displaystyle c
-is a false proposition
-displaystyle a
+¬
+A
+{\displaystyle \neg A}
+or
+¬
+B
+{\displaystyle \neg B}
+In terms of the object language, this reads
+¬
+A
+→
+¬
+(
+A
+∧
+B
+)
+{\displaystyle \neg A\to \neg (A\land B)}
+This formula can be seen as a special case of
+(
+A
+→
+C
+)
+→
+(
+(
+A
+∧
+B
+)
+→
+C
+)
+{\displaystyle (A\to C)\to ((A\land B)\to C)}
+when
+C
+{\displaystyle C}
+is a false proposition.
+If
+A
+{\displaystyle A}
 implies
-displaystyle neg b
-then both
-displaystyle neg a
+¬
+B
+{\displaystyle \neg B}
+, then both
+¬
+A
+{\displaystyle \neg A}
 as well as
-displaystyle a
-prove the conjunction false
-displaystyle a to neg b to neg a land b
-in other words a conjunction can actually be proven false just by knowing about the relation of its conjuncts and not necessary about their truth values
-this formula can be seen as a special case of
-displaystyle a to b to c to a land b to c
-displaystyle c
-is a false proposition
-either of the above are constructively valid proofs by contradiction
-commutativity yes
-associativity yes
-distributivity with various operations especially with or
-idempotency yes
-monotonicity yes
-truth preserving yeswhen all inputs are true the output is true
-falsehood preserving yeswhen all inputs are false the output is false
-walsh spectrum
-nonlinearity the function is bent
-if using binary values for true and false then logical conjunction works exactly like normal arithmetic multiplication
-in high level computer programming and digital electronics logical conjunction is commonly represented by an infix operator usually as a keyword such as and an algebraic multiplication or the ampersand symbol sometimes doubled as in
-many languages also provide short circuit control structures corresponding to logical conjunction
-logical conjunction is often used for bitwise operations where corresponds to false and to true
-and the operation can also be applied to two binary words viewed as bitstrings of equal length by taking the bitwise and of each pair of bits at corresponding positions
-for example
-and this can be used to select part of a bitstring using a bit mask
-for example and extracts the fifth bit of an bit bitstring
-in computer networking bit masks are used to derive the network address of a subnet within an existing network from a given ip address by anding the ip address and the subnet mask
-logical conjunction and is also used in sql operations to form database queries
-the curry howard correspondence relates logical conjunction to product types
-the membership of an element of an intersection set in set theory is defined in terms of a logical conjunction x a b if and only if x a x b
-through this correspondence set theoretic intersection shares several properties with logical conjunction such as associativity commutativity and idempotence
-as with other notions formalized in mathematical logic the logical conjunction and is related to but not the same as the grammatical conjunction and in natural languages
-english and has properties not captured by logical conjunction
-for example and sometimes implies order having the sense of then
-for example they got married and had a child in common discourse means that the marriage came before the child
-the word and can also imply a partition of a thing into parts as the american flag is red white and blue here it is not meant that the flag is at once red white and blue but rather that it has a part of each color
-conjunction encyclopedia of mathematics ems press
-wolfram mathworld conjunction
-property and truth table of and propositions
-archived from the original on may
-
+A
+{\displaystyle A}
+prove the conjunction false:
+(
+A
+→
+¬
+B
+)
+→
+¬
+(
+A
+∧
+B
+)
+{\displaystyle (A\to \neg {}B)\to \neg (A\land B)}
+In other words, a conjunction can actually be proven false just by knowing about the relation of its conjuncts, and not necessary about their truth values.
+This formula can be seen as a special case of
+(
+A
+→
+(
+B
+→
+C
+)
+)
+→
+(
+(
+A
+∧
+B
+)
+→
+C
+)
+{\displaystyle (A\to (B\to C))\to ((A\land B)\to C)}
+when
+C
+{\displaystyle C}
+is a false proposition.
+Either of the above are constructively valid proofs by contradiction.
+commutativity: yes
+associativity: yes
+distributivity: with various operations, especially with or
+idempotency: yes
+monotonicity: yes
+truth-preserving: yesWhen all inputs are true, the output is true.
+falsehood-preserving: yesWhen all inputs are false, the output is false.
+Walsh spectrum: (1,-1,-1,1)
+Nonlinearity: 1 (the function is bent)
+If using binary values for true (1) and false (0), then logical conjunction works exactly like normal arithmetic multiplication.
+In high-level computer programming and digital electronics, logical conjunction is commonly represented by an infix operator, usually as a keyword such as "AND", an algebraic multiplication, or the ampersand symbol & (sometimes doubled as in &&)
+Many languages also provide short-circuit control structures corresponding to logical conjunction.
+Logical conjunction is often used for bitwise operations, where 0 corresponds to false and 1 to true:
+0 AND 0  =  0,
+0 AND 1  =  0,
+1 AND 0  =  0,
+1 AND 1  =  1.The operation can also be applied to two binary words viewed as bitstrings of equal length, by taking the bitwise AND of each pair of bits at corresponding positions
+For example:
+11000110 AND 10100011  =  10000010.This can be used to select part of a bitstring using a bit mask
+ For example, 10011101 AND 00001000  =  00001000 extracts the fifth bit of an 8-bit bitstring.
+In computer networking, bit masks are used to derive the network address of a subnet within an existing network from a given IP address, by ANDing the IP address and the subnet mask.
+Logical conjunction "AND" is also used in SQL operations to form database queries.
+The Curry–Howard correspondence relates logical conjunction to product types.
+The membership of an element of an intersection set in set theory is defined in terms of a logical conjunction: x ∈ A ∩ B if and only if (x ∈ A) ∧ (x ∈ B)
+Through this correspondence, set-theoretic intersection shares several properties with logical conjunction, such as associativity, commutativity and idempotence.
+As with other notions formalized in mathematical logic, the logical conjunction and is related to, but not the same as, the grammatical conjunction and in natural languages.
+English "and" has properties not captured by logical conjunction
+ For example, "and" sometimes implies order having the sense of "then"
+For example, "They got married and had a child" in common discourse means that the marriage came before the child.
+The word "and" can also imply a partition of a thing into parts, as "The American flag is red, white, and blue."  Here, it is not meant that the flag is at once red, white, and blue, but rather that it has a part of each color.
+"Conjunction", Encyclopedia of Mathematics, EMS Press, 2001 [1994]
+Wolfram MathWorld: Conjunction
+"Property and truth table of AND propositions"
+Archived from the original on May 6, 2017.

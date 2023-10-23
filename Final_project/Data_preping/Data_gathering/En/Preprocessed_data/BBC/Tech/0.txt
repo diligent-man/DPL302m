@@ -1,59 +1,58 @@
-markets
-fear greed index
-latest market news
-misinformation has run rampant on elon musk s social media platform x in the hours since hamas militants surprise attack on israel with users sharing false and misleading claims about the conflict and musk himself pointing users to an account known for spreading misinformation
-multiple users over the weekend shared a fake white house news release falsely claiming the us was sending billions of dollars in new aid to israel in response
-accounts on x with hundreds of thousands of followers in total quickly spread the doctored white house press release after it appeared online on saturday
-social media influencer jackson hinkle who was among those shared the fake release claimed it was a slap in the face to ukraine which has been pleading with washington for more money to defend itself from russia
-musk himself added to the information chaos on sunday by recommending x users follow the israel hamas conflict by following an account known for spreading misinformation including a fake report earlier this year of an explosion at the pentagon
-musk and hinkle later deleted their posts
-musk later posted as always please try stay as close to the truth as possible even for stuff you don t like
-israeli defense minister orders complete siege of gaza as conflict with hamas enters third day
-elsewhere on x formerly known as twitter an account impersonating the jerusalem post shared a bogus report that israeli prime minister benjamin netanyahu had been hospitalized
-the account was later suspended
-cnn has requested comment from musk and x on the posts related to the israel gaza conflict
-a slew of mischaracterized videos and other posts went viral on the platform over the weekend
-one video that is purported to show israel generals after being captured by hamas fighter was viewed more than million times by monday
-the video however actually shows the detention of separatists in azerbaijan
-another post viewed more than times on x purported to show an airplane getting shot down with the hashtag palestineunderattack
-the video is in fact a clip from the video game arma as was later noted in a community note appended to the post
-community notes allow users on x to fact check false posts on the platform
-while notes were appended to both of these false posts they often come after a false post has been viewed thousands or in some cases millions of times
-x has relied more heavily on community notes to moderate content since musk laid off thousands of the company s employees including many responsible for detecting and addressing false claims following his takeover of the platform last year
-israel s national cyber directorate one of the government s main cyber defense agencies on monday took to x to urge people not to spread unverified information
-t he rumor mill is overflowing the directorate wrote in hebrew
-the anti defamation league also raised concerns in a statement saturday about false and antisemitic claims being spread on the platform including posts by a verified user falsely claiming that israel helped to facilitate on us soil which have been viewed thousands of times
-the viral nature of the misinformation has alarmed experts on information operations offering a fresh example of social platforms struggle to deal with a flood of falsehoods during a major geopolitical event
-in times of war social media becomes a propaganda battlefield there is always an element of disinformation and exaggeration said emerson brooking senior resident fellow at the atlantic council s digital forensic research lab
-today x is the main platform where this online battle plays out
-brooking said changes to x policy under musk s ownership have incentivized propagandists and scam artists
-any user can now purchase a verification checkmark on x by signing up for the platform s per month subscription program and their posts are then boosted by the platform s algorithm and eligible for monetization
-paid verification means that you cannot distinguish between a vetted journalist and a scam artist brooking told cnn
-the for profit views system incentivizes accounts to impersonate news outlets and to post as frequently as possible drawing from whatever source they can or just making things up
-twitter has long played a pivotal role in information sharing during conflicts from the arab spring to the and invasions of ukraine and during previous violence in israel and gaza
-viral misinformation has always existed on the platform but it has become particularly pronounced under musk s stewardship experts say
-in the past decade every conflict has inevitably bred a digital fog of war where both sides and their supporters try to use social platforms to spin the narrative in their favor joe galvin a journalist who has specialized in open source intelligence for more than a decade told cnn monday
-the volume and reach of misinformation today though far exceeds what we saw in the early social media era conflicts and is exacerbated by platforms like x which has taken the guardrails off and allows the most egregious types of disinformation to run rampant gavlin said
-he said other platforms that have little or no guardrails including the social media messaging app telegram are also hotbeds of misinformation but x is unique given musk s behavior
-even the owner of x takes part in the chaos promoting accounts that are known to spread falsehoods to his million followers
-the fact is that malicious users state backed and otherwise have become better at spreading falsehoods with more sophisticated networks being built and better technology including ai being used
-the platforms are in a perpetual state of catch up
-most stock quote data provided by bats
-us market indices are shown in real time except for the s p which is refreshed every two minutes
-all times are et
-factset factset research systems inc
-all rights reserved
-chicago mercantile certain market data is the property of chicago mercantile exchange inc
+Markets
+Fear & Greed Index
+Latest Market News
+Misinformation has run rampant on Elon Musk’s social media platform X in the 48 hours since Hamas militants’ surprise attack on Israel, with users sharing false and misleading claims about the conflict and Musk himself pointing users to an account known for spreading misinformation.
+Multiple users over the weekend shared a fake White House news release falsely claiming the US was sending billions of dollars in new aid to Israel in response
+ Accounts on X with hundreds of thousands of followers in total quickly spread the doctored White House press release after it appeared online on Saturday
+Social media influencer Jackson Hinkle, who was among those shared the fake release, claimed it was a slap in the face to Ukraine, which has been pleading with Washington for more money to defend itself from Russia.
+Musk himself added to the information chaos on Sunday by recommending X users follow the Israel-Hamas conflict by following an account known for spreading misinformation, including a fake report earlier this year of an explosion at the Pentagon.
+Musk and Hinkle later deleted their posts
+Musk later posted: “As always, please try stay as close to the truth as possible, even for stuff you don’t like.”
+Israeli defense minister orders 'complete siege' of Gaza, as conflict with Hamas enters third day
+Elsewhere on X (formerly known as Twitter), an account impersonating the Jerusalem Post shared a bogus report that Israeli Prime Minister Benjamin Netanyahu had been hospitalized
+(The account was later suspended.)
+CNN has requested comment from Musk and X on the posts related to the Israel-Gaza conflict.
+A slew of mischaracterized videos and other posts went viral on the platform over the weekend.
+One video that is purported to show Israel generals after being captured by Hamas fighter was viewed more than 1.7 million times by Monday
+The video however actually shows the detention of separatists in Azerbaijan.
+Another post viewed more than 500,000 times on X purported to show an airplane getting shot down with the hashtag #PalestineUnderAttack
+The video is in fact a clip from the video game Arma 3, as was later noted in a “community note” appended to the post.
+Community notes allow users on X to fact-check false posts on the platform
+While notes were appended to both of these false posts, they often come after a false post has been viewed thousands – or in some cases millions – of times.
+X has relied more heavily on community notes to moderate content since Musk laid off thousands of the company’s employees, including many responsible for detecting and addressing false claims, following his takeover of the platform last year.
+Israel’s National Cyber Directorate, one of the government’s main cyber defense agencies, on Monday took to X to urge people not to spread unverified information
+“[T]he rumor mill is overflowing,” the directorate wrote in Hebrew
+The Anti-Defamation League also raised concerns in a statement Saturday about false and antisemitic claims being spread on the platform, including posts by a verified user falsely claiming that Israel helped to facilitate 9-11 on US soil, which have been viewed thousands of times.
+The viral nature of the misinformation has alarmed experts on information operations, offering a fresh example of social platforms’ struggle to deal with a flood of falsehoods during a major geopolitical event.
+“In times of war, social media becomes a propaganda battlefield; there is always an element of disinformation and exaggeration,” said Emerson Brooking, senior resident fellow at the Atlantic Council’s Digital Forensic Research Lab
+“Today, X is the main platform where this online battle plays out.”
+Brooking said changes to X policy under Musk’s ownership have incentivized propagandists and scam artists
+Any user can now purchase a “verification” checkmark on X by signing up for the platform’s $8 per month subscription program, and their posts are then boosted by the platform’s algorithm and eligible for monetization.
+“Paid verification means that you cannot distinguish between a vetted journalist and a scam artist,” Brooking told CNN
+“The for-profit ‘views’ system incentivizes accounts to impersonate news outlets and to post as frequently as possible, drawing from whatever source they can or just making things up.”
+Twitter has long played a pivotal role in information sharing during conflicts, from the Arab Spring to the 2014 and 2022 invasions of Ukraine, and during previous violence in Israel and Gaza.
+Viral misinformation has always existed on the platform, but it has become particularly pronounced under Musk’s stewardship, experts say.
+“In the past decade, every conflict has inevitably bred a digital “fog of war,” where both sides, and their supporters, try to use social platforms to spin the narrative in their favor,” Joe Galvin, a journalist who has specialized in open-source intelligence for more than a decade, told CNN Monday.
+“The volume and reach of misinformation today, though, far exceeds what we saw in the early social media era conflicts, and is exacerbated by platforms like X, which has taken the guardrails off and allows the most egregious types of disinformation to run rampant,” Gavlin said.
+He said other platforms that have little or no guardrails including the social media messaging app Telegram are also hotbeds of misinformation, but X is unique given Musk’s behavior.
+“Even the owner of X takes part in the chaos, promoting accounts that are known to spread falsehoods to his 150 million followers
+The fact is that malicious users, state-backed and otherwise, have become better at spreading falsehoods, with more sophisticated networks being built and better technology – including AI – being used
+The platforms are in a perpetual state of catch-up.”
+Most stock quote data provided by BATS
+US market indices are shown in real time, except for the S&P 500 which is refreshed every two minutes
+All times are ET
+Factset: FactSet Research Systems Inc
+All rights reserved
+Chicago Mercantile: Certain market data is the property of Chicago Mercantile Exchange Inc
 and its licensors
-all rights reserved
-dow jones the dow jones branded indices are proprietary to and are calculated distributed and marketed by dji opco a subsidiary of s p dow jones indices llc and have been licensed for use to s p opco llc and cnn
-standard poor s and s p are registered trademarks of standard poor s financial services llc and dow jones is a registered trademark of dow jones trademark holdings llc
-all content of the dow jones branded indices copyright s p dow jones indices llc and or its affiliates
-fair value provided by indexarb com
-market holidays and trading hours provided by copp clark limited
-cable news network
-a warner bros
-discovery company
-all rights reserved
-cnn sans cable news network
-
+All rights reserved
+Dow Jones: The Dow Jones branded indices are proprietary to and are calculated, distributed and marketed by DJI Opco, a subsidiary of S&P Dow Jones Indices LLC and have been licensed for use to S&P Opco, LLC and CNN
+Standard & Poor’s and S&P are registered trademarks of Standard & Poor’s Financial Services LLC and Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC
+All content of the Dow Jones branded indices Copyright S&P Dow Jones Indices LLC and/or its affiliates
+Fair value provided by IndexArb.com
+Market holidays and trading hours provided by Copp Clark Limited.
+© 2023 Cable News Network
+A Warner Bros
+Discovery Company
+All Rights Reserved
+ CNN Sans ™ & © 2016 Cable News Network.

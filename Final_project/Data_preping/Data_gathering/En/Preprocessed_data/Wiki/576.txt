@@ -1,119 +1,164 @@
-a slinky is a precompressed helical spring toy invented by richard james in the early s
-it can perform a number of tricks including travelling down a flight of steps end over end as it stretches and re forms itself with the aid of gravity and its own momentum or appear to levitate for a period of time after it has been dropped
-these interesting characteristics have contributed to its success as a toy in its home country of the united states resulting in many popular toys with slinky components in a wide range of countries
-the slinky was invented and developed by american naval engineer richard t
-james in and demonstrated at gimbels department store in philadelphia in november
-the toy was a hit selling its entire inventory of units in minutes
-james and his wife betty formed james industries in clifton heights pennsylvania to manufacture slinky and several related toys such as the slinky dog and suzie the slinky worm
-in james s wife betty james became president of james industries and in moved it back to hollidaysburg pennsylvania
-in she sold the company to poof products inc
-the slinky was originally priced at but many paid much more due to price increases of spring steel in pennsylvania
-it has however remained modestly priced throughout its history as a result of betty james concern about the toy s affordability for less affluent customers
-in addition to its use as a toy it has been used as a classroom teaching tool as a portable and extendable radio antenna in wartime particularly the vietnam war and in nasa physics experiments when astronaut margaret rhea seddon demonstrated its behavior in zero gravity during a telecast from the discovery space shuttle in
-it was inducted into the national toy hall of fame at the strong in rochester new york in
-in it was named to the toy industry association s century of toys list
-in its first years about million have been sold
-in richard t james a naval mechanical engineer stationed at the william cramp sons shipyards in philadelphia was developing springs that could support and stabilize sensitive instruments aboard ship in rough seas
-james accidentally knocked one of the springs from a shelf and watched as the spring stepped in a series of arcs to a stack of books to a tabletop and to the floor where it re coiled itself and stood upright
-james s wife betty later recalled he came home and said i think if i got the right property of steel and the right tension i could make it walk james experimented with different types of steel wire over the next year and finally found a spring that would walk
-betty was dubious at first but changed her mind after the toy was fine tuned and neighborhood children expressed an excited interest in it
-she dubbed the toy slinky meaning sleek and graceful after finding the word in a dictionary and deciding that the word aptly described the sound of a metal spring expanding and collapsing
-with a usd loan the couple formed james industries originally james spring wire company had slinky units made by a local machine shop hand wrapped each in yellow paper and priced them at a piece
-each was tall and included coils of high grade blue black swedish steel
-the jameses had difficulty selling slinky to toy stores but in november they were granted permission to set up an inclined plane in the toy section of gimbels department store in philadelphia to demonstrate the toy
-slinky was a hit and the first units were sold within ninety minutes
-in slinky was introduced at the american toy fair
-richard james opened shop in albany new york after developing a machine that could produce a slinky within seconds
-the toy was packaged in a black lettered box and advertising saturated america
-james often appeared on television shows to promote slinky
-in the slinky dog debuted
-other slinky toys introduced in the s included the slinky train loco the slinky worm suzie and the slinky crazy eyes a pair of glasses that uses slinkys over the eyeholes attached to plastic eyeballs
-james industries licensed the patent us to several other manufacturers including wilkening mfg
-of philadelphia and toronto which produced spring centered toys such as mr
-wiggle s leap frog and mr
-wiggle s cowboy
-in its first years james industries sold million slinkys at apiece that would be the equivalent to billion adjusted for inflation in gross revenue over those years
-in richard james left the company after his wife filed for divorce and he became an evangelical missionary in bolivia with wycliffe bible translators
-betty james managed the company juggled creditors and in moved the company to hollidaysburg pennsylvania
-richard james died in
-the company and its product line expanded under betty james s leadership
-in she explained the toy s success to the associated press by saying it s the simplicity of it
-betty james insisted upon keeping the original slinky affordable
-in when the price ranged from to she told the new york times so many children can t have expensive toys and i feel a real obligation to them
-i m appalled when i go christmas shopping and to for a toy is nothing in slinkys cost to and slinky dogs about
-in james industries was sold to poof products inc
-of plymouth michigan a manufacturer of foam sports balls
-slinky continued production in hollidaysburg
-in james industries merged with poof products inc to create poof slinky inc
-betty james died of congestive heart failure in november age after having served as president of james industries from to
-over million slinkys have been sold between and and the original slinky is still a bestseller
-in july the slinky brand was sold to just play
-the rules that govern the mechanics of a slinky are hooke s law and the effects of gravitation
-due to simple harmonic motion the period of oscillation of a dangling slinky is
-displaystyle t pi sqrt frac m k
-where t is the time of the period of oscillation m is the slinky s mass and k is its spring constant
-in the state of equilibrium of a slinky all net force is cancelled throughout the entire slinky
-this results in a stationary slinky with zero velocity
-as the positions of each part of the slinky is governed by the slinky s mass the force of gravity and the spring constant various other properties of the slinky may be induced
-the length of an idealized slinky extended under its own weight assuming the fully compressed length is negligible is
-displaystyle l frac w k
-where l is the length of the slinky w is the weight of the slinky and k is the spring constant of the slinky
-due to the effect of gravity the slinky appears bunched up towards the bottom end as governed by the equation
-displaystyle p n l n
-where n is a dimensionless variable n with n corresponding to the top of the slinky and n being the bottom
-each intermediate value of n corresponds to the proportion of the slinky s mass above that point n and p n gives the position that n is above the bottom of the slinky
-this quadratic equation means that rather than the center of mass being at the middle of the slinky it lies one quarter of the length above the bottom end
-displaystyle p left frac right l left frac right frac l
-when set in motion on a stepped platform such as a stairway the slinky transfers energy along its length in a longitudinal wave
-the whole spring descends end over end in a periodical motion as if it were walking down one step at a time
-when the top end of the slinky is dropped the information of the tension change must propagate to the bottom end before both sides begin to fall the top of an extended slinky will drop while the bottom initially remains in its original position compressing the spring
-this creates a suspension time of s for an original slinky but has potential to create a much larger suspension time
-a suspended slinky s center of mass is accelerating downward at about feet per second per second i e g when released the lower portion moves up toward the top portion with an equivalent constant upward acceleration as the tension is relieved
-as the spring contracts every point along its length will accelerate downward with gravity and tension and experience a decrease in overall downward acceleration related to height along the spring due to the spring force changing with extension at the bottom of the spring the upward initial acceleration reduces in accordance with hooke s law as the spring contracts but the centre toward which it is moving gets closer meaning the base will have been displaced sufficiently toward the centre of inertial mass for it to appear to have hung still
-should this phenomenology extend to very light strings with heavy suspended masses which have approximately linear tension distributions different mathematics would be needed to explain the phenomenon
-the jingle for the slinky television commercial was created in columbia south carolina in with johnny mccullough and homer fesperman writing the music and charles weagly penning the lyrics
-it became the longest running jingle in advertising history
-the jingle has itself been parodied and referenced in popular culture
-it is seen in the log commercial on the ren stimpy show and sung by actor jim carrey in ace ventura when nature calls
-the song is also referenced in the movie lords of dogtown where it is sung in full by emile hirsch and is sung by eddie murphy as part of the final routine in the stand up comedy film eddie murphy raw
-early in the history of james industries helen herrick malsed of washington state sent the company a letter and drawings for developing slinky pull toys
-the company liked her ideas and slinky dog and slinky train were added to the company s product line
-slinky dog a small plastic dog whose front and rear ends were joined by a metal slinky debuted in
-malsed received royalties of to annually for years on her patent for the slinky pull toy idea but never visited the plant
-in the slinky dog voiced by jim varney and blake clarke was redesigned for all of pixar s toy story and toy story live action movies
-james industries had discontinued their slinky dog a few years previously
-betty james approved of the new slinky dog telling the press the earlier slinky dog wasn t nearly as cute as this one the molds used in manufacturing the new toy created problems for james industries so the plastic front and rear ends were manufactured in china with james industries doing the assembly and packaging
-the entire run of redesigned slinky dogs sold out well before christmas
-plastic slinkys are also available
-they can be made in different colors
-many of them are made with the colors of the rainbow in rainbow order
-they were marketed in the s as a safer alternative to metal slinkys as they did not present a hazard when inserted into electrical sockets
-the plastic spring toy known as the plastic slinky was invented by donald james reum sr
-of master mark plastics in albany minnesota
-reum came up with the idea as he was playing with different techniques to produce a spiral hose for watering plants
-however as it came off the assembly line according to his children it looked more like a slinky he worked at it until it came out perfectly and then went to betty james with his prototype
-reum manufactured the plastic slinky for betty james for several years
-eventually betty james decided to manufacture the product exclusively through james manufacturing effectively ending the production of the toy by the small minnesota company
-reum s patent number was filed on dec and issued by the us patent office on oct
-in the united states postal service issued a slinky postage stamp
-the slinky was inducted into the national toy hall of fame in in their celebrate the century stamp series
-a bill to nominate the slinky as the state toy of pennsylvania was introduced by richard geist in but not enacted
-the same year betty james was inducted into the toy industry association s hall of fame
-in slinky was named to the toy industry association s century of toys list a roll call of the most memorable and most creative toys of the twentieth century
-high school teachers and college professors have used slinkys to simulate the properties of waves united states troops in the vietnam war used them as mobile radio antennas as have amateur radio operators and nasa has used them in zero gravity physics experiments in the space shuttle
-slinkys and similar springs can be used to create a laser gun like sound effect
-this is done by holding up a slinky in the air and striking one end resulting in a metallic tone which sharply lowers in pitch
-the effect can be amplified by attaching a plastic cup to one end of the slinky
-in john cage composed an avant garde work called sounds of venice scored for among other things a piano a slab of marble and venetian broom a birdcage of canaries and an amplified slinky
-metal slinky can be used as an antenna it resonates between and mhz
-during vietnam war it was used as a portable antenna for local hf communication
-this setup had many advantages over a long wire shot from m grenade launcher small dimensions fast and quiet installation reusability good takeoff angle for local communication and good enough performance
-it was also used to extend range of a handheld radio
-in in conjunction with the johnson space center and the houston museum of natural science discovery astronauts created a video demonstrating how familiar toys behave in space
-it won t slink at all dr
-rhea seddon said of slinky it sort of droops the video was prepared to stimulate interest in school children about the basic principles of physics and the phenomenon of weightlessness
-in the bishop museum in honolulu hawaii hosted an interactive traveling exhibit developed by the franklin institute of philadelphia called what makes music among other things visitors could examine what makes musical sound by creating waves on an eight foot long version of a slinky toy
-several online videos have shown the slinky acting as an excellent squirrel deterrent for bird feeders when mounted on the pole of the bird feeder to prevent squirrels from climbing up the pole to reach the bird feeders
-poof slinky inc
-university of sydney home institution of slinky physics researchers
-
+A Slinky is a precompressed helical spring toy invented by Richard James in the early 1940s
+It can perform a number of tricks, including travelling down a flight of steps end-over-end as it stretches and re-forms itself with the aid of gravity and its own momentum, or appear to levitate for a period of time after it has been dropped
+These interesting characteristics have contributed to its success as a toy in its home country of the United States, resulting in many popular toys with slinky components in a wide range of countries.
+The Slinky was invented and developed by American naval engineer Richard T
+James in 1943 and demonstrated at Gimbels department store in Philadelphia in November 1945
+The toy was a hit, selling its entire inventory of 400 units in 90 minutes
+James and his wife Betty formed James Industries in Clifton Heights, Pennsylvania to manufacture Slinky and several related toys such as the Slinky Dog and Suzie, the Slinky Worm
+In 1960, James's wife Betty James became president of James Industries, and, in 1964, moved it back to Hollidaysburg, Pennsylvania
+In 1998 she sold the company to Poof Products, Inc.
+The Slinky was originally priced at $1, but many paid much more due to price increases of spring steel in Pennsylvania
+It has, however, remained modestly priced throughout its history as a result of Betty James' concern about the toy's affordability for less affluent customers
+In addition to its use as a toy, it has been used as a classroom teaching tool; as a portable and extendable radio antenna in wartime (particularly the Vietnam War); and in NASA physics experiments, when Astronaut Margaret Rhea Seddon demonstrated its behavior in zero gravity during a telecast from the Discovery Space Shuttle in 1985
+It was inducted into the National Toy Hall of Fame at The Strong in Rochester, New York in 2000
+In 2003, it was named to the Toy Industry Association's Century of Toys List
+In its first 60 years, about 300 million have been sold.
+In 1943, Richard T James, a naval mechanical engineer stationed at the William Cramp & Sons shipyards in Philadelphia, was developing springs that could support and stabilize sensitive instruments aboard ship in rough seas
+James "accidentally" knocked one of the springs from a shelf, and watched as the spring "stepped" in a series of arcs to a stack of books, to a tabletop, and to the floor, where it re-coiled itself and stood upright
+James's wife Betty later recalled, "He came home and said, 'I think if I got the right property of steel and the right tension; I could make it walk.'" James experimented with different types of steel wire over the next year, and finally found a spring that would walk
+ Betty was dubious at first, but changed her mind after the toy was fine-tuned and neighborhood children expressed an excited interest in it
+She dubbed the toy Slinky (meaning "sleek and graceful"), after finding the word in a dictionary, and deciding that the word aptly described the sound of a metal spring expanding and collapsing.
+With a USD $500 loan, the couple formed James Industries (originally James Spring & Wire Company), had 400 Slinky units made by a local machine shop, hand-wrapped each in yellow paper, and priced them at $1 a piece
+ Each was 21⁄2" tall, and included 98 coils of high-grade blue-black Swedish steel
+   The Jameses had difficulty selling Slinky to toy stores but, in November 1945, they were granted permission to set up an inclined plane in the toy section of Gimbels department store in Philadelphia to demonstrate the toy
+Slinky was a hit, and the first 400 units were sold within ninety minutes
+In 1946, Slinky was introduced at the American Toy Fair.
+Richard James opened shop in Albany, New York, after developing a machine that could produce a Slinky within seconds
+ The toy was packaged in a black-lettered box, and advertising saturated America
+James often appeared on television shows to promote Slinky
+In 1952, the Slinky Dog debuted
+Other Slinky toys introduced in the 1950s included the Slinky train Loco, the Slinky worm Suzie, and the Slinky Crazy Eyes, a pair of glasses that uses Slinkys over the eyeholes attached to plastic eyeballs
+ James Industries licensed the patent (US 2,415,012) to several other manufacturers including Wilkening Mfg
+Co
+of Philadelphia and Toronto which produced spring-centered toys such as Mr
+Wiggle's Leap Frog and Mr
+Wiggle's Cowboy
+ In its first 10 years, James Industries sold 100 million Slinkys (At $1 apiece, that would be the equivalent to $6 billion, adjusted for inflation, in gross revenue over those 5 years).
+In 1960 Richard James left the company after his wife filed for divorce and he became an evangelical missionary in Bolivia with Wycliffe Bible Translators
+Betty James managed the company, juggled creditors, and in 1964 moved the company to Hollidaysburg, Pennsylvania
+Richard James died in 1974
+The company and its product line expanded under Betty James’s leadership
+In 1995, she explained the toy's success to the Associated Press by saying, "It's the simplicity of it."
+Betty James insisted upon keeping the original Slinky affordable
+In 1996, when the price ranged from $1.89 to $2.69, she told The New York Times: "So many children can’t have expensive toys, and I feel a real obligation to them
+I’m appalled when I go Christmas shopping and $60 to $80 for a toy is nothing." In 2008, Slinkys cost $4 to $5, and Slinky Dogs about $20.
+In 1998 James Industries was sold to Poof Products, Inc
+of Plymouth, Michigan, a manufacturer of foam sports balls
+Slinky continued production in Hollidaysburg
+In 2003, James Industries merged with Poof Products, Inc., to create Poof-Slinky, Inc.
+Betty James died of congestive heart failure in November 2008, age 90, after having served as president of James Industries from 1960 to 1998
+Over 300 million Slinkys have been sold between 1945 and 2005, and the original Slinky is still a bestseller.
+In July 2020, the Slinky brand was sold to Just Play.
+The rules that govern the mechanics of a slinky are Hooke's law and the effects of gravitation.
+Due to simple harmonic motion the period of oscillation of a dangling Slinky is
+T
+=
+2
+π
+m
+k
+,
+{\displaystyle T=2\pi {\sqrt {\frac {m}{k}}},}
+where T is the time of the period of oscillation, m is the Slinky's mass, and k is its spring constant.
+In the state of equilibrium of a slinky, all net force is cancelled throughout the entire slinky
+This results in a stationary slinky with zero velocity
+As the positions of each part of the slinky is governed by the slinky's mass, the force of gravity and the spring constant, various other properties of the slinky may be induced
+The length of an idealized slinky extended under its own weight, assuming the fully compressed length is negligible, is
+L
+=
+W
+2
+k
+,
+{\displaystyle L={\frac {W}{2k}},}
+where L is the length of the slinky, W is the weight of the slinky, and k is the spring constant of the slinky.
+Due to the effect of gravity, the slinky appears bunched up towards the bottom end, as governed by the equation
+p
+(
+n
+)
+=
+L
+(
+n
+−
+1
+)
+2
+.
+{\displaystyle p(n)=L(n-1)^{2}.}
+Where n is a dimensionless variable, 0 ≤ n ≤ 1, with n = 0 corresponding to the top of the slinky and n = 1 being the bottom
+ Each intermediate value of n corresponds to the proportion of the slinky's mass above that point n, and p(n) gives the position that n is above the bottom of the slinky.
+This quadratic equation means that rather than the center of mass being at the middle of the slinky, it lies one quarter of the length above the bottom end,
+p
+(
+1
+2
+)
+=
+L
+(
+1
+2
+−
+1
+)
+2
+=
+L
+4
+.
+{\displaystyle p\left({\frac {1}{2}}\right)=L\left({\frac {1}{2}}-1\right)^{2}={\frac {L}{4}}.}
+When set in motion on a stepped platform such as a stairway, the slinky transfers energy along its length in a longitudinal wave
+The whole spring descends end over end in a periodical motion as if it were "walking" down one step at a time.
+When the top end of the Slinky is dropped, the information of the tension change must propagate to the bottom end before both sides begin to fall; the top of an extended Slinky will drop while the bottom initially remains in its original position, compressing the spring
+This creates a suspension time of  ~0.3 s for an original Slinky, but has potential to create a much larger suspension time.
+A suspended Slinky's center of mass is accelerating downward at about 32 feet per second per second (i.e., g); when released - the lower portion moves up toward the top portion with an equivalent, constant upward acceleration as the tension is relieved
+As the spring contracts, every point along its length will accelerate downward with gravity and tension, and experience a decrease in overall downward acceleration related to height along the spring due to the spring force changing with extension- at the bottom of the spring the upward initial acceleration reduces in accordance with Hooke's law as the spring contracts, but the centre toward which it is moving gets closer- meaning the base will have been displaced sufficiently toward the centre of inertial mass for it to appear to have hung still
+Should this phenomenology extend to very light strings with heavy suspended masses (which have approximately linear tension distributions), different mathematics would be needed to explain the phenomenon.
+The jingle for the Slinky television commercial was created in Columbia, South Carolina in 1962 with Johnny McCullough and Homer Fesperman writing the music and Charles Weagly penning the lyrics
+It became the longest-running jingle in advertising history.
+The jingle has itself been parodied and referenced in popular culture
+It is seen in the "Log" commercial on The Ren & Stimpy Show and sung by actor Jim Carrey in Ace Ventura: When Nature Calls
+The song is also referenced in the movie Lords of Dogtown, where it is sung in full by Emile Hirsch, and is sung by Eddie Murphy as part of the final routine in the stand-up comedy film Eddie Murphy Raw.
+Early in the history of James Industries, Helen Herrick Malsed of Washington state sent the company a letter and drawings for developing Slinky pull-toys
+The company liked her ideas, and Slinky Dog and Slinky Train were added to the company's product line
+Slinky Dog, a small plastic dog whose front and rear ends were joined by a metal Slinky, debuted in 1952
+Malsed received royalties of $60,000 to $70,000 annually for 17 years on her patent for the Slinky pull-toy idea, but never visited the plant.
+In 1995, the Slinky Dog (voiced by Jim Varney and Blake Clarke) was redesigned for all of Pixar’s Toy Story and Toy Story Live Action movies
+James Industries had discontinued their Slinky Dog a few years previously
+Betty James approved of the new Slinky Dog, telling the press, "The earlier Slinky Dog wasn’t nearly as cute as this one." The molds used in manufacturing the new toy created problems for James Industries, so the plastic front and rear ends were manufactured in China with James Industries doing the assembly and packaging
+The entire run of 825,000 redesigned Slinky Dogs sold out well before Christmas 1995.
+Plastic Slinkys are also available
+They can be made in different colors
+Many of them are made with the colors of the rainbow in rainbow order
+They were marketed in the 1970s as a safer alternative to metal slinkys as they did not present a hazard when inserted into electrical sockets
+The plastic spring toy, known as the Plastic Slinky was invented by Donald James Reum Sr
+of Master Mark Plastics in Albany, Minnesota
+Reum came up with the idea as he was playing with different techniques to produce a spiral hose for watering plants
+ However, as it came off the assembly line, according to his children, it looked more like a "Slinky." He worked at it until it came out perfectly and then went to Betty James with his prototype
+Reum manufactured the Plastic Slinky for Betty James for several years
+ Eventually Betty James  decided to manufacture the product exclusively through James manufacturing, effectively ending the production of the toy by the small Minnesota company
+Reum's patent number, 4120929 was filed on Dec 28, 1976 and issued by the US Patent Office on Oct 17, 1978.
+In 1999, the United States Postal Service issued a Slinky postage stamp
+The Slinky was inducted into the National Toy Hall of Fame in 2000 in their Celebrate the Century stamp series
+A bill to nominate the slinky as the state toy of Pennsylvania was introduced by Richard Geist in 2001 but not enacted
+The same year, Betty  James was inducted into the Toy Industry Association's Hall of Fame
+In 2003, Slinky was named to the Toy Industry Association's "Century of Toys List", a roll call of the 100 most memorable and most creative toys of the twentieth century.
+High school teachers and college professors have used Slinkys to simulate the properties of waves, United States troops in the Vietnam War used them as mobile radio antennas (as have amateur radio operators), and NASA has used them in zero-gravity physics experiments in the Space Shuttle.
+Slinkys and similar springs can be used to create a 'laser gun' like sound effect.
+This is done by holding up a slinky in the air and striking one end, resulting in a metallic tone which sharply lowers in pitch
+The effect can be amplified by attaching a plastic cup to one end of the Slinky.
+In 1959, John Cage composed an avant garde work called Sounds of Venice scored for (among other things) a piano, a slab of marble and Venetian broom, a birdcage of canaries, and an amplified Slinky.
+Metal Slinky can be used as an antenna - it resonates between 7 and 8 MHz
+During Vietnam war it was used as a portable antenna for local HF communication
+This setup had many advantages over a long wire shot from M79 grenade launcher: small dimensions, fast and quiet installation, reusability, good takeoff angle for local communication and good enough performance
+It was also used to extend range of a handheld radio.
+In 1985 in conjunction with the Johnson Space Center and the Houston Museum of Natural Science, Discovery astronauts created a video demonstrating how familiar toys behave in space
+"It won't slink at all," Dr
+M
+Rhea Seddon said of Slinky, "It sort of droops." The video was prepared to stimulate interest in school children about the basic principles of physics and the phenomenon of weightlessness.
+In 1992, the Bishop Museum in Honolulu, Hawaii, hosted an interactive traveling exhibit developed by the Franklin Institute of Philadelphia, called "What Makes Music?"   Among other things, visitors could examine what makes musical sound by creating waves on an eight-foot-long version of a Slinky toy.
+Several online videos have shown the Slinky acting as an excellent squirrel deterrent for bird feeders when mounted on the pole of the bird feeder to prevent squirrels from climbing up the pole to reach the bird feeders.
+Poof-Slinky, Inc
+University of Sydney - home institution of slinky physics researchers

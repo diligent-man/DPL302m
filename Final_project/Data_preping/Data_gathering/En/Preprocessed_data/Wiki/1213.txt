@@ -1,97 +1,96 @@
-jstor d e st r short for journal storage is a digital library founded in in new york city
-originally containing digitized back issues of academic journals it now encompasses books and other primary sources as well as current issues of journals in the humanities and social sciences
-it provides full text searches of almost journals
-as of more than institutions in more than countries had access to jstor
-most access is by subscription but some of the site is public domain and open access content is available free of charge
-jstor s revenue was million in
-william g
-bowen president of princeton university from to founded jstor in
-jstor was originally conceived as a solution to one of the problems faced by libraries especially research and university libraries due to the increasing number of academic journals in existence
-most libraries found it prohibitively expensive in terms of cost and space to maintain a comprehensive collection of journals
-by digitizing many journal titles jstor allowed libraries to outsource the storage of journals with the confidence that they would remain available long term
-online access and full text searchability improved access dramatically
-bowen initially considered using cd roms for distribution
-however ira fuchs princeton university s vice president for computing and information technology convinced bowen that cd rom was becoming an increasingly outdated technology and that network distribution could eliminate redundancy and increase accessibility
-for example all princeton s administrative and academic buildings were networked by the student dormitory network was completed in and campus networks like the one at princeton were in turn linked to larger networks such as bitnet and the internet jstor was initiated in at seven different library sites and originally encompassed ten economics and history journals
-jstor access improved based on feedback from its initial sites and it became a fully searchable index accessible from any ordinary web browser
-special software was put in place to make pictures and graphs clear and readable
-with the success of this limited project bowen and kevin guthrie the then president of jstor wanted to expand the number of participating journals
-they met with representatives of the royal society of london and an agreement was made to digitize the philosophical transactions of the royal society dating from its beginning in
-the work of adding these volumes to jstor was completed by december
-in jstor started a partnership with joint information systems committee and created a mirror website at the university of manchester to make the jstor database available to over higher education institutions in england scotland wales and northern ireland
-the andrew w
-mellon foundation funded jstor initially
-until january jstor operated as an independent self sustaining nonprofit organization with offices in new york city and in ann arbor michigan
-then jstor merged with the nonprofit ithaka harbors inc a nonprofit organization founded in and dedicated to helping the academic community take full advantage of rapidly advancing information and networking technologies
-jstor content is provided by more than publishers
-the database contains more than journal titles in more than disciplines
-each object is uniquely identified by an integer value starting at which is used to create a stable url
-in addition to the main site the jstor labs group operates an open service that allows access to the contents of the archives for the purposes of corpus analysis at its data for research service
-this site offers a search facility with graphical indication of the article coverage and loose integration into the main jstor site
-users may create focused sets of articles and then request a dataset containing word and n gram frequencies and basic metadata
-they are notified when the dataset is ready and may download it in either xml or csv formats
-the service does not offer full text although academics may request that from jstor subject to a non disclosure agreement
-jstor plant science is available in addition to the main site
-jstor plant science provides access to content such as plant type specimens taxonomic structures scientific literature and related materials and aimed at those researching teaching or studying botany biology ecology environmental and conservation studies
-the materials on jstor plant science are contributed through the global plants initiative gpi and are accessible only to jstor and gpi members
-two partner networks are contributing to this the african plants initiative which focuses on plants from africa and the latin american plants initiative which contributes plants from latin america
-jstor launched its books at jstor program in november adding current and backlist books to its site
-the books are linked with reviews and from citations in journal articles
-in september jstor launched jstor daily an online magazine meant to bring academic research to a broader audience
-posted articles are generally based on jstor entries and some entries provide the backstory to current events
-jstor is licensed mainly to academic institutions public libraries research institutions museums and schools
-more than institutions in more than countries have access
-jstor has been running a pilot program of allowing subscribing institutions to provide access to their alumni in addition to current students and staff
-the alumni access program officially launched in january
-individual subscriptions also are available to certain journal titles through the journal publisher
-every year jstor blocks million attempts by non subscribers to read articles
-inquiries have been made about the possibility of making jstor open access
-according to harvard law professor lawrence lessig jstor had been asked how much would it cost to make this available to the whole world how much would we need to pay you the answer was million
-in late and early aaron swartz an american computer programmer writer political organizer and internet activist used mit s data network to bulk download a substantial portion of jstor s collection of academic journal articles
-when the bulk download was discovered a video camera was placed in the room to film the mysterious visitor and the relevant computer was left untouched
-once video was captured of the visitor the download was stopped and swartz was identified
-rather than pursue a civil lawsuit against him in june they reached a settlement wherein he surrendered the downloaded data
-the following month federal authorities charged swartz with several data theft related crimes including wire fraud computer fraud unlawfully obtaining information from a protected computer and recklessly damaging a protected computer
-prosecutors in the case claimed that swartz acted with the intention of making the papers available on p p file sharing sites
-swartz surrendered to authorities pleaded not guilty to all counts and was released on bail
-in september u s
-attorneys increased the number of charges against swartz from four to thirteen with a possible penalty of years in prison and million in fines
-the case still was pending when swartz committed suicide in january
-prosecutors dropped the charges after his suicide
-the availability of most journals on jstor is controlled by a moving wall which is an agreed upon delay between the current volume of the journal and the latest volume available on jstor
-this time period is specified by agreement between jstor and the publisher of the journal which usually is three to five years
-publishers may request that the period of a moving wall be changed or request discontinuation of coverage
-formerly publishers also could request that the moving wall be changed to a fixed wall a specified date after which jstor would not add new volumes to its database
-as of november fixed wall agreements were still in effect with three publishers of journals made available online through sites controlled by the publishers
-in jstor started adding current issues of certain journals through its current scholarship program
-beginning september jstor made public domain content available at no charge to the public
-this early journal content program constitutes about of jstor s total content and includes over documents from more than journals that were published before in the united states and before in other countries
-jstor stated that it had been working on making this material free for some time
-the swartz controversy and greg maxwell s protest torrent of the same content led jstor to press ahead with the initiative
-as of jstor does not have plans to extend it to other public domain content stating that we do not believe that just because something is in the public domain it can always be provided for free
-in january jstor started a pilot program register read offering limited no cost access not open access to archived articles for individuals who register for the service
-at the conclusion of the pilot in january jstor expanded register read from an initial publishers to include about journals from over publishers
-registered readers may read up to six articles online every calendar month but may not print or download pdfs
-as of jstor is conducting a pilot program with wikipedia whereby established editors are given reading privileges through the wikipedia library as with a university library
-in jstor users performed nearly million searches with more than million article views and million article downloads
-jstor has been used as a resource for linguistics research to investigate trends in language use over time and also to analyze gender differences and inequities in scholarly publishing revealing that in certain fields men predominate in the prestigious first and last author positions and that women are significantly underrepresented as authors of single authored papers
-jstor metadata is available through crossref and the unpaywall dump which as of identifies nearly million works hosted by jstor as toll access as opposed to over available in open access mainly through third party open access repositories
-aluka
-artstor
-arxiv
-digital preservation
-hal open archive
-japanese historical text initiative
-jhove
-list of academic databases and search engines
-project museofficial website
-libraries and institutions offering access
-jstor
-retrieved october
-searchable database includes many public libraries offering free access to library card holders
-register read
-jstor
-retrieved october
-free individual registration offering free read only access no printing or saving to three articles every two weeks seventy eight per year
-jstor early journal content free texts download streaming internet archive
-
+JSTOR (/ˈdʒeɪstɔːr/; short for Journal Storage) is a digital library founded in 1995 in New York City
+Originally containing digitized back issues of academic journals, it now encompasses books and other primary sources as well as current issues of journals in the humanities and social sciences
+It provides full-text searches of almost 2,000 journals.
+As of 2013, more than 8,000 institutions in more than 160 countries had access to JSTOR
+Most access is by subscription but some of the site is public domain, and open access content is available free of charge.
+JSTOR's revenue was $86 million in 2015.
+William G
+Bowen, president of Princeton University from 1972 to 1988, founded JSTOR in 1994
+JSTOR was originally conceived as a solution to one of the problems faced by libraries, especially research and university libraries, due to the increasing number of academic journals in existence
+Most libraries found it prohibitively expensive in terms of cost and space to maintain a comprehensive collection of journals
+By digitizing many journal titles, JSTOR allowed libraries to outsource the storage of journals with the confidence that they would remain available long-term
+Online access and full-text searchability improved access dramatically.
+Bowen initially considered using CD-ROMs for distribution
+However, Ira Fuchs, Princeton University's vice president for Computing and Information Technology, convinced Bowen that CD-ROM was becoming an increasingly outdated technology and that network distribution could eliminate redundancy and increase accessibility
+(For example, all Princeton's administrative and academic buildings were networked by 1989; the student dormitory network was completed in 1994; and campus networks like the one at Princeton were, in turn, linked to larger networks such as BITNET and the Internet.) JSTOR was initiated in 1995 at seven different library sites, and originally encompassed ten economics and history journals
+JSTOR access improved based on feedback from its initial sites, and it became a fully searchable index accessible from any ordinary web browser
+Special software was put in place to make pictures and graphs clear and readable.
+With the success of this limited project, Bowen and Kevin Guthrie, the then-president of JSTOR, wanted to expand the number of participating journals
+They met with representatives of the Royal Society of London and an agreement was made to digitize the Philosophical Transactions of the Royal Society dating from its beginning in 1665
+The work of adding these volumes to JSTOR was completed by December 2000
+In 1999 JSTOR started a partnership with  Joint Information Systems Committee and created a mirror website at the University of Manchester to make the JSTOR database available to over 20 higher education institutions in England, Scotland, Wales and Northern Ireland.
+The Andrew W
+Mellon Foundation funded JSTOR initially
+Until January 2009 JSTOR operated as an independent, self-sustaining nonprofit organization with offices in New York City and in Ann Arbor, Michigan
+Then JSTOR merged with the nonprofit Ithaka Harbors, Inc.—a nonprofit organization founded in 2003 and "dedicated to helping the academic community take full advantage of rapidly advancing information and networking technologies".
+JSTOR content is provided by more than 900 publishers
+The database contains more than 1,900 journal titles, in more than 50 disciplines
+Each object is uniquely identified by an integer value, starting at 1 which is used to create a stable URL.
+In addition to the main site, the JSTOR labs group operates an open service that allows access to the contents of the archives for the purposes of corpus analysis at its Data for Research service
+This site offers a search facility with graphical indication of the article coverage and loose integration into the main JSTOR site
+Users may create focused sets of articles and then request a dataset containing word and n-gram frequencies and basic metadata
+They are notified when the dataset is ready and may download it in either XML or CSV formats
+The service does not offer full-text, although academics may request that from JSTOR, subject to a non-disclosure agreement.
+JSTOR Plant Science is available in addition to the main site
+JSTOR Plant Science provides access to content such as plant type specimens, taxonomic structures, scientific literature, and related materials and aimed at those researching, teaching, or studying botany, biology, ecology, environmental, and conservation studies
+The materials on JSTOR Plant Science are contributed through the Global Plants Initiative (GPI) and are accessible only to JSTOR and GPI members
+Two partner networks are contributing to this: the African Plants Initiative, which focuses on plants from Africa, and the Latin American Plants Initiative, which contributes plants from Latin America.
+JSTOR launched its Books at JSTOR program in November 2012, adding 15,000 current and backlist books to its site
+The books are linked with reviews and from citations in journal articles.
+In September 2014, JSTOR launched JSTOR Daily, an online magazine meant to bring academic research to a broader audience
+Posted articles are generally based on JSTOR entries, and some entries provide the backstory to current events.
+JSTOR is licensed mainly to academic institutions, public libraries, research institutions, museums, and schools
+More than 7,000 institutions in more than 150 countries have access
+JSTOR has been running a pilot program of allowing subscribing institutions to provide access to their alumni, in addition to current students and staff
+The Alumni Access Program officially launched in January 2013
+Individual subscriptions also are available to certain journal titles through the journal publisher
+Every year, JSTOR blocks 150 million attempts by non-subscribers to read articles.
+Inquiries have been made about the possibility of making JSTOR open access
+According to Harvard Law professor Lawrence Lessig, JSTOR had been asked "how much would it cost to make this available to the whole world, how much would we need to pay you? The answer was $250 million".
+In late 2010 and early 2011, Aaron Swartz, an American computer programmer, writer, political organizer and Internet activist, used MIT's data network to bulk-download a substantial portion of JSTOR's collection of academic journal articles
+When the bulk-download was discovered, a video camera was placed in the room to film the mysterious visitor and the relevant computer was left untouched
+Once video was captured of the visitor, the download was stopped and Swartz was identified
+Rather than pursue a civil lawsuit against him, in June 2011 they reached a settlement wherein he surrendered the downloaded data.
+The following month, federal authorities charged Swartz with several "data theft"-related crimes, including wire fraud, computer fraud, unlawfully obtaining information from a protected computer, and recklessly damaging a protected computer
+Prosecutors in the case claimed that Swartz acted with the intention of making the papers available on P2P file-sharing sites.
+Swartz surrendered to authorities, pleaded not guilty to all counts, and was released on $100,000 bail
+In September 2012, U.S
+attorneys increased the number of charges against Swartz from four to thirteen, with a possible penalty of 35 years in prison and $1 million in fines
+The case still was pending when Swartz committed suicide in January 2013
+Prosecutors dropped the charges after his suicide.
+The availability of most journals on JSTOR is controlled by a "moving wall", which is an agreed-upon delay between the current volume of the journal and the latest volume available on JSTOR
+This time period is specified by agreement between JSTOR and the publisher of the journal, which usually is three to five years
+Publishers may request that the period of a "moving wall" be changed or request discontinuation of coverage
+Formerly, publishers also could request that the "moving wall" be changed to a "fixed wall"—a specified date after which JSTOR would not add new volumes to its database
+As of November 2010, "fixed wall" agreements were still in effect with three publishers of 29 journals made available online through sites controlled by the publishers.
+In 2010, JSTOR started adding current issues of certain journals through its Current Scholarship Program.
+Beginning September 6, 2011, JSTOR made public domain content available at no charge to the public
+This "Early Journal Content" program constitutes about 6% of JSTOR's total content, and includes over 500,000 documents from more than 200 journals that were published before 1923 in the United States, and before 1870 in other countries
+JSTOR stated that it had been working on making this material free for some time
+The Swartz controversy and Greg Maxwell's protest torrent of the same content led JSTOR to "press ahead" with the initiative
+As of 2017, JSTOR does not have plans to extend it to other public domain content, stating that "We do not believe that just because something is in the public domain, it can always be provided for free".
+In January 2012, JSTOR started a pilot program, "Register & Read", offering limited no-cost access (not open access) to archived articles for individuals who register for the service
+At the conclusion of the pilot, in January 2013, JSTOR expanded Register & Read from an initial 76 publishers to include about 1,200 journals from over 700 publishers
+Registered readers may read up to six articles online every calendar month, but may not print or download PDFs.
+As of 2014, JSTOR is conducting a pilot program with Wikipedia, whereby established editors are given reading privileges through the Wikipedia Library, as with a university library.
+In 2012, JSTOR users performed nearly 152 million searches, with more than 113 million article views and 73.5 million article downloads
+JSTOR has been used as a resource for linguistics research to investigate trends in language use over time and also to analyze gender differences and inequities in scholarly publishing, revealing that in certain fields, men predominate in the prestigious first and last author positions and that women are significantly underrepresented as authors of single-authored papers.
+JSTOR metadata is available through CrossRef and the Unpaywall dump, which as of 2020 identifies nearly 3 million works hosted by JSTOR as toll access, as opposed to over 200,000 available in open access (mainly through third party open access repositories).
+Aluka
+Artstor
+ArXiv
+Digital preservation
+HAL (open archive)
+Japanese Historical Text Initiative
+JHOVE
+List of academic databases and search engines
+Project MUSEOfficial website
+"Libraries and institutions offering access"
+JSTOR
+Retrieved October 21, 2015
+Searchable database, includes many public libraries offering free access to library card holders.
+"Register & Read"
+JSTOR
+Retrieved October 21, 2015
+Free individual registration, offering free read-only access (no printing or saving) to three articles every two weeks (seventy-eight per year).
+JSTOR Early Journal Content : Free Texts : Download & Streaming : Internet Archive

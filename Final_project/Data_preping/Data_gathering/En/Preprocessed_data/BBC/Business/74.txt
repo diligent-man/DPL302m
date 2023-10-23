@@ -1,42 +1,41 @@
-markets
-fear greed index
-latest market news
-general motors will produce a fully electric chevrolet corvette gm president mark reuss announced in a linkedin post monday morning
-reuss didn t say when the electric corvette would come but he hinted that a hybrid model could come relatively soon
-we will offer an electrified corvette as early as next year he wrote
-an accompanying video the company posted to twitter showed what appeared to be a hybrid corvette and in another first showed the front wheels spinning and throwing snow as if being powered
-all corvettes produced by the company previously have been rear wheel drive only
-while reuss s post implies a hybrid corvette will be based on the current generation of the car it s not clear if the all electric version will be a variation of this car or a completely different future model
-electrified is an auto industry term encompassing everything from hybrid to fully electric vehicles and anything with an electric motor can count as electrified it has long been rumored that the current generation of the corvette the first with its gasoline engine mounted behind the seats instead of in the front could be built with a hybrid system
-reuss has also previously hinted there would be electrified variants of the car
-various companies are working on electric sports cars
-most all electric vehicles in production so far have been four door sedans and suvs as the need for batteries lends itself to larger and heavier vehicles
-tesla s first car the lotus elise based tesla roadster was an electric sports car but the second generation of tesla roadster originally unveiled as a prototype in has yet to go into production
-some manufacturers such as lamborghini have said that current battery technology doesn t allow for a optimum sports car performance from a purely electric vehicle
-lamborghini has been working on plug in hybrid sports cars though
-to date the corvette is only available in the base stingray version with liter v engine producing up to horsepower
-a horsepower corvette z with a liter v was unveiled last fall
-the previous generation of the corvette included included a horsepower zr version
-nothing like that has yet been announced for the current model but gm engineers have said a major reason for putting the engine in the back was to allow for better performance at extremely high horsepower levels
-besides saving gas hybrid systems can also be used in high performance cars to add additional power and to provide for quicker acceleration since electric motors can provide power to the wheels more quickly than gas engines
-ferrari s most powerful sports cars are hybrids for instance
-gm has said it plans to produce only zero emission vehicles meaning fully electric or powered by hydrogen fuel cells by
-most stock quote data provided by bats
-us market indices are shown in real time except for the s p which is refreshed every two minutes
-all times are et
-factset factset research systems inc
-all rights reserved
-chicago mercantile certain market data is the property of chicago mercantile exchange inc
+Markets
+Fear & Greed Index
+Latest Market News
+General Motors will produce a fully electric Chevrolet Corvette, GM President Mark Reuss announced in a LinkedIn post Monday morning.
+Reuss didn’t say when the electric Corvette would come, but he hinted that a hybrid model could come relatively soon
+“We will offer an electrified Corvette as early as next year,” he wrote
+An accompanying video the company posted to Twitter showed what appeared to be a hybrid Corvette, and in another first, showed the front wheels spinning and throwing snow as if being powered
+All Corvettes produced by the company previously have been rear-wheel-drive only.
+While Reuss’s post implies a hybrid Corvette will be based on the current generation of the car, it’s not clear if the all-electric version will be a variation of this car or a completely different future model.
+“Electrified” is an auto industry term encompassing everything from hybrid to fully electric vehicles, and anything with an electric motor can count as “electrified.” It has long been rumored that the current generation of the Corvette, the first with its gasoline engine mounted behind the seats instead of in the front, could be built with a hybrid system
+Reuss has also previously hinted there would be electrified variants of the car.
+Various companies are working on electric sports cars
+Most all-electric vehicles in production so far have been four-door sedans and SUVs, as the need for batteries lends itself to larger and heavier vehicles
+Tesla’s first car, the Lotus Elise-based Tesla Roadster, was an electric sports car, but the second-generation of Tesla Roadster, originally unveiled as a prototype in 2017, has yet to go into production.
+Some manufacturers, such as Lamborghini, have said that current battery technology doesn’t allow for a optimum sports car performance from a purely electric vehicle
+Lamborghini has been working on plug-in hybrid sports cars, though.
+To date, the Corvette is only available in the base Stingray version with 6.2-liter V8 engine producing up to 495 horsepower
+A 670 horsepower Corvette Z06 with a 5.5-liter V8 was unveiled last fall
+The previous generation of the Corvette included included a 755-horsepower ZR1 version
+Nothing like that has yet been announced for the current model but GM engineers have said a major reason for putting the engine in the back was to allow for better performance at extremely high horsepower levels.
+Besides saving gas, hybrid systems can also be used in high-performance cars to add additional power and to provide for quicker acceleration since electric motors can provide power to the wheels more quickly than gas engines
+Ferrari’s most powerful sports cars are hybrids, for instance.
+GM has said it plans to produce only zero-emission vehicles, meaning fully electric or powered by hydrogen fuel cells, by 2035.
+Most stock quote data provided by BATS
+US market indices are shown in real time, except for the S&P 500 which is refreshed every two minutes
+All times are ET
+Factset: FactSet Research Systems Inc
+All rights reserved
+Chicago Mercantile: Certain market data is the property of Chicago Mercantile Exchange Inc
 and its licensors
-all rights reserved
-dow jones the dow jones branded indices are proprietary to and are calculated distributed and marketed by dji opco a subsidiary of s p dow jones indices llc and have been licensed for use to s p opco llc and cnn
-standard poor s and s p are registered trademarks of standard poor s financial services llc and dow jones is a registered trademark of dow jones trademark holdings llc
-all content of the dow jones branded indices copyright s p dow jones indices llc and or its affiliates
-fair value provided by indexarb com
-market holidays and trading hours provided by copp clark limited
-cable news network
-a warner bros
-discovery company
-all rights reserved
-cnn sans cable news network
-
+All rights reserved
+Dow Jones: The Dow Jones branded indices are proprietary to and are calculated, distributed and marketed by DJI Opco, a subsidiary of S&P Dow Jones Indices LLC and have been licensed for use to S&P Opco, LLC and CNN
+Standard & Poor’s and S&P are registered trademarks of Standard & Poor’s Financial Services LLC and Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC
+All content of the Dow Jones branded indices Copyright S&P Dow Jones Indices LLC and/or its affiliates
+Fair value provided by IndexArb.com
+Market holidays and trading hours provided by Copp Clark Limited.
+© 2023 Cable News Network
+A Warner Bros
+Discovery Company
+All Rights Reserved
+ CNN Sans ™ & © 2016 Cable News Network.

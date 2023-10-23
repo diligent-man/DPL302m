@@ -1,26 +1,25 @@
-alex paul sandy pentland born is an american computer scientist the toshiba professor at mit and serial entrepreneur
-pentland received his bachelor s degree from the university of michigan and obtained his ph d
-from massachusetts institute of technology in
-he started as lecturer at stanford university in both computer science and psychology and joined the mit faculty in where he became academic head of the media laboratory and received the toshiba chair in media arts and sciences and later joined the faculty of the mit school of engineering and the mit sloan school
-he serves on the board of the un global partnership for sustainable development data advisory boards of consumers union and oecd and formerly of the american bar association at t and several of the startup companies he has co founded
-he previously co founded and co directed the media lab asia laboratories at the indian institutes of technology and strong hospital s center for future health
-pentland is one of the most cited authors in computer science with an h index of co led the world economic forum discussion in davos that led to the eu privacy regulation gdpr and was one of the un secretary general s data revolutionaries that helped forge the transparency and accountability mechanisms in the un s sustainable development goals
-he founded and currently directs the mit connection science an mit wide program which pioneered computational social science using big data and ai to better understand human society and the trust data alliance which is an alliance of companies and nations building open source software that makes ai and data safe trusted and secure
-he also founded the mit media lab entrepreneurship program which creates ventures to take cutting edge technologies into the real world serves as co lead of the ieee council and extended intelligence academic director of the data pop alliance and is co founder of imagination in action which brings world changing inventors together with leaders of governments and companies
-in tim o reilly named him one of the world s seven most powerful data scientists along with larry page then ceo of google and the cto of the department of health and human services
-recent invited keynotes include annual meetings of oecd g world bank and jp morgan
-pentland s research focuses on web ai computational social science and privacy
-his research helps people better understand the physics of their social environment and helps individuals companies and communities to reinvent themselves to be safer more productive and more creative
-he has previously been a pioneer in wearable computing ventures technology for developing nations and image understanding
-his research has been featured in nature science and harvard business review as well as being the focus of tv features on bbc world discover and science channels
-companies co founded or incubated by pentland s lab include the largest rural health care service delivery system in the world the advertising arm of alibaba the identity authentication technology that powers india s digital identity system aadhaar and rural service outlets for india s largest payment solutions provider
-more recent companies include ginger io mental health services cogitocorp com ai coaching for interaction management humanyze com organizational health endor com turn key privacy preserving ai enigma co confidential smart contracts wise systems delivery planning and optimization riff analytics on line meeting enhancement sila money stable bank and stablecoin akoya secure privacy preserving financial interactions fortifid digital identity collaborative community services investment in underserved communities prosperia fairness and bias mitigation for social services throughout latin america and secure ai labs federated medical data analytics
-pentland along with colleagues william j
-mitchell and kent larson at the massachusetts institute of technology are credited with first exploring the concept of a living laboratory
-they argued that a living lab represents a user centric research methodology for sensing prototyping validating and refining complex solutions in multiple and evolving real life contexts
-nowadays several living lab descriptions and definitions are available from different sources
-honest signals describes research chosen as harvard business review breakthrough idea of the year
-social physics describes research that won both the mckinsey award from harvard business review and the th anniversary of the internet grand challenge mit home page and link to mit human dynamics research group
-alex pentland publications indexed by google scholar
-reporting on pentland s research video
-
+Alex Paul "Sandy" Pentland (born 1951) is an American computer scientist, the Toshiba Professor at MIT, and serial entrepreneur.
+Pentland received his bachelor's degree from the University of Michigan and obtained his Ph.D
+from Massachusetts Institute of Technology in 1982.
+He started as lecturer at Stanford University in both computer science and psychology, and joined the MIT faculty in 1986, where he became Academic Head of the Media Laboratory and received the Toshiba Chair in Media Arts and Sciences, and later joined the faculty of the MIT School of Engineering and the MIT Sloan School
+ He serves on the Board of the UN Global Partnership for Sustainable Development Data, advisory boards of Consumers Union and OECD, and formerly of the American Bar Association, AT&T, and several of the startup companies he has co-founded
+He previously co-founded and co-directed the Media Lab Asia laboratories at the Indian Institutes of Technology and Strong Hospital's Center for Future Health.
+Pentland is one of the most cited authors in computer science with an h-index of 144, co-led the World Economic Forum discussion in Davos that led to the EU privacy regulation GDPR, and was one of the UN Secretary General's "Data Revolutionaries" that helped forge the transparency and accountability mechanisms in the UN's Sustainable Development Goals.
+He founded and currently directs the MIT Connection Science an MIT-wide program which pioneered computational social science, using big data and AI to better understand human society, and the Trust::Data Alliance which is an alliance of companies and nations building open-source software that makes AI and data safe, trusted and secure
+ He also founded the MIT Media Lab Entrepreneurship Program which creates ventures to take cutting-edge technologies into the real world, serves as co-lead of the IEEE Council and Extended Intelligence, Academic Director of the Data-Pop Alliance, and is co-founder of Imagination In Action which brings world-changing inventors together with leaders of governments and companies.
+In 2011 Tim O’Reilly named him one of the world's seven most powerful data scientists along with Larry Page, then CEO of Google and the CTO of the Department of Health and Human Services
+  Recent invited keynotes include annual meetings of OECD, G20, World Bank, and JP Morgan.
+Pentland's research focuses on Web 3.0, AI, Computational Social Science, and Privacy
+His research helps people better understand the "physics" of their social environment, and helps individuals, companies and communities to reinvent themselves to be safer, more productive, and more creative
+ He has previously been a pioneer in wearable computing, ventures technology for developing nations, and image understanding
+ His research has been featured in Nature, Science, and Harvard Business Review, as well as being the focus of TV features on BBC World, Discover and Science channels.
+Companies co-founded or incubated by Pentland's lab include the largest rural health care service delivery system in the world, the advertising arm of Alibaba ., the identity authentication technology that powers India's digital identity system Aadhaar, and rural service outlets for India's largest payment solutions provider.
+More recent companies include Ginger.io (mental health services), CogitoCorp.com (AI coaching for interaction management), Humanyze.com (organizational health), Endor.com (turn-key, privacy-preserving AI), Enigma.co (confidential smart contracts), Wise Systems (delivery planning and optimization), Riff Analytics (on-line meeting enhancement), Sila Money (stable bank and stablecoin), Akoya (secure, privacy-preserving financial interactions), FortifID (digital identity), Collaborative Community Services (investment in underserved communities), Prosperia (Fairness and bias mitigation for social services throughout Latin America), and Secure AI Labs (federated medical data analytics).
+Pentland, along with colleagues William J
+Mitchell and Kent Larson at the Massachusetts Institute of Technology are credited with first exploring the concept of a Living Laboratory
+ They argued that a living lab represents a user-centric research methodology for sensing, prototyping, validating and refining complex solutions in multiple and evolving real life contexts
+Nowadays, several living lab descriptions and definitions are available from different sources.
+Honest Signals (2010) describes research chosen as Harvard Business Review Breakthrough Idea of the Year.
+Social Physics (2015) describes research that won both the McKinsey Award from Harvard Business Review and the 40th Anniversary of the Internet Grand Challenge.MIT Home Page and link to MIT Human Dynamics research group
+Alex Pentland publications indexed by Google Scholar
+Reporting on Pentland's research (video)

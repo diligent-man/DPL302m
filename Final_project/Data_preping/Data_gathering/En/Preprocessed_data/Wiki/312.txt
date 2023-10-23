@@ -1,119 +1,120 @@
-statistics is a field of inquiry that studies the collection analysis interpretation and presentation of data
-it is applicable to a wide variety of academic disciplines from the physical and social sciences to the humanities it is also used and misused for making informed decisions in all areas of business and government
-statistics can be described as all of the following
-an academic discipline one with academic departments curricula and degrees national and international societies and specialized journals
-a scientific field a branch of science widely recognized category of specialized expertise within science and typically embodies its own terminology and nomenclature
-such a field will usually be represented by one or more scientific journals where peer reviewed research is published
-a formal science branch of knowledge concerned with formal systems
-a mathematical science field of science that is primarily mathematical in nature but may not be universally considered subfields of mathematics proper
-statistics for example is mathematical in its methods but grew out of political arithmetic which merged with inverse probability and grew through applications in the social sciences and some areas of physics and biometrics to become its own separate though closely allied field history of statistics
-founders of statistics
-history of probability
-timeline of probability and statisticsdescriptive statistics
-average
-median
-measures of scale
-variance
-standard deviation
-median absolute deviation
-correlation
-outlier
-statistical graphics
-histogram
-frequency distribution
-quantile
-survival function
-failure ratedesign of experiments
-optimal design
-factorial experiment
-restricted randomization
-repeated measures design
-randomized block design
-statistical survey
-opinion pollsampling theory
-sampling distribution
-stratified sampling
-quota sampling
-cluster sampling
-biased sample
-spectrum bias
-survivorship biasregression analysis
-outline of regression analysis
-analysis of variance anova
-general linear model
-generalized linear model
-density estimation
-kernel density estimation
-multivariate kernel density estimation
-time series
-time series analysis
-box jenkins method
-frequency domain
-time domain
-multivariate analysis
-principal component analysis pca
-factor analysis
-cluster analysis
-robust statisticsrecursive bayesian estimation
-kalman filter
-particle filter
-moving averagestatistical inference
-mathematical statistics
-likelihood function
-exponential family
-bayesian inference
-bayes theorem
-bayes estimator
-prior distribution
-posterior distribution
-conjugate prior
-frequentist inference
-statistical hypothesis testing
-null hypothesis
-alternative hypothesis
-p value
-significance level
-statistical power
-likelihood ratio test
-confidence interval
-decision theory
-optimal decision
-type i and type ii errors
-estimation theory
-estimator
-bayes estimator
-maximum likelihood
-trimmed estimator
-m estimator
-non parametric statistics
-nonparametric regression
-kernelsprobability distribution
-symmetric probability distribution
-unimodal probability distribution
-conditional probability distribution
-probability density function
-cumulative distribution function
-characteristic function
-list of probability distributionsrandom variable
-central moment
-l moment
-algebra of random variablesprobability
-conditional probability
-law of large numbers
-central limit theoremcomputational statistics
-markov chain monte carlo
-integrated nested laplace approximationsfree statistical software
-list of statistical packageslist of academic statistical associations
-list of national and international statistical serviceslist of statistics journals
-list of important publications in statisticslist of statisticianscombinatorics
-glossary of probability and statistics
-index of statistics articles
-list of fields of application of statistics
-list of graphical methods
-lists of statistics topics
-monte carlo method
-notation in probability and statistics
-outline of probability
-philosophy of statistics
-simulation
-
+Statistics  is a field of inquiry that studies the collection, analysis, interpretation, and presentation of data
+It is applicable to a wide variety of academic disciplines, from the physical and social sciences to the humanities; it is also used and misused for making informed decisions in all areas of business and government.
+Statistics can be described as all of the following:
+An  academic discipline: one with academic departments, curricula and degrees; national and international societies; and specialized journals.
+A scientific field (a branch of science) – widely recognized category of specialized expertise within science, and typically embodies its own terminology and nomenclature
+Such a field will usually be represented by one or more scientific journals, where peer reviewed research is published.
+A formal science – branch of knowledge concerned with formal systems.
+A mathematical science –  field of science that is primarily mathematical in nature but may not be universally considered subfields of mathematics proper
+Statistics, for example, is mathematical in its methods but grew out of political arithmetic which merged with inverse probability and grew through applications in the social sciences and some areas of physics and biometrics to become its own separate, though closely allied, field.History of statistics
+Founders of statistics
+History of probability
+Timeline of probability and statisticsDescriptive statistics
+Average
+Mean
+Median
+Mode
+Measures of scale
+Variance
+Standard deviation
+Median absolute deviation
+Correlation
+Outlier
+Statistical graphics
+Histogram
+Frequency distribution
+Quantile
+Survival function
+Failure rateDesign of experiments
+Optimal design
+Factorial experiment
+Restricted randomization
+Repeated measures design
+Randomized block design
+Statistical survey
+Opinion pollSampling theory
+Sampling distribution
+Stratified sampling
+Quota sampling
+Cluster sampling
+Biased sample
+Spectrum bias
+Survivorship biasRegression analysis
+Outline of regression analysis
+Analysis of variance (ANOVA)
+General linear model
+Generalized linear model
+Density estimation
+Kernel density estimation
+Multivariate kernel density estimation
+Time series
+Time series analysis
+Box–Jenkins method
+Frequency domain
+Time domain
+Multivariate analysis
+Principal component analysis (PCA)
+Factor analysis
+Cluster analysis
+Robust statisticsRecursive Bayesian estimation
+Kalman filter
+Particle filter
+Moving averageStatistical inference
+Mathematical statistics
+Likelihood function
+Exponential family
+Bayesian inference
+Bayes' theorem
+Bayes estimator
+Prior distribution
+Posterior distribution
+Conjugate prior
+Frequentist inference
+Statistical hypothesis testing
+Null hypothesis
+Alternative hypothesis
+P-value
+Significance level
+Statistical power
+Likelihood-ratio test
+Confidence interval
+Decision theory
+Optimal decision
+Type I and type II errors
+Estimation theory
+Estimator
+Bayes estimator
+Maximum likelihood
+Trimmed estimator
+M-estimator
+Non-parametric statistics
+Nonparametric regression
+KernelsProbability distribution
+Symmetric probability distribution
+Unimodal probability distribution
+Conditional probability distribution
+Probability density function
+Cumulative distribution function
+Characteristic function
+List of probability distributionsRandom variable
+Central moment
+L-moment
+Algebra of random variablesProbability
+Conditional probability
+Law of large numbers
+Central limit theoremComputational statistics
+Markov chain Monte Carlo
+Integrated nested Laplace approximationsFree statistical software
+List of statistical packagesList of academic statistical associations
+List of national and international statistical servicesList of statistics journals
+List of important publications in statisticsList of statisticiansCombinatorics
+Glossary of probability and statistics
+Index of statistics articles
+List of fields of application of statistics
+List of graphical methods
+Lists of statistics topics
+Monte Carlo method
+Notation in probability and statistics
+Outline of probability
+Philosophy of statistics
+Simulation

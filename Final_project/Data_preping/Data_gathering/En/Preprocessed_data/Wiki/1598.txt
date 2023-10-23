@@ -1,64 +1,63 @@
-a request for proposal rfp is a document that solicits proposal often made through a bidding process by an agency or company interested in procurement of a commodity service or valuable asset to potential suppliers to submit business proposals
-it is submitted early in the procurement cycle either at the preliminary study or procurement stage
-an rfp is used where the request requires technical expertise specialized capability or where the product or service being requested does not yet exist and the proposal may require research and development to create whatever is being requested
-the rfp presents preliminary requirements for the commodity or service and may dictate to varying degrees the exact structure and format of the supplier s response
-effective rfps typically reflect the strategy and short long term business objectives providing detailed insight upon which suppliers will be able to offer a matching perspective
-similar requests include a request for quotation rfq whereby the customer may simply be looking for a price quote and a request for information rfi where the customer needs more information from vendors before submitting an rfp
-an rfi is typically followed by an rfp or rfq
-in principle an rfp
-informs suppliers that an organization is looking to procure and encourages them to make their best effort
-requires the company to specify what it proposes to purchase
-if the requirements analysis has been prepared properly it can be incorporated quite easily into the request document
-alerts suppliers that the selection process is competitive
-allows for wide distribution and response
-ensures that suppliers respond factually to the identified requirements
-is generally expected to follow a structured evaluation and selection procedure so that an organization can demonstrate impartiality a crucial factor in public sector procurements an rfp typically involves more than a request for the price
-examples of such are choosing requirements the timetable for the project the rfp package format and obtain clearance for the rfi package format
-other requested information may include basic corporate information and history financial information can the company deliver without risk of bankruptcy technical capability used on major procurements of services where the item has not previously been made or where the requirement could be met by varying technical means product information such as stock availability and estimated completion period and customer references that can be checked to determine a company s suitability including educational and military background of its employees on the project college graduates and those with advanced college degrees may add value from the bidder
-the ubiquitous availability of the internet has made many government agencies turn either to state run or vendor operated websites which provide listings of rfps as well as rfis and rfqs
-many allow vendors to sign up at no charge to receive e mails of requests either generally or for specific categories of product or service for which there is an interest
-in some cases the entire process is done on line with responses as scanned documents or pdf files uploaded to the server in other cases or for legal reasons a response must be sent in hard copy form and or on cd dvd disc or flash drive by mail or delivery service
-in the militaries of many countries an rfp is often raised to fulfill an operational requirement or after which the military procurement authority will normally issue a detailed technical specification against which tenders i e bids will be made by potential contractors
-in the civilian use an rfp is usually part of a complex sales process also known as enterprise sales
-rfps often include specifications of the item project or service for which a proposal is requested
-the more detailed the specifications the better the chances that the proposal provided will be accurate
-generally rfps are sent to an approved supplier or vendor list
-the bidders return a proposal by a set date and time
-late proposals may or may not be considered depending on the terms of the initial rfp
-the proposals are used to evaluate the suitability as a supplier vendor or institutional partner
-typically organizations follow a detailed vendor screening process to short list the vendors who should be invited for further rounds of negotiation
-this screening process could either be vendor scoring models or internal discussions within the buyer organization
-discussions may be held on the proposals often to clarify technical capabilities or to note errors in a proposal or in many cases to negotiate on the price
-in most instances only selected bidders may be invited to participate in subsequent bids or may be asked to submit their best technical and financial proposal commonly referred to as a best and final offer bafo
-subsequent changes can be referred to as the best and revised final offer barfo
-once both the parties i e
-a buyer organization and seller organization agree on the technical and commercial terms and conditions of the proposal they could move on to next steps like contract signing statement of work which would formalize the purchase transactions
-today many organizations are becoming more collaborative in the development of rfps this is especially true for universities and other major public entities making major technology purchases
-rfp issuing groups ask for specific use cases rather than providing a list of features and ensure they have the opportunity to include demonstrations webinars and meetings as part of the rfp process to ensure they have a strong understanding of all competing products before making a purchase
-an rfp template is a document that is used to create a formal request for proposal
-it is usually created by the person who will be issuing the rfp
-the template can be used as a guide for those who are responding to the rfp
-the purpose of an rfp template is to provide all of the necessary information and instructions in order for someone to respond with a proposal that meets all of the requirements set out in the document
-a well written rfp template will include sections on
-purpose
-scope
-requirements
-timeline
-budget
-roles and responsibilities
-qualifications and experience requirementsa request for association rfa also known as request for partnership or request for alliance is a proposal from one party to another for acting together usually in business and sharing the benefits of this joint action
-a request for expression s of interest rfei is part of the eoi expression of interest discovery process in order to gather information regarding the potential procurement of the services sought similar to the rfq sometimes done prior to publishing an rfp
-a request for information rfi is a proposal requested from a potential seller or a service provider to determine what products and services are potentially available in the marketplace to meet a buyer s needs and to know the capability of a seller in terms of offerings and strengths of the seller
-rfis are commonly used on major procurements where a requirement could potentially be met through several alternate means
-an rfi however is not an invitation to bid is not binding on either the buyer or sellers and may or may not lead to an rfp or rfq
-a request for quotation rfq is used when discussions with bidders are not required mainly when the specifications of a product or service are already known and when price is the main or only factor in selecting the successful bidder
-an rfq may also be used prior to issuing a full blown rfp to determine general price ranges
-in this scenario products services or suppliers may be selected from the rfq results to bring in to further research in order to write a more fully fleshed out rfp
-in commercial business practice the rfq is the most popularly used form of rfx with many companies not understanding the distinction between the rfx s and so defaulting to rfq
-a request for qualifications rfq also known as pre qualification questionnaire pqq is a document often distributed before initiation of the rfp process
-it is used to gather vendor information from multiple companies to generate a pool of prospects
-this eases the rfp review process by preemptively short listing candidates which meet the desired qualifications
-a request for solution rfs is similar to a rfp but more open and general
-this allows the vendor or supplier the most flexibility of all rfx in expressing their solution or their product and service combination
-a request for tender rft also known as invitation to tender itt is more commonly used by governments
-
+A request for proposal (RFP) is a document that solicits proposal, often made through a bidding process, by an agency or company interested in procurement of a commodity, service, or valuable asset, to potential suppliers to submit business proposals
+It is submitted early in the procurement cycle, either at the preliminary study, or procurement stage.
+An RFP is used where the request requires technical expertise, specialized capability, or where the product or service being requested does not yet exist, and the proposal may require research and development to create whatever is being requested.
+The RFP presents preliminary requirements for the commodity or service, and may dictate to varying degrees the exact structure and format of the supplier's response
+Effective RFPs typically reflect the strategy and short/long-term business objectives, providing detailed insight upon which suppliers will be able to offer a matching perspective.
+Similar requests include a request for quotation (RFQ), whereby the customer may simply be looking for a price quote, and a request for information (RFI), where the customer needs more information from vendors before submitting an RFP
+ An RFI is typically followed by an RFP or RFQ.
+In principle, an RFP:
+Informs suppliers that an organization is looking to procure and encourages them to make their best effort.
+Requires the company to specify what it proposes to purchase
+If the requirements analysis has been prepared properly, it can be incorporated quite easily into the Request document.
+Alerts suppliers that the selection process is competitive.
+Allows for wide distribution and response.
+Ensures that suppliers respond factually to the identified requirements.
+Is generally expected to follow a structured evaluation and selection procedure, so that an organization can demonstrate impartiality - a crucial factor in public sector procurements.An RFP typically involves more than a request for the price
+Examples of such are: Choosing requirements, the timetable for the project, the RFP Package format, and Obtain clearance for the RFI Package format
+Other requested information may include basic corporate information and history, financial information (can the company deliver without risk of bankruptcy), technical capability (used on major procurements of services, where the item has not previously been made or where the requirement could be met by varying technical means), product information such as stock availability and estimated completion period, and customer references that can be checked to determine a company's suitability (including educational and military background of its employees on the project --- college graduates and those with advanced college degrees may add "value" from the bidder).
+The ubiquitous availability of the Internet has made many government agencies turn either to state-run or vendor operated websites which provide listings of RFPs as well as RFIs and RFQs
+Many allow vendors to sign up at no charge to receive e-mails of requests either generally or for specific categories of product or service for which there is an interest
+In some cases, the entire process is done on-line with responses as scanned documents or PDF files uploaded to the server; in other cases, or for legal reasons, a response must be sent in hard copy form and/or on CD/DVD disc or flash drive by mail or delivery service.
+In the militaries of many countries, an RFP is often raised to fulfill an Operational Requirement (OR), after which the military procurement authority will normally issue a detailed technical specification against which tenders (i.e., bids) will be made by potential contractors
+In the civilian use, an RFP is usually part of a complex sales process, also known as enterprise sales.
+RFPs often include specifications of the item, project or service for which a proposal is requested
+The more detailed the specifications, the better the chances that the proposal provided will be accurate
+ Generally RFPs are sent to an approved supplier or vendor list.
+The bidders return a proposal by a set date and time
+ Late proposals may or may not be considered, depending on the terms of the initial RFP
+ The proposals are used to evaluate the suitability as a supplier, vendor, or institutional partner
+Typically organizations follow a detailed vendor screening process to short list the vendors who should be invited for further rounds of negotiation
+This screening process could either be vendor scoring models or internal discussions within the buyer organization
+Discussions may be held on the proposals (often to clarify technical capabilities or to note errors in a proposal or in many cases to negotiate on the price)
+ In most  instances, only selected bidders may be invited to participate in subsequent bids, or may be asked to submit their best technical and financial proposal, commonly referred to as a Best and Final Offer (BAFO)
+Subsequent changes can be referred to as the Best and Revised Final Offer (BARFO).
+Once both the parties, i.e
+a buyer organization and seller organization, agree on the technical and commercial terms and conditions of the proposal, they could move on to next steps like contract signing, statement of work which would formalize the purchase transactions.
+Today, many organizations are becoming more collaborative in the development of RFPs; this is especially true for universities and other major public entities making major technology purchases
+RFP-issuing groups ask for specific use cases, rather than providing a list of features, and ensure they have the opportunity to include demonstrations, webinars and meetings as part of the RFP process to ensure they have a strong understanding of all competing products before making a purchase.
+An RFP template is a document that is used to create a formal request for proposal
+It is usually created by the person who will be issuing the RFP
+The template can be used as a guide for those who are responding to the RFP.
+The purpose of an RFP template is to provide all of the necessary information and instructions in order for someone to respond with a proposal that meets all of the requirements set out in the document.
+A well-written RFP template will include sections on:
+Purpose
+Scope
+Requirements
+Timeline
+Budget
+Roles and Responsibilities
+Qualifications and Experience RequirementsA request for association (RFA), also known as request for partnership or request for alliance, is a proposal from one party to another for acting together (usually in business) and sharing the benefits of this joint action.
+A request for expression(s) of interest (RFEI), is part of the EOI (expression of interest) discovery process in order to gather information regarding the potential procurement of the services sought, similar to the RFQ, sometimes done prior to publishing an RFP.
+A request for information (RFI) is a proposal requested from a potential seller or a service provider to determine what products and services are potentially available in the marketplace to meet a buyer's needs and to know the capability of a seller in terms of offerings and strengths of the seller
+ RFIs are commonly used on major procurements, where a requirement could potentially be met through several alternate means
+ An RFI, however, is not an invitation to bid, is not binding on either the buyer or sellers, and may or may not lead to an RFP or RFQ.
+A request for quotation (RFQ) is used when discussions with bidders are not required (mainly when the specifications of a product or service are already known) and when price is the main or only factor in selecting the successful bidder
+An RFQ may also be used prior to issuing a full-blown RFP to determine general price ranges
+In this scenario, products, services or suppliers may be selected from the RFQ results to bring in to further research in order to write a more fully fleshed out RFP
+In commercial business practice, the RFQ is the most popularly used form of RFx, with many companies not understanding the distinction between the RFx's, and so defaulting to RFQ.
+A request for qualifications (RFQ) also known as pre-qualification questionnaire (PQQ) is a document often distributed before initiation of the RFP process
+It is used to gather vendor information from multiple companies to generate a pool of prospects
+This eases the RFP review process by preemptively short-listing candidates which meet the desired qualifications.
+A request for solution (RFS) is similar to a RFP, but more open and general
+This allows the vendor or supplier the most flexibility of all RFx in expressing their solution, or their product and service combination.
+A request for tender (RFT), also known as invitation to tender (ITT), is more commonly used by governments.
