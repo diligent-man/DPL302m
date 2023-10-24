@@ -1,9 +1,0 @@
-Peripheral T-cell lymphoma refers to a group of T-cell lymphomas that develop away from the thymus or bone marrow.
-Examples include:
-Cutaneous T-cell lymphomas
-Angioimmunoblastic T-cell lymphoma
-Extranodal natural killer/T-cell lymphoma, nasal type
-Enteropathy type T-cell lymphoma
-Subcutaneous panniculitis-like T-cell lymphoma
-Anaplastic large cell lymphoma
-Peripheral T-cell lymphoma-Not-Otherwise-SpecifiedIn ICD-10, cutaneous T-cell lymphomas are classified separately.

@@ -1,9 +1,0 @@
-GS-specific cyclin-D is a protein that in humans is encoded by the CCND gene
-The protein encoded by this gene belongs to the highly conserved cyclin family whose members are characterized by a dramatic periodicity in protein abundance through the cell cycle
-Cyclins function as regulators of CDK kinases
-Different cyclins exhibit distinct expression and degradation patterns which contribute to the temporal coordination of each mitotic event
-This cyclin forms a complex with and functions as a regulatory subunit of CDK or CDK whose activity is required for cell cycle GS transition
-This protein has been shown to interact with and be involved in the phosphorylation of tumor suppressor protein Rb
-The CDK activity associated with this cyclin was reported to be necessary for cell cycle progression through G phase into mitosis after UV radiation
-Mutations in CCND are implicated in cases of breast cancer
-Cyclin D has been shown to interact with
