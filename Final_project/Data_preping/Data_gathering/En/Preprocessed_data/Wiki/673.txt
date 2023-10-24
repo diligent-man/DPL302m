@@ -12,15 +12,15 @@ Physical systems found in nature are practically always dynamic and complex but 
 Thermal equilibrium When the temperature throughout a system is uniform the system is in thermal equilibrium
 Mechanical equilibrium If at every point within a given system there is no change in pressure with time and there is no movement of material the system is in mechanical equilibrium
 Phase equilibrium This occurs when the mass for each individual phase reaches a value that does not change with time
-Chemical equilibrium In chemical equilibrium the chemical composition of a system has settled and does not change with time Bailyn M A Survey of Thermodynamics American Institute of Physics Press New York ISBN
+Chemical equilibrium In chemical equilibrium the chemical composition of a system has settled and does not change with timeBailyn M A Survey of Thermodynamics American Institute of Physics Press New York ISBN
 Cengel Yunus Michael A Boels Thermodynamics An Engineering Approach New York NY McGraw Hill ISBN
-Callen H B Thermodynamics and an Introduction to Thermostatistics st edition nd edition Wiley New York ISBN
-Carath odory C Untersuchungen ber die Grundlagen der Thermodynamik PDF Mathematische Annalen doi BF A translation may be found here A mostly reliable translation is to be found at Kestin J The Second Law of Thermodynamics Dowden Hutchinson Ross Stroudsburg PA
-Eu B C Generalized Thermodynamics The Thermodynamics of Irreversible Processes and Generalized Hydrodynamics Kluwer Academic Publishers Dordrecht ISBN
-Jaynes E T Gibbs vs Boltzmann entropies Am J Phys
+Callen HB Thermodynamics and an Introduction to Thermostatistics st edition nd edition Wiley New York ISBN
+Carathéodory C Untersuchungen über die Grundlagen der Thermodynamik PDF Mathematische Annalen doiBF A translation may be found here A mostly reliable translation is to be found at Kestin J The Second Law of Thermodynamics Dowden Hutchinson Ross Stroudsburg PA
+Eu BC Generalized Thermodynamics The Thermodynamics of Irreversible Processes and Generalized Hydrodynamics Kluwer Academic Publishers Dordrecht ISBN
+Jaynes ET Gibbs vs Boltzmann entropies Am J Phys
 Modell Michael Robert C Reid Thermodynamics and Its Applications Englewood Cliffs NJ Prentice Hall ISBN
-Marsland R III Brown H R Valente G Time and irreversibility in axiomatic thermodynamics Am J Phys
+Marsland R III Brown HR Valente G Time and irreversibility in axiomatic thermodynamics Am J Phys
 Planck M Treatise on Thermodynamics translated by A Ogg third English edition Longmans Green and Co London
 Prigogine I Defay R Chemical Thermodynamics Longmans Green Co London
-Tisza L Generalized Thermodynamics M I T Press Cambridge MA
-Zemanksy M W Dittman R H Heat and Thermodynamics An Intermediate Textbook sixth edition McGraw Hill Book Company New York ISNM Excited state
+Tisza L Generalized Thermodynamics MIT Press Cambridge MA
+Zemanksy MW Dittman RH Heat and Thermodynamics An Intermediate Textbook sixth edition McGraw Hill Book Company New York ISNM Excited state

@@ -1,7 +1,9 @@
 import os
 import re
+import string
 import shutil
 import contractions
+import textsearch
 
 
 class TextPreprocessor:
@@ -26,14 +28,6 @@ class TextPreprocessor:
         return self.__preprocessed_data_path
 
 
-    @staticmethod    
-    def __has_BOM(filename):
-        # ref: https://codeverge.com/unicodeerror-utf-16-stream-does-not-start-with-bom
-        with open(filename, 'rb') as f:
-            initial_bytes = f.read(2)
-        return initial_bytes in [b'\xFE\xFF', b'\xFF\xFE']
-
-
     @staticmethod
     def __expand_contractions(text, contractions_dict):
         def replace(match):
@@ -43,6 +37,7 @@ class TextPreprocessor:
         contractions_re = re.compile('(%s)' % '|'.join(contractions_dict.keys()))
         return contractions_re.sub(replace, text)
 
+
     @staticmethod
     def __save_preprocessed_data(preprocessed_data_path, filename: str, data: str) -> None:
         with open(preprocessed_data_path + '/' + filename, 'w', encoding='utf-8') as f:
@@ -50,8 +45,8 @@ class TextPreprocessor:
         return None
 
 
-    def split_into_sentence(self):
-        for filename in os.listdir(self.__data_path):
+    def split_into_sentence(self) -> None:
+        for filename in sorted(os.listdir(self.__data_path)):
             with open(self.__data_path + '/' + filename, 'r', encoding='utf-8') as f:
                 # Split by paragraph
                 data = f.read().split('\n')
@@ -60,13 +55,15 @@ class TextPreprocessor:
                 paragraph = [sentence.split('. ') for sentence in paragraph]
                 # Take only available sentence
                 sentences = [sentence for sentences in paragraph for sentence in sentences if len(sentence) != 0]
-
+                # Remove non-breaking space characters (0xA0)
+                sentences = [sentence.replace('\xa0', ' ') for sentence in sentences]
             # save data
             data = '\n'.join(sentences)
             self.__save_preprocessed_data(self.__preprocessed_data_path,  filename, data)
+        return None
 
 
-    def eliminate_contraction(self):
+    def eliminate_contraction(self) -> None:
         contractions_dict = {"how'll":"how will",
                              "mayn't":"may not",
                              "might've":"might have",
@@ -84,42 +81,62 @@ class TextPreprocessor:
                              "why've":"why have",
                              "will've":"will have"}
         
-        for filename in os.listdir(self.__data_path):
+        for filename in sorted(os.listdir(self.__data_path)):
             with open(self.__data_path + '/' + filename, 'r', encoding='utf-8') as f:
                 expanded_lines = []
                 for line in f:
                     expanded_words = [self.__expand_contractions(word, contractions_dict) for word in line.split()]
                     expanded_line = ' '.join(expanded_words)
                     expanded_lines.append(expanded_line)
-            
-            # save data
-            expanded_lines = '\n'.join(expanded_lines)
-            self.__save_preprocessed_data(self.__preprocessed_data_path, filename, expanded_lines)
+                # save data
+                expanded_lines = '\n'.join(expanded_lines)
+                self.__save_preprocessed_data(self.__preprocessed_data_path, filename, expanded_lines)
+            return None
                                     
-
-    def remove_non_alphabet_chars(self):
+    
+    def remove_emoji(self) -> None:
+        emoji_pattern = re.compile("["
+                                   u"U0001F600-U0001F64F"  # emoticons
+                                   u"U0001F300-U0001F5FF"  # symbols & pictographs
+                                   u"U0001F680-U0001F6FF"  # transport & map symbols
+                                   u"U00002702-U000027B0"
+                                   u"U000024C2-U0001F251"
+                                   "]+", flags=re.UNICODE)
+            
         for filename in sorted(os.listdir(self.__data_path)):
-            print(filename, self.get_data_path())
             with open(os.path.join(self.__data_path, filename), 'r', encoding='utf-8') as f:
                 data = []
                 for line in f:
-                    # remove non-alphabet chars
-                    line = re.sub(r"[^a-zA-Z \']", ' ', line)
-                    if line.startswith('-'):
-                        line = line[1:]
-
-                    # remove ws at the beginning and the end of sentence
-                    line = ' '.join(line.strip().split())
-
-                    # if len line < 5, ignore it
-                    if len(line.split()) < 5:
-                        continue
-                    else:
-                        data.append(line)
-            
+                    data.append(emoji_pattern.sub(r'', line))
                 # save data
                 data = '\n'.join(data)
                 self.__save_preprocessed_data(self.__preprocessed_data_path, filename, data)
+        return None
+
+
+    def remove_by_regex(self, regex_dict):
+        for i in regex_dict:
+            for filename in sorted(os.listdir(self.__data_path)):
+                with open(os.path.join(self.__data_path, filename), 'r', encoding='utf-8') as f:            
+                    data = []
+                    for line in f:
+                        line = re.sub(regex_dict[i][0], regex_dict[i][1], line)
+
+                        # remove ws at the beginning and the end of sentence
+                        line = ' '.join([word.strip() for word in line.split()])
+                        # if len line < 7, ignore it
+                        if len(line.split()) < 7:
+                            continue
+                        else:
+                            data.append(line)
+                    # save data
+                    data = '\n'.join(data)
+                    self.__save_preprocessed_data(self.__preprocessed_data_path, filename, data)
+            self.set_data_path(self.get_preprocessed_data_path())
+        return None
+
+
+    
 
 
 def en_preprocessing() -> None:
@@ -149,21 +166,23 @@ def en_preprocessing() -> None:
         preprocessed_data_dir = metadata["preprocessed_data_dir_" + flag][0]
         text_preprocessor.set_data_path(data_dir + '/' + category)
         text_preprocessor.set_preprocessed_data_path(preprocessed_data_dir + '/' + category)
+        print(text_preprocessor.get_data_path())
 
         # remove preprocessed data dir if it exists
         if category in os.listdir(preprocessed_data_dir):
             shutil.rmtree(path=preprocessed_data_dir + '/' + category)
         os.mkdir(path=preprocessed_data_dir + '/' + category, mode=0o777)
 
-        # perform splitting
         text_preprocessor.split_into_sentence()
-
-        # eliminate contraction
         text_preprocessor.eliminate_contraction()
+        text_preprocessor.remove_emoji()
 
-        # remove punctuation marks
-        text_preprocessor.remove_non_alphabet_chars()
-    
+        regex_dict = {0: [r"[~!@#$%\^&\*()\_,./<>\?;:\"\[\]\{\}\\\|“”\u2122\u00A90-9]*", ""],  # punctuation_marks_and_numeral
+                     1: [r"[-–]", " "], # hyphen & dash
+                     2: [r"[\u4E00-\u9FFF]", " "], # Chinese hieroglyphs
+                     3: [r"[\u1D00-\u1D7F\u1D80-\u1DBF\u2070-\u209F\u0300-\u036F\u0255\u01D4]", ""]
+                     }   
+        text_preprocessor.remove_by_regex(regex_dict)
         
 
 

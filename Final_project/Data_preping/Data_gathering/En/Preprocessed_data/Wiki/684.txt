@@ -1,57 +1,30 @@
 Low Alemannic German German Niederalemannisch is a branch of Alemannic German which is part of Upper German Its varieties are only partly intelligible to non Alemannic speakers
-Baden dialects north of Markgr flerland
 Alsatian spoken in Alsace in some villages of the Phalsbourg county in Lorraine and by some Amish in Indiana
 Low Alemannic dialects in the Black Forest
 Colonia Tovar dialect VenezuelaThe feature that distinguishes Low Alemannic from High Alemannic is the retention of Germanic k for instance kalt 'cold' vs High Alemannic chalt
 The feature that distinguishes Low Alemannic from Swabian is the retention of the Middle High German monophthongs for instance Huus 'house' vs Swabian Hous or Ziit 'time' vs Swabian Zejt
 All of the below is specific to the dialects spoken near Freiburg im Breisgau
 Are as in Standard German with the following notes
-kh is an aspirated k
-ng is a velar nasal
-ngg is a velar nasal followed by a velar plosive
-ph is an aspirated p
-th is an aspirated t
-z represents dz as opposed to Standard German ts Definite Article
-Class I Plural Singular e g ber ber
-Class II Plural Singular Umlaut e g Baum Baim Vader V der
-Class IIIa Plural Singular e e g Man Mane Ags Agse
-Class IIIb Plural Singular e e g Frosch Fresche
-Class IVa Plural Singular er e g Lyyb Lyyber Sch g Sch ger
-Class IVb Plural Singular er e g Wald W lder Blad Bleder
-Class V No Plural e g Chees Zem nd
-Class VI No Singular Plural Only e g Bilger F rine Diminutives
-Standard ending is li e g Aimer Aimerli
-If the word ends in l then the ending is eli e g D l D leli
-If the word ends in el then the ending is i e g Degel Degeli
-If the word ends in e remove the e and add li e g B re B rli
-The rules for this can be quite complex and depend on the region Sometimes diminutives require umlaut other times not Weak Declension
-Standard ending er e g f in f iner Superlative
-Standard ending e schd e g f in f inschd Irregular
-Some monosyllabic verbs do not have this ending e g ch d e goo gsch haa loo nee s schdoo schlaa syy zie etc Participle
-The prefix for g or ge
-Before b d g bf dsch and z is merged into the word and not visible e g broochd glaubd etc Suffix
-Strong Verbs end in e e g g se glofe
-Weak Verbs end in d or ed e g b zd gchaufd Types
-Infinitive and Present Sg y i ai Participle i
-y i e g abwyyse abgwiise
-i i e g verz ie verziie
-ai i e g schaide gschiide
-Infinitive and Present Sg ie u au i i Participle o u e
-ie o e g biede bode
-u o e g sufe gsofe
-au o e g laufe glofe
-i u e g r ie gr ue
-ie e e g riefe gr efe
-i o e g wiige gwooge
-Infinitive and Present Sg i Participle
-i u e g binde b nde
-Infinitive e Present i Participle o u
-i o e g br che broche
-i u e g h lfe gh lfe
-e i o e g verd rbe verdoorbe
-e i e g schmelze gschm lze
-Infinitive i Present i Participle
-i e g se g se
-i i e g bide b de
+ngg is a velar nasal followed by a velar plosive ŋɡ
+z represents dz as opposed to Standard German tsDefinite Article
+Class I Plural = Singular eg Ääber → Ääber
+Class II Plural = Singular + Umlaut eg Baum → Baim Vader → Väder
+Class IIIa Plural = Singular + e eg Man → Mane Ags → Agse
+Class IIIb Plural = Singular + e eg Frosch → Fresche
+Class IVa Plural = Singular + er eg Lyyb → Lyyber Schùg → Schùger
+Class IVb Plural = Singular + er eg Wald → Wälder Blad → Bleder
+Class V No Plural eg Chees Zemänd
+Class VI No Singular Plural Only eg Bilger FèèrineDiminutives
+Standard ending is li eg Aimer → Aimerli
+If the word ends in l then the ending is eli eg Dääl → Dääleli
+If the word ends in el then the ending is i eg Degel → Degeli
+If the word ends in e remove the e and add li eg Bèère → Bèèrli
+The rules for this can be quite complex and depend on the region Sometimes diminutives require umlaut other times notWeak Declension
+Some monosyllabic verbs do not have this ending eg chùù döe goo gschää haa loo nee sää schdoo schlaa syy zie etc Participle
+Before b d g bf dsch and z is merged into the word and not visible eg broochd glaubd etc Suffix
+Strong Verbs end in e eg gäse glofe
+Weak Verbs end in d or ed eg bùzd gchaufd Types
+Infinitive and Present Sg yèiai Participle i
+Infinitive and Present Sg ieuauèii Participle oöuöe
+Infinitive and Present Sg i Participle ù
 Infinitive Vowel is the same as the Participle
-e g bache bache fale gfale

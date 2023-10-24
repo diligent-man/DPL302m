@@ -1,292 +1,182 @@
 The calculus of variations is a field of mathematical analysis that uses variations which are small changes in functions
 and functionals to find maxima and minima of functionals mappings from a set of functions to the real numbers Functionals are often expressed as definite integrals involving functions and their derivatives Functions that maximize or minimize functionals may be found using the Euler Lagrange equation of the calculus of variations
-A simple example of such a problem is to find the curve of shortest length connecting two points If there are no constraints the solution is a straight line between the points However if the curve is constrained to lie on a surface in space then the solution is less obvious and possibly many solutions may exist Such solutions are known as geodesics A related problem is posed by Fermat's principle light follows the path of shortest optical length connecting two points which depends upon the material of the medium One corresponding concept in mechanics is the principle of least stationary action
+A simple example of such a problem is to find the curve of shortest length connecting two points If there are no constraints the solution is a straight line between the points However if the curve is constrained to lie on a surface in space then the solution is less obvious and possibly many solutions may exist Such solutions are known as geodesics A related problem is posed by Fermat's principle light follows the path of shortest optical length connecting two points which depends upon the material of the medium One corresponding concept in mechanics is the principle of leaststationary action
 Many important problems involve functions of several variables Solutions of boundary value problems for the Laplace equation satisfy the Dirichlet's principle Plateau's problem requires finding a surface of minimal area that spans a given contour in space a solution can often be found by dipping a frame in a solution of soap suds Although such experiments are relatively easy to perform their mathematical interpretation is far from simple there may be more than one locally minimizing surface and they may have non trivial topology
-The calculus of variations may be said to begin with Newton's minimal resistance problem in followed by the brachistochrone curve problem raised by Johann Bernoulli It immediately occupied the attention of Jakob Bernoulli and the Marquis de l'H pital but Leonhard Euler first elaborated the subject beginning in Lagrange was influenced by Euler's work to contribute significantly to the theory After Euler saw the work of the year old Lagrange Euler dropped his own partly geometric approach in favor of Lagrange's purely analytic approach and renamed the subject the calculus of variations in his lecture Elementa Calculi Variationum
-Legendre laid down a method not entirely satisfactory for the discrimination of maxima and minima Isaac Newton and Gottfried Leibniz also gave some early attention to the subject To this discrimination Vincenzo Brunacci Carl Friedrich Gauss Sim on Poisson Mikhail Ostrogradsky and Carl Jacobi have been among the contributors An important general work is that of Sarrus which was condensed and improved by Cauchy Other valuable treatises and memoirs have been written by Strauch Jellett Otto Hesse Alfred Clebsch and Lewis Buffett Carll but perhaps the most important work of the century is that of Weierstrass His celebrated course on the theory is epoch making and it may be asserted that he was the first to place it on a firm and unquestionable foundation The th and the rd Hilbert problem published in encouraged further development
+The calculus of variations may be said to begin with Newton's minimal resistance problem in followed by the brachistochrone curve problem raised by Johann Bernoulli It immediately occupied the attention of Jakob Bernoulli and the Marquis de l'Hôpital but Leonhard Euler first elaborated the subject beginning in Lagrange was influenced by Euler's work to contribute significantly to the theory After Euler saw the work of the year old Lagrange Euler dropped his own partly geometric approach in favor of Lagrange's purely analytic approach and renamed the subject the calculus of variations in his lecture Elementa Calculi Variationum
+Legendre laid down a method not entirely satisfactory for the discrimination of maxima and minima Isaac Newton and Gottfried Leibniz also gave some early attention to the subject To this discrimination Vincenzo Brunacci Carl Friedrich Gauss Siméon Poisson Mikhail Ostrogradsky and Carl Jacobi have been among the contributors An important general work is that of Sarrus which was condensed and improved by Cauchy Other valuable treatises and memoirs have been written by Strauch Jellett Otto Hesse Alfred Clebsch and Lewis Buffett Carll but perhaps the most important work of the century is that of Weierstrass His celebrated course on the theory is epoch making and it may be asserted that he was the first to place it on a firm and unquestionable foundation The th and the rd Hilbert problem published in encouraged further development
 In the th century David Hilbert Oskar Bolza Gilbert Ames Bliss Emmy Noether Leonida Tonelli Henri Lebesgue and Jacques Hadamard among others made significant contributions Marston Morse applied calculus of variations in what is now called Morse theory Lev Pontryagin Ralph Rockafellar and F H Clarke developed new mathematical tools for the calculus of variations in optimal control theory The dynamic programming of Richard Bellman is an alternative to the calculus of variations
 The calculus of variations is concerned with the maxima or minima collectively called extrema of functionals A functional maps functions to scalars so functionals have been described as functions of functions Functionals have extrema with respect to the elements
 of a given function space defined over a given domain A functional
 is said to have an extremum at the function
-displaystyle Delta J J y J f
-has the same sign for all
-in an arbitrarily small neighborhood of
 is called an extremal function or extremal The extremum
-is called a local maximum if
 everywhere in an arbitrarily small neighborhood of
-and a local minimum if
 there For a function space of continuous functions extrema of corresponding functionals are called strong extrema or weak extrema depending on whether the first derivatives of the continuous functions are respectively all continuous or not
 Both strong and weak extrema of functionals are for a space of continuous functions but strong extrema have the additional requirement that the first derivatives of the functions in the space be continuous Thus a strong extremum is also a weak extremum but the converse may not hold Finding strong extrema is more difficult than finding weak extrema An example of a necessary condition that is used for finding weak extrema is the Euler Lagrange equation
-Finding the extrema of functionals is similar to finding the maxima and minima of functions The maxima and minima of a function may be located by finding the points where its derivative vanishes i e is equal to zero The extrema of functionals may be obtained by finding functions for which the functional derivative is equal to zero This leads to solving the associated Euler Lagrange equation
-displaystyle J y int x x L left x y x y' x right dx
-displaystyle y' x frac dy dx
-displaystyle L left x y x y' x right
+Finding the extrema of functionals is similar to finding the maxima and minima of functions The maxima and minima of a function may be located by finding the points where its derivative vanishes ie is equal to zero The extrema of functionals may be obtained by finding functions for which the functional derivative is equal to zero This leads to solving the associated Euler Lagrange equation
 is twice continuously differentiable with respect to its arguments
-attains a local minimum at
 is an arbitrary function that has at least one derivative and vanishes at the endpoints
-displaystyle J f leq J f varepsilon eta
 is called the variation of the function
-the result is a function of
-displaystyle Phi varepsilon J f varepsilon eta
-displaystyle Phi ' equiv left frac d Phi d varepsilon right varepsilon int x x left frac dL d varepsilon right varepsilon dx
-Taking the total derivative of
-displaystyle L left x y y' right
-displaystyle y f varepsilon eta
-displaystyle y' f' varepsilon eta '
-are considered as functions of
-displaystyle frac dL d varepsilon frac partial L partial y frac dy d varepsilon frac partial L partial y' frac dy' d varepsilon
-displaystyle frac dy d varepsilon eta
-displaystyle frac dy' d varepsilon eta '
-displaystyle frac dL d varepsilon frac partial L partial y eta frac partial L partial y' eta '
-displaystyle begin aligned int x x left frac dL d varepsilon right varepsilon dx int x x left frac partial L partial f eta frac partial L partial f' eta ' right dx int x x frac partial L partial f eta dx left frac partial L partial f' eta right x x int x x eta frac d dx frac partial L partial f' dx int x x left frac partial L partial f eta eta frac d dx frac partial L partial f' right dx end aligned
-displaystyle L left x y y' right to L left x f f' right
+displaystyle Phi 'equiv leftfrac dPhi dvarepsilon rightvarepsilon ==int xxleftfrac dLdvarepsilon rightvarepsilon =dx=
+displaystyle frac dLdvarepsilon =frac partial Lpartial yfrac dydvarepsilon +frac partial Lpartial y'frac dy'dvarepsilon
+displaystyle frac dLdvarepsilon =frac partial Lpartial yeta +frac partial Lpartial y'eta '
+displaystyle beginalignedint xxleftfrac dLdvarepsilon rightvarepsilon =dx=int xxleftfrac partial Lpartial feta +frac partial Lpartial f'eta 'rightdx=int xxfrac partial Lpartial feta dx+leftfrac partial Lpartial f'eta rightxx int xxeta frac ddxfrac partial Lpartial f'dx=int xxleftfrac partial Lpartial feta eta frac ddxfrac partial Lpartial f'rightdxendaligned
 and we have used integration by parts on the second term The second term on the second line vanishes because
 by definition Also as previously mentioned the left side of the equation is zero so that
-displaystyle int x x eta x left frac partial L partial f frac d dx frac partial L partial f' right dx
-According to the fundamental lemma of calculus of variations the part of the integrand in parentheses is zero i e
-displaystyle frac partial L partial f frac d dx frac partial L partial f'
+displaystyle int xxeta xleftfrac partial Lpartial f frac ddxfrac partial Lpartial f'rightdx=
+According to the fundamental lemma of calculus of variations the part of the integrand in parentheses is zero ie
+displaystyle frac partial Lpartial f frac ddxfrac partial Lpartial f'=
 which is called the Euler Lagrange equation The left hand side of this equation is called the functional derivative of
-displaystyle delta J delta f x
 In general this gives a second order ordinary differential equation which can be solved to obtain the extremal function
 The Euler Lagrange equation is a necessary but not sufficient condition for an extremum
 A sufficient condition for a minimum is given in the section Variations and sufficient condition for a minimum
 In order to illustrate this process consider the problem of finding the extremal function
 which is the shortest curve that connects two points
-displaystyle left x y right
-displaystyle left x y right
 The arc length of the curve is given by
-displaystyle A y int x x sqrt y' x dx
-displaystyle y' x frac dy dx y f x y f x
 Note that assuming y is a function of x loses generality ideally both should be a function of some other parameter This approach is good solely for instructive purposes
 The Euler Lagrange equation will now be used to find the extremal function
-displaystyle frac partial L partial f frac d dx frac partial L partial f'
-displaystyle L sqrt f' x
-does not appear explicitly in
+displaystyle frac partial Lpartial f frac ddxfrac partial Lpartial f'=
 the first term in the Euler Lagrange equation vanishes for all
-displaystyle frac d dx frac partial L partial f'
-displaystyle frac d dx frac f' x sqrt f' x
-displaystyle frac f' x sqrt f' x c
-displaystyle frac f' x f' x c
-displaystyle f' x frac c c
+displaystyle frac ddx frac f'xsqrt +f'x =
 is a constant and therefore that the shortest curve that connects two points
-displaystyle left x y right
-displaystyle left x y right
-displaystyle f x mx b qquad text with m frac y y x x quad text and quad b frac x y x y x x
+displaystyle fx=mx+bqquad textwith m=frac y yx xquad textandquad b=frac xy xyx x
 and we have thus found the extremal function
 is a minimum The equation for a straight line is
 In other words the shortest distance between two points is a straight line
 In physics problems it may be the case that
-displaystyle frac partial L partial x
 meaning the integrand is a function of
 does not appear separately In that case the Euler Lagrange equation can be simplified to the Beltrami identity
-displaystyle L f' frac partial L partial f' C
 is a constant The left hand side is the Legendre transformation of
 The intuition behind this result is that if the variable
-is actually time then the statement
-displaystyle frac partial L partial x
 implies that the Lagrangian is time independent By Noether's theorem there is an associated conserved quantity In this case this quantity is the Hamiltonian the Legendre transform of the Lagrangian which often coincides with the energy of the system This is minus the constant in Beltrami's identity
-depends on higher derivatives of
-displaystyle S int a b f x y x y' x dots y n x dx
-must satisfy the Euler Poisson equation
-displaystyle frac partial f partial y frac d dx left frac partial f partial y' right dots n frac d n dx n left frac partial f partial y n right
+displaystyle frac partial fpartial y frac ddxleftfrac partial fpartial y'right+dots + nfrac dndxnleftfrac partial fpartial ynright=
 The discussion thus far has assumed that extremal functions possess two continuous derivatives although the existence of the integral
 requires only first derivatives of trial functions The condition that the first variation vanishes at an extremal may be regarded as a weak form of the Euler Lagrange equation The theorem of Du Bois Reymond asserts that this weak form implies the strong form If
 has continuous first and second derivatives with respect to all of its arguments and if
-displaystyle frac partial L partial f' neq
 has two continuous derivatives and it satisfies the Euler Lagrange equation
 Hilbert was the first to give good conditions for the Euler Lagrange equations to give a stationary solution Within a convex area and a positive thrice differentiable Lagrangian the solutions are composed of a countable collection of sections that either go along the boundary or satisfy the Euler Lagrange equations in the interior
-However Lavrentiev in showed that there are circumstances where there is no optimum solution but one can be approached arbitrarily closely by increasing numbers of sections The Lavrentiev Phenomenon identifies a difference in the infimum of a minimization problem across different classes of admissible functions For instance the following problem presented by Mani in
-displaystyle L x int x t x'
-displaystyle A x in W x x
-displaystyle x t t frac
+However Lavrentiev in showed that there are circumstances where there is no optimum solution but one can be approached arbitrarily closely by increasing numbers of sections The Lavrentiev Phenomenon identifies a difference in the infimum of a minimization problem across different classes of admissible functions For instance the following problem presented by Manià in
 minimizes the functional but we find any function
-displaystyle x in W infty
 gives a value bounded away from the infimum
 Examples in one dimension are traditionally manifested across
 but Ball and Mizel procured the first functional that displayed Lavrentiev's Phenomenon across
-displaystyle leq p q infty
 There are several results that gives criteria under which the phenomenon does not occur for instance 'standard growth' a Lagrangian with no dependence on the second variable or an approximating sequence satisfying Cesari's Condition D but results are often particular and applicable to a small class of functionals
 Connected with the Lavrentiev Phenomenon is the repulsion property any functional displaying Lavrentiev's Phenomenon will display the weak repulsion property
 denotes the displacement of a membrane above the domain
 plane then its potential energy is proportional to its surface area
-displaystyle U varphi iint D sqrt nabla varphi cdot nabla varphi dx dy
+displaystyle Uvarphi =iint Dsqrt +nabla varphi cdot nabla varphi dxdy
 Plateau's problem consists of finding a function that minimizes the surface area while assuming prescribed values on the boundary of
 the solutions are called minimal surfaces The Euler Lagrange equation for this problem is nonlinear
-displaystyle varphi xx varphi y varphi yy varphi x varphi x varphi y varphi xy
+displaystyle varphi xx+varphi y+varphi yy+varphi x varphi xvarphi yvarphi xy=
 It is often sufficient to consider only small displacements of the membrane whose energy difference from no displacement is approximated by
-displaystyle V varphi frac iint D nabla varphi cdot nabla varphi dx dy
+displaystyle Vvarphi =frac iint Dnabla varphi cdot nabla varphi dxdy
 is to be minimized among all trial functions
 that assume prescribed values on the boundary of
-is the minimizing function and
 is an arbitrary smooth function that vanishes on the boundary of
-then the first variation of
-displaystyle V u varepsilon v
-displaystyle left frac d d varepsilon V u varepsilon v right varepsilon iint D nabla u cdot nabla v dx dy
+displaystyle leftfrac ddvarepsilon Vu+varepsilon vrightvarepsilon ==iint Dnabla ucdot nabla vdxdy=
 Provided that u has two derivatives we may apply the divergence theorem to obtain
-displaystyle iint D nabla cdot v nabla u dx dy iint D nabla u cdot nabla v v nabla cdot nabla u dx dy int C v frac partial u partial n ds
-displaystyle partial u partial n
-is the normal derivative of
+displaystyle iint Dnabla cdot vnabla udxdy=iint Dnabla ucdot nabla v+vnabla cdot nabla udxdy=int Cvfrac partial upartial nds
 and the first variation vanishes the result is
-displaystyle iint D v nabla cdot nabla u dx dy
 for all smooth functions v that vanish on the boundary of
 The proof for the case of one dimensional integrals may be adapted to this case to show that
-displaystyle nabla cdot nabla u
 The difficulty with this reasoning is the assumption that the minimizing function u must have two derivatives Riemann argued that the existence of a smooth minimizing function was assured by the connection with the physical problem membranes do indeed assume configurations with minimal potential energy Riemann named this idea the Dirichlet principle in honor of his teacher Peter Gustav Lejeune Dirichlet However Weierstrass gave an example of a variational problem with no solution minimize
-displaystyle W varphi int x varphi ' dx
-can be made arbitrarily small by choosing piecewise linear functions that make a transition between and in a small neighborhood of the origin However there is no function that makes
+can be made arbitrarily small by choosing piecewise linear functions that make a transition between − and in a small neighborhood of the origin However there is no function that makes
 Eventually it was shown that Dirichlet's principle is valid but it requires a sophisticated application of the regularity theory for elliptic partial differential equations see Jost and Li Jost
 A more general expression for the potential energy of a membrane is
-displaystyle V varphi iint D left frac nabla varphi cdot nabla varphi f x y varphi right dx dy int C left frac sigma s varphi g s varphi right ds
+displaystyle Vvarphi =iint Dleftfrac nabla varphi cdot nabla varphi +fxyvarphi rightdxdy+int Cleftfrac sigma svarphi +gsvarphi rightds
 This corresponds to an external force density
-and elastic forces with modulus
 The function that minimizes the potential energy with no restriction on its boundary values will be denoted by
 are continuous regularity theory implies that the minimizing function
 will have two derivatives In taking the first variation no boundary condition need be imposed on the increment
-displaystyle V u varepsilon v
-displaystyle iint D left nabla u cdot nabla v fv right dx dy int C left sigma uv gv right ds
+displaystyle iint Dleftnabla ucdot nabla v+fvrightdxdy+int Cleftsigma uv+gvrightds=
 If we apply the divergence theorem the result is
-displaystyle iint D left v nabla cdot nabla u vf right dx dy int C v left frac partial u partial n sigma u g right ds
+displaystyle iint Dleft vnabla cdot nabla u+vfrightdxdy+int Cvleftfrac partial upartial n+sigma u+grightds=
 the boundary integral vanishes and we conclude as before that
-displaystyle nabla cdot nabla u f
 to assume arbitrary boundary values this implies that
-must satisfy the boundary condition
-displaystyle frac partial u partial n sigma u g
 This boundary condition is a consequence of the minimizing property of
 it is not imposed beforehand Such conditions are called natural boundary conditions
 The preceding reasoning is not valid if
 In such a case we could allow a trial function
 is a constant For such a trial function
-displaystyle V c c left iint D f dx dy int C g ds right
 can assume any value unless the quantity inside the brackets vanishes Therefore the variational problem is meaningless unless
-displaystyle iint D f dx dy int C g ds
 This condition implies that net external forces on the system are in equilibrium If these forces are in equilibrium then the variational problem has a solution but it is not unique since an arbitrary constant may be added Further details and examples are in Courant and Hilbert
 Both one dimensional and multi dimensional eigenvalue problems can be formulated as variational problems
 The Sturm Liouville eigenvalue problem involves a general quadratic form
-displaystyle Q varphi int x x left p x varphi ' x q x varphi x right dx
 is restricted to functions that satisfy the boundary conditions
-displaystyle varphi x quad varphi x
-displaystyle R varphi int x x r x varphi x dx
 are required to be everywhere positive and bounded away from zero The primary variational problem is to minimize the ratio
 satisfying the endpoint conditions It is shown below that the Euler Lagrange equation for the minimizing
-displaystyle pu' ' qu lambda ru
-displaystyle lambda frac Q u R u
 It can be shown see Gelfand and Fomin that the minimizing
 has two derivatives and satisfies the Euler Lagrange equation The associated
 it is the lowest eigenvalue for this equation and boundary conditions The associated minimizing function will be denoted by
 This variational characterization of eigenvalues leads to the Rayleigh Ritz method choose an approximating
 as a linear combination of basis functions for example trigonometric functions and carry out a finite dimensional minimization among such linear combinations This method is often surprisingly accurate
 The next smallest eigenvalue and eigenfunction can be obtained by minimizing
-displaystyle int x x r x u x varphi x dx
 This procedure can be extended to obtain the complete sequence of eigenvalues and eigenfunctions for the problem
 The variational problem also applies to more general boundary conditions Instead of requiring that
 vanish at the endpoints we may not impose any condition at the endpoints and set
-displaystyle Q varphi int x x left p x varphi ' x q x varphi x right dx a varphi x a varphi x
-are arbitrary If we set
-displaystyle varphi u varepsilon v
-the first variation for the ratio
-displaystyle V frac R u left int x x left p x u' x v' x q x u x v x lambda r x u x v x right dx a u x v x a u x v x right
-where is given by the ratio
-displaystyle Q u R u
-displaystyle frac R u V int x x v x left pu' ' qu lambda ru right dx v x p x u' x a u x v x p x u' x a u x
-If we first require that
+displaystyle Qvarphi =int xxleftpxvarphi 'x+qxvarphi xrightdx+avarphi x+avarphi x
+where λ is given by the ratio
 vanish at the endpoints the first variation will vanish for all such
-displaystyle pu' ' qu lambda ru quad hbox for quad x x x
 satisfies this condition then the first variation will vanish for arbitrary
-displaystyle p x u' x a u x quad hbox and quad p x u' x a u x
 These latter conditions are the natural boundary conditions for this problem since they are not imposed on trial functions for the minimization but are instead a consequence of the minimization
 Eigenvalue problems in higher dimensions are defined in analogy with the one dimensional case For example given a domain
-in three dimensions we may define
-displaystyle Q varphi iiint D p X nabla varphi cdot nabla varphi q X varphi dx dy dz iint B sigma S varphi dS
-displaystyle R varphi iiint D r X varphi X dx dy dz
+displaystyle Qvarphi =iiint DpXnabla varphi cdot nabla varphi +qXvarphi dxdydz+iint Bsigma Svarphi dS
 be the function that minimizes the quotient
-displaystyle Q varphi R varphi
 with no condition prescribed on the boundary
-The Euler Lagrange equation satisfied by
-displaystyle nabla cdot p X nabla u q x u lambda r x u
-displaystyle lambda frac Q u R u
 must also satisfy the natural boundary condition
-displaystyle p S frac partial u partial n sigma S u
 This result depends upon the regularity theory for elliptic partial differential equations see Jost and Li Jost for details Many extensions including completeness results asymptotic properties of the eigenvalues and results concerning the nodes of the eigenfunctions are in Courant and Hilbert
 Fermat's principle states that light takes a path that locally minimizes the optical length between its endpoints If the
 coordinate is chosen as the parameter along the path and
 along the path then the optical length is given by
-displaystyle A f int x x n x f x sqrt f' x dx
-displaystyle f x f x varepsilon f x
-then the first variation of
-displaystyle delta A f f int x x left frac n x f f ' x f ' x sqrt f ' x n y x f f sqrt f ' x right dx
+displaystyle delta Aff=int xxleftfrac nxff'xf'xsqrt +f'x+nyxffsqrt +f'xrightdx
 After integration by parts of the first term within brackets we obtain the Euler Lagrange equation
-displaystyle frac d dx left frac n x f f ' sqrt f ' right n y x f sqrt f ' x
 The light rays may be determined by integrating this equation This formalism is used in the context of Lagrangian optics and Hamiltonian optics
 There is a discontinuity of the refractive index when light enters or leaves a lens Let
-displaystyle n x y begin cases n text if quad x n text if quad x end cases
 are constants Then the Euler Lagrange equation holds as before in the region where
 and in fact the path is a straight line there since the refractive index is constant At the
 may be discontinuous After integration by parts in the separate regions and using the Euler Lagrange equations the first variation takes the form
-displaystyle delta A f f f left n frac f ' sqrt f ' n frac f ' sqrt f ' right
+displaystyle delta Aff=fleftn frac f' sqrt +f' n+frac f'+sqrt +f'+right
 is the sine of angle of the incident ray with the
-axis and the factor multiplying
 is the sine of angle of the refracted ray with the
 axis Snell's law for refraction requires that these terms be equal As this calculation demonstrates Snell's law is equivalent to vanishing of the first variation of the optical path length
 It is expedient to use vector notation let
-displaystyle X x x x
 be the parametric representation of a curve
 be its tangent vector The optical length of the curve is given by
-displaystyle A C int t t n X sqrt dot X cdot dot X dt
+displaystyle AC=int ttnXsqrt dot Xcdot dot Xdt
 Note that this integral is invariant with respect to changes in the parametric representation of
 The Euler Lagrange equations for a minimizing curve have the symmetric form
-displaystyle frac d dt P sqrt dot X cdot dot X nabla n
-displaystyle P frac n X dot X sqrt dot X cdot dot X
-It follows from the definition that
-displaystyle P cdot P n X
+displaystyle frac ddtP=sqrt dot Xcdot dot Xnabla n
+displaystyle P=frac nXdot Xsqrt dot Xcdot dot X
 Therefore the integral may also be written as
-displaystyle A C int t t P cdot dot X dt
 This form suggests that if we can find a function
-whose gradient is given by
-is given by the difference of
 at the endpoints of the interval of integration Thus the problem of studying the curves that make the integral stationary can be related to the study of the level surfaces of
 In order to find such a function we turn to the wave equation which governs the propagation of light This formalism is used in the context of Lagrangian optics and Hamiltonian optics
 The wave equation for an inhomogeneous medium is
-displaystyle u tt c nabla cdot nabla u
 is the velocity which generally depends upon
 Wave fronts for light are characteristic surfaces for this partial differential equation they satisfy
-displaystyle varphi t c X nabla varphi cdot nabla varphi
+displaystyle varphi t=cXnabla varphi cdot nabla varphi
 We may look for solutions in the form
-displaystyle varphi t X t psi X
-displaystyle nabla psi cdot nabla psi n
+displaystyle nabla psi cdot nabla psi =n
 According to the theory of first order partial differential equations if
-displaystyle frac dP ds n nabla n
 along a system of curves the light rays that are given by
-displaystyle frac dX ds P
 These equations for solution of a first order partial differential equation are identical to the Euler Lagrange equations if we make the identification
-displaystyle frac ds dt frac sqrt dot X cdot dot X n
-We conclude that the function
+displaystyle frac dsdt=frac sqrt dot Xcdot dot Xn
 is the value of the minimizing integral
 as a function of the upper end point That is when a family of minimizing curves is constructed the values of the optical length satisfy the characteristic equation corresponding the wave equation Hence solving the associated partial differential equation of first order is equivalent to finding families of solutions of the variational problem This is the essential content of the Hamilton Jacobi theory which applies to more general variational problems
-In classical mechanics the action
 is defined as the time integral of the Lagrangian
 The Lagrangian is the difference of energies
 is the kinetic energy of a mechanical system and
 its potential energy Hamilton's principle or the action principle states that the motion of a conservative holonomic integrable constraints mechanical system is such that the action integral
-displaystyle S int t t L x dot x t dt
 is stationary with respect to variations in the path
 The Euler Lagrange equations for this system are known as Lagrange's equations
-displaystyle frac d dt frac partial L partial dot x frac partial L partial x
+displaystyle frac ddtfrac partial Lpartial dot x=frac partial Lpartial x
 and they are equivalent to Newton's equations of motion for such systems
-displaystyle p frac partial L partial dot x
-displaystyle T frac m dot x
-displaystyle p m dot x
 Hamiltonian mechanics results if the conjugate momenta are introduced in place of
 by a Legendre transformation of the Lagrangian
-displaystyle H x p t p dot x L x dot x t
 The Hamiltonian is the total energy of the system
 Analogy with Fermat's principle suggests that solutions of Lagrange's equations the particle trajectories may be described in terms of level surfaces of some function of
 This function is a solution of the Hamilton Jacobi equation
-displaystyle frac partial psi partial t H left x frac partial psi partial x t right
+displaystyle frac partial psi partial t+Hleftxfrac partial psi partial xtright=
 Further applications of the calculus of variations include the following
-The derivation of the catenary shape
-Solution to Newton's minimal resistance problem
-Solution to the brachistochrone problem
-Solution to the tautochrone problem
 Finding minimal surfaces and solving Plateau's problem
 Analytical mechanics or reformulations of Newton's laws of motion most notably Lagrangian and Hamiltonian mechanics
 Geometric optics especially Lagrangian and Hamiltonian optics
@@ -294,42 +184,29 @@ Variational method quantum mechanics one way of finding approximations to the lo
 Variational Bayesian methods a family of techniques for approximating intractable integrals arising in Bayesian inference and machine learning
 Variational methods in general relativity a family of techniques using calculus of variations to solve problems in Einstein's general theory of relativity
 Finite element method is a variational method for finding numerical solutions to boundary value problems in differential equations
-Total variation denoising an image processing method for filtering high variance or noisy signals Calculus of variations is concerned with variations of functionals which are small changes in the functional's value due to small changes in the function that is its argument The first variation is defined as the linear part of the change in the functional and the second variation is defined as the quadratic part
-is a functional with the function
+Total variation denoising an image processing method for filtering high variance or noisy signalsCalculus of variations is concerned with variations of functionals which are small changes in the functional's value due to small changes in the function that is its argument The first variation is defined as the linear part of the change in the functional and the second variation is defined as the quadratic part
 as its argument and there is a small change in its argument from
 is a function in the same function space as
 then the corresponding change in the functional is
-displaystyle Delta J h J y h J y
-is said to be differentiable if
-displaystyle Delta J h varphi h varepsilon h
-is the first variation of
-displaystyle delta J h varphi h
 is said to be twice differentiable if
-displaystyle Delta J h varphi h varphi h varepsilon h
 is a linear functional the first variation
-is a quadratic functional and
-is the second variation of
-displaystyle delta J h varphi h
 is said to be strongly positive if
-displaystyle delta J h geq k h
 Using the above definitions especially the definitions of first variation second variation and strongly positive the following sufficient condition for a minimum of a functional can be stated
 Benesova B and Kruzik M Weak Lower Semicontinuity of Integral Functionals and Applications SIAM Review
 Bolza O Lectures on the Calculus of Variations Chelsea Publishing Company available on Digital Mathematics library nd edition republished in paperback in ISBN
 Cassel Kevin W Variational Methods with Applications in Science and Engineering Cambridge University Press
-Clegg J C Calculus of Variations Interscience Publishers Inc
+Clegg JC Calculus of Variations Interscience Publishers Inc
 Courant R Dirichlet's principle conformal mapping and minimal surfaces Interscience
 Dacorogna Bernard Introduction Introduction to the Calculus of Variations rd edition World Scientific Publishing ISBN
-Elsgolc L E Calculus of Variations Pergamon Press Ltd
-Forsyth A R Calculus of Variations Dover
+Elsgolc LE Calculus of Variations Pergamon Press Ltd
 Fox Charles An Introduction to the Calculus of Variations Dover Publ
 Giaquinta Mariano Hildebrandt Stefan Calculus of Variations I and II Springer Verlag ISBN and ISBN
 Jost J and X Li Jost Calculus of Variations Cambridge University Press
-Lebedev L P and Cloud M J The Calculus of Variations and Functional Analysis with Optimal Control and Applications in Mechanics World Scientific pages
+Lebedev LP and Cloud MJ The Calculus of Variations and Functional Analysis with Optimal Control and Applications in Mechanics World Scientific pages
 Logan J David Applied Mathematics rd edition Wiley Interscience
 Pike Ralph W Chapter Calculus of Variations Optimization for Engineering Systems Louisiana State University Archived from the original on
 Roubicek T Calculus of variations Chap in Mathematical Tools for Physicists Ed M Grinfeld J Wiley Weinheim ISBN pp
 Sagan Hans Introduction to the Calculus of Variations Dover
-Weinstock Robert Calculus of Variations with Applications to Physics and Engineering Dover reprint of ed Variational calculus Encyclopedia of Mathematics
-Calculus of variations Example problems
+Weinstock Robert Calculus of Variations with Applications to Physics and Engineering Dover reprint of edVariational calculus Encyclopedia of Mathematics
 Mathematics Calculus of Variations and Integral Equations Lectures on YouTube
 Selected papers on Geodesic Fields Part I Part II

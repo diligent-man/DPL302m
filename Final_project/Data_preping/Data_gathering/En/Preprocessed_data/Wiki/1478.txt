@@ -1,11 +1,9 @@
-Profitability index PI also known as profit investment ratio PIR and value investment ratio VIR is the ratio of payoff to investment of a proposed project It is a useful tool for ranking projects because it allows you to quantify the amount of value created per unit of investment Under capital rationing PI method is suitable because PI method indicates relative figure i e ratio instead of absolute figure
-The ratio is calculated as follows
-PV of future cash flows
-displaystyle text Profitability index frac text PV of future cash flows text Initial investment frac text NPV text Initial investment
+Profitability index PI also known as profit investment ratio PIR and value investment ratio VIR is the ratio of payoff to investment of a proposed project It is a useful tool for ranking projects because it allows you to quantify the amount of value created per unit of investment Under capital rationing PI method is suitable because PI method indicates relative figure ie ratio instead of absolute figure
+displaystyle textProfitability index=frac textPV of future cash flowstextInitial investment=+frac textNPVtextInitial investment
 Assuming that the cash flow calculated does not include the investment made in the project a profitability index of indicates break even Any value lower than one would indicate that the project's present value PV is less than the initial investment As the value of the profitability index increases so does the financial attractiveness of the proposed project
 The PI is similar to the Return on Investment ROI except that the net profit is discounted
 We assume an investment opportunity with the following characteristics
-Life of the Machine YearsCFAT Year CFAT
+Life of the Machine = YearsCFAT Year CFAT
 Calculate Net present value at and PI
-Net present value references Tp Tladi
+PI = = ⇒ Accept the project
 Use explained in the business book Pursuing the Competitive Edge Hayes Pisano Upton and Wheelwright Wiley pg

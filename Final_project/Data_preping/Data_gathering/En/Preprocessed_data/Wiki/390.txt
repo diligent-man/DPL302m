@@ -11,9 +11,7 @@ In terms of method there is a disagreement in whether it is possible to conduct 
 The American Anthropological Association offers an online guide for students using digital technology to store and share data Data can be uploaded to digital databases to be stored shared and interpreted Text and numerical analysis software can help produce metadata while a codebook may help organize data
 Online fieldwork offers new ethical challenges According to the American Anthropological Association's ethics guidelines anthropologists researching a community must make sure that all members of that community know they are being studied and have access to data the anthropologist produces However many online communities' interactions are publicly available for anyone to read and may be preserved online for years Digital anthropologists debate the extent to which lurking in online communities and sifting through public archives is ethical
 The Association also asserts that anthropologists' ability to collect and store data at all is a privilege and researchers have an ethical duty to store digital data responsibly This means protecting the identity of participants sharing data with other anthropologists and making backup copies of all data
-Mike WeschSociology of the Internet
-List of important publications in anthropology
-Digital sociologyBudka Philipp and Manfred Kremser CyberAnthropology Anthropology of CyberCulture in Contemporary issues in socio cultural anthropology Perspectives and research activities from Austria edited by S Khittel B Plankensteiner and M Six Hohenbalken pp Vienna Loecker
+Digital sociologyBudka Philipp and Manfred Kremser CyberAnthropology—Anthropology of CyberCulture in Contemporary issues in socio cultural anthropology Perspectives and research activities from Austria edited by S Khittel B Plankensteiner and M Six Hohenbalken pp Vienna Loecker
 Escobar Arturo Welcome to Cyberia notes on the anthropology of cyberculture Current Anthropology
 Fabian Johannes Virtual archives and ethnographic writing Commentary as a new genre Current Anthropology
 Gershon Ilana The Break up Disconnecting over new media Cornell University Press
@@ -21,8 +19,8 @@ Ginsburg Faye Rethinking the Digital Age In The Media and Social Theory Edited b
 Hine Christine Virtual ethnography London Thousand Oaks New Delhi Sage
 Horst Heather and Daniel Miller Digital Anthropology London and New York Berg
 Jarzombek Mark Digital Stockholm Syndrome in the Post Ontological Age Minneapolis University of Minnesota Press
-Kremser Manfred CyberAnthropology und die neuen R ume des Wissens Mitteilungen der Anthropologischen Gesellschaft in Wien
-Ito Mizuko Sonja Baumer Matteo Bittanti danah boyd Rachel Cody Rebecca Herr Stephenson Heather A Horst Patricia G Lange Dilan Mahendran Katynka Z Martinez C J Pascoe Dan Perkel Laura Robinson Christo Sims and Lisa Tripp Hanging Out Messing Around and Geeking Out Kids Living and Learning with New Media Cambridge MIT Press
+Kremser Manfred CyberAnthropology und die neuen Räume des Wissens Mitteilungen der Anthropologischen Gesellschaft in Wien
+Ito Mizuko Sonja Baumer Matteo Bittanti danah boyd Rachel Cody Rebecca Herr Stephenson Heather A Horst Patricia G Lange Dilan Mahendran Katynka Z Martinez CJ Pascoe Dan Perkel Laura Robinson Christo Sims and Lisa Tripp Hanging Out Messing Around and Geeking Out Kids Living and Learning with New Media Cambridge MIT Press
 Paccagnella Luciano Getting the seats of your pants dirty Strategies for ethnographic research on virtual communities Journal of Computer Mediated Communication
 Sugita Shigeharu Computers in ethnological studies As a tool and an object in Toward a computer ethnology Proceedings of the th International Symposium at the Japan National Museum of Ethnology edited by Joseph Raben Shigeharu Sugita and Masatoshi Kubo pp Osaka National Museum of Ethnology Senri Ethnological Studies
 Wittel Andreas Ethnography on the move From field to net to Internet Forum Qualitative Sozialforschung Forum Qualitative Social Research Computer Mediated Anthropology

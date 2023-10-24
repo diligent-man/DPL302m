@@ -3,9 +3,9 @@ Find the shortest path between two points in a plane The variables in this probl
 Given two cities in a country with many hills and valleys find the shortest road going from one city to the other This problem is a generalization of the above and the solution is not as obvious
 Given two circles which will serve as top and bottom for a cup of given height find the shape of the side wall of the cup so that the side wall has minimal area The intuition would suggest that the cup must have conical or cylindrical shape which is false The actual minimum surface is the catenoid
 Find the shape of a bridge capable of sustaining given amount of traffic using the smallest amount of material
-Find the shape of an airplane which bounces away most of the radio waves from an enemy radar Infinite dimensional optimization problems can be more challenging than finite dimensional ones Typically one needs to employ methods from partial differential equations to solve such problems
+Find the shape of an airplane which bounces away most of the radio waves from an enemy radarInfinite dimensional optimization problems can be more challenging than finite dimensional ones Typically one needs to employ methods from partial differential equations to solve such problems
 Several disciplines which study infinite dimensional optimization problems are calculus of variations optimal control and shape optimization
 Semi infinite programmingDavid Luenberger Optimization by Vector Space Methods John Wiley Sons ISBN X
 Edward J Anderson and Peter Nash Linear Programming in Infinite Dimensional Spaces Wiley
-M A Goberna and M A L pez Linear Semi Infinite Optimization Wiley
+M A Goberna and M A López Linear Semi Infinite Optimization Wiley
 Cassel Kevin W Variational Methods with Applications in Science and Engineering Cambridge University Press

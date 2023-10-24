@@ -11,41 +11,25 @@ A native bookmark system was also added n place of sharing Internet Explorer's F
 This allows the user to synchronize any number of Avant installations on different computers Avant can still share Internet Explorer's Favorites This option was reintroduced by the developer after some users lamented its loss
 Another innovation is that Avant may now be run from a USB flash drive or other portable storage device such as an MP player without needing to be installed In conjunction with Avant's session saving facility this allows the user to halt a browsing session on one PC move to another and resume viewing the same web pages
 Avant Browser Ultimate edition build released on October added the Gecko layout engine the rendering engine used by Mozilla Firefox and the most recent release build released on April also included the WebKit layout engine the rendering engine used by Safari making Avant Browser a three engine browser Layout engine is selectable by the user
-Progress bar on each tab optional
-Tab locking duplication and drop and drag arrangement
 Automatically save and reopen any number of pages
 Can restore open pages after system crash
-Undo menu for last closed tabs
 All pages open in single process reducing resource demands
 Multiple home pagesCompatible with many Internet Explorer toolbars and add ins including Google toolbar
 Highlight marker to find keywords on any page the words also used by the search engine
 Facility for user to add custom made function buttons
-RSS feed reader built in
 URL alias facility to create keyboard shortcuts to favorite sites
-Full desktop mode hides toolbars
 Full screen mode hides toolbars and taskbar
-Compact mode saves interface space
-Boss button quickly hides browser
 Tray icon keeps Avant running in system tray for fast access optional
-Autoscroll facility for hands free reading
 Context activated floating toolbars to save and edit images text and Flash
-Customizable right click menu entries
-interface languages available so far
-Automatic page refresh at custom intervals
-Range of bundled skin options total
 Accessory application allows user to create own skins
-Toolbars can be rearranged freely
 Most functions may be accessed from either toolbar buttons or menus
 All Buttons and menus are optionalPush button quick blocking of unwanted items Popups Adverts ActiveX Java Scripts Flash Video Sound Images
-Customizable black white lists for popups and ad servers
-Multiple proxy servers may be configured
+Customizable blackwhite lists for popups and ad servers
 Browsing tracks cleaner can clear traces automatically
 Windows XP Service Pack security extensions can be integratedSearch bar with separate engines configurable for web images groups directories and news
 Search within site search within page and target word highlight buttons
 Quick Search facility user can configure any engine for searches from the address bar
 Similar websites toolbar searches in background for pages that relate to the currentOnline secure bookmark feed and setting storage allows access of same browser setup anywhere
 Portable flash drive version allows running of Avant without installation
-Bookmark toolbar for fast link access
 Bookmarks can be arranged in task orientated groups that can be opened together or individually
 Optionally uses Internet Explorer favoritesList of web browsers
-Comparison of feed aggregatorsOfficial website

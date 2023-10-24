@@ -1,88 +1,47 @@
 In information theory the conditional entropy quantifies the amount of information needed to describe the outcome of a random variable
 given that the value of another random variable
 is known Here information is measured in shannons nats or hartleys The entropy of
-displaystyle mathrm H Y X
-denote the support sets of
 Note It is conventioned that the expressions
 should be treated as being equal to zero This is because
-displaystyle lim theta to theta log c theta
-displaystyle lim theta to theta log theta
-Intuitive explanation of the definition
-displaystyle displaystyle H Y X mathbb E f X Y
-displaystyle displaystyle f x y rightarrow log p y x
+displaystyle lim theta to +theta log ctheta =
+displaystyle lim theta to +theta log theta =
 which is the amount of information needed to describe the event
 According to the law of large numbers
-displaystyle displaystyle H Y X
 is the arithmetic mean of a large number of independent realizations of
-displaystyle displaystyle f X Y
-displaystyle mathrm H Y X x
 be the entropy of the discrete random variable
-conditioned on the discrete random variable
-Denote the support sets of
-displaystyle mathrm H Y mathbb E operatorname I Y
-displaystyle mathrm H Y sum y in mathcal Y mathrm Pr Y y mathrm I y sum y in mathcal Y p Y y log p Y y
-displaystyle operatorname I y i
+displaystyle mathrm H Y=mathbb E operatorname I Y
+displaystyle mathrm H Y=sum yin mathcal Ymathrm Pr Y=ymathrm I y= sum yin mathcal YpYylog pYy
 is the information content of the outcome of
-is defined analogously by conditional expectation
-displaystyle mathrm H Y X x sum y in mathcal Y Pr Y y X x log Pr Y y X x
-displaystyle mathrm H Y X
-is the result of averaging
-displaystyle mathrm H Y X x
+displaystyle mathrm H YX=x= sum yin mathcal YPrY=yX=xlog PrY=yX=x
 may take Also if the above sum is taken over a sample
-displaystyle y dots y n
-displaystyle E X mathrm H y dots y n mid X x
 is known in some domains as equivocation
 is defined as the weighted sum of
-displaystyle mathrm H Y X x
-for each possible value of
-displaystyle begin aligned mathrm H Y X equiv sum x in mathcal X p x mathrm H Y X x sum x in mathcal X p x sum y in mathcal Y p y x log p y x sum x in mathcal X sum y in mathcal Y p x y log p y x sum x in mathcal X y in mathcal Y p x y log p y x sum x in mathcal X y in mathcal Y p x y log frac p x y p x sum x in mathcal X y in mathcal Y p x y log frac p x p x y end aligned
-displaystyle mathrm H Y X
+displaystyle beginalignedmathrm H YX equiv sum xin mathcal Xpxmathrm H YX=x= sum xin mathcal Xpxsum yin mathcal Ypyxlog pyx= sum xin mathcal Xsum yin mathcal Ypxylog pyx= sum xin mathcal Xyin mathcal Ypxylog pyx= sum xin mathcal Xyin mathcal Ypxylog frac pxypx=sum xin mathcal Xyin mathcal Ypxylog frac pxpxyendaligned
 if and only if the value of
 is completely determined by the value of
-displaystyle mathrm H Y X mathrm H Y
 Assume that the combined system determined by two random variables
-displaystyle mathrm H X Y
-displaystyle mathrm H X Y
 bits of information on average to describe its exact state Now if we first learn the value of
-is known we only need
-displaystyle mathrm H X Y mathrm H X
 bits to describe the state of the whole system This quantity is exactly
-displaystyle mathrm H Y X
 which gives the chain rule of conditional entropy
-displaystyle mathrm H Y X mathrm H X Y mathrm H X
+displaystyle mathrm H YX=mathrm H XY mathrm H X
 The chain rule follows from the above definition of conditional entropy
-displaystyle begin aligned mathrm H Y X sum x in mathcal X y in mathcal Y p x y log left frac p x p x y right pt sum x in mathcal X y in mathcal Y p x y log p x log p x y pt sum x in mathcal X y in mathcal Y p x y log p x y sum x in mathcal X y in mathcal Y p x y log p x pt mathrm H X Y sum x in mathcal X p x log p x pt mathrm H X Y mathrm H X end aligned
+displaystyle beginalignedmathrm H YX=sum xin mathcal Xyin mathcal Ypxylog leftfrac pxpxyrightpt=sum xin mathcal Xyin mathcal Ypxylogpx logpxypt= sum xin mathcal Xyin mathcal Ypxylogpxy+sum xin mathcal Xyin mathcal Ypxylogpxpt=mathrm H XY+sum xin mathcal Xpxlogpxpt=mathrm H XY mathrm H Xendaligned
 In general a chain rule for multiple random variables holds
-displaystyle mathrm H X X ldots X n sum i n mathrm H X i X ldots X i
+displaystyle mathrm H XXldots Xn=sum i=nmathrm H XiXldots Xi
 It has a similar form to chain rule in probability theory except that addition instead of multiplication is used
-Bayes' rule for conditional entropy states
-displaystyle mathrm H Y X mathrm H X Y mathrm H X mathrm H Y
-displaystyle mathrm H Y X mathrm H X Y mathrm H X
-displaystyle mathrm H X Y mathrm H Y X mathrm H Y
-displaystyle mathrm H X Y mathrm H Y X
+displaystyle mathrm H YX=mathrm H XY mathrm H X+mathrm H Y
+displaystyle mathrm H YX=mathrm H XY mathrm H X
+displaystyle mathrm H XY=mathrm H YX mathrm H Y
 Subtracting the two equations implies Bayes' rule
-displaystyle mathrm H Y X Z mathrm H Y X
-displaystyle begin aligned mathrm H Y X leq mathrm H Y mathrm H X Y mathrm H X Y mathrm H Y X operatorname I X Y qquad mathrm H X Y mathrm H X mathrm H Y operatorname I X Y operatorname I X Y leq mathrm H X end aligned
-displaystyle operatorname I X Y
-is the mutual information between
-displaystyle mathrm H Y X mathrm H Y
-displaystyle mathrm H X Y mathrm H X
-Although the specific conditional entropy
-displaystyle mathrm H X Y y
+displaystyle beginalignedmathrm H YXleq mathrm H Ymathrm H XY=mathrm H XY+mathrm H YX+operatorname I XYqquad mathrm H XY=mathrm H X+mathrm H Y operatorname I XYoperatorname I XYleq mathrm H Xendaligned
 can be either less or greater than
-for a given random variate
-displaystyle mathrm H X Y
 The above definition is for discrete random variables The continuous version of discrete conditional entropy is called conditional differential or continuous entropy Let
 be a continuous random variables with a joint probability density function
 In contrast to the conditional entropy for discrete random variables the conditional differential entropy may be negative
 As in the discrete case there is a chain rule for differential entropy
-displaystyle h Y X h X Y h X
 Notice however that this rule may not be true if the involved differential entropies do not exist or are infinite
 Joint differential entropy is also used in the definition of the mutual information between continuous random variables
-displaystyle operatorname I X Y h X h X Y h Y h Y X
-displaystyle h X Y leq h X
-with equality if and only if
 The conditional differential entropy yields a lower bound on the expected squared error of an estimator For any random variable
-displaystyle mathbb E left bigl X widehat X Y bigr right geq frac pi e e h X Y
+displaystyle mathbb E leftbigl X widehat XYbigr rightgeq frac pi eehXY
 This is related to the uncertainty principle from quantum mechanics
 In quantum information theory the conditional entropy is generalized to the conditional quantum entropy The latter can take negative values unlike its classical counterpart

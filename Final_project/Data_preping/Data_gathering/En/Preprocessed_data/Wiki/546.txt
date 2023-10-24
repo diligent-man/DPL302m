@@ -1,19 +1,17 @@
 In nonstandard analysis a branch of mathematics overspill referred to as overflow by Goldblatt p is a widely used proof technique It is based on the fact that the set of standard natural numbers N is not an internal subset of the internal set N of hypernatural numbers
 By applying the induction principle for the standard integers N and the transfer principle we get the principle of internal induction
 For any internal subset A of N if
-is an element of A and
-for every element n of A n also belongs to A then
-A NIf N were an internal set then instantiating the internal induction principle with N it would follow N N which is known not to be the case
+for every element n of A n + also belongs to Athen
+A = NIf N were an internal set then instantiating the internal induction principle with N it would follow N = N which is known not to be the case
 The overspill principle has a number of useful consequences
 The set of standard hyperreals is not internal
 The set of bounded hyperreals is not internal
-The set of infinitesimal hyperreals is not internal In particular
+The set of infinitesimal hyperreals is not internalIn particular
 If an internal set contains all infinitesimal non negative hyperreals it contains a positive non infinitesimal or appreciable hyperreal
-If an internal set contains N it contains an unlimited infinite element of N These facts can be used to prove the equivalence of the following two conditions for an internal hyperreal valued function defined on R
-displaystyle forall epsilon in mathbb R exists delta in mathbb R h leq delta implies f x h f x leq varepsilon
-displaystyle forall h cong f x h f x cong
-The proof that the second fact implies the first uses overspill since given a non infinitesimal positive
-displaystyle forall mbox positive delta cong h leq delta implies f x h f x varepsilon
-Applying overspill we obtain a positive appreciable with the requisite properties
-These equivalent conditions express the property known in nonstandard analysis as S continuity or microcontinuity of at x S continuity is referred to as an external property The first definition is external because it involves quantification over standard values only The second definition is external because it involves the external relation of being infinitesimal
+If an internal set contains N it contains an unlimited infinite element of NThese facts can be used to prove the equivalence of the following two conditions for an internal hyperreal valued function ƒ defined on R
+displaystyle forall epsilon in mathbb R +exists delta in mathbb R +hleq delta implies fx+h fxleq varepsilon
+The proof that the second fact implies the first uses overspill since given a non infinitesimal positive ε
+displaystyle forall mbox positive delta cong hleq delta implies fx+h fxvarepsilon
+Applying overspill we obtain a positive appreciable δ with the requisite properties
+These equivalent conditions express the property known in nonstandard analysis as S continuity or microcontinuity of ƒ at x S continuity is referred to as an external property The first definition is external because it involves quantification over standard values only The second definition is external because it involves the external relation of being infinitesimal
 Robert Goldblatt Lectures on the hyperreals An introduction to nonstandard analysis Springer

@@ -1,5 +1,5 @@
 A locked device comes with an exclusive network contract and so cannot be used with a SIM card from another telecom company unless unlocked
-However some stores in Vietnam are able to unlock locked iPhones brought from countries like the U S and Japan
+However some stores in Vietnam are able to unlock locked iPhones brought from countries like the US and Japan
 Though there are some inconveniences when using the unlocked phones many people buy them because of their cheap prices
 Quach Minh Hieu of HLC Store said unlocked iPhone s in Vietnam cost around VND million and the Plus version VND million
 Large numbers of and Plus are being sold at low prices due to their ease of unlocking he said
@@ -7,12 +7,11 @@ Because their arrangement of hardware components and motherboard is similar to t
 Technicians will weld a new SIM tray into the space left by Apple inside the iPhone and Plus When completed the module will accept Vietnamese network subscriptions via a paired SIM
 Some stores are also selling unlocked Pro Max phones at VND million
 A SIM tray and paired SIM used in an unlocked version of the iPhone Photo by Minh Hieu
-But Nguyen Luong Duc an executive at digital lock service provider KingLock claimed that the number of unlocked Pro series devices is limited due to the effectiveness of Apple s preventive measures
-iPhone Pro and Pro Max devices sold in the U S have a different mainboard design he said
+But Nguyen Luong Duc an executive at digital lock service provider KingLock claimed that the number of unlocked Pro series devices is limited due to the effectiveness of Apple’s preventive measures
+iPhone Pro and Pro Max devices sold in the US have a different mainboard design he said
 The device does not have space for a SIM tray so it is not easy to add a physical SIM the usual way
 Replacing the mainboard is not feasible due to the high cost involved he said
 Some stores replace the battery with a smaller one or remove the speaker cluster to create space for installing a physical SIM for the iPhone Pro Max he explained But this interferes greatly with the hardware and so more time is needed to evaluate its effectiveness he added
 Phone repair store network Dien Thoai Vui said users should consider carefully before buying unlocked devices because some iPhone s and s lose the signal in areas where G networks are not common
 Switching back from a physical SIM to an e SIM is very complicated and unlocked iPhones have difficulty getting updates and lack a warranty in Vietnam it added
 License number GP CBC Ministry of Information and Communications September
-Copyright VnExpress net All rights reserved

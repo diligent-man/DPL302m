@@ -1,37 +1,20 @@
 In calculus the constant of integration often denoted by
 is a constant term added to an antiderivative of a function
 to indicate that the indefinite integral of
-i e the set of all antiderivatives of
+ie the set of all antiderivatives of
 on a connected domain is only defined up to an additive constant This constant expresses an ambiguity inherent in the construction of antiderivatives
-More specifically if a function
-is defined on an interval and
 then the set of all antiderivatives of
-is given by the functions
 is an arbitrary constant meaning that any value of
 a valid antiderivative For that reason the indefinite integral is often written as
-textstyle int f x dx F x C
 although the constant of integration might be sometimes omitted in lists of integrals for simplicity
 The derivative of any constant function is zero Once one has found one antiderivative
-adding or subtracting any constant
-will give us another antiderivative because
-textstyle frac d dx F x C frac d dx F x frac d dx C F' x f x
 The constant is a way of expressing that every function with at least one antiderivative will have an infinite number of them
-displaystyle F mathbb R to mathbb R
-displaystyle G mathbb R to mathbb R
 be two everywhere differentiable functions Suppose that
-displaystyle F ' x G ' x
 for every real number x Then there exists a real number
-displaystyle F x G x C
-for every real number x
-To prove this notice that
-displaystyle F x G x '
 making the goal to prove that an everywhere differentiable function whose derivative is always zero must be constant
 For any x the fundamental theorem of calculus together with the assumption that the derivative of
-displaystyle begin aligned int a x F' t dt F x F a F x C F x C end aligned
 Two facts are crucial in this proof First the real line is connected If the real line were not connected we would not always be able to integrate from our fixed a to any given x For example if we were to ask for functions defined on the union of intervals and and if a were then it would not be possible to integrate from to because the function is not defined between and Here there will be two constants one for each connected component of the domain In general by replacing constants with locally constant functions we can extend this theorem to disconnected domains For example there are two constants of integration for
-textstyle int tan x dx
 so for example the general form for the integral of x is
-displaystyle int frac dx x begin cases ln left x right C x ln left x right C x end cases
 were assumed to be everywhere differentiable If
 are not differentiable at even one point then the theorem might fail As an example let
 be the Heaviside step function which is zero for negative values of x and one for non negative values of x and let
@@ -41,29 +24,21 @@ do not differ by a constant even if it is assumed that
 are everywhere continuous and almost everywhere differentiable the theorem still fails As an example take
 to be the Cantor function and again let
 For example suppose one wants to find antiderivatives of
-Each of these has derivative
-so they are all antiderivatives of
 It turns out that adding and subtracting constants is the only flexibility we have in finding different antiderivatives of the same function That is all antiderivatives are the same up to a constant To express this fact for
-displaystyle int cos x dx sin x C
 by a number will produce an antiderivative By writing
 instead of a number however a compact description of all the possible antiderivatives of
 is called the constant of integration It is easily determined that all of these functions are indeed antiderivatives of
-displaystyle begin aligned frac d dx sin x C frac d dx sin x frac d dx C cos x cos x end aligned
 At first glance it may seem that the constant is unnecessary since it can be set to zero Furthermore when evaluating definite integrals using the fundamental theorem of calculus the constant will always cancel with itself
 However trying to set the constant to zero does not always make sense For example
-displaystyle sin x cos x
 can be integrated in at least three different ways
-displaystyle begin aligned int sin x cos x dx sin x C cos x C frac cos x C int sin x cos x dx cos x C sin x C frac cos x C int sin x cos x dx frac cos x C sin x C cos x C end aligned
+displaystyle beginalignedint sinxcosxdx=sin x+C= cos x++C= frac cosx+Cint sinxcosxdx= cos x+C=sin x +C= frac cosx+Cint sinxcosxdx= frac cosx+C=sin x+C= cos x+Cendaligned
 to zero can still leave a constant This means that for a given function there is no simplest antiderivative
 equal to zero is that sometimes we want to find an antiderivative that has a given value at a given point as in an initial value problem For example to obtain the antiderivative of
-that has the value at x then only one value of
-will work in this case
+that has the value at x = π then only one value of
 This restriction can be rephrased in the language of differential equations Finding an indefinite integral of a function
 is the same as solving the differential equation
-textstyle frac dy dx f x
-Any differential equation will have many solutions and each constant represents the unique solution of a well posed initial value problem Imposing the condition that our antiderivative takes the value at x is an initial condition Each initial condition corresponds to one and only one value of
+Any differential equation will have many solutions and each constant represents the unique solution of a well posed initial value problem Imposing the condition that our antiderivative takes the value at x = π is an initial condition Each initial condition corresponds to one and only one value of
 it would be impossible to solve the problem
 There is another justification coming from abstract algebra The space of all suitable real valued functions on the real numbers is a vector space and the differential operator
-is a linear operator The operator
 maps a function to zero if and only if that function is constant Consequently the kernel of
 is the space of all constant functions The process of indefinite integration amounts to finding a pre image of a given function There is no canonical pre image for a given function but the set of all such pre images forms a coset Choosing a constant is the same as choosing an element of the coset In this context solving an initial value problem is interpreted as lying in the hyperplane given by the initial conditions

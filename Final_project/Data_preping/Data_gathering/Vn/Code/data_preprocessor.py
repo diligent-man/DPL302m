@@ -80,8 +80,8 @@ class TextPreprocessor:
 
 def vn_preprocessing() -> None:
     category_ls = ['am_thuc', 'doi_song', 'du_lich', 'gia_dinh', 'the_gioi',
-                'giai_tri', 'giao_duc', 'khong_gian_song', 'loi_song',
-                'the_thao','thoi_su','thoi_trang']
+                   'giai_tri', 'giao_duc', 'khong_gian_song', 'loi_song',
+                   'the_thao','thoi_su','thoi_trang']
     data_dir = '../Data'
     preprocessed_data_dir = '../Preprocessed_data'
 

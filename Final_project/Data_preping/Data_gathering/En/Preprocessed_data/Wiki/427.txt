@@ -1,7 +1,7 @@
 The Indian Council of Agricultural Research ICAR is an autonomous body responsible for co ordinating agricultural education and research in India It reports to the Department of Agricultural Research and Education Ministry of Agriculture The Union Minister of Agriculture serves as its president It is the largest network of agricultural research and education institutes in the world
 The committee to Advise on Renovation and Rejuvenation of Higher Education Yashpal Committee has recommended setting up of a constitutional body the National Commission for Higher Education and Research which would be a unified supreme body to regulate all branches of higher education including agricultural education Presently regulation of agricultural education is the mandate of ICAR Veterinary Council of India Veterinary sub discipline and Indian Council of Forestry Research and Education Forestry sub discipline
 ICAR represented in the First Governing Body of the FAO Seed Treaty ITPGRFA in Madrid Spain
-ICAR developed a vaccine against bird flu The vaccine was developed at the High Security Animal Disease Laboratory Bhopal the only facility in the country to conduct tests for the H N variant of bird flu It was entrusted with the task of developing a vaccine by the ICAR after the Avian Influenza outbreak in February
+ICAR developed a vaccine against bird flu The vaccine was developed at the High Security Animal Disease Laboratory Bhopal the only facility in the country to conduct tests for the HN variant of bird flu It was entrusted with the task of developing a vaccine by the ICAR after the Avian Influenza outbreak in February
 Launch of US India Agricultural Knowledge Initiative
 India Brazil South Africa Joint Working Group on Agriculture Initiated
 In December it announced that it was considering a policy to provide open access to its research
@@ -11,61 +11,37 @@ ICAR scientists were the first in the world to sequence the pigeonpea genome It 
 On September it announced the Open Access Policy and committed for making all the public funded scholarly research outputs openly available via open access repositories
 ICAR has also published an Integrated Mobile App called KISAAN Krishi Integrated Solution for Agri Apps Navigation for Farmers of country Mobile App has interface in Indian Languages
 ICAR provides accreditation to agriculture universities colleges and programmes through its accreditation unit National Agricultural Education Accreditation Board NAEAB The board was established in and given its current name in The accreditation serves only as a badge of quality assurance It is not mandatory is not a form of affiliation or recognition and does not give approval to open an institute or a program As of April NAEAB lists only accredited institutes
-While ICAR accreditation is voluntary since it is linked with the release of grants for education quality assurance for State Agricultural Universities It is also used by some institutes as an affiliation or admission requirements In September Goa University has reinstated affiliation to a college after previously cancelling the affiliation because the college was not accredited by NAEAB In students were not accepted to master's degree at Rajiv Gandhi University because their B Sc in Agriculture degree was from an unaccredited private university
+While ICAR accreditation is voluntary since it is linked with the release of grants for education quality assurance for State Agricultural Universities It is also used by some institutes as an affiliation or admission requirements In September Goa University has reinstated affiliation to a college after previously cancelling the affiliation because the college was not accredited by NAEAB In students were not accepted to master's degree at Rajiv Gandhi University because their BSc in Agriculture degree was from an unaccredited private university
 As of January ICAR has following institutions
-Directorates Project DirectoratesIndian Agricultural Research Institute New Delhi
+DirectoratesProject DirectoratesIndian Agricultural Research Institute New Delhi
 Indian Veterinary Research Institute Bareilly Uttar Pradesh
-National Dairy Research Institute Karnal Haryana
 Central Institute of Fisheries Education Mumbai MaharashtraCentral Agroforestry Research Institute Jhansi
-Central Arid Zone Research Institute Jodhpur
 Central Avian Research Institute Izatnagar Uttar Pradesh
-Central Citrus Research Institute Nagpur
 Central Coastal Agricultural Research Institute Ela Old Goa Goa
 Central Inland Fisheries Research Institute Barrackpore West Bengal
-Central Institute of Brackishwater Aquaculture Chennai
-Central Institute for Arid Horticulture Bikaner
 Central Institute for Research on Buffaloes Hissar
 Central Institute for Research on Cattle Meerut Uttar Pradesh
 Central Institute for Research on Goats Makhdoom Uttar Pradesh
 Central Institute for Women in Agriculture Bhubaneshwar
-Central Institute of Agricultural Engineering Bhopal
-Central Institute for Cotton Research Nagpur
-Central Institute of Fisheries Technology Cochin
-Central Institute of Freshwater Aquaculture Bhubneshwar
 Central Institute of Research on Cotton Technology Mumbai
 Central Institute of Sub Tropical Horticulture Lucknow
-Central Institute of Temperate Horticulture Srinagar
 Central Institute on Post harvest Engineering and Technology Ludhiana
 Central Island Agricultural Research Institute Port Blair
-Central Marine Fisheries Research Institute Kochi
 Central Plantation Crops Research Institute Kasargod Kerala
-Central Potato Research Institute Shimla
 Central Research Institute for Jute and Allied Fibers Barrackpore
 Central Research Institute of Dryland Agriculture Hyderabad
 Central Sheep and Wool Research Institute Avikanagar Rajasthan
-Central Soil Salinity Research Institute Karnal
 Central Tobacco Research Institute Rajahmundry Andhra Pradesh
-Central Tuber Crops Research Institute Trivandrum
 ICAR Research Complex for Eastern Region Patna
-ICAR Research Complex for NEH Region Um am Meghalaya
+ICAR Research Complex for NEH Region Umïam Meghalaya
 Indian Agricultural Statistics Research Institute New Delhi
 Indian Grassland and Fodder Research Institute Jhansi
-Indian Institute of Agricultural Biotechnology Ranchi
 Indian Institute of Farming Systems Research Modipuram Meerut Uttar Pradesh
-Indian Institute of Horticultural Research Bengaluru
-Indian Institute of Maize Research New Delhi
-Indian Institute of Millets Research Hyderabad
 Indian Institute of Natural Resins and Gums Ranchi
 Indian Institute of Oil Palm Research Pedavegi West Godawari
-Indian Institute of Oilseeds Research Hyderabad
-Indian Institute of Pulses Research Kanpur
-Indian Institute of Rice Research Hyderabad
 Indian Institute of Seed Research Mau Uttar Pradesh
-Indian Institute of Soil Sciences Bhopal
 Indian Institute of Soil and Water Conservation Dehradun
 Indian Institute of Spices Research Calicut Kerala
-Indian Institute of Sugarcane Research Lucknow
-Indian Institute of Vegetable Research Varanasi
 Indian Institute of Water Management Bhubaneshwar Orissa
 Indian Institute of Wheat and Barley Research Karnal
 National Academy of Agricultural Research Management Hyderabad
@@ -77,18 +53,9 @@ National Institute of Biotic Stresses Management Raipur
 National Institute of High Security Animal Diseases Bhopal
 National Institute of Natural Fibre Engineering and Technology Kolkata Kolkata
 National Institute of Veterinary Epidemiology and Disease Informatics Hebbal Bengaluru
-National Rice Research Institute Cuttack Orissa
-Sugarcane Breeding Institute Coimbatore Tamil Nadu
 Vivekananda Parvatiya Krishi Anusandhan Sansthan AlmoraNational Research Centre for Banana Tiruchirappalli
-National Research Centre for Grapes Pune
-National Research Centre on Litchi Muzaffarpur
-National Research Centre on Pomegranate Solapur
-National Research Centre on Camel Bikaner
-National Research Centre on Equines Hisar
-National Research Centre on Meat Hyderabad
 National Research Centre on Mithun Medziphema Nagaland
 National Research Centre on Orchids Pakyong Sikkim
-National Research Centre on Pig Guwahati
 National Research Centre on Seed Spices Ajmer
 National Research Centre on Yak West Kemang
 National Centre for Integrated Pest Management New Delhi
@@ -99,16 +66,9 @@ National Bureau of Fish Genetic Resources Lucknow
 National Bureau of Plant Genetic Resources New Delhi
 National Bureau of Soil Survey Land Use Planning NagpurDirectorate of Cashew Research Puttur
 Directorate of Coldwater Fisheries Research Bhimtal Nainital
-Directorate of Floricultural Research Pune
-Directorate of Groundnut Research Junagadh
 Directorate of Knowledge Management in Agriculture DKMA New Delhi
 Directorate of Medicinal and Aromatic Plants Research Anand
-Directorate of Mushroom Research Solan
 Directorate of Onion and Garlic Research Pune
-Directorate of Poultry Research Hyderabad
-Directorate of Rapeseed Mustard Research Bharatpur
-Directorate of Soybean Research Indore
-Directorate of Weed Research Jabalpur
 Project Directorate on Foot Mouth Disease MukteshwarAgricultural Technology Application Research Institute Zone I Ludhiana Punjab
 Agricultural Technology Application Research Institute Zone II Jodhpur Rajasthan
 Agricultural Technology Application Research Institute Zone III Kanpur Uttar Pradesh
@@ -122,19 +82,14 @@ Agricultural Technology Application Research Institute Zone X Hyderabad Telangan
 Agricultural Technology Application Research Institute Zone XI Bengaluru KarnatakaIndian Council of Agricultural Research's headquarters is in New Delhi
 All India Entrance Exam for Agriculture AIEEA conducted by National Testing Agency NTA is an entrance exam for admission into the agricultural universities recognized by ICAR
 The Agricultural Scientists Recruitment Board ASRB conducts all India competitive examination Agricultural Research Service ARS to recruit posts in the ARS of Indian Council of Agricultural Research
-ICAR presents the following awards
 Choudhary Devi Lal Outstanding All India Coordinated Research Project Award
 Fakhruddin Ali Ahmed Award for Tribal Areas
-Hari Om Ashram Trust Award
 Jawaharlal Nehru Award for outstanding doctoral thesis research
-Lal Bahadur Shastri Young Scientist Award
 Bharat Ratna Dr C Subramaniam Outstanding Teacher Award
 Punjab Rao Deshmukh Woman Agricultural Scientist Award
 Chaudhary Charan Singh Award for Excellence in Journalism in Agricultural Research and Development
-N G Ranga Farmer Award for Diversified Agriculture
+NG Ranga Farmer Award for Diversified Agriculture
 Swamy Sahajanand Saraswati Extension Scientist Worker Award
 ICAR Award for Outstanding Multidisciplinary Team Research in Agriculture and Allied Sciences
-National Krishi Vigyan Kendra Award
 Dr Rajendra Prasad Puruskar for Technical Books in Hindi in The Field of Agriculture and Allied Sciences
 Udyan Pandit Award for excellence in fruit growingList of agricultural universities in India
-National Initiative on Climate Resilient Agriculture

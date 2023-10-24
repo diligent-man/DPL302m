@@ -3,6 +3,4 @@ NetShow came out in A newer version was included in Windows NT SP in Version cam
 The NetShow name is still carried on in the user agent string in current versions of Windows Media Player which reports as NSPlayer
 NetShow Player version was included with Internet Explorer March now incorporated into Windows Media Player
 NetShow Services renamed Windows Media Services It was eventually incorporated into the media server functionality of Microsoft Internet Information Services IIS Netshow server and encoder functionality was also integrated into PowerPoint as part of the Online Broadcast functionality in Microsoft Office
-NetShow Encoder renamed Windows Media Encoder
-NetShow Channel renamed Windows Media Station
-NetShow Server also known as Theater Server A high bitrate full frame on demand streaming media solution for closed circuit networks such as airplanes or hotels Active Streaming Format ASF later renamed Advanced Streaming Format then to Advanced Systems Format
+NetShow Server also known as Theater Server A high bitrate full frame on demand streaming media solution for closed circuit networks such as airplanes or hotelsActive Streaming Format ASF later renamed Advanced Streaming Format then to Advanced Systems Format

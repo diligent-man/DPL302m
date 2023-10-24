@@ -1,182 +1,27 @@
 The following is a partial list of the C codes for Medical Subject Headings MeSH as defined by the United States National Library of Medicine NLM
 This list continues the information at List of MeSH codes C Codes following these are found at List of MeSH codes C For other MeSH codes see List of MeSH codes
 The source for this content is the set of MeSH Trees from the NLM
-MeSH C anemia hypoplastic congenital
-MeSH C anemia diamond blackfan
-MeSH C anemia hemolytic autoimmune
-MeSH C anemia hemolytic congenital
-MeSH C anemia dyserythropoietic congenital
-MeSH C anemia hemolytic congenital nonspherocytic
-MeSH C anemia sickle cell
-MeSH C hemoglobin sc disease
-MeSH C sickle cell trait
-MeSH C glucosephosphate dehydrogenase deficiency
-MeSH C hemoglobin c disease
-MeSH C hemolytic uremic syndrome
-MeSH C anemia iron deficiency
 MeSH C anemia refractory with excess of blasts
-MeSH C red cell aplasia pure
 MeSH C anemia diamond blackfanMeSH C coagulation protein disorders
-MeSH C activated protein c resistance
-MeSH C factor v deficiency
-MeSH C factor vii deficiency
-MeSH C factor x deficiency
-MeSH C factor xi deficiency
-MeSH C factor xii deficiency
-MeSH C factor xiii deficiency
-MeSH C von willebrand disease
-MeSH C disseminated intravascular coagulation
-MeSH C blood coagulation disorders inherited
-MeSH C activated protein c resistance
-MeSH C antithrombin iii deficiency
-MeSH C bernard soulier syndrome
-MeSH C factor v deficiency
-MeSH C factor vii deficiency
-MeSH C factor x deficiency
-MeSH C factor xi deficiency
-MeSH C factor xii deficiency
-MeSH C factor xiii deficiency
-MeSH C hermanski pudlak syndrome
-MeSH C protein c deficiency
-MeSH C von willebrand disease
-MeSH C wiskott aldrich syndrome
-MeSH C platelet storage pool deficiency
-MeSH C hermanski pudlak syndrome
-MeSH C protein s deficiency
-MeSH C purpura schoenlein henoch
-MeSH C purpura thrombocytopenic idiopathic
-MeSH C purpura thrombotic thrombocytopenic
-MeSH C wiskott aldrich syndrome
-MeSH C vitamin k deficiency
 MeSH C hemorrhagic disease of newbornMeSH C erythroblastosis fetal
 MeSH C rh isoimmunizationMeSH C bernard soulier syndrome
-MeSH C platelet storage pool deficiency
-MeSH C hermanski pudlak syndrome
-MeSH C hemolytic uremic syndrome
-MeSH C purpura thrombocytopenic idiopathic
-MeSH C purpura thrombotic thrombocytopenic
-MeSH C wiskott aldrich syndrome
 MeSH C von willebrand diseaseMeSH C abetalipoproteinemia
-MeSH C antithrombin iii deficiency
-MeSH C monoclonal gammopathies benign
-MeSH C heavy chain disease
-MeSH C immunoproliferative small intestinal disease
-MeSH C protein c deficiency
 MeSH C protein s deficiencyMeSH C anemia aplastic
-MeSH C anemia hypoplastic congenital
-MeSH C anemia diamond blackfan
-MeSH C bone marrow neoplasms
 MeSH C anemia refractory with excess of blasts
-MeSH C leukemia erythroblastic acute
 MeSH C thrombocythemia hemorrhagicMeSH C bone marrow neoplasmsMeSH C anemia sickle cell
-MeSH C hemoglobin sc disease
-MeSH C sickle cell trait
-MeSH C hemoglobin c disease
-MeSH C beta thalassemiaMeSH C afibrinogenemia
-MeSH C bernard soulier syndrome
-MeSH C disseminated intravascular coagulation
-MeSH C factor v deficiency
-MeSH C factor vii deficiency
-MeSH C factor x deficiency
-MeSH C factor xi deficiency
-MeSH C factor xii deficiency
-MeSH C factor xiii deficiency
-MeSH C platelet storage pool deficiency
-MeSH C hermanski pudlak syndrome
-MeSH C purpura thrombocytopenic idiopathic
-MeSH C vascular hemostatic disorders
-MeSH C ehlers danlos syndrome
 MeSH C hemangioma cavernous central nervous system
-MeSH C purpura schoenlein henoch
-MeSH C telangiectasia hereditary hemorrhagic
-MeSH C vitamin k deficiency
-MeSH C hemorrhagic disease of newborn
-MeSH C von willebrand disease
-MeSH C waterhouse friderichsen syndrome
 MeSH C wiskott aldrich syndromeMeSH C eosinophilia
-MeSH C angiolymphoid hyperplasia with eosinophilia
-MeSH C eosinophilia myalgia syndrome
-MeSH C t lymphocytopenia idiopathic cd positive
-MeSH C pelger huet anomaly
-MeSH C phagocyte bactericidal dysfunction
-MeSH C chediak higashi syndrome
-MeSH C granulomatous disease chronic
 MeSH C job's syndromeMeSH C activated protein c resistance
-MeSH C antithrombin iii deficiency
-MeSH C disseminated intravascular coagulation
-MeSH C protein c deficiency
-MeSH C protein s deficiency
 MeSH C purpura thrombotic thrombocytopenicMeSH C cat scratch disease
-MeSH C histiocytic necrotizing lymphadenitis
 MeSH C tuberculosis lymph nodeMeSH C lymphangiectasis intestinalMeSH C lymphangiectasis intestinalMeSH C elephantiasis
-MeSH C elephantiasis filarialMeSH C agammaglobulinemia
-MeSH C giant lymph node hyperplasia
-MeSH C angiolymphoid hyperplasia with eosinophilia
-MeSH C Churg Strauss syndrome
-MeSH C heavy chain disease
-MeSH C immunoproliferative small intestinal disease
-MeSH C leukemia hairy cell
-MeSH C leukemia nonlymphocytic acute
-MeSH C leukemia myelocytic acute
-MeSH C lymphoma non hodgkin
-MeSH C lymphoma b cell
-MeSH C lymphoma aids related
 MeSH C lymphoma mucosa associated lymphoid tissue
-MeSH C lymphoma small cell
-MeSH C lymphoma large cell diffuse
-MeSH C lymphoma large cell immunoblastic
-MeSH C lymphoma mixed cell diffuse
 MeSH C lymphoma small cleaved cell diffuse
-MeSH C lymphoma mantle cell
-MeSH C lymphoma small lymphocytic
-MeSH C lymphoma small noncleaved cell
-MeSH C lymphoma large cell follicular
-MeSH C lymphoma mixed cell follicular
 MeSH C lymphoma small cleaved cell follicular
-MeSH C lymphoma high grade
-MeSH C lymphoma large cell immunoblastic
-MeSH C lymphoma small noncleaved cell
-MeSH C lymphoma intermediate grade
-MeSH C lymphoma large cell diffuse
-MeSH C lymphoma large cell follicular
-MeSH C lymphoma mixed cell diffuse
 MeSH C lymphoma small cleaved cell diffuse
-MeSH C lymphoma mantle cell
-MeSH C lymphoma large cell
-MeSH C lymphoma large cell diffuse
-MeSH C lymphoma large cell follicular
-MeSH C lymphoma large cell immunoblastic
-MeSH C lymphoma large cell ki
-MeSH C lymphoma low grade
-MeSH C lymphoma mixed cell follicular
 MeSH C lymphoma mucosa associated lymphoid tissue
 MeSH C lymphoma small cleaved cell follicular
-MeSH C lymphoma small lymphocytic
-MeSH C lymphoma mixed cell
-MeSH C lymphoma mixed cell diffuse
-MeSH C lymphoma mixed cell follicular
-MeSH C lymphoma small cell
 MeSH C lymphoma small cleaved cell diffuse
-MeSH C lymphoma mantle cell
 MeSH C lymphoma small cleaved cell follicular
-MeSH C lymphoma small lymphocytic
-MeSH C lymphoma small noncleaved cell
-MeSH C lymphoma t cell
-MeSH C lymphoma t cell cutaneous
-MeSH C lymphoma large cell ki
-MeSH C lymphoma t cell peripheral
-MeSH C lymphoma large cell diffuse
-MeSH C lymphoma small noncleaved cell
-MeSH C tumor lysis syndrome
 MeSH C waldenstrom macroglobulinemiaMeSH C gaucher disease
-MeSH C histiocytic disorders malignant
-MeSH C leukemia monocytic acute
-MeSH C lymphoma large cell
-MeSH C lymphoma large cell ki
-MeSH C histiocytosis langerhans cell
-MeSH C histiocytosis non langerhans cell
-MeSH C erdheim chester disease
-MeSH C niemann pick diseases
-MeSH C sea blue histiocyte syndrome
 MeSH C mast cell sarcomaMeSH C hypersplenism
 MeSH C wandering spleenMeSH C king's evilThe list continues at List of MeSH codes C

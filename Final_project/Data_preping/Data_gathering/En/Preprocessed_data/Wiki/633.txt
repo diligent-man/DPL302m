@@ -1,135 +1,69 @@
 In mathematics a first order partial differential equation is a partial differential equation that involves only first derivatives of the unknown function of n variables The equation takes the form
-displaystyle F x ldots x n u u x ldots u x n
 Such equations arise in the construction of characteristic surfaces for hyperbolic partial differential equations in the calculus of variations in some geometrical problems and in simple models for gas dynamics whose solution involves the method of characteristics If a family of solutions
 of a single first order partial differential equation can be found then additional solutions may be obtained by forming envelopes of solutions in that family In a related procedure general solutions may be obtained by integrating families of ordinary differential equations
 The general solution to the first order partial differential equation is a solution which contains an arbitrary function But the solution to the first order partial differential equations with as many arbitrary constants as the number of independent variables is called the complete integral The following n parameter family of solutions
-displaystyle phi x x dots x n u a a dots a n
-is a complete integral if
-displaystyle text det phi x i a j neq
 The below discussions on the type of integrals are based on the textbook A Treatise on Differential Equations Chaper IX th edition by Andrew Forsyth
 The solutions are described in relatively simple manner in two or three dimensions with which the key concepts are trivially extended to higher dimensions A general first order partial differential equation in three dimensions has the form
-displaystyle F x y z u p q r
-displaystyle p u x q u y r u z
-displaystyle phi x y z u a b c
 be the complete integral that contains three arbitrary constants
 From this we can obtain three relations by differentiation
-displaystyle phi x p phi u
-displaystyle phi y q phi u
-displaystyle phi z r phi u
-Along with the complete integral
 the above three relations can be used to eliminate three constants and obtain an equation original partial differential equation relating
-displaystyle x y z u p q r
-Note that the elimination of constants leading to the partial differential equation need not be unique i e two different equations can result in the same complete integral for example elimination of constants from the relation
-displaystyle u sqrt x a y b z c
-Once a complete integral is found a general solution can be constructed from it The general integral is obtained by making the constants functions of the coordinates i e
-displaystyle a a x y z b b x y z c c x y z
+Note that the elimination of constants leading to the partial differential equation need not be unique ie two different equations can result in the same complete integral for example elimination of constants from the relation
+Once a complete integral is found a general solution can be constructed from it The general integral is obtained by making the constants functions of the coordinates ie
 These functions are chosen such that the forms of
 are unaltered so that the elimination process from complete integral can be utilized Differentiation of the complete integral now provides
-displaystyle phi x p phi u a x phi a b x phi b c x phi c
-displaystyle phi y q phi u a y phi a b y phi b c y phi c
-displaystyle phi z r phi u a z phi a b z phi b c z phi c
+displaystyle phi x+pphi u= axphi a+bxphi b+cxphi c
+displaystyle phi y+qphi u= ayphi a+byphi b+cyphi c
+displaystyle phi z+rphi u= azphi a+bzphi b+czphi c
 in which we require the right hand side terms of all the three equations to vanish identically so that elimination of
 results in the partial differential equation This requirement can be written more compactly by writing it as
-displaystyle J phi a quad J phi b quad J phi c
-displaystyle J frac partial a b c partial x y z begin aligned begin vmatrix a x a y a z b x b y b z c x c y c z end vmatrix end aligned
-is the Jacobian determinant The condition
-leads to the general solution Whenever
+displaystyle Jphi a=quad Jphi b=quad Jphi c=
 then there exists a functional relation between
 because whenever a determinant is zero the columns or rows are not linearly independent Take this functional relation to be
-displaystyle c psi a b
 is found the problem is solved From the above relation we have
-displaystyle dc psi a da psi b db
-By summing the original equations
-displaystyle a x phi a b x phi b c x phi c
-displaystyle a y phi a b y phi b c y phi c
-displaystyle a z phi a b z phi b c z phi c
-displaystyle phi a da phi b db phi c dc
 from the two equations derived we obtain
-displaystyle phi a phi c psi a da phi b phi c psi b db
-displaystyle phi a phi c psi a
-displaystyle phi a phi c psi a
+displaystyle phi a+phi cpsi ada+phi b+phi cpsi bdb=
 The above two equations can be used to solve
 we obtain the general integral Thus a general integral describes a relation between
-displaystyle x y z u
-Note that we have assumed
-displaystyle c psi a b
 zero but this is not always needed The relations
-suffice to make the determinant zero
-Singular integral is obtained when
-In this case elimination of
-displaystyle phi a quad phi b quad phi c
+displaystyle phi a=quad phi b=quad phi c=
 The three equations can be used to solve the three unknowns
-Solution obtained by elimination of
 this way leads to what are called singular integrals
 Usually most integrals fall into three categories defined above but it may happen that a solution does not fit into any of three types of integrals mentioned above These solutions are called special integrals A relation
-displaystyle chi x y z u
 that satisfies the partial differential equation is said to a special integral if we are unable to determine
-displaystyle phi x chi u chi x phi u
-displaystyle phi y chi u chi y phi u
-displaystyle phi z chi u chi z phi u
-If we able to determine
 from the above set of equations then
 will turn out to be one of the three integrals described before
 The complete integral in two dimensional space can be written as
-displaystyle phi x y u a b
 The general integral is obtained by eliminating
-displaystyle phi x y z a psi a quad phi a psi a phi b
+displaystyle phi xyzapsi a=quad phi a+psi aphi b=
 The singular integral if it exists can be obtained by eliminating
-displaystyle phi x y z a b quad phi a quad phi b
-If a complete integral is not available solutions may still be obtained by solving a system of ordinary equations To obtain this system first note that the PDE determines a cone analogous to the light cone at each point if the PDE is linear in the derivatives of u it is quasi linear then the cone degenerates into a line In the general case the pairs p q that satisfy the equation determine a family of planes at a given point
-displaystyle u u p x x q y y
-displaystyle F x y u p q
+displaystyle phi xyzab=quad phi a=quad phi b=
+If a complete integral is not available solutions may still be obtained by solving a system of ordinary equations To obtain this system first note that the PDE determines a cone analogous to the light cone at each point if the PDE is linear in the derivatives of u it is quasi linear then the cone degenerates into a line In the general case the pairs pq that satisfy the equation determine a family of planes at a given point
 The envelope of these planes is a cone or a line if the PDE is quasi linear The condition for an envelope is
-displaystyle F p dp F q dq
-where F is evaluated at
-displaystyle x y u p q
-and dp and dq are increments of p and q that satisfy F Hence the generator of the cone is a line with direction
-displaystyle dx dy du F p F q pF p qF q
+and dp and dq are increments of p and q that satisfy F= Hence the generator of the cone is a line with direction
 This direction corresponds to the light rays for the wave equation
 To integrate differential equations along these directions we require increments for p and q along the ray This can be obtained by differentiating the PDE
-displaystyle F x F u p F p p x F q p y
-displaystyle F y F u q F p q x F q q y
-Therefore the ray direction in
-displaystyle x y u p q
-displaystyle dx dy du dp dq F p F q pF p qF q F x F u p F y F u q
 The integration of these equations leads to a ray conoid at each point
 General solutions of the PDE can then be obtained from envelopes of such conoids
-This part can be referred to
 An equivalent description is given Two definitions of linear dependence are given for first order linear partial differential equations
-displaystyle left begin array c sum limits ij a ij dfrac partial y j partial x i f vdots sum limits ij a ij n dfrac partial y j partial x i f n end array right
-textstyle Z k equiv sum ij a ij k frac partial y j partial x i f k
-Definition I Given a number field
-displaystyle c k in P
-textstyle sum k c k Z k
-the Eqs are linear dependent
-Definition II differential linear dependence
-displaystyle c k d kl in P
-not all zero such that
-textstyle sum k c k Z k sum kl d kl frac partial partial x l Z k
+displaystyle leftbeginarraycsum limits ijaijdfrac partial yjpartial xi+f=vdots sum limits ijaijndfrac partial yjpartial xi+fn=endarrayright
+textstyle Zkequiv sum ijaijkfrac partial yjpartial xi+fk
+textstyle sum kckZk+sum kldklfrac partial partial xlZk=
 the Eqs are thought as differential linear dependent
 this definition degenerates into the definition I
 The div curl systems Maxwell's equations Einstein's equations with four harmonic coordinates and
 Yang Mills equations with gauge conditions are well determined in definition II whereas are over determined in definition I
 Characteristic surfaces for the wave equation are level surfaces for solutions of the equation
-displaystyle u t c left u x u y u z right
 There is little loss of generality if we set
-in that case u satisfies
-displaystyle u x u y u z frac c
-displaystyle vec x x y z quad hbox and quad vec p u x u y u z
 A family of solutions with planes as level surfaces is given by
-displaystyle u vec x vec p cdot vec x vec x
-displaystyle vec p frac c quad text and quad vec x quad text is arbitrary
+displaystyle uvec x=vec pcdot vec x vec x
+displaystyle vec p=frac cquad textandquad vec xquad textis arbitrary
 If x and x are held fixed the envelope of these solutions is obtained by finding a point on the sphere of radius c where the value of u is stationary This is true if
-displaystyle vec x vec x
-Hence the envelope has equation
-displaystyle u vec x pm frac c vec x vec x
+displaystyle uvec x=pm frac cvec x vec x
 These solutions correspond to spheres whose radius grows or shrinks with velocity c These are light cones in space time
-The initial value problem for this equation consists in specifying a level surface S where u for t The solution is obtained by taking the envelope of all the spheres with centers on S whose radii grow with velocity c This envelope is obtained by requiring that
-displaystyle frac c vec x vec x quad hbox is stationary for quad vec x in S
-This condition will be satisfied if
-displaystyle vec x vec x
-is normal to S Thus the envelope corresponds to motion with velocity c along each normal to S This is the Huygens' construction of wave fronts each point on S emits a spherical wave at time t and the wave front at a later time t is the envelope of these spherical waves The normals to S are the light rays
+The initial value problem for this equation consists in specifying a level surface S where u= for t= The solution is obtained by taking the envelope of all the spheres with centers on S whose radii grow with velocity c This envelope is obtained by requiring that
+displaystyle frac cvec x vec xquad hboxis stationary forquad vec xin S
+is normal to S Thus the envelope corresponds to motion with velocity c along each normal to S This is the Huygens' construction of wave fronts each point on S emits a spherical wave at time t= and the wave front at a later time t is the envelope of these spherical waves The normals to S are the light rays
 Evans L C Partial Differential Equations Providence American Mathematical Society ISBN
 Polyanin A D Zaitsev V F Moussiaux A Handbook of First Order Partial Differential Equations London Taylor Francis ISBN X
-Polyanin A D Handbook of Linear Partial Differential Equations for Engineers and Scientists Boca Raton Chapman Hall CRC Press ISBN
+Polyanin A D Handbook of Linear Partial Differential Equations for Engineers and Scientists Boca Raton Chapman HallCRC Press ISBN
 Sarra Scott The Method of Characteristics with applications to Conservation Laws Journal of Online Mathematics and Its Applications
