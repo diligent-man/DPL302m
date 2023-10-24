@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 """
 Structure:
 wrong_word_generator
@@ -105,6 +106,10 @@ tonal_mapping = {
     'uốc':['úôc'], 'uần':['ùân']
 }
 
+=======
+import random
+import string
+>>>>>>> origin/main
 
 class wrong_word_generator:
     def __init__(self):
@@ -119,7 +124,11 @@ class wrong_word_generator:
         self.__word = word
 
 
+<<<<<<< HEAD
     def remove_char(self) -> dict:
+=======
+    def remove_char_english(self) -> dict:
+>>>>>>> origin/main
         '''
         Input
             word: Input word to process
@@ -130,11 +139,14 @@ class wrong_word_generator:
         Example:
             inp: "hello"
             out: {"hello": "ello, hllo, helo, hell, hell"}
+<<<<<<< HEAD
             
             in: "nguyễn"
             out: {'nguyễn': 'guyễn, nuyễn, ngyễn, nguễn, nguyn, nguyễ'}
         
         Note: This method is used for both en & vn
+=======
+>>>>>>> origin/main
         '''
         word = self.get_word()
         result = {word: ''}
@@ -207,6 +219,7 @@ class wrong_word_generator:
         ohell, lohel, llohe, elloh, hello
         
         """
+<<<<<<< HEAD
         word = self.get_word()
         swap_permutations = [''.join(p) for p in permutations(word) if p != word]
         return {word: ', '.join(swap_permutations)}
@@ -247,11 +260,19 @@ class wrong_word_generator:
 
 
 ###############################################################################
+=======
+
+
+>>>>>>> origin/main
 def test_remove_char_english() -> None:
     word = 'hello'
     generator = wrong_word_generator()
     generator.set_word(word)
+<<<<<<< HEAD
     wrong_word = generator.remove_char()
+=======
+    wrong_word = generator.remove_char_english()
+>>>>>>> origin/main
     print(wrong_word)
     return None
 
@@ -271,6 +292,7 @@ def test_swap_char_english() -> None:
     wrong_word = generator.swap_char_english()
     print(wrong_word)
 
+<<<<<<< HEAD
 
 ###############################################################################
 def test_remove_char_vn() -> None:
@@ -298,6 +320,11 @@ def main() -> None:
 
     # test_remove_char_vn()
     test_wrong_pos_tone_vn()
+=======
+def main() -> None:
+    # test_remove_char_english()
+    # test_insert_char_english()
+>>>>>>> origin/main
     return None
 
 
