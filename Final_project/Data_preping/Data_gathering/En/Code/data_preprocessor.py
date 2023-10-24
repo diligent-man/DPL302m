@@ -3,7 +3,6 @@ import re
 import string
 import shutil
 import contractions
-import textsearch
 
 
 class TextPreprocessor:
