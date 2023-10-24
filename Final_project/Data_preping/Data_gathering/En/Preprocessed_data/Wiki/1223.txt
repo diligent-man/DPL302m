@@ -1,0 +1,25 @@
+A video scaler is a system which converts video signals from one display resolution to another typically scalers are used to convert a signal from a lower resolution such as p standard definition to a higher resolution such as i high definition a process known as upconversion or upscaling by contrast converting from high to low resolution is known as downconversion or downscaling
+Video scalers are typically found inside consumer electronics devices such as televisions video game consoles and DVD or Blu-ray players but can also be found in other AV equipment such as video editing and television broadcasting equipment
+Video scalers can also be a completely separate devices often providing simple video switching capabilities
+These units are commonly found as part of home theatre or projected presentation systems
+They are often combined with other video processing devices or algorithms to create a video processor that improves the apparent definition of video signals
+Video scalers are primarily a digital device however they can be combined with an analog-to-digital converter ADC or digitizer and a digital-to-analog converter DAC to support analog inputs and outputs
+The native resolution of a display is how many physical pixels make up each row and column of the visible area on the display's output surface
+There are many different video signals in use which are not the same resolution neither are all of the displays thus some form of resolution adaptation is required to properly frame a video signal to a display device
+For example within the United States there are NTSC ATSC and VESA video standards each with several different resolution video formats
+Multiple common resolutions are also used for high-definition television p i and p
+While scaling a video signal does allow it to match the size of a particular display the process can result in an increased number of visual artifacts in the signal such as ringing and posterization
+Television channels which air a mixture of or high-definition programming and or standard definition programming may employ scaling andor cropping in order to make the programming fill the entire screen as opposed to pillarboxing the feed instead in order to maintain consistency in format
+Likewise broadcasters downscale programming produced in for broadcast on their feeds through letterboxing—either as a full letterbox or a partial letterbox—a technique used primarily by European broadcasters during the transition to digital terrestrial television
+The Active Format Description standard is a system of variables defining various scaling letterboxing and pillarboxing states broadcasting equipment and televisions can be configured to automatically switch to the appropriate state based on the AFD flag encoded in the content and the aspect ratio of the display
+cable network TNT introduced an HD feed in it controversially employed a stretching system known as FlexView which was also offered to other broadcasters
+FlexView used a nonlinear method to stretch more near the edges of the screen than in the center of it
+The practice was imposed by the senior vice president of broadcast engineering at TNT Clyde D
+Smith who argued that pillarboxing led to inconsistency between programs for viewers could cause burn-in on plasma televisions some older HDTVs could not stretch content automatically and the quality of stretching on some displays was poor
+Despite TNT's intentions the system was frequently criticized by viewers of high definition channels with some nicknaming the effect Stretch-O-Vision
+In FXX faced similar criticism for its use of cropping and scaling on reruns of The Simpsons which only started producing episodes in HD beginning in its th season as its cropping method caused various visual gags to be lost
+In February FXX announced that in response to these complaints it would present these episodes in their original aspect ratio on its video-on-demand service
+Since about some networks and cable companies have run high-definition versions of old programing that was originally shot on film shown in the format
+This format always cropped the sides of the image
+For example syndicated broadcast stations and the cable network TBS air Seinfeld in HD
+The series producer Sony Pictures went to the mm film source making new HD masters and cropping the top and bottom parts of the frame while restoring the sides

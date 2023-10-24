@@ -1,0 +1,67 @@
+The Douglas C-133 Cargomaster is an American large turboprop cargo aircraft built between 1956 and 1961 by the Douglas Aircraft Company for use with the United States Air Force. The C-133 was the USAF's only production turboprop-powered strategic airlifter, entering service shortly after the Lockheed C-130 Hercules, which is designated a tactical airlifter. It provided airlift services in a wide range of applications, being replaced by the C-5 Galaxy in the early 1970s.
+The C-133 was designed to meet the requirements for the USAF's Logistic Carrier Support System SS402L for a new strategic transport. The aircraft differed considerably from the C-74 Globemaster and C-124 Globemaster IIs that had preceded it. A high-mounted wing, external blister fairings on each side for the landing gear, and rear-loading and side-loading doors ensured that access to, and the volume of, the large cargo compartment were not compromised by these structures. The cargo compartment (90 ft/27 m in length and 12 ft/3.7 m high) was pressurized, heated, and ventilated.
+The Cargomasters went directly into production as C-133A; no prototypes were built. The first Cargomaster flew on 23 April 1956. The first C-133As were delivered to the Military Air Transport Service (MATS) in August 1957 and began flying MATS air routes throughout the world. Two C-133s established transatlantic speed records for transport aircraft on their first flights to Europe. The fleet of 50 aircraft proved itself invaluable during the Vietnam War. The Cargomaster soldiered on until the Lockheed C-5 Galaxy entered service in the early 1970s. The C-133 was then retired and most airplanes were cut up within months of being delivered to Davis-Monthan Air Force Base, Tucson, Arizona, after their final flights in 1971.
+Fifty aircraft (35 C-133A and 15 C-133B) were constructed and put into service with the USAF. A single C-133A and a C-133B were built and kept at Douglas Long Beach as "test articles". They had no construction numbers or USAF tail numbers.
+The C-133 had large tail doors and side doors and a large, open cargo area. The C-133A carried many large and heavy loads, including Atlas and Titan ICBMs, although it was not designed specifically to transport ICBMs. It may, indeed, have been the reverse. The C-133 design was frozen by 1955 in order to build the airplanes that first flew in April 1956. The designs of both the Atlas and Titan were not firm until after 1955, when their contracts were signed. With the C-133B, the rear cargo doors were modified to open to the side (petal doors), making ICBM loading much easier. Air transporting the ballistic missiles such as the Atlas, Titan and Minuteman was much less expensive, safer and faster than road transport. Several hundred Minuteman and other ICBMs were airlifted to and from their operational bases by C-133s. The C-133 also transported Atlas, Saturn and Titan rockets to Cape Canaveral for use as launch boosters in the Gemini, Mercury and Apollo space programs. After the Apollo capsules splashed down, they were airlifted in C-133s from Naval Station Norfolk, Virginia, or Hickam AFB, Hawaii, to Ellington AFB, Texas, or to California.
+The C-133 was for many years the only USAF aircraft capable of hauling very large or very heavy cargo. Despite the Douglas C-124 Globemaster II's capabilities, there was much cargo that it could not carry because of its configuration with a cargo deck 13 ft (4 m) off the ground and its lower, though substantial, engine power. The C-133 continued in service after the formation of the USAFs Military Airlift Command on 1 January 1966.
+By 1971, shortly before the introduction of the Lockheed C-5 Galaxy, the Cargomaster was obsolete as well as being worn out, and all were withdrawn from service. The C-133 had a 10,000-hour airframe that was life-extended to 19,000 hours. Severe vibration caused critical stress corrosion of the airframes to the point that the aircraft were beyond economical operation. The Air Force managed to keep as many of the C-133 fleet in service as possible until the C-5 entered squadron service.
+C-133s set a number of unofficial records, including records for military transport aircraft on trans-Atlantic and trans-Pacific routes. Among the longest were non-stop flights from Tachikawa Airfield, Japan, to Travis Air Force Base, California (17:20 hours on 22 May 1959, 5,150 mi/8,288 km, 297.2 mph/478.3 km/h), and Hickam Air Force Base, Hawaii, to Dover Air Force Base, Delaware, in about 16 hours (4,850 mi/7,805 km 303.1 mph/487.8 km/h). The only FAI officially sanctioned record was in December 1958, when C-133A 62008 lifted a payload of 117,900 lb (53,480 kg) to an altitude of 10,000 ft (3,048 m) at Dover Air Force Base, Delaware.
+Data from:C-133 units, C-133 Tail Numbers
+ United StatesUnited States Air Force
+Military Air Transport Service/Military Airlift Command
+1501st Air Transport Wing/60th Military Airlift Wing – Travis AFB, California
+84th Air Transport Squadron/Military Airlift Squadron, 1957–71
+1607th Air Transport Wing/436th Military Airlift Wing – Dover AFB, Delaware
+1st  Air Transport Squadron/Military Airlift Squadron, 1957–71
+39th Air Transport Squadron/Military Airlift Squadron, 1957–71Early in its life-cycle the airplane developed a reputation of crashing. Crew members referred to it as a "widowmaker". Some would not fly in the C-133, since the cause of the crashes was unknown.  Several issues were discovered after crash investigations. The first issue was with the auto-pitch controller on the propellers. A time delay was added to relieve stress on the nose casing. The second issue was that the stall characteristics gave little warning to the crew. The left wing was found to stall before the right wing. The fix was simple, a small strip of metal was attached to the right wing causing it to stall simultaneously with the left wing. As the aircraft neared the end of its 10,000-hour life-cycle the last C-133B crash occurred on 6 February 1970. It was determined the airframe split at the cargo door. The final fix was a band around the airframe to strengthen; the end of the C-133 was near. The C-5A Galaxy debuted in 1971 and marked the end of the C-133. Of 50 aircraft built, nine were lost in crashes and one was destroyed in a ground fire.
+13 April 1958
+AF Serial No. 54-0146, 1607 ATW — Destroyed 13 April 1958, crashed 26 mi (23 nmi; 42 km) south of Dover AFB, Delaware in Ellendale, Delaware.10 June 1961
+AF Serial No. 57-1614, 1501 ATW — Destroyed 10 June 1961, crashed into the Pacific Ocean off Japan27 May 1962
+AF Serial No. 57-1611, 1607 ATW — Destroyed 27 May 1962, crashed into water near Shad Intersection (37° 43' N 73° W), east of Dover AFB, Delaware.10 April 1963
+AF Serial No. 59-0523, 1501 ATW — Destroyed 10 April 1963, crashed while in traffic pattern, Travis AFB, California13 July 1963
+AF Serial No. 56-2005, 1607 ATW — Destroyed 13 July 1963 during refuelling ground fire, Dover AFB, Delaware.22 September 1963
+AF Serial No. 56-2002, 1607 ATW — Destroyed 22 September 1963, crashed into Atlantic Ocean near Shad Intersection (37° 43' N 73° W), southeast of Dover AFB, Delaware; aircraft apparently stalled near top of climb to cruising altitude.7 November 1964
+AF Serial No. 56-2014, 1607 ATW — Destroyed 7 November 1964 in crash on takeoff at CFB Goose Bay, Labrador. Probable cause was a power stall on takeoff due to icing or possibly aerodynamic instability of the aircraft.11 January 1965
+AF Serial No. 54-0140, 1607 ATW — Destroyed 11 January 1965, crashed into water after takeoff from Wake Island.30 April 1967
+AF Serial No. 59-0534, 1501 ATW — Destroyed 30 April 1967, ditched off the east coast of Okinawa, Japan after propeller pitch became fixed, due to electrical problems in either propeller control or propeller power circuits.6 February 1970
+AF Serial No. 59-0530, 60 MAW — Destroyed 6 February 1970, disintegrated in flight over southwestern Nebraska, due to catastrophic propagation of old 11 in (280 mm) skin crack hidden under paint to a total length of 17 ft (5.2 m); large sections of skin peeled off and the aircraft came apart at 23,000 ft (7,000 m).C-133A AF Ser. No. 56-2008
+Preserved at the National Museum of the United States Air Force at Wright-Patterson Air Force Base near Dayton, Ohio. On 16 December 1958, this aircraft established a world record for propeller-driven aircraft by carrying a payload of 117,900 lb (53,500 kg) to an altitude of 10,000 ft (3,000 m). It was flown to the Museum on 17 March 1971.
+C-133B AF Ser. No. 59-0527
+In the collection of the Pima Air & Space Museum adjacent to Davis–Monthan Air Force Base in Tucson, Arizona.
+C-133B AF Ser. No. 59-0536
+Located at the Air Mobility Command Museum at Dover Air Force Base, Delaware. This aircraft had been at the Strategic Air Command Museum at Offutt Air Force Base, Nebraska for many years and was donated to the AMC Museum when the SAS Museum moved from its on base location in the late 1990s to its new location near Ashland, Nebraska.
+C-133B AF Ser. No. 59-0529
+At the New England Air Museum. However, a tornado swept through the museum in 1979, badly damaging many aircraft in the outdoor display collection, and destroying the C-133.  
+C-133A AF Ser. No. 56-1999
+N199AB, previously owned by Cargomaster Corporation, was never certificated by the Federal Aviation Administration for civilian operation, and could only be flown as a government aircraft, mostly for the State of Alaska. N199AB was based at ANC and was flown as a transport until 2004, carrying cargo, such as pipeline sections. It also flew frontend loader trash trucks and heavy equipment to the Alaskan bush, i.e., Point Hope, Point Lay, Wainright, Barrow, Deadhorse, Barter Island, and Anatovich Pass in April 2006. In August 2008, it flew its last flight to the Jimmy Doolittle Air & Space Museum at Travis Air Force Base, Fairfield, California, where it has been restored to USAF markings and maintained on static display.Not on display:Two C-133As have been in storage at Mojave Air and Space Port, California, since the 1970s. They are N201AR (ex-AF Ser. No. 56-2001) and N136AR (ex- AF Ser. No.54-0136). They are owned by Cargomaster Corporation, based at Ted Stevens Anchorage International Airport, Alaska.General characteristics
+Crew: five (two pilots, navigator, flight engineer, loadmaster)
+Capacity: 200 passengers or 110,000 lb (50,000 kg)
+Length: 154 ft 3 in (47.01 m)
+Wingspan: 179 ft 9 in (54.78 m)
+Height: 48 ft 3 in (14.7 m)
+Wing area: 2,673 sq ft (248.3 m)
+Empty weight: 120,263 lb (54,550 kg)
+Gross weight: 275,000 lb (124,738 kg)
+Max takeoff weight: 286,000 lb (129,727 kg)
+Powerplant: 4 × Pratt & Whitney T34-P-9W turboprop engines, 7,500 hp (5,600 kW)  each with water injection
+Propellers: 3-bladed Curtiss Electric fully feathering, reversible-pitch propellers.Performance
+Maximum speed: 312 kn (359 mph, 578 km/h) at 8,700 ft (2,700 m)
+Cruise speed: 281 kn (323 mph, 520 km/h)
+Range: 3,560 nmi (4,100 mi, 6,590 km) with 52,000 lb (24,000 kg) payload
+Service ceiling: 29,950 ft (9,130 m) service ceiling
+Rate of climb: 1,280 ft/min (6.5 m/s)
+Wing loading: 102.9 lb/sq ft (502 kg/m)
+Power/mass: 0.1087 hp/lb (0.1787 kW/kg)
+Aircraft of comparable role, configuration, and era
+Antonov An-22
+Blackburn Beverley
+Boeing C-97 Stratofreighter
+Convair XC-99
+Douglas C-124 Globemaster II
+Lockheed L-1249 Super Constellation (R7V-2/YC-121F)
+Lockheed C-141 Starlifter
+Short BelfastTaylor, Cal (2005). Remembering an unsung giant : the Douglas C-133 Cargomaster and its people. Olympia, WA: Firstfleet Publishers. ISBN 978-0977676200.The Air Mobility Command Museum
+[1] "Remembering An Unsung Giant – The Douglas C-133 Cargomaster and Its People"
+Final Flight, Boeing 377 blog
+Douglas C-133 Cargomaster – Boeing Fact Sheet
+"C-133 Cargomaster Specifications". The Aviation Zone (2005) Retrieved 28 August 2005.

@@ -1,0 +1,119 @@
+In property law a concurrent estate or co-tenancy is any of various ways in which property is owned by more than one person at a time
+If more than one person owns the same property they are commonly referred to as co-owners
+Legal terminology for co-owners of real estate is either co-tenants or joint tenants with the latter phrase signifying a right of survivorship
+Most common law jurisdictions recognize tenancies in common and joint tenancies
+Many jurisdictions also recognize tenancies by the entirety which is effectively a joint tenancy between married persons
+Many jurisdictions refer to a joint tenancy as a joint tenancy with right of survivorship but they are the same as every joint tenancy includes a right of survivorship
+In contrast a tenancy in common does not include a right of survivorship
+The type of co-ownership does not affect the right of co-owners to sell their fractional interest in the property to others during their lifetimes but it does affect their power to will the property upon death to their devisees in the case of joint tenants
+However any joint tenant can change this by severing the joint tenancy
+This occurs whenever a joint tenant transfers his or her fractional interest in the property
+Laws can vary from place to place and the following general discussion will not be applicable in its entirety to all jurisdictions
+Under the common law Co-owners share a number of rights by default
+Each owner has an unrestricted right of access to the property
+When one co-owner wrongfully excludes another from using the shared property the excluded co-owner can bring a cause of action for ouster
+As a remedy the court may grant the wronged co-owner the fair rental value of the property for the time that they were ousted
+Each owner has a right to an accounting of profits made from the property
+If the property generates any income eg
+each owner is entitled to a pro-rata share of that income
+Each owner has a right of contribution for the costs of owning the property
+Co-owners can be forced to contribute to the payment of expenses such as property taxes necessary maintenance and repairs or mortgages for the entire propertyCo-owners generally do not have any obligation to contribute to any costs of improving the property
+If one co-owner adds a feature that enhances the value of the property that co-owner has no right to demand that any others share the cost of adding that feature even if other co-owners reap greater profits from the property because of it
+However at partition a co-owner is entitled to recover the value added by his or her improvements of the property if the improvements resulted in an increase in property value
+Conversely if the co-owner's improvements decrease the value of the property the co-owner is responsible for the decrease
+In an Australian case the High Court said that the costs of repairing by one co-owner must be taken into account on the partition or final distribution ie
+Each co-owner can independently encumber the co-owner's own share in the property by taking out a mortgage on that share although this may effectively convert a joint tenancy to a tenancy in common as described below other co-owners have no obligation to help pay a mortgage that only runs to another owner's share of the property and the mortgagee can only foreclose on that mortgagor's share
+Bank loans secured by mortgages on individual shares of co-owned property are one of the most rapidly expanding areas in the mortgage lending industry
+Tenancy in common TIC is a form of concurrent estate in which each owner referred to as a tenant in common is regarded by the law as owning separate and distinct shares of the same property
+By default all co-owners own equal shares but their interests may differ in size
+TIC owners own percentages in an undivided property rather than particular units or apartments and their deeds show only their ownership percentages
+The right of a particular TIC owner to use a particular dwelling comes from a written contract signed by all co-owners often called a Tenancy In Common Agreement not from a deed map or other document recorded in county records
+This form of ownership is most common where the co-owners are not married or have contributed different amounts to the purchase of the property
+The assets of a joint commercial partnership might be held as a tenancy in common
+Tenants in common have no right of survivorship meaning that if one tenant in common dies that tenant's interest in the property will be part of his or her estate and pass by inheritance to that owner's devisees or heirs either by will or by intestate succession
+Also as each tenant in common has an interest in the property they may in the absence of any restriction agreed to between all the tenants in common sell or otherwise deal with the interest in the property eg
+mortgage it during their lifetime like any other property interest
+Where any party to a tenancy in common wishes to terminate usually termed destroy the joint interest he or she may obtain a partition of the property
+This is a division of the land into distinctly owned lots if such division is legally permitted under zoning and other local land-use restrictions
+Where such division is not permitted a forced sale of the property is the only alternative followed by a division of the proceeds
+If the parties are unable to agree to a partition any or all of them may seek the ruling of a court to determine how the land should be divided physically division between the joint owners partition in kind leaving each with ownership of a portion of the property representing their share
+Courts may also order a partition by sale in which the property is sold and the proceeds are distributed to the owners
+Where local law does not permit physical division the court must order a partition by sale
+Each co-owner is entitled to partition as a matter of right meaning that the court will order a partition at the request of any of the co-owners
+The only exception to this general rule is where the co-owners have agreed either expressly or impliedly to waive the right of partition
+The right may be waived either permanently for a specific period of time or under certain conditions
+The court however will likely not enforce this waiver because it is a restraint on the alienability of property
+A joint tenancy or joint tenancy with right of survivorship JTWROS is a type of concurrent estate in which co-owners have a right of survivorship meaning that if one owner dies that owner's interest in the property will pass to the surviving owner or owners by operation of law and avoiding probate
+The deceased owner's interest in the property simply evaporates and cannot be inherited by his or her heirs
+Under this type of ownership the last owner living owns all the property and on his or her death the property will form part of their estate
+Unlike a tenancy in common where co-owners may have unequal interests in a property joint co-owners have an equal share in the property
+Creditors' claims against the deceased owner's estate may under certain circumstances be satisfied by the portion of ownership previously owned by the deceased but now owned by the survivor or survivors
+In other words the deceased's liabilities can sometimes remain attached to the property
+This form of ownership is common between spouses parent and child and in any other situation where parties want ownership to pass immediately and automatically to the survivor
+For bank and brokerage accounts held in this fashion the acronym JTWROS is commonly appended to the account name as evidence of the owners' intent
+To create a joint tenancy clear language indicating that intent must be used eg
+to AB and CD as joint tenants with right of survivorship and not as tenants in common
+This long form of wording may be especially appropriate in those jurisdictions which use the phrase joint tenancy as synonymous with a tenancy in common
+Shorter forms such as to AB and CD as joint tenants or to AB and CD jointly can be used in most jurisdictions
+Words to that effect may be used by the parties in the deed of conveyance or other instrument of transfer of title or by a testator in a will or in an inter vivos trust deed
+If a testator leaves property in a will to several beneficiaries jointly and one or more of those named beneficiaries dies before the will takes effect then the survivors of those named beneficiaries will inherit the whole property on a joint tenancy basis
+But if these named beneficiaries had been bequeathed the property on a tenancy in common basis but died before the will took effect then those beneficiaries' heirs would in turn inherit their share immediately the named beneficiary being deceased
+To create a joint tenancy the co-owners must share four unities
+Time the co-owners must acquire the property at the same time
+So for example if a piece of land was vested to ABCD as co-owners on January and ‘A’ died before the date leaving ‘K’ to succeed him for as between K on the one hand and BCD on the other hand there is no unity of time
+K becomes a tenant in common while BCD are joint tenants
+Title the co-owners must have the same title to the property
+If a condition applies to one owner and not another there is no unity of title
+Also there must be unity in the sense that title must emanate from the same grantor
+Thus in the hypothetical example above there is no unity of title between ‘K’ on the one hand and ‘BCD’ on the other hand because K derives his title from a distinct individual that is A
+Interest each co-owner owns an equal share of the property for example if three co-owners are on the deed then each co-owner owns a one-third interest in the property regardless of the amount each co-owner contributed to the purchase price
+Possession the co-owners must have an equal right to possess the whole propertyIf any of these elements is missing the joint tenancy is ineffective and the joint tenancy will be treated as a tenancy in common in equal shares
+If any joint co-owner deals in any way with a property inconsistent with a joint tenancy that co-owner will be treated as having terminated sometimes called breaking the joint tenancy
+The remaining co-owners maintain joint ownership of the remaining interest
+The dealing may be a conveyance or sale of the co-owner's share in the property
+The position in relation to a mortgage is more doubtful see below
+For example if one of three joint co-owners conveys his or her share in the property to a third party the third party owns a share on a tenancy in common basis while the other two original joint co-owners continue to hold the remaining s on a joint tenancy basis
+This result arises because the unity of time is broken that is because on the transfer the timing of the new interest is different from the original one
+If it is desired to continue to maintain a joint tenancy then the three original joint co-owners would need to transfer in the one instrument the joint interest to the two remaining joint co-owners and the new joint co-owner
+A joint co-owner may break a joint tenancy and maintain an interest in the property
+Most jurisdictions permit a joint owner to break a joint tenancy by the execution of a document to that effect
+But in jurisdictions that retain the common law requirements an exchange with a straw man is required
+This requires another person to buy the property from the joint co-owner for some nominal consideration followed immediately by a sale-back to the co-owner at the same price
+In either case the joint tenancy will revert to a tenancy in common as to that owner's interest in the property
+A significant issue can arise with the simple document execution method
+In the straw man approach there are witnesses to the transfer
+With the document there may not be witnesses
+With either method as soon as the break occurs it works both ways
+Because there may not be witnesses the party with the document could take advantage of that fact and hide the document when the other party dies
+If one joint co-owner takes out a mortgage on jointly owned property in some jurisdictions this may terminate the joint tenancy
+Jurisdictions which use a title theory in this situation treat a mortgage as an actual conveyance of title until the mortgage is repaid if not permanently
+In such jurisdictions the taking of a mortgage by one owner terminates the joint tenancy as to that co-owner
+In jurisdictions which use the lien theory the mortgage merely places a lien on the property leaving the joint tenancy undisturbed
+As a lien is not enough to terminate a joint tenancy if the debtor dies before the creditor sues the creditor is left with no claim against the property as the debtor's interest in the property evaporates and automatically vests in the other surviving co-owners
+A co-owner of a joint tenancy with rights of survivorship deed may sever the joint tenancy by filing a petition to partition
+A petition to partition is a legal right so usually there is no way to stop such an action
+When a court grants a partition action for a joint tenants with rights of survivorship deed the property is either physically broken into parts and each owner is given a part of equal value OR the property is sold and the proceeds are distributed equally between the co-owners regardless of contribution to purchase price
+No credits would be issued to any tenant who may have made a superior contribution toward purchase price
+Some states allow a co-owner the option of buying out the other co-owners to avoid a public sale of the property
+Some states also allow multiple co-owners to join their shares together to claim a majority ownership to avoid public sale of the property and to have the property awarded to the majority owners
+If the property is sold publicly the usual method is a public auction
+During a partition process credits may be granted to co-tenants who have paid property expenses in excess of their share such as utilities and property maintenance
+Credit may be given for improvements done to the property if the improvements have increased the value of the property
+No credit would be given for excess contribution to purchase price as joint tenancy with rights of survivorship deeds are taken in equal shares as a matter of law
+A tenancy by the entirety sometimes called a tenancy by the entireties is a type of concurrent estate formerly available only to married couples where ownership of property is treated as though the couple were a single legal person
+It is based on an old English common law view that a married couple is one legal person for the purpose of owning property
+In the State of Hawaii the option of ownership in an tenancy by the entirety is also available to domestic partners in a registered Reciprocal Beneficiary Relationship Vermont's Civil Union statute qualifies parties to a civil union for tenancy by the entirety
+Like a Joint Tenancy with Rights of Survivorship the tenancy by the entirety also encompasses a right of survivorship so if one spouse dies the entire interest in the property is said to ripen in the survivor so that sole control of the property ripens or passes in the ordinary sense to the surviving spouse without going through probate
+In some jurisdictions to create a tenancy by the entirety the parties must specify in the deed that the property is being conveyed to the couple as tenants by the entirety while in others a conveyance to a married couple is presumed to create a tenancy by the entirety unless the deed specifies otherwise
+see also Sociedad de gananciales Also besides sharing the four unities necessary to create a joint tenancy with right of survivorship time title interest and possession there must also be the fifth unity of marriage
+However unlike a JTWROS neither party in a tenancy by the entirety has a unilateral right to sever the tenancy
+The termination of the tenancy or any dealing with any part of the property requires the consent of both spouses
+A divorce of the parties to the marriage who own a property in a tenancy by the entirety automatically breaks the unity of marriage leaving the default tenancy
+In death or divorce there is a right of survivorship in the remaining spouse
+In New York State cooperatives where ownership by tenancy by the entirety has been an option for married couples since upon the couple divorcing either a if one spouse requests that their shares of stock in the co-op be reflected as being not in their name and solely in the name of the other spouse that will automatically and immediately take effect by law and must be so reflected by the registrar and transfer agent of the corporation or b if neither spouse makes such a request then divorce will automatically convert this type of ownership in co-op shares into a joint tenancy
+Some US jurisdictions no longer recognize tenancies by the entirety
+Where it is recognized benefits can include the ability to shield the property from creditors of only one spouse as well as the ability to partially shield the property where only one spouse is filing a petition for bankruptcy relief
+If a non-debtor spouse in a tenancy by the entirety survives a debtor spouse the lien can never be enforced against the property
+On the other hand if a debtor spouse survives a non-debtor spouse the lien may be enforced against the whole property not merely the debtor spouse's original half-interest
+In many states tenancy by the entireties is recognized as a valid form of ownership for bank accounts and financial assets
+Community propertyIRS Revenue Procedure - which covers the finer details controlling what constitutes a Tenant in Common for federal tax purposes

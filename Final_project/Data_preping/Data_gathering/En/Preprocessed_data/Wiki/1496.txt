@@ -1,0 +1,48 @@
+Plasma protein binding refers to the degree to which medications attach to proteins within the blood
+A drug's efficiency may be affected by the degree to which it binds
+The less bound a drug is the more efficiently it can traverse cell membranes or diffuse
+Common blood proteins that drugs bind to are human serum albumin lipoprotein glycoprotein and α β‚ and γ globulins
+A drug in blood exists in two forms bound and unbound
+Depending on a specific drug's affinity for plasma protein a proportion of the drug may become bound to plasma proteins with the remainder being unbound
+If the protein binding is reversible then a chemical equilibrium will exist between the bound and unbound states such that
+Protein + drug ⇌ Protein-drug complexNotably it is the unbound fraction which exhibits pharmacologic effects
+It is also the fraction that may be metabolized andor excreted
+For example the fraction bound of the anticoagulant warfarin is
+This means that of the amount of warfarin in the blood is bound to plasma proteins
+The remaining the fraction unbound is the fraction that is actually active and may be excreted
+Protein binding can influence the drug's biological half-life
+The bound portion may act as a reservoir or depot from which the drug is slowly released as the unbound form
+Since the unbound form is being metabolized andor excreted from the body the bound fraction will be released in order to maintain equilibrium
+Since albumin is alkalotic acidic and neutral drugs will primarily bind to albumin
+If albumin becomes saturated then these drugs will bind to lipoprotein
+Basic drugs will bind to the acidic alpha- acid glycoprotein
+This is significant because various medical conditions may affect the levels of albumin alpha- acid glycoprotein and lipoproteins
+Only the unbound fraction of the drug undergoes metabolism in the liver and other tissues
+As the drug dissociates from the protein more and more drug undergoes metabolism
+Changes in the levels of free drug change the volume of distribution because free drug may distribute into the tissues leading to a decrease in plasma concentration profile
+For the drugs which rapidly undergo metabolism clearance is dependent on the hepatic blood flow
+For drugs which slowly undergo metabolism changes in the unbound fraction of the drug directly change the clearance of the drug
+Note The most commonly used methods for measuring drug concentration levels in the plasma measure bound as well as unbound fractions of the drugThe fraction unbound can be altered by a number of variables such as the concentration of drug in the body the amount and quality of plasma protein and other drugs that bind to plasma proteins
+Higher drug concentrations would lead to a higher fraction unbound because the plasma protein would be saturated with drug and any excess drug would be unbound
+If the amount of plasma protein is decreased such as in catabolism malnutrition liver disease renal disease there would also be a higher fraction unbound
+Additionally the quality of the plasma protein may affect how many drug-binding sites there are on the protein
+Using drugs at the same time can sometimes affect each other's fraction unbound
+For example assume that Drug A and Drug B are both protein-bound drugs
+If Drug A is given it will bind to the plasma proteins in the blood
+If Drug B is also given it can displace Drug A from the protein thereby increasing Drug A's fraction unbound
+This may increase the effects of Drug A since only the unbound fraction may exhibit activity
+Note that for Drug A the increase in unbound fraction is hence Drug A's pharmacological effect can potentially double depending on whether the free molecules get to their target before they are eliminated by metabolism or excretion
+This change in pharmacologic effect could have adverse consequences
+However this effect is really only noticeable in closed systems where the pool of available proteins could potentially be exceeded by the number of drug molecules
+Biological systems such as humans and animals are open systems where molecules can be gained lost or redistributed and where the protein pool capacity is almost never exceeded by the number of drug molecules
+A drug that is bound means that of the drug molecules are bound to blood proteins not that of the blood proteins are bound with drug
+When two highly protein-bound drugs A and B are added into the same biological system it will lead to an initial small increase in the concentration of free drug A as drug B ejects some of the drug A from its proteins
+However this free drug A is now more available for redistribution into the body tissues andor for excretion
+This means the total amount of drug in the system will decrease quite rapidly keeping the free drug fraction the concentration of free drug divided by the total drug concentration constant and yielding almost no change in clinical effect
+The effects of drugs displacing each other and changing the clinical effect though important in some examples is vastly overestimated usually and a common example incorrectly used to display the importance of this effect is the anticoagulant Warfarin
+Warfarin is highly protein-bound and has a low therapeutic index
+Since a low therapeutic index indicates that there is a high risk of toxicity when using the drug any potential increases in warfarin concentration could be very dangerous and lead to hemorrhage
+In horses it is very true that if warfarin and phenylbutazone are administered concurrently the horse can develop bleeding issues which can be fatal
+This is often explained as being due to the effect of phenylbutazone ejecting warfarin from its plasma protein thus increasing the concentration of free warfarin and increasing its anticoagulant effect
+However the real problem is that phenylbutazone interferes with the liver's ability to metabolize warfarin so free warfarin cannot be metabolized properly or excreted
+This leads to an increase in free warfarin and the resulting bleeding issues

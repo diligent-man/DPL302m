@@ -1,0 +1,35 @@
+ChemSpider is owned by the Royal Society of Chemistry
+The database contains information on more than million molecules from over data sources including
+xPharmEach chemical is given a unique identifier which forms part of a corresponding URL
+For example acetone is and thus has the URL httpwwwchemspidercomChemical-Structurehtml
+The ChemSpider database can be updated with user contributions including chemical structure deposition spectra deposition and user curation
+This is a crowdsourcing approach to develop an online chemistry database
+Crowdsourced based curation of the data has produced a dictionary of chemical names associated with chemical structures that has been used in text-mining applications of the biomedical and chemical literature
+However database rights are not waived and a data dump is not available in fact the FAQ even states that only limited downloads are allowed therefore the right to fork is not guaranteed and the project can't be considered freeopen
+A number of available search modules are provided
+The standard search allows querying for systematic names trade names and synonyms and registry numbers
+The advanced search allows interactive searching by chemical structure chemical substructure using also molecular formula and molecular weight range CAS numbers suppliers etc
+The search can be used to widen or restrict already found results
+Structure searching on mobile devices can be done using free apps for iOS iPhoneiPodiPad and for the Android operating systemThe ChemSpider database has been used in combination with text mining as the basis of chemistry document markup
+ChemMantis the Chemistry Markup And Nomenclature Transformation Integrated System uses algorithms to identify and extract chemical names from documents and web pages and converts the chemical names to chemical structures using name-to-structure conversion algorithms and dictionary look-ups in the ChemSpider database
+The result is an integrated system between chemistry documents and information look-up via ChemSpider into over data sources
+ChemSpider was acquired by the Royal Society of Chemistry RSC in May
+Prior to the acquisition by RSC ChemSpider was controlled by a private corporation ChemZoo Inc
+The system was first launched in March in a beta release form and transitioned to release in March
+A number of services are made available online
+These include the conversion of chemical names to chemical structures the generation of SMILES and InChI strings as well as the prediction of many physicochemical parameters and integration to a web service allowing NMR prediction
+SyntheticPages is a free interactive database of synthetic chemistry procedures operated by the Royal Society of Chemistry
+Users submit synthetic procedures which they have conducted themselves for publication on the site
+These procedures may be original works but they are more often based on literature reactions
+Citations to the original published procedure are made where appropriate
+They are checked by a scientific editor before posting
+The pages do not undergo formal peer-review like a scientific journal article but comments can be made by logged-in users
+The comments are also moderated by scientific editors
+The intention is to collect practical experience of how to conduct useful chemical synthesis in the lab
+While experimental methods published in an ordinary academic journal are listed formally and concisely the procedures in ChemSpider SyntheticPages are given with more practical detail
+Comments by submitters are included as well
+Other publications with comparable amounts of detail include Organic Syntheses and Inorganic Syntheses
+The SyntheticPages site was originally set up by Professors Kevin Booker-Milburn University of Bristol Stephen Caddick University College London Peter Scott University of Warwick and Dr Max Hammond
+In February a merger was announced with the Royal Society of Chemistry's chemical structure search engine ChemSpider and the formation of ChemSpiderSyntheticPages CSSP
+ChemSpider served as the chemical compound repository as part of the Open PHACTS project an Innovative Medicines Initiative
+Open PHACTS developed to open standards with an open access semantic web approach to address bottlenecks in small molecule drug discovery - disparate information sources lack of standards and information overload

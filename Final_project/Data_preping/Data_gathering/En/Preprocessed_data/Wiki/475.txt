@@ -1,0 +1,86 @@
+Stochastic from Greek στόχος stkhos 'aim guess' refers to the property of being well described by a random probability distribution
+Although stochasticity and randomness are distinct in that the former refers to a modeling approach and the latter refers to phenomena themselves these two terms are often used synonymously
+Furthermore in probability theory the formal concept of a stochastic process is also referred to as a random process
+Stochasticity is used in many different fields including the natural sciences such as biology chemistry ecology neuroscience and physics as well as technology and engineering fields such as image processing signal processing information theory computer science cryptography and telecommunications
+It is also used in finance due to seemingly random changes in financial markets as well as in medicine linguistics music media colour theory botany manufacturing and geomorphology
+Stochastic modeling is also used in social science
+The word stochastic in English was originally used as an adjective with the definition pertaining to conjecturing and stemming from a Greek word meaning to aim at a mark guess and the Oxford English Dictionary gives the year as its earliest occurrence
+In his work on probability Ars Conjectandi originally published in Latin in Jakob Bernoulli used the phrase Ars Conjectandi sive Stochastice which has been translated to the art of conjecturing or stochastics
+This phrase was used with reference to Bernoulli by Ladislaus Bortkiewicz who in wrote in German the word Stochastik with a sense meaning random
+The term stochastic process first appeared in English in a paper by Joseph Doob
+For the term and a specific mathematical definition Doob cited another paper where the term stochastischer Prozeß was used in German by Aleksandr Khinchin though the German term had been used earlier in by Andrey Kolmogorov
+In the early s Aleksandr Khinchin gave the first mathematical definition of a stochastic process as a family of random variables indexed by the real line
+Further fundamental work on probability theory and stochastic processes was done by Khinchin as well as other mathematicians such as Andrey Kolmogorov Joseph Doob William Feller Maurice Frchet Paul Lvy Wolfgang Doeblin and Harald Cramr
+Decades later Cramr referred to the s as the heroic period of mathematical probability theory
+In mathematics the theory of stochastic processes is an important contribution to probability theory and continues to be an active topic of research for both theory and applications
+The word stochastic is used to describe other terms and objects in mathematics
+Examples include a stochastic matrix which describes a stochastic process known as a Markov process and stochastic calculus which involves differential equations and integrals based on stochastic processes such as the Wiener process also called the Brownian motion process
+One of the simplest continuous-time stochastic processes is Brownian motion
+This was first observed by botanist Robert Brown while looking through a microscope at pollen grains in water
+The Monte Carlo method is a stochastic method popularized by physics researchers Stanisław Ulam Enrico Fermi John von Neumann and Nicholas Metropolis
+The use of randomness and the repetitive nature of the process are analogous to the activities conducted at a casino
+Methods of simulation and statistical sampling generally did the opposite using simulation to test a previously understood deterministic problem
+Though examples of an inverted approach do exist historically they were not considered a general method until the popularity of the Monte Carlo method spread
+Perhaps the most famous early use was by Enrico Fermi in when he used a random method to calculate the properties of the newly discovered neutron
+Monte Carlo methods were central to the simulations required for the Manhattan Project though they were severely limited by the computational tools of the time
+Therefore it was only after electronic computers were first built from on that Monte Carlo methods began to be studied in depth
+In the s they were used at Los Alamos for early work relating to the development of the hydrogen bomb and became popularized in the fields of physics physical chemistry and operations research
+Air Force were two of the major organizations responsible for funding and disseminating information on Monte Carlo methods during this time and they began to find a wide application in many different fields
+Uses of Monte Carlo methods require large amounts of random numbers and it was their use that spurred the development of pseudorandom number generators which were far quicker to use than the tables of random numbers which had been previously used for statistical sampling
+Stochastic resonance In biological systems introducing stochastic noise has been found to help improve the signal strength of the internal feedback loops for balance and other vestibular communication
+It has been found to help diabetic and stroke patients with balance control
+Many biochemical events also lend themselves to stochastic analysis
+Gene expression for example has a stochastic component through the molecular collisions—as during binding and unbinding of RNA polymerase to a gene promoter—via the solution's Brownian motion
+Simonton Psych Bulletin argues that creativity in science of scientists is a constrained stochastic behaviour such that new theories in all sciences are at least in part the product of a stochastic process
+Stochastic ray tracing is the application of Monte Carlo simulation to the computer graphics ray tracing algorithm
+Distributed ray tracing samples the integrand at many randomly chosen points and averages the results to obtain a better approximation
+It is essentially an application of the Monte Carlo method to D computer graphics and for this reason is also called Stochastic ray tracing
+Stochastic forensics analyzes computer crime by viewing computers as stochastic processes
+In artificial intelligence stochastic programs work by using probabilistic methods to solve problems as in simulated annealing stochastic neural networks stochastic optimization genetic algorithms and genetic programming
+A problem itself may be stochastic as well as in planning under uncertainty
+The financial markets use stochastic models to represent the seemingly random behaviour of assets such as stocks commodities relative currency prices ie the price of one currency compared to that of another such as the price of US Dollar compared to that of the Euro and interest rates
+These models are then used by quantitative analysts to value options on stock prices bond prices and on interest rates see Markov models
+Moreover it is at the heart of the insurance industry
+The formation of river meanders has been analyzed as a stochastic process
+Non-deterministic approaches in language studies are largely inspired by the work of Ferdinand de Saussure for example in functionalist linguistic theory which argues that competence is based on performance
+This distinction in functional theories of grammar should be carefully distinguished from the langue and parole distinction
+To the extent that linguistic knowledge is constituted by experience with language grammar is argued to be probabilistic and variable rather than fixed and absolute
+This conception of grammar as probabilistic and variable follows from the idea that one's competence changes in accordance with one's experience with language
+Though this conception has been contested it has also provided the foundation for modern statistical natural language processing and for theories of language learning and change
+Manufacturing processes are assumed to be stochastic processes
+This assumption is largely valid for either continuous or batch manufacturing processes
+Testing and monitoring of the process is recorded using a process control chart which plots a given process control parameter over time
+Typically a dozen or many more parameters will be tracked simultaneously
+Statistical models are used to define limit lines which define when corrective actions must be taken to bring the process back to its intended operational window
+This same approach is used in the service industry where parameters are replaced by processes related to service level agreements
+The marketing and the changing movement of audience tastes and preferences as well as the solicitation of and the scientific appeal of certain film and television debuts ie their opening weekends word-of-mouth top-of-mind knowledge among surveyed groups star name recognition and other elements of social media outreach and advertising are determined in part by stochastic modeling
+A recent attempt at repeat business analysis was done by Japanese scholars and is part of the Cinematic Contagion Systems patented by Geneva Media Holdings and such modeling has been used in data collection from the time of the original Nielsen ratings to modern studio and television test audiences
+Stochastic effect or chance effect is one classification of radiation effects that refers to the random statistical nature of the damage
+In contrast to the deterministic effect severity is independent of dose
+Only the probability of an effect increases with dose
+In music mathematical processes based on probability can generate stochastic elements
+Stochastic processes may be used in music to compose a fixed piece or may be produced in performance
+Stochastic music was pioneered by Iannis Xenakis who coined the term stochastic music
+Specific examples of mathematics statistics and physics applied to music composition are the use of the statistical mechanics of gases in Pithoprakta statistical distribution of points on a plane in Diamorphoses minimal constraints in Achorripsis the normal distribution in ST and Atres Markov chains in Analogiques game theory in Duel and Stratgie group theory in Nomos Alpha for Siegfried Palm set theory in Herma and Eonta and Brownian motion in N'Shima
+Xenakis frequently used computers to produce his scores such as the ST series including Morsima-Amorsima and Atres and founded CEMAMu
+Earlier John Cage and others had composed aleatoric or indeterminate music which is created by chance processes but does not have the strict mathematical basis Cage's Music of Changes for example uses a system of charts based on the I-Ching
+Lejaren Hiller and Leonard Issacson used generative grammars and Markov chains in their Illiac Suite
+Modern electronic music production techniques make these processes relatively simple to implement and many hardware devices such as synthesizers and drum machines incorporate randomization features
+Generative music techniques are therefore readily accessible to composers performers and producers
+Stochastic social science theory is similar to systems theory in that events are interactions of systems although with a marked emphasis on unconscious processes
+The event creates its own conditions of possibility rendering it unpredictable if simply for the number of variables involved
+Stochastic social science theory can be seen as an elaboration of a kind of 'third axis' in which to situate human behavior alongside the traditional 'nature vs
+See Julia Kristeva on her usage of the 'semiotic' Luce Irigaray on reverse Heideggerian epistemology and Pierre Bourdieu on polythetic space for examples of stochastic social science theory
+The term Stochastic Terrorism has fallen into frequent use with regard to lone wolf terrorism
+The terms Scripted Violence and Stochastic Terrorism are linked in a cause effect relationship
+Scripted Violence rhetoric can result in an act of Stochastic Terrorism The phrase scripted violence has been used in social science since at least
+Author David Neiwert who wrote the book Alt-America told Salon interviewer Chauncey Devega
+When color reproductions are made the image is separated into its component colors by taking multiple photographs filtered for each color
+One resultant film or plate represents each of the cyan magenta yellow and black data
+Color printing is a binary system where ink is either present or not present so all color separations to be printed must be translated into dots at some stage of the work-flow
+Traditional line screens which are amplitude modulated had problems with moir but were used until stochastic screening became available
+A stochastic or frequency modulated dot pattern creates a sharper image
+Stochastic processFormalized Music Thought and Mathematics in Composition by Iannis Xenakis ISBN ---
+Frequency and the Emergence of Linguistic Structure by Joan Bybee and Paul Hopper eds ISBN ---ISBN --- Eur
+The Stochastic Empirical Loading and Dilution Model provides documentation and computer code for modeling stochastic processes in Visual Basic for Applications
+The dictionary definition of stochastic at Wiktionary

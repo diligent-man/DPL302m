@@ -1,0 +1,115 @@
+Google Nest previously named Google Home is a line of smart speakers developed by Google under the Google Nest brand
+The devices enable users to speak voice commands to interact with services through Google Assistant the company's virtual assistant
+Both in-house and third-party services are integrated allowing users to listen to music control playback of videos or photos or receive news updates entirely by voice
+Google Nest devices also have integrated support for home automation letting users control smart home appliances with their voice command
+The first device Google Home was released in the United States in November subsequent product releases have occurred globally since
+Through software updates to Google Nest devices and Google Assistant additional functionality has been added over time
+For example multiple speakers can be set up for synchronized playback of music
+An update in April brought multi-user support allowing the device to distinguish between up to six people by voice
+In May Google announced multiple updates including hands-free phone calling at no cost in Canada and the United States proactive reminders ahead of scheduled events visual responses on mobile devices or Chromecast-enabled televisions Bluetooth audio streaming and the ability to add reminders and calendar appointments
+The original Google Home speaker released in November featured a cylindrical shape with colored status LEDs on top
+In October Google announced two additions to the product lineup the miniature puck-shaped Google Home Mini and a larger Google Home Max
+In October the company released the Google Home Hub a smart speaker with a -inch touchscreen
+In May Google announced that Google Home devices would be rebranded under the Google Nest banner and it unveiled the Nest Hub Max a larger smart display
+In March reports were published about Google developing a wireless speaker to compete against the Amazon Echo
+Google Home was officially announced at the company's developer conference in May where it was also announced that Home would run the Google Assistant a conversational evolution of Google Now intended to be integrated in other products announced at the conference as well
+In October the iOS and Android mobile app used to initially set up Google Home and Google's other streaming devices was renamed from Google Cast to Google Home leaving Google Cast as the name solely of the protocol that sends audiovideo content to play back on another device
+The Google Home smart speaker was released in the US on November and in the UK on April
+In May Google announced that Home would be heading to Australia Canada France Germany and Japan in middle and the device subsequently became available for pre-order in Canada on June with a retail date of June
+In July Google announced the release of Google Home in Australia on July France on August Germany on August and Italy on March
+On October Google announced Google Home Mini a smaller less expensive variant that was released on October as well as Google Home Max a larger more expensive variant that was released on December
+The Google Home and Home Mini were released in India on April and the Nest Hub was released on August
+As of May the Google Home was planned for release in Denmark South Korea Mexico the Netherlands Norway Spain and Sweden
+On May during the Google IO keynote Google announced that all of their smart home products will henceforth be marketed under the Nest brand
+Nest had been subsumed by Google's home hardware unit in July
+On July a report published by Belgian broadcaster VRT NWS managed to gain access to more than a thousand audio excerpts recorded by Google Assistant in Belgium and the Netherlands
+The audio files were sent to Google employees to develop Google Assistant's speech technology
+According to the VRT NWS report of the audio files should have never been recorded and during which the command OK Google was clearly not given
+In some cases the recordings included bedroom conversations conversations between parents and their children but also blazing rows and professional phone calls containing lots of private information
+Google defended the practice in a blog post As part of our work to develop speech technology for more languages we partner with language experts around the world who understand the nuances and accents of a specific language Google wrote
+These language experts review and transcribe a small set of queries to help us better understand those languages
+This is a critical part of the process of building speech technology and is necessary to creating products like the Google Assistant
+In October the Google Home branding returned as a smart home platform for developers
+The original Google Home model is a cylindrical speaker that is inches millimetres tall and inches millimetres in diameter
+The top surface of the device features colored status LEDs and features capacitive touch controls to start and stop music and adjust volume
+A mute button is located on the back of the device which disables the microphones
+The base of the device is covered by a shell acting as a speaker grille which is designed to be removed and replaced with one that suits the decor of a room
+As of November Google offers fabric shells in Mango Marine and Violet color finishes and metallic shells in Carbon Copper and Snow finishes
+The Information reported that Google Home's internal hardware was very similar to that of the Chromecast with the same ARM processor and Wi-Fi chip
+In November a teardown of the original model by iFixit confirmed that the device featured many of the same hardware components as the second-generation Chromecast
+Google unveiled the Google Home Mini during a hardware-focused event on October which was released on October
+It is a variant of Google Home with the same overall functionality but in a smaller pebble-like form factor around inches cm in diameter with a fabric top that its white-colored status lights shine through
+It has a mute switch rather than a mute button and uses a micro USB connection for power
+It is available in the colors aqua chalk charcoal and coral
+Analysts compared the Google Home Mini to Amazon's equivalent Echo Dot model
+Prior to its release a phantom input bug was discovered where its touch-sensitive surface—which could be tapped to activate Assistant without using a hotword command—inadvertently activated on its own resulting in unwanted voice recording
+Due to privacy concerns Google removed the feature entirely from all units via a software update
+In December Google released an update to Home Mini letting users to long-press the volume buttons to play and pause audio
+During its October event Google unveiled the Google Home Max which was released on December
+It is a larger version of the Google Home device with stereo speakers including two tweeters and subwoofers an audio connector input and a USB Type-C connector intended for a wired ethernet adapter
+It was released in the colors chalk and charcoal and has a magnetically attached stand for vertical orientation and Smart Sound an adaptive audio system that uses machine learning to automatically adjust sound output based on factors such as the environment including placement and sources of noise and time of day
+Reviewers compared the Home Max to Sonos smart speakers and Apple's HomePod
+The Google Home Max was discontinued from sale on December
+On October Google unveiled the Google Home Hub which features a -inch x touchscreen display that can be used to provide visual feedback for queries
+The Home View feature provides a centralized visual interface for controlling supported smart home devices and Nest video cameras other vendors such as Wyze and Arlo can also be streamed
+Unlike its closest competitor the Amazon Echo Show the Home Hub does not include a camera for video calls citing customer privacy concerns
+Although Google has developed an OEM solution for Assistant-powered smart display devices based on Android Things and a Qualcomm system-on-chip the Home Hub utilizes a different hardware platform
+The device is available in light grey dark grey pink and aqua blue
+A reported security issue in the Home Hub was dismissed by Google as a non-issue as an attack would require access to the same Wi-Fi network as the device
+On May the Google Home Hub was rebranded and renamed to the Google Nest Hub
+On May an update for the Preview Program released to the first generation model replaced the Linux-based Cast OS with Google Fuchsia becoming the first commercial device to ever feature the operating system
+On March a second generation of the Google Nest Hub was released
+The second generation sported more bass and a sleep sensor
+The Nest Hub kept its -inch touchscreen
+A larger version of the Google Nest Hub called the Google Nest Hub Max was announced on May
+It features a -inch x display integrated camera which can be used for face recognition Google Duo video calls and as a security camera and larger speakers with a rear-facing subwoofer
+On October Google unveiled a second-generation model of the Home Mini branded as the Google Nest Mini
+It includes a larger speaker an additional microphone a machine learning chip that can cache voice recognition data for commonly-used commands locally and ultrasonic sensing
+It is similar in design to the first-generation Home Mini except its cover is now made from recycled plastic
+The back of the Nest Mini contains a hole for wall-mounting with a screw and it contains LED lights that highlight the touch areas for volume control
+It is available in the colors chalk charcoal coral and sky blue
+On September Google released the Google Nest Audio which acts as the successor to the original Google Home and incorporates some design elements of the Home Max
+Google Assistant an intelligent personal assistant is included as the main and only assistant in Google Home
+Unlike its predecessor Google Now Assistant is able to engage in two-way conversations with users
+The Wall Street Journal reported in October that Google hired writers from Pixar movies and The Onion satirical newspaper to develop a personality for the Assistant with a long-term goal being to invoke a sense of emotional rapport in users
+Various forms of both in-house and third-party services are integrated into Google Home allowing users to speak voice commands to control interaction with them
+Examples of supported services include Google Play Music Spotify and iHeartRadio for audio Netflix YouTube and Google Photos for videos and photos Google Calendar and Google Keep for tasks and CNN CNBC BBC and The Wall Street Journal for news updates
+New services are integrated on an ongoing basis
+Users can connect and group together multiple Home speakers for synchronized playback of music in every room
+A notable feature omission multiple accounts was criticized by JR Raphael of Computerworld in November but an update for users in the United States in April enabled the feature
+Google Home can now recognize up to six different voices pulling information from their different accounts depending on who's talking
+Google Home has integration with each user's calendar for adding reminders or appointments verbally
+Google Home includes home automation features enabling owners to use it as a central hub to control smart devices
+Examples of supported devices include the Chromecast digital media player and products from Nest SmartThings Philips Hue LIFX LightwaveRF and Logitech Harmony
+In May Google announced multiple updates to Google Home's functionality
+It now supports hands-free calling letting users make calls to any landline or mobile phone in the United States Canada and later the UK for free
+Google Voice users can set Google Home with voice number to make personal and business calls
+There is no -- emergency services support however
+Proactive Assistance enables the device to dictate updates to users without being asked including updates on traffic before a scheduled event
+Visual Responses let users send answers from Google Home onto their mobile device or Chromecast-enabled television
+The device now also supports Bluetooth audio streaming through compatible devices including phones tablets and computers and the ability to schedule calendar appointments with upcoming support for reminders
+On March Google made the announcement via their blog that users would be able to pair any of their Google Home devices to their own Bluetooth speakers without requiring the use of a Chromecast streamer
+On November Google announced their partnership with Disney to bring interactive read-along books to Google Home
+In Apple Google Amazon and Zigbee Alliance announced a partnership to make smart home products work together
+To use Google Assistant a user of any Nest Google Home device must register and sync an account using the Google Home mobile app
+In the app a setting allows the user to teach Google Assistant their voice
+The Google voice technology can be used in digital forensics where the words OK Google are capable of unlocking mobile locks
+A mobile device can be found unlocked and data can be extracted through the use of a suspect's voice file
+Hey Google can also be used to wake up the device
+Some features of Nest devices require the voice to be verified as to determine if the user is the owner
+The device can also tell if it is connected to other smart devices which can find stored data
+The original Google Home received favorable reviews
+The Google Home's design and sound inputoutput received significant praise while a lack of interoperability between other Google Assistant-enabled devices was criticized
+Critics also expressed concerns about Google's intentions with the device particularly whether or not features would be more tightly integrated into other Google products
+David Pierce of Wired compared Google Home to Amazon Echo writing in a summary that Sometimes Home feels like sci-fi magic
+Sometimes it reaches beyond its grasp and falls flat
+The Echo is less impressive but more reliable
+Pierce praised the look of Google Home writing that it feels minimalist thoughtful and warm in the environment and also praised its speaker describing it as richer brighter and more dynamic than the Echo and loud enough to fill a room
+While noting that Home's use of the Google Assistant functioned in different ways than it does through the Allo app or Pixel smartphone meaning quick instructions rather than longer tasks he praised its search abilities writing that you’d expect Home to excel at search
+It does despite some wrong search hiccups
+Pierce criticized its lack of interoperability with other Google Assistant-enabled devices though he called its future potential for connecting information across Google's product lines enormous
+Ron Amadeo of Ars Technica praised Google Home's setup process and its ability to pick up voice commands even from a distance calling the latter absolutely incredible
+He noted the device's limiting of its Bluetooth capabilities at the time before the May update however writing that it's important to know that Google Home is not a Bluetooth speaker it's purely a Google Cast device
+If you want to play audio on a Google Home the service needs to have a Google Cast button
+He similarly criticized the Assistant's lack of cross-device functionality writing that Pretty much all the actions you send to a Google Home will stay on that Google Home and there's never an interaction with your phone and he noted concerns and questions regarding whether Google has an intention to incorporate the functionality deeper into its product lines
+Additionally in his summary he wrote that Why pay for a device that is less capable than an Android phone

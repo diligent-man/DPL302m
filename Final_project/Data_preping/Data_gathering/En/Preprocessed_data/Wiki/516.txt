@@ -1,0 +1,176 @@
+The Boeing Next Generation commonly abbreviated as NG or Next Gen is a narrow-body aircraft powered by two jet engines and produced by Boeing Commercial Airplanes
+Launched in as the third generation derivative of the Boeing it has been produced since and is an upgrade of the Classic −-- series
+It has a redesigned wing with a larger area a wider wingspan greater fuel capacity and higher maximum takeoff weights MTOW and longer range
+It has CFM International CFM- series engines a glass cockpit and upgraded and redesigned interior configurations
+The series includes four variants the −--- seating between and passengers
+The NG's primary competition is the Airbus A family
+As of May a total of NG aircraft had been ordered of which had been delivered with remaining orders for two - and -A variants
+The most common variant was the - with commercial military and corporate or a total of jets ordered
+Boeing stopped assembling commercial NGs in and made the final deliveries in January
+The NG is superseded by the fourth generation MAX introduced in
+When regular Boeing customer United Airlines bought the more technologically advanced Airbus A with fly-by-wire controls this prompted Boeing to update the slower shorter-range Classic variants into the more efficient longer New Generation variants
+In Boeing initiated development of an updated series of aircraft
+After working with potential customers the Next Generation NG program was announced on November
+The first NG to roll out was a − on December
+This aircraft the rd built first flew on February with pilots Mike Hewett and Ken Higgins
+The prototype − rolled out on June and first flew on July piloted by Jim McRoberts and again by Hewett
+The smallest of the new variants the − series is identical in size to the − launching in December with an initial flight occurring January it was granted FAA certification on August
+The flight test program used aircraft -s -s and -s
+In Boeing offered a Short Field Performance package in response to the needs of Gol Transportes Areos which frequently operates from restricted airports
+The enhancements improve takeoff and landing performance
+The optional package is available for the NG models and standard equipment for the -ER
+In July Boeing offered Messier-Bugatti-Dowty's new carbon brakes for the Next-Gen s which are intended to replace steel brakes and will reduce the weight of the brake package by pounds kg depending on whether standard or high-capacity steel brakes were fitted
+A weight reduction of pounds kg on a - results in reduction in fuel burn
+Delta Air Lines received the first Next-Gen model with this brake package a - at the end of July
+The CFM-B Evolution nacelle began testing in August to be used on the new PIP Performance Improvement Package due to enter service mid-
+This new improvement is said to shave at least off the overall drag and have some weight benefits
+Overall it is claimed to have a improvement on fuel burn on longer stages
+This short-field design package is an option on the - - and - and is standard equipment for the new -ER
+These enhanced short runway versions could increase pay or fuel loads when operating on runways under feet m
+Landing payloads were increased by up to lb on the - and -ER and up to lb on the - and -
+Takeoff payloads were increased by up to lb on the - and -ER and up to lb on the - and -
+A winglet lift credit achieved through additional winglet testing that reduces the minimum landing-approach speeds
+Takeoff performance improvements such as the use of sealed leading-edge slats on all takeoff flap positions allowing the airplane to climb more rapidly on shorter runways
+A reduced idle thrust transition delay between approach and ground-idle speeds which improves stopping distances and increases field-length-limited landing weight
+Increased flight-spoiler deflection from to improving aerodynamic braking on landing
+A two-position tail skid at the rear of the aircraft to protect against inadvertent tailstrikes during landing which allows higher aircraft approach attitudes and lower landing speedsThe first enhanced version was delivered to Gol Transportes Areos GOL on July
+At that time twelve customers had ordered the package for more than airframes
+Customers include GOL Alaska Airlines Air Europa Air India Egyptair GE Commercial Aviation Services GECAS Hapagfly Japan Airlines Pegasus Airlines Ryanair Sky Airlines and Turkish Airlines
+In three ex-Boeing employees filed a lawsuit on behalf of the US
+government claiming that dozens of NG contained defective structural elements supplied by airframe manufacturer Ducommun allegations denied by Boeing
+The federal judge presiding the case sided with Boeing and a subsequent court of appeal also ruled in favor of the company
+A documentary by Al Jazeera alleged that in three crashes involving NGs Turkish Airlines Flight American Airlines Flight and AIRES Flight the fuselage broke up following impact with the ground because of the defective structural components that were the subject of the lawsuit
+However the accident investigations in all three cases did not highlight any link between post-impact structural failures and manufacturing issues
+During an inspection of a NG in that had flights fatigue cracks were found on a fuselage-to-wing attachment known as a pickle fork designed to last a lifetime of flights
+Boeing reported the issue to the FAA at the end of September and more planes showed similar cracking after inspection
+The cracks were found in an airliner with more than flights when it was stripped down for conversion to freighter
+Aircraft with more than flights years at flights per year should be inspected within one week while those with over flights years should be inspected within one year
+The FAA Airworthiness Directive AD was issued on October
+Of the first inspected aircraft had cracks and were grounded Boeing expected to repair the first aircraft three weeks after the issuance of the directive serving as the template for the resulting Service bulletin
+Of the examined aircraft over cycles had structural cracks leaving NGs over cycles to be inspected within their next cycles i
+e nearly all of the US in-service fleet of
+By early November aircraft were inspected with cracks on about
+Cracks were discovered near fasteners outside the original area in four airplanes
+On November Boeing recommended expanding the checks to include them to be mandated in a November FAA AD
+Aircraft below cycles were to be reinspected within cycles within days above
+About one-quarter of the global NG fleet of aircraft were to be inspected
+Following the contained engine failure of the Southwest Airlines Flight on April the NTSB recommended on November to redesign and retrofit its nacelle for the airplanes in service
+Boeing was to increase production from units per month in September to in January and to units per month in
+Production rate was units per month in and was planned to reach rates of units per month in and units per month in
+In the monthly production rate was targeted to reach units per month in even to the factory limit of units later
+A single airplane was then produced in the Boeing Renton Factory in days less than half what it was a few years before
+The empty fuselage from Spirit AeroSystems in Wichita Kansas enters the plant on Day
+Electrical wiring is installed on Day and hydraulic machinery on Day
+On Day the fuselage is crane-lifted and rotated degrees wings are mated to the airplane in a six-hour process along with landing gear and the airplane is again rotated °
+The final assembly process begins on Day with the installation of airline seats galleys lavatories overhead bins etc
+Engines are attached on Day and it rolls out of the factory for test flights on Day
+The last aircraft assembled was delivered to KLM in December the last two deliveries were to China Eastern Airlines on January
+Production of the P- Poseidon variant continues
+The FAA has proposed a fine of approximately million for Boeing's alleged installation of the same faulty components of the MAX on some one hundred and thirty-three NGs
+From Boeing discussed replacing the with a clean sheet design internally named Boeing Y that could follow the Boeing Dreamliner
+A decision on this replacement was postponed and delayed into
+In Boeing launched the MAX an updated and re-engined version of the NG with more efficient CFM International LEAP-B engines and aerodynamic changes with distinctive split-tip winglets
+The first MAX performed its first flight in January
+The fourth generation MAX supersedes the third generation NG
+The wing was redesigned with a new thinner airfoil section and a greater chord and increased wing span by ft m increased the wing area by which also increased total fuel capacity by
+New quieter and more fuel-efficient CFM-B engines are used
+The NG includes redesigned vertical stabilizers and winglets are available on most models
+The NG encompasses the - - - and - with improved performance and commonality retained from previous models
+The wing engine and fuel capacity improvements combined increase the 's range by nmi km to over nmi km permitting transcontinental service
+The Speed Trim System introduced on the Classic has been updated for the NG to include a stall identification function
+Originally inhibited in high alpha scenarios STS operates at any speed on the NG
+STS is triggered by airspeed sensor and commands Airplane Nose Down as the airplane slows down
+The flight deck was upgraded with modern avionics and passenger cabin improvements similar to those on the Boeing including more curved surfaces and larger overhead bins than previous-generation s
+The Next Generation interior was also adopted on the Boeing -
+This improved on the previous interior of the Boeing - and the Boeing Classic variants the new interior became optional on the -
+In new interior options for the NG included the -style Boeing Sky Interior
+It introduced new pivoting overhead bins a first for a Boeing narrow-body aircraft new sidewalls new passenger service units and LED mood lighting
+Boeing's newer Space Bins can carry percent more than the pivoting bins thus allowing a - to hold carry-on bags
+Boeing also offered it as a retrofit for older NG aircraft
+The - was launched by SAS in March with the first aircraft delivered in September
+A total of have been produced with the last aircraft delivered to WestJet in
+Boeing displayed the - in its price list until August
+The - replaces the - and is similar to the Airbus A
+WestJet was to launch the - with winglets but dropped them in
+In November Southwest Airlines launched the Next-Generation program with an order for -s and took delivery of the first one in December
+It replaced the - typically seating passengers in two classes to in all-economy configuration similar to the Airbus A
+In long-range cruise it burns lb kg per hour at Mach kn kmh and FL increasing to lb kg at Mach Mach kn kmh
+As of July all - series on order - - BBJ -C and -W aircraft have been delivered
+By June around one thousand were in service half of them with Southwest Airlines followed by Westjet with and United Airlines with
+The value of a new - stayed around million from to
+A aircraft was valued for million in and million in and will be scrapped for million by
+The -C is a convertible version where the seats can be removed to carry cargo instead
+There is a large door on the left side of the aircraft
+The United States Navy was the launch customer for the -C under the military designation C- Clipper
+Boeing launched the -ER Extended Range on January with All Nippon Airways as the launch customer
+Inspired by the Boeing Business Jet it features the fuselage of the - and the wings and landing gear of the -
+When outfitted with nine auxiliary fuel tanks it can hold gallons L of fuel with a lb kg MTOW but with a cargo payload capacity significantly decreased from to cu ft to m trading payload for increased range
+The first was delivered on February to ANA with business class and premium economy seats only
+A - can typically accommodate passengers in two classes
+It is similar to the Airbus ALR
+The Boeing - is a stretched version of the -
+The Boeing - competes primarily with the Airbus A
+The - seats passengers in a two-class layout or passengers in a one-class layout
+Launch customer Hapag-Lloyd Flug now TUI fly Deutschland received the first one in April
+Following Boeing's merger with McDonnell Douglas the - also filled the gap left by Boeing's decision to discontinue the McDonnell Douglas MD- and MD- aircraft
+For many airlines in the US the - replaced aging Boeing - trijets
+The - burns US gallons L of jet fuel per hour—about percent of the fuel used by an MD- on a comparable flight while carrying more passengers
+The Airline Monitor an industry publication quotes a - fuel burn of US gal L per seat per hour compared to US gal L for the A
+In United Airlines— flying a Boeing - from Houston to Chicago—operated the first US
+commercial flight powered by a blend of algae-derived biofuel and traditional jet fuel to reduce its carbon footprint
+In early a new - was valued at million falling to below million by mid-
+By a -year-old -W will be worth million and leased for per month
+As of May Boeing had delivered -s -As and - BBJs and has twelve - unfilled orders
+The - is the most common variant of the NG and is the most widely used narrow-body aircraft
+Ryanair an Irish low-cost airline is among the largest operators of the Boeing - with a fleet of over - aircraft serving routes across Europe Middle East and North Africa
+In February Boeing launched a passenger-to-freighter conversion program with converted aircraft designated as -BCF for Boeing Converted Freighter
+Boeing started the program with orders for conversions with the first converted aircraft due for late delivery
+The first converted aircraft was delivered to West Atlantic in April
+At the Farnborough Airshow GECAS announced an agreement for firm orders and option orders for the -BCF raising the commitment to aircraft
+Total orders and commitments include aircraft to over half a dozen customers
+Since early NG aircraft become available on the market they have been actively marketed to be converted to cargo planes via the Boeing Converted Freighter design because the operational economics are attractive due to the low operating costs and availability of certified pilots on a robust airframe
+Modifications to the - airframe include installing a large cargo door a cargo handling system and additional accommodations for non-flying crew or passengers
+The aircraft is designed to fly up to nmi km at a MTOW of lb kg
+In Boeing launched the -SF passenger to freighter conversion program with Aeronautical Engineers Inc AEI
+The conversion can be completed by AEI or third-parties such as HAECO
+It has a lb tonnes payload capacity and a range of nmi km
+It received its supplemental type certificate from the FAA in early
+In March the first AEI converted aircraft was delivered to Ethiopian Airlines on lease from GECAS
+The Civil Aviation Administration of China cleared it in January
+Aircraft lessor Macquarie AirFinance ordered four -SFs in March
+Boeing later introduced the - an even longer variant stretched to ft in m
+Because the − retains the same exit configuration of the − seating capacity is limited to although aircraft equipped with a typical -class layout will seat approximately
+The - also retains the MTOW and fuel capacity of the − trading range for payload
+Alaska Airlines launched the - in and accepted the delivery on May
+The type proved unpopular with only delivered before being replaced by the improved -ER
+The -ER Extended Range which was called the -X before launch was the final and largest variant of the Boeing NG line
+It was introduced to fill the range and passenger capacity gap in Boeing's product offerings after the - was discontinued address the shortcomings of the - and to directly compete with the Airbus A
+Up to two auxiliary fuel tanks in the cargo hold and standard winglets improved the range of the stretched jet to that of other NG variants while an additional pair of exit doors and a flat rear pressure bulkhead increased maximum seating capacity to passengers
+Airlines may deactivate plug the additional exit doors if the total configured capacity of the plane is passengers or less
+The first -ER was rolled out of the Renton Washington factory on August for its launch customer Lion Air an Indonesian low-cost airline
+The airline received this aircraft on April in a special dual paint scheme combining Lion Air's logo on the vertical stabilizer and Boeing's livery colors on the fuselage
+Boeing AEWC The Boeing AEWC is a -IGW roughly similar to the -ER
+This is an airborne early warning and control AEWC version of the NG
+Australia was the first customer as Project Wedgetail followed by Turkey South Korea the United Kingdom and the United States
+C- Clipper The C-A Clipper is a -C used by the US
+Navy as a replacement for the C-B Skytrain II
+The C-B and C-C are based on the BBJ see below and used by the US
+Air Force for transport of generals and other senior leaders
+P- Poseidon The P- is a -ERX Extended Range that was selected by the US Navy on June to replace the Lockheed P- Orion maritime patrol aircraft
+The P- is unique in that it has -ER-style raked wingtips instead of the blended winglets available on NG variants
+The P- is designated -A by BoeingIn the late s Boeing marketed the Boeing - jet a business jet version of the -
+After the introduction of the next generation series Boeing introduced the Boeing Business Jet BBJ
+The BBJ retroactively referred to as the BBJ was similar in dimensions to the - but had additional features including stronger wings and landing gear from the - and has increased range through the use of extra fuel tanks over the other various models
+The first BBJ rolled out on August and flew for the first time on September
+A total of BBJs were delivered to customers
+Based on the - it is ft in m longer than the BBJ with more cabin space and twice the baggage space but with slightly reduced range
+It is also fitted with auxiliary fuel tanks in the cargo hold and winglets
+The first BBJ was delivered on February
+A total of BBJs were delivered to customers
+The BBJ aircraft is based on the -ER aircraft
+The BBJ is approximately feet longer than the BBJ and has a slightly shorter range
+As of July Boeing Next Generation aircraft were in commercial service
+This comprised -s -s -s and -s
+The Boeing Next Generation series has been involved in hull-loss accidents and hijackings for a total of fatalities according to the Aviation Safety Network as of January
+An analysis by Boeing of commercial jet airplane accidents in the period showed that the Next Generation series had a hull loss rate of per million departures compared to for the classic series and for the original series
+Boeing T-Aircraft of comparable role configuration and era

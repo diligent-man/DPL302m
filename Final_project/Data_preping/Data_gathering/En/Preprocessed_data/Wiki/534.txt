@@ -1,0 +1,15 @@
+Tez was a mobile payments service by Google targeted at users in India later folded into the new Google Pay app on August
+It operated atop the Unified Payments Interface developed by the National Payments Corporation of India
+Tez worked on the vast majority of India's smartphones with apps for both Android and iOS with the Android app supporting English Hindi Tamil Bengali Gujarati Kannada Marathi and Telugu
+There were plans to release the app in other emerging countries including Vietnam Indonesia and Thailand
+Tez is the Hindi word for Fast
+Within days after being launched Tez got about million installations
+Over million transactions were made on the app as of October
+Tez is currently accepted by PVR Cinemas redBus McDonald's ACT Broadband State government Electricity boards and is expected to be joined by a number of other businesses like Dish TV Jet Airways and Domino's ViVoda-idea Swiggy Zomato Uber Ola Clubfactory Zappfresh Amazon Flipkart and many more businesses
+Google is also working with existing advertisers and online e-commerce platforms like Shopify and payment aggregators like BillDesk and PayU
+Google also plans to add even more ways to pay on Tez eg credit cards and wallets
+Select phones from manufacturer partners Lava Nokia Mobile and Panasonic will come in with Tez preinstalled
+The app is compatible with the vast majority of Android and iOS devices
+The application does not require users to share any personal information such as mobile numbers or usernames like other payment applications
+Instead it uses audio QR codes that rely on sound transmitted at a frequency inaudible to the human ear from the payee handset to the merchant handset
+This technology does away with the need for NFC chips on the handsets giving it an advantage because a significant number of smartphones in India and other developing markets do not have NFC chips embedded

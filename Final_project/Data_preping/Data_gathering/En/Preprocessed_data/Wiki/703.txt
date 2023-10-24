@@ -1,0 +1,34 @@
+Several types of connectors for car audio systems are used
+Splicing wires used in car audio are mainly for power ground amplifier and antenna speakers phone and others
+ACC red supplies +V power to car audio and other accessories only when the car's ignition is switched on
+Constant yellow also called BAT or Battery provides permanent +V power from battery
+This allows the radio to retain settings for example stored radio stations when the ignition is switched off
+Illumination orange with white stripe or dimmer when it is night and cars lights are turned on head unit screen illumination is dimmed
+as GND black V usually connected to the vehicle's metal chassis and bodyWires with black stripe are for negative power
+Left rear greenThey have low amperage and it is activated when radio is turned on
+Amplifier remote turn on blue with white stripePhone the cable to mute when receiving a call is brown
+Back view orange with white strip works when reverse gear light is on and it is used to turn on back camera screen ie
+Steering Wheel Controls SWC or Key brown with black stripe usually employs CAN busISO was created in and defines a standard for connectors for the head unit to the car's electrical system consisting of a system of four different connectors typically used in head units for car audio
+Part of the standard is dedicated to Dimensions and general requirements and Part to Performance requirements
+The first connector A is always present is usually black in colour and contains pins for power-supply offon typically controlled by ignition key optional control for a motorised antenna and so on
+On some cars the +V Ignition and Battery positions are reversed such as later Volkswagen Group cars Peugeot Vauxhall Astra Citron C and some JCB tractors
+Pin is optional used for speed dependent volume control and possibly navigation
+Pin is optional used for phone mute
+Pin is optional used for reversing lamp signal on Becker radios with navigation
+Pin is optional used for vehicle instrument illuminationThe second connector B is for connecting four loudspeakers front rear left and right and is usually brown in colour
+Sometimes it appears as one -pin connector often red in colour or it may be divided into three separate connectors which may be hooked together in which case C is usually yellow C is usually green and C is usually blue in colour
+The contact spacing is narrower than the other connectors so the C connector is sometimes referred to as mini-ISO
+Note ISO only defines the physical attributes of the connectors not the pinsignal designations which are manufacturer-defined
+The example above is oriented towards VW vehicles only
+The connector D is for satellite navigation systems
+From and onwards manufacturers such as BMW Citron Ford Mercedes Benz Peugeot Volkswagen Rover Audi SEAT Opel or Škoda have sometimes started using a -pin connector instead called the Quadlock
+Unfortunately Quadlock may not be the description used by manufacturers of the connector components
+Therefore searching for Quadlock components may be unsuccessful for example Molex refer to a typical component of the connector as MOST Frame Receptacle Housing part number
+The Quadlock connector consists of a block of flat pins analogous to the two main ISO connectors
+While the physical contact pins are the same the pin allocation is not entirely the same and the connector housing is not compatible
+In addition to the pins like ISO there are minor connectors for optional equipment
+They fit within the frame of the main connector and has coding so that they cannot be interchanged
+Minor connector B has pins for audio output signals
+Minor connector C has pins for various audio sources such as CD-changers MP players
+Universal steering wheel control interfaceCar Audio ISO connector pinout
+Molex part information for MOST Frame Receptacle Housing with Lever and Cable Cover AKA Quadlock

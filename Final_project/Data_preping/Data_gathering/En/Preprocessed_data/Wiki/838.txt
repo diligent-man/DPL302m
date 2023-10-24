@@ -1,0 +1,34 @@
+In theoretical computer science a circuit is a model of computation in which input values proceed through a sequence of gates each of which computes a function
+Circuits of this kind provide a generalization of Boolean circuits and a mathematical model for digital logic circuits
+Circuits are defined by the gates they contain and the values the gates can produce
+For example the values in a Boolean circuit are boolean values and the circuit includes conjunction disjunction and negation gates
+The values in an integer circuit are sets of integers and the gates compute set union set intersection and set complement as well as the arithmetic operations addition and multiplication
+is a set of gate labels each of which is a function from
+represents the number of inputs to the gate and
+is a labelled directed acyclic graph with labels from
+The vertices of the graph are called gates
+The gates of in-degree are called inputs or leaves
+The gates of out-degree are called outputs
+If there is an edge from gate
+We suppose there is an order on the vertices of the graph so we can speak of the
+is less than the out-degree of the gate
+The size of a circuit is the number of nodes of a circuit
+is the length of the longest path in
+In particular the gates of out-degree are the only gates of depth
+The depth of a circuit is the maximum depth of any gate
+is the set of all gates of depth
+A levelled circuit is a circuit in which the edges to gates of depth
+In other words edges only exist between adjacent levels of the circuit
+The width of a levelled circuit is the maximum size of any level
+displaystyle Vg=begincasesltextif gtext is an inputlVgdotsc Vgitextotherwiseendcases
+The value of the circuit is the value of each of the output gates
+The labels of the leaves can also be variables which take values in
+leaves then the circuit can be seen as a function from
+It is then usual to consider a family of circuits
+a sequence of circuits indexed by the integers where the circuit
+Families of circuits can thus be seen as functions from
+The notions of size depth and width can be naturally extended to families of functions becoming functions from
+Computing the output of a given Boolean circuit on a specific input is P-complete problem
+If the input is an integer circuit however it is unknown whether this problem is decidable
+Circuit complexity attempts to classify Boolean functions with respect to the size or depth of circuits that can compute them
+The complexity classes NC AC and TC

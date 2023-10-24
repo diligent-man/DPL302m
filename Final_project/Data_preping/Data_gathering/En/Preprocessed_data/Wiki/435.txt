@@ -1,0 +1,45 @@
+Avant Browser is a freeware web browser from a Chinese programmer named Anderson Che which unites the Trident layout engine built into Windows see Internet Explorer shell with an interface intended to be more feature-rich flexible and ergonomic than Microsoft's Internet Explorer IE
+It runs on Windows and above including Windows Windows and Windows
+Version released October was separated in two editions Ultimate edition which added the Gecko layout engine used by Mozilla Firefox allowing the user choose between both layout engines and Lite edition which contains only the Trident layout engine
+Avant Browser was largely inspired by Opera the first major browser to have a multiple document interface
+The developer's objective was to wrap a comparable interface around the layout engine used by Internet Explorer thereby achieving Opera-like ergonomics without suffering the frequent problems that browser had rendering pages tested only in Internet Explorer
+In fact it was initially released under the name IEopera though this was soon changed due to trademark concerns
+Later Avant's developer Anderson Che has concentrated on adding user-requested features and Avant was among the first browsers to have popup blocking advertising server blocking and one-click disabling of potential security vulnerabilities such as ActiveX Java and JavaScript
+The Avant Browser's default search engine is a version of the Yahoo search engine renamed Avantfind and is given a custom look
+Other search engines are available via the address bar's Quick Search facility and instructions on how to change the default to an engine of the user's choice have been posted by the very active Avant Browser user community
+The community has also created other tools and extensions for Avant including registry files which allow it to use the Information Bar and other security enhancements of Windows XP SP
+The developer also used to have a sister project known as Orca Browser an Avant-like shell of Mozilla's Gecko layout engine as used in Firefox using similar approaches to Flock
+Gecko layout engine was included in Avant Browser version Ultimate edition alongside the traditional Trident layout engine
+Avant was one of the twelve browsers offered to European Economic Area users of Microsoft Windows in
+Avant Browser build released on January includes support for many toolbars that are compatible with Internet Explorer a facility for users to create their own scripted toolbar buttons and a password and form-filling wizard
+A native bookmark system was also added n place of sharing Internet Explorer's Favorites
+These bookmarks may be stored online with feeds autofills and browser settings
+This allows the user to synchronize any number of Avant installations on different computers
+Avant can still share Internet Explorer's Favorites
+This option was reintroduced by the developer after some users lamented its loss
+Another innovation is that Avant may now be run from a USB flash drive or other portable storage device such as an MP player without needing to be installed
+In conjunction with Avant's session saving facility this allows the user to halt a browsing session on one PC move to another and resume viewing the same web pages
+Avant Browser Ultimate edition build released on October added the Gecko layout engine the rendering engine used by Mozilla Firefox and the most recent release build released on April also included the WebKit layout engine the rendering engine used by Safari making Avant Browser a three-engine browser
+Layout engine is selectable by the user
+Automatically save and reopen any number of pages
+Can restore open pages after system crash
+All pages open in single process reducing resource demands
+Multiple home pagesCompatible with many Internet Explorer toolbars and add-ins including Google toolbar
+Highlight marker to find keywords on any page the words also used by the search engine
+Facility for user to add custom-made function buttons
+URL alias facility to create keyboard shortcuts to favorite sites
+Full screen mode - hides toolbars and taskbar
+Tray icon - keeps Avant running in system tray for fast access optional
+Context-activated floating toolbars to save and edit images text and Flash
+Accessory application allows user to create own skins
+Most functions may be accessed from either toolbar buttons or menus
+All Buttons and menus are optionalPush-button quick blocking of unwanted items Popups Adverts ActiveX Java Scripts Flash Video Sound Images
+Customizable blackwhite lists for popups and ad servers
+Browsing tracks cleaner - can clear traces automatically
+Windows XP Service Pack security extensions can be integratedSearch bar with separate engines configurable for web images groups directories and news
+Search within site search within page and target word highlight buttons
+Quick Search facility - user can configure any engine for searches from the address bar
+Similar websites toolbar - searches in background for pages that relate to the currentOnline secure bookmark feed and setting storage - allows access of same browser setup anywhere
+Portable flash drive version allows running of Avant without installation
+Bookmarks can be arranged in task-orientated groups that can be opened together or individually
+Optionally uses Internet Explorer favoritesList of web browsers

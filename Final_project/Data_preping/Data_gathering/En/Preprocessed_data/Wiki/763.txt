@@ -1,0 +1,9 @@
+NetShow was Microsoft's original framework for Internet network broadcasting intended to compete with RealNetworks RealMedia Vivo acquired in by RealNetworks
+It was later renamed and marketed under the Windows Media umbrella
+A newer version was included in Windows NT SP in
+The whole product line was renamed Windows Media in October four months before Windows appeared
+The NetShow name is still carried on in the user-agent string in current versions of Windows Media Player which reports as NSPlayer
+NetShow Player version was included with Internet Explorer March now incorporated into Windows Media Player
+NetShow Services renamed Windows Media Services It was eventually incorporated into the media server functionality of Microsoft Internet Information Services IIS
+Netshow server and encoder functionality was also integrated into PowerPoint as part of the Online Broadcast functionality in Microsoft Office
+NetShow Server also known as Theater Server A high bitrate full frame on-demand streaming media solution for closed-circuit networks such as airplanes or hotelsActive Streaming Format ASF later renamed Advanced Streaming Format then to Advanced Systems Format
