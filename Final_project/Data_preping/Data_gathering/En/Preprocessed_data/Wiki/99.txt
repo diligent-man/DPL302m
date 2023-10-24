@@ -1,128 +1,318 @@
-The grammar of Old English is quite different from that of Modern English predominantly by being much more inflected As an old Germanic language Old English has a morphological system that is similar to that of the Proto Germanic reconstruction retaining many of the inflections thought to have been common in Proto Indo European and also including constructions characteristic of the Germanic daughter languages such as the umlaut
-Among living languages Old English morphology most closely resembles that of modern Icelandic which is among the most conservative of the Germanic languages To a lesser extent it resembles modern German
-Nouns pronouns adjectives and determiners were fully inflected with four grammatical cases nominative accusative genitive dative and a vestigial instrumental two grammatical numbers singular and plural and three grammatical genders masculine feminine and neuter First and second person personal pronouns also had dual forms for referring to groups of two people in addition to the usual singular and plural forms
-The instrumental case was somewhat rare and occurred only in the masculine and neuter singular It was often replaced by the dative Adjectives pronouns and sometimes participles agreed with their corresponding nouns in case number and gender Finite verbs agreed with their subjects in person and number
-Nouns came in numerous declensions with many parallels in Latin Ancient Greek and Sanskrit Verbs came in ten main conjugations seven strong and three weak all with numerous subtypes as well as a few additional smaller conjugations and a handful of irregular verbs The main difference from other ancient Indo European languages such as Latin is that verbs could be conjugated in only two tenses compared to the six tenses really tenseaspect combinations of Latin and the absence of a synthetic passive voice which still existed in Gothic
+The grammar of Old English is quite different from that of Modern English predominantly by being much more inflected
+As an old Germanic language Old English has a morphological system that is similar to that of the Proto-Germanic reconstruction retaining many of the inflections thought to have been common in Proto-Indo-European and also including constructions characteristic of the Germanic daughter languages such as the umlaut
+Among living languages Old English morphology most closely resembles that of modern Icelandic which is among the most conservative of the Germanic languages
+To a lesser extent it resembles modern German
+Nouns pronouns adjectives and determiners were fully inflected with four grammatical cases nominative accusative genitive dative and a vestigial instrumental two grammatical numbers singular and plural and three grammatical genders masculine feminine and neuter
+First- and second-person personal pronouns also had dual forms for referring to groups of two people in addition to the usual singular and plural forms
+The instrumental case was somewhat rare and occurred only in the masculine and neuter singular
+It was often replaced by the dative
+Adjectives pronouns and sometimes participles agreed with their corresponding nouns in case number and gender
+Finite verbs agreed with their subjects in person and number
+Nouns came in numerous declensions with many parallels in Latin Ancient Greek and Sanskrit
+Verbs came in ten main conjugations seven strong and three weak all with numerous subtypes as well as a few additional smaller conjugations and a handful of irregular verbs
+The main difference from other ancient Indo-European languages such as Latin is that verbs could be conjugated in only two tenses compared to the six tenses really tenseaspect combinations of Latin and the absence of a synthetic passive voice which still existed in Gothic
 Old English nouns are grouped by grammatical gender and inflect based on case and number
-Old English still had all three genders of Proto Indo European masculine feminine and neuter
-Each noun belongs to one of the three genders while adjectives and determiners take different forms depending on the gender of the noun they describe The word for the or that is sē with a masculine noun sēo with a feminine noun and þæt with a neuter noun Adjectives change endings for instance since hring ring is masculine and cuppe cup is feminine a golden ring is gylden hring while a golden cup is gyldenu cuppe
-Perhaps the strangest aspect for modern speakers is that the words for he hē and she hēo also mean it Hē refers back to masculine nouns hēo to feminine nouns reserving the neuter pronoun hit for nouns that are grammatically neuter That means even inanimate objects are frequently called he or she See the following sentence with the masculine noun snāw
+Old English still had all three genders of Proto-Indo-European masculine feminine and neuter
+Each noun belongs to one of the three genders while adjectives and determiners take different forms depending on the gender of the noun they describe
+The word for the or that is sē with a masculine noun sēo with a feminine noun and þæt with a neuter noun
+Adjectives change endings for instance since hring ring is masculine and cuppe cup is feminine a golden ring is gylden hring while a golden cup is gyldenu cuppe
+Perhaps the strangest aspect for modern speakers is that the words for he hē and she hēo also mean it Hē refers back to masculine nouns hēo to feminine nouns reserving the neuter pronoun hit for nouns that are grammatically neuter
+That means even inanimate objects are frequently called he or she See the following sentence with the masculine noun snāw
 Compare this parallel sentence where the neuter noun fȳr is referred to with hit
-Only a few nouns referring to people have a grammatical gender that does not match their natural gender as in the neuter word mæġden girl In such cases adjectives and determiners follow grammatical gender but pronouns follow natural gender Þæt mæġden sēo þǣr stent canst þū hīe The girl who feminine is standing there do you know her
-When two nouns have different genders adjectives and determiners that refer to them together are inflected neuter Hlīsa and spēd bēoþ twieċġu Fame masculine and success feminine are double edged neuter plural
-In Old English and Indo European languages generally each noun's gender derives from morphophonology rather than directly from semantics word meaning In other words it is not the 'thing' itself that determines the gender of its name noun but rather the particular speech sounds previously used to denote that thing's kind gender In the ancestor of Old English namely Proto Indo European and later Proto Germanic certain speech sounds in a word ending generally indicated the word's gender ie kind sort but once these word ending sounds had disappeared from speech over generations a noun's gender was no longer immediately clear
-Nevertheless the gender of Old English nouns can be partly predicted but the means by which a noun's gender was assigned due to historical morphophonology is a different issue from the means by which a noun's gender can be predicted or remembered due to various techniques For example the Old English names of metals are neuter not because they are metals but because these words historically ended with sounds that can be assigned as neuter Below are means of predictingremembering gender
-In general a thing that has biological sex will have that same gender masculine fæder father and feminine mōdor mother masculine cyning king and female cwēn queen masculine munuc monk and feminine nunne nun is feminine etc The three major exceptions are neuter wīf woman and mæġden girl and masculine wīfmann woman
-Animal names that refer only to males are masculine eg hana rooster henġest stallion eofor boar fearr bull ramm ram and bucc buck and animal names that refer only to females are feminine eg henn hen mīere mare sugu sow cū cow eowu ewe and dā doe The only exception is drān drone which is feminine not because most people thought drones were female as some have suggest but because of analogy whereby the noun had been moved from being treated as a Proto Germanic masculine u stem to a strong ō stem which include the majority of 'feminine nouns'
+Only a few nouns referring to people have a grammatical gender that does not match their natural gender as in the neuter word mæġden girl
+In such cases adjectives and determiners follow grammatical gender but pronouns follow natural gender Þæt mæġden sēo þǣr stent canst þū hīe The girl who feminine is standing there do you know her
+When two nouns have different genders adjectives and determiners that refer to them together are inflected neuter Hlīsa and spēd bēoþ twieċġu Fame masculine and success feminine are double-edged neuter plural
+In Old English and Indo-European languages generally each noun's gender derives from morphophonology rather than directly from semantics word-meaning
+In other words it is not the 'thing' itself that determines the gender of its name noun but rather the particular speech-sounds previously used to denote that thing's kind gender
+In the ancestor of Old English namely Proto-Indo-European and later Proto-Germanic certain speech-sounds in a word-ending generally indicated the word's gender ie
+kind sort but once these word-ending sounds had disappeared from speech over generations a noun's gender was no longer immediately clear
+Nevertheless the gender of Old English nouns can be partly predicted but the means by which a noun's gender was assigned due to historical morphophonology is a different issue from the means by which a noun's gender can be predicted or remembered due to various techniques
+For example the Old English names of metals are neuter not because they are metals but because these words historically ended with sounds that can be assigned as neuter
+In general a thing that has biological sex will have that same gender masculine fæder father and feminine mōdor mother masculine cyning king and female cwēn queen masculine munuc monk and feminine nunne nun is feminine etc
+The three major exceptions are neuter wīf woman and mæġden girl and masculine wīfmann woman
+Animal names that refer only to males are masculine eg
+hana rooster henġest stallion eofor boar fearr bull ramm ram and bucc buck and animal names that refer only to females are feminine eg
+henn hen mīere mare sugu sow cū cow eowu ewe and dā doe
+The only exception is drān drone which is feminine not because most people thought drones were female as some have suggest but because of analogy whereby the noun had been moved from being treated as a Proto-Germanic masculine u-stem to a strong ō-stem which include the majority of 'feminine nouns'
 General names for animals of unspecified sex could be of any gender though determined by their historical ending for example ūr aurochs is masculine fifalde butterfly is feminine and swīn pig is neuter
-If a noun could refer to both males and females it was usually masculine Hence frēond friend and fēond enemy were masculine along with many other examples such as lufiend lover bæcere baker hālga saint sċop poet cuma guest mǣġ relative cristen Christian hǣðen pagan āngenġa loner selfǣta cannibal hlēapere dancer and sangere singer The main exceptions are the two words for child ċild and bearn which are both neuter
+If a noun could refer to both males and females it was usually masculine
+Hence frēond friend and fēond enemy were masculine along with many other examples such as lufiend lover bæcere baker hālga saint sċop poet cuma guest mǣġ relative cristen Christian hǣðen pagan āngenġa loner selfǣta cannibal hlēapere dancer and sangere singer
+The main exceptions are the two words for child ċild and bearn which are both neuter
 However it is not as easy to predict the gender of a noun that refers to a thing without biological sex such as neuter seax knife feminine gafol fork and masculine cucler spoon
 That said there are still ways to predict the gender even of nouns referring to things without biological sex
-Nouns ending in a are almost all masculine The exceptions are a small number of learned borrowings from Latin such as Italia Italy and discipula female discipleCompound words always take the gender of the last part of the compound That is why wīfmann woman is masculine even though it means woman it is a compound of wīf woman plus the masculine noun mann personSimilarly if a noun ends in a suffix the suffix determines its gender Nouns ending in the suffixes oþ dōm end els uc ling ere hād and sċipe are all masculine nouns ending in ung þu nes estre rǣden and wist are all feminine and nouns ending in lāc et ærn and ċen are all neuter Mæġden girl is neuter because it ends in the neuter diminutive suffix enLetters of the alphabet are all masculineMetals are all neuterAdjectives used as nouns such as colors are neuter unless they refer to people When they do refer to people they are masculine by default unless the person is known to be a female in which case they duly follow the feminine inflections fremde stranger fremdu female stranger dēadlīċ mortal dēadlīcu female mortalLikewise verbs are neuter when used as nounsSince gender is noun specific and ultimately a feature of morphophonology rather than semantics word meaning it is needless to say that any thing referent might be referred to as a different name noun of a different gender a mountain could be denoted by the masculine beorg or feminine dūn a star could be denoted by masculine steorra or neuter tungol a window could be denoted by neuter ēagþȳrel or feminine ēagduru a tree could be denoted by neuter trēo tree or masculine bēam a shield wall denoted by masculine sċieldweall or feminine sċieldburg
+Nouns ending in -a are almost all masculine
+The exceptions are a small number of learned borrowings from Latin such as Italia Italy and discipula female discipleCompound words always take the gender of the last part of the compound
+That is why wīfmann woman is masculine even though it means woman it is a compound of wīf woman plus the masculine noun mann personSimilarly if a noun ends in a suffix the suffix determines its gender
+Nouns ending in the suffixes -oþ -dōm -end -els -uc -ling -ere -hād and -sċipe are all masculine nouns ending in -ung -þu -nes -estre -rǣden and -wist are all feminine and nouns ending in -lāc -et -ærn and -ċen are all neuter
+Mæġden girl is neuter because it ends in the neuter diminutive suffix -enLetters of the alphabet are all masculineMetals are all neuterAdjectives used as nouns such as colors are neuter unless they refer to people
+When they do refer to people they are masculine by default unless the person is known to be a female in which case they duly follow the feminine inflections fremde stranger fremdu female stranger dēadlīċ mortal dēadlīcu female mortalLikewise verbs are neuter when used as nounsSince gender is noun-specific and ultimately a feature of morphophonology rather than semantics word-meaning it is needless to say that any thing referent might be referred to as a different name noun of a different gender a mountain could be denoted by the masculine beorg or feminine dūn a star could be denoted by masculine steorra or neuter tungol a window could be denoted by neuter ēagþȳrel or feminine ēagduru a tree could be denoted by neuter trēo tree or masculine bēam a shield wall denoted by masculine sċieldweall or feminine sċieldburg
 Old English has two nouns for many types of people a general term which can refer to both males and females like Modern English waiter and a separate term which refers only to females like Modern English waitress Several different suffixes are used to specify females
-en is added to miscellaneous words such as god god → gyden goddess ielf elf → ielfen female elf þeġn servant → þiġnen female servant þēow slave → þiewen female slave and nēahġebūr neighbor → nēahġebȳren female neighbor estre is the female equivalent of ere and end both meaning er It is used on many nouns such as sangere singer → sangestre female singer lufiend lover → lufestre female lover bæcere baker → bæcestre tæppere bartender → tæppestre and forspennend pimp → forspennestre e is the female equivalent of a which was sometimes a regular noun ending with no meaning and sometimes yet another suffix meaning er Examples include wyrhta worker → wyrhte and foregenġa predecessor → foregenġeSometimes the female equivalent is a totally separate word as in lārēow teacher lǣrestre female teacher as if the general term were lǣrere lǣċe doctor lācnestre female doctor as if the general term were lācnere and hlāford master literally bread guardian hlǣfdiġe mistress literally bread kneader
+-en is added to miscellaneous words such as god god → gyden goddess ielf elf → ielfen female elf þeġn servant → þiġnen female servant þēow slave → þiewen female slave and nēahġebūr neighbor → nēahġebȳren female neighbor-estre is the female equivalent of -ere and -end both meaning -er It is used on many nouns such as sangere singer → sangestre female singer lufiend lover → lufestre female lover bæcere baker → bæcestre tæppere bartender → tæppestre and forspennend pimp → forspennestre-e is the female equivalent of -a which was sometimes a regular noun ending with no meaning and sometimes yet another suffix meaning -er Examples include wyrhta worker → wyrhte and foregenġa predecessor → foregenġeSometimes the female equivalent is a totally separate word as in lārēow teacher lǣrestre female teacher as if the general term were lǣrere lǣċe doctor lācnestre female doctor as if the general term were lācnere and hlāford master literally bread guardian hlǣfdiġe mistress literally bread kneader
 As in several other old Germanic languages Old English declensions include five cases nominative accusative dative genitive and instrumental
-Nominative the subject of a sentence which carries out the action Hē lufode hīe he loved her þæt mæġden rann the girl ran Words on the other side of to be also take this case in the phrase wyrd is eall destiny is all both destiny and all are nominative
-Accusative the direct object that which is acted upon Hē lufode hīe he loved her sē ridda ācwealde þone dracan the knight slew the dragon
-Genitive the possessor of something Ġesāwe þū þæs hundes bān Have you seen the dog's bone This case was much more frequent than the possessive is in Modern English because Old English had no word for of Hence the fall of Rome was Rōme hryre literally Rome's fall and the god of thunder was þunres god literally thunder's god It was even used partitively to signify that something was composed of something else a group of people was manna hēap literally people's group three of us was ūre þrī our three and a cup of water was wætres cuppe water's cup
-Dative the indirect object Iċ sealde hire þone beall I gave her the ball
-Instrumental something that is being used Hwæl mē meahte mid āne sleġe besenċan oþþe ofslēan A whale could sink or kill me with one blow This case can be used without prepositions when the meaning is clear as in ōðre naman which means by another name Ūhtred sē Godlēasa æt Bebban byrġ ōðre naman sē Deneslaga Uhtred the Godless of Bebbanburg also known as the Daneslayer During the Old English period the instrumental was falling out of use having mostly merged with the dative It was distinguished from the dative only in the masculine and neuter singular of strong adjectives and demonstratives and even then the dative was often used insteadNot all nouns take the same endings to inflect for number and case Instead each noun belongs to one of eight different classes and each class has a different set of endings sometimes several depending on subtype
-In Proto Germanic one could tell which class a noun was by its ending in the nominative singular But by the Old English period most of these endings had disappeared or merged with other endings so this was no longer possible
-A stem nouns are by far the largest class totaling of all nouns Some are masculine some are neuter They are called a stems because in Proto Germanic times they ended in az if masculine or ą if neuter However in Old English both these endings have vanished and masculines only differ from neuters in the nominativeaccusative plural
-Masculine a stems are almost all inflected the same as in hund dog below The neuter a stems however are split in two some of them end in u in the nominativeaccusative plural while others have no ending there at all This was caused by a sound change called high vowel apocope which occurred in the prehistory of Old English Short i and u disappeared at the ends of words after a heavy syllable—that is a syllable containing a long vowel or long diphthong or ending in two or more consonants—and after two light syllables Nouns which kept short i u are called light while nouns which lost them are called heavy
-So the a stems actually come in three separate declensions one for masculine nouns one for heavy neuter nouns and one for light neuter nouns They are exemplified by hund dog sċip boat and hūs house
-The ō stems are by far the largest class after a stems They include the vast majority of feminine nouns and zero nouns of any other gender
-They are called ō stems because they ended in ō in Proto Germanic but in Old English that ending has changed to u or vanished In the nominative singular light ō stems end in u while heavy ō stems have no ending just like neuter a stems in the nominativeaccusative plural
-N stems can be any gender though there are only a few neuters ēage eye ēare ear wange cheek and compounds ending in them such as þunwange temple of the head N stems are also called weak nouns because they are weakly inflected ie most of their inflections have the same ending an All other nouns are called strong nouns
-Masculine and feminine n stems are inflected the same except in the nominative singular where masculines end in a feminines in e
-The few neuter n stems are declined the same as feminines except they also have e in the accusative singular
-The i stems are so called because they ended in iz in Proto Germanic but in Old English that ending has either become e in light i stems or vanished in heavy i stems These nouns come in every gender though neuter i stems are rare
-By the earliest Old English prose this class has already largely merged with other classes masculine and neuter i stems have taken on the same declension as a stems and feminine i stems have almost the same declension as ō stems So they are really only called i stems because of their history not because of how they inflect
-Their only distinct inflection survives in the accusative singular of feminine heavy i stems which fluctuates between e the ō stem ending and no ending the inherited ending
-The exceptions are a few nouns that only come in the plural namely lēode people and various names of nationalities such as Engle the English and Dene the Danes These nouns kept the nominativeaccusative plural e that they inherited through regular sound change
-The u stems are all masculine or feminine They are all declined the same way regardless of gender
-There are few pure u stem nouns but some are very common duru door medu mead wudu wood Most historical u stems have been transferred over to the a stems Some nouns follow the a stem inflection overall but have a few leftover u stem forms in their inflection These forms may exist alongside regular a stem forms
-æppel nominativeaccusative plural æpplaRoot nouns are a small class of nouns which in Proto Germanic had ended in a consonant without any intervening vowel
-These nouns undergo i umlaut in the dative singular and the nominativeaccusative plural This is the source of nouns in Modern English which form their plural by changing a vowel as in man men foot feet tooth teeth mouse mice goose geese and louse lice In Old English there were many more such words including bōc book cū cow gāt goat āc oak hnutu nut burg city and sulh plow
-All root nouns are either masculine or feminine Masculine root nouns are all heavy but among feminines there is a contrast between light nouns and heavy nouns light nouns end in e where they have umlaut of the root vowel while heavy nouns have no ending The typical declension is this
-Nd stems are nouns formed with the suffix end which creates agent nouns from verbs āgan to own → āgend owner All are masculine
-Single syllable nd stems are only possible when the stem ends in a vowel which is rare hence only three are attested frēond friend ← frēoġan to love fēond enemy ← fēoġan to hate and tēond accuser ← tēon to accuse They are declined just like masculine root nouns
-The multi syllable nd stems are declined very differently Their stem vowel never undergoes i umlaut and in fact they are inflected just like a stems in the singular Moreover their plural forms are truly unique the genitive plural always ends in ra which is normally used for adjectives and the nominativeaccusative plural varies between no ending the adjective ending e and the a stem ending as The adjectival endings are a relic of the nd stems' origin as present participles
-The r stems comprise only five nouns fæder mōdor brōþor sweostor and dohtor
-Brōþor mōdor and dohtor are all inflected the same with i umlaut in the dative singular Sweostor is inflected the same except without i umlaut Fæder is indeclinable in the singular like sweostor but has taken its nominativeaccusative plural from the a stems In addition brōþor and sweostor often take the prefix ġe in the plural while the rest never do
-Z stems are the name given to four neuter nouns which inflect like light neuter a stems except the plural endings begin with r These nouns are ċild child ǣġ egg lamb lamb and ċealf calf
-The above only mentions the most common ways each noun class is inflected There are many variations even within classes some of which include
-High vowel apocope loss of short i and u at the end of a word isn't entirely consistent At first these sounds were lost after a heavy syllable or two light syllables But then at some point before the written period speakers started re adding u to the plurals of some neuter nouns where it had originally vanished These nouns have two competing plurals one with u and one without it So dreams is either swefn or swefnu sails is either seġl or seġlu and waters is either wæter or wætru among many other examples Note that this mainly happened to a very specific set of nouns those whose inflectional endings are preceded by a consonant plus n l or rSome nouns have u after a heavy syllable because when high vowel apocope occurred they had an intervening light syllable which later disappeared Examples include nouns with the suffix þu such as strengðu strength and iermðu poverty z stem plurals such as ǣġru eggs and ċealfru calves and the a stem plurals hēafdu heads and dēoflu demons Also the plurals of all neuter a stems that end in e wīte punishment pl wītu ǣrende message pl ǣrenduSome ō stems unexpectedly end in u in the singular such as þīestru darkness hǣtu heat meniġu crowd ieldu age and bieldu bravery These nouns once belonged to a separate class called the īn stems which all ended in ī Then they merged with the ō stems when this ending was replaced with u—well after high vowel apocope had gone to completion so the u remainedMany nouns which end with an unstressed vowel plus a single consonant lose the unstressed vowel when they take inflectional endings gristel cartilage gristles of cartilage However it is impossible to predict which nouns this happens to without knowing the history of the word For example Dryhten the Lord loses its unstressed e when inflected but nīeten animal does not ēðel homeland does but crypel cripple does notIf an a stem ends in one consonant and its stem vowel is short æ it becomes ɑ in the plural Day is dæġ but days is dagas bath is bæþ but baths is baðu Other examples include fæt container sċræf cave stæf staff pæþ path hwæl whale and blæd bladeA stems which end in ġ ċ or sċ after a vowel have hard g c or sc in the plural fisċ fiʃ fish pl fiscas ˈfiskɑs Other examples include dæġ day weġ way twiġ twig disċ plate dīċ ditch līċ corpse and wīċ villageIf a noun ends in h the h disappears before inflectional endings This lengthens the preceding vowel or diphthong if it is short Unless the h comes right after a consonant it also deletes the following vowel except in the genitive plural where an n has been inserted to prevent this from happening All this is exemplified by two masculine a stems sċōh and fearhIf an a stem ends in u the u is replaced with w before inflectional endings searu machine dat sg searweSomething similar happens with a subgroup of ō stem nouns called the wō stems These nouns once ended in wu before a sound change occurred which caused the w to disappear in the nominative singular subsequently some also lost the u by high vowel apocope By the written period they are indistinguishable from other ō stems in the nominative singular except they keep the w before inflectional endings These nouns include sċeadu shadowshade sinu sinew mǣd meadow and lǣs pastureAdjectives take different endings depending on the case gender and number of the noun they describe The adjective cwic alive for example comes in eleven different forms cwic cwicu cwicne cwice cwices cwicre cwicum cwica cwicra cwican and cwicena
-There are two separate sets of inflections traditionally called the strong declension and the weak declension Together both declensions contain many different inflections though just ten or eleven unique forms typically cover all of them The usual endings are exhibited by cwic alive among many other adjectives
-In general the weak declension is used after the words for thethat and this and possessive determiners such as my your and his while the strong declension is used the rest of the time Hence a live scorpion is cwic þrōwend while the live scorpion is sē cwica þrōwend Further details
-The weak declension is also used in direct address as in Ēalā fæġere mæġden Hey beautiful girl or þū dysiġe hōre you stupid whoreOrdinal numbers and comparative adjectives only take the weak declension even in situations that would otherwise call for the strong declension The most important exception is ōðer othersecond which is always strong despite being both an ordinal number and a comparative Of the four words for first forma and ǣrra are always weak but ǣrest and fyrest can be either strong or weak just like most other adjectivesThe adjective āgen own is usually strong in the phrase one's own Hēo forlēt ōðre dæġe on hire āgnum horse She left the next day on her own horseAdjectives once came in many different classes just like nouns but by Old English times all adjectives have basically the same endings as cwic above However there are still a good number of differences and irregularities
-As with nouns there are light adjectives which retain the inflectional ending u which occurs in the feminine nominative singular and neuter nominativeaccusative plural and heavy adjectives which have lost it Originally u disappeared after a heavy syllable or two light syllables but speakers have re added it to some adjectives where it had been lost Namely those with the suffixes iġ or līċ bisigu sweord busy swords nom pl neut broðorlīcu lufu brotherly love nom sg femSome adjectives have u after a heavy syllable because when high vowel apocope occurred they had an intervening light syllable which later disappeared Examples include lȳtel little nom sg femnom acc pl neut lȳtlu ōðer other nom sg femnom acc pl neut ōðru and ēower your nom sg femnom acc pl neut ēowruAdjectives ending in e all lose the e before inflectional endings blīðe happy nom sg masc blīðne They also all retain u blīðu ċildru happy childrenIf an adjective ends in short æ plus a single consonant the æ becomes a before endings beginning with a vowel glæd glad nom pl masc gladeIf an adjective ends in h the h disappears before inflectional endings This lengthens the preceding vowel or diphthong þweorh crooked þwēorre gen sg fem Also if the h comes right after a vowel any immediately following vowel disappears hēah high acc sg masc hēane dat sg masc hēam nom pl masc hēaIf an adjective ends in u it changes to o before an inflectional ending beginning with a consonant ġearu ready acc sg masc ġearone dat sg fem ġearore Before a vowel it changes to w nom pl masc ġearweMost adjectives ending in ġ ċ or sċ have hard g c or sc before an ending beginning with a back vowel ɑ o u Ġesċādlīċ rational nom pl fem ġesċādlīca mennisċ human dat sg neut menniscumMany adjectives which end in an unstressed vowel plus a single consonant lose the unstressed vowel before endings beginning with vowels lȳtel little nom pl fem lȳtlaOld English never uses the equivalents of more and most to form comparative or superlative adjectives Instead the equivalents of er and est are used ra and ost for some words est More beautiful is fæġerra literally beautiful er and most beautiful is fæġerost literally beautiful est Other examples include beorht bright → beorhtra brighter beorhtost brightest bearnēacen pregnant → bearnēacenra more pregnant bearnēacnost most pregnant and cnihtlīċ boyish → cnihtlīcra more boyish cnihtlīcost most boyish The only exception is that more mā or swīðor and most mǣst or swīðost were sometimes used with participles swīðor ġelufod more loved swīðost ġelufod most loved
-A handful of words form the comparative and superlative with i umlaut namely eald old → ieldra ieldest ġeong young → ġingra ġinġest strang strong → strengra strenġest lang long → lengra lenġest sċort short → sċyrtra sċyrtest and hēah high → hīera hīehst
+Nominative the subject of a sentence which carries out the action
+Hē lufode hīe he loved her þæt mæġden rann the girl ran
+Words on the other side of to be also take this case in the phrase wyrd is eall destiny is all both destiny and all are nominative
+Accusative the direct object that which is acted upon
+Hē lufode hīe he loved her sē ridda ācwealde þone dracan the knight slew the dragon
+Ġesāwe þū þæs hundes bān Have you seen the dog's bone
+This case was much more frequent than the possessive is in Modern English because Old English had no word for of Hence the fall of Rome was Rōme hryre literally Rome's fall and the god of thunder was þunres god literally thunder's god It was even used partitively to signify that something was composed of something else a group of people was manna hēap literally people's group three of us was ūre þrī our three and a cup of water was wætres cuppe water's cup
+Iċ sealde hire þone beall I gave her the ball
+Hwæl mē meahte mid āne sleġe besenċan oþþe ofslēan A whale could sink or kill me with one blow
+This case can be used without prepositions when the meaning is clear as in ōðre naman which means by another name Ūhtred sē Godlēasa æt Bebban byrġ ōðre naman sē Deneslaga Uhtred the Godless of Bebbanburg also known as the Daneslayer
+During the Old English period the instrumental was falling out of use having mostly merged with the dative
+It was distinguished from the dative only in the masculine and neuter singular of strong adjectives and demonstratives and even then the dative was often used insteadNot all nouns take the same endings to inflect for number and case
+Instead each noun belongs to one of eight different classes and each class has a different set of endings sometimes several depending on subtype
+In Proto-Germanic one could tell which class a noun was by its ending in the nominative singular
+But by the Old English period most of these endings had disappeared or merged with other endings so this was no longer possible
+A-stem nouns are by far the largest class totaling of all nouns
+They are called a-stems because in Proto-Germanic times they ended in -az if masculine or -ą if neuter
+However in Old English both these endings have vanished and masculines only differ from neuters in the nominativeaccusative plural
+Masculine a-stems are almost all inflected the same as in hund dog below
+The neuter a-stems however are split in two some of them end in -u in the nominativeaccusative plural while others have no ending there at all
+This was caused by a sound change called high vowel apocope which occurred in the prehistory of Old English
+Short -i and -u disappeared at the ends of words after a heavy syllable—that is a syllable containing a long vowel or long diphthong or ending in two or more consonants—and after two light syllables
+Nouns which kept short -i-u are called light while nouns which lost them are called heavy
+So the a-stems actually come in three separate declensions one for masculine nouns one for heavy neuter nouns and one for light neuter nouns
+They are exemplified by hund dog sċip boat and hūs house
+The ō-stems are by far the largest class after a-stems
+They include the vast majority of feminine nouns and zero nouns of any other gender
+They are called ō-stems because they ended in -ō in Proto-Germanic but in Old English that ending has changed to -u or vanished
+In the nominative singular light ō-stems end in -u while heavy ō-stems have no ending just like neuter a-stems in the nominativeaccusative plural
+N-stems can be any gender though there are only a few neuters ēage eye ēare ear wange cheek and compounds ending in them such as þunwange temple of the head
+N-stems are also called weak nouns because they are weakly inflected ie most of their inflections have the same ending -an
+All other nouns are called strong nouns
+Masculine and feminine n-stems are inflected the same except in the nominative singular where masculines end in -a feminines in -e
+The few neuter n-stems are declined the same as feminines except they also have -e in the accusative singular
+The i-stems are so called because they ended in -iz in Proto-Germanic but in Old English that ending has either become -e in light i-stems or vanished in heavy i-stems
+These nouns come in every gender though neuter i-stems are rare
+By the earliest Old English prose this class has already largely merged with other classes masculine and neuter i-stems have taken on the same declension as a-stems and feminine i-stems have almost the same declension as ō-stems
+So they are really only called i-stems because of their history not because of how they inflect
+Their only distinct inflection survives in the accusative singular of feminine heavy i-stems which fluctuates between -e the ō-stem ending and no ending the inherited ending
+The exceptions are a few nouns that only come in the plural namely lēode people and various names of nationalities such as Engle the English and Dene the Danes
+These nouns kept the nominativeaccusative plural -e that they inherited through regular sound change
+The u-stems are all masculine or feminine
+They are all declined the same way regardless of gender
+There are few pure u-stem nouns but some are very common duru door medu mead wudu wood
+Most historical u-stems have been transferred over to the a-stems
+Some nouns follow the a-stem inflection overall but have a few leftover u-stem forms in their inflection
+These forms may exist alongside regular a-stem forms
+æppel nominativeaccusative plural æpplaRoot nouns are a small class of nouns which in Proto-Germanic had ended in a consonant without any intervening vowel
+These nouns undergo i-umlaut in the dative singular and the nominativeaccusative plural
+This is the source of nouns in Modern English which form their plural by changing a vowel as in man men foot feet tooth teeth mouse mice goose geese and louse lice
+In Old English there were many more such words including bōc book cū cow gāt goat āc oak hnutu nut burg city and sulh plow
+All root nouns are either masculine or feminine
+Masculine root nouns are all heavy but among feminines there is a contrast between light nouns and heavy nouns light nouns end in -e where they have umlaut of the root vowel while heavy nouns have no ending
+Nd-stems are nouns formed with the suffix -end which creates agent nouns from verbs āgan to own → āgend owner
+Single-syllable nd-stems are only possible when the stem ends in a vowel which is rare hence only three are attested frēond friend ← frēoġan to love fēond enemy ← fēoġan to hate and tēond accuser ← tēon to accuse
+They are declined just like masculine root nouns
+The multi-syllable nd-stems are declined very differently
+Their stem vowel never undergoes i-umlaut and in fact they are inflected just like a-stems in the singular
+Moreover their plural forms are truly unique the genitive plural always ends in -ra which is normally used for adjectives and the nominativeaccusative plural varies between no ending the adjective ending -e and the a-stem ending -as
+The adjectival endings are a relic of the nd-stems' origin as present participles
+The r-stems comprise only five nouns fæder mōdor brōþor sweostor and dohtor
+Brōþor mōdor and dohtor are all inflected the same with i-umlaut in the dative singular
+Sweostor is inflected the same except without i-umlaut
+Fæder is indeclinable in the singular like sweostor but has taken its nominativeaccusative plural from the a-stems
+In addition brōþor and sweostor often take the prefix ġe- in the plural while the rest never do
+Z-stems are the name given to four neuter nouns which inflect like light neuter a-stems except the plural endings begin with -r-
+These nouns are ċild child ǣġ egg lamb lamb and ċealf calf
+The above only mentions the most common ways each noun class is inflected
+There are many variations even within classes some of which include
+High vowel apocope loss of short -i and -u at the end of a word isn't entirely consistent
+At first these sounds were lost after a heavy syllable or two light syllables
+But then at some point before the written period speakers started re-adding -u to the plurals of some neuter nouns where it had originally vanished
+These nouns have two competing plurals one with -u and one without it
+So dreams is either swefn or swefnu sails is either seġl or seġlu and waters is either wæter or wætru among many other examples
+Note that this mainly happened to a very specific set of nouns those whose inflectional endings are preceded by a consonant plus n l or rSome nouns have -u after a heavy syllable because when high vowel apocope occurred they had an intervening light syllable which later disappeared
+Examples include nouns with the suffix -þu such as strengðu strength and iermðu poverty z-stem plurals such as ǣġru eggs and ċealfru calves and the a-stem plurals hēafdu heads and dēoflu demons
+Also the plurals of all neuter a-stems that end in -e wīte punishment pl
+ǣrenduSome ō-stems unexpectedly end in -u in the singular such as þīestru darkness hǣtu heat meniġu crowd ieldu age and bieldu bravery
+These nouns once belonged to a separate class called the īn-stems which all ended in -ī
+Then they merged with the ō-stems when this ending was replaced with -u—well after high vowel apocope had gone to completion so the -u remainedMany nouns which end with an unstressed vowel plus a single consonant lose the unstressed vowel when they take inflectional endings gristel cartilage gristles of cartilage
+However it is impossible to predict which nouns this happens to without knowing the history of the word
+For example Dryhten the Lord loses its unstressed -e- when inflected but nīeten animal does not ēðel homeland does but crypel cripple does notIf an a-stem ends in one consonant and its stem vowel is short æ it becomes ɑ in the plural
+Day is dæġ but days is dagas bath is bæþ but baths is baðu
+Other examples include fæt container sċræf cave stæf staff pæþ path hwæl whale and blæd bladeA-stems which end in ġ ċ or sċ after a vowel have hard g c or sc in the plural fisċ fiʃ fish pl
+Other examples include dæġ day weġ way twiġ twig disċ plate dīċ ditch līċ corpse and wīċ villageIf a noun ends in h the h disappears before inflectional endings
+This lengthens the preceding vowel or diphthong if it is short
+Unless the h comes right after a consonant it also deletes the following vowel except in the genitive plural where an -n- has been inserted to prevent this from happening
+All this is exemplified by two masculine a-stems sċōh and fearhIf an a-stem ends in -u the u is replaced with w before inflectional endings searu machine dat
+searweSomething similar happens with a subgroup of ō-stem nouns called the wō-stems
+These nouns once ended in -wu before a sound change occurred which caused the w to disappear in the nominative singular subsequently some also lost the -u by high vowel apocope
+By the written period they are indistinguishable from other ō-stems in the nominative singular except they keep the w before inflectional endings
+These nouns include sċeadu shadowshade sinu sinew mǣd meadow and lǣs pastureAdjectives take different endings depending on the case gender and number of the noun they describe
+The adjective cwic alive for example comes in eleven different forms cwic cwicu cwicne cwice cwices cwicre cwicum cwica cwicra cwican and cwicena
+There are two separate sets of inflections traditionally called the strong declension and the weak declension Together both declensions contain many different inflections though just ten or eleven unique forms typically cover all of them
+The usual endings are exhibited by cwic alive among many other adjectives
+In general the weak declension is used after the words for thethat and this and possessive determiners such as my your and his while the strong declension is used the rest of the time
+Hence a live scorpion is cwic þrōwend while the live scorpion is sē cwica þrōwend
+The weak declension is also used in direct address as in Ēalā fæġere mæġden Hey beautiful girl or þū dysiġe hōre you stupid whoreOrdinal numbers and comparative adjectives only take the weak declension even in situations that would otherwise call for the strong declension
+The most important exception is ōðer othersecond which is always strong despite being both an ordinal number and a comparative
+Of the four words for first forma and ǣrra are always weak but ǣrest and fyrest can be either strong or weak just like most other adjectivesThe adjective āgen own is usually strong in the phrase one's own Hēo forlēt ōðre dæġe on hire āgnum horse She left the next day on her own horseAdjectives once came in many different classes just like nouns but by Old English times all adjectives have basically the same endings as cwic above
+However there are still a good number of differences and irregularities
+As with nouns there are light adjectives which retain the inflectional ending -u which occurs in the feminine nominative singular and neuter nominativeaccusative plural and heavy adjectives which have lost it
+Originally -u disappeared after a heavy syllable or two light syllables but speakers have re-added it to some adjectives where it had been lost
+Namely those with the suffixes -iġ or -līċ bisigu sweord busy swords nom
+femSome adjectives have -u after a heavy syllable because when high vowel apocope occurred they had an intervening light syllable which later disappeared
+ēowruAdjectives ending in -e all lose the -e before inflectional endings blīðe happy nom
+They also all retain -u blīðu ċildru happy childrenIf an adjective ends in short æ plus a single consonant the æ becomes a before endings beginning with a vowel glæd glad nom
+gladeIf an adjective ends in h the h disappears before inflectional endings
+This lengthens the preceding vowel or diphthong þweorh crooked þwēorre gen
+Also if the h comes right after a vowel any immediately following vowel disappears hēah high acc
+hēaIf an adjective ends in -u it changes to o before an inflectional ending beginning with a consonant ġearu ready acc
+Before a vowel it changes to w nom
+ġearweMost adjectives ending in ġ ċ or sċ have hard g c or sc before an ending beginning with a back vowel ɑ o u
+menniscumMany adjectives which end in an unstressed vowel plus a single consonant lose the unstressed vowel before endings beginning with vowels lȳtel little nom
+lȳtlaOld English never uses the equivalents of more and most to form comparative or superlative adjectives
+Instead the equivalents of -er and -est are used -ra and -ost for some words -est
+More beautiful is fæġerra literally beautiful-er and most beautiful is fæġerost literally beautiful-est Other examples include beorht bright → beorhtra brighter beorhtost brightest bearnēacen pregnant → bearnēacenra more pregnant bearnēacnost most pregnant and cnihtlīċ boyish → cnihtlīcra more boyish cnihtlīcost most boyish
+The only exception is that more mā or swīðor and most mǣst or swīðost were sometimes used with participles swīðor ġelufod more loved swīðost ġelufod most loved
+A handful of words form the comparative and superlative with i-umlaut namely eald old → ieldra ieldest ġeong young → ġingra ġinġest strang strong → strengra strenġest lang long → lengra lenġest sċort short → sċyrtra sċyrtest and hēah high → hīera hīehst
 A few more become totally different words gōd good → betera betst yfel bad → wiersa wierrest miċel mucha lotbig → māra morebigger mǣst mostbiggest lȳtel little → lǣssa lesssmaller lǣsest leastsmallest
-Old English has no indefinite article Instead a noun is most often used by itself
+Instead a noun is most often used by itself
 The definite article is sē which doubles as the word for that It comes in eleven different forms depending on case gender and number sē sēo þæt þone þā þæs þǣre þām þon þȳ and þāra
-The word the was used very much like in Modern English The main difference is that it was used somewhat more sparingly due to numerous groups of nouns which usually went without it These include
-All river names On Temese flēat ān sċip A boat was floating on the ThamesNames of peoples Ex Seaxan the Saxons Winedas the Slavs Siġelhearwan the Ethiopians Indēas the Indians Names of peoples also frequently stand for the place they are from for example the word for Essex was Ēastseaxan the East Saxons and the prince of Denmark was Dena æðeling literally prince of the DanesA few nouns denoting types of locations namely sǣ the sea wudu the woods and eorðe the ground Þū fēolle on eorðan and slōge þīn hēafod You fell on the ground and hit your head Also the world whether expressed with weorold or middanġeard Note that sea is still sometimes used without the in Modern English in fossilized phrases like at sea and out to seaA couple of abstract concepts namely sōþ the truth and ǣ the lawMany divisions of time Namely the words for the morning the evening the four seasons the past the present and the future Iċ ārās on lætne morgen and ēode niðer I got up late in the morning and went downstairs But note I go out at nightDryhten the Lord Dēofol the Devil often occurs with the and often without itThe cardinal directions norþ sūþ ēast and west Also the intercardinal directions norðēast sūðēast sūðwest and norðwestA few set phrases including ealle hwīle the whole time literally allwhole while be weġe on the way lit by way and ealne weġ all the way or always lit all way Also forma sīþ the first time ōðer sīþ the second time and so onNote that those words still occur with the when they refer to a specific iteration as in the future that I want the woods behind my house or the law they just passed
-Old English has two main demonstratives sē that and þēs this Sē is also the word for the for its declension see above
-There is also the distal demonstrative ġeon the source of Modern English yon It means that over there and refers to things far away Ġeon is declined like a regular adjective that is like cwic above
-Hwā who and hwæt what follow natural gender not grammatical gender as in Modern English hwā is used with people hwæt with things However that distinction only matters in the nominative and accusative cases because in every other case they are identical
-Hwelċ which or what kind of is inflected like an adjective Same with hwæðer which also means which but is only used between two alternatives
-The first and second person pronouns are the same for all genders They also have special dual forms which are only used for groups of two things as in we both and you two The dual forms are common but the ordinary plural forms can always be used instead when the meaning is clear
-Many of the forms above bear a strong resemblance to the Modern English words they eventually became For instance in the genitive case ēower became your ūre became our and mīn became my However in stressed positions the plural third person personal pronouns were all replaced with Old Norse forms during the Middle English period yielding they them and their The Old English dative pronoun is retained as unstressed 'em
-Old English verbs are divided into two groups strong verbs and weak verbs Strong verbs form the past tense by changing a vowel while weak verbs add an ending
-Strong verbs use a Germanic form of conjugation known as ablaut They form the past tense by changing their stem vowel These verbs still exist in modern English where they are called irregular verbs for example sing sang sung is a strong verb as are swim swam swum and break broke broken
-Strong verbs have been growing less and less common over the centuries because their conjugations are more complicated than weak verbs and harder to predict That means many verbs that were strong in Old English times are now weak These include walk sleep help laugh step sneeze chew wash shine climb let bake lock read drag bark sweep float bow row fart creep flow starve weep grip leap mow slay shove carve gnaw braid flee fare ban wreak quell delve abide yield spurn thresh swell milk suck burst load melt and swallow Two of these even became weak during the Old English period sleep slǣpan and read rǣdan
-Also by Old English times people had long since stopped coining new strong verbs Even today almost every strong verb in the modern language dates back before Old English even to before Proto Germanic
-Most strong verbs are not considered irregular in Old English because each belongs to one of seven major classes each with its own pattern of stem changes Learning these is often a challenge for students of the language though English speakers may see connections between the old verb classes and their modern forms
-The classes had the following distinguishing features to their infinitive stems each corresponding to particular stem changes within their strong conjugating paradigms
-ī + one consonantēo or ū + one consonantOriginally e + two consonants By the time of written Old English many had changed If C is used to represent any consonant verbs in this class usually had short e + lC short eo + rC short i + nCmC or g + short ie + lCe + one consonant usually l or r plus the verb brecan 'to break'e + one consonant usually a stop or a fricativea + one consonantOther than the above Always a heavy root syllable either a long vowel or short + two consonants almost always a non umlauted vowel eg ō ā ēa a + nC ea + lCrC occ ǣ the latter with past in ē instead of normal ēo Infinitive is distinguishable from class weak verbs by non umlauted root vowel from class weak verbs by lack of suffix ian First and second preterite have identical stems usually in ēo occ ē and the infinitive and the past participle also have the same stemThe first past stem is used in the past for the first and third person singular The second past stem is used for second person singular and all persons in the plural as well as the preterite subjunctive Strong verbs also exhibit i mutation of the stem in the second and third person singular in the present tense
-The third class went through so many sound changes that it was barely recognisable as a single class The first was a process called 'breaking' Before ⟨h⟩ and ⟨r⟩ + another consonant ⟨æ⟩ turned into ⟨ea⟩ and ⟨e⟩ to ⟨eo⟩ Also before ⟨l⟩ + another consonant the same happened to ⟨æ⟩ but ⟨e⟩ remained unchanged except before combination ⟨lh⟩
+The word the was used very much like in Modern English
+The main difference is that it was used somewhat more sparingly due to numerous groups of nouns which usually went without it
+On Temese flēat ān sċip A boat was floating on the ThamesNames of peoples
+Ex Seaxan the Saxons Winedas the Slavs Siġelhearwan the Ethiopians Indēas the Indians
+Names of peoples also frequently stand for the place they are from for example the word for Essex was Ēastseaxan the East Saxons and the prince of Denmark was Dena æðeling literally prince of the DanesA few nouns denoting types of locations namely sǣ the sea wudu the woods and eorðe the ground
+Þū fēolle on eorðan and slōge þīn hēafod You fell on the ground and hit your head
+Also the world whether expressed with weorold or middanġeard
+Note that sea is still sometimes used without the in Modern English in fossilized phrases like at sea and out to seaA couple of abstract concepts namely sōþ the truth and ǣ the lawMany divisions of time
+Namely the words for the morning the evening the four seasons the past the present and the future
+Iċ ārās on lætne morgen and ēode niðer I got up late in the morning and went downstairs
+But note I go out at nightDryhten the Lord
+Dēofol the Devil often occurs with the and often without itThe cardinal directions norþ sūþ ēast and west
+Also the intercardinal directions norðēast sūðēast sūðwest and norðwestA few set phrases including ealle hwīle the whole time literally allwhole while be weġe on the way lit
+by way and ealne weġ all the way or always lit
+Also forma sīþ the first time ōðer sīþ the second time and so onNote that those words still occur with the when they refer to a specific iteration as in the future that I want the woods behind my house or the law they just passed
+Old English has two main demonstratives sē that and þēs this
+Sē is also the word for the for its declension see above
+There is also the distal demonstrative ġeon the source of Modern English yon It means that over there and refers to things far away
+Ġeon is declined like a regular adjective that is like cwic above
+Hwā who and hwæt what follow natural gender not grammatical gender as in Modern English hwā is used with people hwæt with things
+However that distinction only matters in the nominative and accusative cases because in every other case they are identical
+Hwelċ which or what kind of is inflected like an adjective
+Same with hwæðer which also means which but is only used between two alternatives
+The first - and second-person pronouns are the same for all genders
+They also have special dual forms which are only used for groups of two things as in we both and you two The dual forms are common but the ordinary plural forms can always be used instead when the meaning is clear
+Many of the forms above bear a strong resemblance to the Modern English words they eventually became
+For instance in the genitive case ēower became your ūre became our and mīn became my
+However in stressed positions the plural third-person personal pronouns were all replaced with Old Norse forms during the Middle English period yielding they them and their
+The Old English dative pronoun is retained as unstressed 'em
+Old English verbs are divided into two groups strong verbs and weak verbs
+Strong verbs form the past tense by changing a vowel while weak verbs add an ending
+Strong verbs use a Germanic form of conjugation known as ablaut
+They form the past tense by changing their stem vowel
+These verbs still exist in modern English where they are called irregular verbs for example sing sang sung is a strong verb as are swim swam swum and break broke broken
+Strong verbs have been growing less and less common over the centuries because their conjugations are more complicated than weak verbs and harder to predict
+That means many verbs that were strong in Old English times are now weak
+These include walk sleep help laugh step sneeze chew wash shine climb let bake lock read drag bark sweep float bow row fart creep flow starve weep grip leap mow slay shove carve gnaw braid flee fare ban wreak quell delve abide yield spurn thresh swell milk suck burst load melt and swallow
+Two of these even became weak during the Old English period sleep slǣpan and read rǣdan
+Also by Old English times people had long since stopped coining new strong verbs
+Even today almost every strong verb in the modern language dates back before Old English even to before Proto-Germanic
+Most strong verbs are not considered irregular in Old English because each belongs to one of seven major classes each with its own pattern of stem changes
+Learning these is often a challenge for students of the language though English speakers may see connections between the old verb classes and their modern forms
+The classes had the following distinguishing features to their infinitive stems each corresponding to particular stem changes within their strong-conjugating paradigms
+ī + one consonantēo or ū + one consonantOriginally e + two consonants
+By the time of written Old English many had changed
+If C is used to represent any consonant verbs in this class usually had short e + lC short eo + rC short i + nCmC or g̣ + short ie + lCe + one consonant usually l or r plus the verb brecan 'to break'e + one consonant usually a stop or a fricativea + one consonantOther than the above
+Always a heavy root syllable either a long vowel or short + two consonants almost always a non-umlauted vowel eg ō ā ēa a + nC ea + lCrC occ
+ǣ the latter with past in ē instead of normal ēo
+Infinitive is distinguishable from class weak verbs by non-umlauted root vowel from class weak verbs by lack of suffix -ian
+First and second preterite have identical stems usually in ēo occ
+ē and the infinitive and the past participle also have the same stemThe first past stem is used in the past for the first- and third-person singular
+The second past stem is used for second-person singular and all persons in the plural as well as the preterite subjunctive
+Strong verbs also exhibit i-mutation of the stem in the second- and third-person singular in the present tense
+The third class went through so many sound changes that it was barely recognisable as a single class
+The first was a process called 'breaking'
+Before ⟨h⟩ and ⟨r⟩ + another consonant ⟨æ⟩ turned into ⟨ea⟩ and ⟨e⟩ to ⟨eo⟩
+Also before ⟨l⟩ + another consonant the same happened to ⟨æ⟩ but ⟨e⟩ remained unchanged except before combination ⟨lh⟩
 A second sound change turned ⟨e⟩ to ⟨i⟩ ⟨æ⟩ to ⟨a⟩ and ⟨o⟩ to ⟨u⟩ before nasals
-Altogether this split the third class into four sub classes
-e + two consonants apart from clusters beginning with leo + r or h + another consonante + l + another consonanti + nasal + another consonantRegular strong verbs were all conjugated roughly the same with the main differences being in the stem vowel Thus stelan to steal represents the strong verb conjugation paradigm
-Weak verbs form the past tense by adding endings with d in them sometimes t to the stem In Modern English these endings have merged as ed forming the past tense for most verbs such as love loved and look looked
-Weak verbs already make up the vast majority of verbs in Old English There are two major types class I and class II A class III also existed but contained only four verbs
-By the Old English period new class I weak verbs had stopped being produced but so many had been coined in Proto Germanic that they were still by far the most common kind of verb in Old English These verbs are often recognizable because they feature i umlaut of the word they were derived from as in dēman to judge from dōm judgment blǣċan to bleach from blāc pale tellan to count from tæl number and rȳman to make room from rūm room They are also the source of alterations in Modern English such as feed food fill full and breed brood
-Class I weak verbs are not all conjugated the same Their exact endings depend on a complex combination of factors mostly involving the length of the stem vowel and which consonants the stem ends in and sometimes also the history of the word But the largest number are conjugated the same as dǣlan to share
+Altogether this split the third class into four sub-classes
+e + two consonants apart from clusters beginning with leo + r or h + another consonante + l + another consonanti + nasal + another consonantRegular strong verbs were all conjugated roughly the same with the main differences being in the stem vowel
+Thus stelan to steal represents the strong verb conjugation paradigm
+Weak verbs form the past tense by adding endings with -d- in them sometimes -t- to the stem
+In Modern English these endings have merged as -ed forming the past tense for most verbs such as love loved and look looked
+Weak verbs already make up the vast majority of verbs in Old English
+There are two major types class I and class II
+A class III also existed but contained only four verbs
+By the Old English period new class I weak verbs had stopped being produced but so many had been coined in Proto-Germanic that they were still by far the most common kind of verb in Old English
+These verbs are often recognizable because they feature i-umlaut of the word they were derived from as in dēman to judge from dōm judgment blǣċan to bleach from blāc pale tellan to count from tæl number and rȳman to make room from rūm room
+They are also the source of alterations in Modern English such as feed food fill full and breed brood
+Class I weak verbs are not all conjugated the same
+Their exact endings depend on a complex combination of factors mostly involving the length of the stem vowel and which consonants the stem ends in and sometimes also the history of the word
+But the largest number are conjugated the same as dǣlan to share
 Many verbs ending in a double consonant are conjugated like temman to tame with the same endings and the same alternation between single and double consonants
-Class I weak verbs that end in rian are conjugated like styrian to move
-Class II weak verbs are easily recognized by the fact that nearly all of them end in ian hopian to hope wincian to wink wandrian to wander
-By the Old English period this was the only productive verb class left Newly created verbs were almost automatically weak class II
-Unlike weak class I they never cause i umlaut so their stems are usually identical to the stem of the word they were derived from lufu love → lufian to love mynet coin → mynetian to coin hwelp puppy → hwelpian of animals to give birth
-Their conjugation is also much simpler than all other verb classes Almost all weak class II verbs have precisely the same endings completely unaffected by the makeup of the stem or the history of the word A typical example is lufian to love
+Class I weak verbs that end in -rian are conjugated like styrian to move
+Class II weak verbs are easily recognized by the fact that nearly all of them end in -ian hopian to hope wincian to wink wandrian to wander
+By the Old English period this was the only productive verb class left
+Newly created verbs were almost automatically weak class II
+Unlike weak class I they never cause i-umlaut so their stems are usually identical to the stem of the word they were derived from lufu love → lufian to love mynet coin → mynetian to coin hwelp puppy → hwelpian of animals to give birth
+Their conjugation is also much simpler than all other verb classes
+Almost all weak class II verbs have precisely the same endings completely unaffected by the makeup of the stem or the history of the word
+A typical example is lufian to love
 Though it was once much larger containing many verbs which later became class II only four verbs still belonged to this group by the period of written texts habban to have libban to live seċġan to say and hyċġan to think Each of these verbs is distinctly irregular though they share some commonalities
-The preterite presents are verbs whose present tenses look like the past tenses of strong verbs This resemblance is not an accident they descend from old Proto Indo European stative verbs which normally developed into the past tense of the Germanic languages The preterite present verbs are an exception to this development remaining as independent verbs For example the first person present of witan to know originally meant I have seen referring to the state of having seen and by implication I know At some point well before Old English these verbs were given their own past tenses by tacking on weak past endings but without an intervening vowel This lack of an intervening vowel then led to alternations in the consonants and sometimes vowels as well
-There are only a dozen preterite presents but most are among the most frequent verbs in the language They are magan can sċulan shouldmustto owe mōtan may þurfan to need witan to know cunnan to knowknow how ġemunan to remember durran to dare āgan to own dugan to be useful ġenugan to suffice and unnan to grant
+The preterite-presents are verbs whose present tenses look like the past tenses of strong verbs
+This resemblance is not an accident they descend from old Proto-Indo-European stative verbs which normally developed into the past tense of the Germanic languages
+The preterite-present verbs are an exception to this development remaining as independent verbs
+For example the first-person present of witan to know originally meant I have seen referring to the state of having seen and by implication I know
+At some point well before Old English these verbs were given their own past tenses by tacking on weak past endings but without an intervening vowel
+This lack of an intervening vowel then led to alternations in the consonants and sometimes vowels as well
+There are only a dozen preterite-presents but most are among the most frequent verbs in the language
+They are magan can sċulan shouldmustto owe mōtan may þurfan to need witan to know cunnan to knowknow how ġemunan to remember durran to dare āgan to own dugan to be useful ġenugan to suffice and unnan to grant
 In spite of heavy irregularities these can be grouped into four groups of similarly conjugated verbs
 Cunnan ġemunan outside the past tense and unnan
-Sċulan and þurfanAdditionally there is a further group of four verbs which are anomalous want do go and be These four have their own conjugation schemes which differ significantly from all the other classes of verb This is not especially unusual want do go and be are the most commonly used verbs in the language and are very important to the meaning of the sentences in which they are used Idiosyncratic patterns of inflection are much more common with important items of vocabulary than with rarely used ones
+Sċulan and þurfanAdditionally there is a further group of four verbs which are anomalous want do go and be
+These four have their own conjugation schemes which differ significantly from all the other classes of verb
+This is not especially unusual want do go and be are the most commonly used verbs in the language and are very important to the meaning of the sentences in which they are used
+Idiosyncratic patterns of inflection are much more common with important items of vocabulary than with rarely used ones
 Dōn 'to do' and gān 'to go' are conjugated alike willan 'to want' is similar outside of the present tense
-The verb 'to be' is actually composed of three different stems one beginning with w one beginning with b and one beginning with s These are traditionally thought of as forming two separate words wesan comprising the forms beginning with w and s and bēon comprising the forms beginning with b
-In the present tense wesan and bēon carried a difference in meaning Wesan was used in most circumstances whereas bēon was used for the future and for certain kinds of general statements
+The verb 'to be' is actually composed of three different stems one beginning with w- one beginning with b- and one beginning with s-
+These are traditionally thought of as forming two separate words wesan comprising the forms beginning with w- and s- and bēon comprising the forms beginning with b-
+In the present tense wesan and bēon carried a difference in meaning
+Wesan was used in most circumstances whereas bēon was used for the future and for certain kinds of general statements
 Prepositions like Modern English words by for and with sometimes follow the word which they govern especially pronouns in which case they are called postpositions
-The following is a list of prepositions in the Old English language Prepositions may govern the accusative genitive dative or instrumental cases
-Old English syntax was similar in many ways to that of Modern English However there were some important differences Some were simply consequences of the greater level of nominal and verbal inflection and word order was generally freer There are also differences in the default word order and in the construction of negation questions relative clauses and subordinate clauses
-The default word order was verb second and more like German than Modern English
-There was no do support in questions and negatives
+The following is a list of prepositions in the Old English language
+Prepositions may govern the accusative genitive dative or instrumental cases
+Old English syntax was similar in many ways to that of Modern English
+Some were simply consequences of the greater level of nominal and verbal inflection and word order was generally freer
+There are also differences in the default word order and in the construction of negation questions relative clauses and subordinate clauses
+The default word order was verb-second and more like German than Modern English
+There was no do-support in questions and negatives
 Multiple negatives could stack up in a sentence and intensified each other negative concord
-Sentences with subordinate clauses of the type When X Y did not use a wh type word for the conjunction but used a th type correlative conjunction eg þā X þā Y instead of When X YThere was some flexibility in word order of Old English since the heavily inflected nature of nouns adjectives and verbs often indicated the relationships between clause arguments Scrambling of constituents was common Even sometimes scrambling within a constituent occurred as in Beowulf line wrāþum on andan
-Something similar occurs in line in sele þām hēan in the high hall lit in hall the high
-Extraposition of constituents out of larger constituents is common even in prose as in the well known tale of Cynewulf and Cyneheard which begins
+Sentences with subordinate clauses of the type When X Y did not use a wh-type word for the conjunction but used a th-type correlative conjunction eg þā X þā Y instead of When X YThere was some flexibility in word order of Old English since the heavily inflected nature of nouns adjectives and verbs often indicated the relationships between clause arguments
+Even sometimes scrambling within a constituent occurred as in Beowulf line wrāþum on andan
+Something similar occurs in line in sele þām hēan in the high hall lit
+Extraposition of constituents out of larger constituents is common even in prose as in the well-known tale of Cynewulf and Cyneheard which begins
 Hēr Cynewulf benam Sigebryht his rīces ond westseaxna wiotan for unryhtum dǣdum būton Hamtūnscīre
 Literally Here Cynewulf deprived Sigebryht of his kingdom and West Saxons' counselors for unright deeds except Hampshire
-translated Here Cynewulf and the West Saxon counselors deprived Sigebryht of his kingdom other than Hampshire for unjust actionsThe words ond westseaxna wiotan and the West Saxon counselors lit and the counselors of the West Saxons have been extraposed from moved out of the compound subject they belong in in a way that would be impossible in modern English In Old English case inflection preserves the meaning the verb beniman to deprive appearing in this sentence in the form benam he deprived needs a word in the genitive case to show what someone or something is deprived of which in this sentence is rīces of kingdom nominative rīce kingdom whereas wiotan counselors is in the nominative case and therefore serves a different role entirely the genitive of it would be wiotana of counselors for this reason the interpretation that Cynewulf deprived Sigebryht of the West Saxon counselors was not possible for speakers of Old English The Old English sentence still isn't in theory perfectly unambiguous as it contains one more word in the genitive westseaxna of West Saxons nominative westseaxan West Saxons and the form wiotan counselors may also represent the accusative case in addition to the nominative thus for example creating the grammatical possibility of the interpretation that Cynewulf also took the West Saxons away from the counselors but this would have been difficult to conceive
-Main clauses in Old English tend to have a verb second V order where the finite verb is the second constituent in a sentence regardless of what comes first There are echoes of this in modern English Hardly did he arrive when Never can it be said that Over went the boat Ever onward marched the weary soldiers Then came a loud sound from the sky above In Old English however it was much more extensive like the word order in modern Germanic languages other than modern English If the subject appears first there is an SVO order but it can also yield orders such as OVS and others In questions VSO was common see below
-In subordinate clauses however the word order is markedly different with verb final constructions the norm again as in Dutch and German Furthermore in poetry all the rules were frequently broken In Beowulf for example main clauses frequently have verb initial or verb final order and subordinate clauses often have verb second order However in clauses introduced by þā which can mean either when or then and where word order is crucial for telling the difference the normal word order is nearly always followed
-Those linguists who work within the Chomskyan transformational grammar paradigm often believe that it is more accurate to describe Old English and other Germanic languages with the same word order patterns like modern German as having underlying subject object verb SOV ordering According to this theory all sentences are initially generated using this order but in main clauses the verb is moved back to the V position technically the verb undergoes V to T raising That is said to explain the fact that Old English allows inversion of subject and verb as a general strategy for forming questions while modern English uses this strategy almost only with auxiliary verbs and the main verb to be requiring do support in other cases
-Most of the time the word order of Old English changed when asking a question from SVO to VSO While many purport that Old English had free word order this is not quite true as there were conventions for the positioning of subject object and verb in clause
+translated Here Cynewulf and the West Saxon counselors deprived Sigebryht of his kingdom other than Hampshire for unjust actionsThe words ond westseaxna wiotan and the West Saxon counselors lit
+and the counselors of the West Saxons have been extraposed from moved out of the compound subject they belong in in a way that would be impossible in modern English
+In Old English case inflection preserves the meaning the verb beniman to deprive appearing in this sentence in the form benam he deprived needs a word in the genitive case to show what someone or something is deprived of which in this sentence is rīces of kingdom nominative rīce kingdom whereas wiotan counselors is in the nominative case and therefore serves a different role entirely the genitive of it would be wiotana of counselors for this reason the interpretation that Cynewulf deprived Sigebryht of the West Saxon counselors was not possible for speakers of Old English
+The Old English sentence still isn't in theory perfectly unambiguous as it contains one more word in the genitive westseaxna of West Saxons nominative westseaxan West Saxons and the form wiotan counselors may also represent the accusative case in addition to the nominative thus for example creating the grammatical possibility of the interpretation that Cynewulf also took the West Saxons away from the counselors but this would have been difficult to conceive
+Main clauses in Old English tend to have a verb-second V order where the finite verb is the second constituent in a sentence regardless of what comes first
+There are echoes of this in modern English Hardly did he arrive when Never can it be said that Over went the boat Ever onward marched the weary soldiers Then came a loud sound from the sky above
+In Old English however it was much more extensive like the word order in modern Germanic languages other than modern English
+If the subject appears first there is an SVO order but it can also yield orders such as OVS and others
+In questions VSO was common see below
+In subordinate clauses however the word order is markedly different with verb-final constructions the norm again as in Dutch and German
+Furthermore in poetry all the rules were frequently broken
+In Beowulf for example main clauses frequently have verb-initial or verb-final order and subordinate clauses often have verb-second order
+However in clauses introduced by þā which can mean either when or then and where word order is crucial for telling the difference the normal word order is nearly always followed
+Those linguists who work within the Chomskyan transformational grammar paradigm often believe that it is more accurate to describe Old English and other Germanic languages with the same word-order patterns like modern German as having underlying subject-object-verb SOV ordering
+According to this theory all sentences are initially generated using this order but in main clauses the verb is moved back to the V position technically the verb undergoes V-to-T raising
+That is said to explain the fact that Old English allows inversion of subject and verb as a general strategy for forming questions while modern English uses this strategy almost only with auxiliary verbs and the main verb to be requiring do-support in other cases
+Most of the time the word order of Old English changed when asking a question from SVO to VSO
+While many purport that Old English had free word order this is not quite true as there were conventions for the positioning of subject object and verb in clause
 Ic eom becomes Eom icOld English did not use forms equivalent to who when where in relative clauses as in The man whom I saw or subordinate clauses When I got home I went to sleep
 Instead relative clauses used one of the following
 The combination of the two as in se þeSubordinate clauses tended to use correlative conjunctions eg
 Þā ic hām ēode þā slēp ic
-word for word Then I home went then slept I
-translated When I went home I sleptThe word order usually distinguished the subordinate clause with verb final order from the main clause with verb second word order
+word-for-word Then I home went then slept I
+translated When I went home I sleptThe word order usually distinguished the subordinate clause with verb-final order from the main clause with verb-second word order
 The equivalents of who when where were used only as interrogative pronouns and indefinite pronouns as in Ancient Greek and Sanskrit
-Besides þā þā other correlative conjunctions occurred often in pairs of identical words eg
+þā other correlative conjunctions occurred often in pairs of identical words eg
 þǣr X þǣr Y Where X Y
 þanon X þanon Y Whence from wherewherefrom X Y
 þider X þider Y Whither to wherewhereto X Y
@@ -130,13 +320,13 @@ Besides þā þā other correlative conjunctions occurred often in pairs of iden
 þenden X þenden Y While X Y
 þonne X þonne Y Whenever X Y
 þæs X þæs Y Asaftersince X Y
-þȳ X þȳ Y The more X the more YThe phonology of Old English is necessarily somewhat speculative since it is preserved purely as a written language Nevertheless there is a very large corpus of Old English and the written language apparently indicates phonological alternations quite faithfully so it is not difficult to draw certain conclusions about the nature of Old English phonology
-Old English phonologyHogg Richard M A Grammar of Old English Morphology Vol Oxford Wiley Blackwell
-Mitchell Bruce Old English Syntax Oxford Oxford University Press
-Moore Samuel Knott Thomas A Hulbert James R ed The Elements of Old English th ed Ann Arbor Michigan George Wahr Publishing Co
-Ringe Don Taylor Ann The Development of Old English Oxford Oxford University Press
-The Magic Sheet one page color PDF summarizing Old English declension from Peter S Baker inspired by Moore and Marckwardt's Historical Outlines of English Sounds and Inflections
-J Bosworth TN Toller An Anglo Saxon dictionary Germanic Lexicon ProjectBrunner Karl Altenglische Grammatik nach der angelsächsischen Grammatik von Eduard Sievers neubearbeitet rd ed Tübingen Max Niemeyer
-Campbell A Old English Grammar Oxford Clarendon Press
-Mitchell Bruce Robinson Fred A Guide to Old English th ed Oxford Blackwell Publishing ISBN
-Quirk Randolph Wrenn C L An Old English Grammar nd ed London Methuen
+þȳ X þȳ Y The more X the more YThe phonology of Old English is necessarily somewhat speculative since it is preserved purely as a written language
+Nevertheless there is a very large corpus of Old English and the written language apparently indicates phonological alternations quite faithfully so it is not difficult to draw certain conclusions about the nature of Old English phonology
+The Elements of Old English th ed
+Ann Arbor Michigan George Wahr Publishing Co
+The Magic Sheet one page color PDF summarizing Old English declension from Peter S
+Baker inspired by Moore and Marckwardt's Historical Outlines of English Sounds and Inflections
+Toller An Anglo-Saxon dictionary Germanic Lexicon ProjectBrunner Karl
+Altenglische Grammatik nach der angelschsischen Grammatik von Eduard Sievers neubearbeitet rd ed
+Mitchell Bruce Robinson Fred A Guide to Old English th ed
+An Old English Grammar nd ed London Methuen

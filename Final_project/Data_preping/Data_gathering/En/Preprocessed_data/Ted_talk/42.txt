@@ -8,7 +8,7 @@ from California to Alabama Mississippi to where I live in Texas
 Some of them choose not even to have a home base they're nomads
 Whether they are in RVs or traveling through Airbnbs
 they are in new places every day week or month
-As long as they can find good Wi Fi we don't care where they are
+As long as they can find good Wi-Fi we don't care where they are
 Our focus on distributed work didn't happen accidentally
 It was a conscious choice from the very beginning
 Notice I don't use the word remote
@@ -48,26 +48,26 @@ it's also great to think about as an organization evolves
 Try to have as much communication as possible online
 When everything's shared and public it allows new people to catch up quickly
 You also need to find the right tools
-There are so many apps and services that help with day to day communication
+There are so many apps and services that help with day-to-day communication
 The things that changed how you work probably aren't objects anymore
 They're things you access through your computer
 So experiment with different tools that enable collaboration
 you're in the same place weeks out of the year
 and you might have three or four weeks apart
 We try to flip that we come together for short intense bursts
-Once a year we do a grand meet up
+Once a year we do a grand meet-up
 where the entire company comes together for a week
 We want to make sure everyone's aligned and on the same page
 and they have a deeper connection with their colleagues
 When they work together the rest of the year
 they can bring together that understanding and empathy
 give people the flexibility to make their own work environment
-Every person at Automattic has a co working stipend
-that they can put towards a co working space
+Every person at Automattic has a co-working stipend
+that they can put towards a co-working space
 or just to buy coffee so they don't get kicked out of the coffee shop
 One group in Seattle decided to pool their stipends together
 and rented a workspace on a fishing pier
-Each person who joins the company gets a home office stipend
+Each person who joins the company gets a home-office stipend
 This is money they can invest in getting the right chair monitor
 the right desk setup so they can have the most productive environment for them
 Today there are just a few companies that are distributed first

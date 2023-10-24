@@ -1,43 +1,101 @@
-Warehouse is an American science fiction television series that originally ran from July to May on the Syfy network and was executive produced by Jack Kenny and David Simkins for Universal Cable Productions Described as part The X Files part Raiders of the Lost Ark and part Moonlighting the show's blend of science fiction comedy and drama is said to have borrowed much from the American Canadian horror television series Friday the th The Series The program follows a team of field agents who retrieve artifacts that have become charged with energy that can give them dangerous powers if misused Once retrieved and neutralized the objects are stored in Warehouse the latest in a line of storehouses with infinite capacity that have served this purpose for millennia
-The series follows US Secret Service Agents Myka Bering Joanne Kelly and Pete Lattimer Eddie McClintock when they are assigned to the secretive Warehouse for supernatural artifacts It is located in a barren landscape in South Dakota and they initially regard the assignment as punishment As they go about their assignments to retrieve missing artifacts and investigate reports of new ones they come to understand the importance of what they are doing In episode of the first season they meet Claudia Donovan Allison Scagliotti who is searching for her missing brother in season she joins the team as their technology expert In episode of season Steve Jinks Aaron Ashmore an Agent from the Bureau of Alcohol Tobacco Firearms and Explosives comes aboard
-The series posits that there have been a dozen incarnations of the warehouse before the present day th in South Dakota Warehouse was built between BC on the orders of Alexander the Great as a place to keep artifacts obtained by war After Alexander died the warehouse was moved to Egypt establishing the practice of locating the warehouse in the most powerful empire of the day under the reasoning that it will be best defended there Egypt's Ptolemaic rulers appointed a group of people known as the Regents to oversee the warehouse and act as its first agents and collectors of artifacts Warehouse lasted until the Roman conquest of Egypt Other warehouses throughout history include Warehouse in Western Roman Empire Italy Warehouse in Hunnic Empire until the death of Attila the Hun Warehouse in Byzantine Empire Warehouse in Cambodia under the Khmer Empire Warehouse in the Mongol Empire under Genghis Khan Warehouse in Germany during the Holy Roman Empire Warehouse in the Ottoman capital of Constantinople until the death of Suleiman the Magnificent Warehouse in Mughal Empire India Warehouse in the Russian Empire under the Romanov Dynasty the Napoleonic War with Russia was an attempt to seize control of Warehouse and Warehouse in the United Kingdom from until It was during the time of Warehouse that the Regents began to employ agents to gather and protect artifacts This practice continued under Warehouse with British agents traveling further and further searching for artifacts to add to the collection
-The next move brought the warehouse to South Dakota in the United States Unlike previous warehouses which were placed in the centers of their empires Warehouse was located in a remote area of South Dakota to hide it The first Warehouse was built in but the structure burned down because of an insufficient understanding of how to safely store artifacts The move to the rebuilt and current Warehouse occurred in at the onset of World War I The warehouse was designed by Thomas Edison Nikola Tesla and M C Escher while the warehouse's expansion joints were created by Albert Einstein
-Originally artifacts are items connected to some historical or mythological figure or event Each artifact has been imbued with something from its creator user or a major event in history Some are well known Studio 's Disco ball Lewis Carroll's looking glass which contains an evil entity called Alice that can possess other people's bodies Myka in Season episode Duped leaving their minds trapped in the mirror and Edgar Allan Poe's pen and a volume of his writing which can make whatever the user writes a reality Some are not Lizzie Borden had a mirrored compact that today compels users to kill their loved ones with an axe Marilyn Monroe owned a brush that now turns its user's hair platinum blonde which Myka once used on herself while under the influence of W C Fields' juggling balls that induce drunkenness and blackouts Others may have humorous effects such as Ivan Pavlov's bell which will call any dog to you but causes excessive drooling for hours and a magic kettle that grants wishes but produces a ferret if the wish is impossible The artifacts react with electricity and can be neutralized by immersion in a mysterious purple goo or placed inside a neutralizing reflective bag both produced by Global Dynamics a research laboratory from Warehouse 's sister show Eureka Artie has also mentioned that ingesting neutralizer will make you see things During episode season Mrs Frederic shows Claudia an artifact being created—a silver bracelet worn by an ordinary person who exhibits extraordinary courage
-Warehouse agents are provided by the host country of the warehouse in this case from various government agencies such as the Secret Service FBI ATF CDC and DEA etc Agents of Warehouse in particular were chosen either for their above average intelligence Artie is an expert NSA codebreaker Myka has an eidetic memory and a wealth of encyclopedic knowledge Claudia and HG Wells are both expert inventors or because they possess a kind of extranormal ability Pete and Mrs Frederic both receive vibes regarding situations Leena can read people's auras and Jinks has the ability to tell when a person is lying
-Eddie McClintock as Pete Lattimer is a rule bender Secret Service Agent now assigned to Warehouse He has been able to pick up vibes both good and bad since he was a child The series frequently makes references to his being a recovering alcoholic who already had been sober for more than eight years when the series started He is also fond of cookies
-Joanne Kelly as Myka Bering once a rising star in the Secret Service is a by the book agent She has a scrupulous eye for detail and possesses an eidetic memory She also has extensive knowledge of books having grown up in a book store Reference to a former partner that ended in tragedy is frequently made such as in the season one episode Regrets
-Saul Rubinek as Artie Nielsen is the Special Agent in Charge at Warehouse A former cryptographer and codebreaker for the NSA he has spent over years at the Warehouse and is very knowledgeable about artifacts both in the Warehouse and out in the world He becomes a surrogate father to Claudia
-Genelle Williams as Leena seasons guest season the proprietor of the bed and breakfast in nearby Univille where the team lives She can read a person's aura
+Warehouse is an American science fiction television series that originally ran from July to May on the Syfy network and was executive produced by Jack Kenny and David Simkins for Universal Cable Productions
+Described as part The X-Files part Raiders of the Lost Ark and part Moonlighting the show's blend of science fiction comedy and drama is said to have borrowed much from the American-Canadian horror television series Friday the th The Series
+The program follows a team of field agents who retrieve artifacts that have become charged with energy that can give them dangerous powers if misused
+Once retrieved and neutralized the objects are stored in Warehouse the latest in a line of storehouses with infinite capacity that have served this purpose for millennia
+Secret Service Agents Myka Bering Joanne Kelly and Pete Lattimer Eddie McClintock when they are assigned to the secretive Warehouse for supernatural artifacts
+It is located in a barren landscape in South Dakota and they initially regard the assignment as punishment
+As they go about their assignments to retrieve missing artifacts and investigate reports of new ones they come to understand the importance of what they are doing
+In episode of the first season they meet Claudia Donovan Allison Scagliotti who is searching for her missing brother in season she joins the team as their technology expert
+In episode of season Steve Jinks Aaron Ashmore an Agent from the Bureau of Alcohol Tobacco Firearms and Explosives comes aboard
+The series posits that there have been a dozen incarnations of the warehouse before the present-day th in South Dakota
+Warehouse was built between BC on the orders of Alexander the Great as a place to keep artifacts obtained by war
+After Alexander died the warehouse was moved to Egypt establishing the practice of locating the warehouse in the most powerful empire of the day under the reasoning that it will be best defended there
+Egypt's Ptolemaic rulers appointed a group of people known as the Regents to oversee the warehouse and act as its first agents and collectors of artifacts
+Warehouse lasted until the Roman conquest of Egypt
+Other warehouses throughout history include Warehouse in Western Roman Empire Italy Warehouse in Hunnic Empire until the death of Attila the Hun Warehouse in Byzantine Empire Warehouse in Cambodia under the Khmer Empire Warehouse in the Mongol Empire under Genghis Khan Warehouse in Germany during the Holy Roman Empire Warehouse in the Ottoman capital of Constantinople until the death of Suleiman the Magnificent Warehouse in Mughal Empire India Warehouse in the Russian Empire under the Romanov Dynasty the Napoleonic War with Russia was an attempt to seize control of Warehouse and Warehouse in the United Kingdom from until
+It was during the time of Warehouse that the Regents began to employ agents to gather and protect artifacts
+This practice continued under Warehouse with British agents traveling further and further searching for artifacts to add to the collection
+The next move brought the warehouse to South Dakota in the United States
+Unlike previous warehouses which were placed in the centers of their empires Warehouse was located in a remote area of South Dakota to hide it
+The first Warehouse was built in but the structure burned down because of an insufficient understanding of how to safely store artifacts
+The move to the rebuilt and current Warehouse occurred in at the onset of World War I
+The warehouse was designed by Thomas Edison Nikola Tesla and M
+Escher while the warehouse's expansion joints were created by Albert Einstein
+Originally artifacts are items connected to some historical or mythological figure or event
+Each artifact has been imbued with something from its creator user or a major event in history
+Some are well known Studio 's Disco ball Lewis Carroll's looking glass which contains an evil entity called Alice that can possess other people's bodies Myka in Season episode Duped leaving their minds trapped in the mirror and Edgar Allan Poe's pen and a volume of his writing which can make whatever the user writes a reality
+Some are not Lizzie Borden had a mirrored compact that today compels users to kill their loved ones with an axe Marilyn Monroe owned a brush that now turns its user's hair platinum blonde which Myka once used on herself while under the influence of W
+Fields' juggling balls that induce drunkenness and blackouts
+Others may have humorous effects such as Ivan Pavlov's bell which will call any dog to you but causes excessive drooling for hours and a magic kettle that grants wishes but produces a ferret if the wish is impossible
+The artifacts react with electricity and can be neutralized by immersion in a mysterious purple goo or placed inside a neutralizing reflective bag both produced by Global Dynamics a research laboratory from Warehouse 's sister show Eureka
+Artie has also mentioned that ingesting neutralizer will make you see things
+Frederic shows Claudia an artifact being created—a silver bracelet worn by an ordinary person who exhibits extraordinary courage
+Warehouse agents are provided by the host country of the warehouse in this case from various government agencies such as the Secret Service FBI ATF CDC and DEA etc
+Agents of Warehouse in particular were chosen either for their above-average intelligence Artie is an expert NSA codebreaker Myka has an eidetic memory and a wealth of encyclopedic knowledge Claudia and HG
+Wells are both expert inventors or because they possess a kind of extranormal ability Pete and Mrs
+Frederic both receive vibes regarding situations Leena can read people's auras and Jinks has the ability to tell when a person is lying
+Eddie McClintock as Pete Lattimer is a rule-bender Secret Service Agent now assigned to Warehouse
+He has been able to pick up vibes both good and bad since he was a child
+The series frequently makes references to his being a recovering alcoholic who already had been sober for more than eight years when the series started
+Joanne Kelly as Myka Bering once a rising star in the Secret Service is a by-the-book agent
+She has a scrupulous eye for detail and possesses an eidetic memory
+She also has extensive knowledge of books having grown up in a book store
+Reference to a former partner that ended in tragedy is frequently made such as in the season one episode Regrets
+Saul Rubinek as Artie Nielsen is the Special Agent in Charge at Warehouse
+A former cryptographer and codebreaker for the NSA he has spent over years at the Warehouse and is very knowledgeable about artifacts both in the Warehouse and out in the world
+He becomes a surrogate father to Claudia
+Genelle Williams as Leena seasons guest season the proprietor of the bed and breakfast in nearby Univille where the team lives
 Simon Reynolds as Daniel Dickinson season guest season Pete and Myka's former boss in Washington DC
-Allison Scagliotti as Claudia Donovan seasons recurring season is described as a young hip brilliant techno wiz who earns a job at Warehouse after discovering too many of its secrets She can hack into almost any computer network and occasionally modifies artifacts to suit her needs
-Aaron Ashmore as Steve Jinks seasons recurring season was an ATF agent before being recruited to Warehouse for his ability to tell when people are lying In Emily Lake he is killed by Marcus Diamond Sasha Roiz on orders of Walter Sykes Anthony Michael Hall In season he is resurrected by Claudia using the metronome Ashmore was promoted to series regular beginning with the episode Personal EffectsCCH Pounder as Irene Frederic
-Mark A Sheppard as Benedict Valda season guest seasons
-Jaime Murray as Helena G Wells seasons
-Paula Garcés as Kelly Hernandez season guest season
+Allison Scagliotti as Claudia Donovan seasons recurring season is described as a young hip brilliant techno-wiz who earns a job at Warehouse after discovering too many of its secrets
+She can hack into almost any computer network and occasionally modifies artifacts to suit her needs
+Aaron Ashmore as Steve Jinks seasons recurring season was an ATF agent before being recruited to Warehouse for his ability to tell when people are lying
+In Emily Lake he is killed by Marcus Diamond Sasha Roiz on orders of Walter Sykes Anthony Michael Hall
+In season he is resurrected by Claudia using the metronome
+Ashmore was promoted to series regular beginning with the episode Personal EffectsCCH Pounder as Irene Frederic
+Sheppard as Benedict Valda season guest seasons
+Paula Garcs as Kelly Hernandez season guest season
 Faran Tahir as Adwin Kosan seasons guest season
-Lindsay Wagner as Dr Vanessa Calder seasons guest seasons
+Brent Spiner as Brother Adrian seasons -
 Anthony Michael Hall as Walter Sykes season
-Jeri Ryan as Amanda Lattimer guest seasons The network then named SciFi originally ordered a two hour pilot episode written by Farscape creator Rockne S O'Bannon Battlestar Galactica co Executive Producer Jane Espenson and D Brent Mote Jace Alexander eventually directed a revised version written by Espenson Mote and Blade The Series executive producer David Simkins SciFi ordered an additional nine episodes on September The series premiered in the US on July concurrent with the name change to Syfy The series was filmed in and around Toronto Ontario
+Jeri Ryan as Amanda Lattimer guest seasons -The network then named SciFi originally ordered a two-hour pilot episode written by Farscape creator Rockne S
+O'Bannon Battlestar Galactica co-Executive Producer Jane Espenson and D
+Jace Alexander eventually directed a revised version written by Espenson Mote and Blade The Series executive producer David Simkins
+SciFi ordered an additional nine episodes on September
+on July concurrent with the name-change to Syfy
+The series was filmed in and around Toronto Ontario
 Warehouse was part of Syfy's developing shared fictional universe with several characters crossing over between series
-Global Dynamics researcher Douglas Fargo played by Neil Grayston from Eureka traveled to South Dakota to update Warehouse 's computer system in the Warehouse episode SE Warehouse computer wizard Claudia Donovan played by Allison Scagliotti subsequently traveled to the town of Eureka Oregon to check out the technological marvels at Global Dynamics in the Eureka episode Crossing Over its SE Fargo again appeared in the Warehouse episode Don't Hate the Player SE when Claudia Lattimer and Bering traveled to Palo Alto California to find Douglas beta testing a virtual reality simulator with the aid of a dangerous artifact
-Dr Vanessa Calder played by Lindsay Wagner who appeared in the Warehouse episodes For the Team SE Buried SE Love Sick SE and Endless Terror SE as a physician and love interest of Artie traveled to Fenton Pennsylvania to investigate a series of deaths in which the victims suffered massive organ failures in the Alphas episode Never Let Me Go its SE
-Hugo Miller spent some time in the town of Eureka departing with Douglas Fargo at the end of episode he returns in Love Sick commenting that every week there something seems to go 'boom' His presence there is off screenWarehouse did import characters from other TV series but would often cast pairs of actors who had worked together on other series as single episode characters
+Global Dynamics researcher Douglas Fargo played by Neil Grayston from Eureka traveled to South Dakota to update Warehouse 's computer system in the Warehouse episode SE
+Warehouse computer wizard Claudia Donovan played by Allison Scagliotti subsequently traveled to the town of Eureka Oregon to check out the technological marvels at Global Dynamics in the Eureka episode Crossing Over its SE
+Fargo again appeared in the Warehouse episode Don't Hate the Player SE when Claudia Lattimer and Bering traveled to Palo Alto California to find Douglas beta testing a virtual reality simulator with the aid of a dangerous artifact
+Vanessa Calder played by Lindsay Wagner who appeared in the Warehouse episodes For the Team SE Buried SE Love Sick SE and Endless Terror SE as a physician and love interest of Artie traveled to Fenton Pennsylvania to investigate a series of deaths in which the victims suffered massive organ failures in the Alphas episode Never Let Me Go its SE
+Hugo Miller spent some time in the town of Eureka departing with Douglas Fargo at the end of episode he returns in Love Sick commenting that every week there something seems to go 'boom' His presence there is off screenWarehouse did import characters from other TV series but would often cast pairs of actors who had worked together on other series as single-episode characters
 Erica Cerra and Niall Matter who work together on Eureka played a couple with an artifact in Duped SE
 Joe Morton who also works on Eureka played an inmate in Regrets SE
-Sean Maher and Jewel Staite who worked together on Firefly played an almost couple in Mild Mannered SE
-Paula Garcés and Laura Harris who worked together on Defying Gravity were both cast members in Merge with Caution SE
-Before this Garcés first appeared in Beyond Our Control SE
+Sean Maher and Jewel Staite who worked together on Firefly played an almost-couple in Mild Mannered SE
+Paula Garcs and Laura Harris who worked together on Defying Gravity were both cast members in Merge with Caution SE
+Before this Garcs first appeared in Beyond Our Control SE
 Kirsten Nelson and Timothy Omundson who worked together on Psych were both cast in No Pain No Gain SE
 Missy Pyle and Enrico Colantoni who were cast members in Galaxy Quest were together in The Big Snag SE
 Josh Blaylock and Cynthia Watros who worked together on Video Game High School were featured separately in What Matters Most SE
 James Marsters and Anthony Stewart Head who were both in Buffy the Vampire Slayer were also together in All the Time in the World SE and The Truth Hurts SE
-Ryan Cartwright and Erin Way who worked together on Alphas were cast together in the third episode of the final season A Faire to Remember SEThe series premiere was Syfy's third largest debut to date garnering million viewers The first six episodes were all among the top ten highest rated series episodes on Syfy Episode Burnout drew million viewers setting the record for Syfy's highest rated show Season began July It was renewed October for a third season of episodes which began July It was renewed for a fourth season August which began July On May Syfy renewed the series for a six episode fifth and final season which aired its series finale on May
-Warehouse 's series premiere was the most watched cable show on American television that night With million viewers it was also Syfy's third best premiere ever behind Stargate Atlantis and Eureka
-Joanne Ostrow of The Denver Post described it as X Files light with the bickering Scully and Mulder stand ins going off on Indiana Jones style adventures IGN reviewer Ramsey Isler gave the pilot a positive review but felt that it was not enough to give Syfy a chance to once again boast the best sci fi show on TV
-Ken Tucker of Entertainment Weekly gave it a negative review in July describing it as an unholy cross between The X Files Bones and Raiders of the Lost Ark In July Tucker amended his opinion stating that Warehouse improved as it went along and grew more riveting he subsequently gave the show a rating of B
+Ryan Cartwright and Erin Way who worked together on Alphas were cast together in the third episode of the final season A Faire to Remember SEThe series premiere was Syfy's third largest debut to date garnering million viewers
+The first six episodes were all among the top ten highest rated series episodes on Syfy
+Episode Burnout drew million viewers setting the record for Syfy's highest rated show
+It was renewed October for a third season of episodes which began July
+It was renewed for a fourth season August which began July
+On May Syfy renewed the series for a six-episode fifth and final season which aired its series finale on May
+Warehouse 's series premiere was the most-watched cable show on American television that night
+With million viewers it was also Syfy's third best premiere ever behind Stargate Atlantis and Eureka
+Joanne Ostrow of The Denver Post described it as X-Files light with the bickering Scully and Mulder stand-ins going off on Indiana Jones-style adventures IGN reviewer Ramsey Isler gave the pilot a positive review but felt that it was not enough to give Syfy a chance to once again boast the best sci-fi show on TV
+Ken Tucker of Entertainment Weekly gave it a negative review in July describing it as an unholy cross between The X-Files Bones and Raiders of the Lost Ark In July Tucker amended his opinion stating that Warehouse improved as it went along and grew more riveting he subsequently gave the show a rating of B
 In the series' composer Edward Rogers was nominated for an Emmy Award for Best Original Main Title Theme Music
-Warehouse has received seven Portal Award nominations including best television series best actor Eddie McClintock best actress Joanne Kelly best supporting actor Saul Rubinek best supporting actress Allison Scagliotti best special guest Jaime Murray as Helena G Wells and best episode Emily Lake It was Eddie McClintock's third straight nomination and the second nomination for Saul Rubinek and Allison Scagliotti
+Warehouse has received seven Portal Award nominations including best television series best actor Eddie McClintock best actress Joanne Kelly best supporting actor Saul Rubinek best supporting actress Allison Scagliotti best special guest Jaime Murray as Helena G
+It was Eddie McClintock's third straight nomination and the second nomination for Saul Rubinek and Allison Scagliotti
 As of September Warehouse scored percent among all critics percent among top critics and percent with audience members on Rotten Tomatoes
-All five seasons of Warehouse are now available on Peacock Individual episodes can be purchased at the Google Play Store Apple TV+ Vudu iTunes Amazon Prime Video Fandango Now
-The first part of a five part comic series was released in August by Dynamite Entertainment with part five released in December A trade paperback was released in May containing all five parts
-Cox Greg June Warehouse A Touch of Fever New York Simon and SchusterIn August Infinite Dreams Gaming and Conquest Gaming announced Warehouse The Board Game coming to Kickstarter It is a semi cooperative game for players taking the role of Warehouse Agents with one player working secretly against the Warehouse Agents must work together trying to retrieve artifacts while uncovering the identity of the traitor
+All five seasons of Warehouse are now available on Peacock
+Individual episodes can be purchased at the Google Play Store Apple TV+ Vudu iTunes Amazon Prime Video Fandango Now
+The first part of a five-part comic series was released in August by Dynamite Entertainment with part five released in December
+A trade paperback was released in May containing all five parts
+New York Simon and SchusterIn August Infinite Dreams Gaming and Conquest Gaming announced Warehouse The Board Game coming to Kickstarter
+It is a semi-cooperative game for - players taking the role of Warehouse Agents with one player working secretly against the Warehouse
+Agents must work together trying to retrieve artifacts while uncovering the identity of the traitor

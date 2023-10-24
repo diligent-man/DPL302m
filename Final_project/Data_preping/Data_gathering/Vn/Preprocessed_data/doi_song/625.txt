@@ -6,19 +6,18 @@ Mày ngu quá giáo sư Hiroshi Kobayashi lớn tiếng
 Nói cho ông biết tôi không ngu đâu
 Sự thật là Saya không phải là con người
 Ở một đất nước nơi người máy đang thay đổi cách con người sống làm việc vui chơi và thậm chí là yêu người máy như kiểu lễ tân Saya đang ngày một phổ biến
-Với công nghệ nhận dạng tiếng nói cho phép 700 câu trả lời và gần như vô số cách thức thể hiện thái độ trên khuôn mặt từ vui vẻ tới thất vọng từ ngạc nhiên tới tức giận Saya có thể không phải là sinh vật nhưng cô rất khôn ngoan
+Với công nghệ nhận dạng tiếng nói cho phép câu trả lời và gần như vô số cách thức thể hiện thái độ trên khuôn mặt từ vui vẻ tới thất vọng từ ngạc nhiên tới tức giận Saya có thể không phải là sinh vật nhưng cô rất khôn ngoan
 Tôi gần như cảm thấy cô ấy là con người thật giáo sư Kobayashi tại ĐH Khoa học Tokyo người chế tạo ra Saya cho biết
-Làm lễ tân ở trường ĐH gần 2 năm nay Saya rất thông thạo công việc
-Cô ấy có cảm xúc
+Làm lễ tân ở trường ĐH gần năm nay Saya rất thông thạo công việc
 Tuy nhiên đôi khi cô cũng mắc lỗi đặc biệt là khi còn ít năng lượng vị giáo sư thừa nhận
 Sự tức giận của Saya là dấu hiệu mới nhất trong sự phát triển của robot
 Các nhà phân tích nhận định Nhật Bản đang dẫn đầu thế giới trong lĩnh vực robot tiêu dùng
 Một số nhà khoa học mô tả làn sóng sức mạnh công nghệ sắp thay đổi cuộc sống con người nhanh chóng hơn cả máy tính hay điện thoại di động
 Tháng trước chính phủ Nhật đã thành lập một uỷ ban soạn thảo các nguyên tắc an toàn cho robot ở nhà riêng và văn phòng
-Hồi tháng giêng các quan chức dự đoán mỗi hộ gia đình đất nước mặt trời mọc sẽ sở hữu ít nhất một robot vào năm 2015 thậm chí có thể sớm hơn
-Các nhà khoa học và chính phủ Tokyo gọi 2005 là năm robot với triển lãm robot World Expo 2005 khai mạc ở thành phố Nagoya ngày 25/3 tới
-Tại đây 15 triệu khách tham quan sẽ được thấy những mẫu robot phát triển thông minh nhất Nhật Bản rất nhiều trong số đó sẽ bắt đầu được bán ra trong vòng một năm nữa
-Chào khách bằng 4 thứ tiếng và đưa họ tới nơi mong muốn là robot với vóc dáng nhỏ bé và màu vàng của Mitsubishi Heavy Industries có tên Wakamaru
+Hồi tháng giêng các quan chức dự đoán mỗi hộ gia đình đất nước mặt trời mọc sẽ sở hữu ít nhất một robot vào năm thậm chí có thể sớm hơn
+Các nhà khoa học và chính phủ Tokyo gọi là năm robot với triển lãm robot World Expo khai mạc ở thành phố Nagoya ngày tới
+Tại đây triệu khách tham quan sẽ được thấy những mẫu robot phát triển thông minh nhất Nhật Bản rất nhiều trong số đó sẽ bắt đầu được bán ra trong vòng một năm nữa
+Chào khách bằng thứ tiếng và đưa họ tới nơi mong muốn là robot với vóc dáng nhỏ bé và màu vàng của Mitsubishi Heavy Industries có tên Wakamaru
 Bộ ba robot giống người của Sony Toyota và Honda sẽ nhảy múa và chơi nhạc cụ tại lễ khai mạc
 Các bậc cha mẹ tới tham quan có thể để con mình cho robot giữ trẻ PaPeRo của NEC coi sóc
 Người máy này có thể nhận dạng khuôn mặt trẻ em và có thể thông báo với cha mẹ qua điện thoại di động trong trường hợp khẩn cấp
@@ -28,14 +27,12 @@ Ngược lại chính phủ Nhật các viện nghiên cứu và những tập �
 Tuy nhiên làn sóng robot ở Nhật Bản còn xuất phát từ nhu cầu mang tính xã hội đặc thù
 Đối phó với vấn đề giảm dân số do tỷ lệ sinh thấp và tuổi thọ cao nhất thế giới người Nhật đang lo lắng ai sẽ vận hành máy móc trong các nhà máy ở nền kinh tế lớn thứ hai thế giới trong những năm tới
 Toyota nhà sản xuất ôtô lớn nhất Nhật Bản đã trả lời câu hỏi này bằng cách chế tạo các robot công nhân với bàn tay giống người có thể thực hiện nhiều nhiệm vụ phức tạp
-Với những thanh niên Nhật không muốn làm các công việc bị liệt vào danh sách 3-K theo tiếng Nhật là bẩn thỉu nguy hiểm và mệt mỏi Alsok công ty vệ sĩ lớn thứ hai đất nước mặt trời mọc đã phát triển thế hệ robot cận vệ
+Với những thanh niên Nhật không muốn làm các công việc bị liệt vào danh sách K theo tiếng Nhật là bẩn thỉu nguy hiểm và mệt mỏi Alsok công ty vệ sĩ lớn thứ hai đất nước mặt trời mọc đã phát triển thế hệ robot cận vệ
 Người máy này có thể phát hiện và ngăn chặn kẻ trộm thông qua thiết bị cảm biến
 Nó cũng có thể dập lửa và phát hiện rò nước
-Trong khi đó các nhà nghiên cứu đang thử nghiệm robot dành cho người già tại viện dưỡng lão ở Tsukuba cách Tokyo khoảng 65 km về phía đông bắc
-Với 30 thiết bị cảm biến người máy có thể nhận diện giọng nói và cử chỉ bằng tay của chủ nhân
+Trong khi đó các nhà nghiên cứu đang thử nghiệm robot dành cho người già tại viện dưỡng lão ở Tsukuba cách Tokyo khoảng km về phía đông bắc
+Với thiết bị cảm biến người máy có thể nhận diện giọng nói và cử chỉ bằng tay của chủ nhân
 Nó thì thầm và cúi chào lịch sự nhưng cũng có thể bày tỏ sự tức giận khi bị đối xử thô bạo
 Mắt người già đang sống ở đây sáng lên khi được hai robot quan tâm chăm sóc
 Theo kết quả các cuộc kiểm tra các robot đã giúp giảm stress cho người già
-Chẳng hạn với bà Sumi Kasuya 89 tuổi không có cháu và con cái không có thời gian tới thăm bà thường xuyên Con robot này thật dễ thương tôi cảm thấy được an ủi khi có nó ở bên bà cho biết
-Nó làm tôi vui vẻ
-
+Chẳng hạn với bà Sumi Kasuya tuổi không có cháu và con cái không có thời gian tới thăm bà thường xuyên Con robot này thật dễ thương tôi cảm thấy được an ủi khi có nó ở bên bà cho biết

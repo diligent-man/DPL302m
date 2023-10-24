@@ -1,11 +1,11 @@
-Thành lập đại học tư thục cần tối thiếu 15 tỷ đồng vốn
-Thủ tướng vừa ký quyết định 14 ban hành Quy chế tổ chức và hoạt động của đại học tư thục mở rộng cánh cửa xã hội hóa giáo dục
-Theo quy chế vốn điều lệ thành lập trường tối thiểu là 15 tỷ đồng
-Ngoài ra diện tích lớp học ký túc xá cho 1 sinh viên đảm bảo ít nhất là 4 m2
-Theo quy định này Hiệu trưởng đại học tư thục phải có chức danh Phó giáo sư hoặc học vị tiến sỹ trở lên có ít nhất 5 năm kinh nghiệm quản lý
+Thành lập đại học tư thục cần tối thiếu tỷ đồng vốn
+Thủ tướng vừa ký quyết định ban hành Quy chế tổ chức và hoạt động của đại học tư thục mở rộng cánh cửa xã hội hóa giáo dục
+Theo quy chế vốn điều lệ thành lập trường tối thiểu là tỷ đồng
+Ngoài ra diện tích lớp học ký túc xá cho sinh viên đảm bảo ít nhất là m
+Theo quy định này Hiệu trưởng đại học tư thục phải có chức danh Phó giáo sư hoặc học vị tiến sỹ trở lên có ít nhất năm kinh nghiệm quản lý
 Chủ tịch Hội đồng quản trị có thể kiêm nhiệm hiệu trưởng nếu có đủ các tiêu chuẩn trên
-Một số điều kiện khác để thành lập trường là có đội ngũ giảng viên cơ hữu giảng dạy ít nhất 30 khối lượng các môn học
-Khi trường mới thành lập phải bảo đảm tỷ lệ 5-10 sinh viên/1 giảng viên đối với ngành năng khiếu 10-15 sinh viên/1giảng viên đối với các ngành khoa học kỹ thuật và công nghệ 20-30 sinh viên/1 giảng viên đối với các ngành khoa học xã hội và nhân văn
+Một số điều kiện khác để thành lập trường là có đội ngũ giảng viên cơ hữu giảng dạy ít nhất khối lượng các môn học
+Khi trường mới thành lập phải bảo đảm tỷ lệ sinh viên giảng viên đối với ngành năng khiếu sinh viêngiảng viên đối với các ngành khoa học kỹ thuật và công nghệ sinh viên giảng viên đối với các ngành khoa học xã hội và nhân văn
 Các trường sẽ được nhà nước giao quyền sử dụng đất thuê đất vay vốn và được miễn giảm thuế theo quy định
 Theo Quy chế Hội đồng quản trị là cơ quan quản lý và là tổ chức đại diện duy nhất quyền sở hữu trường
 Hội đồng quản trị có quyền quyết định tất cả các vấn đề tài chính nhân sự kế hoạch phát triển của nhà trường
@@ -13,4 +13,3 @@ Hội đồng quản trị có quyền quyết định tất cả các vấn đ�
 Ngôn ngữ chính thức giảng dạy ở trường là tiếng Việt
 Các đại học này thực hiện việc tuyển sinh quản lý quá trình đào tạo kiểm tra thi cấp bằng
 theo các quy định của Bộ GDĐT
-

@@ -1,19 +1,39 @@
-Scott Joel Aaronson born May is an American theoretical computer scientist and David J Bruton Jr Centennial Professor of Computer Science at the University of Texas at Austin His primary areas of research are quantum computing and computational complexity theory
-Aaronson grew up in the United States though he spent a year in Asia when his father—a science writer turned public relations executive—was posted to Hong Kong He enrolled in a school there that permitted him to skip ahead several years in math but upon returning to the US he found his education restrictive getting bad grades and having run ins with teachers He enrolled in The Clarkson School a program for gifted youngsters run by Clarkson University which enabled Aaronson to apply for colleges while only in his freshman year of high school He was accepted into Cornell University where he obtained his BSc in computer science in and where he resided at the Telluride House He then attended the University of California Berkeley for his PhD which he got in under the supervision of Umesh Vazirani
-Aaronson had shown ability in mathematics from an early age teaching himself calculus at the age of provoked by symbols in a babysitter's textbook He discovered computer programming at age and felt he lagged behind peers who had already been coding for years In part due to Aaronson getting into advanced mathematics before getting into computer programming he felt drawn to theoretical computing particularly computational complexity theory At Cornell he became interested in quantum computing and devoted himself to computational complexity and quantum computing
-After postdoctorates at the Institute for Advanced Study and the University of Waterloo he took a faculty position at MIT in His primary area of research is quantum computing and computational complexity theory more generally
-In the summer of he moved from MIT to the University of Texas at Austin as David J Bruton Jr Centennial Professor of Computer Science and as the founding director of UT Austin's new Quantum Information Center
-Aaronson is one of two winners of the Alan T Waterman Award
-Best Student Paper Awards at the Computational Complexity Conference for the papers Limitations of Quantum Advice and One Way Communication and Quantum Certificate Complexity
+Scott Joel Aaronson born May is an American theoretical computer scientist and David J
+Centennial Professor of Computer Science at the University of Texas at Austin
+His primary areas of research are quantum computing and computational complexity theory
+Aaronson grew up in the United States though he spent a year in Asia when his father—a science writer turned public-relations executive—was posted to Hong Kong
+He enrolled in a school there that permitted him to skip ahead several years in math but upon returning to the US he found his education restrictive getting bad grades and having run-ins with teachers
+He enrolled in The Clarkson School a program for gifted youngsters run by Clarkson University which enabled Aaronson to apply for colleges while only in his freshman year of high school
+He was accepted into Cornell University where he obtained his BSc in computer science in and where he resided at the Telluride House
+He then attended the University of California Berkeley for his PhD which he got in under the supervision of Umesh Vazirani
+Aaronson had shown ability in mathematics from an early age teaching himself calculus at the age of provoked by symbols in a babysitter's textbook
+He discovered computer programming at age and felt he lagged behind peers who had already been coding for years
+In part due to Aaronson getting into advanced mathematics before getting into computer programming he felt drawn to theoretical computing particularly computational complexity theory
+At Cornell he became interested in quantum computing and devoted himself to computational complexity and quantum computing
+After postdoctorates at the Institute for Advanced Study and the University of Waterloo he took a faculty position at MIT in
+His primary area of research is quantum computing and computational complexity theory more generally
+In the summer of he moved from MIT to the University of Texas at Austin as David J
+Centennial Professor of Computer Science and as the founding director of UT Austin's new Quantum Information Center
+Aaronson is one of two winners of the Alan T
+Best Student Paper Awards at the Computational Complexity Conference for the papers Limitations of Quantum Advice and One-Way Communication and Quantum Certificate Complexity
 Danny Lewin Best Student Paper Award at the Symposium on Theory of Computing for the paper Lower Bounds for Local Search by Quantum Arguments
 Presidential Early Career Award for Scientists and Engineers
 He was elected as an ACM Fellow in for contributions to quantum computing and computational complexity
-He was awarded the ACM Prize in Computing for groundbreaking contributions to quantum computingHe is a founder of the Complexity Zoo wiki which catalogs all classes of computational complexity He is the author of the much read blog Shtetl Optimized
-In the interview to Scientific American he answers why his blog is called shtetl optimized and about his preoccupation to the past
-He also wrote the essay Who Can Name The Bigger Number The latter work widely distributed in academic computer science uses the concept of Busy Beaver Numbers as described by Tibor Radó to illustrate the limits of computability in a pedagogic environment
-He has also taught a graduate level survey course Quantum Computing Since Democritus for which notes are available online and have been published as a book by Cambridge University Press It weaves together disparate topics into a cohesive whole including quantum mechanics complexity free will time travel the anthropic principle and more Many of these interdisciplinary applications of computational complexity were later fleshed out in his article Why Philosophers Should Care About Computational Complexity Since then Aaronson published a book entitled Quantum Computing Since Democritus based on the course
-An article of Aaronson's The Limits of Quantum Computers was published in Scientific American and he was a guest speaker at the Foundational Questions in Science Institute conference Aaronson is frequently cited in the non academic press such as Science News The Age ZDNet Slashdot New Scientist The New York Times and Forbes magazine
-Aaronson was the subject of media attention in October when he accused Australian advertising agency Love Communications of plagiarizing a lecture he wrote on quantum mechanics in an advertisement of theirs He alleged that a commercial for Ricoh Australia by Sydney based agency Love Communications appropriated content almost verbatim from the lecture Aaronson received an email from the agency claiming to have sought legal advice and saying they did not believe that they were in violation of his copyright
-Dissatisfied Aaronson pursued the matter and the agency settled the dispute without admitting wrongdoing by making a charitable contribution to two science organizations of his choice Concerning this matter Aaronson stated Someone suggested on my blog a cameo with the models but if it was between that and a free printer I think I'd take the printer
+He was awarded the ACM Prize in Computing for groundbreaking contributions to quantum computingHe is a founder of the Complexity Zoo wiki which catalogs all classes of computational complexity
+He is the author of the much-read blog Shtetl-Optimized
+In the interview to Scientific American he answers why his blog is called shtetl-optimized and about his preoccupation to the past
+He also wrote the essay Who Can Name The Bigger Number
+The latter work widely distributed in academic computer science uses the concept of Busy Beaver Numbers as described by Tibor Rad to illustrate the limits of computability in a pedagogic environment
+He has also taught a graduate-level survey course Quantum Computing Since Democritus for which notes are available online and have been published as a book by Cambridge University Press
+It weaves together disparate topics into a cohesive whole including quantum mechanics complexity free will time travel the anthropic principle and more
+Many of these interdisciplinary applications of computational complexity were later fleshed out in his article Why Philosophers Should Care About Computational Complexity
+Since then Aaronson published a book entitled Quantum Computing Since Democritus based on the course
+An article of Aaronson's The Limits of Quantum Computers was published in Scientific American and he was a guest speaker at the Foundational Questions in Science Institute conference
+Aaronson is frequently cited in the non-academic press such as Science News The Age ZDNet Slashdot New Scientist The New York Times and Forbes magazine
+Aaronson was the subject of media attention in October when he accused Australian advertising agency Love Communications of plagiarizing a lecture he wrote on quantum mechanics in an advertisement of theirs
+He alleged that a commercial for Ricoh Australia by Sydney-based agency Love Communications appropriated content almost verbatim from the lecture
+Aaronson received an email from the agency claiming to have sought legal advice and saying they did not believe that they were in violation of his copyright
+Dissatisfied Aaronson pursued the matter and the agency settled the dispute without admitting wrongdoing by making a charitable contribution to two science organizations of his choice
+Concerning this matter Aaronson stated Someone suggested on my blog a cameo with the models but if it was between that and a free printer I think I'd take the printer
 Aaronson is married to computer scientist Dana Moshkovitz
 Scott Aaronson at the Mathematics Genealogy Project

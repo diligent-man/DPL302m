@@ -1,5 +1,5 @@
-Bí quyết không thành người thừa trong ngành IT của giám đốc 9x
-Trượt chuyên Toán tốt nghiệp đại học loại Trung bình Nguyễn Nhất Nguyên sinh năm 1994 vẫn từng bước tạo giá trị riêng và trở thành giám đốc bộ phận của FPT Software tại Mỹ ở tuổi 27
+Bí quyết không thành 'người thừa' trong ngành IT của giám đốc x
+Trượt chuyên Toán tốt nghiệp đại học loại Trung bình Nguyễn Nhất Nguyên sinh năm vẫn từng bước tạo giá trị riêng và trở thành giám đốc bộ phận của FPT Software tại Mỹ ở tuổi
 Hiện Nguyễn Nhất Nguyên là Giám đốc mảng công nghệ chăm sóc sức khỏe thiết bị y tế và khoa học đời sống Department Head of Healthcare and Life science transformation thị trường Bắc Mỹ của FPT Software
 Theo anh thông tin về thực trạng thiếu nhân sự ngành IT có thể trở thành cú lừa đối với nhiều bạn trẻ
 Nếu không có sự chuẩn bị kỹ lưỡng xây dựng giá trị bản thân một cách bền vững người làm nghề có nguy cơ trở thành người thừa trong ngành
@@ -29,13 +29,13 @@ Tuy nhiên anh luôn tâm niệm điểm số không phải là yếu tố quan 
 Đến bậc đại học tuy điểm số không cao nhưng khi tốt nghiệp anh được giảng viên đề cử là hạt giống số một với nhà tuyển dụng
 Tôi tập trung vào tính hiệu quả thay vì một kết quả tuyệt đối
 Trong một khoảng gian thích hợp tôi xác định mình cần làm thế nào để đạt được hiệu quả lớn nhất và dành thời gian còn lại vào những việc khác anh nói thêm
-Chàng trai sinh năm 1994 kể lại thời điểm học đại học anh đặt việc theo đuổi nghiệp vụ thực tế và con đường học thuật nghiên cứu lên bàn cân
+Chàng trai sinh năm kể lại thời điểm học đại học anh đặt việc theo đuổi nghiệp vụ thực tế và con đường học thuật nghiên cứu lên bàn cân
 Từ đó anh xác định bản thân muốn tập trung nắm vững một mảng thay vì đạt điểm tuyệt đối với tất cả các môn
 Với môi trường học tập tại Trường Đại học FPT anh chia sẻ thẳng thắn điều này với giảng viên
 Kết quả thầy cô hoàn toàn tạo điều kiện cho nam sinh đi theo định hướng này
 Điều tôi thích nhất ở trường đại học của mình là thầy cô thẳng thắn cởi mở cho sinh viên chia sẻ
 Thầy cô tôn trọng cách học và hỗ trợ cách học của tôi trong suốt bốn năm học tập anh chia sẻ
-Trong một môn Giải thuật và lập trình anh Nguyên đã trao đổi với thầy Ngô Đăng Hà An về việc bản thân đã nằm lòng cuốn sách này do từng học chuyên Toán - Tin và thi đội tuyển học sinh giỏi quốc gia môn Tin
+Trong một môn Giải thuật và lập trình anh Nguyên đã trao đổi với thầy Ngô Đăng Hà An về việc bản thân đã nằm lòng cuốn sách này do từng học chuyên Toán Tin và thi đội tuyển học sinh giỏi quốc gia môn Tin
 Do đó thầy sẵn sàng ngồi kiểm tra hỏi ngẫu nhiên kiến thức trong sách
 Sau khi đạt yêu cầu anh được miễn học môn này và chỉ cần thi cuối kỳ
 Theo vị giám đốc trẻ điều thứ hai sinh viên cần chuẩn bị trước khi gia nhập thị trường lao động là thích điều mình làm từ đó sẵn sàng học những điều cần cho công việc
@@ -48,22 +48,21 @@ Nhất Nguyên cho biết ngoài việc nhận công việc bên ngoài sinh vi�
 Hầu hết giảng viên tại đây đều có kinh nghiệm thực chiến và sở hữu doanh nghiệp riêng
 Do đó thầy cô thường xuyên đưa các vấn đề thực tiễn vào bài giảng kiểm tra
 Hãy cứ dại khờ sùng bái khi còn trẻ
-Theo anh Nhất Nguyên tinh thần ham học hỏi dám nghĩ dám làm là một trong những yếu tố quan trọng nhất để thành công trong bất kỳ ngành nghề nào đặc biệt là IT - lĩnh vực biến đổi không ngừng
+Theo anh Nhất Nguyên tinh thần ham học hỏi dám nghĩ dám làm là một trong những yếu tố quan trọng nhất để thành công trong bất kỳ ngành nghề nào đặc biệt là IT lĩnh vực biến đổi không ngừng
 Khi học tại Trường Đại học FPT anh được học toàn bộ về kiến thức học thuật đồng thời thực hành với bài toán thực tế thuyết trình demo sản phẩm
-sau đó tiếp tục tham gia kỳ học tại doanh nghiệp - On the Job Training trước khi chọn chuyên ngành
+sau đó tiếp tục tham gia kỳ học tại doanh nghiệp On the Job Training trước khi chọn chuyên ngành
 Từ đây anh có cơ hội thực tập tham gia dự án xây dựng hệ thống đào tạo của công ty và xây dựng mạng lưới quan hệ networking từ khi chưa ra trường
 Nhờ tinh thần ham học hỏi quá trình học thực tập và làm việc đã mang lại cho anh những mối quan hệ giá trị cố vấn mentor tâm huyết
-Trong đó thầy Kiều Trọng Khánh - giảng viên Trường Đại học FPT vẫn luôn đưa ra cho anh nhiều lời khuyên dù đã tốt nghiệp nhiều năm đồng thời gửi đến danh sách những sinh viên là hạt giống tốt để anh bổ sung vào nhóm nhân sự tinh nhuệ
-Bên cạnh đó trong quá trình thực tập và khoảng thời gian mới đi làm chàng trai Đồng Tháp còn nhận được sự chỉ dạy của anh Đỗ Đức Anh - Phó giám đốc GHS Global Healthcare Services - đơn vị đầu tiên anh làm việc tại FPT Software
+Trong đó thầy Kiều Trọng Khánh giảng viên Trường Đại học FPT vẫn luôn đưa ra cho anh nhiều lời khuyên dù đã tốt nghiệp nhiều năm đồng thời gửi đến danh sách những sinh viên là hạt giống tốt để anh bổ sung vào nhóm nhân sự tinh nhuệ
+Bên cạnh đó trong quá trình thực tập và khoảng thời gian mới đi làm chàng trai Đồng Tháp còn nhận được sự chỉ dạy của anh Đỗ Đức Anh Phó giám đốc GHS Global Healthcare Services đơn vị đầu tiên anh làm việc tại FPT Software
 Anh Đức Anh là người nhìn nhận năng lực và giúp cựu sinh viên Trường Đại học FPT vào vị trí công việc phù hợp
-Hãy cứ dại khờ sùng bái
 Bất cứ ai cũng có thể là mentor của mình
 Đừng nghi ngờ người khác quá nhiều
 Mọi sự giúp đỡ đều là một điều đáng quý
 Mình có thể lựa chọn tiếp nhận hay không thay vì phán xét anh Nguyên nhấn mạnh
 Sinh viên cũng cần xác định chính xác nếu theo IT bản thân nên đi con đường nào và muốn đạt được những thành tựu nhất định trước khi khó nghiêng xung quanh
 Như vậy bất cứ cơ hội nào đến các bạn cũng có thể sẵn sàng nắm bắt đảm nhận những nhiệm vụ chưa từng làm từ đó tạo nên nhiều bước tiến trong sự nghiệp
-Tôi từng thất bại đồng thời 11 dự án đấu thầu
+Tôi từng thất bại đồng thời dự án đấu thầu
 Thế nhưng với tôi mỗi thất bại là một bài học miễn sao không thất bại hai lần với cùng một lý do anh khẳng định
 Ngoài ra nam giám đốc khuyên các bạn trẻ nên trau dồi ít nhất một ngoại ngữ
 Đây là năng lực mặc định của một nhân sự ngành công nghệ thông tin
@@ -72,6 +71,4 @@ Nhân sự không thể chờ một kiến thức nào đó chuyển ngữ lúc 
 Cái nôi sinh ra những ngôn ngữ lập trình mới là Mỹ thuật ngữ cũng hầu hết là tiếng Anh
 Dù bạn gia nhập thị trường nào dù tiềm năng như Trung Quốc Nhật Bản hay Pháp bạn vẫn cần tiếng Anh để tiếp cận nguồn học liệu nhanh hiệu quả nhất anh khẳng định
 Vì vậy dù đã có chỗ đứng trong sự nghiệp và thành thạo tiếng Anh sắp tới anh sẽ học thêm tiếng Tây Ban Nha
-Anh cũng cho biết bản thân muốn học hỏi thực chiến nhiều hơn trên thị trường Mỹ để thực hiện kế hoạch trở lại Trường Đại học FPT làm giảng viên vào năm 40 tuổi
-Nhật Lệ
-
+Anh cũng cho biết bản thân muốn học hỏi thực chiến nhiều hơn trên thị trường Mỹ để thực hiện kế hoạch trở lại Trường Đại học FPT làm giảng viên vào năm tuổi

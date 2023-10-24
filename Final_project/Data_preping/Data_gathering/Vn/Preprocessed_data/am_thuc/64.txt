@@ -1,6 +1,6 @@
 Đề phòng điện giật từ thiết bị điện gia đình
 Khả năng an toàn của các thiết bị điện gia đình hiện được đặt lên hàng đầu
-Các nhà kỹ thuật lưu ý ba nhóm thiết bị dễ phát sinh nguy cơ gây cháy nổ điện là bàn ủi bếp điện lò nướng lẩu điện ăng-ten xoay và micro
+Các nhà kỹ thuật lưu ý ba nhóm thiết bị dễ phát sinh nguy cơ gây cháy nổ điện là bàn ủi bếp điện lò nướng lẩu điện ăngten xoay và micro
 Theo giới chuyên môn nhóm đồ điện gia dụng có khả năng gây rò rỉ cháy nổ điện cao là bàn ủi bếp điện lò nướng điện ấm điện bình thủy điện và nồi cơm điện
 Nguyên lý hoạt động chung của nhóm thiết bị này là đều sử dụng dây đốt điện trở để làm nóng trực tiếp hoặc gián tiếp nên nguy cơ rò rỉ điện rất cao nếu nhà sản xuất sử dụng nguyên liệu không bảo đảm chất lượng hoặc lắp ráp không đúng kỹ thuật
 Dây dẫn sử dụng vỏ bọc bằng nhựa kém chất lượng không đúng kỹ thuật dễ dẫn đến giòn nứt hoặc bị chảy
@@ -8,12 +8,12 @@ Dây dẫn điện không đạt chuẩn dẫn đến tình trạng quá tải g
 Dây đốt sử dụng nguyên liệu kém chất lượng lắp ráp không đúng kỹ thuật sẽ chạm vào thành bao hoặc mâm nhiệt gây chập điện
 Ngoài ra do sử dụng trong môi trường nhiệt cao các linh kiện dễ bị lão hóa gỉ sét cũng dẫn đến chập điện
 Các loại bếp điện lẩu điện lò nướng lò vi ba đều được sản xuất bằng kim loại nếu điện bị rò rỉ sẽ tác động nhanh chóng đến người sử dụng
-Ngoài ra hiện nay trên thị trường có bán khá nhiều loại bình nấu nước siêu nhanh chỉ mất khoảng 3 phút nước sẽ sôi
-Do loại bình này có công suất lớn đến 2000W nên nếu ổ cắm dây dẫn không bảo đảm chất lượng rất dễ gây chập điện
-Đối với các loại ăng-ten xoay do chủ yếu là hàng trôi nổi có xuất xứ từ Trung Quốc chất lượng sản phẩm phức tạp nên thường không bảo đảm an toàn điện
-Nhóm thiết kế ăng-ten VK 994 cho biết do sử dụng ngoài trời cho nên dây dẫn mô-tơ dễ bị hư hỏng sau một thời gian ngắn
+Ngoài ra hiện nay trên thị trường có bán khá nhiều loại bình nấu nước siêu nhanh chỉ mất khoảng phút nước sẽ sôi
+Do loại bình này có công suất lớn đến W nên nếu ổ cắm dây dẫn không bảo đảm chất lượng rất dễ gây chập điện
+Đối với các loại ăngten xoay do chủ yếu là hàng trôi nổi có xuất xứ từ Trung Quốc chất lượng sản phẩm phức tạp nên thường không bảo đảm an toàn điện
+Nhóm thiết kế ăngten VK cho biết do sử dụng ngoài trời cho nên dây dẫn môtơ dễ bị hư hỏng sau một thời gian ngắn
 Khi lắp đặt đa số đều sử dụng loại dây dẫn thông thường sử dụng trong nhà nên chỉ sau một thời gian do tác động môi trường ngoài trời vỏ bọc nhựa bị lão hóa dẫn đến chạm điện dễ gây cháy nổ
-Nguy hiểm hơn khi điện bị rò rỉ sẽ truyền sang dây ăng-ten người sử dụng sẽ bị điện giật khi vô tình chạm phải đầu cắm ăng-ten nối vào tivi nhất là vào mùa mưa
+Nguy hiểm hơn khi điện bị rò rỉ sẽ truyền sang dây ăngten người sử dụng sẽ bị điện giật khi vô tình chạm phải đầu cắm ăngten nối vào tivi nhất là vào mùa mưa
 Nhiều người khi hát karaoke thường hay bị điện giật từ micro
 Ông Lê Quang Hải Trưởng Phòng Kỹ thuật trung tâm sửa chữa bảo hành hãng điện tử Panasonic Việt Nam cho biết Bản thân micro không phải là tác nhân chính dẫn đến tình trạng bị điện giật
 Hiện tượng bị điện giật từ micro là do các thiết bị điện khác như ampli đầu đĩa
@@ -23,5 +23,4 @@ Có thể sử dụng bút thử điện để kiểm tra các thiết bị đi�
 Tuyệt đối không nên sử dụng nếu thiết bị có biểu hiện bị rò rỉ điện
 Khi sử dụng không nên trực tiếp tiếp xúc với thiết bị nồi bình nấu điện nên lót tấm cách điện
 Khi nấu nướng xong nên ngắt nguồn điện
-Một số biện pháp phòng ngừa khác là sử dụng ổ phích cắm 3 chấu hoặc đấu thêm bộ chống rò rỉ điện bộ phận chống giật ELCB
-
+Một số biện pháp phòng ngừa khác là sử dụng ổ phích cắm chấu hoặc đấu thêm bộ chống rò rỉ điện bộ phận chống giật ELCB

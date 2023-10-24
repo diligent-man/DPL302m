@@ -1,30 +1,30 @@
 Đại học khó đẩy nhanh đào tạo ngành Thiết kế vi mạch
 Thị trường khát nhân lực Thiết kế vi mạch nhưng các đại học khó tăng nhanh quy mô đào tạo vì thiếu người dạy phần mềm đắt đỏ trị giá cả triệu đô
-Đầu tháng 9 trường Đại học FPT cùng Công ty Cổ phần Bán dẫn FPT thông báo thành lập khoa Vi mạch Bán dẫn dự kiến đón sinh viên từ năm tới
-Cùng thời điểm Đại học Bách khoa Hà Nội mở chuyên ngành Thiết kế vi mạch thuộc ngành Kỹ thuật Điện tử - Viễn thông
+Đầu tháng trường Đại học FPT cùng Công ty Cổ phần Bán dẫn FPT thông báo thành lập khoa Vi mạch Bán dẫn dự kiến đón sinh viên từ năm tới
+Cùng thời điểm Đại học Bách khoa Hà Nội mở chuyên ngành Thiết kế vi mạch thuộc ngành Kỹ thuật Điện tử Viễn thông
 Sinh viên từ năm thứ tư có thể chọn chuyên ngành này để được học các môn Hệ thống nhúng và thiết kế giao tiếp nhúng Cơ sở công nghệ vi điện tử Thiết kế mạch tích hợp cỡ lớn VLSI Thiết kế IC tương tự Kiểm chứng và kiểm tra vi mạch
-Còn tại trường Đại học Bách khoa TP HCM ngoài chuyên ngành Thiết kế vi mạch trong ngành Điện tử - Viễn thông từ năm 2021 trường mở thêm chuyên ngành Thiết kế mạch - Phần cứng dạy bằng tiếng Anh
+Còn tại trường Đại học Bách khoa TP HCM ngoài chuyên ngành Thiết kế vi mạch trong ngành Điện tử Viễn thông từ năm trường mở thêm chuyên ngành Thiết kế mạch Phần cứng dạy bằng tiếng Anh
 Các cơ sở đào tạo cho biết muốn đào tạo chuyên sâu về thiết kế vi mạch giải cơn khát của thị trường nhân lực
 Việt Nam hiện đóng vai trò quan trọng trong ngành bán dẫn toàn cầu
-Bộ Thông tin và Truyền thông cho biết ngành công nghiệp bán dẫn ở Việt Nam cần 10000 kỹ sư mỗi năm nhưng nhân lực hiện chỉ đáp ứng dưới 20
+Bộ Thông tin và Truyền thông cho biết ngành công nghiệp bán dẫn ở Việt Nam cần kỹ sư mỗi năm nhưng nhân lực hiện chỉ đáp ứng dưới
 Để làm ra một chip có ba khâu cơ bản gồm thiết kế sản xuất và đóng gói
 Tuy nhiên Việt Nam hiện tập trung vào khâu thiết kế và đóng gói
 Vì thế theo các giảng viên nhu cầu kỹ sư thiết kế vi mạch rất lớn
-PGS Đỗ Hồng Tuấn Trưởng khoa Điện - Điện tử Đại học Bách khoa TP HCM nói cách đây khoảng 10 năm chỉ 5-6 công ty nước ngoài làm về vi mạch bán dẫn có mặt ở TP HCM còn hiện tại con số này đã hơn 50 và sẽ tăng nhanh
-Còn PGS Nguyễn Đức Minh Trưởng khoa Điện tử Đại học Bách khoa Hà Nội dự báo thời gian tới khi nhiều công ty lớn như Infineon Renesas Marvell Samsung mở thêm văn phòng nhà máy ở phía bắc nhu cầu tuyển mới kỹ sư thiết kế vi mạch mỗi năm khoảng 250-300
-Theo khảo sát sinh viên mới tốt nghiệp ngành Thiết kế vi mạch nhận lương khởi điểm 15-20 triệu đồng
-Sau 5-10 năm họ có thể nhận gấp ba
+PGS Đỗ Hồng Tuấn Trưởng khoa Điện Điện tử Đại học Bách khoa TP HCM nói cách đây khoảng năm chỉ công ty nước ngoài làm về vi mạch bán dẫn có mặt ở TP HCM còn hiện tại con số này đã hơn và sẽ tăng nhanh
+Còn PGS Nguyễn Đức Minh Trưởng khoa Điện tử Đại học Bách khoa Hà Nội dự báo thời gian tới khi nhiều công ty lớn như Infineon Renesas Marvell Samsung mở thêm văn phòng nhà máy ở phía bắc nhu cầu tuyển mới kỹ sư thiết kế vi mạch mỗi năm khoảng
+Theo khảo sát sinh viên mới tốt nghiệp ngành Thiết kế vi mạch nhận lương khởi điểm triệu đồng
+Sau năm họ có thể nhận gấp ba
 Nhiều doanh nghiệp thậm chí đến săn lùng sinh viên từ năm thứ hai thứ ba
-Tuy nhiên mỗi trường này chỉ cung cấp được khoảng 100 -150 kỹ sư thiết kế vi mạch mỗi năm
+Tuy nhiên mỗi trường này chỉ cung cấp được khoảng kỹ sư thiết kế vi mạch mỗi năm
 Các chuyên gia nhìn nhận khó có thể đào tạo ồ ạt hoặc tăng quy mô nhanh chóng
 Người dạy trong lĩnh vực này ở Việt Nam không nhiều chủ yếu đang ở các doanh nghiệp ông Tuấn nói
 Hơn nữa các trường cũng cần có chương trình đào tạo tốt bởi thiết kế vi mạch chỉ là phần ngọn của ngành Điện tử
-PGS Nguyễn Đức Minh cho biết trường hiện có 9 giảng viên trình độ tiến sĩ trong đó có 3 PGS có thể giảng dạy hướng dẫn ngành Thiết kế vi mạch
-Với quy mô khoảng 50 sinh viên mỗi năm trường không thiếu giảng viên
-Tuy nhiên nếu muốn nâng quy mô số giảng viên hiện tại cũng chỉ đủ để đào tạo tối đa 80 sinh viên
+PGS Nguyễn Đức Minh cho biết trường hiện có giảng viên trình độ tiến sĩ trong đó có PGS có thể giảng dạy hướng dẫn ngành Thiết kế vi mạch
+Với quy mô khoảng sinh viên mỗi năm trường không thiếu giảng viên
+Tuy nhiên nếu muốn nâng quy mô số giảng viên hiện tại cũng chỉ đủ để đào tạo tối đa sinh viên
 Một khó khăn khác là giảng viên chưa có nhiều quỹ đầu tư để nghiên cứu thiếu phần mềm máy móc thực hành nên đào tạo khó sát với thế giới
 TS Nguyễn Tấn Trần Minh Khang Phó hiệu trưởng Đại học Công nghệ Thông tin Đại học Quốc gia TP HCM dẫn thêm một số nguyên nhân như thiếu đồng bộ trong chia sẻ và sử dụng các công cụ phần mềm thiết kế công nghiệp lõi IP để hỗ trợ đào tạo tại các trường tính liên kết giữa các nhà nghiên cứu nhóm nghiên cứu còn lỏng lẻo
-Trong tọa đàm về xây dựng chương trình ngành Thiết kế vi mạch của Đại học Quốc gia TP HCM hồi tháng 7 TS Võ Xuân Hoài Phó giám đốc Trung tâm đổi mới sáng tạo quốc gia từng nêu các ý kiến này
+Trong tọa đàm về xây dựng chương trình ngành Thiết kế vi mạch của Đại học Quốc gia TP HCM hồi tháng TS Võ Xuân Hoài Phó giám đốc Trung tâm đổi mới sáng tạo quốc gia từng nêu các ý kiến này
 Ông nói Việt Nam chưa có chiến lược quốc gia về phát triển nguồn nhân lực thiết kế vi mạch
 Hệ sinh thái còn thiếu các phòng lab và công cụ thiết kế
 Hầu hết trường không đủ năng lực tài chính để đầu tư trang thiết bị phần mềm hỗ trợ thiết kế trị giá triệu USD
@@ -33,12 +33,10 @@ Vì vậy trước mắt các trường nói sẽ tập trung vào nâng cao ch�
 Về lâu dài ông Minh nhận định cần khuyến khích người trẻ theo học và làm vi mạch bằng các ưu đãi như miễn giảm thuế
 Ông cũng đề xuất nhà nước cấp học bổng cho các chương trình hợp tác đào tạo kiểu sandwich ở bậc sau đại học tức một nửa thời gian học trong nước và một nửa ở nước ngoài
 Ngoài ra nhà nước cần cấp quỹ đầu tư cho các dự án hợp tác nghiên cứu có đào tạo của các đại học mở trung tâm điều phối nguồn nhân lực quốc gia hỗ trợ vi mạch
-Trung tâm này cho phép chia sẻ bản quyền phần mềm thiết kế kinh phí chế tạo thử nghiệm dự án Multi Project Wafer - MPW ông Minh nói
+Trung tâm này cho phép chia sẻ bản quyền phần mềm thiết kế kinh phí chế tạo thử nghiệm dự án Multi Project Wafer MPW ông Minh nói
 Ông Võ Xuân Hoài cho rằng các trường cần được đầu tư có trọng điểm và nhanh chóng tập trung vào nhóm các đại học tiên phong như hai đại học quốc gia và Bách khoa Hà Nội
 Qua đầu tư các trường tăng cường chương trình cơ sở vật chất thu hút chuyên gia nhà khoa học
-Về kinh nghiệm quốc tế chia sẻ tại tọa đàm của Đại học Quốc gia TP HCM GS Lee Hyuk-jae Trưởng khoa Điện và Kỹ thuật máy tính Đại học Quốc gia Seoul cho biết để giải quyết bài toán khát nhân lực trường này khuyến khích sinh viên ngành khác học thêm hoặc học song ngành để trở thành kỹ sư vi mạch
+Về kinh nghiệm quốc tế chia sẻ tại tọa đàm của Đại học Quốc gia TP HCM GS Lee Hyukjae Trưởng khoa Điện và Kỹ thuật máy tính Đại học Quốc gia Seoul cho biết để giải quyết bài toán khát nhân lực trường này khuyến khích sinh viên ngành khác học thêm hoặc học song ngành để trở thành kỹ sư vi mạch
 Ông cũng cho rằng cần đẩy mạnh sự hợp tác giữa doanh nghiệp và trường đại học
 Doanh nghiệp sẽ đến trường chia sẻ kinh nghiệm thực tiễn ngược lại sinh viên sẽ thực tập về thiết kế sản xuất chip tại doanh nghiệp
-Trong buổi làm việc giữa Phó thủ tướng Trần Hồng Hà và hai đại học quốc gia hôm 6/9 Bộ trưởng Thông tin và Truyền thông Nguyễn Mạnh Hùng cho biết đã dự thảo và sẽ trình Chính phủ chiến lược quốc gia về phát triển công nghiệp bán dẫn trong năm nay
-Dương Tâm - Nhật Lệ
-
+Trong buổi làm việc giữa Phó thủ tướng Trần Hồng Hà và hai đại học quốc gia hôm Bộ trưởng Thông tin và Truyền thông Nguyễn Mạnh Hùng cho biết đã dự thảo và sẽ trình Chính phủ chiến lược quốc gia về phát triển công nghiệp bán dẫn trong năm nay

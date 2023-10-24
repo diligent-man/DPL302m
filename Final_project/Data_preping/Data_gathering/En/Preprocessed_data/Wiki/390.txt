@@ -1,29 +1,46 @@
-Digital anthropology is the anthropological study of the relationship between humans and digital era technology The field is new and thus has a variety of names with a variety of emphases These include techno anthropology digital ethnography cyberanthropology and virtual anthropology
-Most anthropologists who use the phrase digital anthropology are specifically referring to online and Internet technology The study of humans' relationship to a broader range of technology may fall under other subfields of anthropological study such as cyborg anthropology
-The Digital Anthropology Group DANG is classified as an interest group in the American Anthropological Association DANG's mission includes promoting the use of digital technology as a tool of anthropological research encouraging anthropologists to share research using digital platforms and outlining ways for anthropologists to study digital communities
+Digital anthropology is the anthropological study of the relationship between humans and digital-era technology
+The field is new and thus has a variety of names with a variety of emphases
+These include techno-anthropology digital ethnography cyberanthropology and virtual anthropology
+Most anthropologists who use the phrase digital anthropology are specifically referring to online and Internet technology
+The study of humans' relationship to a broader range of technology may fall under other subfields of anthropological study such as cyborg anthropology
+The Digital Anthropology Group DANG is classified as an interest group in the American Anthropological Association
+DANG's mission includes promoting the use of digital technology as a tool of anthropological research encouraging anthropologists to share research using digital platforms and outlining ways for anthropologists to study digital communities
 Cyberspace itself can serve as a field site for anthropologists allowing the observation analysis and interpretation of the sociocultural phenomena springing up and taking place in any interactive space
-National and transnational communities enabled by digital technology establish a set of social norms practices traditions storied history and associated collective memory migration periods internal and external conflicts potentially subconscious language features and memetic dialects comparable to those of traditional geographically confined communities This includes the various communities built around free and open source software online platforms such as chan and Reddit and their respective sub sites and politically motivated groups like Anonymous WikiLeaks or the Occupy movement
-A number of academic anthropologists have conducted traditional ethnographies of virtual worlds such as Bonnie Nardi's study of World of Warcraft or Tom Boellstorff's study of Second Life Academic Gabriella Coleman has done ethnographic work on the Debian software community and the Anonymous hacktivist network
-Anthropological research can help designers adapt and improve technology Australian anthropologist Genevieve Bell did extensive user experience research at Intel that informed the company's approach to its technology users and market
-Many digital anthropologists who study online communities use traditional methods of anthropological research They participate in online communities in order to learn about their customs and worldviews and back their observations with private interviews historical research and quantitative data Their product is an ethnography a qualitative description of their experience and analyses
-Other anthropologists and social scientists have conducted research that emphasizes data gathered by websites and servers However academics often have trouble accessing user data on the same scale as social media corporations like Facebook and data mining companies like Acxiom
-In terms of method there is a disagreement in whether it is possible to conduct research exclusively online or if research will only be complete when the subjects are studied holistically both online and offline Tom Boellstorff who conducted a three year research as an avatar in the virtual world Second Life defends the first approach stating that it is not just possible but necessary to engage with subjects in their own terms Others such as Daniel Miller have argued that an ethnographic research should not exclude learning about the subject's life outside the internet
-The American Anthropological Association offers an online guide for students using digital technology to store and share data Data can be uploaded to digital databases to be stored shared and interpreted Text and numerical analysis software can help produce metadata while a codebook may help organize data
-Online fieldwork offers new ethical challenges According to the American Anthropological Association's ethics guidelines anthropologists researching a community must make sure that all members of that community know they are being studied and have access to data the anthropologist produces However many online communities' interactions are publicly available for anyone to read and may be preserved online for years Digital anthropologists debate the extent to which lurking in online communities and sifting through public archives is ethical
-The Association also asserts that anthropologists' ability to collect and store data at all is a privilege and researchers have an ethical duty to store digital data responsibly This means protecting the identity of participants sharing data with other anthropologists and making backup copies of all data
-Digital sociologyBudka Philipp and Manfred Kremser CyberAnthropology—Anthropology of CyberCulture in Contemporary issues in socio cultural anthropology Perspectives and research activities from Austria edited by S Khittel B Plankensteiner and M Six Hohenbalken pp Vienna Loecker
-Escobar Arturo Welcome to Cyberia notes on the anthropology of cyberculture Current Anthropology
-Fabian Johannes Virtual archives and ethnographic writing Commentary as a new genre Current Anthropology
-Gershon Ilana The Break up Disconnecting over new media Cornell University Press
-Ginsburg Faye Rethinking the Digital Age In The Media and Social Theory Edited by Desmond Hesmondhalgh and Jason Toynbee New York Routledge
-Hine Christine Virtual ethnography London Thousand Oaks New Delhi Sage
-Horst Heather and Daniel Miller Digital Anthropology London and New York Berg
-Jarzombek Mark Digital Stockholm Syndrome in the Post Ontological Age Minneapolis University of Minnesota Press
-Kremser Manfred CyberAnthropology und die neuen Räume des Wissens Mitteilungen der Anthropologischen Gesellschaft in Wien
-Ito Mizuko Sonja Baumer Matteo Bittanti danah boyd Rachel Cody Rebecca Herr Stephenson Heather A Horst Patricia G Lange Dilan Mahendran Katynka Z Martinez CJ Pascoe Dan Perkel Laura Robinson Christo Sims and Lisa Tripp Hanging Out Messing Around and Geeking Out Kids Living and Learning with New Media Cambridge MIT Press
-Paccagnella Luciano Getting the seats of your pants dirty Strategies for ethnographic research on virtual communities Journal of Computer Mediated Communication
-Sugita Shigeharu Computers in ethnological studies As a tool and an object in Toward a computer ethnology Proceedings of the th International Symposium at the Japan National Museum of Ethnology edited by Joseph Raben Shigeharu Sugita and Masatoshi Kubo pp Osaka National Museum of Ethnology Senri Ethnological Studies
-Wittel Andreas Ethnography on the move From field to net to Internet Forum Qualitative Sozialforschung Forum Qualitative Social Research Computer Mediated Anthropology
+National and transnational communities enabled by digital technology establish a set of social norms practices traditions storied history and associated collective memory migration periods internal and external conflicts potentially subconscious language features and memetic dialects comparable to those of traditional geographically confined communities
+This includes the various communities built around free and open-source software online platforms such as chan and Reddit and their respective sub-sites and politically motivated groups like Anonymous WikiLeaks or the Occupy movement
+A number of academic anthropologists have conducted traditional ethnographies of virtual worlds such as Bonnie Nardi's study of World of Warcraft or Tom Boellstorff's study of Second Life
+Academic Gabriella Coleman has done ethnographic work on the Debian software community and the Anonymous hacktivist network
+Anthropological research can help designers adapt and improve technology
+Australian anthropologist Genevieve Bell did extensive user experience research at Intel that informed the company's approach to its technology users and market
+Many digital anthropologists who study online communities use traditional methods of anthropological research
+They participate in online communities in order to learn about their customs and worldviews and back their observations with private interviews historical research and quantitative data
+Their product is an ethnography a qualitative description of their experience and analyses
+Other anthropologists and social scientists have conducted research that emphasizes data gathered by websites and servers
+However academics often have trouble accessing user data on the same scale as social media corporations like Facebook and data mining companies like Acxiom
+In terms of method there is a disagreement in whether it is possible to conduct research exclusively online or if research will only be complete when the subjects are studied holistically both online and offline
+Tom Boellstorff who conducted a three-year research as an avatar in the virtual world Second Life defends the first approach stating that it is not just possible but necessary to engage with subjects in their own terms
+Others such as Daniel Miller have argued that an ethnographic research should not exclude learning about the subject's life outside the internet
+The American Anthropological Association offers an online guide for students using digital technology to store and share data
+Data can be uploaded to digital databases to be stored shared and interpreted
+Text and numerical analysis software can help produce metadata while a codebook may help organize data
+According to the American Anthropological Association's ethics guidelines anthropologists researching a community must make sure that all members of that community know they are being studied and have access to data the anthropologist produces
+However many online communities' interactions are publicly available for anyone to read and may be preserved online for years
+Digital anthropologists debate the extent to which lurking in online communities and sifting through public archives is ethical
+The Association also asserts that anthropologists' ability to collect and store data at all is a privilege and researchers have an ethical duty to store digital data responsibly
+This means protecting the identity of participants sharing data with other anthropologists and making backup copies of all data
+CyberAnthropology—Anthropology of CyberCulture in Contemporary issues in socio-cultural anthropology Perspectives and research activities from Austria edited by S
+Welcome to Cyberia notes on the anthropology of cyberculture Current Anthropology
+Virtual archives and ethnographic writing Commentary as a new genre Current Anthropology
+Edited by Desmond Hesmondhalgh and Jason Toynbee
+Digital Stockholm Syndrome in the Post-Ontological Age
+CyberAnthropology und die neuen Rume des Wissens
+Ito Mizuko Sonja Baumer Matteo Bittanti danah boyd Rachel Cody Rebecca Herr-Stephenson Heather A
+Pascoe Dan Perkel Laura Robinson Christo Sims and Lisa Tripp
+Hanging Out Messing Around and Geeking Out Kids Living and Learning with New Media
+Getting the seats of your pants dirty Strategies for ethnographic research on virtual communities
+Computers in ethnological studies As a tool and an object in Toward a computer ethnology Proceedings of the th International Symposium at the Japan National Museum of Ethnology edited by Joseph Raben Shigeharu Sugita and Masatoshi Kubo pp
+Ethnography on the move From field to net to Internet
+Forum Qualitative Sozialforschung Forum Qualitative Social Research Computer Mediated Anthropology
 Centre for Digital Anthropology University College London
 Digital Ethnography Research Centre RMIT University Melbourne
 Intel Science Technology Centre University of California Irvine

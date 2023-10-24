@@ -1,18 +1,30 @@
 From actors to autoworkers more than workers have participated in strikes in the United States this year according to Cornell University’s Labor Action Tracker
 Are all of these workers missing from the US government’s monthly jobs reports
 The report produced by the Bureau of Labor Statistics is a product of two different surveys
-One asks a sample group of employers to report how many workers they employed based on their payroll records for the pay period that includes the th of the month Data from that survey is used to determine how many people were hired or laid off in a given month
+One asks a sample group of employers to report how many workers they employed based on their payroll records for the pay period that includes the th of the month
+Data from that survey is used to determine how many people were hired or laid off in a given month
 UAW says it scored a major concession from GM and will not expand its Big Three strike Friday
-If the striking workers earned pay for any part of the reference period even one hour they are counted as employed Cody Parkinson an economist at the BLS told CNN Striking workers are reflected as a subtraction from the employment level in the first monthly estimate when they are not working in the reference pay period They are added back only when they return to work
-That means that in the September jobs report United Auto Workers members on strike are counted as employed since the strike began on September which was during the reference week But if the strike continues through the end of next week they will not be counted as employed in the October jobs report due next month unless they are on the payroll of a different employer
-In contrast the impact of the SAG AFTRA strike which began in July showed up in some of the data that was included in the September jobs report
-Employment in motion picture and sound recording industries continued to trend down and has declined by since May reflecting the impact of labor disputes the BLS noted in the September jobs report
-In the case of the Writers Guild of America strike which recently ended many of the union members were contract workers or freelancers So you wouldn’t be able to see the impact of strikes simply by looking at industry hiring data that comes from payroll data
-However there’s another survey used to construct the monthly jobs report that asks individuals if they worked in a given week Data from that survey is used to calculate the unemployment rate Since the survey captures almost all types of working arrangements contractors and freelancers on strike would impact the data
+If the striking workers earned pay for any part of the reference period even one hour they are counted as employed Cody Parkinson an economist at the BLS told CNN
+Striking workers are reflected as a subtraction from the employment level in the first monthly estimate when they are not working in the reference pay period
+They are added back only when they return to work
+That means that in the September jobs report United Auto Workers members on strike are counted as employed since the strike began on September which was during the reference week
+But if the strike continues through the end of next week they will not be counted as employed in the October jobs report due next month unless they are on the payroll of a different employer
+In contrast the impact of the SAG-AFTRA strike which began in July showed up in some of the data that was included in the September jobs report
+Employment in motion picture and sound recording industries continued to trend down - and has declined by since May reflecting the impact of labor disputes the BLS noted in the September jobs report
+In the case of the Writers Guild of America strike which recently ended many of the union members were contract workers or freelancers
+So you wouldn’t be able to see the impact of strikes simply by looking at industry hiring data that comes from payroll data
+However there’s another survey used to construct the monthly jobs report that asks individuals if they worked in a given week
+Data from that survey is used to calculate the unemployment rate
+Since the survey captures almost all types of working arrangements contractors and freelancers on strike would impact the data
 The Fed cares a lot about jobs data — but it may be getting mixed signals
 The BLS classifies someone as unemployed if they were not working but were available to work and actively looked for work in the prior weeks
 If the answer to that is no they aren’t considered part of the labor force even if they are part of a striking union
 If someone was on strike but earned money working a different way like driving for Uber during the reference period they’d be counted as employed
 Finally a worker who was on strike for the entire reference period and did not have a job would be counted as employed but not at work due to a labor dispute Parkinson said
-Most stock quote data provided by BATS US market indices are shown in real time except for the SP which is refreshed every two minutes All times are ET Factset FactSet Research Systems Inc All rights reserved Chicago Mercantile Certain market data is the property of Chicago Mercantile Exchange Inc and its licensors All rights reserved Dow Jones The Dow Jones branded indices are proprietary to and are calculated distributed and marketed by DJI Opco a subsidiary of SP Dow Jones Indices LLC and have been licensed for use to SP Opco LLC and CNN Standard Poor’s and SP are registered trademarks of Standard Poor’s Financial Services LLC and Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC All content of the Dow Jones branded indices Copyright SP Dow Jones Indices LLC andor its affiliates Fair value provided by IndexArbcom Market holidays and trading hours provided by Copp Clark Limited
-Cable News Network A Warner Bros Discovery Company All Rights Reserved CNN Sans Cable News Network
+Most stock quote data provided by BATS
+US market indices are shown in real time except for the SP which is refreshed every two minutes
+Chicago Mercantile Certain market data is the property of Chicago Mercantile Exchange Inc
+Dow Jones The Dow Jones branded indices are proprietary to and are calculated distributed and marketed by DJI Opco a subsidiary of SP Dow Jones Indices LLC and have been licensed for use to SP Opco LLC and CNN
+Standard Poor’s and SP are registered trademarks of Standard Poor’s Financial Services LLC and Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC
+All content of the Dow Jones branded indices Copyright SP Dow Jones Indices LLC andor its affiliates
+Market holidays and trading hours provided by Copp Clark Limited

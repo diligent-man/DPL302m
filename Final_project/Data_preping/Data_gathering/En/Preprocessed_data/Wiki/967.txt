@@ -1,17 +1,31 @@
-The HyperScan is a home video game console from the toy company Mattel It used radio frequency identification RFID along with traditional video game technology The included game was rated T Teen not suitable for under age and the remaining titles were rated E+ not suitable for under age by the ESRB The console used UDF format CD ROMs The HyperScan has two controller ports as well as a MHz RFID scanner that reads and writes to the cards which in turn activate features in and save data from the game Players are able to enhance the abilities of their characters by scanning cards Games retailed for and the console itself for at launch but at the end of its very short lifespan prices of the system were down to the games and booster packs
-The system was sold in two varieties a cube and a player value pack The cube box version was the version sold in stores It included the system controller an X Men game disc and X Men cards Two player value packs were sold online but may have been liquidated in stores and included an extra controller and additional X Men cards
-The system was universally panned by critics for its clunky design broken controls poor library long loading screens and the unnecessary usage of cards to select characters and was officially discontinued in It is featured as one of the ten worst systems ever by PC World magazine
+The HyperScan is a home video game console from the toy company Mattel
+It used radio frequency identification RFID along with traditional video game technology
+The included game was rated T Teen not suitable for under age and the remaining titles were rated E+ not suitable for under age by the ESRB
+The HyperScan has two controller ports as well as a MHz RFID scanner that reads and writes to the cards which in turn activate features in and save data from the game
+Players are able to enhance the abilities of their characters by scanning cards
+Games retailed for and the console itself for at launch but at the end of its very short lifespan prices of the system were down to the games and booster packs
+The system was sold in two varieties a cube and a -player value pack
+The cube box version was the version sold in stores
+It included the system controller an X-Men game disc and X-Men cards
+Two-player value packs were sold online but may have been liquidated in stores and included an extra controller and additional X-Men cards
+The system was universally panned by critics for its clunky design broken controls poor library long loading screens and the unnecessary usage of cards to select characters and was officially discontinued in
+It is featured as one of the ten worst systems ever by PC World magazine
 The HyperScan's RFID systems were provided by Innovision Research and Technology plc a fabless semiconductor design house based in the UK which specializes in RFID systems and chip design
-The games for the system were sold as Game Packs which consisted of a game disc accompanied by six game cards seven for Spider Man Additional cards which contained characters abilities moves and levels when scanned were part of a six card Booster Pack available for pack As with most trading card packs the cards were randomized meaning a player looking for a certain card to unlock that element of the game may have had to buy multiple Booster Packs in order to get it while getting multiple cards for another aspect of the game or trade it for another with a friend as was likely intended by the Hyperscan's card aspect
-Multiple booster packs were intended for certain games with X Men intending to have cards to unlock parts of the game according to its instruction manual in separate red and black series the latter went unreleased due to the console's cancellation effectively leaving half the game locked behind a paywall which barring some kind of hack which would unlock the entire game can never be lifted
+The games for the system were sold as Game Packs which consisted of a game disc accompanied by six game cards seven for Spider-Man
+Additional cards which contained characters abilities moves and levels when scanned were part of a six-card Booster Pack available for pack
+As with most trading card packs the cards were randomized meaning a player looking for a certain card to unlock that element of the game may have had to buy multiple Booster Packs in order to get it while getting multiple cards for another aspect of the game or trade it for another with a friend as was likely intended by the Hyperscan's card aspect
+Multiple booster packs were intended for certain games with X-Men intending to have cards to unlock parts of the game according to its instruction manual in separate red and black series the latter went unreleased due to the console's cancellation effectively leaving half the game locked behind a paywall which barring some kind of hack which would unlock the entire game can never be lifted
 There were only titles known to have been released with canceled games
-Background shading indicates canceled games X Men a fighting game in which two characters face off against each other in self contained matches similar to Street Fighter The only game on the console to be rated T for Teen
-Ben a side scrolling adventure quest The only Cartoon Network exclusive video game for the system
-Interstellar Wrestling League a sort of v fighting game similar to ClayFighter but with alien like characters
-Marvel Heroes which includes some X Men characters is a side scrolling adventure quest
-Spider Man a side scrolling adventure questThe Ben and Spider Man games are similar to Marvel Heroes
-Though not much development for homebrew games was done on the console several programmers have created demos and proofs of concepts Some of the programs include a CD Door demo D wireframe demo and a Bluescale demo
-Sunplus SPG SoC implementing the S+core bit microarchitecture designed by Sunplus Technology The S+core instruction set architecture allows use of a bit hybrid instruction mode features Advanced Microcontroller Bus Architecture AMBA support and includes SJTAG for In circuit emulation
+X-Men a fighting game in which two characters face off against each other in self-contained matches similar to Street Fighter
+The only game on the console to be rated T for Teen
+The only Cartoon Network-exclusive video game for the system
+Interstellar Wrestling League a sort of v fighting game similar to ClayFighter but with alien-like characters
+Marvel Heroes which includes some X-Men characters is a side-scrolling adventure quest
+Spider-Man a side-scrolling adventure questThe Ben and Spider-Man games are similar to Marvel Heroes
+Though not much development for homebrew games was done on the console several programmers have created demos and proofs-of-concepts
+Some of the programs include a CD-Door demo D wireframe demo and a Bluescale demo
+Sunplus SPG SoC implementing the S+core -bit microarchitecture designed by Sunplus Technology
+The S+core instruction set architecture allows use of a -bit hybrid instruction mode features Advanced Microcontroller Bus Architecture AMBA support and includes SJTAG for In-circuit emulation
 Composite video output SoC supports TFT displays but the system does not implement it
 RFID storage bytes of user memory + bytes unique ID + bytes of one time programmable memoryMattel Hyperscan Ultimate Console Database
 Feature titled THE MOST BIZARRE CONSOLE FLOPS IN GAMING HISTORY by ADAM JAMES at SVGcom

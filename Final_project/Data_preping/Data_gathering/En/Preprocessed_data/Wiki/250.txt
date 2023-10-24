@@ -1,27 +1,19 @@
 The following is a partial list of the C codes for Medical Subject Headings MeSH as defined by the United States National Library of Medicine NLM
-This list continues the information at List of MeSH codes C Codes following these are found at List of MeSH codes C For other MeSH codes see List of MeSH codes
+This list continues the information at List of MeSH codes C
+Codes following these are found at List of MeSH codes C
+For other MeSH codes see List of MeSH codes
 The source for this content is the set of MeSH Trees from the NLM
 MeSH C anemia refractory with excess of blasts
-MeSH C anemia diamond blackfanMeSH C coagulation protein disorders
+MeSH C anemia diamond-blackfanMeSH C coagulation protein disorders
 MeSH C hemorrhagic disease of newbornMeSH C erythroblastosis fetal
-MeSH C rh isoimmunizationMeSH C bernard soulier syndrome
+MeSH C rh isoimmunizationMeSH C bernard-soulier syndrome
 MeSH C von willebrand diseaseMeSH C abetalipoproteinemia
 MeSH C protein s deficiencyMeSH C anemia aplastic
 MeSH C anemia refractory with excess of blasts
 MeSH C thrombocythemia hemorrhagicMeSH C bone marrow neoplasmsMeSH C anemia sickle cell
 MeSH C hemangioma cavernous central nervous system
-MeSH C wiskott aldrich syndromeMeSH C eosinophilia
 MeSH C job's syndromeMeSH C activated protein c resistance
-MeSH C purpura thrombotic thrombocytopenicMeSH C cat scratch disease
+MeSH C purpura thrombotic thrombocytopenicMeSH C cat-scratch disease
 MeSH C tuberculosis lymph nodeMeSH C lymphangiectasis intestinalMeSH C lymphangiectasis intestinalMeSH C elephantiasis
-MeSH C lymphoma mucosa associated lymphoid tissue
-MeSH C lymphoma small cleaved cell diffuse
-MeSH C lymphoma small cleaved cell follicular
-MeSH C lymphoma small cleaved cell diffuse
-MeSH C lymphoma mucosa associated lymphoid tissue
-MeSH C lymphoma small cleaved cell follicular
-MeSH C lymphoma small cleaved cell diffuse
-MeSH C lymphoma small cleaved cell follicular
 MeSH C waldenstrom macroglobulinemiaMeSH C gaucher disease
-MeSH C mast cell sarcomaMeSH C hypersplenism
 MeSH C wandering spleenMeSH C king's evilThe list continues at List of MeSH codes C

@@ -1,16 +1,36 @@
-A city building game or town building game is a genre of simulation video game where players act as the overall planner and leader of a city or town looking down on it from above and being responsible for its growth and management strategy Players choose building placement and city management features such as salaries and work priorities and the city develops accordingly
-City building games such as SimCity Cities XXL or Cities Skylines are considered a type of construction and management simulation
-The earliest city building game was The Sumerian Game a text based mainframe game written by Mabel Addis based on the ancient Sumerian city of Lagash It was subsequently adapted into The Sumer Game later known as Hamurabi
-The city building game genre was established in with SimCity which emphasized continuous building rather than a set victory condition Players followed personal preferences in design and growth Indicators of success were maintaining positive budget balance and citizen satisfaction Subsequent SimCity titles such as SimCity soon followed when high sales of the game demonstrated its popularity
-The first sim game Utopia developed for the Mattel Intellivision console system covered many of these same elements but was limited by the primitive screen resolutions of its era Unlike the thousands of individual spaces possible a few years later in SimCity each island in Utopia held only buildable spaces for schools factories and other constructions The player's score was based on the well being of his people
-A second boost in genre popularity came in with the release of various games Including The Settlers which is set in medieval times and simulates a complex settlement and economic system dynamic revolutionary at the time It started a series that continues ever since
-In the same year a blockbuster game which modeled cities in ancient Rome was published Caesar Subsequent titles in the City Building Series followed all simulating cities in past civilizations
-The PC game Stronghold also appeared in and was advertised as SimCity meets Dungeons Dragons in D Elves humans and dwarves each built neighborhoods with unique architecture within the player's town The title also had elements of real time strategy games when enemies attacked the city and the line between city building and RTS games has often been blurred with this kind of hybrid title True D graphics were not yet possible at that time so the advertised D was actually a clever use of D graphics an isometric projection with mathematically generated terrain and overlaid bitmaps and sprites
+A city-building game or town-building game is a genre of simulation video game where players act as the overall planner and leader of a city or town looking down on it from above and being responsible for its growth and management strategy
+Players choose building placement and city management features such as salaries and work priorities and the city develops accordingly
+City-building games such as SimCity Cities XXL or Cities Skylines are considered a type of construction and management simulation
+The earliest city-building game was The Sumerian Game a text-based mainframe game written by Mabel Addis based on the ancient Sumerian city of Lagash
+It was subsequently adapted into The Sumer Game later known as Hamurabi
+The city-building game genre was established in with SimCity which emphasized continuous building rather than a set victory condition
+Players followed personal preferences in design and growth
+Indicators of success were maintaining positive budget balance and citizen satisfaction
+Subsequent SimCity titles such as SimCity soon followed when high sales of the game demonstrated its popularity
+The first sim game Utopia developed for the Mattel Intellivision console system covered many of these same elements but was limited by the primitive screen resolutions of its era
+Unlike the thousands of individual spaces possible a few years later in SimCity each island in Utopia held only buildable spaces for schools factories and other constructions
+The player's score was based on the well-being of his people
+A second boost in genre popularity came in with the release of various games
+Including The Settlers which is set in medieval times and simulates a complex settlement and economic system dynamic revolutionary at the time
+It started a series that continues ever since
+In the same year a blockbuster game which modeled cities in ancient Rome was published Caesar
+Subsequent titles in the City Building Series followed all simulating cities in past civilizations
+The PC game Stronghold also appeared in and was advertised as SimCity meets Dungeons Dragons in D
+Elves humans and dwarves each built neighborhoods with unique architecture within the player's town
+The title also had elements of real-time strategy games when enemies attacked the city and the line between city-building and RTS games has often been blurred with this kind of hybrid title
+True D graphics were not yet possible at that time so the advertised D was actually a clever use of D graphics an isometric projection with mathematically generated terrain and overlaid bitmaps and sprites
 The Anno series started in and established a high level of detail in graphics as well as an intense economy simulation and a distinct gameplay
-SimCity released in was praised as a standard setter among city builders and keeps being widely regarded as one of the best games in the genre despite its complexity and steep learning curve Subsequent games in the series attempted to remedy this such as SimCity Societies which did not further deepen the gameplay along the line of city simulation but incorporates different gameplay elements such as social management The changes to the formula polarized critics and its fan base alike The reboot SimCity attempted to bring the franchise back to its roots but was panned by critics and traditional fans for its forced online requirements bugs in simulation missing promised features and restrictions on city size The waning dominance of the SimCity franchise in the genre has caused several other companies to release similarly themed games like Cities XL The game Cities Skylines published in is widely regarded the best city building sim to date and was very successful with the audience of the genre
+SimCity released in was praised as a standard-setter among city-builders and keeps being widely regarded as one of the best games in the genre despite its complexity and steep learning curve
+Subsequent games in the series attempted to remedy this such as SimCity Societies which did not further deepen the gameplay along the line of city simulation but incorporates different gameplay elements such as social management
+The changes to the formula polarized critics and its fan base alike
+The reboot SimCity attempted to bring the franchise back to its roots but was panned by critics and traditional fans for its forced online requirements bugs in simulation missing promised features and restrictions on city size
+The waning dominance of the SimCity franchise in the genre has caused several other companies to release similarly themed games like Cities XL
+The game Cities Skylines published in is widely regarded the best city-building sim to date and was very successful with the audience of the genre
 Starting with Anno in continued by Anno in and emphasized by Surviving Mars and Frostpunk in futurist settings became again widely popular with the audience of the genre
-With the rise of social gaming mobile gaming freemium and micropayment model in the s there has been a surge of casual city building games with different mechanisms like time based produce and upgrade feature including CityVille SimCity Buildit and City Island Despite the fact that most traditional followers of the genre do not like these games they have gained greater commercial success around the world than most prior city building games
-Another development trend is the increased popularity for city building games by independent developers like the Islanders or the release Townscaper with their simple intuition based gameplay Also sandbox games like the ever popular Minecraft published in offer features that are alike to various city builders
-Comprehensive planning Long term large area public policy developmental plan
+With the rise of social gaming mobile gaming freemium and micropayment model in the s there has been a surge of casual city-building games with different mechanisms like time-based produce and upgrade feature including CityVille SimCity Buildit and City Island
+Despite the fact that most traditional followers of the genre do not like these games they have gained greater commercial success around the world than most prior city building games
+Another development trend is the increased popularity for city building games by independent developers like the Islanders or the release Townscaper with their simple intuition-based gameplay
+Also sandbox games like the ever-popular Minecraft published in offer features that are alike to various city-builders
+Comprehensive planning Long-term large-area public policy developmental plan
 Development plan UK local land use planning
-Traffic simulationConte P A City builders vis ta ville air le mag n° March pp
+Traffic simulationConte P-A City builders vis ta ville air le mag n° March pp

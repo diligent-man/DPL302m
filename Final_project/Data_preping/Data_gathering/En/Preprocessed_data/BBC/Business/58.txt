@@ -1,12 +1,16 @@
 The US Securities and Exchange Commission on Thursday applied for a court order to force Elon Musk to testify in an ongoing probe related to his acquisition of Twitter and public disclosures he made in connection with the deal according to court filings
 The filing Thursday in San Francisco federal court seeks a judge’s order requiring Musk to testify alleging blatant refusal to comply with an earlier SEC subpoena
 X the company formerly known as Twitter did not immediately respond to a request for comment
-The SEC action is the latest turn in a long running inquiry into whether Musk fully complied with his disclosure obligations when he began acquiring large amounts of Twitter stock prior to his deal to buy the company And it underscores years of friction between Musk and the agency over his public comments on numerous matters involving his companies
-Musk began buying up large amounts of Twitter stock in early and he revealed on April of that year that he had become the company’s largest shareholder Later that month Musk inked a deal to buy the platform for billion and — after a monthslong legal battle attempting to exit the deal — officially closed the acquisition in October of last year Musk has faced a number of legal challenges related to his Twitter acquisition in the months since his takeover
+The SEC action is the latest turn in a long-running inquiry into whether Musk fully complied with his disclosure obligations when he began acquiring large amounts of Twitter stock prior to his deal to buy the company
+And it underscores years of friction between Musk and the agency over his public comments on numerous matters involving his companies
+Musk began buying up large amounts of Twitter stock in early and he revealed on April of that year that he had become the company’s largest shareholder
+Later that month Musk inked a deal to buy the platform for billion and — after a monthslong legal battle attempting to exit the deal — officially closed the acquisition in October of last year
+Musk has faced a number of legal challenges related to his Twitter acquisition in the months since his takeover
 The SEC has asked Elon Musk more questions about his Twitter deal
 Musk testified twice as part of the SEC’s investigation in July according to the agency
 Starting that same month Musk produced hundreds of documents to federal investigators working on the probe including documents Musk authored according to a declaration by an SEC attorney filed alongside the agency’s court request
-The SEC served Musk with a subpoena to testify again in the matter in May according to the court filing The current subpoena at issue seeks evidence and testimony from Musk that the SEC does not yet possess the agency said
+The SEC served Musk with a subpoena to testify again in the matter in May according to the court filing
+The current subpoena at issue seeks evidence and testimony from Musk that the SEC does not yet possess the agency said
 Despite previously agreeing to testify on September and rescheduling the testimony once Musk abruptly notified the SEC two days before his scheduled appearance to say he would not be showing up the filing states
 The SEC attempted to negotiate with Musk to find alternative dates later this fall according to court documents
 These good faith efforts were met with Musk’s blanket refusal to appear for testimony it adds
@@ -14,5 +18,10 @@ The subpoena with which Musk failed to comply relates to an ongoing nonpublic in
 When Musk informed the SEC he would not be appearing to testify his lawyer Alex Spiro wrote to the agency on September saying Musk had already sat for testimony twice in this matter and that enough is enough
 Spiro’s letter which was included as an exhibit in the SEC’s court filings accused regulators of seeking Musk’s testimony in bad faith and attempting to waste Musk’s time
 In addition Spiro claimed that the recent release of Walter Isaacson’s biography of Musk would interfere because it contained new information potentially relevant to this matter that would take time for both sides to digest
-Most stock quote data provided by BATS US market indices are shown in real time except for the SP which is refreshed every two minutes All times are ET Factset FactSet Research Systems Inc All rights reserved Chicago Mercantile Certain market data is the property of Chicago Mercantile Exchange Inc and its licensors All rights reserved Dow Jones The Dow Jones branded indices are proprietary to and are calculated distributed and marketed by DJI Opco a subsidiary of SP Dow Jones Indices LLC and have been licensed for use to SP Opco LLC and CNN Standard Poor’s and SP are registered trademarks of Standard Poor’s Financial Services LLC and Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC All content of the Dow Jones branded indices Copyright SP Dow Jones Indices LLC andor its affiliates Fair value provided by IndexArbcom Market holidays and trading hours provided by Copp Clark Limited
-Cable News Network A Warner Bros Discovery Company All Rights Reserved CNN Sans Cable News Network
+Most stock quote data provided by BATS
+US market indices are shown in real time except for the SP which is refreshed every two minutes
+Chicago Mercantile Certain market data is the property of Chicago Mercantile Exchange Inc
+Dow Jones The Dow Jones branded indices are proprietary to and are calculated distributed and marketed by DJI Opco a subsidiary of SP Dow Jones Indices LLC and have been licensed for use to SP Opco LLC and CNN
+Standard Poor’s and SP are registered trademarks of Standard Poor’s Financial Services LLC and Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC
+All content of the Dow Jones branded indices Copyright SP Dow Jones Indices LLC andor its affiliates
+Market holidays and trading hours provided by Copp Clark Limited

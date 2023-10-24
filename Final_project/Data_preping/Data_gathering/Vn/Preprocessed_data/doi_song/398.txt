@@ -1,7 +1,6 @@
-10 suy nghĩ không nên có ở người trưởng thành
+suy nghĩ không nên có ở người trưởng thành
 Theo chuyên gia tâm lý Lachlan Brown Mỹ một trong những bước quan trọng trong quá trình trưởng thành là thay đổi cách nghĩ về những điều đang cản trở bạn
-Nhà sáng lập của tờ HackSpirit chỉ ra có 10 tư duy sai lầm phổ biến mọi người nên từ bỏ càng sớm càng tốt
-Tôi là kẻ thất bại
+Nhà sáng lập của tờ HackSpirit chỉ ra có tư duy sai lầm phổ biến mọi người nên từ bỏ càng sớm càng tốt
 Thất bại trong một việc gì đó có thể khiến bạn cảm thấy tồi tệ đặc biệt là khi bạn đã cống hiến hết mình
 Nó có thể dẫn đến cảm giác rằng bạn là kẻ thất bại
 Tuy nhiên không nên để cảm giác đó kìm hãm bạn quá lâu
@@ -10,7 +9,6 @@ Tuy nhiên thay vì để cảm giác đó ngăn cản họ sử dụng nó như
 Họ học được từ những sai lầm của mình và tiếp tục thúc đẩy bản thân cho đến khi đạt được mục tiêu
 Thất bại không phải là ngõ cụt mà là một bài học
 Đó là cơ hội để trưởng thành học hỏi và trở lại mạnh mẽ hơn
-Tôi không đủ tốt/giỏi
 Đời sống có những ngày thực sự khó khăn khi bạn đã cố gắng hết sức mà vẫn không đạt được điều mình muốn
 Điều này khiến bạn cảm thấy như không đủ tốt nhất là khi bạn so sánh với những người thành công
 Trên thực tế lối suy nghĩ này kìm hãm bạn khiến bạn ngại thử những điều mới
@@ -18,7 +16,7 @@ Sẽ tốt hơn nếu bạn bắt đầu tập trung vào bản thân
 Có thể bạn chưa ở nơi mình muốn nhưng bạn đang làm tốt hơn trước đây đó là điều đáng tự hào
 Thay vì cảm thấy mình chưa đủ tốt hãy xem mỗi thử thách là một cơ hội
 Hãy tin vào chính mình và đừng để bất cứ ai kể cả chính bạn nói với bạn rằng bạn không đủ tốt
-Tôi không có đủ thời gian/kinh nghiệm
+Tôi không có đủ thời giankinh nghiệm
 Ý tưởng phát triển bằng cách thử những điều mới hoặc chấp nhận thử thách có thể đáng sợ với tất cả mọi người
 Bạn có thể cảm thấy cần phải chuẩn bị đầy đủ để có được kết quả tốt nhất
 Tuy nhiên đôi khi chuẩn bị quá nhiều lại trở thành cái cớ để không bắt đầu
@@ -40,14 +38,13 @@ Bạn chỉ cần là phiên bản tốt nhất của chính mình trong lĩnh v
 Điều đó có nghĩa là tập trung vào những gì bạn giỏi khắc phục điểm yếu và thúc đẩy bản thân phát triển theo cách của riêng mình
 Thay vì so sánh bản thân với người khác hãy tập trung vào hành trình của bạn
 Đừng quên truyền cảm hứng cho bản thân để làm tốt hơn và đạt được những gì bạn muốn
-Tôi quá già/trẻ cho việc này
 Tuổi tác chỉ là một con số đặc biệt là khi trưởng thành
 Không bao giờ là quá muộn hoặc quá sớm để thử một điều gì đó mới và chứng kiến bản thân tiến bộ
 Đừng để nỗi sợ bạn còn quá trẻ hoặc quá già ngăn cản bạn nắm bắt cơ hội cho chính mình
 Lachlan Brown cho biết ở tuổi trung niên mẹ ông đeo đuổi đam mê làm bông tai thủ công sau đó mở rộng kinh doanh và đã thành công
 Ông nói Đừng để tuổi tác hay nỗi sợ hãi cản trở bạn
 Hãy nắm lấy những cơ hội trước mặt bạn
-Cái đó chỉ dành cho con trai/con gái
+Cái đó chỉ dành cho con traicon gái
 Đừng bao giờ để bất cứ ai nói với bạn rằng bạn không thể làm điều gì đó vì giới tính của mình
 Thời gian đã thay đổi và các quy tắc cũng vậy
 Các cô gái có thể nâng tạ các chàng trai có thể đeo đuổi đam mê make up múa ballet
@@ -74,5 +71,3 @@ Tôi không hiểu biết lĩnh vực này
 Nói Tôi không biết và để nguyên như vậy có thể là rào cản đối với sự phát triển của bạn
 Điều quan trọng là không chấp nhận sự thiếu hiểu biết của mình
 Bạn cần chủ động tìm hiểu khám phá đặt câu hỏi để có thể có thêm kiến thức
-Thùy Linh Theo Hackspirit
-

@@ -1,69 +1,81 @@
-In mathematics a first order partial differential equation is a partial differential equation that involves only first derivatives of the unknown function of n variables The equation takes the form
-Such equations arise in the construction of characteristic surfaces for hyperbolic partial differential equations in the calculus of variations in some geometrical problems and in simple models for gas dynamics whose solution involves the method of characteristics If a family of solutions
-of a single first order partial differential equation can be found then additional solutions may be obtained by forming envelopes of solutions in that family In a related procedure general solutions may be obtained by integrating families of ordinary differential equations
-The general solution to the first order partial differential equation is a solution which contains an arbitrary function But the solution to the first order partial differential equations with as many arbitrary constants as the number of independent variables is called the complete integral The following n parameter family of solutions
+In mathematics a first-order partial differential equation is a partial differential equation that involves only first derivatives of the unknown function of n variables
+Such equations arise in the construction of characteristic surfaces for hyperbolic partial differential equations in the calculus of variations in some geometrical problems and in simple models for gas dynamics whose solution involves the method of characteristics
+of a single first-order partial differential equation can be found then additional solutions may be obtained by forming envelopes of solutions in that family
+In a related procedure general solutions may be obtained by integrating families of ordinary differential equations
+The general solution to the first order partial differential equation is a solution which contains an arbitrary function
+But the solution to the first order partial differential equations with as many arbitrary constants as the number of independent variables is called the complete integral
 The below discussions on the type of integrals are based on the textbook A Treatise on Differential Equations Chaper IX th edition by Andrew Forsyth
-The solutions are described in relatively simple manner in two or three dimensions with which the key concepts are trivially extended to higher dimensions A general first order partial differential equation in three dimensions has the form
+The solutions are described in relatively simple manner in two or three dimensions with which the key concepts are trivially extended to higher dimensions
+A general first-order partial differential equation in three dimensions has the form
 be the complete integral that contains three arbitrary constants
 From this we can obtain three relations by differentiation
 the above three relations can be used to eliminate three constants and obtain an equation original partial differential equation relating
 Note that the elimination of constants leading to the partial differential equation need not be unique ie two different equations can result in the same complete integral for example elimination of constants from the relation
-Once a complete integral is found a general solution can be constructed from it The general integral is obtained by making the constants functions of the coordinates ie
+Once a complete integral is found a general solution can be constructed from it
+The general integral is obtained by making the constants functions of the coordinates ie
 These functions are chosen such that the forms of
-are unaltered so that the elimination process from complete integral can be utilized Differentiation of the complete integral now provides
-displaystyle phi x+pphi u= axphi a+bxphi b+cxphi c
-displaystyle phi y+qphi u= ayphi a+byphi b+cyphi c
-displaystyle phi z+rphi u= azphi a+bzphi b+czphi c
-in which we require the right hand side terms of all the three equations to vanish identically so that elimination of
-results in the partial differential equation This requirement can be written more compactly by writing it as
+are unaltered so that the elimination process from complete integral can be utilized
+Differentiation of the complete integral now provides
+displaystyle phi x+pphi u=-axphi a+bxphi b+cxphi c
+displaystyle phi y+qphi u=-ayphi a+byphi b+cyphi c
+displaystyle phi z+rphi u=-azphi a+bzphi b+czphi c
+in which we require the right-hand side terms of all the three equations to vanish identically so that elimination of
+This requirement can be written more compactly by writing it as
 displaystyle Jphi a=quad Jphi b=quad Jphi c=
 then there exists a functional relation between
-because whenever a determinant is zero the columns or rows are not linearly independent Take this functional relation to be
-is found the problem is solved From the above relation we have
+because whenever a determinant is zero the columns or rows are not linearly independent
 from the two equations derived we obtain
 displaystyle phi a+phi cpsi ada+phi b+phi cpsi bdb=
 The above two equations can be used to solve
-we obtain the general integral Thus a general integral describes a relation between
-zero but this is not always needed The relations
+Thus a general integral describes a relation between
+zero but this is not always needed
 displaystyle phi a=quad phi b=quad phi c=
 The three equations can be used to solve the three unknowns
 this way leads to what are called singular integrals
-Usually most integrals fall into three categories defined above but it may happen that a solution does not fit into any of three types of integrals mentioned above These solutions are called special integrals A relation
+Usually most integrals fall into three categories defined above but it may happen that a solution does not fit into any of three types of integrals mentioned above
 that satisfies the partial differential equation is said to a special integral if we are unable to determine
 from the above set of equations then
 will turn out to be one of the three integrals described before
-The complete integral in two dimensional space can be written as
+The complete integral in two-dimensional space can be written as
 The general integral is obtained by eliminating
 displaystyle phi xyzapsi a=quad phi a+psi aphi b=
 The singular integral if it exists can be obtained by eliminating
 displaystyle phi xyzab=quad phi a=quad phi b=
-If a complete integral is not available solutions may still be obtained by solving a system of ordinary equations To obtain this system first note that the PDE determines a cone analogous to the light cone at each point if the PDE is linear in the derivatives of u it is quasi linear then the cone degenerates into a line In the general case the pairs pq that satisfy the equation determine a family of planes at a given point
-The envelope of these planes is a cone or a line if the PDE is quasi linear The condition for an envelope is
-and dp and dq are increments of p and q that satisfy F= Hence the generator of the cone is a line with direction
+If a complete integral is not available solutions may still be obtained by solving a system of ordinary equations
+To obtain this system first note that the PDE determines a cone analogous to the light cone at each point if the PDE is linear in the derivatives of u it is quasi-linear then the cone degenerates into a line
+In the general case the pairs pq that satisfy the equation determine a family of planes at a given point
+The envelope of these planes is a cone or a line if the PDE is quasi-linear
+and dp and dq are increments of p and q that satisfy F=
+Hence the generator of the cone is a line with direction
 This direction corresponds to the light rays for the wave equation
-To integrate differential equations along these directions we require increments for p and q along the ray This can be obtained by differentiating the PDE
+To integrate differential equations along these directions we require increments for p and q along the ray
+This can be obtained by differentiating the PDE
 The integration of these equations leads to a ray conoid at each point
 General solutions of the PDE can then be obtained from envelopes of such conoids
-An equivalent description is given Two definitions of linear dependence are given for first order linear partial differential equations
+Two definitions of linear dependence are given for first-order linear partial differential equations
 displaystyle leftbeginarraycsum limits ijaijdfrac partial yjpartial xi+f=vdots sum limits ijaijndfrac partial yjpartial xi+fn=endarrayright
 textstyle Zkequiv sum ijaijkfrac partial yjpartial xi+fk
 textstyle sum kckZk+sum kldklfrac partial partial xlZk=
 the Eqs are thought as differential linear dependent
 this definition degenerates into the definition I
-The div curl systems Maxwell's equations Einstein's equations with four harmonic coordinates and
-Yang Mills equations with gauge conditions are well determined in definition II whereas are over determined in definition I
+The div-curl systems Maxwell's equations Einstein's equations with four harmonic coordinates and
+Yang-Mills equations with gauge conditions are well-determined in definition II whereas are over-determined in definition I
 Characteristic surfaces for the wave equation are level surfaces for solutions of the equation
 There is little loss of generality if we set
 A family of solutions with planes as level surfaces is given by
-displaystyle uvec x=vec pcdot vec x vec x
+displaystyle uvec x=vec pcdot vec x-vec x
 displaystyle vec p=frac cquad textandquad vec xquad textis arbitrary
-If x and x are held fixed the envelope of these solutions is obtained by finding a point on the sphere of radius c where the value of u is stationary This is true if
-displaystyle uvec x=pm frac cvec x vec x
-These solutions correspond to spheres whose radius grows or shrinks with velocity c These are light cones in space time
-The initial value problem for this equation consists in specifying a level surface S where u= for t= The solution is obtained by taking the envelope of all the spheres with centers on S whose radii grow with velocity c This envelope is obtained by requiring that
-displaystyle frac cvec x vec xquad hboxis stationary forquad vec xin S
-is normal to S Thus the envelope corresponds to motion with velocity c along each normal to S This is the Huygens' construction of wave fronts each point on S emits a spherical wave at time t= and the wave front at a later time t is the envelope of these spherical waves The normals to S are the light rays
-Evans L C Partial Differential Equations Providence American Mathematical Society ISBN
-Polyanin A D Zaitsev V F Moussiaux A Handbook of First Order Partial Differential Equations London Taylor Francis ISBN X
-Polyanin A D Handbook of Linear Partial Differential Equations for Engineers and Scientists Boca Raton Chapman HallCRC Press ISBN
-Sarra Scott The Method of Characteristics with applications to Conservation Laws Journal of Online Mathematics and Its Applications
+If x and x are held fixed the envelope of these solutions is obtained by finding a point on the sphere of radius c where the value of u is stationary
+displaystyle uvec x=pm frac cvec x-vec x
+These solutions correspond to spheres whose radius grows or shrinks with velocity c
+The initial value problem for this equation consists in specifying a level surface S where u= for t=
+The solution is obtained by taking the envelope of all the spheres with centers on S whose radii grow with velocity c
+This envelope is obtained by requiring that
+displaystyle frac cvec x-vec xquad hboxis stationary forquad vec xin S
+Thus the envelope corresponds to motion with velocity c along each normal to S
+This is the Huygens' construction of wave fronts each point on S emits a spherical wave at time t= and the wave front at a later time t is the envelope of these spherical waves
+The normals to S are the light rays
+Handbook of First Order Partial Differential Equations
+Handbook of Linear Partial Differential Equations for Engineers and Scientists
+The Method of Characteristics with applications to Conservation Laws
+Journal of Online Mathematics and Its Applications

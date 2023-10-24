@@ -1,6 +1,17 @@
-On Spirals Greek Περὶ ἑλίκων is a treatise by Archimedes written around BC Notably Archimedes employed the Archimedean spiral in this book to square the circle and trisect an angle
-Archimedes begins On Spirals with a message to Dositheus of Pelusium mentioning the death of Conon as a loss to mathematics He then goes on to summarize the results of On the Sphere and Cylinder Περὶ σφαίρας καὶ κυλίνδρου and On Conoids and Spheroids Περὶ κωνοειδέων καὶ σφαιροειδέων He continues to state his results of On Spirals
-The Archimedean spiral was first studied by Conon and was later studied by Archimedes in On Spirals Archimedes was able to find various tangents to the spiral He defines the spiral as
+On Spirals Greek Περὶ ἑλίκων is a treatise by Archimedes written around BC
+Notably Archimedes employed the Archimedean spiral in this book to square the circle and trisect an angle
+Archimedes begins On Spirals with a message to Dositheus of Pelusium mentioning the death of Conon as a loss to mathematics
+He then goes on to summarize the results of On the Sphere and Cylinder Περὶ σφαίρας καὶ κυλίνδρου and On Conoids and Spheroids Περὶ κωνοειδέων καὶ σφαιροειδέων
+He continues to state his results of On Spirals
+The Archimedean spiral was first studied by Conon and was later studied by Archimedes in On Spirals
+Archimedes was able to find various tangents to the spiral
 The construction as to how Archimedes trisected the angle is as follows
-Suppose the angle ABC is to be trisected Trisect the segment BC and find BD to be one third of BC Draw a circle with center B and radius BD Suppose the circle with center B intersects the spiral at point E Angle ABE is one third angle ABCTo square the circle Archimedes gave the following construction
-Let P be the point on the spiral when it has completed one turn Let the tangent at P cut the line perpendicular to OP at T OT is the length of the circumference of the circle with radius OPArchimedes had already proved as the first proposition of Measurement of a Circle that the area of a circle is equal to a right angled triangle having the legs' lengths equal to the radius of the circle and the circumference of the circle So the area of the circle with radius OP is equal to the area of the triangle OPT
+Suppose the angle ABC is to be trisected
+Trisect the segment BC and find BD to be one third of BC
+Draw a circle with center B and radius BD
+Suppose the circle with center B intersects the spiral at point E
+Angle ABE is one third angle ABCTo square the circle Archimedes gave the following construction
+Let P be the point on the spiral when it has completed one turn
+Let the tangent at P cut the line perpendicular to OP at T
+OT is the length of the circumference of the circle with radius OPArchimedes had already proved as the first proposition of Measurement of a Circle that the area of a circle is equal to a right-angled triangle having the legs' lengths equal to the radius of the circle and the circumference of the circle
+So the area of the circle with radius OP is equal to the area of the triangle OPT

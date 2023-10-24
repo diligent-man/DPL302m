@@ -1,10 +1,12 @@
-In the mathematical theory of functional analysis the Krein Milman theorem is a proposition about compact convex sets in locally convex topological vector spaces TVSs
-This theorem generalizes to infinite dimensional spaces and to arbitrary compact convex sets the following basic observation a convex ie filled triangle including its perimeter and the area inside of it is equal to the convex hull of its three vertices where these vertices are exactly the extreme points of this shape
+In the mathematical theory of functional analysis the KreinMilman theorem is a proposition about compact convex sets in locally convex topological vector spaces TVSs
+This theorem generalizes to infinite-dimensional spaces and to arbitrary compact convex sets the following basic observation a convex ie
+filled triangle including its perimeter and the area inside of it is equal to the convex hull of its three vertices where these vertices are exactly the extreme points of this shape
 This observation also holds for any other convex polygon in the plane
 will be a real or complex vector space
 is called the closed line segment or closed interval between
 The open line segment or open interval between
-are called the endpoints of these interval An interval is said to be non degenerate or proper if its endpoints are distinct
+are called the endpoints of these interval
+An interval is said to be non-degenerate or proper if its endpoints are distinct
 is the same as its usual definition as a closed interval
 if it does not lie between any two distinct points of
 That is if there does not exist
@@ -13,7 +15,7 @@ For example the vertices of any convex polygon in the plane
 are the extreme points of that polygon
 The extreme points of the closed unit disk in
 Every open interval and degenerate closed interval in
-has no extreme points while the extreme points of a non degenerate closed interval
+has no extreme points while the extreme points of a non-degenerate closed interval
 is called convex if for any two points
 The closed convex hull of a set
 is the smallest closed and convex set containing
@@ -25,52 +27,44 @@ while the left hand side is notation
 For example the convex hull of any set of three distinct points forms either a closed line segment if they are collinear or else a solid that is filled triangle including its perimeter
 the unit circle is not convex but the closed unit disk is convex and furthermore this disk is equal to the convex hull of the circle
 In the case where the compact set
-is also convex the above theorem has as a corollary the first part of the next theorem which is also often called the Krein Milman theorem
+is also convex the above theorem has as a corollary the first part of the next theorem which is also often called the KreinMilman theorem
 The convex hull of the extreme points of
 so the main burden of the proof is to show that there are enough extreme points so that their convex hull covers all of
-For this reason the following corollary to the above theorem is also often called the Krein Milman theorem
+For this reason the following corollary to the above theorem is also often called the KreinMilman theorem
 To visualized this theorem and its conclusion consider the particular case where
 In this case the corners of the polygon which are its extreme points are all that is needed to recover the polygon shape
 The statement of the theorem is false if the polygon is not convex as then there are many ways of drawing a polygon having given points as corners
 be compact can be weakened to give the following strengthened version of the theorem
 The property above is sometimes called quasicompactness or convex compactness
-Compactness implies convex compactness because a topological space is compact if and only if every family of closed subsets having the finite intersection property FIP has non empty intersection that is its kernel is not empty
+Compactness implies convex compactness because a topological space is compact if and only if every family of closed subsets having the finite intersection property FIP has non-empty intersection that is its kernel is not empty
 The definition of convex compactness is similar to this characterization of compact spaces in terms of the FIP except that it only involves those closed subsets that are also convex rather than all closed subsets
-The assumption of local convexity for the ambient space is necessary because James Roberts constructed a counter example for the non locally convex space
-Linearity is also needed because the statement fails for weakly compact convex sets in CAT spaces as proved by Nicolas Monod However Theo Buehler proved that the Krein Milman theorem does hold for metrically compact CAT spaces
-This result is known as Milman's partial converse to the Krein Milman theorem
-The Choquet Bishop de Leeuw theorem states that every point in
+The assumption of local convexity for the ambient space is necessary because James Roberts constructed a counter-example for the non-locally convex space
+Linearity is also needed because the statement fails for weakly compact convex sets in CAT spaces as proved by Nicolas Monod
+However Theo Buehler proved that the KreinMilman theorem does hold for metrically compact CAT spaces
+This result is known as Milman's partial converse to the KreinMilman theorem
+The ChoquetBishopde Leeuw theorem states that every point in
 is the barycenter of a probability measure supported on the set of extreme points of
-Under the Zermelo Fraenkel set theory ZF axiomatic framework the axiom of choice AC suffices to prove all version of the Krein Milman theorem given above including statement KM and its generalization SKM
-The axiom of choice also implies but is not equivalent to the Boolean prime ideal theorem BPI which is equivalent to the Banach Alaoglu theorem
-Conversely the Krein Milman theorem KM together with the Boolean prime ideal theorem BPI imply the axiom of choice
+Under the ZermeloFraenkel set theory ZF axiomatic framework the axiom of choice AC suffices to prove all version of the KreinMilman theorem given above including statement KM and its generalization SKM
+The axiom of choice also implies but is not equivalent to the Boolean prime ideal theorem BPI which is equivalent to the BanachAlaoglu theorem
+Conversely the KreinMilman theorem KM together with the Boolean prime ideal theorem BPI imply the axiom of choice
 In summary AC holds if and only if both KM and BPI hold
 It follows that under ZF the axiom of choice is equivalent to the following statement
-The closed unit ball of the continuous dual space of any real normed space has an extreme pointFurthermore SKM together with the Hahn Banach theorem for real vector spaces HB are also equivalent to the axiom of choice It is known that BPI implies HB but that it is not equivalent to it said differently BPI is strictly stronger than HB
+The closed unit ball of the continuous dual space of any real normed space has an extreme pointFurthermore SKM together with the HahnBanach theorem for real vector spaces HB are also equivalent to the axiom of choice
+It is known that BPI implies HB but that it is not equivalent to it said differently BPI is strictly stronger than HB
 The original statement proved by Mark Krein and David Milman was somewhat less general than the form stated here
-equals the convex hull of the set of its extreme points This assertion was expanded to the case of any finite dimension by Ernst Steinitz
-The Krein Milman theorem generalizes this to arbitrary locally convex
+equals the convex hull of the set of its extreme points
+This assertion was expanded to the case of any finite dimension by Ernst Steinitz
+The KreinMilman theorem generalizes this to arbitrary locally convex
 however to generalize from finite to infinite dimensional spaces it is necessary to use the closure
-Banach Alaoglu theorem Closed ball in the dual space is weak compact
-Carathéodory's theorem convex hull Point in the convex hull of a set P in Rd is the convex combination of d+ points in P
-Helly's theorem Theorem about the intersections of d dimensional convex sets
+BanachAlaoglu theorem Closed ball in the dual space is weak compact
+Carathodory's theorem convex hull Point in the convex hull of a set P in Rd is the convex combination of d+ points in P
+Helly's theorem Theorem about the intersections of d-dimensional convex sets
 Radon's theorem Says d+ points in d dimensions can be partitioned into two subsets whose convex hulls intersect
-Shapley Folkman lemma Sums of sets of vectors are nearly convex
-Topological vector space Vector space with a notion of nearnessAdasch Norbert Ernst Bruno Keim Dieter Topological Vector Spaces The Theory Without Convexity Conditions Lecture Notes in Mathematics Vol Berlin New York Springer Verlag ISBN OCLC
-Bourbaki Nicolas Topological Vector Spaces Chapters Éléments de mathématique Translated by Eggleston HG Madan S Berlin New York Springer Verlag ISBN OCLC
-Paul E Black ed extreme point Dictionary of algorithms and data structures US National institute of standards and technology Retrieved
-Borowski Ephraim J Borwein Jonathan M extreme point Dictionary of mathematics Collins dictionary Harper Collins ISBN
-Grothendieck Alexander Topological Vector Spaces Translated by Chaljub Orlando New York Gordon and Breach Science Publishers ISBN OCLC
-Jarchow Hans Locally convex spaces Stuttgart BG Teubner ISBN OCLC
-Kelley John L Namioka Isaac Linear Topological Spaces Graduate Texts in Mathematics Vol Berlin Heidelberg Springer Verlag ISBN OCLC
-Köthe Gottfried Topological Vector Spaces I Grundlehren der mathematischen Wissenschaften Vol Translated by Garling DJH New York Springer Science Business Media ISBN MR OCLC
-Köthe Gottfried Topological Vector Spaces II Grundlehren der mathematischen Wissenschaften Vol New York Springer Science Business Media ISBN OCLC
-Narici Lawrence Beckenstein Edward Topological Vector Spaces Pure and applied mathematics Second ed Boca Raton FL CRC Press ISBN OCLC
-N K Nikol'skij Ed Functional Analysis I Springer Verlag
-Robertson Alex P Robertson Wendy J Topological Vector Spaces Cambridge Tracts in Mathematics Vol Cambridge England Cambridge University Press ISBN OCLC
-H L Royden Real Analysis Prentice Hall Englewood Cliffs New Jersey
-Rudin Walter Functional Analysis International Series in Pure and Applied Mathematics Vol Second ed New York NY McGraw Hill ScienceEngineeringMath ISBN OCLC
-Schaefer Helmut H Wolff Manfred P Topological Vector Spaces GTM Vol Second ed New York NY Springer New York Imprint Springer ISBN OCLC
-Schechter Eric Handbook of Analysis and Its Foundations San Diego CA Academic Press ISBN OCLC
-Trèves François Topological Vector Spaces Distributions and Kernels Mineola NY Dover Publications ISBN OCLC
-Wilansky Albert Modern Methods in Topological Vector Spaces Mineola New York Dover Publications Inc ISBN OCLC This article incorporates material from Krein Milman theorem on PlanetMath which is licensed under the Creative Commons AttributionShare Alike License
+ShapleyFolkman lemma Sums of sets of vectors are nearly convex
+Topological vector space Vector space with a notion of nearnessAdasch Norbert Ernst Bruno Keim Dieter
+Topological Vector Spaces The Theory Without Convexity Conditions
+US National institute of standards and technology
+New York Gordon and Breach Science Publishers
+International Series in Pure and Applied Mathematics
+New York NY Springer New York Imprint Springer
+OCLC This article incorporates material from KreinMilman theorem on PlanetMath which is licensed under the Creative Commons AttributionShare-Alike License

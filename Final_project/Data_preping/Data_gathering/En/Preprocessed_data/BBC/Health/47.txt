@@ -1,27 +1,35 @@
-Editor’s Note Sign up for CNN’s Wonder Theory science newsletter Explore the universe with news on fascinating discoveries scientific advancements and more
-Two pioneering scientists who created the technology behind life saving Covid vaccines have won the Nobel Prize in medicine or physiology
-Dr Katalin Karikó and Dr Drew Weissman both of the University of Pennsylvania achieved their breakthrough by harnessing the power of genetic material known as messenger RNA or mRNA
+Editor’s Note Sign up for CNN’s Wonder Theory science newsletter
+Explore the universe with news on fascinating discoveries scientific advancements and more
+Two pioneering scientists who created the technology behind life-saving Covid- vaccines have won the Nobel Prize in medicine or physiology
+Drew Weissman both of the University of Pennsylvania achieved their breakthrough by harnessing the power of genetic material known as messenger RNA or mRNA
 Their discoveries have opened up a new chapter in medicine paving the way for new vaccines for other infectious diseases including the flu and treatments for noninfectious diseases such as cancer
-Here are five things to know about Karikó and Weissman’s game changing research and mRNA vaccines
+Here are five things to know about Karik and Weissman’s game-changing research and mRNA vaccines
 Messenger RNA or mRNA is a form of nucleic acid that tells cells what to do based on the information contained in DNA
-Unlike DNA which acts as an instruction manual for life contained in every cell mRNA is a temporary piece of genetic code that can create a protein or repair damage Researchers often use a cookbook analogy DNA is a thick recipe book while RNA is the handwritten copy of an individual recipe that gets scrunched up and thrown away after use
+Unlike DNA which acts as an instruction manual for life contained in every cell mRNA is a temporary piece of genetic code that can create a protein or repair damage
+DNA is a thick recipe book while RNA is the handwritten copy of an individual recipe that gets scrunched up and thrown away after use
 Scientists have long known about about mRNA but it was previously thought to be too unstable to have value as a therapeutic tool
-Karikó and Weissman’s key breakthrough was in finding a way to alter the building blocks of RNA called nucleotides in order to make our bodies produce an immune response
-Robin Shattock a professor of mucosal infection and immunity at Imperial College London said the pair’s seminal work in understanding how to configure RNA was critical to the success of the highly effective mRNA vaccine against Covid
+Karik and Weissman’s key breakthrough was in finding a way to alter the building blocks of RNA called nucleotides in order to make our bodies produce an immune response
+Robin Shattock a professor of mucosal infection and immunity at Imperial College London said the pair’s seminal work in understanding how to configure RNA was critical to the success of the highly effective mRNA vaccine against Covid-
 Their fundamental work in using modified nucleotides the building blocks of RNA to avoid activation of the innate immune system will be key to the successful use of future RNA vaccines and new RNA based medicines Shattock said
-Many vaccines use weakened or dead versions of the viruses they’re targeting — not enough to make a person sick but an amount that will make the immune system respond so the body will produce antibodies if it encounters the real virus These are called vector vaccines
+Many vaccines use weakened or dead versions of the viruses they’re targeting — not enough to make a person sick but an amount that will make the immune system respond so the body will produce antibodies if it encounters the real virus
 Experimental mRNA cancer vaccine with immunotherapy reduces risk of melanoma returning preliminary study finds
 Another related technique — employed in protein subunit vaccines — uses purified pieces of a virus in order to trigger an immune response
 However development of those types of vaccines can be lengthy and it can be difficult to modify them quickly
-Messenger RNA based vaccine technology doesn’t rely on a modified version of a virus to produce an immune response It uses modified mRNA to tell the body’s cells to produce proteins that train the immune system to defend the body against a particular disease
+Messenger RNA-based vaccine technology doesn’t rely on a modified version of a virus to produce an immune response
+It uses modified mRNA to tell the body’s cells to produce proteins that train the immune system to defend the body against a particular disease
 Scientist reveals how she celebrated successful vaccine trials
-Karikó’s fascination with the therapeutic potential of mRNA started while she was in grad school in Hungary and never wavered despite multiple setbacks job losses doubt and a transatlantic move Her conviction that it could be used to fight disease drew skepticism and the grants she applied for were often rejected
-Karikó now an adjunct professor of neurosurgery at Penn’s Perelman School of Medicine met Weissman by chance in The Nobel committee said Weissman’s background in immunology and Karikó’s expertise in RNA biochemistry meant the two scientists complemented each other well
+Karik’s fascination with the therapeutic potential of mRNA started while she was in grad school in Hungary and never wavered despite multiple setbacks job losses doubt and a transatlantic move
+Her conviction that it could be used to fight disease drew skepticism and the grants she applied for were often rejected
+Karik now an adjunct professor of neurosurgery at Penn’s Perelman School of Medicine met Weissman by chance in
+The Nobel committee said Weissman’s background in immunology and Karik’s expertise in RNA biochemistry meant the two scientists complemented each other well
 I think the important thing is that we couldn’t have come to the result without both of us being involved said Weissman the Roberts Family Professor of Vaccine Research at Perelman School of Medicine in a video shared Monday by the University of Pennsylvania
-Their groundbreaking study was published in years before the Covid pandemic began
-Thomas Perlmann secretary general of the Nobel Assembly for medicine said that back then there were many roadblocks to overcome before they could use the technology in vaccine form Those obstacles included manufacturing mRNA in large quantities and refining a delivery method for mRNA into cells However he said their seminal work meant that mRNA based Covid vaccines got off to a flying start when the pandemic came along
-The advent of mRNA vaccine technology has led to safe and strong protection against Covid But proponents say this is just the beginning
+Their groundbreaking study was published in years before the Covid- pandemic began
+Thomas Perlmann secretary general of the Nobel Assembly for medicine said that back then there were many roadblocks to overcome before they could use the technology in vaccine form
+Those obstacles included manufacturing mRNA in large quantities and refining a delivery method for mRNA into cells
+However he said their seminal work meant that mRNA-based Covid vaccines got off to a flying start when the pandemic came along
+The advent of mRNA vaccine technology has led to safe and strong protection against Covid-
+But proponents say this is just the beginning
 Opinion Thought mRNA vaccines would end with the pandemic Think again
 Early studies suggest mRNA technology shows promise as a treatment for cancers including melanoma and pancreatic cancer and it’s being studied for use in vaccines for seasonal flu respiratory syncytial virus RSV and HIV
-Other avenues of ongoing mRNA research include exploring a new avenue to treat autoimmune diseases And mRNA technology is also being checked out as a possible alternative to gene therapy for intractable conditions such as sickle cell disease
-Cable News Network A Warner Bros Discovery Company All Rights Reserved CNN Sans Cable News Network
+Other avenues of ongoing mRNA research include exploring a new avenue to treat autoimmune diseases
+And mRNA technology is also being checked out as a possible alternative to gene therapy for intractable conditions such as sickle cell disease

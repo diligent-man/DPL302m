@@ -1,100 +1,244 @@
-Fuzhou fuːˈdʒoʊ Chinese pinyin Fúzhōu Fuzhounese Hokchew Hók ciŭ alternately romanized as Foochow is the capital and one of the largest cities in Fujian province China Along with the many counties of Ningde those of Fuzhou are considered to constitute the Mindong lit Eastern Fujian linguistic and cultural area
-Fuzhou lies on the north left bank of the estuary of Fujian's largest river the Min River All along its northern border lies Ningde and Ningde's Gutian County lies upriver Its population was inhabitants as of the census of whom inhabitants are urban representing around while rural population is at representing around As of December the total population was estimated at whom lived in the built up or metro area made of urban districts plus Minhou County
+Fuzhou fuːˈdʒoʊ Chinese pinyin Fzhōu Fuzhounese Hokchew Hk-ciŭ alternately romanized as Foochow is the capital and one of the largest cities in Fujian province China
+Along with the many counties of Ningde those of Fuzhou are considered to constitute the Mindong lit
+Fuzhou lies on the north left bank of the estuary of Fujian's largest river the Min River
+All along its northern border lies Ningde and Ningde's Gutian County lies upriver
+Its population was inhabitants as of the census of whom inhabitants are urban representing around while rural population is at representing around
+As of December the total population was estimated at whom lived in the built-up or metro area made of urban districts plus Minhou County
 In Fuzhou was ranked as the th fastest growing metropolitan area in the world by Brookings Institution
-Fuzhou is listed as No in China
 Integrated City Index 's total ranking a study conducted by National Development and Reform Commission
-Fuzhou is also a major city for scientific research appearing in the global top cities as tracked by the Nature Index The city is home to several major universities notably Fuzhou University one of China's key universities and other public universities including Fujian Normal University and Fujian Agriculture and Forestry University
-Fuzhou in Chinese is yǒufúzhīzhōu meaning a city with good luck The Yuanhe Maps and Records of Prefectures and Counties a Chinese geographical treatise published in the th century says that Fuzhou's name came from Mount Futo a mountain northwest of the city The mountain's name was then combined with zhou meaning settlement or prefecture in a manner similar to many other Chinese cities During the Warring States period the area of Fuzhou was sometimes referred to as Ye Chinese and Fuzhou was incorporated into China proper during Qin dynasty The city's name was changed numerous times between the rd and th centuries before finally settling on Fuzhou in In Chinese the city is sometimes referred to by the poetic nickname Rongcheng Chinese Foochow Romanized Ùng siàng lit 'The Banyan City'
-In older English publications the name is variously romanized as Foochow Foo Chow Fuchow Fūtsu Fuh Chow Hock Chew and Hokchew
-The remains of two Neolithic cultures—the Huqiutou Culture from around BC and the Tanshishan Culture from around BC—have been discovered and excavated in the Fuzhou area During the Warring States period c BC Chinese began referring to the modern Fujian area as Min Yue suggesting that the native inhabitants of the area were a branch of the Yue peoples a diverse population of non Chinese tribes who once inhabited most of southern China In BC the Yue Kingdom present day Zhejiang fell to the state of Chu Han Dynasty historian Sima Qian wrote that the surviving members of the Yue royal family fled south to what is now Fujian where they settled alongside the native Yue people joining Chinese and Yue culture to create Minyue Their major centre was not at Fuzhou's modern location but further up the Min watershed near Wuyishan City
-The First Emperor of Qin unified ancient China in BC and desired to bring the southern and southeast regions under Chinese rule The Qin dynasty organized its territory into Commanderies Chinese pinyin jùn—roughly equivalent to a province or prefecture—and the Fujian area was organized as Minzhong Commandery The area seems to have continued mostly independent of Chinese control for the next century The Han dynasty followed the short lived Qin and Emperor Gaozu of Han declared both Minyue and neighboring Nanyue to be autonomous vassal kingdoms In BC Emperor Gaozu enfeoffed a leader named Wuzhu Old Chinese Matya as King of Minyue and a walled city called Ye Old Chinese Lya literally Beautiful was built The founding of Ye in BC has become the traditional founding date of the city of Fuzhou
-In BC the armies of Emperor Wu of Han defeated the Minyue kingdom's armies during the Han Minyue War and annexed its territory and people into China Many Minyue citizens were forcibly relocated into the Jianghuai area and the Yue ethnic group was mostly assimilated into the Chinese causing a sharp decline in Ye's inhabitants The area was eventually re organized as a county in BC
-During the Three Kingdoms Period southeast China was nominally under the control of Eastern Wu and the Fuzhou area had a shipyard for the coastal and Yangtze River fleets In during the Jin dynasty two artificial lakes known simply as the East Lake and West Lake were constructed in Ye as well as a canal system The core of modern Fuzhou grew around these three water systems though the East and West Lakes no longer exist In during the War of the Eight Princes at the end of the Jin dynasty the first large scale migration of Chinese immigrants moved to the south and southeast of China began followed by subsequent waves during later periods of warfare or natural disaster in the Chinese heartland The administrative and economic center of the Fujian area began to change to the Ye area during the Sui dynasty
-In the city was formally renamed Fuzhou Throughout the mid Tang dynasty Fuzhou's economic and cultural institutions grew and developed The later years of the Tang saw a number of political upheavals in the Chinese heartland such as the An Lushan Rebellion and Huang Chao Rebellion prompting another wave of northerners to immigrate to the modern day Northern Min and Eastern Min areas In a large part of the city was captured by the army of Huang Chao during their rebellion against the Tang government In the warlord brothers Wang Chao and Wang Shenzhi captured Fuzhou in a rebellion against the Tang dynasty successfully gaining control of the entire Fujian Province and eventually proclaiming their founding of an independent kingdom they called the Min Kingdom in The Wang brothers enticed more immigrants from the north though their kingdom only survived until In Fuzhou was incorporated into the newly founded Song dynasty though their control of the mountainous regions was tenuous
-Fuzhou prospered during the Tang dynasty Buddhism was quickly adopted by citizens who quickly built many Buddhist temples in the area
+Fuzhou is also a major city for scientific research appearing in the global top cities as tracked by the Nature Index
+The city is home to several major universities notably Fuzhou University one of China's key universities and other public universities including Fujian Normal University and Fujian Agriculture and Forestry University
+Fuzhou in Chinese is yǒufzhīzhōu meaning a city with good luck
+The Yuanhe Maps and Records of Prefectures and Counties a Chinese geographical treatise published in the th century says that Fuzhou's name came from Mount Futo a mountain northwest of the city
+The mountain's name was then combined with -zhou meaning settlement or prefecture in a manner similar to many other Chinese cities
+During the Warring States period the area of Fuzhou was sometimes referred to as Ye Chinese and Fuzhou was incorporated into China proper during Qin dynasty
+The city's name was changed numerous times between the rd and th centuries before finally settling on Fuzhou in
+In Chinese the city is sometimes referred to by the poetic nickname Rongcheng Chinese Foochow Romanized ̤ng-sing lit
+In older English publications the name is variously romanized as Foochow Foo-Chow Fuchow Fūtsu Fuh-Chow Hock Chew and Hokchew
+The remains of two Neolithic cultures—the Huqiutou Culture from around BC and the Tanshishan Culture from around BC—have been discovered and excavated in the Fuzhou area
+BC Chinese began referring to the modern Fujian area as Min Yue suggesting that the native inhabitants of the area were a branch of the Yue peoples a diverse population of non-Chinese tribes who once inhabited most of southern China
+In BC the Yue Kingdom present-day Zhejiang fell to the state of Chu
+Han Dynasty historian Sima Qian wrote that the surviving members of the Yue royal family fled south to what is now Fujian where they settled alongside the native Yue people joining Chinese and Yue culture to create Minyue
+Their major centre was not at Fuzhou's modern location but further up the Min watershed near Wuyishan City
+The First Emperor of Qin unified ancient China in BC and desired to bring the southern and southeast regions under Chinese rule
+The Qin dynasty organized its territory into Commanderies Chinese pinyin jn—roughly equivalent to a province or prefecture—and the Fujian area was organized as Minzhong Commandery
+The area seems to have continued mostly independent of Chinese control for the next century
+The Han dynasty followed the short-lived Qin and Emperor Gaozu of Han declared both Minyue and neighboring Nanyue to be autonomous vassal kingdoms
+In BC Emperor Gaozu enfeoffed a leader named Wuzhu Old Chinese Matya as King of Minyue and a walled city called Ye Old Chinese Lya literally Beautiful was built
+The founding of Ye in BC has become the traditional founding date of the city of Fuzhou
+In BC the armies of Emperor Wu of Han defeated the Minyue kingdom's armies during the HanMinyue War and annexed its territory and people into China
+Many Minyue citizens were forcibly relocated into the Jianghuai area and the Yue ethnic group was mostly assimilated into the Chinese causing a sharp decline in Ye's inhabitants
+The area was eventually re-organized as a county in BC
+During the Three Kingdoms Period southeast China was nominally under the control of Eastern Wu and the Fuzhou area had a shipyard for the coastal and Yangtze River fleets
+In during the Jin dynasty two artificial lakes known simply as the East Lake and West Lake were constructed in Ye as well as a canal system
+The core of modern Fuzhou grew around these three water systems though the East and West Lakes no longer exist
+In during the War of the Eight Princes at the end of the Jin dynasty the first large-scale migration of Chinese immigrants moved to the south and southeast of China began followed by subsequent waves during later periods of warfare or natural disaster in the Chinese heartland
+The administrative and economic center of the Fujian area began to change to the Ye area during the Sui dynasty
+In the city was formally renamed Fuzhou
+Throughout the mid-Tang dynasty Fuzhou's economic and cultural institutions grew and developed
+The later years of the Tang saw a number of political upheavals in the Chinese heartland such as the An Lushan Rebellion and Huang Chao Rebellion prompting another wave of northerners to immigrate to the modern-day Northern Min and Eastern Min areas
+In a large part of the city was captured by the army of Huang Chao during their rebellion against the Tang government
+In the warlord brothers Wang Chao and Wang Shenzhi captured Fuzhou in a rebellion against the Tang dynasty successfully gaining control of the entire Fujian Province and eventually proclaiming their founding of an independent kingdom they called the Min Kingdom in
+The Wang brothers enticed more immigrants from the north though their kingdom only survived until
+In Fuzhou was incorporated into the newly founded Song dynasty though their control of the mountainous regions was tenuous
+Buddhism was quickly adopted by citizens who quickly built many Buddhist temples in the area
 Fuzhou underwent a major dramatic surge in its refined culture and educational institutions throughout the Song Dynasty as Fuzhou produced Fuzhounese zhuangyuan scholars scholar who is ranked the top first place in the imperial examinations a large number for a small city in the country during that dynasty
-The Hualin Temple not to be confused with the temple of the same name in Guangzhou founded in is one of the oldest and surviving wooden structures in China New city walls were built in and so the city had many layers of walls more so than the Chinese capital Emperor Taizong of the Song dynasty ordered the destruction of all the walls in Fuzhou in but new walls were rebuilt later The latest was built in During the Southern Song dynasty Fuzhou became more prosperous many scholars came to live and work Among them were Zhu Xi the most celebrated Chinese philosopher after Confucius and Xin Qiji the greatest composer of the ci form of poetry
-Marco Polo an Italian guest of the Emperor Kubilai transcribed after the conventions of Italian orthography the place name as Fugiu This was not the local Min pronunciation but that of the mandarin administrative class
+The Hualin Temple not to be confused with the temple of the same name in Guangzhou founded in is one of the oldest and surviving wooden structures in China
+New city walls were built in and so the city had many layers of walls more so than the Chinese capital
+Emperor Taizong of the Song dynasty ordered the destruction of all the walls in Fuzhou in but new walls were rebuilt later
+During the Southern Song dynasty Fuzhou became more prosperous many scholars came to live and work
+Among them were Zhu Xi the most celebrated Chinese philosopher after Confucius and Xin Qiji the greatest composer of the ci form of poetry
+Marco Polo an Italian guest of the Emperor Kubilai transcribed after the conventions of Italian orthography the place name as Fugiu
+This was not the local Min pronunciation but that of the mandarin administrative class
 According to Odoric of Pordenone Fuzhou had the biggest chickens in the world
-Between and a fleet of the Ming Imperial navy under Admiral Zheng He sailed from Fuzhou to the Indian Ocean seven times on three occasions the fleet landed on the east coast of Africa Before the last sailing Zheng erected a stele dedicated to the goddess Tian Fei Matsu near the seaport
+Between and a fleet of the Ming Imperial navy under Admiral Zheng He sailed from Fuzhou to the Indian Ocean seven times on three occasions the fleet landed on the east coast of Africa
+Before the last sailing Zheng erected a stele dedicated to the goddess Tian-Fei Matsu near the seaport
 The Ming government gave a monopoly over Philippine trade to Fuzhou which at times was shared with Quanzhou
-Galeote Pereira a Portuguese soldier and trader was taken prisoner during the pirate extermination campaign of and imprisoned in Fuzhou Later transferred to a form of internal exile elsewhere in the province Pereira escaped to Langbaijiao in The record of his experiences in the Ming Empire logged by the Jesuits at Goa in was the first non clerical account of China to reach the West since Marco Polo
+Galeote Pereira a Portuguese soldier and trader was taken prisoner during the pirate extermination campaign of and imprisoned in Fuzhou
+Later transferred to a form of internal exile elsewhere in the province Pereira escaped to Langbaijiao in
+The record of his experiences in the Ming Empire logged by the Jesuits at Goa in was the first non-clerical account of China to reach the West since Marco Polo
 The Ryukyu Kingdom established an embassy in Fuzhou
-In Lin Zexu who himself was a Fuzhou native was appointed by the Daoguang Emperor to enforce the imperial ban on the opium trade in Canton His unsuccessful actions however precipitated the disastrous First Opium War with Great Britain and Lin who had become a scapegoat for China's failure in war was exiled to the northwestern section of the empire The Treaty of Nanjing which put an end to the conflict made Fuzhou then known to Westerners as Foochow one of five Chinese treaty ports and it became completely open to Western merchants and missionaries
-Fuzhou was one of the most important Protestant mission fields in China On January the first Protestant missionary Rev Stephen Johnson missionary from ABCFM entered the city and soon set up the first missionary station there ABCFM was followed by the Methodist Episcopal Missionary Society that was led by Revs M C White and J D Collins who reached Fuzhou in early September The Church Missionary Society also arrived in the city in May These three Protestant agencies remained in Fuzhou until the communist revolution in China in the s leaving a rich heritage in Fuzhou's Protestant culture They supported the creation of hospitals and schools including the Woolston Memorial Hospital run by the American trained Hü King Eng
-On August the Battle of Fuzhou broke out between the French Far East Fleet and the Fujian Fleet of the Qing dynasty As the result the Fujian Fleet one of the four Chinese regional fleets was destroyed completely in Mawei Harbor
-On November revolutionaries staged an uprising in Fuzhou After an overnight street battle the Qing army surrendered
-On November Eugene Chen and the leaders of the National Revolutionary Army's th Army set up the short lived People's Revolutionary Government of Republican China Blockaded by Chiang Kai shek and left without support from the nearby Soviet Republic of China the PRGRC collapsed within two months
-With the outbreak of the Sino Japanese War in hostilities commenced in Fujian Province Xiamen Amoy fell to a Japanese landing force on May The fall of Amoy instantly threatened the security of Fuzhou On May Japanese ships bombarded Mei Hua Huang chi and Pei Chiao while Japanese planes continued to harass the Chinese forces Between May and June Chinese gunboats Fu Ning Chen Ning and Suming defending the blockade line in the estuary of the Min River were successively bombed and sunk Meanwhile the Chinese ship Chu Tai berthed at Nan Tai was damaged The Chinese Navy's Harbor Command School barracks shipyard hospital and marine barracks at Ma Wei were successively bombed Fuzhou is recorded as having fallen to Japanese forces in
-The extent of Japanese command and control of the city of Fuzhou itself as opposed to the port at Mawei and the Min River Estuary is uncertain By the city is recorded as having returned to Nationalist control The British Consulate in Fuzhou is noted as operational from to after the United Kingdom Declaration of War on Japan in December Western visitors to Fuzhou in the period include the Australian journalist Wilfred Burchett in and the British scientist Joseph Needham in May Both visitors record the presence of a British Consul and a Fuzhou Club comprising western businessmen
-In The Man Who Loved China The Fantastic Story of the Eccentric Scientist Who Unlocked the Mysteries of the Middle Kingdom author Simon Winchester relates the visit of Dr Needham in Needham encountered the American government agent John Caldwell and the British SIS agent Murray MacLehose working undercover as the British Vice Consul in Fuzhou involved in aid to the Nationalist resistance to Japanese forces in Fujian Province
-As part of Operation Ichi Go the last large scale Japanese offensive in China in World War II the Japanese intended to isolate Fuzhou and the Fujian Province corridor to Nationalist forces in western China and the wartime capital of Chongqing One account of the Japanese re taking of Fuzhou city itself is narrated by American naval officer Houghton Freeman The date is given as October
+In Lin Zexu who himself was a Fuzhou native was appointed by the Daoguang Emperor to enforce the imperial ban on the opium trade in Canton
+His unsuccessful actions however precipitated the disastrous First Opium War with Great Britain and Lin who had become a scapegoat for China's failure in war was exiled to the northwestern section of the empire
+The Treaty of Nanjing which put an end to the conflict made Fuzhou then known to Westerners as Foochow one of five Chinese treaty ports and it became completely open to Western merchants and missionaries
+Fuzhou was one of the most important Protestant mission fields in China
+On January the first Protestant missionary Rev
+Stephen Johnson missionary from ABCFM entered the city and soon set up the first missionary station there
+ABCFM was followed by the Methodist Episcopal Missionary Society that was led by Revs
+Collins who reached Fuzhou in early September
+The Church Missionary Society also arrived in the city in May
+These three Protestant agencies remained in Fuzhou until the communist revolution in China in the s leaving a rich heritage in Fuzhou's Protestant culture
+They supported the creation of hospitals and schools including the Woolston Memorial Hospital run by the American-trained H King Eng
+On August the Battle of Fuzhou broke out between the French Far East Fleet and the Fujian Fleet of the Qing dynasty
+As the result the Fujian Fleet one of the four Chinese regional fleets was destroyed completely in Mawei Harbor
+On November revolutionaries staged an uprising in Fuzhou
+After an overnight street battle the Qing army surrendered
+On November Eugene Chen and the leaders of the National Revolutionary Army's th Army set up the short-lived People's Revolutionary Government of Republican China
+Blockaded by Chiang Kai-shek and left without support from the nearby Soviet Republic of China the PRGRC collapsed within two months
+With the outbreak of the Sino-Japanese War in hostilities commenced in Fujian Province
+Xiamen Amoy fell to a Japanese landing force on May
+The fall of Amoy instantly threatened the security of Fuzhou
+On May Japanese ships bombarded Mei-Hua Huang-chi and Pei-Chiao while Japanese planes continued to harass the Chinese forces
+Between May and June Chinese gunboats Fu-Ning Chen-Ning and Suming defending the blockade line in the estuary of the Min River were successively bombed and sunk
+Meanwhile the Chinese ship Chu-Tai berthed at Nan-Tai was damaged
+The Chinese Navy's Harbor Command School barracks shipyard hospital and marine barracks at Ma-Wei were successively bombed
+Fuzhou is recorded as having fallen to Japanese forces in
+The extent of Japanese command and control of the city of Fuzhou itself as opposed to the port at Mawei and the Min River Estuary is uncertain
+By the city is recorded as having returned to Nationalist control
+The British Consulate in Fuzhou is noted as operational from to after the United Kingdom Declaration of War on Japan in December
+Western visitors to Fuzhou in the period include the Australian journalist Wilfred Burchett in and the British scientist Joseph Needham in May
+Both visitors record the presence of a British Consul and a Fuzhou Club comprising western businessmen
+In The Man Who Loved China The Fantastic Story of the Eccentric Scientist Who Unlocked the Mysteries of the Middle Kingdom author Simon Winchester relates the visit of Dr Needham in
+Needham encountered the American government agent John Caldwell and the British SIS agent Murray MacLehose working undercover as the British Vice-Consul in Fuzhou involved in aid to the Nationalist resistance to Japanese forces in Fujian Province
+As part of Operation Ichi-Go the last large-scale Japanese offensive in China in World War II the Japanese intended to isolate Fuzhou and the Fujian Province corridor to Nationalist forces in western China and the wartime capital of Chongqing
+One account of the Japanese re-taking of Fuzhou city itself is narrated by American naval officer Houghton Freeman
 Fuzhou remained under Japanese control until the surrender of Japan and its armed forces in China in September
-Following the restoration of Republic control the administration divisions of Fuzhou were annexed and administration level was promoted from county level to city level officially
+Following the restoration of Republic control the administration divisions of Fuzhou were annexed and administration level was promoted from county-level to city-level officially
 Fuzhou was occupied by the People's Liberation Army with little resistance on August
-In the s the city was on the front line of the conflict with the KMT in Taiwan as hostile KMT aircraft frequently bombed the city The bombing on January was the most serious one killing hundreds of people
-Fuzhou was also involved in violent mass chaos during the Cultural revolution Different groups of Red Guards fought with each other using guns on the streets of the city and even attacking the People's Liberation Army
-Under the reform and opening policy since the late s Fuzhou has developed rapidly In Fuzhou became the first city in China where the stored program control was introduced which marked a milestone in the history of telecommunications in China In Fuzhou was chosen as one of the first branches of Open Coastal Cities by the Central Government
+In the s the city was on the front line of the conflict with the KMT in Taiwan as hostile KMT aircraft frequently bombed the city
+The bombing on January was the most serious one killing hundreds of people
+Fuzhou was also involved in violent mass chaos during the Cultural revolution
+Different groups of Red Guards fought with each other using guns on the streets of the city and even attacking the People's Liberation Army
+Under the reform and opening policy since the late s Fuzhou has developed rapidly
+In Fuzhou became the first city in China where the stored program control was introduced which marked a milestone in the history of telecommunications in China
+In Fuzhou was chosen as one of the first branches of Open Coastal Cities by the Central Government
 On December a raging fire swept through a textile factory in Fuzhou and claimed the lives of workers
 On October floodwaters from Typhoon Longwang swept away a military school killing at least paramilitary officers
 Fuzhou is located in the northeast coast of Fujian province connects jointly northwards with Ningde and Nanping southwards with Quanzhou and Putian westwards with Sanming respectively
-Fuzhou has a humid subtropical climate Köppen Cfa influenced by the East Asian Monsoon the summers are long very hot and humid and the winters are short mild and dry In most years torrential rain occurs during the monsoon in the second half of May Fuzhou is also liable to typhoons in late summer and early autumn The monthly hour average temperature ranges from °C °F in January to °C °F in July while the annual mean is °C °F With monthly percent possible sunshine ranging from percent in March to percent in July the city receives hours of bright sunshine annually Extremes since have ranged from − °C °F on January to °C °F on July
+Fuzhou has a humid subtropical climate Köppen Cfa influenced by the East Asian Monsoon the summers are long very hot and humid and the winters are short mild and dry
+In most years torrential rain occurs during the monsoon in the second half of May
+Fuzhou is also liable to typhoons in late summer and early autumn
+The monthly -hour average temperature ranges from °C °F in January to °C °F in July while the annual mean is °C °F
+With monthly percent possible sunshine ranging from percent in March to percent in July the city receives hours of bright sunshine annually
+Extremes since have ranged from − °C °F on January to °C °F on July
 Snow is very rare having covered the ground last times in February December and December
 Source China Meteorological Administration precipitation days sunshine data
-The administrative divisions of Fuzhou have been changed frequently throughout history From the Fuzhou current administrative divisions were formed officially namely districts and counties In and Fuqing Foochow Romanized Hók chiăng and Changle Foochow Romanized Diòng lŏh counties were promoted to county level cities Changle became a district in Despite these changes the administrative image of districts and counties is still held popularly among local residents Fuzhou's entire area only covers percent of Fujian Province
-The city of Fuzhou has direct jurisdiction over districts county level city and counties
+The administrative divisions of Fuzhou have been changed frequently throughout history
+From the Fuzhou current administrative divisions were formed officially namely districts and counties
+In and Fuqing Foochow Romanized Hk-ching and Changle Foochow Romanized Ding-lŏ̤h counties were promoted to county-level cities Changle became a district in
+Despite these changes the administrative image of districts and counties is still held popularly among local residents
+Fuzhou's entire area only covers percent of Fujian Province
+The city of Fuzhou has direct jurisdiction over districts county-level city and counties
 The City of Banyans is distinct from the mainstream inland cultures of central China and in details vary from other areas of the Chinese coast
 Besides Mandarin Chinese the majority local residents of Fuzhou Fuzhou people also speak Fuzhou dialect the prestige form of Eastern Min
-Min opera also known as Fuzhou drama is one of the major operas in Fujian Province It enjoys popularity in the Fuzhou area and in neighboring parts of Fujian such as the northeast and northwest areas where the Fuzhou dialect is spoken as well as in Taiwan and the Malay Archipelago It became a fixed opera in the early th century There are more than plays of Min opera most of which originate from folk tales historical novels or ancient legends including such traditional plays as Making Seal The Purple Jade Hairpin and Switching Fairy Peach with Litchi
-The two traditional mainstream religions practiced in Fuzhou are Mahayana Buddhism and Taoism Traditionally many people practice both religions simultaneously The city is also home to many Buddhist monasteries Taoist temples and Buddhist monks
+Min opera also known as Fuzhou drama is one of the major operas in Fujian Province
+It enjoys popularity in the Fuzhou area and in neighboring parts of Fujian such as the northeast and northwest areas where the Fuzhou dialect is spoken as well as in Taiwan and the Malay Archipelago
+It became a fixed opera in the early th century
+There are more than plays of Min opera most of which originate from folk tales historical novels or ancient legends including such traditional plays as Making Seal The Purple Jade Hairpin and Switching Fairy Peach with Litchi
+The two traditional mainstream religions practiced in Fuzhou are Mahayana Buddhism and Taoism
+Traditionally many people practice both religions simultaneously
+The city is also home to many Buddhist monasteries Taoist temples and Buddhist monks
 Apart from mainstream religions a number of religious worship sites of various local religions are situated in the streets and lanes of Fuzhou
-The origins of local religion can be dated back centuries These diverse religions incorporated elements such as gods and doctrines from other religions and cultures such as totem worship and traditional legends For example Monkey King originated to monkey worship among local ancients gradually came to embody the God of Wealth in Fuzhou after the novel Journey to the West was issued in Ming dynasty
+The origins of local religion can be dated back centuries
+These diverse religions incorporated elements such as gods and doctrines from other religions and cultures such as totem worship and traditional legends
+For example Monkey King originated to monkey worship among local ancients gradually came to embody the God of Wealth in Fuzhou after the novel Journey to the West was issued in Ming dynasty
 As the most popular religion in the Min River Valley the worship of Lady Linshui is viewed as one of the three most influential local religions in Fujian the other two being the worship of Mazu and Baosheng Dadi
-Fuzhou cuisine is most notably one of the four traditional cooking styles of Fujian cuisine which in turn is one of the eight Chinese regional cuisines Dishes are light but flavorful with particular emphasis on umami taste known in Chinese cooking as xianwei simplified Chinese traditional Chinese pinyin xiānwèi as well as retaining the original flavor of the main ingredients instead of masking them In Fuzhou cuisine the taste is light compared to that of some other Chinese cooking styles and often have a mixed sweet and sour taste Soup served as an indispensable dish in meals is cooked in various ways with local seasonal fresh vegetables and seafood and often added with local cooking wine
-Fuzhou is famous for its street food and snacks Some notable street food dishes include Fuzhou fish balls meat pastry dumplings oyster cake rice scroll soup guong bian a kind of mildly savory pastry and pork floss Many of these street food dishes have a long history and their own local legend an example would be the oyster cake according Fuzhou local folklore in the early Qing dynasty there was a young man who inherited his father's dim sum business despite all his hard works he only managed to earn enough money to feed himself not enough to raise and feed a family of his own One night he dreamt of a silver haired elderly man who told him that he has very good fortune the young man then asked him what he can do to obtain good luck the elderly man then floated away That's when the young man notice the setting moon and after the moon sank under the clouds rose from the east a golden sun he was inspired by the dream and invented oyster cake which is white like the moon before being lowered into hot grease and coming out golden as the morning sun According to the legend after the young man made a fortune out of his invention and his oyster cake was imitated by many others which was passed down till this day another example of a Fuzhou street food with a long history is rice scroll soup which became popular in Fuzhou in the early part of the Qing dynasty As more Fuzhou residents settled overseas Fuzhou dishes spread to Taiwan Southeast Asia and the US For example one is able to find guong bian and Fuzhou fish balls in Sitiawan in Ipoh Malaysia while Fuzhou fish balls meat pastry dumplings and rice scroll soup can be found in New York's Chinatown
-Fuzhou residents also enjoy eating festival foods during traditional Chinese holidays For example red and white rice cakes are served over Chinese New Year stuffed yuanxiao during the Lantern Festival zongzi during the Dragon Boat Festival and sweet soy bean powder covered plain yuanxiao over the winter solstice
-Bodiless lacquerware paper umbrellas and horn combs are the Three Treasures of Fuzhou traditional arts In addition bodiless lacquerware together with cork pictures and Shoushan stone sculptures are called Three Superexcellences of Fuzhou
-Fuzhou Evening News Strait Metropolitan Post and Southeast Express are the three most primary newspapers in the city Fuzhou Daily is the official newspaper of the Fuzhou Committee of Chinese Communist Party FZTV the local municipal television station has four channels As the capital the provincial state owned Fujian Media Group Fujian Daily Newspaper Group and Straits Publishing Distributing Group also headquarter here
-The city is served by Fuzhou Changle International Airport which replaces Fuzhou Yixu Airport the old airfield The former is its main international airport and an air hub in southeast China while the latter was turned into a PLA airbase after
-Fuzhou is a railway hub in northern Fujian The Wenzhou Fuzhou and Fuzhou Xiamen Railways form part of the Southeast Coast High Speed Rail Corridor and can accommodate high speed trains at speeds of up to kmh mph
-The Hefei Fuzhou High Speed Railway links the city to Beijing through its nearby inner land province Jiangxi at speeds up to kmh mph
-The Nanping Fuzhou Railway and Xiangtang Putian Railway provide rail access inland The latter line can carry trains at speeds of kmh mph The regional Fuzhou Mawei Cargo Railway runs from the Fuzhou Railway Station eastward to the port in Mawei District Fuzhou has two main railway stations Fuzhou and Fuzhou South Fuzhou station is often just referred to as Fuzhou station given its central location
+Fuzhou cuisine is most notably one of the four traditional cooking styles of Fujian cuisine which in turn is one of the eight Chinese regional cuisines
+Dishes are light but flavorful with particular emphasis on umami taste known in Chinese cooking as xianwei simplified Chinese traditional Chinese pinyin xiānwi as well as retaining the original flavor of the main ingredients instead of masking them
+In Fuzhou cuisine the taste is light compared to that of some other Chinese cooking styles and often have a mixed sweet and sour taste
+Soup served as an indispensable dish in meals is cooked in various ways with local seasonal fresh vegetables and seafood and often added with local cooking wine
+Fuzhou is famous for its street food and snacks
+Some notable street food dishes include Fuzhou fish balls meat-pastry dumplings oyster cake rice scroll soup guong bian a kind of mildly savory pastry and pork floss
+Many of these street food dishes have a long history and their own local legend an example would be the oyster cake according Fuzhou local folklore in the early Qing dynasty there was a young man who inherited his father's dim sum business despite all his hard works he only managed to earn enough money to feed himself not enough to raise and feed a family of his own
+One night he dreamt of a silver-haired elderly man who told him that he has very good fortune the young man then asked him what he can do to obtain good luck the elderly man then floated away
+That's when the young man notice the setting moon and after the moon sank under the clouds rose from the east a golden sun he was inspired by the dream and invented oyster cake which is white like the moon before being lowered into hot grease and coming out golden as the morning sun
+According to the legend after the young man made a fortune out of his invention and his oyster cake was imitated by many others which was passed down till this day
+another example of a Fuzhou street food with a long history is rice scroll soup which became popular in Fuzhou in the early part of the Qing dynasty
+As more Fuzhou residents settled overseas Fuzhou dishes spread to Taiwan Southeast Asia and the US
+For example one is able to find guong bian and Fuzhou fish balls in Sitiawan in Ipoh Malaysia while Fuzhou fish balls meat-pastry dumplings and rice scroll soup can be found in New York's Chinatown
+Fuzhou residents also enjoy eating festival foods during traditional Chinese holidays
+For example red and white rice cakes are served over Chinese New Year stuffed yuanxiao during the Lantern Festival zongzi during the Dragon Boat Festival and sweet soy bean powder-covered plain yuanxiao over the winter solstice
+Bodiless lacquerware paper umbrellas and horn combs are the Three Treasures of Fuzhou traditional arts
+In addition bodiless lacquerware together with cork pictures and Shoushan stone sculptures are called Three Superexcellences of Fuzhou
+Fuzhou Evening News Strait Metropolitan Post and Southeast Express are the three most primary newspapers in the city
+Fuzhou Daily is the official newspaper of the Fuzhou Committee of Chinese Communist Party
+FZTV the local municipal television station has four channels
+As the capital the provincial state-owned Fujian Media Group Fujian Daily Newspaper Group and Straits Publishing Distributing Group also headquarter here
+The city is served by Fuzhou Changle International Airport which replaces Fuzhou Yixu Airport the old airfield
+The former is its main international airport and an air-hub in southeast China while the latter was turned into a PLA airbase after
+Fuzhou is a railway hub in northern Fujian
+The WenzhouFuzhou and FuzhouXiamen Railways form part of the Southeast Coast High-Speed Rail Corridor and can accommodate high-speed trains at speeds of up to kmh mph
+The HefeiFuzhou High-Speed Railway links the city to Beijing through its nearby inner land province Jiangxi at speeds up to kmh mph
+The NanpingFuzhou Railway and XiangtangPutian Railway provide rail access inland
+The latter line can carry trains at speeds of kmh mph
+The regional Fuzhou-Mawei Cargo Railway runs from the Fuzhou Railway Station eastward to the port in Mawei District
+Fuzhou has two main railway stations Fuzhou and Fuzhou South
+Fuzhou station is often just referred to as Fuzhou station given its central location
 Fuzhou Metro is the first rapid transit system in Fujian province has two metro lines in operation the first line opened linking the south of the city and the north above the Min River and five lines under construction
-Line links the two railway stations of the city The Fuzhou railway station is located north of the city center near the North Second Ring Road Fuzhou South Railway Station located in Cangshan district is a key landmark of the New City development scheme begun in and completed in Line was opened on May
-Line runs in the east west direction of the city linking the university city and Fuzhou High Tech Zone in Minhou county Jinshan Industrial Zone in Cangshan district and Gushan mountain in Jin'an district Line was opened on April
+Line links the two railway stations of the city
+The Fuzhou railway station is located north of the city center near the North Second Ring Road
+Fuzhou South Railway Station located in Cangshan district is a key landmark of the New City development scheme begun in and completed in
+Line runs in the eastwest direction of the city linking the university city and Fuzhou High-Tech Zone in Minhou county Jinshan Industrial Zone in Cangshan district and Gushan mountain in Jin'an district
 Passenger liners regularly sail between ROC's Matsu Islands and the port in Mawei District
-A high speed ferry sails across Taiwan Strait between the port in Pingtan County the mainland's closest point to Taiwan to Taipei and Taichung a trip that takes about hours
-In the Fuzhou seaport was the site of one of China's first major experiments with Western technology when the Fuzhou Navy Yard was established A shipyard and an arsenal were built under French guidance and a naval school was opened A naval academy was also established at the shipyard and it became a center for the study of European languages and technical sciences The academy which offered courses in English French engineering and navigation produced a generation of Western trained officers including the famous scholar reformer Yan Fu
-The yard was established as part of a program to strengthen China in the wake of the country's disastrous defeat in the Second Opium War Most talented students nonetheless continued to pursue a traditional Confucian education and by the mid s the government began to lose interest in the shipyard which had trouble securing funds and declined in importance Fuzhou remained essentially a commercial center and a port until World War II it had relatively little industry The port was occupied by the Japanese during
-Since Fuzhou has grown considerably Transportation has been improved by the dredging of the Min River for navigation by medium sized craft upstream to Nanping In the railway linking Fuzhou with the interior of the province and with the main Chinese railway system began operation The port has also been improved Fuzhou itself is no longer accessible to seagoing ships but Luoxingta anchorage and the outer harbor at Guantou on the coast of the East China Sea have been modernized and improved The chief exports are timber fruits paper and foodstuffs
-Industry is supplied with power by a grid running from the Gutian hydroelectric scheme in the mountains to the northwest The city is a center for commercial banking designer brands and timber working engineering papermaking printing and textile industries A small iron and steel plant was built in In Fuzhou was designated one of China's open cities in the new open door policy inviting foreign investments Handicrafts remain important in the rural areas and the city is famous for its lacquer and wood products
-Its GDP was ¥ c US per capita in ranked no among Chinese cities
-Fuzhou is undoubtedly the province's political economic and cultural center as well as an industrial center and seaport on the Min River In Fuzhou's GDP amounted to ¥ billion an increase of percent
-Manufactured products include chemicals silk and cotton textiles iron and steel and processed food Among Fuzhou's exports are fine lacquerware and handcrafted fans and umbrellas The city's trade is mainly with Chinese coastal ports Its exports of timber food products and paper move through the harbor at Guantou located about kilometres mi downstream
-In exports reached US billion a growth of percent while imports amounted to US billion Total retail sales for the same period came to ¥ billion and per capita GDP grew to ¥ During the same period Fuzhou approved foreign invested projects Contracted foreign investment amounted to US billion while utilized foreign investment increased by percent to US billion
-The Fuzhou Economic Technological Development Zone was established in January by the State Council with a total planning area of square kilometres sq mi and now has square kilometres sq mi built It is located close to Fuzhou Changle International Airport and Fuzhou Port Industries encouraged in the zone include electronics assembly and manufacturing telecommunications equipment trading and distribution automobile productionassembly medical equipment and supplies shippingwarehousinglogistics and heavy industry
-The Fuzhou Export Processing Zone was founded on June with the approval of the State Council and enjoys all the preferential policies It is located inside the Chang'an Investment Zone of the Fuzhou Economic and Technical Development Zone FETDZ with a planned land area of square kilometres sq mi
-The Fuzhou Free Trade Zone was established in by the State Council with a planning area of square kilometres sq mi Industries encouraged in the free trade zone include electronics assembly and manufacturing heavy industry instruments and industrial equipment production shippingwarehousinglogistics telecommunications equipment trading and distribution
-Fuzhou High tech Development Zone was set up in and approved by the State Council in March In the Fuzhou municipal government decided to build Baiyi Electronic Information City which covers square kilometres sq mi in the zone making it the lead electronic industrial zone in Fuzhou The Administrative Commission of Mawei High tech Park was set up in the zone in It covers an area of square kilometres sq mi and is in the area between Gushan Channel and Mawei Channel Jiangbin Road and Fuma Road
-The Fuzhou Science and Technology Park was established in and was approved to be a national level zone by the State Council in The planned area is square kilometres sq mi and is divided into parts the Mawei portion the Cangshan portion and the Hongshan portion The main industries are electronics information technology and biotechnology The zone is kilometres mi away from the China National Highway and kilometres mi away from the Fuzhou Changle International Airport
-The Fuzhou Taiwan Merchants Development Zone was approved to be established in May by the State Council The zone is located in the Fuzhou Economic and Technological Development Zone The zone is a commercial base for Taiwan related development The current area is square kilometres sq mi The main industries are IT metallurgy food processing and textiles The zone is kilometres mi away from the National Highway and kilometres mi away from Fuzhou Changle International Airport
-Sanfang Qixiang Three Lanes and Seven Alleys is a cluster of ancient residential buildings dating from the late Jin dynasty now features a pedestrian zone with shops along the street Situated at the centre of the city at Gulou District it is the most popular touristic destination in the city Many buildings were revitalized recently to increase tourism
-West Lake An artificial landscape style lake built in
+A high-speed ferry sails across Taiwan Strait between the port in Pingtan County the mainland's closest point to Taiwan to Taipei and Taichung a trip that takes about hours
+In the Fuzhou seaport was the site of one of China's first major experiments with Western technology when the Fuzhou Navy Yard was established
+A shipyard and an arsenal were built under French guidance and a naval school was opened
+A naval academy was also established at the shipyard and it became a center for the study of European languages and technical sciences
+The academy which offered courses in English French engineering and navigation produced a generation of Western-trained officers including the famous scholar-reformer Yan Fu
+The yard was established as part of a program to strengthen China in the wake of the country's disastrous defeat in the Second Opium War
+Most talented students nonetheless continued to pursue a traditional Confucian education and by the mid-s the government began to lose interest in the shipyard which had trouble securing funds and declined in importance
+Fuzhou remained essentially a commercial center and a port until World War II it had relatively little industry
+The port was occupied by the Japanese during
+Transportation has been improved by the dredging of the Min River for navigation by medium-sized craft upstream to Nanping
+In the railway linking Fuzhou with the interior of the province and with the main Chinese railway system began operation
+The port has also been improved Fuzhou itself is no longer accessible to seagoing ships but Luoxingta anchorage and the outer harbor at Guantou on the coast of the East China Sea have been modernized and improved
+The chief exports are timber fruits paper and foodstuffs
+Industry is supplied with power by a grid running from the Gutian hydroelectric scheme in the mountains to the northwest
+The city is a center for commercial banking designer brands and timber-working engineering papermaking printing and textile industries
+A small iron and steel plant was built in
+In Fuzhou was designated one of China's open cities in the new open-door policy inviting foreign investments
+Handicrafts remain important in the rural areas and the city is famous for its lacquer and wood products
+Fuzhou is undoubtedly the province's political economic and cultural center as well as an industrial center and seaport on the Min River
+In Fuzhou's GDP amounted to ¥ billion an increase of percent
+Manufactured products include chemicals silk and cotton textiles iron and steel and processed food
+Among Fuzhou's exports are fine lacquerware and handcrafted fans and umbrellas
+The city's trade is mainly with Chinese coastal ports
+Its exports of timber food products and paper move through the harbor at Guantou located about kilometres mi downstream
+In exports reached US billion a growth of percent while imports amounted to US billion
+Total retail sales for the same period came to ¥ billion and per capita GDP grew to ¥
+During the same period Fuzhou approved foreign-invested projects
+Contracted foreign investment amounted to US billion while utilized foreign investment increased by percent to US billion
+The Fuzhou Economic Technological Development Zone was established in January by the State Council with a total planning area of square kilometres sq mi and now has square kilometres sq mi built
+It is located close to Fuzhou Changle International Airport and Fuzhou Port
+Industries encouraged in the zone include electronics assembly and manufacturing telecommunications equipment trading and distribution automobile productionassembly medical equipment and supplies shippingwarehousinglogistics and heavy industry
+The Fuzhou Export Processing Zone was founded on June with the approval of the State Council and enjoys all the preferential policies
+It is located inside the Chang'an Investment Zone of the Fuzhou Economic and Technical Development Zone FETDZ with a planned land area of square kilometres sq mi
+The Fuzhou Free Trade Zone was established in by the State Council with a planning area of square kilometres sq mi
+Industries encouraged in the free trade zone include electronics assembly and manufacturing heavy industry instruments and industrial equipment production shippingwarehousinglogistics telecommunications equipment trading and distribution
+Fuzhou High-tech Development Zone was set up in and approved by the State Council in March
+In the Fuzhou municipal government decided to build Baiyi Electronic Information City which covers square kilometres sq mi in the zone making it the lead electronic industrial zone in Fuzhou
+The Administrative Commission of Mawei High-tech Park was set up in the zone in
+It covers an area of square kilometres sq mi and is in the area between Gushan Channel and Mawei Channel Jiangbin Road and Fuma Road
+The Fuzhou Science and Technology Park was established in and was approved to be a national-level zone by the State Council in
+The planned area is square kilometres sq mi and is divided into parts the Mawei portion the Cangshan portion and the Hongshan portion
+The main industries are electronics information technology and biotechnology
+The zone is kilometres mi away from the China National Highway and kilometres mi away from the Fuzhou Changle International Airport
+The Fuzhou Taiwan Merchants Development Zone was approved to be established in May by the State Council
+The zone is located in the Fuzhou Economic and Technological Development Zone
+The zone is a commercial base for Taiwan-related development
+The current area is square kilometres sq mi
+The main industries are IT metallurgy food processing and textiles
+The zone is kilometres mi away from the National Highway and kilometres mi away from Fuzhou Changle International Airport
+Sanfang Qixiang Three Lanes and Seven Alleys is a cluster of ancient residential buildings dating from the late Jin dynasty now features a pedestrian zone with shops along the street
+Situated at the centre of the city at Gulou District it is the most popular touristic destination in the city
+Many buildings were revitalized recently to increase tourism
+West Lake An artificial landscape-style lake built in
 Hualin Temple Built in Song dynasty Its main hall is known as the oldest surviving wooden building in south China and was confirmed as an important heritage site under state protection in
 Dizang Temple The Temple of Sacrificing Guardian of the Earth founded in
 Wu Ta Black Pagoda Originally built in rebuilt in
 Bai Ta White Pagoda On the top of Mount Yu originally built in m in height collapsed in rebuilt in m in height
 Yongquan Temple Founded in and located on the top of Mount Gu
-Mount Gu the tallest mountain in the area Attracts many residents especially in the weekends for hiking trips
-Luoxing Tower In Mawei District and built in the Song dynasty Was called China Tower
+Mount Gu the tallest mountain in the area
+Attracts many residents especially in the weekends for hiking trips
+Luoxing Tower In Mawei District and built in the Song dynasty
 Tanshishan cultural relics In Ganzhe Minhou County
-St John's Church FuzhouFujian Museum Near West Lake
-Wulongjiang Shidi Park A wetland park However the park is in distress due to ineffective environmental protection and construction
+John's Church FuzhouFujian Museum Near West Lake
+However the park is in distress due to ineffective environmental protection and construction
 Minjiang Park On the two banks of the Min River
-Mount Jinniu Park Near the Fuzhou West Long Distance Bus Station
-Fuzhou Zoo This new zoo was built in after moving from its old location by West LakeSa Zhenbing high ranking naval officer of Mongolian origin
+Mount Jinniu Park Near the Fuzhou West Long-Distance Bus Station
+Fuzhou Zoo This new zoo was built in after moving from its old location by West LakeSa Zhenbing high-ranking naval officer of Mongolian origin
 Go Seigen WeiqiGo player considered by many players to be the greatest player of the game in the th century and one of the greatest of all time
-Lin Changmin zh a high rank governor in the Beiyang Government
+Lin Changmin zh a high-rank governor in the Beiyang Government
 Lin Juemin one of Revolutionary Martyrs at Huanghuagang Guangzhou
 Murong Shenxing zh neuroscientist researcher and doctor
 Ingen well known Buddhist monk poet and calligrapher who lived during Ming Dynasty
@@ -103,45 +247,45 @@ Huangbo Xiyun died an influential master of Zen Buddhism during the Tang Dynasty
 Chen Youding a prominent military leader during the Yuan Dynasty
 Gao Bing an author and poetry theorist during the Ming Dynasty
 Zhang Jing a prominent military leader during the Ming Dynasty
-Liang Hongzhi a high rank governor in the Beiyang Government
+Liang Hongzhi a high-rank governor in the Beiyang Government
 Chen Baochen scholar and loyalist to the Qing dynasty
-Chih Tang Sah born Chinese American engineer of Mongolian origin
+Chih-Tang Sah born Chinese-American engineer of Mongolian origin
 Chen Shaokuan Fleet Admiral who served as the senior commander of naval forces of the National Revolutionary Army
 Zou Taofen journalist media entrepreneur and political activist
 Zhan Shi Chai s entertainer as Chang the Chinese Giant
 Huang Naishang Christian scholar and founding father of Malaysian town of Sibu in the state of Sarawak
-Lin Shu scholar and translator most famous for his translation of Alexandre Dumas' La Dame aux Camélias
+Lin Shu scholar and translator most famous for his translation of Alexandre Dumas' La Dame aux Camlias
 Yan Fu scholar and translator best known for introducing western ideas such as Darwinian evolution
 Lin Sen President of the Republic of China from to
-Sa Shijun zh high ranking naval officer of Mongolian origin
+Sa Shijun zh high-ranking naval officer of Mongolian origin
 Liu Buchan naval officer of the Beiyang Fleet the most prominent of China's naval units in the late Qing Dynasty
-Lin Zexu scholar and official considered a national hero for his strong opposition to the trade of opium before the First Anglo Chinese War
+Lin Zexu scholar and official considered a national hero for his strong opposition to the trade of opium before the First Anglo-Chinese War
 Shen Baozhen Viceroy of Liangjiang from to
 Zhang Yuzhe astronomer and director of the Purple Mountain Observatory
 Watchman Nee Christian author and church leader
 Liang Shoupan aerospace engineer and regarded as the father of China's cruise missile program
 Chen Jingrun mathematician who made significant contributions to number theory
-Chen Zhangliang born biologist elected as vice governor of Guangxi in
+Chen Zhangliang born biologist elected as vice-governor of Guangxi in
 Miao Hua born PLA Navy admiral and Director of the Political Work Department of the Central Military Commission
-Chen Pao yu born Chief of Staff of the Taiwanese Army
+Chen Pao-yu born Chief of Staff of the Taiwanese Army
 Chen Haomin present Hong Kong actor and singer
 Kelly Lin born Taiwanese actress and model
-Lin Chi ling born Taiwanese actress and model
+Lin Chi-ling born Taiwanese actress and model
 Jimmy Lin born Taiwanese singer actor and race car driver
-Chiang Tsu ping born Taiwanese actress and television host
+Chiang Tsu-ping born Taiwanese actress and television host
 Yao Jinnan born artistic gymnast who represented China at the London Olympic Games
-Eugene A Coffin rear admiral in the United States Coast Guard
+Coffin rear admiral in the United States Coast Guard
 Zhou Zihe possible shifu of Uechi Kanbun founder of Uechi Ryū
 Sister Ping real name Cheng Chui Ping Chinese convicted human smuggler and snakehead
-Ludi Lin born Chinese Canadian actor and model
+Ludi Lin born Chinese-Canadian actor and model
 Xu Bin born actor and singerFujian Normal University founded in
-Fujian Agriculture and Forestry University founded in Three Universities above take the leading position in the province and they are supported by Fujian Government to build High level University
-Fijian Jiangxia UniversityNote Institutions without full time bachelor programs are not listed
+Fujian Agriculture and Forestry University founded in Three Universities above take the leading position in the province and they are supported by Fujian Government to build High-level University
+Fijian Jiangxia UniversityNote Institutions without full-time bachelor programs are not listed
 The Affiliated High School Of Fujian Normal University
 List of cities in the People's Republic of China by population
 List of twin towns and sister cities in China
-FujianA Brief History of The Sino Japanese War Hu Pu yu Chung Wu Publishing Co Taipei Taiwan Republic of China pg
-China at War Edward L Dreyer Longman London and New York pg
+FujianA Brief History of The Sino-Japanese War Hu Pu-yu Chung Wu Publishing Co
+Dreyer Longman London and New York pg
 Australia's China Changing Perceptions from the s to the s Lachlan Strachan Cambridge University Press pg
 Bomb Book Compass Joseph Needham and the Great Secrets of China Simon Winchester Penguin Group Australia Camberwell Victoria pp
 Yule Henry The Travels of Friar Odoric

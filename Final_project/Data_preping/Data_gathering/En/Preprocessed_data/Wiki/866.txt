@@ -1,25 +1,53 @@
-The LG Optimus One is an entry level series of touch screen smartphones manufactured by LG Electronics Inc It was released running the Android Froyo and later LG released software to upgrade it to Android Gingerbread Although the basic physical form factor of each variant is the same the variants have differences in hard button shape and layout the form of the metal side bezel and the user interfaces added by LG or various carriers Versions of the Optimus One exist that operate on various frequency bands and either GSM or CDMA based network protocols They may also feature one or more variations in hardware such as a faster processor the addition of a physical keyboard a modem with higher theoretical speeds or a better digital camera
-Since sales first began in mid November LG has released ten variants though some differ very little from others The Optimus One line is the first LG smartphone line to sell more than million units As of December more than million units have been sold worldwide with million units sold in North America units sold in South Korea units sold in Europe and units sold in Asia and the CIS
-Because of the different technologies used by wireless operators in the United States many variants of the LG Optimus One exist usually replacing the word One with a single letter representing the carrier For example the LG Optimus M was offered exclusively by MetroPCS while the LG Optimus T was only available at T Mobile USA
-The Optimus One P was the first version offered for sale with sales beginning in South Korea in mid November This GSM version of the phone is sold by wireless communications service providers in Asia Europe and Canada
+The LG Optimus One is an entry-level series of touch-screen smartphones manufactured by LG Electronics Inc
+It was released running the Android Froyo and later LG released software to upgrade it to Android Gingerbread
+Although the basic physical form factor of each variant is the same the variants have differences in hard button shape and layout the form of the metal side bezel and the user interfaces added by LG or various carriers
+Versions of the Optimus One exist that operate on various frequency bands and either GSM or CDMA-based network protocols
+They may also feature one or more variations in hardware such as a faster processor the addition of a physical keyboard a modem with higher theoretical speeds or a better digital camera
+Since sales first began in mid-November LG has released ten variants though some differ very little from others
+The Optimus One line is the first LG smartphone line to sell more than million units
+As of December more than million units have been sold worldwide with million units sold in North America units sold in South Korea units sold in Europe and units sold in Asia and the CIS
+Because of the different technologies used by wireless operators in the United States many variants of the LG Optimus One exist usually replacing the word One with a single letter representing the carrier
+For example the LG Optimus M was offered exclusively by MetroPCS while the LG Optimus T was only available at T-Mobile USA
+The Optimus One P was the first version offered for sale with sales beginning in South Korea in mid-November
+This GSM version of the phone is sold by wireless communications service providers in Asia Europe and Canada
 In Canada the LG Optimus One Ph is sold by Telus Mobility since December and its brand Koodo Mobile since February with UMTS frequency at and MHz
 In Turkey a matte black variant is sold as the LG Optimus One P
 Walmart Family Mobile released the LG Optimus One P in charcoal in September
-LG Optimus S The LG Optimus S was initially released by Sprint in charcoal gray and purple on October It includes the Sprint ID graphical user interface GUI and CDMA network connectivity While it is similar to the Optimus One the Optimus S features minor hardware differences This device has four distinct hard keys and a metal accent that covers the top of the device and one third of each side The mm TRS connector the power button and the volume buttons are all incorporated into the metal band There are also two hard keys on the right side of the phone One button activates the voice dialer and another activates the camera The Menu and Home buttons on the S are transposed as compared to all other variants of the Optimus One
-LG Optimus G Telus Mobility released this phone for the Manitoba and Northern Ontario regions where only Telus' CDMA network can be used It is a variant of the LG Optimus S The Optimus G was unavailable at Koodo Mobile a Telus brand Sales of this phone in Canada have now been discontinued
+LG Optimus S The LG Optimus S was initially released by Sprint in charcoal gray and purple on October
+It includes the Sprint ID graphical user interface GUI and CDMA network connectivity
+While it is similar to the Optimus One the Optimus S features minor hardware differences
+This device has four distinct hard keys and a metal accent that covers the top of the device and one-third of each side
+The mm TRS connector the power button and the volume buttons are all incorporated into the metal band
+There are also two hard keys on the right side of the phone
+One button activates the voice dialer and another activates the camera
+The Menu and Home buttons on the S are transposed as compared to all other variants of the Optimus One
+LG Optimus G Telus Mobility released this phone for the Manitoba and Northern Ontario regions where only Telus' CDMA network can be used
+It is a variant of the LG Optimus S
+The Optimus G was unavailable at Koodo Mobile a Telus brand
+Sales of this phone in Canada have now been discontinued
 LG Optimus C Cricket Wireless launched this phone on March
-LG Optimus M MetroPCS launched this phone in silver on November Unlike other CDMA variants of the Optimus One which support the EV DO Rev A standard the Optimus M supports only the slower EV DO Rel standard In addition to supporting MHz cellular and MHz PCS radio frequency bands the Optimus M also supports the MHz AWS frequency bands
-LG Phoenix available from ATT Mobility in the United States and from Rogers Wireless and Chatr in Canada It was released on May for Rogers and since August for Chatr Canadian mobile virtual network operators which resell Rogers Wireless services such as SearsConnect also offer the LG Phoenix The phone's colour is blue
+LG Optimus M MetroPCS launched this phone in silver on November
+Unlike other CDMA variants of the Optimus One which support the EV-DO Rev
+A standard the Optimus M supports only the slower EV-DO Rel
+In addition to supporting MHz cellular and MHz PCS radio frequency bands the Optimus M also supports the MHz AWS frequency bands
+LG Phoenix available from ATT Mobility in the United States and from Rogers Wireless and Chatr in Canada
+It was released on May for Rogers and since August for Chatr
+Canadian mobile virtual network operators which resell Rogers Wireless services such as SearsConnect also offer the LG Phoenix
 LG Thrive released in silver it is similar to the LG Phoenix but designed for ATT's prepaid GoPhone customers
-LG Optimus T released by T Mobile USA in black titanium and burgundy on November
+LG Optimus T released by T-Mobile USA in black titanium and burgundy on November
 LG Optimus U released by US Cellular in black on December
-LG Optimus V released by Virgin Mobile USA in black on February The Optimus V has few applications beyond a stock version of Android
-LG Vortex Verizon Wireless released this phone in black and violet on November The LG Optimus Chat features a physical keyboard and a smaller inch touchscreen
+LG Optimus V released by Virgin Mobile USA in black on February
+The Optimus V has few applications beyond a stock version of Android
+LG Vortex Verizon Wireless released this phone in black and violet on November The LG Optimus Chat features a physical keyboard and a smaller -inch touchscreen
 The LG Optimus Chic features a camera with a higher megapixel MP resolution and a modem with faster upload speeds of Mbits instead of Mbits
-After clearing out and discontinuing the LG Optimus Chic due to poor sales Bell Mobility released the LG Optimus Net on October The Net is equipped with a faster MHz processor but features a slower HSPA+ modem with Mbits download speeds compared to the Optimus One and Chic's MHz processor and Mbits HSPA+ download speeds It also features the same megapixel MP camera as the Optimus One but this resolution is lower than the Optimus Chic's MP camera
+After clearing out and discontinuing the LG Optimus Chic due to poor sales Bell Mobility released the LG Optimus Net on October
+The Net is equipped with a faster MHz processor but features a slower HSPA+ modem with Mbits download speeds compared to the Optimus One and Chic's MHz processor and Mbits HSPA+ download speeds
+It also features the same megapixel MP camera as the Optimus One but this resolution is lower than the Optimus Chic's MP camera
 The LG Optimus Pro is a variant of the Optimus Net featuring a physical QWERTY keyboard a MP camera a screen and Android Gingerbread
-Released exclusively for the Australian network Optus the LG Optimus Elite features a inch screen MP camera with flash and a dual core processor
-On December LG announced that it would need to study the Gingerbread Compatibility Definition Document and the public branch open source code before it could determine if the Optimus One series could be upgraded to Android Gingerbread However on December LG stated that it will update Optimus One devices to Android but a date for the upgrade was not specified Responding to a question posted on LG India's Facebook page on March an LG representative initially stated that the update will be available in late May via the Android Market but hours later added that the upgrade is not confirmed and the information was subject to change
+Released exclusively for the Australian network Optus the LG Optimus Elite features a inch screen MP camera with flash and a dual-core processor
+On December LG announced that it would need to study the Gingerbread Compatibility Definition Document and the public branch open source code before it could determine if the Optimus One series could be upgraded to Android Gingerbread
+However on December LG stated that it will update Optimus One devices to Android but a date for the upgrade was not specified
+Responding to a question posted on LG India's Facebook page on March an LG representative initially stated that the update will be available in late May via the Android Market but hours later added that the upgrade is not confirmed and the information was subject to change
 The following details the history of the Gingerbread update rollout
 The first country to receive the update was Romania
 This was followed by Russia Brazil and the rest of the world soon after according to LG's Facebook page
@@ -31,5 +59,5 @@ On February LG released the update for LG Phoenix users on ATT Mobility
 Metro PCS prepare to release LG Optimus M+ with new processor bigger screen better bluetooth connectivity and higher camera resolutions than the old one
 On April the update for American provider Sprint's LG Optimus S was issued Android ZVJ
 Sprint and Virgin Mobile released a successor to the phone LG Optimus Elite on April Comparison of smartphones
-Nexus OneLG Optimus One with Google P product page Singapore English
-LG Optimus One with Google LGP product page Canada English
+Nexus OneLG Optimus One with Google P product page - Singapore English
+LG Optimus One with Google LGP product page - Canada English

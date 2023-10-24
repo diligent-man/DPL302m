@@ -93,26 +93,6 @@ class TextPreprocessor:
                 self.__save_preprocessed_data(self.__preprocessed_data_path, filename, expanded_lines)
             return None
                                     
-    
-    def remove_emoji(self) -> None:
-        emoji_pattern = re.compile("["
-                                   u"U0001F600-U0001F64F"  # emoticons
-                                   u"U0001F300-U0001F5FF"  # symbols & pictographs
-                                   u"U0001F680-U0001F6FF"  # transport & map symbols
-                                   u"U00002702-U000027B0"
-                                   u"U000024C2-U0001F251"
-                                   "]+", flags=re.UNICODE)
-            
-        for filename in sorted(os.listdir(self.__data_path)):
-            with open(os.path.join(self.__data_path, filename), 'r', encoding='utf-8') as f:
-                data = []
-                for line in f:
-                    data.append(emoji_pattern.sub(r'', line))
-                # save data
-                data = '\n'.join(data)
-                self.__save_preprocessed_data(self.__preprocessed_data_path, filename, data)
-        return None
-
 
     def remove_by_regex(self, regex_dict):
         for i in regex_dict:
@@ -121,8 +101,7 @@ class TextPreprocessor:
                     data = []
                     for line in f:
                         line = re.sub(regex_dict[i][0], regex_dict[i][1], line)
-
-                        # remove ws at the beginning and the end of sentence
+                        # remove ws surrounding word
                         line = ' '.join([word.strip() for word in line.split()])
                         # if len line < 7, ignore it
                         if len(line.split()) < 7:
@@ -132,7 +111,6 @@ class TextPreprocessor:
                     # save data
                     data = '\n'.join(data)
                     self.__save_preprocessed_data(self.__preprocessed_data_path, filename, data)
-            self.set_data_path(self.get_preprocessed_data_path())
         return None
 
 
@@ -174,14 +152,17 @@ def en_preprocessing() -> None:
         os.mkdir(path=preprocessed_data_dir + '/' + category, mode=0o777)
 
         text_preprocessor.split_into_sentence()
-        text_preprocessor.eliminate_contraction()
-        text_preprocessor.remove_emoji()
+        text_preprocessor.set_data_path(text_preprocessor.get_preprocessed_data_path())
 
-        regex_dict = {0: [r"[~!@#$%\^&\*()\_,./<>\?;:\"\[\]\{\}\\\|“”\u2122\u00A90-9]*", ""],  # punctuation_marks_and_numeral
-                     1: [r"[-–]", " "], # hyphen & dash
-                     2: [r"[\u4E00-\u9FFF]", " "], # Chinese hieroglyphs
-                     3: [r"[\u1D00-\u1D7F\u1D80-\u1DBF\u2070-\u209F\u0300-\u036F\u0255\u01D4]", ""]
-                     }   
+        text_preprocessor.eliminate_contraction()
+        text_preprocessor.set_data_path(text_preprocessor.get_preprocessed_data_path())
+
+        regex_dict = {0: [r"[~!@#$%\^&\*()\_,，./<>\?;:：\"\[\]\{\}\\|“”\u2122\u00A90-9\u300A\u300B]*", ""],  # punctuation_marks_and_numeral
+                      1: [r"[–]", ""], 
+                      2: [r"[\u4E00-\u9FFF]", ""], # Chinese hieroglyphs
+                      3: [r"[\u00E0\u00E1\u1EA3\u00E3\u1EA1\u00E2\u1EA7\u1EA5\u1EAD\u1EAB\u1EAF\u0103\u1EB1\u1EAF\u1EB5\u1EB3\u1EB7\u00E8\u00E9\u1EBB\u1EBD\u1EB9\u00EA\u1EC1\u1EBF\u1EC3\u1EC5\u1EC7\u0111\u00EC\u00ED\u1EC9\u0129\u1ECB\u00F2\u00F3\u1ECF\u00F5\u1ECD\u00F4\u1ED3\u1ED1\u1ED5\u1ED7\u1ED9\u01A1\u1EDD\u1EDB\u1EDF\u1EE1\u1EE3\u00F9\u00FA\u1EE7\u0169\u1EE5\u1EEB\u1EE9\u1EED\u1EEF\u1EF1\u1EF3\u00FD\u1EF7\u1EF9\u1EF5\u00C0\u00C1\u00C2\u00C3\u00C4\u00C7\u00C8\u00C9\u00CA\u00CB\u00CE\u00CF\u00D4\u0152\u00D9\u00DA\u00DB\u00DC\u0178\u00E0\u00E1\u00E2\u00E3\u00E4\u00E7\u00E8\u00E9\u00EA\u00EB\u00EE\u00EF\u00F4\u0153\u00F9\u00FA\u00FB\u00FC\u00FD\u00FF]", ""], # Vietnamese chars
+                      4: [r"[\u0255\u01D4\u01CE]", ""] # IPA
+                     }
         text_preprocessor.remove_by_regex(regex_dict)
         
 

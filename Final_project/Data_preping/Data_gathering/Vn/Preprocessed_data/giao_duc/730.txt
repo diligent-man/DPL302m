@@ -1,36 +1,35 @@
-Thông tin tuyển sinh 2006 sẽ được “net hóa” Công khai thông tin tuyển sinh rộng rãi trên mạng sẽ có lợi nhiều hơn cho thí sinh Hiện Trung tâm tin học Bộ Giáo dục và Đào tạo GD-ĐT đã chuẩn bị xong hệ thống phần mềm cung cấp các thông tin tuyển sinh năm 2006 mang tên Cổng thông tin tuyển sinh
-Phần mềm này sẽ chạy trên mạng miễn phí để giúp các trường công bố dữ liệu tuyển sinh và thí sinh TS tham khảo để đăng ký thay vì phải chờ đến ngày 15-3 sau khi phát hành cuốn Những điều cần biết về tuyển sinh của Bộ GD-ĐT
-PV báo Thanh Niên đã có cuộc trao đổi với ông Quách Tuấn Ngọc - Giám đốc Trung tâm tin học Bộ GD-ĐT xung quanh sự kiện này
+Thông tin tuyển sinh sẽ được net hóa Công khai thông tin tuyển sinh rộng rãi trên mạng sẽ có lợi nhiều hơn cho thí sinh Hiện Trung tâm tin học Bộ Giáo dục và Đào tạo GDĐT đã chuẩn bị xong hệ thống phần mềm cung cấp các thông tin tuyển sinh năm mang tên Cổng thông tin tuyển sinh
+Phần mềm này sẽ chạy trên mạng miễn phí để giúp các trường công bố dữ liệu tuyển sinh và thí sinh TS tham khảo để đăng ký thay vì phải chờ đến ngày sau khi phát hành cuốn Những điều cần biết về tuyển sinh của Bộ GDĐT
+PV báo Thanh Niên đã có cuộc trao đổi với ông Quách Tuấn Ngọc Giám đốc Trung tâm tin học Bộ GDĐT xung quanh sự kiện này
 Phóng viên Được biết phần mềm Cổng thông tin tuyển sinh được triển khai sẽ là bước đột phá trong việc cải tiến những thủ tục quy trình liên quan đến kỳ thi tuyển sinh ĐH CĐ
 Xin ông cho biết cụ thể hơn
 Ông Quách Tuấn Ngọc Lâu nay mọi người đều biết rằng quy trình tuyển sinh là hằng năm các Sở nộp về Bộ mã trường mã đơn vị đăng ký dự thi cho thống nhất các trường phải đăng ký mã ngành tuyển sinh những thay đổi sửa đổi về ngành nghề đào tạo
-với Bộ GD-ĐT mỗi năm phải mất khá nhiều thời gian và rất tốn công sức để chế bản cuốn sách Những điều cần biết về tuyển sinh
+với Bộ GDĐT mỗi năm phải mất khá nhiều thời gian và rất tốn công sức để chế bản cuốn sách Những điều cần biết về tuyển sinh
 Chỉ khi nào phát hành tài liệu đó thì coi như tuyển sinh mới bắt đầu TS lúc đó mới có thể có thông tin để đăng ký trường thi
 Thứ hai khi có thông tin tuyển sinh ở Những điều cần biết thí sinh muốn tìm ngành nghề tìm trường rất vất vả vì tra cứu trên giấy rất khó
 Ví dụ một TS đưa ra yêu cầu muốn thi ngành công nghệ thông tin tại TPHCM nhưng ở bậc cao đẳng thì có những trường nào Nếu tìm ở Những điều cần biết
 sẽ rất lâu và có thể không tìm ra hết được nhưng tìm trên máy thì rất đơn giản
 Nó chỉ hiện ra đúng một trang thông tin cho TS hoặc TS chỉ nhớ mang máng mã trường có chữ Q chỉ cần bấm chữ Q là ra hết tất cả các trường có chữ Q
 Có thể nói Cổng thông tin tuyển sinh là cơ sở dữ liệu của tất cả các trường có nhu cầu thi tuyển sinh cho nên sự tra cứu rất tiện
-Một cái lợi quan trọng khác là khi hệ thống này vận hành TS có thể tham khảo quanh năm suốt tháng chứ không phải chờ đến ngày 15/3 sau khi có cuốn Những điều cần biết
-của Bộ GD-ĐT phát hành
+Một cái lợi quan trọng khác là khi hệ thống này vận hành TS có thể tham khảo quanh năm suốt tháng chứ không phải chờ đến ngày sau khi có cuốn Những điều cần biết
 Khi phần mềm này vận hành các trường và thí sinh sẽ được khai thác những gì
 Đối với các trường có một thuận lợi là muốn đưa thông tin lên lúc nào cũng được
-Nếu như trước đây sau ngày 15-3 khi in xong quyển Những điều cần biết trường nào muốn mở thêm ngành nghề mới sau ngày đó thì không thông tin được tới TS
+Nếu như trước đây sau ngày khi in xong quyển Những điều cần biết trường nào muốn mở thêm ngành nghề mới sau ngày đó thì không thông tin được tới TS
 Với hệ thống mạng này thì hằng năm trước ngày kết thúc đăng ký dự thi vẫn có thể mở thêm ngành mới
 Việc đưa thông tin rất đơn giản Trung tâm tin học sẽ cung cấp cho các trường một tên một mật khẩu
 Người sử dụng có quyền vào trang của trường mình để nạp thông tin và thay đổi dữ liệu
-Có thể năm đầu sẽ hơi mất công để đưa thông tin lên nhưng những năm sau có thể chỉ cần 5 phút để thay đổi các dữ liệu cần thiết
+Có thể năm đầu sẽ hơi mất công để đưa thông tin lên nhưng những năm sau có thể chỉ cần phút để thay đổi các dữ liệu cần thiết
 Còn TS thì vào tự do như xem một tờ báo mạng
-Việc mà chúng tôi đang đề xuất là chúng ta phải tiến tới cho phép TS được khai giấy đăng ký dự thi từ trên mạng này và chỉ cần ký vào đó là có thể nộp được không phải mua hồ sơ từ các Sở GD-ĐT
+Việc mà chúng tôi đang đề xuất là chúng ta phải tiến tới cho phép TS được khai giấy đăng ký dự thi từ trên mạng này và chỉ cần ký vào đó là có thể nộp được không phải mua hồ sơ từ các Sở GDĐT
 Và có thể còn cho phép TS đăng ký qua mạng nữa
 Hiện cổng thông tin tuyển sinh đã có chức năng này
 Trước mắt nó sẽ giúp TS được thoải mái đăng ký nháp trước khi đăng ký chính thức mà không bị khống chế bởi số lượng hồ sơ
 Điều đáng nói cổng thông tin tuyển sinh là hệ thống tư vấn hoàn thiện để giúp TS lựa chọn được đúng ngành nghề đúng trường dự thi
 Tất cả các thông tin khác về tư vấn tuyển sinh điểm chuẩn các năm các dữ liệu thống kê phân tích cũng được đưa lên đó các TS có thể tham khảo quanh năm
 Các TS sẽ biết ngay chất lượng của các trường năng lực của mình có đáp ứng được không
-Hệ thống này còn cho phép TS đăng ký cả nguyện vọng NV 2 NV3
-Lúc đó nếu tất cả các trường NV2 NV3 cùng chơi trên phần mềm này sẽ giúp TS tránh được rủi ro
-Ví dụ hôm nay trường A muốn tuyển 50 TS có NV2 mà ngày đó đã có khoảng 100 TS đăng ký với mức điểm định tuyển là 22 thì những TS có điểm 215 có thể chạy đi chỗ khác
+Hệ thống này còn cho phép TS đăng ký cả nguyện vọng NV NV
+Lúc đó nếu tất cả các trường NV NV cùng chơi trên phần mềm này sẽ giúp TS tránh được rủi ro
+Ví dụ hôm nay trường A muốn tuyển TS có NV mà ngày đó đã có khoảng TS đăng ký với mức điểm định tuyển là thì những TS có điểm có thể chạy đi chỗ khác
 Điều này cũng sẽ không ảnh hưởng gì đến quyền lợi của các trường vì đây chỉ là phần đăng ký nháp
 Sau đó TS có nguyện vọng thực sự phải chính thức gửi hồ sơ xét tuyển đến các trường
 Việc triển khai để ra mắt cổng thông tin này như thế nào
@@ -38,6 +37,4 @@ Về công nghệ chúng tôi đã chuẩn bị rất tốt nó chạy trên m�
 Nhưng còn một vấn đề cần triển khai là sự hợp tác của các trường
 Các trường phải nhận thức đây là quyền lợi của họ phải nhập dữ liệu vào và kiểm soát dữ liệu một cách chuẩn xác thì hệ thống vận hành mới ngon được và mới có đầy đủ ý nghĩa
 Bộ cần triệu tập các trường đến để tập huấn và chỉ đạo bằng văn bản để các trường có trách nhiệm thực hiện
-Dự kiến sẽ chính thức đưa cổng thông tin này lên mạng tại địa chỉ http//wwwtsedunetvn
-Rất cảm ơn ông
-
+Dự kiến sẽ chính thức đưa cổng thông tin này lên mạng tại địa chỉ httpwwwtsedunetvn

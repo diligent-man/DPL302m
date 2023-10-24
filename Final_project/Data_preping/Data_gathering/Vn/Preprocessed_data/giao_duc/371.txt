@@ -13,17 +13,15 @@ Cuối cùng nền tảng thúc đẩy trẻ dành thời gian làm bài tập m
 Để đạt được mục tiêu học tập như kỳ vọng học sinh cần học tập và luyện tập bền bỉ
 Ba mẹ nên khuyến khích con phân bổ thời gian mỗi ngày để ôn tập và thực hành kiến thức đã học từ đó hiểu sâu vấn đề hình thành bộ nhớ dài hạn
 Để thực hiện bốn mục tiêu trên nền tảng học trực tuyến từ Singapore sẽ đồng hành với học viên từ những ngày đầu học trêm ứng dụng
-Dựa trên thuật toán thông minh công cụ này sẽ kết nối dữ liệu của những người từng học trước kia có năng lực gần giống với học sinh mới sau đó chắt lọc từ hơn 300000 câu hỏi để thiết kế bộ bài tập cá nhân hóa
+Dựa trên thuật toán thông minh công cụ này sẽ kết nối dữ liệu của những người từng học trước kia có năng lực gần giống với học sinh mới sau đó chắt lọc từ hơn câu hỏi để thiết kế bộ bài tập cá nhân hóa
 Ngoài ra ứng dụng gợi ý chủ đề người học cần tập trung học và thực hành mỗi tuần
 Với tính năng GenieClass học viên có thể học trực tiếp với giáo viên nước ngoài qua livestream
 Đại diện đơn vị chia sẻ các thầy cô đều có nhiều năm kinh nghiệm trình độ chuyên môn cao có bài giảng trực quan trò chơi tương tác
 Sau mỗi giờ học bài giảng được lưu trên hệ thống để học sinh có thể xem lại bất kỳ lúc nào
-Ngay sau giờ học trên GenieClass nếu vẫn còn thắc mắc trẻ có thể đặt câu hỏi và nhận giải đáp từ giáo viên song ngữ Anh-Việt thông qua công cụ trò chuyện GenieAsk vị đại diện nói thêm
-Nhờ chiến lược này Geniebook thống kê nền tảng đã giúp hơn 90 học sinh theo học cải thiện năng lực và điểm số chỉ sau 8 bài tập
-Trong đó bạn Hoàng Quân lớp 4 tại Geniebook không thể tự làm bài tập trong những ngày đầu học trên nền tảng
-Sau đó với sự động viên từ Cố vấn học tập làm bài phù hợp với năng lực em có thể tự giải 2-3 bộ bài tập mỗi buổi học và hứng thú với việc thực hành mỗi ngày trên Geniebook
-Tương tự bạn Đăng Khoa lớp 9 tại Geniebook đã tiến bộ vượt bậc trở thành học sinh giỏi Toán nhất trường nhờ tinh thần kỷ luật nỗ lực thực hành với chuỗi bài tập theo năng lực của Geniennook
-Ngoài ra để duy trì sự hứng thú và tạo động lực cho học sinh Geniebook tích hợp hệ thống tích điểm đổi quà không giới hạn - Bubble Store
+Ngay sau giờ học trên GenieClass nếu vẫn còn thắc mắc trẻ có thể đặt câu hỏi và nhận giải đáp từ giáo viên song ngữ AnhViệt thông qua công cụ trò chuyện GenieAsk vị đại diện nói thêm
+Nhờ chiến lược này Geniebook thống kê nền tảng đã giúp hơn học sinh theo học cải thiện năng lực và điểm số chỉ sau bài tập
+Trong đó bạn Hoàng Quân lớp tại Geniebook không thể tự làm bài tập trong những ngày đầu học trên nền tảng
+Sau đó với sự động viên từ Cố vấn học tập làm bài phù hợp với năng lực em có thể tự giải bộ bài tập mỗi buổi học và hứng thú với việc thực hành mỗi ngày trên Geniebook
+Tương tự bạn Đăng Khoa lớp tại Geniebook đã tiến bộ vượt bậc trở thành học sinh giỏi Toán nhất trường nhờ tinh thần kỷ luật nỗ lực thực hành với chuỗi bài tập theo năng lực của Geniennook
+Ngoài ra để duy trì sự hứng thú và tạo động lực cho học sinh Geniebook tích hợp hệ thống tích điểm đổi quà không giới hạn Bubble Store
 Qua đó trẻ có thể làm quen với việc đặt mục tiêu chủ động học và không ngừng nỗ lực hoàn thành những điều đã đề ra
-Nhật Lệ
-

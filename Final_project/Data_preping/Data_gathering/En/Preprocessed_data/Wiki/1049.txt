@@ -1,25 +1,35 @@
-Oncology is a branch of medicine that deals with the prevention diagnosis and treatment of cancer A medical professional who practices oncology is called an Oncologist
+Oncology is a branch of medicine that deals with the prevention diagnosis and treatment of cancer
+A medical professional who practices oncology is called an Oncologist
 Cancer survival has improved due to three main components improved prevention efforts to reduce exposure to risk factors eg tobacco smoking and alcohol consumption improved screening of several cancers allowing for earlier diagnosis and improvements in treatment
-Cancers are often managed through discussion on multi disciplinary cancer conferences where medical oncologists surgical oncologists radiation oncologists pathologists radiologists and organ specific oncologists meet to find the best possible management for an individual patient considering the physical social psychological emotional and financial status of the patient It is very important for oncologists to keep up to date with the latest advancements in oncology as changes in the management of cancer are quite common
+Cancers are often managed through discussion on multi-disciplinary cancer conferences where medical oncologists surgical oncologists radiation oncologists pathologists radiologists and organ-specific oncologists meet to find the best possible management for an individual patient considering the physical social psychological emotional and financial status of the patient
+It is very important for oncologists to keep up-to-date with the latest advancements in oncology as changes in the management of cancer are quite common
 Because a cancer diagnosis can cause distress and anxiety clinicians may use a number of strategies such as SPIKES for offering emotional support
-The name's etymological origin is the Greek word ὄγκος óngkos meaning burden volume mass and barb and the Greek word λόγος logos meaning study The neoclassical term oncology was used from initially in neo Greek in cognizance of Galen's work on abnormal tumors De tumoribus præter naturam Περὶ τῶν παρὰ φύσιν ὄγκων
-Tobacco exposure is the leading cause of cancer and death from it Smoking tobacco is associated with increased risk of death of over varieties of cancer including lung larynx mouth esophagus throat brain bladder kidney liver stomach pancreas colon rectum cervix ovary urinary bladder prostate head and neck brain and blood Smokeless tobacco snuff or chewing tobacco is associated with increased risks of cancers of the mouth esophagus and pancreasAlcohol
-Alcohol consumption increases risk of cancers of the mouth throat esophagus larynx liver and breast The risk of cancer is much higher for those who drink alcohol and also use tobaccoObesity
+The name's etymological origin is the Greek word ὄγκος ngkos meaning
+barb and the Greek word λόγος logos meaning study
+The neoclassical term oncology was used from initially in neo-Greek in cognizance of Galen's work on abnormal tumors De tumoribus præter naturam Περὶ τῶν παρὰ φύσιν ὄγκων
+Tobacco exposure is the leading cause of cancer and death from it
+Smoking tobacco is associated with increased risk of death of over varieties of cancer including lung larynx mouth esophagus throat brain bladder kidney liver stomach pancreas colon rectum cervix ovary urinary bladder prostate head and neck brain and blood
+Smokeless tobacco snuff or chewing tobacco is associated with increased risks of cancers of the mouth esophagus and pancreasAlcohol
+Alcohol consumption increases risk of cancers of the mouth throat esophagus larynx liver and breast
+The risk of cancer is much higher for those who drink alcohol and also use tobaccoObesity
 Obese individuals have an increased risk of cancer of the breast colon rectum endometrium esophagus kidney pancreas and gallbladder
-Advanced age is a risk factor for many cancers The median age of cancer diagnosis is yearsCancer Causing Substances
-Cancer is caused by changes to certain genes that alter the way our cells function Some of them are the result of environmental exposures that damage DNA These exposures may include substances such as the chemicals in tobacco smoke or radiation such as ultraviolet rays from the sun and other carcinogens
+Advanced age is a risk factor for many cancers
+The median age of cancer diagnosis is yearsCancer-Causing Substances
+Cancer is caused by changes to certain genes that alter the way our cells function
+Some of them are the result of environmental exposures that damage DNA
+These exposures may include substances such as the chemicals in tobacco smoke or radiation such as ultraviolet rays from the sun and other carcinogens
 Certain infectious agents including oncoviruses bacteria and parasites can cause cancer
 The body's immune response plays a role in defending the body against cancer a concept known mainly because certain cancers occur at a greatly increased prevalence among people with immunosuppressionCancer screening is recommended for cancers of breast cervix colon and lung
 Signs and symptoms usually depend on the size and type of cancer
 Lump in breast and axilla associated with or without ulceration or bloody nipple discharge
 Nonspecific symptoms such as abdominal distension dyspepsia
 Persistent cough breathlessness blood in the sputum hoarseness of voice
-Non healing ulcer or growth lump in the neck
+Non-healing ulcer or growth lump in the neck
 Persistent headache vomiting loss of consciousness double vision
 Painful swallowing predominantly with solid food weight loss
 Bleeding per rectum alteration of bowel habits
 Jaundice pain and mass in right upper abdomen
-Non healing ulcer or growth mole with sudden increase in size or irregular border induration or pain
+Non-healing ulcer or growth mole with sudden increase in size or irregular border induration or pain
 Urgency hesitancy and frequency while passing urine bony pain
 Fever weight loss more than body weight in preceding months and drenching night sweats which constitutes the B symptoms lump in neck axilla or groin
 Bleeding manifestations including bleeding gums bleeding from nose blood in vomitus blood in sputum blood stained urine black coloured stools fever lump in neck axilla or groin lump in upper abdomenDiagnostic and staging investigations depend on the size and type of malignancy
@@ -28,35 +38,38 @@ Bone marrow studies including aspiration flow cytometry cytogenetics fluorescent
 Excision biopsy of lymph node for histopathological examination immunohistochemistry and molecular studies
 Blood investigations include lactate dehydrogenase LDH serum uric acid and kidney function tests
 Imaging tests such as computerised tomography CT scan positron emission tomography PET CT
-Imaging tests like X ray ultrasonography computerised tomography CT magnetic resonance imaging MRI and PET CT
+Imaging tests like X-ray ultrasonography computerised tomography CT magnetic resonance imaging MRI and PET CT
 Endoscopy including Nasopharyngoscopy Direct Indirect Laryngoscopy Upper Gastrointestinal Endoscopy Colonoscopy Cystoscopy
-Tumor markers including alphafetoprotein AFP Beta Human Chorionic Gonadotropin β HCG Carcinoembionic Antigen CEA CA Prostate specific antigen PSA
+Tumor markers including alphafetoprotein AFP Beta Human Chorionic Gonadotropin β-HCG Carcinoembionic Antigen CEA CA Prostate specific antigen PSA
 Treatment depends on the size and type of cancer
 Treatment options include surgery radiation chemotherapy hormonal therapy and targeted therapy Her neu inhibitors
 Treatment options include radiation surgery and chemotherapy
 Treatment options include surgery radiation and chemotherapy
 Treatment options include surgery chemotherapy and targeted therapy VEGF inhibitors
-Treatment options include surgery and robot assisted surgery radiation chemotherapy and targeted therapy EGFR ALK inhibitors
+Treatment options include surgery and robot-assisted surgery radiation chemotherapy and targeted therapy EGFR ALK inhibitors
 Treatment options include surgery radiosurgery radiation chemotherapy and targeted therapy EGFR inhibitors
 Treatment options include surgery radiosurgery with the Cyberknife System radiation chemotherapy and targeted therapy VEGF inhibitors
 Treatment options include surgery and radioactive iodine
 Treatment options include radiation chemotherapy and surgery
 Treatment options include chemotherapy surgery radiation and targeted therapy Her neu inhibitors
 Treatment options include surgery chemotherapy and targeted therapy EGFR VEGF inhibitors
-Treatment options include surgery Trans arterial chemotherapy TACE Radio frequency ablation RFA and multi kinase Sorafenib
+Treatment options include surgery Trans-arterial chemotherapy TACE Radio-frequency ablation RFA and multi-kinase Sorafenib
 Treatment options include surgery radiation and chemotherapy
 Treatment options include surgery radiation targeted therapy BRAF MEK inhibitors Immunotherapy CTLA PD inhibitors and chemotherapy
-Treatment options include surgery multi kinase inhibitors and targeted therapy mTOR VEGF inhibitors
+Treatment options include surgery multi-kinase inhibitors and targeted therapy mTOR VEGF inhibitors
 Treatment options include surgery radiation and chemotherapy
-Treatment options include surgery radiation chemotherapy anti androgens and immunotherapy
+Treatment options include surgery radiation chemotherapy anti-androgens and immunotherapy
 Treatment options include surgery chemotherapy and radiation
-Treatment options include surgery chemotherapy and radiationIt includes Hodgkin lymphoma HL and non Hodgkin lymphoma NHL
+Treatment options include surgery chemotherapy and radiationIt includes Hodgkin lymphoma HL and non-Hodgkin lymphoma NHL
 Chemotherapy with ABVD or BEACOPP regimen and Involved field radiation therapy IFRT
-Chemo immunotherapy R CHOP for B cell lymphomas and chemotherapy CHOP for T cell lymphomasIncludes acute and chronic leukemias Acute leukemias includes acute lymphoblastic leukemia ALL and acute myeloid leukemia AML Chronic leukemias include chronic lymphocytic leukemia CLL and chronic myeloid leukemia CML
-Intensive chemotherapy phase for initial months and maintenance chemotherapy for years Prophylactic cranial and stem cell transplantation for high risk patients
-Induction with chemotherapy Daunorubicin + Cytarabine followed by consolidation chemotherapy High dose cytarabine Stem cell transplantation for high risk patients
-Chemo immunotherapy FCR or BR regimen for symptomatic patients
-Targeted therapy with tyrosine kinase inhibitor Imatinib as first line treatmentThe four main divisions
+Chemo-immunotherapy R-CHOP for B cell lymphomas and chemotherapy CHOP for T cell lymphomasIncludes acute and chronic leukemias
+Acute leukemias includes acute lymphoblastic leukemia ALL and acute myeloid leukemia AML
+Chronic leukemias include chronic lymphocytic leukemia CLL and chronic myeloid leukemia CML
+Intensive chemotherapy phase for initial months and maintenance chemotherapy for years
+Prophylactic cranial and stem cell transplantation for high-risk patients
+Induction with chemotherapy Daunorubicin + Cytarabine followed by consolidation chemotherapy High dose cytarabine
+Chemo-immunotherapy FCR or BR regimen for symptomatic patients
+Targeted therapy with tyrosine kinase inhibitor Imatinib as first-line treatmentThe four main divisions
 Medical oncology focuses on treatment of cancer with chemotherapy targeted therapy immunotherapy and hormonal therapy
 Surgical oncology focuses on treatment of cancer with surgery
 Radiation oncology focuses on treatment of cancer with radiation
@@ -77,16 +90,18 @@ Geriatric oncology focuses on cancers in elderly population
 Pain Palliative oncology focuses on treatment of end stage cancer to help alleviate pain and suffering
 Molecular oncology focuses on molecular diagnostic methods in oncology
 Nuclear medicine oncology focuses on diagnosis and treatment of cancer with radiopharmaceuticals
-Psycho oncology focuses on psychosocial issues on diagnosis and treatment of cancer patients
+Psycho-oncology focuses on psychosocial issues on diagnosis and treatment of cancer patients
 Veterinary oncology focuses on treatment of cancer in animals
 Cardiooncology is a branch of cardiology that addresses the cardiovascular impact of cancer and its treaments
-Computational oncology An example is PRIMAGE This four year EU funded Horizon project was launched in December The project proposes a cloud based platform to support decision making in the clinical management of malignant solid tumours offering predictive tools to assist diagnosis prognosis therapies choice and treatment follow up based on the use of novel imaging biomarkers in silico tumour growth simulation advanced visualisation of predictions with weighted confidence scores and machine learning based translation of this knowledge into predictors for the most relevant disease specific Clinical End PointsLeukemia Lymphoma Germ cell tumors and early stage solid tumors which were once incurable have become curable malignancies now Immunotherapies have already proven efficient in leukemia bladder cancer and various skin cancer For the future research is promising in the field of physical oncology
+This four-year EU-funded Horizon project was launched in December
+The project proposes a cloud-based platform to support decision making in the clinical management of malignant solid tumours offering predictive tools to assist diagnosis prognosis therapies choice and treatment follow up based on the use of novel imaging biomarkers in-silico tumour growth simulation advanced visualisation of predictions with weighted confidence scores and machine-learning based translation of this knowledge into predictors for the most relevant disease-specific Clinical End PointsLeukemia Lymphoma Germ cell tumors and early stage solid tumors which were once incurable have become curable malignancies now
+Immunotherapies have already proven efficient in leukemia bladder cancer and various skin cancer
+For the future research is promising in the field of physical oncology
 Survival of cancer has significantly improved over the past years due to improved screening diagnostic methods and treatment options with targeted therapy
-Large multi centric Phase III randomised controlled clinical trials by the National Surgical Adjuvant Breast Bowel Project NSABP Medical Research Council MRC the European Organisation for Research and Treatment of Cancer EORTC and National Cancer Institute NCI have contributed significantly to the improvement in survivalWatson Ian R Takahashi Koichi Futreal P Andrew Chin Lynda Emerging patterns of somatic mutations in cancer Nat Rev Genet doinrg PMC PMID
-Meyerson Matthew Gabriel Stacey Getz Gad Advances in understanding cancer genomes through second generation sequencing Nat Rev Genet doinrg PMID SCID
-Katsanis Sara Huston Katsanis Nicholas Molecular genetic testing and the future of clinical genomics Nat Rev Genet doinrg PMC PMID
-Mardis Elaine R Applying next generation sequencing to pancreatic cancer treatment Nat Rev Gastroenterol Hepatol doinrgastro PMID SCID
-Mukherjee Siddhartha The Emperor of All Maladies A Biography of Cancer Fourth Estate ISBN
-Vickers Andrew March Alternative Cancer Cures Unproven or Disproven CA A Cancer Journal for Clinicians CiteSeerX doicanjclin PMID SCID Comprehensive Cancer Information National Cancer Institute January Retrieved
-NCCN Evidence Based Cancer Guidelines Oncology Drug Compendium Oncology Continuing Medical Education National Comprehensive Cancer Network Retrieved
-European Society for Medical Oncology ESMO wwwesmoorg Retrieved
+Large multi-centric Phase III randomised controlled clinical trials by the National Surgical Adjuvant Breast Bowel Project NSABP Medical Research Council MRC the European Organisation for Research and Treatment of Cancer EORTC and National Cancer Institute NCI have contributed significantly to the improvement in survivalWatson Ian R Takahashi Koichi Futreal P
+Emerging patterns of somatic mutations in cancer
+Advances in understanding cancer genomes through second-generation sequencing
+Molecular genetic testing and the future of clinical genomics
+Applying next-generation sequencing to pancreatic cancer treatment
+The Emperor of All Maladies A Biography of Cancer
+NCCN - Evidence-Based Cancer Guidelines Oncology Drug Compendium Oncology Continuing Medical Education

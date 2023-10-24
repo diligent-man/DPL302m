@@ -1,22 +1,19 @@
-Hai thủ khoa khối A00 trượt nguyện vọng 1 đại học
-Hai thủ khoa khối A00 Toán Lý Hóa toàn quốc với 2935 điểm vẫn không đỗ nguyện vọng 1 vào ngành Khoa học máy tính của Bách khoa Hà Nội
-Chiều 22/8 Đại học Bách khoa Hà Nội công bố điểm chuẩn của 52 ngành đào tạo theo phương thức xét điểm thi tốt nghiệp
-Ngành Khoa học máy tính IT1 lấy 2942 điểm cao nhất năm nay
-Công thức tính điểm chuẩn của ngành này như sau Toán x 2 + Môn 2 + Môn 3 x 3/4 + Điểm ưu tiên
-Ngành này chấp nhận tổ hợp A00 Toán Lý Hóa và A01 Toán Lý Tiếng Anh
-Nguyễn Mạnh Thắng cựu học sinh trường THPT chuyên Bắc Giang và Nguyễn Mạnh Hùng cựu học sinh THPT Trưng Vương Hưng Yên là thủ khoa tổ hợp A00 cùng đặt nguyện vọng 1 vào ngành Khoa học máy tính của Đại học Bách khoa Hà Nội
-Trong đó Thắng đạt 975 Vật lý 10 Hóa còn Hùng đạt 10 Lý và 975 Hóa
-Cả hai cùng đạt 96 điểm Toán tổng 2935
-Với công tính trên điểm xét tuyển vào ngành Khoa học máy tính của Thắng và Hùng là 2921
-Theo công thức tính điểm ưu tiên của năm nay Hùng và Thắng chỉ có thêm khoảng 005 điểm cộng chưa đủ giúp các em trúng tuyển
+Hai thủ khoa khối A trượt nguyện vọng đại học
+Hai thủ khoa khối A Toán Lý Hóa toàn quốc với điểm vẫn không đỗ nguyện vọng vào ngành Khoa học máy tính của Bách khoa Hà Nội
+Chiều Đại học Bách khoa Hà Nội công bố điểm chuẩn của ngành đào tạo theo phương thức xét điểm thi tốt nghiệp
+Ngành Khoa học máy tính IT lấy điểm cao nhất năm nay
+Công thức tính điểm chuẩn của ngành này như sau Toán x Môn Môn x Điểm ưu tiên
+Ngành này chấp nhận tổ hợp A Toán Lý Hóa và A Toán Lý Tiếng Anh
+Nguyễn Mạnh Thắng cựu học sinh trường THPT chuyên Bắc Giang và Nguyễn Mạnh Hùng cựu học sinh THPT Trưng Vương Hưng Yên là thủ khoa tổ hợp A cùng đặt nguyện vọng vào ngành Khoa học máy tính của Đại học Bách khoa Hà Nội
+Trong đó Thắng đạt Vật lý Hóa còn Hùng đạt Lý và Hóa
+Cả hai cùng đạt điểm Toán tổng
+Với công tính trên điểm xét tuyển vào ngành Khoa học máy tính của Thắng và Hùng là
+Theo công thức tính điểm ưu tiên của năm nay Hùng và Thắng chỉ có thêm khoảng điểm cộng chưa đủ giúp các em trúng tuyển
 Em bất ngờ vì điểm chuẩn tăng cao và cũng khá tiếc về kết quả Thắng nói
 Đây cũng là tâm trạng của Hùng sau khi biết điểm chuẩn
-Hai nam sinh đỗ nguyện vọng 2 cùng đặt ngành Kỹ thuật Máy tính IT2 của trường Bách khoa
-Ngành này lấy điểm chuẩn 2829
+Hai nam sinh đỗ nguyện vọng cùng đặt ngành Kỹ thuật Máy tính IT của trường Bách khoa
 Lý giải của Đại học Bách khoa Hà Nội
-Thủ khoa khối A00 còn lại là Trần Nguyệt Hằng cho biết đặt nguyện vọng một vào ngành Logistics và Quản lý chuỗi cung ứng trường Đại học Ngoại thương cơ sở TP HCM và đã trúng tuyển
-Năm nay Đại học Bách khoa Hà Nội tuyển 7985 sinh viên
-Trong đó 15-20 chỉ tiêu dành cho phương thức xét tuyển tài năng 85-90 xét tuyển theo điểm thi tốt nghiệp THPT và đánh giá tư duy do trường tổ chức
-Điểm chuẩn năm ngoái của Đại học Bách khoa Hà Nội theo phương thức xét điểm thi tốt nghiệp THPT cao nhất 2829 ngành Kỹ thuật máy tính thấp nhất 2303 ở các ngành Kỹ thuật hóa học Kỹ thuật in Kỹ thuật môi trường Quản lý tài nguyên và môi trường
-Thanh Hằng
-
+Thủ khoa khối A còn lại là Trần Nguyệt Hằng cho biết đặt nguyện vọng một vào ngành Logistics và Quản lý chuỗi cung ứng trường Đại học Ngoại thương cơ sở TP HCM và đã trúng tuyển
+Năm nay Đại học Bách khoa Hà Nội tuyển sinh viên
+Trong đó chỉ tiêu dành cho phương thức xét tuyển tài năng xét tuyển theo điểm thi tốt nghiệp THPT và đánh giá tư duy do trường tổ chức
+Điểm chuẩn năm ngoái của Đại học Bách khoa Hà Nội theo phương thức xét điểm thi tốt nghiệp THPT cao nhất ngành Kỹ thuật máy tính thấp nhất ở các ngành Kỹ thuật hóa học Kỹ thuật in Kỹ thuật môi trường Quản lý tài nguyên và môi trường

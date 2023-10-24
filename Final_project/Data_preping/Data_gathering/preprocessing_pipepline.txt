@@ -1,8 +1,17 @@
 En:
     Split into single sentences ->
     Expand contraction words that don't exist in word2vec vocab ->
-    Remove punctuation marks & numerals (except apostrophe) -> 
-    Remove Emoji
-    Remove Chinese hieroglyphs
+    Remove by regex
+        + punctuation_marks_and_numeral (except apostrophe & hyphen)
+        + dash
+        + Chinese hieroglyphs
+        + Vietnamese chars
+        + Some IPAs
+    -> sentences less than 7 words are ignored
 
-Vn: 
+Vn:
+    Split into single sentences ->
+    Remove by regex
+        + punctuation_marks_and_numeral (except apostrophe & hyphen)
+        + hyphen & dash
+    -> sentences less than 7 words are ignored

@@ -1,5 +1,5 @@
 VTC Online phát hành ứng dụng luyện nói tiếng Anh Betia English
-VTC Online và Hodoo Labs hợp tác phát hành Betia English - ứng dụng giúp phát triển kỹ năng nói tiếng Anh cho người dùng Việt Nam
+VTC Online và Hodoo Labs hợp tác phát hành Betia English ứng dụng giúp phát triển kỹ năng nói tiếng Anh cho người dùng Việt Nam
 Betia English được Công ty giáo dục Hàn Quốc Hodoo Labs nghiên cứu và ra mắt nhằm đem đến những trải nghiệm tối ưu trong học tiếng Anh cho học sinh
 Khác với phương thức cung cấp kiến thức truyền thống Betia English xây dựng một thế giới ảo có cốt truyện và các nhân vật mang những nét tính cách và đặc trưng nghề nghiệp khác nhau đem tới những tình huống mang tính ứng dụng trong thực tế giúp các em luyện tập và nâng cao kỹ năng nói
 Cốt truyện kể về thế giới Betia vốn yên bình bỗng bị xâm chiếm và bị đánh cắp ngôn ngữ
@@ -9,7 +9,7 @@ Không tập trung đánh giá thông qua điểm số Betia hướng tới vi�
 Kiến thức thực tế được triển khai dưới dạng một câu chuyện với hệ thống nhân vật ảo tạo cho các em cảm giác đang trò chuyện với một người bạn thực sự trên ứng dụng
 Betia English được phát triển theo định hướng mô hình hệ thống nhiệm vụ với một chuỗi bài học cùng phần thưởng đồng thời tăng cường tương tác với học sinh nhằm kích thích khả năng phát âm tiếng Anh tự nhiên
 Thông qua ứng dụng công nghệ AI nhận diện giọng nói Betia English có thể nhận diện đánh giá phát âm của học sinh và trả ra nhận xét chi tiết tạo cơ sở để các em kiểm soát chất lượng và xây dựng kế hoạch học tập phù hợp và hiệu quả
-Nội dung bài học của Betia được xây dựng và phát triển theo chuẩn Khung tham chiếu trình độ ngôn ngữ chung của châu Âu CEFR do Chungdahm Learning - tập đoàn giáo dục hàng đầu Hàn Quốc - phối hợp biên soạn
+Nội dung bài học của Betia được xây dựng và phát triển theo chuẩn Khung tham chiếu trình độ ngôn ngữ chung của châu Âu CEFR do Chungdahm Learning tập đoàn giáo dục hàng đầu Hàn Quốc phối hợp biên soạn
 Thay vì chỉ xoay quanh những bài học về ngữ pháp hay từ vựng Betia English sử dụng phương pháp Chunking để xây dựng lộ trình học
 Đây là phương pháp học ngoại ngữ thông qua mẫu câu cụm từ hoặc cách diễn đạt trong ngữ cảnh cụ thể chứ không học từng từ vựng riêng lẻ
 Phương pháp này không chỉ giúp người đọc nâng cao khả năng ghi nhớ mà còn giúp người học tránh việc dùng sai nghĩa của từ đồng thời nâng cao khả năng phát âm cải thiện ngữ điệu khi nói
@@ -17,10 +17,8 @@ Kết hợp giữa chơi và học Betia English trở nên đặc biệt mang l
 Với phương châm giáo dục không khoảng cách ứng dụng này đã trở thành người bạn đồng hành hàng ngày hỗ trợ hàng triệu học sinh rèn luyện và cải thiện kỹ năng nói tiếng Anh tại Hàn Quốc
 Ông Nguyễn Đức Duy Trưởng dự án Betia English của VTC Online chia sẻ trong thời đại hội nhập quốc tế và tiếng Anh là một trong những ngôn ngữ được sử dụng nhiều nhất việc luyện tập và phát triển kỹ năng nói tiếng Anh là vô cùng cần thiết
 Tuy nhiên những hạn chế về thời gian cũng như không gian luyện tập chính là rào cản đối với các em học sinh Việt Nam bởi không phải lúc nào các em cũng có nhiều cơ hội để luyện tập
-VTC Online đưa Betia English - ứng dụng phát triển tiếng Anh hàng đầu Hàn Quốc đến với các bạn học sinh Việt Nam nhằm góp phần tạo thêm một sân chơi ngôn ngữ - nơi các em có thể chủ động luyện tập và khơi dậy hứng thú học tiếng Anh cho các em ông Duy cho biết
+VTC Online đưa Betia English ứng dụng phát triển tiếng Anh hàng đầu Hàn Quốc đến với các bạn học sinh Việt Nam nhằm góp phần tạo thêm một sân chơi ngôn ngữ nơi các em có thể chủ động luyện tập và khơi dậy hứng thú học tiếng Anh cho các em ông Duy cho biết
 VTC Online dự kiến sẽ chính thức phát hành ứng dụng Betia trên thị trường giáo dục Việt Nam vào đầu năm học tới
 Đơn vị kỳ vọng Betia English sẽ trở thành người bạn đồng hành cùng học sinh Việt Nam nâng cao kỹ năng nói tiếng Anh hướng đến mục tiêu phát triển năng lực tiếng Anh toàn diện
 Công ty Cổ phần VTC truyền thông trực tuyến VTC Online là đơn vị hoạt động trong lĩnh vực công nghệ và nội dung số có nền tảng kỹ thuật và kinh nghiệm triển khai dịch vụ giáo dục trực tuyến trên internet sở hữu chương trình Olympic tiếng Anh trên Internet IOE
 Hodoo Labs là công ty công nghệ giáo dục hàng đầu tại Hàn Quốc mới đây nhận được danh hiệu Công ty công nghệ tiềm năng do Bộ Doanh nghiệp vừa và nhỏ và khởi nghiệp Hàn Quốc trao tặng
-Hoàng Anh
-

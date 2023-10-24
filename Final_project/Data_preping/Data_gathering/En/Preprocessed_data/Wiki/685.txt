@@ -1,85 +1,205 @@
-SC Welsh pronunciation ˌɛs ˌpɛdwar ˈɛk Sianel Pedwar Cymru meaning Channel Four Wales is a Welsh language and a Welsh English language free to air television channel Launched on November it was the first television channel to be aimed specifically at a Welsh speaking audience SC's headquarters are based in Carmarthen at the University of Wales Trinity Saint David's creative and digital centre Yr Egin It also has regional offices in Caernarfon and Cardiff As of SC had an average of employees SC is the fourth oldest terrestrial television channel in Wales after BBC One ITV and BBC Two
-As with Channel which launched the very next day in the rest of the UK SC commissions all of its programmes from independent producers BBC Cymru Wales produces programmes for SC as part of its public service remit including the news service Newyddion From its launch until SC also carried English language programming acquired from Channel which could not be received over the air in most of Wales these programmes aired in non peak hours and did not always air in pattern with Channel 's scheduling
-On digital terrestrial television SC has broadcast exclusively in Welsh since the platform's launch in with the existing bilingual schedule continuing on analogue television After the completion of the digital switchover in Wales on March Channel became available on Freeview and SC ceased its carriage of English language programmes SC offers translated English language subtitles for its Welsh programming
-Before the launch of SC on Monday November Welsh speakers had been served by occasional programmes in Welsh broadcast as regional opt outs on BBC Cymru Wales and HTV Cymru Wales the ITV franchise in Wales usually at off peak or inconvenient times This was unsatisfactory for Welsh speakers who saw the arrangement as a sop and at the same time an annoyance for non Welsh speakers who found the English language programmes seen in the rest of the UK often rescheduled or not transmitted at all
-On September the ITV network had created a licence area for North and West Wales which was awarded to Wales West and North Limited This traded as Teledu Cymru and provided significant levels of Welsh language programming However problems with transmission infrastructure and poor market research led to financial difficulties within two years and after going bankrupt the station was taken over by its neighbour Television Wales and the West
-During the s Welsh language activists had campaigned for a television service in the language which already had its own radio station BBC Radio Cymru Both the Conservative and Labour parties promised a Welsh language fourth channel if elected to government in the general election Shortly after the Conservatives won a majority in the election the new Home Secretary William Whitelaw decided against a Welsh fourth channel and suggested that except for an occasional opt out the service should be the same as that offered in the rest of the UK This led to acts of civil disobedience including refusals to pay the television licence fee thereby running the risk of prosecution or even a prison sentence and sit ins in BBC and HTV studios Some took more extreme measures including attacking television transmitters in Welsh speaking areas
-On September the former president of Plaid Cymru Gwynfor Evans threatened to go on hunger strike if the Conservative government of Margaret Thatcher did not honour its commitment to provide a Welsh language television service SC started broadcasting on November
-In September SC began a study into the possible relocation of its headquarters In March it was announced that Carmarthen was the winner with a bid led by the University of Wales Trinity Saint David The university owns the land where the Canolfan SC Yr Egin SC Yr Egin Centre would be built The building would also be home to other companies in the creative industries There was a strong bid for relocation to Caernarfon but there was disappointment that the bid was unsuccessful In it was revealed that SC was paying £ million upfront rent to UWTSD and that it would pay rent over the next years Concern was expressed about the arrangement and the lack of transparency around commercial payments between two publicly funded bodies The University of Wales Trinity Saint David applied for funding for the building work and received £m from the Welsh Government and a further £m from the Swansea Bay city deal
-In June it was revealed that more staff would be leaving the channel than moving to work in Carmarthen SC started relocating to the new building from September and jobs moved to the new HQ An office in Cardiff was retained for technical purposes until full changeover to the new BBC Wales Headquarters with staff there A significant percentage of the technical posts were to transfer to the BBC In September SC committed to ten years of lease on its Caernarfon office which has full time staff In January SC's Presentation Library Promotion and Commercial departments moved to BBC Wales headquarters in Central Square Cardiff The first programmes were broadcast from there January beginning with the channel's children's service Cyw at am Liz Scourfield's first live presentation aired later that morning before the news bulletin at
-SC's remit is to provide a service which features a wide range of programmes in the Welsh language Like Channel SC does not produce programmes of its own instead it commissions programmes from BBC Cymru Wales and independent producers although the quantity purchased from ITV Cymru Wales has greatly reduced since the early years of SC and it has particularly developed a reputation for commissioning children's animation such as SuperTed Rocky Hollow Fireman Sam also broadcast by the BBC Gogs Shakespeare The Animated Tales Animated Tales of the World and the French co production Natalie
-BBC Cymru Wales fulfils its public service requirement by producing programmes in Welsh including Newyddion SC's news bulletin and a soap opera Pobol y Cwm and providing them to SC free of charge It has also provided or licensed Welsh language versions of English language programmes such as the original Teletubbies On the analogue service SC showed programmes produced for Channel in the rest of the United Kingdom either simultaneously or time shifted outside of peak hours These programmes were provided to SC by Channel free of charge
-To make content more accessible to English speakers all Welsh language programming carries English subtitles Originally these were on Sbectel teletext page with Welsh subtitles on page with both subtitle languages now also available on digital television platforms For speakers of English who are learning Welsh certain programmes particularly children's programmes Planed Plant Bach now Cyw and Planed Plant now Stwnsh carry subtitles featuring Welsh subtitles with additional English translations in brackets next to more difficult Welsh language words TV films produced for SC have received some good foreign reviews Hedd Wyn was nominated for the Best Foreign Language Oscar in and Solomon Gaenor was nominated in
-The SC analogue signal also spilled over on to the east coast of Ireland In the past it was rebroadcast in a number of areas there on UHF terrestrial signals by so called 'deflectors' Up until the s SC was also carried by some Irish cable and MMDS providers before being replaced by Channel The SC channels continue to be available in the Republic of Ireland via the Freesat satellite service
+SC Welsh pronunciation ˌɛs ˌpɛdwar ˈɛk Sianel Pedwar Cymru meaning Channel Four Wales is a Welsh-language and a Welsh English language free-to-air television channel
+Launched on November it was the first television channel to be aimed specifically at a Welsh-speaking audience
+SC's headquarters are based in Carmarthen at the University of Wales Trinity Saint David's creative and digital centre Yr Egin
+It also has regional offices in Caernarfon and Cardiff
+As of SC had an average of employees
+SC is the fourth-oldest terrestrial television channel in Wales after BBC One ITV and BBC Two
+As with Channel which launched the very next day in the rest of the UK SC commissions all of its programmes from independent producers
+BBC Cymru Wales produces programmes for SC as part of its public service remit including the news service Newyddion
+From its launch until SC also carried English-language programming acquired from Channel which could not be received over-the-air in most of Wales these programmes aired in non-peak hours and did not always air in pattern with Channel 's scheduling
+On digital terrestrial television SC has broadcast exclusively in Welsh since the platform's launch in with the existing bilingual schedule continuing on analogue television
+After the completion of the digital switchover in Wales on March Channel became available on Freeview and SC ceased its carriage of English-language programmes
+SC offers translated English-language subtitles for its Welsh programming
+Before the launch of SC on Monday November Welsh speakers had been served by occasional programmes in Welsh broadcast as regional opt-outs on BBC Cymru Wales and HTV Cymru Wales the ITV franchise in Wales usually at off-peak or inconvenient times
+This was unsatisfactory for Welsh speakers who saw the arrangement as a sop and at the same time an annoyance for non-Welsh speakers who found the English-language programmes seen in the rest of the UK often rescheduled or not transmitted at all
+On September the ITV network had created a licence area for North and West Wales which was awarded to Wales West and North Limited
+This traded as Teledu Cymru and provided significant levels of Welsh-language programming
+However problems with transmission infrastructure and poor market research led to financial difficulties within two years and after going bankrupt the station was taken over by its neighbour Television Wales and the West
+During the s Welsh-language activists had campaigned for a television service in the language which already had its own radio station BBC Radio Cymru
+Both the Conservative and Labour parties promised a Welsh-language fourth channel if elected to government in the general election
+Shortly after the Conservatives won a majority in the election the new Home Secretary William Whitelaw decided against a Welsh fourth channel and suggested that except for an occasional opt-out the service should be the same as that offered in the rest of the UK
+This led to acts of civil disobedience including refusals to pay the television licence fee thereby running the risk of prosecution or even a prison sentence and sit-ins in BBC and HTV studios
+Some took more extreme measures including attacking television transmitters in Welsh-speaking areas
+On September the former president of Plaid Cymru Gwynfor Evans threatened to go on hunger strike if the Conservative government of Margaret Thatcher did not honour its commitment to provide a Welsh-language television service
+In September SC began a study into the possible relocation of its headquarters
+In March it was announced that Carmarthen was the winner with a bid led by the University of Wales Trinity Saint David
+The university owns the land where the Canolfan SC Yr Egin SC Yr Egin Centre would be built
+The building would also be home to other companies in the creative industries
+There was a strong bid for relocation to Caernarfon but there was disappointment that the bid was unsuccessful
+In it was revealed that SC was paying £ million upfront rent to UWTSD and that it would pay rent over the next years
+Concern was expressed about the arrangement and the lack of transparency around commercial payments between two publicly funded bodies
+The University of Wales Trinity Saint David applied for funding for the building work and received £m from the Welsh Government and a further £m from the Swansea Bay city deal
+In June it was revealed that more staff would be leaving the channel than moving to work in Carmarthen
+SC started relocating to the new building from September and jobs moved to the new HQ
+An office in Cardiff was retained for technical purposes until full changeover to the new BBC Wales Headquarters with staff there
+A significant percentage of the technical posts were to transfer to the BBC
+In September SC committed to ten years of lease on its Caernarfon office which has full-time staff
+In January SC's Presentation Library Promotion and Commercial departments moved to BBC Wales headquarters in Central Square Cardiff
+The first programmes were broadcast from there January beginning with the channel's children's service Cyw at am
+Liz Scourfield's first live presentation aired later that morning before the news bulletin at
+SC's remit is to provide a service which features a wide range of programmes in the Welsh language
+Like Channel SC does not produce programmes of its own instead it commissions programmes from BBC Cymru Wales and independent producers although the quantity purchased from ITV Cymru Wales has greatly reduced since the early years of SC and it has particularly developed a reputation for commissioning children's animation such as SuperTed Rocky Hollow Fireman Sam also broadcast by the BBC Gogs Shakespeare The Animated Tales Animated Tales of the World and the French co-production Natalie
+BBC Cymru Wales fulfils its public service requirement by producing programmes in Welsh including Newyddion SC's news bulletin and a soap opera Pobol y Cwm and providing them to SC free of charge
+It has also provided or licensed Welsh-language versions of English-language programmes such as the original Teletubbies
+On the analogue service SC showed programmes produced for Channel in the rest of the United Kingdom either simultaneously or time-shifted outside of peak hours
+These programmes were provided to SC by Channel free of charge
+To make content more accessible to English speakers all Welsh-language programming carries English subtitles
+Originally these were on Sbectel teletext page with Welsh subtitles on page with both subtitle languages now also available on digital television platforms
+For speakers of English who are learning Welsh certain programmes particularly children's programmes Planed Plant Bach now Cyw and Planed Plant now Stwnsh carry subtitles featuring Welsh subtitles with additional English translations in brackets next to more difficult Welsh-language words
+TV films produced for SC have received some good foreign reviews Hedd Wyn was nominated for the Best Foreign Language Oscar in and Solomon Gaenor was nominated in
+The SC analogue signal also spilled over on to the east coast of Ireland
+In the past it was rebroadcast in a number of areas there on UHF terrestrial signals by so-called 'deflectors'
+Up until the s SC was also carried by some Irish cable and MMDS providers before being replaced by Channel
+The SC channels continue to be available in the Republic of Ireland via the Freesat satellite service
 Up until SC ran its own teletext service Sbectel Sbec Welsh for a peek or a glimpse and a reference to an SC schedule insert formerly included in the TVTimes issues for the HTV Wales region
-million people throughout the UK watched SC on television at some time during The number of people who watched SC on TV every week throughout the UK increased from in to in On an average week in approximately people in Wales watched SC on TV Welsh speakers in Wales watched SC each week during this period was the average audience in the peak hours during
-The BARB rolling four week viewing figures for January were across the UK If scaled up for Wales alone this would be just a audience share
-The programme that enjoyed the channel's highest viewing figures in was Sgorio's coverage of Wales' Euro qualifier match against Hungary in November which drew viewers
+million people throughout the UK watched SC on television at some time during
+The number of people who watched SC on TV every week throughout the UK increased from in to in
+On an average week in approximately people in Wales watched SC on TV
+Welsh speakers in Wales watched SC each week during this period
+was the average audience in the peak hours during
+The BARB rolling four-week viewing figures for January were across the UK
+If scaled up for Wales alone this would be just a audience share
+The programme that enjoyed the channel's highest viewing figures in - was Sgorio's coverage of Wales' Euro qualifier match against Hungary in November which drew viewers
 There were also million viewing sessions of SC content on Facebook Twitter and YouTube in with million viewing sessions of SC content on SC Arlein and BBC iPlayer
-When digital terrestrial television launched in SC added a second full time Welsh language channel called SC Digidol 'digital' on November Following the switch off of analogue terrestrial signals on March Wales became the first fully digital region in the UK with both SC and Channel becoming available to all homes As a result SC now broadcasts solely in the Welsh language and as well as on Freeview in Wales is available throughout Britain Ireland and the rest of western Europe on Freesat and Sky A review commissioned by the Department for Culture Media and Sport in suggested that SC should operate a single core service after digital switchover
-In addition SC also operated a sister channel SC until It formerly broadcast coverage of the National Assembly for Wales when in session The programme content was provided by the BBC who from January now make it available online and via BBC Parliament Like the main channel SC was available within Wales on Freeview and throughout the UK and Ireland on Freesat and Sky SC had two audio feeds allowing viewers to select between an untranslated version and an English only version where all Welsh spoken is translated into English Delayed coverage of Assembly proceedings is now broadcast overnight on SC's main channel on Tuesdays Wednesdays and Thursdays In addition to the analogue TV signal transmitted throughout Wales SC along with United News Media owned the company SC Digital Networks SDN SDN was awarded the UK wide contract to provide half a digital multiplex worth of programming The other half continues to belong to the broadcaster Channel
-On April SC sold its share of SDN to ITV plc for approximately £ million though it still has the half multiplex as of right in Wales ITV already owned some of SDN due to the consolidation of the ITV industry Granada bought UNM's stake in SDN and this was then incorporated into the united ITV plc In January SC announced plans to launch a Welsh language children's service The new service in the form of a programming block launched on June Under the name Cyw chick it brings together a wide range of programmes for nursery age children and SC plans eventually to extend the service to include the Stwnsh strand for older children and a third service for teenagers and young people The service currently airs on weekdays from am to pm on SC
-SC launched a high definition simulcast of SC called 'Clirlun' on July to coincide with terrestrial digital switchover in Wales Clirlun was broadcast on Freeview channel only and not via other platforms However following funding cuts and a review of core services it was announced on July that Clirlun would close before the end of the year Clirlun closed at midnight on the evening of December with Channel HD taking over its transmission capacity with effect from the next day December
-It was announced on May that SC would relaunch a high definition service SC HD on Freesat and Sky in Wales and across the UK from June onwards Following the relaunch of SC HD the channel returned to Freeview in HD from pm on Wednesday January It will broadcast for peak viewing hours only from pm on weekday evenings and from pm on weekends sharing capacity with the HD version of the BBC's children's service CBBC
-In December SC became available on the BBC iPlayer website both live and on demand as part of an month trial
-SC launched on November the day before Channel started in England Scotland and Northern Ireland its on air appearance has always been a representation of the Welsh society and people but this representation has changed several times Initial idents featured clips from the natural landscapes of Wales with a basic logo animation and a synthesizer fanfare with the logo forming as WALESCYMRU
-On May the ident changed to a computer generated ident featuring an animation of the streamlined SC logo and the colours of the logo were blue green and red The font used for this logo was Bodoni MT Bold On September the new ident was introduced depicting a piece of Welsh slate with colours blue green and red washing over the letters SC until May
-On June SC introduced a new series of idents which depicted inanimate objects as having characteristics of dragons such as flight or breathing fire as a reference to the red dragon on the flag of Wales On February the channel introduced a new logo in the Futura typeface replaces the original serif logo featuring a tilde representing a dragon with a flame next to the C as if were breathing fire The idents were designed created and directed by Charlotte Castle Brian Eley and Martin Lambie Nairn
-Inanimate objects in the regular idents contained a dragon made of flags a kite an oxy acetylene a pair of scissors a shepherd dragon man a sousaphone a standpipe an extinguisher an iron a pencil a flashlight a pedal bin a fan a sport screen a spray can a vacuum cleaner a stapler a computer mouse a garlic crusher a lawnmower a magic hat a shower an egg cup and a loudspeaker
-Many variants were made over the course during its year existence such as the shots angles and music until the dragon idents were withdrawn on December
-Dragon Standard On different angles fire is spreading around some sticks with flags the screen then proceeds to show the whole object which is a floating red standard in the shape of a dragon made of flags It was used for the SC Video Classics ident from to
-Oxy acetylene The upper part of an oxy acetylene rotates and then blows fire The screen then shows the entire object A mirrored version was also produced
+When digital terrestrial television launched in SC added a second full-time Welsh-language channel called SC Digidol 'digital' on November
+Following the switch-off of analogue terrestrial signals on March Wales became the first fully digital region in the UK with both SC and Channel becoming available to all homes
+As a result SC now broadcasts solely in the Welsh language and as well as on Freeview in Wales is available throughout Britain Ireland and the rest of western Europe on Freesat and Sky
+A review commissioned by the Department for Culture Media and Sport in suggested that SC should operate a single core service after digital switchover
+In addition SC also operated a sister channel SC until
+It formerly broadcast coverage of the National Assembly for Wales when in session
+The programme content was provided by the BBC who from January now make it available online and via BBC Parliament
+Like the main channel SC was available within Wales on Freeview and throughout the UK and Ireland on Freesat and Sky
+SC had two audio feeds allowing viewers to select between an untranslated version and an English-only version where all Welsh spoken is translated into English
+Delayed coverage of Assembly proceedings is now broadcast overnight on SC's main channel on Tuesdays Wednesdays and Thursdays
+In addition to the analogue TV signal transmitted throughout Wales SC along with United News Media owned the company SC Digital Networks SDN
+SDN was awarded the UK-wide contract to provide half a digital multiplex worth of programming
+The other half continues to belong to the broadcaster Channel
+On April SC sold its share of SDN to ITV plc for approximately £ million though it still has the half-multiplex as of right in Wales
+ITV already owned some of SDN due to the consolidation of the ITV industry Granada bought UNM's stake in SDN and this was then incorporated into the united ITV plc
+In January SC announced plans to launch a Welsh-language children's service
+The new service in the form of a programming block launched on June
+Under the name Cyw chick it brings together a wide range of programmes for nursery-age children and SC plans eventually to extend the service to include the Stwnsh strand for older children and a third service for teenagers and young people
+The service currently airs on weekdays from am to pm on SC
+SC launched a high-definition simulcast of SC called 'Clirlun' on July to coincide with terrestrial digital switchover in Wales
+Clirlun was broadcast on Freeview channel only and not via other platforms
+However following funding cuts and a review of core services it was announced on July that Clirlun would close before the end of the year
+Clirlun closed at midnight on the evening of December with Channel HD taking over its transmission capacity with effect from the next day December
+It was announced on May that SC would relaunch a high-definition service SC HD on Freesat and Sky in Wales and across the UK from June onwards
+Following the relaunch of SC HD the channel returned to Freeview in HD from pm on Wednesday January
+It will broadcast for peak viewing hours only from pm on weekday evenings and from pm on weekends sharing capacity with the HD version of the BBC's children's service CBBC
+In December SC became available on the BBC iPlayer website both live and on demand as part of an -month trial
+SC launched on November the day before Channel started in England Scotland and Northern Ireland its on-air appearance has always been a representation of the Welsh society and people but this representation has changed several times
+Initial idents featured clips from the natural landscapes of Wales with a basic logo animation and a synthesizer fanfare with the logo forming as WALESCYMRU
+On May the ident changed to a computer-generated ident featuring an animation of the streamlined SC logo and the colours of the logo were blue green and red
+The font used for this logo was Bodoni MT Bold
+On September the new ident was introduced depicting a piece of Welsh slate with colours blue green and red washing over the letters SC until May
+On June SC introduced a new series of idents which depicted inanimate objects as having characteristics of dragons such as flight or breathing fire as a reference to the red dragon on the flag of Wales
+On February the channel introduced a new logo in the Futura typeface replaces the original serif logo featuring a tilde representing a dragon with a flame next to the C as if were breathing fire
+The idents were designed created and directed by Charlotte Castle Brian Eley and Martin Lambie-Nairn
+Inanimate objects in the regular idents contained a dragon made of flags a kite an oxy-acetylene a pair of scissors a shepherd dragon man a sousaphone a standpipe an extinguisher an iron a pencil a flashlight a pedal bin a fan a sport screen a spray can a vacuum cleaner a stapler a computer mouse a garlic crusher a lawnmower a magic hat a shower an egg cup and a loudspeaker
+Many variants were made over the course during its -year existence such as the shots angles and music until the dragon idents were withdrawn on December
+Dragon Standard On different angles fire is spreading around some sticks with flags the screen then proceeds to show the whole object which is a floating red standard in the shape of a dragon made of flags
+It was used for the SC Video Classics ident from to
+Oxy-acetylene The upper part of an oxy-acetylene rotates and then blows fire
+The screen then shows the entire object
 Dragon Man A man dressed as a dragon with his shepherd staff with a dragon's tail as a hook in a mountainous region blows fire
-Scissors A pair of red scissors open up and blow yellow and orange pieces of fabric to represent fire A short version had a closer view of the scissor's blades which has smoke coming from it
+Scissors A pair of red scissors open up and blow yellow and orange pieces of fabric to represent fire
+A short version had a closer view of the scissor's blades which has smoke coming from it
 Kite A kite made to look like a dragon floats around in the sky
-Clockwork Dragon On a grey background a D mechanism countdown clock with bouncing red balls shows red pieces of a dragon scattered in loop in minutes or seconds and in last few frames it reveals a red dragon It was used for schools programming until June Welsh and English versions were made
-Sousaphone A camera pans around a brass sousaphone which blows fire A short version had the entire view of a sousaphone blowing fire over a table
-Standpipe A standpipe that looks like an old fashioned water pump is turned on and emits fire
-Extinguisher A sentient fire extinguisher sees a flame and proceeds to put it out A short version had a closer view of the extinguisher's pressure gauge which is constantly moving
+Clockwork Dragon On a grey background a D mechanism countdown clock with bouncing red balls shows red pieces of a dragon scattered in loop in minutes or seconds and in last few frames it reveals a red dragon
+It was used for schools programming until June
+Sousaphone A camera pans around a brass sousaphone which blows fire
+A short version had the entire view of a sousaphone blowing fire over a table
+Standpipe A standpipe that looks like an old-fashioned water pump is turned on and emits fire
+Extinguisher A sentient fire extinguisher sees a flame and proceeds to put it out
+A short version had a closer view of the extinguisher's pressure gauge which is constantly moving
 Iron A red clothes iron moves forwards and then backwards on the red cloth over a table which makes steam
-Pencil A red pencil draws forming fire around the floor Then the screen shows a close view of the pencil A short version had a fire version
+Pencil A red pencil draws forming fire around the floor
+Then the screen shows a close view of the pencil
+A short version had a fire version
 Curly Light A red flashlight attached with a long red pipe wire around the pole turns on and moves around the screen
 Pedal Bin A pile of rubbish falls into a red pedal bin which eventually blows fire
-Fan A fan is located near an open window on a room working Eventually it blows fire rather than wind A short version was also produced
+Fan A fan is located near an open window on a room working
+Eventually it blows fire rather than wind
 Spray Can A spray can sprays red graffiti around the rusty brown background
 Vacuum Cleaner A red vacuum cleaner is seen performing on the stage
-Screen A big red countdown sport screen shows fire in the end It was used for sports programming until October
-Tiled Carousel A picture of a Welsh landscape moves with the square pieces of puzzle of a dragon and a landscape inside and out until the last few frames the pieces reveal a brown Welsh dragon Two versions were made one in coloured version until June and the monochrome version in September onwards It was used for schools programming
+Screen A big red countdown sport screen shows fire in the end
+It was used for sports programming until October
+Tiled Carousel A picture of a Welsh landscape moves with the square pieces of puzzle of a dragon and a landscape inside and out until the last few frames the pieces reveal a brown Welsh dragon
+Two versions were made one in coloured version until June and the monochrome version in September onwards
 Stapler A red stapler gets the red ribbon and sways it at the end
-Mouse A computer mouse moves around and pulls the connector out at the end A special preview screen was also produced
+Mouse A computer mouse moves around and pulls the connector out at the end
+A special preview screen was also produced
 Garlic Crusher A chili pepper falls onto the garlic crusher which blows fire
 Lawnmower A lawnmower is seen cutting the grass setting sparks out and running around in the end with black smoke
 Shower A bathroom door opens with the SC logo and the web address turning red and a bathroom curtain reveals a red shower head which blows fire
-Magic Hat A magic top hat blows fire and pours little red hearts out A special St David's Day version was also produced with daffodils
-Egg Cup Three eggs are seen in the row one of them in between cracks and blows fire A short version with two eggs removed was also produced
+Magic Hat A magic top hat blows fire and pours little red hearts out
+David's Day version was also produced with daffodils
+Egg Cup Three eggs are seen in the row one of them in between cracks and blows fire
+A short version with two eggs removed was also produced
 Loudspeaker A loudspeaker is seen dancing and blowing fire in the end
 Special idents were the Christmas idents Saint David's Day idents a kangaroo dragon flag ident for the Rugby World Cup Mawr also the ITV ident in Cofio Eisteddfod idents and the Big Brother final
 The new sports ident named Chwaraeon SC Sport replaced the countdown screen in October
-From January temporary idents were used which gave a nod towards what was to come for the new presentation on the station and it was called 'A new direction' The logo was withdrawn on January
-The clock idents changed in the same clock from with the new logo and this was the last logo to include the clock ident There were also Christmas versions for the clock idents
-In during the channel's th anniversary two idents were revived the Dragon Standard and Stapler variants These idents again were adapted to widescreen and used the same special logo previously mentioned A toy dragon looks around inside a greenish snow globe with a tree and some presents The background is slightly brownish
+From January temporary idents were used which gave a nod towards what was to come for the new presentation on the station and it was called 'A new direction'
+The clock idents changed in the same clock from with the new logo and this was the last logo to include the clock ident
+There were also Christmas versions for the clock idents
+In during the channel's th anniversary two idents were revived the Dragon Standard and Stapler variants
+These idents again were adapted to widescreen and used the same special logo previously mentioned A toy dragon looks around inside a greenish snow globe with a tree and some presents
 A Welsh dragon dressed as Father Christmas comes down the chimney with a sack full of toys leaves the footprints across the living room where the toys come to life and enters the doorway to the bedroom
-A Christmas themed kaleidoscope includes an angel a present a cracker a snowflake a candle and a ribbon
+A Christmas themed-kaleidoscope includes an angel a present a cracker a snowflake a candle and a ribbon
 Same as with Father Christmas in the promos
-A house contains a family of parents and their children The children run downstairs to open their presents in one ident and their parents kiss under the mistletoe in the other
-Several close views of green leaves are shown from either a holly or a mistletoe The background is more orange than red
+A house contains a family of parents and their children
+The children run downstairs to open their presents in one ident and their parents kiss under the mistletoe in the other
+Several close views of green leaves are shown from either a holly or a mistletoe
+The background is more orange than red
 The children play the Nativity with the baby as baby Jesus
-An animated yellow star blows fire The background is red with yellow stars and a yellow moon
-A red SC lorry covered with lights similar to the Coca Cola Christmas lorry travels at night as the SC's Magical Grotto
+The background is red with yellow stars and a yellow moon
+A red SC lorry covered with lights similar to the Coca-Cola Christmas lorry travels at night as the SC's Magical Grotto
 On a red background there are white Christmas themed symbols such as the star mistletoe French horn angle Christmas tree and two new year symbols including a man dancing and a glass of wine
-A bunch of blue and light blue pieces are moving and re ordering to form a tree with a yellow glow resembling a star The background is white
-A redwhite light glow moves to the right side of the screen on a dark background Live action idents were also produced featuring Welsh actors interpreting Nativity scenes
-A pile of sets of televisions of pre idents shows a Christmas tree in different angles on different televisions screens Daytime evening and nighttime versions were made This was the last SC Christmas ident to use a logoOn January SC announced that their digital channels would be refreshed with a new corporate logo and brand The new branding was implemented online on January with SC's television channels adopting it the next day The new branding developed by the London based firm Proud Creative was intended to portray SC as a more contemporary multi platform broadcaster and downplayed traditional Welsh imagery such as dragons Its idents were filmed around various parts of the country and themed around magnetism—representing the uncontrollable attraction of Welsh people and their emotional affinity to the homeland whether near or far The magnetism themed idents were later accompanied by a new set developed in collaboration with the agency Minivegas consisting of live action scenes with dynamic animated elements that can react to the voice of the continuity announcer
-A new SC logo and brand developed by Sugar Creative Studio was introduced on April the new design was developed around a concept of providing context to SC's target audience and programming The design revolves heavily around a trapezium shape used within the channel's new logo which is prominently used within aspects of the channel's overall marketing and branding
-SC has faced criticism for poor viewing figures since its launch Leaked internal reports in March showed that 'over the day period from February to last Saturday March as many as of the programmes put out by SC were rated as having zero viewers' The story was widely reported across the UK and was referenced in Parliament by the then Culture Secretary Jeremy Hunt In response an SC spokesperson stated that of those programmes were aimed at pre school children and that BARB the organisation that compiles television ratings in the UK only takes into account viewers aged four years and over The remaining consisted of repeats and daytime news bulletins which did not attract the minimum viewers necessary to register on a UK wide analysis
-On July SC's chief executive Iona Jones left her post without explanation Assembly members and Members of Parliament requested an independent investigation into the circumstances leading up to her departure The SC Authority refused to comment further and commissioned a review into how the broadcaster was governed in August On February it was announced that issues between Iona Jones and SC had been settled Eight days later the Shortridge Report on corporate governance was made public
+A bunch of blue and light blue pieces are moving and re-ordering to form a tree with a yellow glow resembling a star
+A redwhite light glow moves to the right side of the screen on a dark background
+Live-action idents were also produced featuring Welsh actors interpreting Nativity scenes
+A pile of sets of televisions of pre- idents shows a Christmas tree in different angles on different televisions screens
+Daytime evening and nighttime versions were made
+This was the last SC Christmas ident to use a logoOn January SC announced that their digital channels would be refreshed with a new corporate logo and brand
+The new branding was implemented online on January with SC's television channels adopting it the next day
+The new branding developed by the London-based firm Proud Creative was intended to portray SC as a more contemporary multi-platform broadcaster and downplayed traditional Welsh imagery such as dragons
+Its idents were filmed around various parts of the country and themed around magnetism—representing the uncontrollable attraction of Welsh people and their emotional affinity to the homeland whether near or far
+The magnetism-themed idents were later accompanied by a new set developed in collaboration with the agency Minivegas consisting of live-action scenes with dynamic animated elements that can react to the voice of the continuity announcer
+A new SC logo and brand developed by Sugar Creative Studio was introduced on April the new design was developed around a concept of providing context to SC's target audience and programming
+The design revolves heavily around a trapezium shape used within the channel's new logo which is prominently used within aspects of the channel's overall marketing and branding
+SC has faced criticism for poor viewing figures since its launch
+Leaked internal reports in March showed that 'over the -day period from February to last Saturday March as many as of the programmes put out by SC were rated as having zero viewers'
+The story was widely reported across the UK and was referenced in Parliament by the then Culture Secretary Jeremy Hunt
+In response an SC spokesperson stated that of those programmes were aimed at pre-school children and that BARB the organisation that compiles television ratings in the UK only takes into account viewers aged four years and over
+The remaining consisted of repeats and daytime news bulletins which did not attract the minimum viewers necessary to register on a UK-wide analysis
+On July SC's chief executive Iona Jones left her post without explanation
+Assembly members and Members of Parliament requested an independent investigation into the circumstances leading up to her departure
+The SC Authority refused to comment further and commissioned a review into how the broadcaster was governed in August
+On February it was announced that issues between Iona Jones and SC had been settled
+Eight days later the Shortridge Report on corporate governance was made public
 SC appointed its first female CEO Iona Jones in
-Owen Evans previously the deputy permanent secretary to the Welsh Government became chief executive in October Siân Doyle a former managing director of telecommunications company TalkTalk succeeded Evans as CEO on January
-From its inception SC was in part publicly financed funding came both from its advertising revenue and a fixed annual grant from the UK Department for Digital Culture Media and Sport DCMS receiving £m in and then £m in after the Conservative Party won the general elections in which consequently made considerable cuts to its funding Additionally some Welsh language programming including Newyddion and Pobol y Cwm was produced by BBC Wales as part of the BBC's public service remit and provided to SC free of charge There is an agreement in place until for hours a week of programming to be provided to SC which is valued at £m annually
-From responsibility for funding SC began to transfer to the BBC with the DCMS reducing its funding by by The BBC was to provide around £m of funding to SC by this date resulting in a cut of around to SC's annual budget In it was agreed that the BBC would provide £m a year funding to SC from the licence fee until The UK government announced in that it would continue providing £m until with the aim of SC being funded wholly from the licence fee from This would see SC's funding being decided as part of the licence fee settlement for year periods
+Owen Evans previously the deputy permanent secretary to the Welsh Government became chief executive in October
+Sin Doyle a former managing director of telecommunications company TalkTalk succeeded Evans as CEO on January
+From its inception SC was in part publicly financed funding came both from its advertising revenue and a fixed annual grant from the UK Department for Digital Culture Media and Sport DCMS receiving £m in and then £m in after the Conservative Party won the general elections in which consequently made considerable cuts to its funding
+Additionally some Welsh-language programming including Newyddion and Pobol y Cwm was produced by BBC Wales as part of the BBC's public service remit and provided to SC free of charge
+There is an agreement in place until for hours a week of programming to be provided to SC which is valued at £m annually
+From responsibility for funding SC began to transfer to the BBC with the DCMS reducing its funding by by
+The BBC was to provide around £m of funding to SC by this date resulting in a cut of around to SC's annual budget
+In it was agreed that the BBC would provide £m a year funding to SC from the licence fee until
+The UK government announced in that it would continue providing £m until with the aim of SC being funded wholly from the licence fee from
+This would see SC's funding being decided as part of the licence fee settlement for -year periods
 Prior to SC received £m which would be an estimate of £m in January of after inflation with the new allocated funds of which is £m the loss in alone compared with is estimated to be £m and an overall loss of £m between and
 In addition to public funding SC generates around of its income through commercial sources such as advertising
-SC is controlled by the SC Authority Awdurdod SC an independent body unconnected to Ofcom Ofcom are the regulator for SC's content as they are with other UK television channels such as ITV and Channel
-SC maintains its own catch up service called Clic Clic is a free online video on demand service which offers live streaming signed programming a day catch up service and archive programming Clic is available across the UK but also contains a limited selection of worldwide programming Clic's catch up service is split into seven categories Drama Entertainment Factual and Arts Music Sport and two Children's categories Cyw ages and Stwnsh ages A Clic app was released for Apple's iOS devices on August
-In late SC's programmes and live streaming also became available to view on the BBC's catch up service BBC iPlayer Both services offer English and Welsh subtitles to some shows
-There were million viewing sessions to SC content on Clic and BBC iPlayer in This was an increase of from the million viewing sessions on those platforms in In the period the viewing session number increased to million
+SC is controlled by the SC Authority Awdurdod SC an independent body unconnected to Ofcom
+Ofcom are the regulator for SC's content as they are with other UK television channels such as ITV and Channel
+SC maintains its own catch-up service called Clic
+Clic is a free online video on demand service which offers live-streaming signed programming a -day catch-up service and archive programming
+Clic is available across the UK but also contains a limited selection of worldwide programming
+Clic's catch-up service is split into seven categories Drama Entertainment Factual and Arts Music Sport and two Children's categories Cyw ages and Stwnsh ages
+A Clic app was released for Apple's iOS devices on August
+In late SC's programmes and live-streaming also became available to view on the BBC's catch-up service BBC iPlayer
+Both services offer English and Welsh subtitles to some shows
+There were million viewing sessions to SC content on Clic and BBC iPlayer in
+This was an increase of from the million viewing sessions on those platforms in
+In the - period the viewing session number increased to million

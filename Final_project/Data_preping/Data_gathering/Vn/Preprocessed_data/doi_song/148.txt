@@ -1,9 +1,6 @@
-5 việc gây nguy hiểm trong bếp
 Trong không gian quen thuộc tưởng chừng an toàn như căn bếp thực chất tiềm ẩn những mối nguy hiểm dễ bị bỏ qua
-Để tránh những tai nạn không đáng có 5 việc dưới đây không nên làm trong bếp
-Liên tiếp bật mở bếp gas
+Để tránh những tai nạn không đáng có việc dưới đây không nên làm trong bếp
 Bếp gas sử dụng trong thời gian dài thường phát sinh một số trục trặc như đánh lửa kém phải bật nhiều lần mới cháy
-Hành động này rất nguy hiểm
 Nguyên do là khí gas đã thoát ra ngoài theo những lần bật nhưng chưa cháy tích tụ lại quanh buồng đốt khi đạt đến nồng độ nhất định sẽ có nguy cơ phát nổ
 Vì thế nếu bếp gas không lên lửa bạn không nên liên tục thực hiện hành động bật tắt
 Nên mở cửa ra vào và cửa sổ để khí thoát ra ngoài tránh gây cháy nổ
@@ -27,5 +24,3 @@ Lò vi sóng là một thiết bị phổ biến trong nhà bếp sử dụng đ
 Tuy nhiên đừng cố dùng lò vi sóng để làm chín trứng
 Nguyên do là lò vi sóng sẽ làm nóng trứng từ trong ra ngoài cùng lúc trong khi lớp vỏ cứng sẽ cản trở quá trình truyền nhiệt khiến trứng phát nổ
 Vì vậy không thể cho trực tiếp trứng sống vào lò vi sóng để hâm nóng
-Trang Vy Theo aboluowang
-

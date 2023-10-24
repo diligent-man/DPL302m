@@ -1,8 +1,8 @@
-Hoãn thi trắc nghiệm Thày trò đều sốc
+Hoãn thi trắc nghiệm Thày trò đều 'sốc'
 Mặc dù gần đến ngày thi tốt nghiệp THPT và tuyển sinh đại học nhưng Bộ GDĐT vẫn chưa quyết định chính thức việc hoãn thi trắc nghiệm Ngoại ngữ
 Hàng chục nghìn học sinh lo âu thày cô thì hoang mang không biết hướng dẫn học sinh ôn thi theo hướng nào
-Ở THPT chuyên Lê Hồng Phong quận 5 TP HCM ngay từ đầu năm học trường đã chuyển hướng dạy và học ôn ngoại ngữ theo hình thức trắc nghiệm
-Các bài kiểm tra 15 phút 45 phút đều được các giáo viên tổ Ngoại ngữ soạn theo mẫu đề trắc nghiệm để học sinh làm quen dần với hình thức thi mới
+Ở THPT chuyên Lê Hồng Phong quận TP HCM ngay từ đầu năm học trường đã chuyển hướng dạy và học ôn ngoại ngữ theo hình thức trắc nghiệm
+Các bài kiểm tra phút phút đều được các giáo viên tổ Ngoại ngữ soạn theo mẫu đề trắc nghiệm để học sinh làm quen dần với hình thức thi mới
 Khi mọi việc vừa bắt đầu vào nếp thì đùng một cái Bộ lại thông báo hoãn việc tổ chức thi trắc nghiệm
 Cô Cát Phi tổ trưởng tổ Anh văn của trường bức xúc Tôi không biết sẽ phải hướng dẫn cho học sinh ôn thi theo hướng nào
 Lên lớp các em thường xuyên hỏi cô ơi có thông báo gì mới không nghe mà sốt ruột
@@ -11,124 +11,22 @@ Thế nhưng học sinh THPT Lê Hồng Phong còn được các thày cô chu�
 Nhưng ngoài văn bản hướng dẫn việc thi trắc nghiệm không hề có một hướng dẫn mới
 Đề trắc nghiệm mẫu đáng lẽ phải phổ biến cho học sinh từ lâu thì đến nay vẫn bặt vô âm tín
 Tại các trường THPT khác những thông tin mù mờ xung quanh quyết định hoãn thi trắc nghiệm của Bộ càng làm cho các em hoang mang
-Em sợ thi trắc nghiệm lắm
 Nghe nói thi trắc nghiệm rất khó
 Mà trong trường mấy thày cô cũng đâu có hướng dẫn phải học như thế nào có thi hay không khiến cho tụi em rất hãi
-Thi lần này chắc môn Anh văn em rớt quá KAnh một học sinh THPT Ten-lo-men quận 1 nhăn nhó
+Thi lần này chắc môn Anh văn em rớt quá KAnh một học sinh THPT Tenlomen quận nhăn nhó
 Lo lắng nhất là học sinh thi ĐH khối D
 Không biết sao đến năm em thi đại học lại xui như thế
 Học theo kiểu trắc nghiệm mãi rồi bây giờ lại ngưng không biết đề thi sẽ ra theo kiểu gì T
-Hương học sinh THPT Bùi Thị Xuân quận 1 nói
+Hương học sinh THPT Bùi Thị Xuân quận nói
 Theo Hương nếu học giỏi thì đề ra kiểu gì cũng vậy nhưng nếu ôn bài kỹ biết dạng đề thì vẫn tốt hơn
 Theo cô Cát Phi nhà trường hoàn toàn ủng hộ hướng ra đề trắc nghiệm
 Hiện nay trên thế giới những bài thi tiếng Anh uy tín như TOEFL đều dùng phương pháp thi trắc nghiệm
 Ưu thế của phương pháp này là đánh giá rất toàn diện và chính xác năng lực của học sinh
 Trong khi đó cô Ngọc Đào tổ trưởng Anh văn trường Bùi Thị Xuân lại nhận định thi trắc nghiệm sẽ hơi bất công với học sinh ở các tỉnh hay ở những vùng sâu vùng xa
 Ở những nơi này các em muốn tìm một tài liệu ôn tập thi trắc nghiệm cũng khó
-Hải Minh
 Độc giả có thể gửi ý kiến tại đây
-function CheckSubmit
-documentContactUsfNamevalue = TrimdocumentContactUsfNamevalue
-if documentContactUsfNamevalue ==
-alertXin hay nhap Ho ten
-documentContactUsfNamefocus
-return
-if SEmail = CheckEmailAddressdocumentContactUsfEmailvalue==
-alertDia chi Email khong hop le
-documentContactUsfEmailfocus
-return
-documentContactUsfEmailvalue = SEmail
-documentContactUsfTitlevalue = TrimdocumentContactUsfTitlevalue
-if documentContactUsfTitlevalue ==
-alertXin hay nhap Tieu de
-documentContactUsfTitlefocus
-return
-documentContactUsfContentvalue = TrimdocumentContactUsfContentvalue
-if documentContactUsfContentvalue ==
-alertXin hay Noi dung
-documentContactUsfContentfocus
-return
-documentContactUsfCateDescvalue = documentContactUsfCategoryoptionsdocumentContactUsfCategoryselectedIndextext
-if confirmGui y kien toi Ban bien tap
-return
-vWH = 160
-vWW = 330
-vWN = ContactUs
-winDef = status=noresizable=noscrollbars=notoolbar=nolocation=nofullscreen=notitlebar=yesheight=concatvWHconcatconcatwidth=concatvWWconcat
-winDef = winDefconcattop=concatscreenheight - vWH/2concat
-winDef = winDefconcatleft=concatscreenwidth - vWW/2
-newwin = open vWN winDef
-documentContactUsaction = /ContactUs/AddSubmitasp
-documentContactUstarget = vWN
-documentContactUssubmit
-Họ tên
-Email
-Gửi tới
-Ban Biên tập
-Ban Khoa học
-Ban Kinh doanh
-Ban Pháp luật
-Góp ý Luật Cạnh tranh
+if confirm'Gui y kien toi Ban bien tap'
 Góp ý Luật Chính quyền địa phương
 Góp ý Luật Chống bán phá giá
-Góp ý Luật Đất đai
 Góp ý Bộ luật Tố tụng hình sự
-Ban Sức khoẻ
-Ban Thế giới
-Ban Thể thao
-Ban Văn hoá
-Ban Vi tính
-Ban Xã hội
-Ban Ôtô Xe máy
-Ban Bạn đọc
-Tìm người quen
-Mục Tâm sự
-Mục Vui cười
-Tiêu đề
-Nội dung
-Gõ tiếng Việt
-Telex
-Với Internet Explorer 40 trở lênbạn có thể nhập tiếng Việt theo kiểu Telexmà không cần bộ gõ
-if d = GetPostVariabled =
-SetSelectValuedocumentContactUsfCategory dtoLowerCase
-documentContactUsfNamevalue = UnicodeGetgetCookieVisitorName
-documentContactUsfEmailvalue = getCookieVisitorEmail
-if CurrentFolderindexOf/vietnam/the-gioi=0documentContactUsfCategoryvalue=thegioivnexpressnet
-if CurrentFolderindexOf/vietnam/van-hoa=0  documentContactUsfCategoryvalue=vanhoavnexpressnet
-if CurrentFolderindexOf/vietnam/kinh-doanh=0 documentContactUsfCategoryvalue=kinhdoanhvnexpressnet
-if CurrentFolderindexOf/vietnam/the-thao=0 documentContactUsfCategoryvalue=thethaovnexpressnet
-if CurrentFolderindexOf/vietnam/euro=0 documentContactUsfCategoryvalue=thethaovnexpressnet
-if CurrentFolderindexOf/vietnam/vi-tinh=0 documentContactUsfCategoryvalue=vitinhvnexpressnet
-if CurrentFolderindexOf/vietnam/xa-hoi=0 documentContactUsfCategoryvalue=xahoivnexpressnet
-switch getCookieUnikonv 2
-case 0
-kmode = 1
-kfont = tcvn
-break
-case 1
-kmode = 1
-kfont = vni
-break
-case 2
-case 3
-kmode = 1
-kfont = utf8
-break
-case 4
-kmode = 1
-kfont = viqr
-break
-case 5
-kmode = 1
-kfont = utf8
-break
-case 6
-kmode = 1
-kfont = vps
-break
-default
-kmode = 1
-kfont = utf8
-break
-initVietTyperkmode kfont
-
+Với Internet Explorer trở lênbạn có thể nhập tiếng Việt theo kiểu Telexmà không cần bộ gõ

@@ -1,20 +1,20 @@
-Ứng dụng công cụ tư duy mới - sơ đồ tư duy là dự án mà nhóm Tư Duy Mới New Thinking Group - NTG đang triển khai tại các trường thuộc ĐH Quốc gia Hà Nội
+Ứng dụng công cụ tư duy mới sơ đồ tư duy là dự án mà nhóm Tư Duy Mới New Thinking Group NTG đang triển khai tại các trường thuộc ĐH Quốc gia Hà Nội
 Dự án đã được thầy cô và sinh viên SV cho là cuộc cách mạng trong học tập
-Chúng tôi có cuộc gặp gỡ với Hà Huy Thanh - trưởng nhóm
+Chúng tôi có cuộc gặp gỡ với Hà Huy Thanh trưởng nhóm
 Thời gian gần đây trong giới trẻ xuất hiện nhiều ý tưởng tìm tòi cái mới lạ
 Phải chăng dự án Ứng dụng công cụ tư duy mới của NTG cũng nằm trong trào lưu đó
-SV thế kỷ 21 mà phải năng động sáng tạo mới bắt kịp thời đại chứ Nói vui vậy thôi bọn mình cũng xuất phát từ những bức xúc của bản thân và bạn bè
+SV thế kỷ mà phải năng động sáng tạo mới bắt kịp thời đại chứ Nói vui vậy thôi bọn mình cũng xuất phát từ những bức xúc của bản thân và bạn bè
 Cứ đến kỳ thi nhiều bạn kêu ca rằng làm sao có thể tiêu hóa hết tất cả kiến thức đã học Tại sao học trước quên sau Làm thế nào để nhớ khi đi thi
 NTG đã có một cuộc khảo sát tại các trường ĐH lớn ở Hà Nội
 Kết quả cho thấy phần lớn HS SV hiện nay học tập rất thụ động theo phương pháp cũ thiếu tư duy kỹ năng cần thiết
 Trên thực tế sau khi ra trường các bạn chưa đáp ứng được nhu cầu của thị trường lao động
 Thực trạng đó thì ai cũng biết rõ nhưng không phải ai cũng nghĩ ra giải pháp để thay đổi
-May mắn là bọn mình đã bắt gặp cuốn sách nổi tiếng Use your head của giáo sư Tony Buzan đang giảng dạy tại ĐH Oxford - người phát minh ra sơ đồ tư duy
+May mắn là bọn mình đã bắt gặp cuốn sách nổi tiếng Use your head của giáo sư Tony Buzan đang giảng dạy tại ĐH Oxford người phát minh ra sơ đồ tư duy
 Việc sử dụng sơ đồ tư duy là một cách tối ưu hóa nguồn lực có sẵn trong mỗi SV trong việc học tập và công tác
 Cuốn sách Use your head là tài liệu quý giá cho những người muốn phát triển tư duy của mình
-Dựa trên cuốn sách NTG đã dành 2 năm vừa nghiên cứu vừa ứng dụng các công nghệ học tập hiện đại nhất thế giới thông qua khả năng khai thác internet các tài liệu tiên tiến và các chương trình đào tạo với những chuyên gia hàng đầu trên thế giới
+Dựa trên cuốn sách NTG đã dành năm vừa nghiên cứu vừa ứng dụng các công nghệ học tập hiện đại nhất thế giới thông qua khả năng khai thác internet các tài liệu tiên tiến và các chương trình đào tạo với những chuyên gia hàng đầu trên thế giới
 Cụ thể phương pháp học tập này như thế nào
-Hà Huy Thanh - NTG đã quyết định xây dựng chương trình có tên gọi học cách học nhằm tạo ra một sản phẩm là công nghệ học tập
+Hà Huy Thanh NTG đã quyết định xây dựng chương trình có tên gọi học cách học nhằm tạo ra một sản phẩm là công nghệ học tập
 Ví dụ để học tốt một môn học nào đó tốt nhất bạn hãy vẽ thành sơ đồ học tập
 Đây là phương pháp hữu hiệu để ghi nhớ và trình bày thông tin
 Đầu tiên bạn phải xác định được chủ đề môn học
@@ -26,15 +26,14 @@ Ngoài ra để việc học hiệu quả hơn bạn nên thử học theo các 
 Sử dụng cách học này mỗi người biết cách tự học chủ động và sáng tạo phát huy tiềm năng của bộ não
 Phương pháp học mới được các bạn ứng dụng rất hiệu quả chủ yếu với những SV khá giỏi
 Trong khi đó mặt bằng chung của SV Việt Nam hiện nay chủ yếu là trung bình trung bình khá
-Dự án Ứng dụng công cụ tư duy mới - sơ đồ tư duy đã nhận được sự đồng thuận của lãnh đạo ĐH Quốc gia Hà Nội và được triển khai tại các trường các khoa trực thuộc
-Trong tháng 3 đến tháng 5 NTG sẽ mở lớp đào tạo cho 15 CLB tổ chức Đoàn
+Dự án Ứng dụng công cụ tư duy mới sơ đồ tư duy đã nhận được sự đồng thuận của lãnh đạo ĐH Quốc gia Hà Nội và được triển khai tại các trường các khoa trực thuộc
+Trong tháng đến tháng NTG sẽ mở lớp đào tạo cho CLB tổ chức Đoàn
 Sau chương trình đội ngũ học viên tích cực sẽ tiếp tục nhân rộng mô hình phát triển công cụ tư duy mới này cho HS SV với mục đích học tập và sáng tạo một cách chủ động
 Sơ đồ tư duy dễ sử dụng dễ ứng dụng ở mọi lúc mọi nơi bằng nhiều cách và trong nhiều lĩnh vực
 Sau khi tham gia vào dự án các bạn SV sẽ biết cách ứng dụng sơ đồ tư duy để sáng tạo học tập và làm việc tập thể
 Thay vì học thuộc lòng học vẹt SV sẽ biết tư duy hệ thống nắm bản chất của bài học và vận dụng vào thực tế
 NTG cũng đã tham gia giảng dạy về ứng dụng sơ đồ tư duy trong học tập và học thi hiệu quả tại nhiều trường ĐH lớn ở Hà Nội
-Mình chắc chắn rằng một SV bình thường trong vòng 1 tuần có thể áp dụng hiệu quả ngay
+Mình chắc chắn rằng một SV bình thường trong vòng tuần có thể áp dụng hiệu quả ngay
 NTG còn có tham vọng phổ biến công nghệ học tập này cho các em học sinh từ bậc tiểu học đến trung học nhất là học sinh chuẩn bị thi ĐH
 Hiện chúng tôi đã đưa vào hoạt động trang web wwwketnoitrithuccom
-Trong tháng 3 này NTG sẽ có thêm trang web wwwhoccachhoccom
-
+Trong tháng này NTG sẽ có thêm trang web wwwhoccachhoccom

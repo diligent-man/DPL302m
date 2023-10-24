@@ -1,4 +1,3 @@
-Bánh răng bừa
 Bánh răng bừa còn được gọi là bánh lá hay bánh tẻ
 Nó được làm từ bột gạo dẻo giòn
 Đây là loại bánh truyền thống để cúng vào ngày rằm ngày giỗ và Tết Nguyên đán
@@ -17,4 +16,3 @@ Bánh gói xong giống hệt cái răng bừa ở giữa phình ra hai đầu n
 Lá gói bánh là lá dong trồng ở đất bãi phù sa ven sông Hồng mềm dai và có mầu xanh rất riêng
 Mầu lá ngấm vào bột bánh xanh mướt trông thật hấp dẫn
 Luộc bánh phải bằng nước sôi nếu luộc bằng nước lạnh bột tan bánh sẽ bị nhão
-

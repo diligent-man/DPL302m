@@ -1,11 +1,25 @@
-A combination square is a multi purpose measuring and marking tool used in metalworking woodworking and stonemasonry It is composed of a rule and one or more interchangeable heads that can be attached to the rule Other names for the tool include adjustable square combo square and sliding square
-The most common head is the standard head which is used as a square for marking and testing ° and ° angles The other common types of head are the protractor head and the centre finder head
-Combination square rules are made of steel and can be purchased with gradations in metric imperial or both metric and imperial Both faces of the rule have markings providing four different sets of markings This allows different sides to have different graduations eg mm or mm markings or units ie metric and imperial The rule typically comes in lengths between mm and mm or between inches and inches
-The heads occasionally called anvils are attached to the rule by sliding the rule into a slot in the side of the head The head is then tightened in place via a lock bolt or lock nut which engages with a channel running the full length of the rule allowing the head to be tightened on at any point along the rule
-The standard or square head has three adjacent flat faces two of them meet square to one another and the third face is angled away at ° When attached one face is parallel to the rule one face is perpendicular and one face is at ° The standard head usually incorporates a small spirit level and a small removable scriber
-The protractor head has a flat reference edge which is attached to an adjustable ° protractor or sometimes called a turret with a graduated scale in both directions for reading both the angle or the compliment angle The protractor head sometimes includes a small spirit level
+A combination square is a multi-purpose measuring and marking tool used in metalworking woodworking and stonemasonry
+It is composed of a rule and one or more interchangeable heads that can be attached to the rule
+Other names for the tool include adjustable square combo square and sliding square
+The most common head is the standard head which is used as a square for marking and testing ° and ° angles
+The other common types of head are the protractor head and the centre finder head
+Combination square rules are made of steel and can be purchased with gradations in metric imperial or both metric and imperial
+Both faces of the rule have markings providing four different sets of markings
+This allows different sides to have different graduations eg
+mm or mm markings or units ie
+The rule typically comes in lengths between mm and mm or between inches and inches
+The heads occasionally called anvils are attached to the rule by sliding the rule into a slot in the side of the head
+The head is then tightened in place via a lock bolt or lock nut which engages with a channel running the full length of the rule allowing the head to be tightened on at any point along the rule
+The standard or square head has three adjacent flat faces two of them meet square to one another and the third face is angled away at °
+When attached one face is parallel to the rule one face is perpendicular and one face is at °
+The standard head usually incorporates a small spirit level and a small removable scriber
+The protractor head has a flat reference edge which is attached to an adjustable ° protractor or sometimes called a turret with a graduated scale in both directions for reading both the angle or the compliment angle
+The protractor head sometimes includes a small spirit level
 The centre finder head has two faces meeting at ° when attached one edge of the rule bisects the two faces at °
-The heads are manufactured from either forged steel cast iron die cast aluminium die cast zinc or plastic Aluminium and zinc heads are cheaper than steel and iron but less durable and more prone to inaccuracy Cast iron and steel heads are also notably heavier The heads are usually painted except for the flat machined reference faces
+The heads are manufactured from either forged steel cast iron die-cast aluminium die-cast zinc or plastic
+Aluminium and zinc heads are cheaper than steel and iron but less durable and more prone to inaccuracy
+Cast iron and steel heads are also notably heavier
+The heads are usually painted except for the flat machined reference faces
 As well as being used as a regular standalone rule or straightedge the rule is used in combination with the different heads
 The standard head can be used as a
 Square for marking and referencing ° angles and checking if surfaces are flat and square to one another
@@ -16,6 +30,9 @@ Reference for directly transferring dimensions without needing to take a measure
 Measuring and checking angles between surfaces edges and markings
 Directly transferring angles like a bevel gauge sliding T gauge to minimise measurement errors and inaccuracies
 Measuring and marking angles relative to the horizontal by using the spirit levelThe centre finder head can be used for
-Marking lines through the centre of circular or square objects such as dowels Making multiple marks at different angles can be used to identify the point at the centre of the circle
+Marking lines through the centre of circular or square objects such as dowels
+Making multiple marks at different angles can be used to identify the point at the centre of the circle
 Marking lines perpendicular to a curved edge normal lines
-Bisecting square corners to mark a ° angleThough some earlier th century tools were called combination squares the modern combination square was invented in the late s by American inventor Laroy S Starrett and patented in In he founded the L S Starrett Company in Athol Massachusetts United States The tool was originally designed for machinists but over time became commonly used in other trades such as woodworking
+Bisecting square corners to mark a ° angleThough some earlier th century tools were called combination squares the modern combination square was invented in the late s by American inventor Laroy S
+Starrett Company in Athol Massachusetts United States
+The tool was originally designed for machinists but over time became commonly used in other trades such as woodworking

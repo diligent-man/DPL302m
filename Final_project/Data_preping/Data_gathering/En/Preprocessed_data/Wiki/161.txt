@@ -1,259 +1,484 @@
-Geneva dʒɪˈniːvə jin EE və French Genève ʒənɛv listen Arpitan Genèva dzəˈnɛva listen is the second most populous city in Switzerland after Zürich and the most populous city of Romandy the French speaking part of Switzerland Situated in the south west of the country where the Rhône exits Lake Geneva it is the capital of the Republic and Canton of Geneva
-The city of Geneva ville de Genève had a population in Jan estimate within its small municipal territory of km sq mi but the Canton of Geneva the city and its closest Swiss suburbs and exurbs had a population of Jan estimate over km sq mi and together with the suburbs and exurbs located in the canton of Vaud and in the French departments of Ain and Haute Savoie the cross border Geneva metropolitan area as officially defined by Eurostat which extends over km sq mi had a population of in Jan Swiss estimates and French census
-Since the Canton of Geneva the Nyon District in the canton of Vaud and the Pôle métropolitain du Genevois français literally Metropolitan hub of the French Genevan territory this last one a federation of eight French intercommunal councils have formed the Grand Genève Greater Geneva a Local Grouping of Transnational Cooperation GLCT in French a public entity under Swiss law in charge of organizing cooperation within the cross border metropolitan area of Geneva in particular metropolitan transports The Grand Genève GLCT extends over km sq mi and had a population of in Jan Swiss estimates and French census of them living on Swiss territory and on French territory
-Geneva is a global city a financial centre and a worldwide centre for diplomacy due to the presence of numerous international organizations including the headquarters of many agencies of the United Nations and the Red Cross Geneva hosts the highest number of international organizations in the world It is also where the Geneva Conventions were signed which chiefly concern the treatment of wartime non combatants and prisoners of war Together with for instance New York City global headquarters of the UN Basel Bank for International Settlements and Strasbourg Council of Europe Geneva is a city serving as the headquarters of one of the most important international organizations without being the capital of a country
-In Geneva was ranked as the world's ninth most important financial centre for competitiveness by the Global Financial Centres Index fifth in Europe behind London Zürich Frankfurt and Luxembourg In Geneva was ranked among the ten most liveable cities in the world by Mercer together with Zürich and Basel The city has been referred to as the world's most compact metropolis and the Peace Capital In Mercer ranked Geneva as the thirteenth most expensive city in the world In a UBS ranking of global cities in Geneva was ranked first for gross earnings second most expensive and fourth in purchasing power
-The city was mentioned in Latin texts by Caesar with the spelling Genava probably from the Celtic genawa from the stem genu bend knee in the sense of a bending river or estuary an etymology shared with the Italian port city of Genoa in Italian Genova
-The medieval county of Geneva in Middle Latin was known as pagus major Genevensis or Comitatus Genevensis also Gebennensis After it became the Genevois province of Savoy albeit not extending to the city proper until the reformation of the seat of the Bishop of Geneva
-Geneva was an Allobrogian border town fortified against the Helvetii tribe when the Romans took it in BC It became Christian under the Late Roman Empire and acquired its first bishop in the th century having been connected to the Bishopric of Vienne in the th
-In the Middle Ages Geneva was ruled by a count under the Holy Roman Empire until the late th century when it was granted a charter giving it a high degree of self governance Around this time the House of Savoy came to at least nominally dominate the city In the th century an oligarchic republican government emerged with the creation of the Grand Council In the first half of the th century the Protestant Reformation reached the city causing religious strife during which Savoy rule was thrown off and Geneva allied itself with the Swiss Confederacy
-In with Protestantism on the rise John Calvin the Protestant Reformer and proponent of Calvinism became the spiritual leader of the city and established the Republic of Geneva By the th century Geneva had come under the influence of Catholic France which cultivated the city as its own France tended to be at odds with the ordinary townsfolk which inspired the failed Geneva Revolution of an attempt to win representation in the government for men of modest means In revolutionary France under the Directory annexed Geneva At the end of the Napoleonic Wars on June Geneva was admitted to the Swiss Confederation In the separation of Church and State was adopted Geneva flourished in the th and th centuries becoming the seat of many international organizations
-Geneva is located at °' North °' East at the south western end of Lake Geneva where the Rhône flows out It is surrounded by three mountain chains each belonging to the Jura the Jura main range lies north westward the Vuache southward and the Salève south eastward
-The city covers an area of km sq mi while the area of the canton is km sq mi including the two small exclaves of Céligny in Vaud The part of the lake that is attached to Geneva has an area of km sq mi and is sometimes referred to as petit lac small lake The canton has only a km long mi border with the rest of Switzerland Of km mi of border are shared with France the Département de l'Ain to the north and west and the Département de la Haute Savoie to the south and east
-Of the land in the city km sq mi or is used for agricultural purposes while km sq mi or is forested The rest of the land km sq mi or is built up buildings or roads km sq mi or is either rivers or lakes and km acres or is wasteland
-Of the built up area industrial buildings made up housing and buildings made up and transportation infrastructure while parks green belts and sports fields made up Of the agricultural land is used for growing crops Of the water in the municipality is composed of lakes and is rivers and streams
-The altitude of Geneva is m ft and corresponds to the altitude of the largest of the Pierres du Niton two large rocks emerging from the lake which date from the last ice age This rock was chosen by General Guillaume Henri Dufour as the reference point for surveying in Switzerland The second main river of Geneva is the Arve which flows into the Rhône just west of the city centre Mont Blanc can be seen from Geneva and is an hour's drive from the city
-The climate of Geneva is a temperate climate more specifically an oceanic climate Köppen climate classification Cfb Winters are cool usually with light frosts at night and thawing conditions during the day Summers are relatively warm Precipitation is adequate and is relatively well distributed throughout the year although autumn is slightly wetter than other seasons Ice storms near Lac Léman are normal in the winter Geneva can be affected by the Bise a north easterly wind This can lead to severe icing in winter
-In summer many people swim in the lake and patronise public beaches such as Genève Plage and the Bains des Pâquis The city in certain years receives snow during colder months The nearby mountains are subject to substantial snowfall and are suitable for skiing Many world renowned ski resorts such as Verbier and Crans Montana are less than three hours away by car Mont Salève m ft just across the border in France dominates the southerly view from the city centre and Mont Blanc the highest of the Alpine range is visible from most of the city towering high above Chamonix which along with Morzine Le Grand Bornand La Clusaz and resorts of the Grand Massif such as Samoens Morillon and Flaine are the closest French skiing destinations to Geneva
-During the years the mean yearly temperature was °C and the mean number of sunshine hours per year was
-The highest temperature recorded in Genève Cointrin was °C °F in July and the lowest temperature recorded was − °C − °F in February
+Geneva dʒɪˈniːvə jin-EE-və French Genve ʒənɛv listen Arpitan Genva dzəˈnɛva listen is the second-most populous city in Switzerland after Zrich and the most populous city of Romandy the French-speaking part of Switzerland
+Situated in the south west of the country where the Rhne exits Lake Geneva it is the capital of the Republic and Canton of Geneva
+The city of Geneva ville de Genve had a population in Jan
+estimate within its small municipal territory of km sq mi but the Canton of Geneva the city and its closest Swiss suburbs and exurbs had a population of Jan
+estimate over km sq mi and together with the suburbs and exurbs located in the canton of Vaud and in the French departments of Ain and Haute-Savoie the cross-border Geneva metropolitan area as officially defined by Eurostat which extends over km sq mi had a population of in Jan
+Since the Canton of Geneva the Nyon District in the canton of Vaud and the Ple mtropolitain du Genevois franais literally Metropolitan hub of the French Genevan territory this last one a federation of eight French intercommunal councils have formed the Grand Genve Greater Geneva a Local Grouping of Transnational Cooperation GLCT in French a public entity under Swiss law in charge of organizing cooperation within the cross-border metropolitan area of Geneva in particular metropolitan transports
+The Grand Genve GLCT extends over km sq mi and had a population of in Jan
+Swiss estimates and French census of them living on Swiss territory and on French territory
+Geneva is a global city a financial centre and a worldwide centre for diplomacy due to the presence of numerous international organizations including the headquarters of many agencies of the United Nations and the Red Cross
+Geneva hosts the highest number of international organizations in the world
+It is also where the Geneva Conventions were signed which chiefly concern the treatment of wartime non-combatants and prisoners of war
+Together with for instance New York City global headquarters of the UN Basel Bank for International Settlements and Strasbourg Council of Europe Geneva is a city serving as the headquarters of one of the most important international organizations without being the capital of a country
+In Geneva was ranked as the world's ninth most important financial centre for competitiveness by the Global Financial Centres Index fifth in Europe behind London Zrich Frankfurt and Luxembourg
+In Geneva was ranked among the ten most liveable cities in the world by Mercer together with Zrich and Basel
+The city has been referred to as the world's most compact metropolis and the Peace Capital
+In Mercer ranked Geneva as the thirteenth most expensive city in the world
+In a UBS ranking of global cities in Geneva was ranked first for gross earnings second most expensive and fourth in purchasing power
+The city was mentioned in Latin texts by Caesar with the spelling Genava probably from the Celtic genawa- from the stem genu- bend knee in the sense of a bending river or estuary an etymology shared with the Italian port city of Genoa in Italian Genova
+The medieval county of Geneva in Middle Latin was known as pagus major Genevensis or Comitatus Genevensis also Gebennensis
+After it became the Genevois province of Savoy albeit not extending to the city proper until the reformation of the seat of the Bishop of Geneva
+Geneva was an Allobrogian border town fortified against the Helvetii tribe when the Romans took it in BC
+It became Christian under the Late Roman Empire and acquired its first bishop in the th century having been connected to the Bishopric of Vienne in the th
+In the Middle Ages Geneva was ruled by a count under the Holy Roman Empire until the late th century when it was granted a charter giving it a high degree of self-governance
+Around this time the House of Savoy came to at least nominally dominate the city
+In the th century an oligarchic republican government emerged with the creation of the Grand Council
+In the first half of the th century the Protestant Reformation reached the city causing religious strife during which Savoy rule was thrown off and Geneva allied itself with the Swiss Confederacy
+In with Protestantism on the rise John Calvin the Protestant Reformer and proponent of Calvinism became the spiritual leader of the city and established the Republic of Geneva
+By the th century Geneva had come under the influence of Catholic France which cultivated the city as its own
+France tended to be at odds with the ordinary townsfolk which inspired the failed Geneva Revolution of an attempt to win representation in the government for men of modest means
+In revolutionary France under the Directory annexed Geneva
+At the end of the Napoleonic Wars on June Geneva was admitted to the Swiss Confederation
+In the separation of Church and State was adopted
+Geneva flourished in the th and th centuries becoming the seat of many international organizations
+Geneva is located at °' North °' East at the south-western end of Lake Geneva where the Rhne flows out
+It is surrounded by three mountain chains each belonging to the Jura the Jura main range lies north-westward the Vuache southward and the Salve south-eastward
+The city covers an area of km sq mi while the area of the canton is km sq mi including the two small exclaves of Cligny in Vaud
+The part of the lake that is attached to Geneva has an area of km sq mi and is sometimes referred to as petit lac small lake
+The canton has only a km-long mi border with the rest of Switzerland
+Of km mi of border are shared with France the Dpartement de l'Ain to the north and west and the Dpartement de la Haute-Savoie to the south and east
+Of the land in the city km sq mi or is used for agricultural purposes while km sq mi or is forested
+The rest of the land km sq mi or is built up buildings or roads km sq mi or is either rivers or lakes and km acres or is wasteland
+Of the built up area industrial buildings made up housing and buildings made up and transportation infrastructure while parks green belts and sports fields made up
+Of the agricultural land is used for growing crops
+Of the water in the municipality is composed of lakes and is rivers and streams
+The altitude of Geneva is m ft and corresponds to the altitude of the largest of the Pierres du Niton two large rocks emerging from the lake which date from the last ice age
+This rock was chosen by General Guillaume Henri Dufour as the reference point for surveying in Switzerland
+The second main river of Geneva is the Arve which flows into the Rhne just west of the city centre
+Mont Blanc can be seen from Geneva and is an hour's drive from the city
+The climate of Geneva is a temperate climate more specifically an oceanic climate Köppen climate classification Cfb
+Winters are cool usually with light frosts at night and thawing conditions during the day
+Precipitation is adequate and is relatively well-distributed throughout the year although autumn is slightly wetter than other seasons
+Ice storms near Lac Lman are normal in the winter Geneva can be affected by the Bise a north-easterly wind
+This can lead to severe icing in winter
+In summer many people swim in the lake and patronise public beaches such as Genve Plage and the Bains des Pquis
+The city in certain years receives snow during colder months
+The nearby mountains are subject to substantial snowfall and are suitable for skiing
+Many world-renowned ski resorts such as Verbier and Crans-Montana are less than three hours away by car
+Mont Salve m ft just across the border in France dominates the southerly view from the city centre and Mont Blanc the highest of the Alpine range is visible from most of the city towering high above Chamonix which along with Morzine Le Grand Bornand La Clusaz and resorts of the Grand Massif such as Samoens Morillon and Flaine are the closest French skiing destinations to Geneva
+During the years the mean yearly temperature was °C and the mean number of sunshine-hours per year was
+The highest temperature recorded in GenveCointrin was °C °F in July and the lowest temperature recorded was − °C − °F in February
 Climate data for Geneva GVA elevation m ft normals extremes present
-Climate data for Geneva GVA elevation m ft normals and extremes
-The city is divided into eight quartiers or districts sometimes composed of several neighbourhoods On the left bank are Jonction Centre Plainpalais and Acacias Eaux Vives and Champel The right bank includes Saint Jean and Charmilles Servette and Petit Saconnex Grottes and Saint Gervais and Paquis and Nations
-The Administrative Council Conseil administratif constitutes the executive government of the city of Geneva and operates as a collegiate authority It is composed of five councilors French Conseiller administratif Conseillère administrative each presiding over a department The president of the executive department acts as mayor la mairele maire In the governmental year the Administrative Council is presided over by Madame la maire de Genève Frédérique Perler Departmental tasks coordination measures and implementation of laws decreed by the Municipal Council are carried out by the Administrative Council Elections for the Administrative Council are held every five years The current term of la législature is from June to May The delegates are elected by means of a system of Majorz The mayor and vice change each year while the heads of the other departments are assigned by the collegiate The executive body holds its meetings in the Palais Eynard near the Parc des Bastions
-As of Geneva's Administrative Council is made up of two representatives each of the Social Democratic Party PS and the Green Party PES and one member of the Christian Democratic Party PDC This gives the left wing parties four out of the five seats and for the first time in history a female majority The last election was held on March April Except for the mayor all other councillors have been elected for the first time
-The Municipal Council Conseil municipal holds legislative power It is made up of members with elections held every five years The Municipal Council makes regulations and by laws that are executed by the Administrative Council and the administration The delegates are selected by means of a system of proportional representation with a seven percent threshold
-The sessions of the Municipal Council are public Unlike members of the Administrative Council members of the Municipal Council are not politicians by profession and they are paid a fee based on their attendance Any resident of Geneva allowed to vote can be elected as a member of the Municipal Council The Council holds its meetings in the Town Hall Hôtel de Ville in the old city
-The last election of the Municipal Council was held on March for the législature of Currently the Municipal Council consists of members of the Social Democratic Party PS Green Party PES Les Libéraux Radicaux PLR Christian Democratic People's Party PDC Geneva Citizens' Movement MCG Ensemble à Gauche an alliance of the left parties PST POP Parti Suisse du Travail Parti Ouvrier et Populaire and solidaritéS Swiss People's Party UDC
-In the federal election for the Swiss National Council the most popular party was the Green Party which received + of the vote The next seven most popular parties were the PS PLR the UDC the PdAsolidaritéS + the PDC the pvl + and MCR In the federal election a total of votes were cast and the voter turnout was
-In the federal election for the Swiss National Council the most popular party was the PS which received of the vote The next five most popular parties were the PLR the UDC the Green Party the PDC and the solidaritéS In the federal election a total of votes were cast and the voter turnout was
-The city centre of Geneva is located only km mi from the border of France As a result the urban area and the metropolitan area largely extend across the border on French territory Due to the small size of the municipality of Geneva km sq mi and extension of the urban area over an international border official bodies of transnational cooperation were developed as early as the s to manage the cross border Greater Geneva area at a metropolitan level
-In a Franco Swiss agreement created the Comité régional franco genevois Franco Genevan Regional Committee CRFG in French In an 'Urban planning charter' of the CRFG defined for the first time a planning territory called agglomération franco valdo genevoise Franco Vaud Genevan urban area saw the creation of a Comité stratégique de développement des transports publics régionaux Strategic Committee for the Developement of Regional Public Transports DTPR in French a committee which adopted in a 'Charter for Public Transports' first step in the development of a metropolitan cross border commuter rail network see Léman Express
-In a public transnational body called Projet d’agglomération franco valdo genevois Franco Vaud Genevan urban area project was created to serve as the main body of metropolitan cooperation for the planning territory defined in with more local French councils taking part in this new public body than in the CRFG created in Finally in the Projet d’agglomération franco valdo genevois was renamed Grand Genève Greater Geneva and the following year it was transformed into a Local Grouping of Transnational Cooperation GLCT in French a public entity under Swiss law which now serves as the executive body of the Grand Genève
-The Grand Genève GLCT is made up of the Canton of Geneva the Nyon District in the canton of Vaud and the Pôle métropolitain du Genevois français literally Metropolitan hub of the French Genevan territory this last one a federation of eight French intercommunal councils in Ain and Haute Savoie The Grand Genève GLCT extends over km sq mi
-and had a population of in Jan Swiss estimates and French census of them living on Swiss territory and on French territory
-Geneva does not have any sister relationships with other cities It declares itself related to the entire world
-The city of Geneva ville de Genève had a population in Jan estimate within its small municipal territory of km sq mi The city of Geneva is at the centre of the Geneva metropolitan area a Functional Urban Area as per Eurostat methodology which extends over Swiss territory entire Canton of Geneva and part of the canton of Vaud and French territory parts of the departments of Ain and Haute Savoie The Geneva Functional Urban Area covers a land area of km sq mi in Switzerland in France and had inhabitants in Jan Swiss estimates and French census of them on Swiss territory and on French territory
-The Geneva metropolitan area is one of the fastest growing in Europe Its population rose from in Jan to in Jan which means the metropolitan area registered a population growth rate of + per year during those years Growth is higher in the French part of the metropolitan area + per year between and than in the Swiss part + per year between and as Geneva attracts many French commuters due to high Swiss salaries and a favorable Franco Swiss tax regime for French residents working in Switzerland
-The official language of Geneva both the city and the canton is French English is also common due to the high number of anglophone immigrants and foreigners working in international institutions and in the bank sector As of or of the population speaks French as a first language with English being the second most common or language inhabitants speak Spanish or speak Italian speak German and people who speak Romansh As a result of immigration flows in the s and s Portuguese is also spoken by a considerable proportion of the population
-In the city of Geneva as of of the population are resident foreign nationals For a list of the largest groups of foreign residents see the cantonal overview Over the last years the population has changed at a rate of a rate of due to migration and at a rate of due to births and deaths
-As of the gender distribution of the population was male and female The population was made up of Swiss men of the population and non Swiss men There were Swiss women and non Swiss women As of approximately of the population of the municipality were born in Geneva and lived there in A further or who were born in the same canton while or were born elsewhere in Switzerland and or were born outside of Switzerland
-In there were live births to Swiss citizens and births to non Swiss citizens and in the same time span there were deaths of Swiss citizens and non Swiss citizen deaths Ignoring immigration and emigration the population of Swiss citizens increased by while the foreign population increased by There were Swiss men and Swiss women who emigrated from Switzerland At the same time there were non Swiss men and non Swiss women who immigrated from another country to Switzerland The total Swiss population change in from all sources including moves across municipal borders was an increase of and the non Swiss population increased by people This represents a population growth rate of
+Climate data for Geneva GVA elevation m ft - normals and extremes
+The city is divided into eight quartiers or districts sometimes composed of several neighbourhoods
+On the left bank are Jonction Centre Plainpalais and Acacias Eaux-Vives and Champel
+The right bank includes Saint-Jean and Charmilles Servette and Petit-Saconnex Grottes and Saint-Gervais and Paquis and Nations
+The Administrative Council Conseil administratif constitutes the executive government of the city of Geneva and operates as a collegiate authority
+It is composed of five councilors French Conseiller administratif Conseillre administrative each presiding over a department
+The president of the executive department acts as mayor la mairele maire
+In the governmental year the Administrative Council is presided over by Madame la maire de Genve Frdrique Perler
+Departmental tasks coordination measures and implementation of laws decreed by the Municipal Council are carried out by the Administrative Council
+Elections for the Administrative Council are held every five years
+The current term of la lgislature is from June to May
+The delegates are elected by means of a system of Majorz
+The mayor and vice change each year while the heads of the other departments are assigned by the collegiate
+The executive body holds its meetings in the Palais Eynard near the Parc des Bastions
+As of Geneva's Administrative Council is made up of two representatives each of the Social Democratic Party PS and the Green Party PES and one member of the Christian Democratic Party PDC
+This gives the left-wing parties four out of the five seats and for the first time in history a female majority
+The last election was held on March April
+Except for the mayor all other councillors have been elected for the first time
+The Municipal Council Conseil municipal holds legislative power
+It is made up of members with elections held every five years
+The Municipal Council makes regulations and by-laws that are executed by the Administrative Council and the administration
+The delegates are selected by means of a system of proportional representation with a seven percent threshold
+The sessions of the Municipal Council are public
+Unlike members of the Administrative Council members of the Municipal Council are not politicians by profession and they are paid a fee based on their attendance
+Any resident of Geneva allowed to vote can be elected as a member of the Municipal Council
+The Council holds its meetings in the Town Hall Htel de Ville in the old city
+The last election of the Municipal Council was held on March for the lgislature of
+Currently the Municipal Council consists of members of the Social Democratic Party PS Green Party PES Les Libraux-Radicaux PLR Christian Democratic People's Party PDC Geneva Citizens' Movement MCG Ensemble Gauche an alliance of the left parties PST-POP Parti Suisse du Travail Parti Ouvrier et Populaire and solidaritS Swiss People's Party UDC
+In the federal election for the Swiss National Council the most popular party was the Green Party which received + of the vote
+The next seven most popular parties were the PS - PLR - the UDC - the PdAsolidaritS + the PDC - the pvl + and MCR -
+In the federal election a total of votes were cast and the voter turnout was
+In the federal election for the Swiss National Council the most popular party was the PS which received of the vote
+The next five most popular parties were the PLR the UDC the Green Party the PDC and the solidaritS
+In the federal election a total of votes were cast and the voter turnout was
+The city centre of Geneva is located only km mi from the border of France
+As a result the urban area and the metropolitan area largely extend across the border on French territory
+Due to the small size of the municipality of Geneva km sq mi and extension of the urban area over an international border official bodies of transnational cooperation were developed as early as the s to manage the cross-border Greater Geneva area at a metropolitan level
+In a Franco-Swiss agreement created the Comit rgional franco-genevois Franco-Genevan Regional Committee CRFG in French
+In an 'Urban planning charter' of the CRFG defined for the first time a planning territory called agglomration franco-valdo-genevoise Franco-Vaud-Genevan urban area
+saw the creation of a Comit stratgique de dveloppement des transports publics rgionaux Strategic Committee for the Developement of Regional Public Transports DTPR in French a committee which adopted in a 'Charter for Public Transports' first step in the development of a metropolitan cross-border commuter rail network see Lman Express
+In a public transnational body called Projet d’agglomration franco-valdo-genevois Franco-Vaud-Genevan urban area project was created to serve as the main body of metropolitan cooperation for the planning territory defined in with more local French councils taking part in this new public body than in the CRFG created in
+Finally in the Projet d’agglomration franco-valdo-genevois was renamed Grand Genve Greater Geneva and the following year it was transformed into a Local Grouping of Transnational Cooperation GLCT in French a public entity under Swiss law which now serves as the executive body of the Grand Genve
+The Grand Genve GLCT is made up of the Canton of Geneva the Nyon District in the canton of Vaud and the Ple mtropolitain du Genevois franais literally Metropolitan hub of the French Genevan territory this last one a federation of eight French intercommunal councils in Ain and Haute-Savoie
+The Grand Genve GLCT extends over km sq mi
+and had a population of in Jan
+Swiss estimates and French census of them living on Swiss territory and on French territory
+Geneva does not have any sister relationships with other cities
+It declares itself related to the entire world
+The city of Geneva ville de Genve had a population in Jan
+estimate within its small municipal territory of km sq mi
+The city of Geneva is at the centre of the Geneva metropolitan area a Functional Urban Area as per Eurostat methodology which extends over Swiss territory entire Canton of Geneva and part of the canton of Vaud and French territory parts of the departments of Ain and Haute-Savoie
+The Geneva Functional Urban Area covers a land area of km sq mi in Switzerland in France and had inhabitants in Jan
+Swiss estimates and French census of them on Swiss territory and on French territory
+The Geneva metropolitan area is one of the fastest growing in Europe
+which means the metropolitan area registered a population growth rate of + per year during those years
+Growth is higher in the French part of the metropolitan area + per year between and than in the Swiss part + per year between and as Geneva attracts many French commuters due to high Swiss salaries and a favorable Franco-Swiss tax regime for French residents working in Switzerland
+The official language of Geneva both the city and the canton is French
+English is also common due to the high number of anglophone immigrants and foreigners working in international institutions and in the bank sector
+As of or of the population speaks French as a first language with English being the second most common or language
+inhabitants speak Spanish or speak Italian speak German and people who speak Romansh
+As a result of immigration flows in the s and s Portuguese is also spoken by a considerable proportion of the population
+In the city of Geneva as of of the population are resident foreign nationals
+For a list of the largest groups of foreign residents see the cantonal overview
+Over the last years the population has changed at a rate of a rate of due to migration and at a rate of due to births and deaths
+As of the gender distribution of the population was male and female
+The population was made up of Swiss men of the population and non-Swiss men
+There were Swiss women and non-Swiss women
+As of approximately of the population of the municipality were born in Geneva and lived there in
+A further or who were born in the same canton while or were born elsewhere in Switzerland and or were born outside of Switzerland
+In there were live births to Swiss citizens and births to non-Swiss citizens and in the same time span there were deaths of Swiss citizens and non-Swiss citizen deaths
+Ignoring immigration and emigration the population of Swiss citizens increased by while the foreign population increased by
+There were Swiss men and Swiss women who emigrated from Switzerland
+At the same time there were non-Swiss men and non-Swiss women who immigrated from another country to Switzerland
+The total Swiss population change in from all sources including moves across municipal borders was an increase of and the non-Swiss population increased by people
+This represents a population growth rate of
 As of children and teenagers years old make up of the population while adults years old make up and seniors over years old make up
-As of there were people who were single and never married in the municipality There were married individuals widows or widowers and individuals who are divorced
-As of there were private households in the municipality and an average of persons per household There were households that consist of only one person and households with five or more people Out of a total of households that answered this question were households made up of just one person and there were adults who lived with their parents Of the rest of the households there are married couples without children married couples with children There were single parents with a child or children There were households that were made up of unrelated people and households that were made up of some sort of institution or another collective housing
-In there were single family homes or of the total out of a total of inhabited buildings There were multi family buildings along with multi purpose buildings that were mostly used for housing and other use buildings commercial or industrial that also had some housing Of the single family homes were built before while were built between and The greatest number of single family homes were built between and
-In there were apartments in the municipality The most common apartment size was rooms of which there were There were single room apartments and apartments with five or more rooms Of these apartments a total of apartments of the total were permanently occupied while apartments were seasonally occupied and apartments were empty As of the construction rate of new housing units was new units per residents
-As of the average price to rent an average apartment in Geneva was Swiss francs CHF per month US £ € approx exchange rate from The average rate for a one room apartment was CHF US £ € a two room apartment was about CHF US £ € a three room apartment was about CHF US £ € and a six or more room apartment cost an average of CHF US £ € The average apartment price in Geneva was of the national average of CHF The vacancy rate for the municipality in was
-In June the average price of an apartment in and around Geneva was CHF per square metre sq ft The average can be as high as Swiss francs CHF per square metre sq ft for a luxury apartment and as low as Swiss francs CHF for an older or basic apartment For houses in and around Geneva the average price was Swiss francs CHF per square metre sq ft June with a lowest price per square metre sq ft of Swiss francs CHF and a maximum price of Swiss francs CHF
+As of there were people who were single and never married in the municipality
+There were married individuals widows or widowers and individuals who are divorced
+As of there were private households in the municipality and an average of persons per household
+There were households that consist of only one person and households with five or more people
+Out of a total of households that answered this question were households made up of just one person and there were adults who lived with their parents
+Of the rest of the households there are married couples without children married couples with children
+There were single parents with a child or children
+There were households that were made up of unrelated people and households that were made up of some sort of institution or another collective housing
+In there were single family homes or of the total out of a total of inhabited buildings
+There were multi-family buildings along with multi-purpose buildings that were mostly used for housing and other use buildings commercial or industrial that also had some housing
+Of the single family homes were built before while were built between and
+The greatest number of single family homes were built between and
+In there were apartments in the municipality
+The most common apartment size was rooms of which there were
+There were single room apartments and apartments with five or more rooms
+Of these apartments a total of apartments of the total were permanently occupied while apartments were seasonally occupied and apartments were empty
+As of the construction rate of new housing units was new units per residents
+As of the average price to rent an average apartment in Geneva was Swiss francs CHF per month US £ € approx
+The average rate for a one-room apartment was CHF US £ € a two-room apartment was about CHF US £ € a three-room apartment was about CHF US £ € and a six or more room apartment cost an average of CHF US £ €
+The average apartment price in Geneva was of the national average of CHF
+The vacancy rate for the municipality in was
+In June the average price of an apartment in and around Geneva was CHF per square metre sq ft
+The average can be as high as Swiss francs CHF per square metre sq ft for a luxury apartment and as low as Swiss francs CHF for an older or basic apartment
+For houses in and around Geneva the average price was Swiss francs CHF per square metre sq ft June with a lowest price per square metre sq ft of Swiss francs CHF and a maximum price of Swiss francs CHF
 William Monter calculates that the city's total population was in doubling to over by
 The historical population is given in the following chart
-The census recorded residents of the population as Catholic while people belonged to no church or were agnostic or atheist belonged to the Swiss Reformed Church and were Muslim There were also members of an Orthodox church individuals or about of the population who belonged to the Christian Catholic Church of Switzerland who belonged to another Christian church and people who were Jewish There were individuals who were Buddhist who were Hindu and who belonged to another church respondents did not answer the question
-According to statistics by Swiss Bundesamt für Statistik of the population were Christian Catholic Swiss Reformed organized in the Protestant Church of Geneva and other Christians mostly other Protestants of Genevans were non religious were Muslim and were Jews
-Geneva has historically been considered a Protestant city and was known as the Protestant Rome due to it being the base of John Calvin William Farel Theodore Beza and other Protestant reformers Over the past century substantial immigration from France and other predominantly Catholic countries as well as general secularization has changed its religious landscape As a result three times as many Roman Catholics as Protestants lived in the city in while a large number of residents were members of neither group Geneva forms part of the Roman Catholic Diocese of Lausanne Geneva and Fribourg
-The World Council of Churches and the Lutheran World Federation both have their headquarters at the Ecumenical Centre in Grand Saconnex Geneva The World Communion of Reformed Churches a worldwide organization of Presbyterian Continental Reformed Congregational and other Calvinist churches gathering more than million people around the world was based here from until The Executive Committee of the World Communion of Reformed Churches voted in to move its offices to Hanover Germany citing the high costs of running the ecumenical organization in Geneva Switzerland The move was completed in Likewise the Conference of European Churches have moved their headquarters from Geneva to Brussels
-Prior to the Protestant Reformation the city was de jure and de facto Catholic Reaction to the new movement varied across Switzerland John Calvin went to Geneva in after William Farel encouraged him to do so In Geneva the Catholic bishop had been obliged to seek exile in Geneva became a stronghold of Calvinism Some of the tenets created there influenced Protestantism as a whole St Pierre Cathedral was where Calvin and his Protestant reformers preached It constituted the epicentre of the newly developing Protestant thought that would later become known as the Reformed tradition Many prominent Reformed theologians operated there including William Farel and Theodore Beza Calvin's successor who progressed Reformed thought after his death
-Geneva was a shelter for Calvinists but at the same time it persecuted Roman Catholics and others considered heretics The case of Michael Servetus an early Nontrinitarian is notable Condemned by both Catholics and Protestants alike he was arrested in Geneva and burnt at the stake as a heretic by order of the city's Protestant governing council John Calvin and his followers denounced him and possibly contributed to his sentence
-In during its annexation to France under Napoleon I the Diocese of Geneva was united with the Diocese of Chambéry but the Congress of Vienna and the Treaty of Turin stipulated that in the territories transferred to a now considerably extended Geneva the Catholic religion was to be protected and that no changes were to be made in existing conditions without an agreement with the Holy See Napoleon's common policy was to emancipate Catholics in Protestant majority areas and the other way around as well as emancipating Jews In the city of Geneva and parishes were united to the Diocese of Lausanne by Pope Pius VII and in the non Swiss territory was made into the Diocese of Annecy A variety of concord with the civil authorities came as a result of the separation of church and state enacted with strong Catholic support in
-In the incidence of crimes listed in the Swiss Criminal Code in Geneva was per thousand residents During the same period the rate of drug crimes was per thousand residents The rate of violations of immigration visa and work permit laws was per thousand residents
+The census recorded residents of the population as Catholic while people belonged to no church or were agnostic or atheist belonged to the Swiss Reformed Church and were Muslim
+There were also members of an Orthodox church individuals or about of the population who belonged to the Christian Catholic Church of Switzerland who belonged to another Christian church and people who were Jewish
+There were individuals who were Buddhist who were Hindu and who belonged to another church
+According to statistics by Swiss Bundesamt fr Statistik of the population were Christian Catholic Swiss Reformed organized in the Protestant Church of Geneva and other Christians mostly other Protestants of Genevans were non-religious were Muslim and were Jews
+Geneva has historically been considered a Protestant city and was known as the Protestant Rome due to it being the base of John Calvin William Farel Theodore Beza and other Protestant reformers
+Over the past century substantial immigration from France and other predominantly Catholic countries as well as general secularization has changed its religious landscape
+As a result three times as many Roman Catholics as Protestants lived in the city in while a large number of residents were members of neither group
+Geneva forms part of the Roman Catholic Diocese of Lausanne Geneva and Fribourg
+The World Council of Churches and the Lutheran World Federation both have their headquarters at the Ecumenical Centre in Grand-Saconnex Geneva
+The World Communion of Reformed Churches a worldwide organization of Presbyterian Continental Reformed Congregational and other Calvinist churches gathering more than million people around the world was based here from until
+The Executive Committee of the World Communion of Reformed Churches voted in to move its offices to Hanover Germany citing the high costs of running the ecumenical organization in Geneva Switzerland
+Likewise the Conference of European Churches have moved their headquarters from Geneva to Brussels
+Prior to the Protestant Reformation the city was de jure and de facto Catholic
+Reaction to the new movement varied across Switzerland
+John Calvin went to Geneva in after William Farel encouraged him to do so
+In Geneva the Catholic bishop had been obliged to seek exile in
+Some of the tenets created there influenced Protestantism as a whole
+Pierre Cathedral was where Calvin and his Protestant reformers preached
+It constituted the epicentre of the newly developing Protestant thought that would later become known as the Reformed tradition
+Many prominent Reformed theologians operated there including William Farel and Theodore Beza Calvin's successor who progressed Reformed thought after his death
+Geneva was a shelter for Calvinists but at the same time it persecuted Roman Catholics and others considered heretics
+The case of Michael Servetus an early Nontrinitarian is notable
+Condemned by both Catholics and Protestants alike he was arrested in Geneva and burnt at the stake as a heretic by order of the city's Protestant governing council
+John Calvin and his followers denounced him and possibly contributed to his sentence
+In during its annexation to France under Napoleon I the Diocese of Geneva was united with the Diocese of Chambry but the Congress of Vienna and the Treaty of Turin stipulated that in the territories transferred to a now considerably extended Geneva the Catholic religion was to be protected and that no changes were to be made in existing conditions without an agreement with the Holy See
+Napoleon's common policy was to emancipate Catholics in Protestant-majority areas and the other way around as well as emancipating Jews
+In the city of Geneva and parishes were united to the Diocese of Lausanne by Pope Pius VII and in the non-Swiss territory was made into the Diocese of Annecy
+A variety of concord with the civil authorities came as a result of the separation of church and state enacted with strong Catholic support in
+In the incidence of crimes listed in the Swiss Criminal Code in Geneva was per thousand residents
+During the same period the rate of drug crimes was per thousand residents
+The rate of violations of immigration visa and work permit laws was per thousand residents
 There are buildings or sites in Geneva that are listed as Swiss heritage sites of national significance and the entire old city of Geneva is part of the Inventory of Swiss Heritage Sites
-Religious buildings Cathedral St Pierre et Chapel des Macchabés Notre Dame Church Russian church St Germain Church Temple de la Fusterie Temple de l'Auditoire
-Civic buildings Former Arsenal and Archives of the City of Genève Former Crédit Lyonnais Former Hôtel Buisson Former Hôtel du Résident de France et Bibliothèque de la Société de lecture de Genève Former école des arts industriels Archives d'État de Genève Annexe Bâtiment des forces motrices Bibliothèque de Genève Library juive de Genève «Gérard Nordmann» Cabinet des estampes Centre d'Iconographie genevoise Collège Calvin École Geisendorf University Hospital of Geneva HUG Hôtel de Ville et tour Baudet Immeuble Clarté at Rue Saint Laurent and Immeubles House Rotonde at Rue Charles Giron Immeubles at Rue Beauregard Immeubles at Rue de la Corraterie Immeubles at Rue des Granges Immeuble at Rue des Granges Immeubles at Rue des Granges and Immeuble at Rue des Granges Immeuble and Former Armory at Rue des Granges Immeubles at Rue Pierre Fatio and House de Saussure at Rue de la Cité House Des arts du Grütli at Rue du Général Dufour House Royale et les deux immeubles à côté at Quai Gustave Ador Tavel House at Rue du Puits St Pierre Turrettini House at Rue de l'Hôtel de Ville and Brunswick Monument Palais de Justice Palais de l'Athénée Palais des Nations with library and archives of the SDN and ONU Palais Eynard et Archives de la ville de Genève Palais Wilson Parc des Bastions avec Mur des Réformateurs Place de Neuve et Monument du Général Dufour Pont de la Machine Pont sur l'Arve Poste du Mont Blanc Quai du Mont Blanc Quai et Hôtel des Bergues Quai Général Guisan and English Gardens Quai Gustave Ador and Jet d'eau Télévision Suisse Romande University of Geneva Victoria Hall
-Foundation Baur and Museum of the arts d'Extrême Orient Parc et campagne de la Grange and Library neolithic shore settlementRoman villa Bronze Age shore settlement of Plonjon Temple de la Madeleine archeological site Temple Saint Gervais archeological site Old City with Celtic Roman and medieval villages
-Museums theaters and other cultural sites Conservatoire de musique at Place Neuve Conservatoire et Jardin botaniques Fonds cantonal d'art contemporain Ile Rousseau and statue Institut et Musée Voltaire with Library and Archives Mallet House and Museum international de la Réforme Musée Ariana Museum of Art and History Museum d'art moderne et contemporain Museum d'ethnographie Museum of the International Red Cross Musée Rath Natural History Museum Plainpalais Commune Auditorium Pitoëff Theatre Villa Bartholoni at the Museum of History and Science
+Religious buildings Cathedral St-Pierre et Chapel des Macchabs Notre-Dame Church Russian church St-Germain Church Temple de la Fusterie Temple de l'Auditoire
+Civic buildings Former Arsenal and Archives of the City of Genve Former Crdit Lyonnais Former Htel Buisson Former Htel du Rsident de France et Bibliothque de la Socit de lecture de Genve Former cole des arts industriels Archives d'tat de Genve Annexe Btiment des forces motrices Bibliothque de Genve Library juive de Genve «Grard Nordmann» Cabinet des estampes Centre d'Iconographie genevoise Collge Calvin cole Geisendorf University Hospital of Geneva HUG Htel de Ville et tour Baudet Immeuble Clart at Rue Saint-Laurent and Immeubles House Rotonde at Rue Charles-Giron Immeubles at Rue Beauregard Immeubles at Rue de la Corraterie Immeubles at Rue des Granges Immeuble at Rue des Granges Immeubles at Rue des Granges and Immeuble at Rue des Granges Immeuble and Former Armory at Rue des Granges Immeubles at Rue Pierre Fatio and House de Saussure at Rue de la Cit House Des arts du Grtli at Rue du Gnral-Dufour House Royale et les deux immeubles ct at Quai Gustave Ador Tavel House at Rue du Puits-St-Pierre Turrettini House at Rue de l'Htel-de-Ville and Brunswick Monument Palais de Justice Palais de l'Athne Palais des Nations with library and archives of the SDN and ONU Palais Eynard et Archives de la ville de Genve Palais Wilson Parc des Bastions avec Mur des Rformateurs Place de Neuve et Monument du Gnral Dufour Pont de la Machine Pont sur l'Arve Poste du Mont-Blanc Quai du Mont-Blanc Quai et Htel des Bergues Quai Gnral Guisan and English Gardens Quai Gustave-Ador and Jet d'eau Tlvision Suisse Romande University of Geneva Victoria Hall
+Foundation Baur and Museum of the arts d'Extrme-Orient Parc et campagne de la Grange and Library neolithic shore settlementRoman villa Bronze Age shore settlement of Plonjon Temple de la Madeleine archeological site Temple Saint-Gervais archeological site Old City with Celtic Roman and medieval villages
+Museums theaters and other cultural sites Conservatoire de musique at Place Neuve Conservatoire et Jardin botaniques Fonds cantonal d'art contemporain Ile Rousseau and statue Institut et Muse Voltaire with Library and Archives Mallet House and Museum international de la Rforme Muse Ariana Museum of Art and History Museum d'art moderne et contemporain Museum d'ethnographie Museum of the International Red Cross Muse Rath Natural History Museum Plainpalais Commune Auditorium Pitoff Theatre Villa Bartholoni at the Museum of History and Science
 International organizations International Labour Organization ILO International Committee of the Red Cross United Nations High Commissioner for Refugees UNHCR World Meteorological Organization World Trade Organization International Telecommunication Union World YMCA
-The city's main newspaper is the daily Tribune de Genève with a readership of about Le Courrier mainly focuses on Geneva Both Le Temps headquartered in Geneva and Le Matin are widely read in Geneva but cover the whole of Romandy
-Geneva is the main media center for French speaking Switzerland It is the headquarters for the numerous French language radio and television networks of the Swiss Broadcasting Corporation known collectively as Radio Télévision Suisse While both networks cover the whole of Romandy special programs related to Geneva are sometimes broadcast on some of the local radio frequencies Other local radio stations broadcast from the city including YesFM FM MHz Radio Cité non commercial radio FM MHz OneFM FM MHz also broadcast in Vaud and World Radio Switzerland FM MHz Léman Bleu is a local TV channel founded in and distributed by cable Due to the proximity to France many French television channels are also available
-Geneva observes Jeûne genevois on the first Thursday following the first Sunday in September By local tradition this commemorates the date news of the St Bartholomew's Day massacre of Huguenots reached Geneva
-Geneva celebrates L'Escalade on the weekend nearest December celebrating the defeat of the surprise attack of troops sent by Charles Emmanuel I Duke of Savoy during the night of December Festive traditions include chocolate cauldrons filled with vegetable shaped marzipan treats and the Escalade procession on horseback in seventeenth century armour Geneva has also been organizing a 'Course de l'Escalade' which means 'Climbing Race' This race takes place in Geneva's Old Town and has been popular across all ages Non competitive racers dress up in fancy costumes while walking in the race
-Since a particular chestnut tree has been used as the official herald of the spring in Geneva The sautier secretary of the Parliament of the Canton of Geneva observes the tree and notes the day of arrival of the first bud While this event has no practical effect the sautier issues a formal press release and the local newspaper will usually mention the news
-As this is one of the world's oldest records of a plant's reaction to climatic conditions researchers have been interested to note that the first bud has been appearing earlier and earlier in the year During the th century many dates were in March or April In recent years they have usually been in late February sometimes earlier In the first bud appeared unusually early on February and then again on December of the same year The following year one of the hottest years recorded in Europe was a year with no bud In the first bud also appeared early on February
-The opera house the Grand Théâtre de Genève which officially opened in was partly destroyed by a fire in and reopened in It has the largest stage in Switzerland It features opera and dance performances recitals concerts and occasionally theatre The Victoria Hall is used for classical music concerts It is the home of the Orchestre de la Suisse Romande
-Every summer the Fêtes de Genève Geneva Festival are organised in Geneva According to Radio Télévision Suisse in hundreds of thousands of people came to Geneva to see the annual hour long grand firework display of the Fêtes de Genève
-An annual music festival takes place in June Groups of artists perform in different parts of the city In the festival celebrated its th anniversary
-Further annual festivals are the Fête de l'Olivier a festival of Arabic music organized by the ICAM since and the Genevan Brass Festival founded by Christophe Sturzenegger in
-The Canton of Geneva's public school system has écoles primaires ages and cycles d'orientation ages Students can leave school at but secondary education is provided by collèges ages the oldest of which is the Collège Calvin which could be considered one of the oldest public schools in the world écoles de culture générale and the écoles professionnelles The écoles professionnelles offer full time courses and part time study as part of an apprenticeship Geneva also has a number of private schools
-In of the population had completed non mandatory upper secondary education and or had completed additional higher education either university or a Fachhochschule Of the who completed tertiary schooling were Swiss men were Swiss women were non Swiss men and were non Swiss women
-During the school year there were a total of students in the Geneva school system primary to university The education system in the Canton of Geneva has eight years of primary school with students The secondary school program consists of three lower obligatory years of schooling followed by three to five years of optional advanced study There were lower secondary students who attended schools in Geneva There were upper secondary students from the municipality along with students who were in a professional non university track program An additional students were attending private schools
-Geneva is home to the University of Geneva where approximately students are regularly enrolled In John Calvin founded the Geneva Academy a theological and humanist seminary In the th century the Academy lost its ecclesiastic links and in with the addition of a medical faculty it became the University of Geneva In it was ranked th European university
-The Graduate Institute of International and Development Studies was among the first academic institutions in the World to teach international relations It is one of Europe's most prestigious institutions offering MA and PhD programmes in anthropology and sociology law political science history economics international affairs and development studies
-The oldest international school in the world is the International School of Geneva founded in along with the League of Nations The Geneva School of Diplomacy and International Relations is a private university in the grounds of the Château de Penthes
-CERN the European Organization for Nuclear Research is probably the best known of Geneva's educational and research facilities most recently for the Large Hadron Collider Founded in CERN was one of Europe's first joint ventures and has developed as the world's largest particle physics laboratory Physicists from around the world travel to CERN to research matter and explore the fundamental forces and materials that form the universe
-Geneva is home to five major libraries the Bibliothèques municipales Genève the Haute école de travail social Institut d'études sociales the Haute école de santé the Ecole d'ingénieurs de Genève and the Haute école d'art et de design There were as of books or other media in the libraries and in the same year items were loaned
-Geneva's economy is largely service driven and closely linked to the rest of the canton The city is one of the global leaders in financial centres Three main sectors dominate the financial sector commodity trading trade finance and wealth management
-Around a third of the world's free traded oil sugar grains and oil seeds is traded in Geneva Approximately of the world's cotton is traded in the Lake Geneva region Other major commodities traded in the canton include steel electricity or coffee Large trading companies have their regional or global headquarters in the canton such as Bunge Cargill Vitol Gunvor BNP Paribas Trafigura or Mercuria Energy Group in addition to being home to the world's largest shipping company Mediterranean Shipping Company Commodity trading is sustained by a strong trade finance sector with large banks such as BCGE BCP BNP Paribas BCV Crédit Agricole Credit Suisse ING Société Générale and UBS all having their headquarters in the area for this business
-Wealth management is dominated by non publicly listed banks and private banks particularly Pictet Lombard Odier Edmond de Rothschild Group Union Bancaire Privée Mirabaud Group Dukascopy Bank Bordier Cie Banque SYZ or REYL Cie In addition the canton is home to the largest concentration of foreign owned banks in Switzerland such as HSBC Private Bank JPMorgan Chase or Arab Bank
-Behind the financial sector the next largest major economic sector is watchmaking dominated by luxury firms Rolex Richemont Patek Philippe Piaget Roger Dubuis and others whose factories are concentrated in the Les Acacias neighbourhood as well as the neighbouring municipalities of Plan les Ouates Satigny and Meyrin
+The city's main newspaper is the daily Tribune de Genve with a readership of about
+Both Le Temps headquartered in Geneva and Le Matin are widely read in Geneva but cover the whole of Romandy
+Geneva is the main media center for French-speaking Switzerland
+It is the headquarters for the numerous French language radio and television networks of the Swiss Broadcasting Corporation known collectively as Radio Tlvision Suisse
+While both networks cover the whole of Romandy special programs related to Geneva are sometimes broadcast on some of the local radio frequencies
+Other local radio stations broadcast from the city including YesFM FM MHz Radio Cit non-commercial radio FM MHz OneFM FM MHz also broadcast in Vaud and World Radio Switzerland FM MHz
+Lman Bleu is a local TV channel founded in and distributed by cable
+Due to the proximity to France many French television channels are also available
+Geneva observes Jene genevois on the first Thursday following the first Sunday in September
+By local tradition this commemorates the date news of the St
+Bartholomew's Day massacre of Huguenots reached Geneva
+Geneva celebrates L'Escalade on the weekend nearest December celebrating the defeat of the surprise attack of troops sent by Charles Emmanuel I Duke of Savoy during the night of December
+Festive traditions include chocolate cauldrons filled with vegetable-shaped marzipan treats and the Escalade procession on horseback in seventeenth century armour
+Geneva has also been organizing a 'Course de l'Escalade' which means 'Climbing Race'
+This race takes place in Geneva's Old Town and has been popular across all ages
+Non-competitive racers dress up in fancy costumes while walking in the race
+Since a particular chestnut tree has been used as the official herald of the spring in Geneva
+The sautier secretary of the Parliament of the Canton of Geneva observes the tree and notes the day of arrival of the first bud
+While this event has no practical effect the sautier issues a formal press release and the local newspaper will usually mention the news
+As this is one of the world's oldest records of a plant's reaction to climatic conditions researchers have been interested to note that the first bud has been appearing earlier and earlier in the year
+During the th century many dates were in March or April
+In recent years they have usually been in late February sometimes earlier
+In the first bud appeared unusually early on February and then again on December of the same year
+The following year one of the hottest years recorded in Europe was a year with no bud
+In the first bud also appeared early on February
+The opera house the Grand Thtre de Genve which officially opened in was partly destroyed by a fire in and reopened in
+It has the largest stage in Switzerland
+It features opera and dance performances recitals concerts and occasionally theatre
+The Victoria Hall is used for classical music concerts
+It is the home of the Orchestre de la Suisse Romande
+Every summer the Ftes de Genve Geneva Festival are organised in Geneva
+According to Radio Tlvision Suisse in hundreds of thousands of people came to Geneva to see the annual hour-long grand firework display of the Ftes de Genve
+An annual music festival takes place in June
+Groups of artists perform in different parts of the city
+In the festival celebrated its th anniversary
+Further annual festivals are the Fte de l'Olivier a festival of Arabic music organized by the ICAM since and the Genevan Brass Festival founded by Christophe Sturzenegger in
+The Canton of Geneva's public school system has coles primaires ages and cycles d'orientation ages
+Students can leave school at but secondary education is provided by collges ages the oldest of which is the Collge Calvin which could be considered one of the oldest public schools in the world coles de culture gnrale and the coles professionnelles
+The coles professionnelles offer full-time courses and part-time study as part of an apprenticeship
+Geneva also has a number of private schools
+In of the population had completed non-mandatory upper secondary education and or had completed additional higher education either university or a Fachhochschule
+Of the who completed tertiary schooling were Swiss men were Swiss women were non-Swiss men and were non-Swiss women
+During the school year there were a total of students in the Geneva school system primary to university
+The education system in the Canton of Geneva has eight years of primary school with students
+The secondary school program consists of three lower obligatory years of schooling followed by three to five years of optional advanced study
+There were lower-secondary students who attended schools in Geneva
+There were upper-secondary students from the municipality along with students who were in a professional non-university track program
+An additional students were attending private schools
+Geneva is home to the University of Geneva where approximately students are regularly enrolled
+In John Calvin founded the Geneva Academy a theological and humanist seminary
+In the th century the Academy lost its ecclesiastic links and in with the addition of a medical faculty it became the University of Geneva
+In it was ranked th European university
+The Graduate Institute of International and Development Studies was among the first academic institutions in the World to teach international relations
+It is one of Europe's most prestigious institutions offering MA and PhD programmes in anthropology and sociology law political science history economics international affairs and development studies
+The oldest international school in the world is the International School of Geneva founded in along with the League of Nations
+The Geneva School of Diplomacy and International Relations is a private university in the grounds of the Chteau de Penthes
+CERN the European Organization for Nuclear Research is probably the best known of Geneva's educational and research facilities most recently for the Large Hadron Collider
+Founded in CERN was one of Europe's first joint ventures and has developed as the world's largest particle physics laboratory
+Physicists from around the world travel to CERN to research matter and explore the fundamental forces and materials that form the universe
+Geneva is home to five major libraries the Bibliothques municipales Genve the Haute cole de travail social Institut d'tudes sociales the Haute cole de sant the Ecole d'ingnieurs de Genve and the Haute cole d'art et de design
+There were as of books or other media in the libraries and in the same year items were loaned
+Geneva's economy is largely service-driven and closely linked to the rest of the canton
+The city is one of the global leaders in financial centres
+Three main sectors dominate the financial sector commodity trading trade finance and wealth management
+Around a third of the world's free traded oil sugar grains and oil seeds is traded in Geneva
+Approximately of the world's cotton is traded in the Lake Geneva region
+Other major commodities traded in the canton include steel electricity or coffee
+Large trading companies have their regional or global headquarters in the canton such as Bunge Cargill Vitol Gunvor BNP Paribas Trafigura or Mercuria Energy Group in addition to being home to the world's largest shipping company Mediterranean Shipping Company
+Commodity trading is sustained by a strong trade finance sector with large banks such as BCGE BCP BNP Paribas BCV Crdit Agricole Credit Suisse ING Socit Gnrale and UBS all having their headquarters in the area for this business
+Wealth management is dominated by non-publicly listed banks and private banks particularly Pictet Lombard Odier Edmond de Rothschild Group Union Bancaire Prive Mirabaud Group Dukascopy Bank Bordier Cie Banque SYZ or REYL Cie
+In addition the canton is home to the largest concentration of foreign-owned banks in Switzerland such as HSBC Private Bank JPMorgan Chase or Arab Bank
+Behind the financial sector the next largest major economic sector is watchmaking dominated by luxury firms Rolex Richemont Patek Philippe Piaget Roger Dubuis and others whose factories are concentrated in the Les Acacias neighbourhood as well as the neighbouring municipalities of Plan-les-Ouates Satigny and Meyrin
 Trade finance wealth management and watchmaking approximately contribute two thirds of the corporate tax paid in the canton
-Other large multinationals are also headquartered in the city and canton such as Firmenich in Satigny and Givaudan in Vernier the world's two largest manufacturers of flavours fragrances and active cosmetic ingredients SGS the world's largest inspection verification testing and certification services company Temenos a large banking software provider or the local headquarters for Procter Gamble Japan Tobacco International or L'Oréal in Vernier
+Other large multinationals are also headquartered in the city and canton such as Firmenich in Satigny and Givaudan in Vernier the world's two largest manufacturers of flavours fragrances and active cosmetic ingredients SGS the world's largest inspection verification testing and certification services company Temenos a large banking software provider or the local headquarters for Procter Gamble Japan Tobacco International or L'Oral in Vernier
 Although they do not directly contribute to the local economy the city of Geneva is also host to the world's largest concentration of international organisations and UN agencies such as the Red Cross the World Health Organization the World Trade Organization the International Telecommunication Union the World Intellectual Property Organization the World Meteorological Organization and the International Labour Organization as well as the European headquarters of the United Nations
-Its international mindedness well connected airport and centrality in the continent also make Geneva a good destination for congresses and trade fairs of which the largest is the Geneva Motor Show held in Palexpo
-Agriculture is commonplace in the hinterlands of Geneva particularly wheat and wine Despite its relatively small size the canton produces around of the Swiss wine and has the highest vineyard density in the country The largest strains grown in Geneva are gamay chasselas pinot noir gamaret and chardonnay
-As of Geneva had an unemployment rate of As of there were five people employed in the primary economic sector and about three businesses involved in this sector people were employed in the secondary sector and there were businesses in this sector people were employed in the tertiary sector with businesses in this sector There were residents of the municipality who were employed in some capacity with women making up of the workforce
-In the total number of full time equivalent jobs was The number of jobs in the primary sector was four all of which were in agriculture The number of jobs in the secondary sector was of which or were in manufacturing and were in construction The number of jobs in the tertiary sector was In the tertiary sector or were in wholesale or retail sales or the repair of motor vehicles or were in the movement and storage of goods or were in a hotel or restaurant or were in the information industry or were the insurance or financial industry or were technical professionals or scientists or were in education and or were in health care
-In there were workers who commuted into the municipality and workers who commuted away The municipality is a net importer of workers with about workers entering the municipality for every one leaving About of the workforce coming into Geneva are coming from outside Switzerland while of the locals commute out of Switzerland for work Of the working population used public transportation to get to work and used a private car
-Ice hockey is the most popular sport in Geneva Geneva is home to Genève Servette HC which plays in the National League NL They play their home games in the seat Patinoire des Vernets In and the team made it to the league finals but lost to the ZSC Lions SC Bern and EV Zug respectively The team is by far the most popular one in both the city and the canton of Geneva drawing three times more spectators than the football team in
-The town is home to Servette FC a football club founded in and named after a borough on the right bank of the Rhône The home of Servette FC is the seat Stade de Genève Servette FC plays in the Credit Suisse Super League Étoile Carouge FC and Urania Genève Sport also play in the city
-Geneva is home to the basketball team Lions de Genève and champions of the Swiss Basketball League The team plays its home games in the Pavilion des Sports
+Its international mindedness well-connected airport and centrality in the continent also make Geneva a good destination for congresses and trade fairs of which the largest is the Geneva Motor Show held in Palexpo
+Agriculture is commonplace in the hinterlands of Geneva particularly wheat and wine
+Despite its relatively small size the canton produces around of the Swiss wine and has the highest vineyard density in the country
+The largest strains grown in Geneva are gamay chasselas pinot noir gamaret and chardonnay
+As of Geneva had an unemployment rate of
+As of there were five people employed in the primary economic sector and about three businesses involved in this sector
+people were employed in the secondary sector and there were businesses in this sector
+people were employed in the tertiary sector with businesses in this sector
+There were residents of the municipality who were employed in some capacity with women making up of the workforce
+In the total number of full-time equivalent jobs was
+The number of jobs in the primary sector was four all of which were in agriculture
+The number of jobs in the secondary sector was of which or were in manufacturing and were in construction
+The number of jobs in the tertiary sector was
+In the tertiary sector or were in wholesale or retail sales or the repair of motor vehicles or were in the movement and storage of goods or were in a hotel or restaurant or were in the information industry or were the insurance or financial industry or were technical professionals or scientists or were in education and or were in health care
+In there were workers who commuted into the municipality and workers who commuted away
+The municipality is a net importer of workers with about workers entering the municipality for every one leaving
+About of the workforce coming into Geneva are coming from outside Switzerland while of the locals commute out of Switzerland for work
+Of the working population used public transportation to get to work and used a private car
+Ice hockey is the most popular sport in Geneva
+Geneva is home to Genve-Servette HC which plays in the National League NL
+They play their home games in the -seat Patinoire des Vernets
+In and the team made it to the league finals but lost to the ZSC Lions SC Bern and EV Zug respectively
+The team is by far the most popular one in both the city and the canton of Geneva drawing three times more spectators than the football team in
+The town is home to Servette FC a football club founded in and named after a borough on the right bank of the Rhne
+The home of Servette FC is the -seat Stade de Genve
+Servette FC plays in the Credit Suisse Super League
+toile Carouge FC and Urania Genve Sport also play in the city
+Geneva is home to the basketball team Lions de Genve and champions of the Swiss Basketball League
+The team plays its home games in the Pavilion des Sports
 Geneva Jets Australian Football Club have been playing Australian Football in the AFL Switzerland league since
-The city is served by the Geneva Airport It is connected by Geneva Airport railway station French Gare de Genève Aéroport to both the Swiss Federal Railways network and the French SNCF network including links to Paris Lyon Marseille and Montpellier by TGV Geneva is connected to the motorway systems of both Switzerland A motorway and France
-Public transport by bus trolleybus or tram is provided by Transports Publics Genevois In addition to an extensive coverage of the city centre the network extends to most of the municipalities of the Canton with a few lines reaching into France Public transport by boat is provided by the Mouettes Genevoises which link the two banks of the lake within the city and by the Compagnie Générale de Navigation sur le lac Léman which serves more distant destinations such as Nyon Yvoire Thonon Évian Lausanne and Montreux using both modern diesel vessels and vintage paddle steamers
-Trains operated by Swiss Federal Railways connect the airport to the main station of Cornavin in six minutes Regional train services are being developed towards Coppet and Bellegarde At the city limits two new railway stations have been opened since Genève Sécheron close to the UN and the Botanical Gardens and Lancy Pont Rouge
-In work started on the CEVA rail Cornavin Eaux Vives Annemasse project first planned in which will connect Cornavin with the Cantonal hospital Eaux Vives railway station and Annemasse in France The link between the main railway station and the classification yard of La Praille already exists from there the line runs mostly underground to the Hospital and Eaux Vives where it links to the existing line to France The line fully opened in December as part of the Léman Express regional rail network
-In May the demonstrator electric bus system with a capacity of passengers commenced between Geneva Airport and Palexpo The project aims to introduce a new system of mass transport with electric flash recharging of the buses at selected stops while passengers are disembarking and embarking
-Taxis in Geneva can be difficult to find and may need to be booked in advance especially in the early morning or at peak hours Taxis can refuse to take babies and children because of seating legislation
+The city is served by the Geneva Airport
+It is connected by Geneva Airport railway station French Gare de Genve-Aroport to both the Swiss Federal Railways network and the French SNCF network including links to Paris Lyon Marseille and Montpellier by TGV
+Geneva is connected to the motorway systems of both Switzerland A motorway and France
+Public transport by bus trolleybus or tram is provided by Transports Publics Genevois
+In addition to an extensive coverage of the city centre the network extends to most of the municipalities of the Canton with a few lines reaching into France
+Public transport by boat is provided by the Mouettes Genevoises which link the two banks of the lake within the city and by the Compagnie Gnrale de Navigation sur le lac Lman which serves more distant destinations such as Nyon Yvoire Thonon vian Lausanne and Montreux using both modern diesel vessels and vintage paddle steamers
+Trains operated by Swiss Federal Railways connect the airport to the main station of Cornavin in six minutes
+Regional train services are being developed towards Coppet and Bellegarde
+At the city limits two new railway stations have been opened since Genve-Scheron close to the UN and the Botanical Gardens and Lancy-Pont-Rouge
+In work started on the CEVA rail Cornavin Eaux-Vives Annemasse project first planned in which will connect Cornavin with the Cantonal hospital Eaux-Vives railway station and Annemasse in France
+The link between the main railway station and the classification yard of La Praille already exists from there the line runs mostly underground to the Hospital and Eaux-Vives where it links to the existing line to France
+The line fully opened in December as part of the Lman Express regional rail network
+In May the demonstrator electric bus system with a capacity of passengers commenced between Geneva Airport and Palexpo
+The project aims to introduce a new system of mass transport with electric flash recharging of the buses at selected stops while passengers are disembarking and embarking
+Taxis in Geneva can be difficult to find and may need to be booked in advance especially in the early morning or at peak hours
+Taxis can refuse to take babies and children because of seating legislation
 An ambitious project to close streets in the centre of Geneva to cars was approved by the Geneva cantonal authorities in and was planned to be implemented over a span of four years though as of work on the project has yet to be started
-Water natural gas and electricity are provided to the municipalities of the Canton of Geneva by the state owned Services Industriels de Genève known as SIG Most of the drinking water is extracted from the lake the remaining is provided by groundwater originally formed by infiltration from the Arve of the Canton's electricity needs is locally produced mainly by three hydroelectric dams on the Rhône Seujet Verbois and Chancy Pougny In addition of the electricity produced in the Canton is from the burning of waste at the waste incineration facility of Les Cheneviers The remaining needs are covered by imports from other cantons in Switzerland or other European countries SIG buys only electricity produced by renewable methods and in particular does not use electricity produced using nuclear reactors or fossil fuels
-Natural gas is available in the City of Geneva as well as in about two thirds of the municipalities of the canton and is imported from Western Europe by the Swiss company Gaznat SIG also provides telecommunication facilities to carriers service providers and large enterprises From to Voisin voisine a fibre to the Home pilot project with a triple play offering was launched to test the end user market in the Charmilles district
-Geneva is the European headquarters of the United Nations in the Palace of Nations building up the hill from the headquarters of the former League of Nations Several agencies are headquartered in Geneva including the United Nations High Commissioner for Refugees the UN Office of the High Commissioner for Human Rights the World Health Organization the International Labour Organization International Telecommunication Union the International Baccalaureate Organization and the World Intellectual Property Organization
-Apart from the UN agencies Geneva hosts many inter governmental organizations such as the World Trade Organization the South Centre the World Meteorological Organization the World Economic Forum the International Organization for Migration the International Federation of Red Cross and Red Crescent Societies and the International Committee of the Red Cross
+Water natural gas and electricity are provided to the municipalities of the Canton of Geneva by the state-owned Services Industriels de Genve known as SIG
+Most of the drinking water is extracted from the lake the remaining is provided by groundwater originally formed by infiltration from the Arve
+of the Canton's electricity needs is locally produced mainly by three hydroelectric dams on the Rhne Seujet Verbois and Chancy-Pougny
+In addition of the electricity produced in the Canton is from the burning of waste at the waste incineration facility of Les Cheneviers
+The remaining needs are covered by imports from other cantons in Switzerland or other European countries SIG buys only electricity produced by renewable methods and in particular does not use electricity produced using nuclear reactors or fossil fuels
+Natural gas is available in the City of Geneva as well as in about two-thirds of the municipalities of the canton and is imported from Western Europe by the Swiss company Gaznat
+SIG also provides telecommunication facilities to carriers service providers and large enterprises
+From to Voisin voisine a fibre to the Home pilot project with a triple play offering was launched to test the end-user market in the Charmilles district
+Geneva is the European headquarters of the United Nations in the Palace of Nations building up the hill from the headquarters of the former League of Nations
+Several agencies are headquartered in Geneva including the United Nations High Commissioner for Refugees the UN Office of the High Commissioner for Human Rights the World Health Organization the International Labour Organization International Telecommunication Union the International Baccalaureate Organization and the World Intellectual Property Organization
+Apart from the UN agencies Geneva hosts many inter-governmental organizations such as the World Trade Organization the South Centre the World Meteorological Organization the World Economic Forum the International Organization for Migration the International Federation of Red Cross and Red Crescent Societies and the International Committee of the Red Cross
 The Maison de la Paix building hosts the three Geneva centres supported by the Swiss Confederation the International Centre for Humanitarian Demining the Centre for the Democratic Control of Armed Forces and the Geneva Centre for Security Policy as well as other organisations active in the field of peace international affairs and sustainable development
 Organizations on the European level include the European Broadcasting Union EBU and CERN the European Organization for Nuclear Research which is the world's largest particle physics laboratory
-The Geneva Environment Network GEN publishes the Geneva Green Guide an extensive listing of Geneva based global organisations working on environmental protection and sustainable development A website jointly run by the Swiss Government the World Business Council for Sustainable Development the United Nations Environment Programme and the International Union for Conservation of Nature includes accounts of how NGOs business government and the UN cooperate By doing so it attempts to explain why Geneva has been picked by so many NGOs and UN bodies as their headquarters' location
+The Geneva Environment Network GEN publishes the Geneva Green Guide an extensive listing of Geneva-based global organisations working on environmental protection and sustainable development
+A website jointly run by the Swiss Government the World Business Council for Sustainable Development the United Nations Environment Programme and the International Union for Conservation of Nature includes accounts of how NGOs business government and the UN cooperate
+By doing so it attempts to explain why Geneva has been picked by so many NGOs and UN bodies as their headquarters' location
 The World Organization of the Scout Movement and the World Scout Bureau Central Office are headquartered in Geneva
 Gustave Ador statesman President of the Red Cross ICRC
 David Aebischer born ice hockey goaltender Stanley Cup champion
-Jacques Laurent Agasse animal and landscape painter
 Jeff Agoos born retired American soccer defender caps for the US team
-Henri Frédéric Amiel moral philosopher poet and critic
+Henri-Frdric Amiel moral philosopher poet and critic
 Gustave Amoudruz sports shooter bronze medallist at the Summer Olympics
-Adolphe Appia architect and theorist of stage lighting and décor
+Adolphe Appia architect and theorist of stage lighting and dcor
 Philip Arditti born c BritishJewish Sephardic theatre and television actor
-Aimé Argand physicist and chemist invented the Argand lamp
-Jean Robert Argand amateur mathematician published the Argand diagram
+Aim Argand physicist and chemist invented the Argand lamp
+Jean-Robert Argand amateur mathematician published the Argand diagram
 Martha Argerich born an Argentine classical concert pianist
 John Armleder born performance artist painter sculptor critic and curator
-Germaine Aussey née Agassiz an actress of Swiss origin who settled in Geneva in
+Germaine Aussey ne Agassiz an actress of Swiss origin who settled in Geneva in
 Ernest Bloch US composer of Swiss origin
 Roger Bocquet footballer who won caps for Switzerland
 Raoul Marie Joseph Count de Boigne a French sports shooter bronze medallist at the Summer Olympics
-François Bonivard Geneva ecclesiastic historian and libertine
-Jorge Luis Borges Argentine short story writer studied at the Collège de Genève
-Clotilde Bressler Gianoli an Italian opera singer
+Franois Bonivard Geneva ecclesiastic historian and libertine
+Jorge Luis Borges Argentine short-story writer studied at the Collge de Genve
 Christiane Brunner born politician lawyer and trade union champion
-Jean Jacques Burlamaqui Genevan legal and political theorist
+Jean-Jacques Burlamaqui Genevan legal and political theorist
 Kate Burton born actress the daughter of actor Richard Burton
 Augustin Pyramus de Candolle botanist worked on plant classification
-Jean de Carro Vienna based physician promoted vaccination against smallpox
+Jean de Carro Vienna-based physician promoted vaccination against smallpox
 Isaac Casaubon a classical scholar and philologist
-Méric Casaubon son of Isaac Casaubon a French English classical scholar
+Mric Casaubon son of Isaac Casaubon a French-English classical scholar
 Mike Castro de Maria born electronic music composer
-Jean Jacques Challet Venel politician on the Swiss Federal Council
+Jean-Jacques Challet-Venel politician on the Swiss Federal Council
 John James Chalon RA painter of landscapes marine scenes and animal life
 Marguerite Champendal first Genevan to have obtained her doctorate in medicine at the University of Geneva
-Henri Christiné French composer of sparkling witty jazzy musical plays
-Étienne Clavière banker and politician of the French revolution
+Henri Christin French composer of sparkling witty jazzy musical plays
+tienne Clavire banker and politician of the French revolution
 Paulo Coelho born Brazilian lyricist and novelist author of The Alchemist residing in Geneva
-Renée Colliard born former alpine skier gold medallist at the Winter Olympics
+Rene Colliard born former alpine skier gold medallist at the Winter Olympics
 Gabriel Cramer Genevan mathematicianMaryam d'Abo born English film and TV actress and Bond girl
-Jacques Antoine Dassier a Genevan medallist active in London
+Jacques-Antoine Dassier a Genevan medallist active in London
 Michel Decastel born football manager and midfielder club caps for Switzerland
-Jean Louis de Lolme lawyer and constitutional writer
-Jean André Deluc geologist natural philosopher and meteorologist
+Jean-Louis de Lolme lawyer and constitutional writer
+Jean-Andr Deluc geologist natural philosopher and meteorologist
 Giovanni Diodati Italian Calvinist theologian and Bible translator
-Élie Ducommun peace activist Nobel Peace Prize winner
+lie Ducommun peace activist Nobel Peace Prize winner
 Armand Dufaux aviation pioneer flew the length of Lake Geneva in
-Henri Dufaux French Swiss aviation pioneer inventor painter and politician
-Pierre Étienne Louis Dumont Genevan political writer
+Henri Dufaux French-Swiss aviation pioneer inventor painter and politician
+Pierre tienne Louis Dumont Genevan political writer
 Henry Dunant founded the Red Cross first recipient of Nobel Peace Prize in
-Isabelle Eberhardt Russian Swiss explorer and travel writer
+Isabelle Eberhardt Russian-Swiss explorer and travel writer
 Empress Elisabeth of Austria Empress of Austria and Queen of Hungary
 Emanuele Filiberto of Savoy Prince of Venice born a member of the House of Savoy
 Louis Favre engineer responsible for the construction of the Gotthard Tunnel
-Edmond Fleg born Flegenheimer a Swiss French writer thinker novelist essayist and playwright
+Edmond Fleg born Flegenheimer a Swiss-French writer thinker novelist essayist and playwright
 Ian Fleming author James Bond studied psychology briefly in Geneva in
 Sylvie Fleury born a contemporary object artist of installation art and mixed media
 Sir Augustus Wollaston Franks KCB FRS FSA English antiquary and museum administrator
 Albert Gallatin an American politician of Genevan origin diplomat ethnologist and linguist
-Agénor de Gasparin French statesman and author also researched table turning
-Valérie de Gasparin woman of letters regards freedom equality and creativity
+Agnor de Gasparin French statesman and author also researched table-turning
+Valrie de Gasparin woman of letters regards freedom equality and creativity
 Claude Goretta film director and television producer
 Emilie Gourd journalist and activist for Women's suffrage in Switzerland
-Isabelle Graesslé born theologian feminist and former museum director moderator of ministers and deacons at the Protestant Church of Geneva
+Isabelle Graessl born theologian feminist and former museum director moderator of ministers and deacons at the Protestant Church of Geneva
 Kat Graham born actress singer and model she plays Bonnie Bennett in The Vampire Diaries
-Cédric Grand born bobsledder competed in four Winter Olympics bronze medallist at the Winter Olympics
+Cdric Grand born bobsledder competed in four Winter Olympics bronze medallist at the Winter Olympics
 Romain Grosjean born racing driver currently racing for Andretti Autosport in the IndyCar SeriesAdmiral of the Fleet Lord John Hay GCB Royal Navy officer and politician
 Abraham Hermanjat painter who worked in the Fauvist and Divisionist styles
-Germain Henri Hess a Swiss Russian chemist and doctor formulated Hess's law
+Germain Henri Hess a Swiss-Russian chemist and doctor formulated Hess's law
 Jean Huber a painter silhouettiste soldier and author
-François Huber naturalist studied the respiration of bees
+Franois Huber naturalist studied the respiration of bees
 Marie Huber translator editor and author of theological works
 Pierre Jeanneret architect collaborated with his cousin Le Corbusier
 Charles Journet cardinal of the Roman Catholic Church
 Louis Jurine physician surgeon naturalist and entomologist
 Michael Krausz born American philosopher an artist and orchestral conductor
 Adrien Lachenal politician Federal Council of Switzerland
-Paul Lachenal politician co founded Orchestre de la Suisse Romande
-Marie Laforêt born a French singer and actress
-Georges Louis Le Sage physicist Le Sage's theory of gravitation
+Paul Lachenal politician co-founded Orchestre de la Suisse Romande
+Marie Lafort born a French singer and actress
+Georges-Louis Le Sage physicist Le Sage's theory of gravitation
 Jean Leclerc theologian and biblical scholar promoted exegesis
 Henri Leconte born former French professional tennis player men's singles finalist French Open
-Philippe Le Royer French and Swiss politician and lawyer served France as the Minister of Justice and President of the Senate
+Philippe Le Royer - French and Swiss politician and lawyer served France as the Minister of Justice and President of the Senate
 Vladimir Lenin lived in Geneva as an exile from the Russian Empire
-Jean Étienne Liotard painter art connoisseur and dealer
-Corinne Maier born psychoanalyst economist and best selling writer
+Jean-tienne Liotard painter art connoisseur and dealer
+Corinne Maier born psychoanalyst economist and best-selling writer
 Ella Maillart adventurer travel writer and photographer as well as a sportswoman
 Solomon Caesar Malan oriental linguist and biblical scholar
-Jacques Mallet du Pan Genevan French royalist journalist
+Jacques Mallet du Pan Genevan-French royalist journalist
 Alexander Marcet FRS physician who became a British citizen in
 Jane Marcet an innovative writer of popular introductory science books
 Sebastian Marka born German film director and editor
 Frank Martin composer editor of The Statesman's Year Book
-Dr Théodore Maunoir co founder of the International Committee of the Red Cross
-Amélie Mauresmo born former professional tennis player and former world No
-Barthélemy Menn a landscape painter introduced painting en plein air
+Thodore Maunoir co-founder of the International Committee of the Red Cross
+Amlie Mauresmo born former professional tennis player and former world No
+Barthlemy Menn a landscape painter introduced painting en plein air
 Heinrich Menu von Minutoli a Prussian Generalmajor explorer and archaeologist
-Jacques Barthélemy Micheli du Crest military engineer physicist and cartographer
+Jacques-Barthlemy Micheli du Crest military engineer physicist and cartographer
 Stephanie Morgenstern born Canadian actress filmmaker and screenwriter
-Gustave Moynier lawyer and co founder of the Red CrossJacques Necker banker and finance minister for Louis XVI of France
+Gustave Moynier lawyer and co-founder of the Red CrossJacques Necker banker and finance minister for Louis XVI of France
 Louis Albert Necker a crystallographer and geographer devised the Necker cube
 Alfred Newton FRS HFRSE English zoologist and ornithologist
 Karim Ojjeh born Saudi Arabian businessman and racing driver
-Rémy Pagani born politician Mayor of Geneva and
+Rmy Pagani born politician Mayor of Geneva and
 Faule Petitot sculptor cabinetmaker and architect citizen of Geneva since
 Jean Petitot enamel painter son of Faule
 Jean Piaget clinical psychologist devised genetic epistemology
-Robert Pinget an avant garde French modernist nouveau roman writer
+Robert Pinget an avant-garde French modernist nouveau roman writer
 George Pitt st Baron Rivers English diplomat and politician
 Barbara Polla born medical doctor gallery owner art curator and writer
 James Pradier Genevan and then Swiss sculptor neoclassical style
-Pierre Prévost philosopher physicist wrote the law of exchange in radiation
+Pierre Prvost philosopher physicist wrote the law of exchange in radiation
 Tariq Ramadan born a Swiss Muslim academic philosopher and writer
 Marcel Raymond a literary critic of French literature of the Geneva School
 Charles Pierre Henri Rieu Orientalist and Professor of Arabic
 Prof Auguste Arthur de la Rive a physicist worked on the heat of gases
-Charles Gaspard de la Rive physicist psychiatrist and politician
-François Jules Pictet de la Rive zoologist and palaeontologist
+Charles-Gaspard de la Rive physicist psychiatrist and politician
+Franois Jules Pictet de la Rive zoologist and palaeontologist
 Marc Rosset born former pro tennis player gold medallist at the Olympic Games
 Jean Rousset literary critic and early structuralism writer of the Geneva School
 Xavier Ruiz born film producer and directorFerdinand de Saussure a linguist and semiotician
-Horace Bénédict de Saussure geologist meteorologist physicist and Alpine explorer
-Nicolas Théodore de Saussure chemist studied plant physiology advanced phytochemistry
+Horace Bndict de Saussure geologist meteorologist physicist and Alpine explorer
+Nicolas-Thodore de Saussure chemist studied plant physiology advanced phytochemistry
 Michael Schade born a Canadian operatic tenor
 Johann Jacob Schweppe watchmaker developed Schweppes bottled carbonated water
 Marguerite Sechehaye a psychotherapist treated people with schizophrenia
-Louis Segond theologian and translator pastor in Chêne Bougeries
+Louis Segond theologian and translator pastor in Chne-Bougeries
 Philippe Senderos born footballer over club caps and for Switzerland
 Jean Senebier pastor and voluminous writer on vegetable physiology
+Liberato Firmino Sifonia - an Italian composer
 Pierre Eugene du Simitiere naturalist American patriot and portrait painter
-Jean Charles Léonard de Sismondi historian and political economist
+Jean Charles Lonard de Sismondi historian and political economist
 Edward Snowden born lived in Geneva between and while working for the CIA
 Terry Southern American author essayist and screenwriter lived in Geneva
 Friedrich Spanheim a Calvinistic theology professor at the University of Leiden
-Max Thurian theologian known as Frère Max
+Max Thurian theologian known as Frre Max
 Rodolphe Töpffer teacher author painter cartoonist and caricaturist
-Wolfgang Adam Töpffer painter of landscapes and watercolors
+Wolfgang-Adam Töpffer painter of landscapes and watercolors
 Georges Trombert a French fencer silver and bronze medallist at the Summer Olympics
-François Turrettini a Genevan Italian Reformed scholastic theologian
+Franois Turrettini a Genevan-Italian Reformed scholastic theologian
 Princess Vittoria of Savoy heir to the Italian throne
-François Vivares French landscape engraver active in England
+Franois Vivares French landscape-engraver active in England
 Johann Vogel born former footballer played games for Switzerland
 Prince Andrei Volkonsky Russian composer of classical music and harpsichordist
-Voltaire French philosopher historian dramatist and man of letters lived at Les Délices
-R Norris Williams American tennis player and RMS Titanic survivor
-Pierre Wissmer Swiss French composer pianist and music teacher
+Voltaire French philosopher historian dramatist and man of letters lived at Les Dlices
+Norris Williams American tennis player and RMS Titanic survivor
+Pierre Wissmer Swiss-French composer pianist and music teacher
 Reto Ziegler born footballer has played games for SwitzerlandOutline of Geneva
 Calvin Auditory a chapel that played a significant role in the Reformation
 Geneva Summit for Human Rights and DemocracyGeneva municipality in German French and Italian in the online Historical Dictionary of Switzerland
-Joëlle Kuntz Geneva and the call of internationalism A history éditions Zoé pages ISBN Official website in French in English
-Coolidge William Augustus Brevoort Geneva Encyclopædia Britannica Vol th ed pp
+Jolle Kuntz Geneva and the call of internationalism
+A history ditions Zo pages ISBN ----Official website in French in English
