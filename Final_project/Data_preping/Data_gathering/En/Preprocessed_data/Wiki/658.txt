@@ -1,12 +1,4 @@
-John Edmund Savage is an American computer scientist and An Wang Professor Emeritus of Computer Science at Brown University
-At his retirement in 2019, Savage was one of the longest-serving faculty members in Brown's history.
-Savage earned his Ph.D
-in electrical engineering from the Massachusetts Institute of Technology in 1965, under the supervision of Irwin M
-Jacobs
-After leaving MIT, he worked briefly for Bell Laboratories before joining the Brown faculty in 1967
-He is the author of the book Models of Computation: Exploring the Power of Computing (Addison-Wesley, 1998)
-In 1979 he and Andries Van Dam co-founded Brown's Computer Science program
-Savage served as the department's second chair from 1985 to 1991.
-Savage was named an ACM Fellow for "fundamental contributions to theoretical computer science, information theory, and VLSI design, analysis and synthesis"
-He is a life fellow of the IEEE, and a fellow of the American Association for the Advancement of Science.
-He was appointed as An Wang professor in 2011.
+John Edmund Savage is an American computer scientist and An Wang Professor Emeritus of Computer Science at Brown University At his retirement in Savage was one of the longest serving faculty members in Brown's history
+Savage earned his Ph D in electrical engineering from the Massachusetts Institute of Technology in under the supervision of Irwin M Jacobs After leaving MIT he worked briefly for Bell Laboratories before joining the Brown faculty in He is the author of the book Models of Computation Exploring the Power of Computing Addison Wesley In he and Andries Van Dam co founded Brown's Computer Science program Savage served as the department's second chair from to
+Savage was named an ACM Fellow for fundamental contributions to theoretical computer science information theory and VLSI design analysis and synthesis He is a life fellow of the IEEE and a fellow of the American Association for the Advancement of Science
+He was appointed as An Wang professor in

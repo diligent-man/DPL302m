@@ -1,29 +1,21 @@
-In employment contracts, a notice period is a period of time between the receipt of the letter of dismissal and the end of the last working day
-This time period has to be given to an employee by their employer before their employment ends
-It also refers to the period between resignation date and last working day in the company when an employee resigns.
-In the United Kingdom the statutory redundancy notice periods are:
+In employment contracts a notice period is a period of time between the receipt of the letter of dismissal and the end of the last working day This time period has to be given to an employee by their employer before their employment ends It also refers to the period between resignation date and last working day in the company when an employee resigns
+In the United Kingdom the statutory redundancy notice periods are
 at least one week's notice if employed between one month and two years
 one week's notice for each year if employed between two and twelve years
-twelve weeks' notice if employed for twelve years or more.These statutory periods constitute the minimum notice period to be given by the employer; however, some employers may opt to give employees longer notice periods, in order to give the employees a better opportunity to find alternative employment.
-In Poland the same notice period applies regardless which party (employer or employee) withdraws the contract
-The statutory periods apply, unless both parties agree on other terms:
-2 weeks if employed below 6 months
-1 month if employed below 3 years
-3 months if employed 3 or more years.The week-measured period ends on Saturday
-The month-measured period ends on the last day of calendar month—for instance, if 1-month period applies, a resignation or dismissal produced between 1st and 30 April results in contract termination on 31 May.
-Because most employment in the U.S
-is at-will, no notice period is required
-In practice, most employees provide two weeks' notice.
-Notice periods for white collar workers are defined in the Danish Law on Salaried Employees or "Funktionærloven", which are:
-1 month if employed below 6 months
-3 months if employed below 3 years
-4 months if employed below 6 years
-5 months if employed below 9 years
-6 months if employed more than 9 years.If the employee resigns, he/she has to give a 1-month notice period.
-Notice periods in Switzerland are governed by the Code of Obligations, which sets the default time scales
-The notice period depends on the employee’s length of service within the company as follows:
-7 days during the trial period
-1 month if employed below 1 year
-2 months if employed below 10 years
-3 months if employed more than 10 yearsThe default trial period is the first month of employment, but may be extended up to three months
-After the trial period, the notice period may be amended by a written contract, but not under one month, unless set by a collective labor agreement and only for the first year of employment.
+twelve weeks' notice if employed for twelve years or more These statutory periods constitute the minimum notice period to be given by the employer however some employers may opt to give employees longer notice periods in order to give the employees a better opportunity to find alternative employment
+In Poland the same notice period applies regardless which party employer or employee withdraws the contract The statutory periods apply unless both parties agree on other terms
+weeks if employed below months
+month if employed below years
+months if employed or more years The week measured period ends on Saturday The month measured period ends on the last day of calendar month for instance if month period applies a resignation or dismissal produced between st and April results in contract termination on May
+Because most employment in the U S is at will no notice period is required In practice most employees provide two weeks' notice
+Notice periods for white collar workers are defined in the Danish Law on Salaried Employees or Funktion rloven which are
+month if employed below months
+months if employed below years
+months if employed below years
+months if employed below years
+months if employed more than years If the employee resigns he she has to give a month notice period
+Notice periods in Switzerland are governed by the Code of Obligations which sets the default time scales The notice period depends on the employee s length of service within the company as follows
+days during the trial period
+month if employed below year
+months if employed below years
+months if employed more than yearsThe default trial period is the first month of employment but may be extended up to three months After the trial period the notice period may be amended by a written contract but not under one month unless set by a collective labor agreement and only for the first year of employment

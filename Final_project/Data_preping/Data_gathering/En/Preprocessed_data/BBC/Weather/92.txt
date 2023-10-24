@@ -1,62 +1,38 @@
-Have you ever noticed hurricane hunters’ flight patterns shown by meteorologists on TV look like random, odd shapes?
-Those flight patterns may look like boxes or stars, but they serve specific purposes for each individual storm.
-Hurricane hunters don’t fly away from these storms like commercial airlines do
-They fly directly into them, but they don’t just fly into and around the storms randomly
-There is a method to the madness.
-There are two distinctive groups of hurricane hunters, the National Oceanic and Atmospheric Administration (NOAA) and the US Air Force Reserve (USAF)
-Both organizations fly missions into tropical disturbances in order to record invaluable data used by forecasters at the National Hurricane Center (NHC).
-For the Hurricane Hunters, there are two main types of missions flown, fixed and invest.
-Fixed missions are designated for systems that meet tropical cyclone qualifications, such as tropical depressions, tropical storms, and hurricanes
-The main objective is to mark the center of circulation, monitor winds speeds and pressure changes, and other variables that are tricky for satellites in space to measure in full detail.
-For fixed missions, ‘Alpha’ is most common flight pattern used to collect data in a tropical cyclone.
-“The Alpha pattern is the standard profile we fly for fix missions so it’s the one people are most familiar with seeing from us,” Maj
-Jeremy DeHart, meteorologist and aerial reconnaissance weather officer with the Air Force Reserve’s 53rd Weather Reconnaissance Squadron, said
-“The pattern consists of two legs flown at intercardinal directions, and when complete, looks a lot like the Greek Alpha symbol when including the crossleg.”
-Cardinal directions are the standard points on a compass: north, south, east, and west
-Intercardinal directions are the diagonal points in between: northeast, southeast, southwest, and northwest.
-Latest VDM from @53rdWRS mission indicates Hurricane #Larry no longer has a defined eyewall and the central pressure rose 3-4 mb between passes
-Clear weakening trend
-pic.twitter.com/0d9WiDTXVb
-Interestingly, the bigger, stronger storms tend to be the “easier” ones to fly in.
-“From my perspective as the onboard meteorologist, the Alpha pattern is the “easiest” to fly
-Because we normally fly those on stronger storms, there’s not a lot of question where the storm center is,” DeHart said
-“The flights can be rough of course, but at the end of the day we just go fly through the storm center, collect the data, and send it to NHC.”
-The primary objective of an invest mission is to determine if a system meets the definition of a tropical cyclone; storms that do not yet have a name or any real tropical structure characteristics.
-Inside the eye of a hurricane from above 1,000 feet
-For invest missions, the NHC will often send estimated coordinates of where they believe the center of circulation is, which is where the missions will target for their starting point.
-However, invest missions by nature have to be a bit more flexible for flight patterns, simply because there are so many unknowns with these types of storms.
-“We never know what we’re going to find, yet we always have to be thinking two or three steps ahead
-So that really makes us need to think about the meteorology [in each particular storm],” DeHart said
-“Is it a closed low or an open wave? Maybe it’s closed but just elongated? Is it battling shear? Are there several smaller swirls competing to be the main circulation center? Weak storms and invests can be very tricky and require a lot of thinking on our toes.”
-Air Force Hurricane Hunters have a variety of flight patterns to choose from for invest missions: X, Delta, and Box, just to name a few.
-DeHart explains the missions are ideal for the weaker, more uncertain storms
-While the X pattern may resemble the Alpha pattern, it is flown at much lower altitudes, usually around 500 to 1,000 feet.
-“Once a system becomes a tropical storm or hurricane, the hurricane hunters begin flying at higher altitudes, ranging from 5,000 to 10,000 feet depending on the severity of the storm,” said Jessica Kendziorek, public affairs operations chief with the USAF 403rd Wing.
-Flight levels for the Delta and Box patterns are usually at or below 5,000 ft absolute altitude.
-“The Delta and Box patterns are similar in that we’ll fly around the periphery of the forecast center seeing if we can observe winds in all four quadrants of the storm that would indicate a closed circulation
-If we find a closed circulation, we can confidently go [find] the center; if not, we’ll continue the mission in ‘invest mode’,” DeHart said.
-NOAA Hurricane Hunters also fly operational fixed and invest missions (though the names may be different), but they usually have more research-oriented objectives
-They fly many unique flight patterns, with different types of aircraft, depending on what type of mission is assigned.
-Hurricane Hunters also fly a third type of mission, which the Air Force rarely flies, according to DeHart, called synoptic missions.
-For fixed missions NOAA often flies a Figure 4, Rotated Figure 4 pattern, or a Butterfly pattern.
-“The Butterfly and Figure 4 patterns flown by the WP-3D through the storm are typically the ones used to [find] the center of circulation,” said Jonathan Shannon, public affairs specialist for the NOAA Aircraft Operations Center Office of Marine and Aviation Operations.
-The Rotated Figure 4 pattern is as it sounds; the Figure 4 pattern turned on side.
-“The goal with every flight is to gather data all around the center of the storm, and those patterns allow us to efficiently fly through a storm’s various quadrants,” Nick Underwood, NOAA Hurricane Hunter, said
-“This data helps with predicting a storm’s intensity, as well as determining exactly where the center is.”
-For invest missions, the Lawnmower and Square Spiral patterns are flown, to determine if there are actual tropical characteristics associated with the area in which they are investigating.
-“The Lawnmower Pattern allows us to map out a large area when we don’t have a center to aim for,” Paul Flaherty, science branch chief at NOAA’s Aircraft Operations Center, said
-“Once we are able to map a full circulation (usually by finding a west wind), we’ll shift back to Figure 4’s based on that newly identified center position.”
-The Square Spiral pattern is a survey mission meant to supply observations on the structure and characteristics including information about the vortex center, if it exists.
-There is a unique third type of mission flight pattern, often used to sample the surrounding atmosphere which helps forecasters know the direction the storm is likely to go.
-The Star 1 pattern focuses on a scan of the outer edges of the system
-The closely-related Star 2 pattern also does an outer scan of the system, while also adding in a circumference loop near the center of circulation.
-Recently, NOAA’s Gulfstream IV flew a Star-2 pattern around Hurricane Larry, to investigate outflow patterns from the storm and better determine where the storm was headed.
-“The flight pattern you’ll typically see from our Gulfstream IV is a circumnavigation of the storm itself, as well as sampling of the atmosphere around and ahead of the storm,” Underwood said
-“This data helps with predicting the storm’s track.”
-Regardless of which entity is flying, the operational missions are the backbone for the National Hurricane Center, tasked with providing essential life-saving information about a storm.
-The NHC takes the data and uses it to issue guidance and advisories to the public, so people know whether Elsa or Ida or Nicholas are still tropical storms or have become hurricanes.
-© 2023 Cable News Network
-A Warner Bros
-Discovery Company
-All Rights Reserved
- CNN Sans ™ & © 2016 Cable News Network.
+Have you ever noticed hurricane hunters flight patterns shown by meteorologists on TV look like random odd shapes
+Those flight patterns may look like boxes or stars but they serve specific purposes for each individual storm
+Hurricane hunters don t fly away from these storms like commercial airlines do They fly directly into them but they don t just fly into and around the storms randomly There is a method to the madness
+There are two distinctive groups of hurricane hunters the National Oceanic and Atmospheric Administration NOAA and the US Air Force Reserve USAF Both organizations fly missions into tropical disturbances in order to record invaluable data used by forecasters at the National Hurricane Center NHC
+For the Hurricane Hunters there are two main types of missions flown fixed and invest
+Fixed missions are designated for systems that meet tropical cyclone qualifications such as tropical depressions tropical storms and hurricanes The main objective is to mark the center of circulation monitor winds speeds and pressure changes and other variables that are tricky for satellites in space to measure in full detail
+For fixed missions Alpha is most common flight pattern used to collect data in a tropical cyclone
+The Alpha pattern is the standard profile we fly for fix missions so it s the one people are most familiar with seeing from us Maj Jeremy DeHart meteorologist and aerial reconnaissance weather officer with the Air Force Reserve s rd Weather Reconnaissance Squadron said The pattern consists of two legs flown at intercardinal directions and when complete looks a lot like the Greek Alpha symbol when including the crossleg
+Cardinal directions are the standard points on a compass north south east and west Intercardinal directions are the diagonal points in between northeast southeast southwest and northwest
+Latest VDM from rdWRS mission indicates Hurricane Larry no longer has a defined eyewall and the central pressure rose mb between passes Clear weakening trend pic twitter com d WiDTXVb
+Interestingly the bigger stronger storms tend to be the easier ones to fly in
+From my perspective as the onboard meteorologist the Alpha pattern is the easiest to fly Because we normally fly those on stronger storms there s not a lot of question where the storm center is DeHart said The flights can be rough of course but at the end of the day we just go fly through the storm center collect the data and send it to NHC
+The primary objective of an invest mission is to determine if a system meets the definition of a tropical cyclone storms that do not yet have a name or any real tropical structure characteristics
+Inside the eye of a hurricane from above feet
+For invest missions the NHC will often send estimated coordinates of where they believe the center of circulation is which is where the missions will target for their starting point
+However invest missions by nature have to be a bit more flexible for flight patterns simply because there are so many unknowns with these types of storms
+We never know what we re going to find yet we always have to be thinking two or three steps ahead So that really makes us need to think about the meteorology in each particular storm DeHart said Is it a closed low or an open wave Maybe it s closed but just elongated Is it battling shear Are there several smaller swirls competing to be the main circulation center Weak storms and invests can be very tricky and require a lot of thinking on our toes
+Air Force Hurricane Hunters have a variety of flight patterns to choose from for invest missions X Delta and Box just to name a few
+DeHart explains the missions are ideal for the weaker more uncertain storms While the X pattern may resemble the Alpha pattern it is flown at much lower altitudes usually around to feet
+Once a system becomes a tropical storm or hurricane the hurricane hunters begin flying at higher altitudes ranging from to feet depending on the severity of the storm said Jessica Kendziorek public affairs operations chief with the USAF rd Wing
+Flight levels for the Delta and Box patterns are usually at or below ft absolute altitude
+The Delta and Box patterns are similar in that we ll fly around the periphery of the forecast center seeing if we can observe winds in all four quadrants of the storm that would indicate a closed circulation If we find a closed circulation we can confidently go find the center if not we ll continue the mission in invest mode DeHart said
+NOAA Hurricane Hunters also fly operational fixed and invest missions though the names may be different but they usually have more research oriented objectives They fly many unique flight patterns with different types of aircraft depending on what type of mission is assigned
+Hurricane Hunters also fly a third type of mission which the Air Force rarely flies according to DeHart called synoptic missions
+For fixed missions NOAA often flies a Figure Rotated Figure pattern or a Butterfly pattern
+The Butterfly and Figure patterns flown by the WP D through the storm are typically the ones used to find the center of circulation said Jonathan Shannon public affairs specialist for the NOAA Aircraft Operations Center Office of Marine and Aviation Operations
+The Rotated Figure pattern is as it sounds the Figure pattern turned on side
+The goal with every flight is to gather data all around the center of the storm and those patterns allow us to efficiently fly through a storm s various quadrants Nick Underwood NOAA Hurricane Hunter said This data helps with predicting a storm s intensity as well as determining exactly where the center is
+For invest missions the Lawnmower and Square Spiral patterns are flown to determine if there are actual tropical characteristics associated with the area in which they are investigating
+The Lawnmower Pattern allows us to map out a large area when we don t have a center to aim for Paul Flaherty science branch chief at NOAA s Aircraft Operations Center said Once we are able to map a full circulation usually by finding a west wind we ll shift back to Figure s based on that newly identified center position
+The Square Spiral pattern is a survey mission meant to supply observations on the structure and characteristics including information about the vortex center if it exists
+There is a unique third type of mission flight pattern often used to sample the surrounding atmosphere which helps forecasters know the direction the storm is likely to go
+The Star pattern focuses on a scan of the outer edges of the system The closely related Star pattern also does an outer scan of the system while also adding in a circumference loop near the center of circulation
+Recently NOAA s Gulfstream IV flew a Star pattern around Hurricane Larry to investigate outflow patterns from the storm and better determine where the storm was headed
+The flight pattern you ll typically see from our Gulfstream IV is a circumnavigation of the storm itself as well as sampling of the atmosphere around and ahead of the storm Underwood said This data helps with predicting the storm s track
+Regardless of which entity is flying the operational missions are the backbone for the National Hurricane Center tasked with providing essential life saving information about a storm
+The NHC takes the data and uses it to issue guidance and advisories to the public so people know whether Elsa or Ida or Nicholas are still tropical storms or have become hurricanes
+Cable News Network A Warner Bros Discovery Company All Rights Reserved CNN Sans Cable News Network

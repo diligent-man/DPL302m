@@ -1,32 +1,9 @@
-Acharya Virasena (792-853 CE), also known as Veerasena, was a Digambara monk and belonged to the lineage of Acharya Kundakunda
-He  was an Indian mathematician and Jain philosopher and scholar
-He was also known as a famous orator and an accomplished poet
-His most reputed work is the Jain treatise Dhavala
-The late Dr
-Hiralal Jain places the completion of this treatise in 816 AD.
-Virasena was a noted mathematician
-He gave the derivation of the volume of a frustum by a sort of infinite procedure
-He worked with the concept of ardhaccheda: the number of times a number could be divided by 2; effectively base-2 logarithms
-He also worked with logarithms in base 3 (trakacheda) and base 4 (caturthacheda).
-Virasena gave the approximate formula C = 3d + (16d+16)/113 to relate the circumference of a circle, C, to its diameter, d
- For large values of d, this gives the approximation π ≈ 355/113 = 3.14159292..., which is more accurate than the approximation π ≈ 3.1416 given by Aryabhata in the Aryabhatiya.
-Virasena was proficient in astrology, grammar, logic, mathematics and prosody
-He wrote Dhavala, a commentary on Jain canon Shatakhandagama
-He also started the work on Jayadhavalaa which was competed by his disciples
-He was among the jewels of Rashtrakuta king Amoghavarsha.
-His lineage started with Chandrasena who initiated Aryanandi
-Aryanandi initiated Virasena and Jayasena
-Virasena initiated six disciples who were Dasharayguru, Jinasena, Vinayasena, Shripal, Padmasena and Devasena
-Dasharayguru and Jinasena initiated Gunabhadra who later initiated Lokasena
-Vinayasena initiated Kumarasena who started the Kashtha Sangha.
-Indian mathematics
-UmaswamiJain, Pannalal, ed
-(1951), Mahapurana Adipurana of Bhagavata Jinasenacharya, Bharatiya Jnanapitha
-Jaini, Padmanabh S
-(1991), Gender and Salvation: Jaina Debates on the Spiritual Liberation of Women, University of California Press, ISBN 0-520-06820-3
-Shah, Natubhai (2004) [First published in 1998], Jainism: The World of Conquerors, vol. I, Motilal Banarsidass, ISBN 81-208-1938-1 Media related to Virasena at Wikimedia Commons
-Singh, A
-N
-"Mathematics of Dhavala"
-Lucknow University
-Translation of part of the Dhavala.
+Acharya Virasena CE also known as Veerasena was a Digambara monk and belonged to the lineage of Acharya Kundakunda He was an Indian mathematician and Jain philosopher and scholar He was also known as a famous orator and an accomplished poet His most reputed work is the Jain treatise Dhavala The late Dr Hiralal Jain places the completion of this treatise in AD
+Virasena was a noted mathematician He gave the derivation of the volume of a frustum by a sort of infinite procedure He worked with the concept of ardhaccheda the number of times a number could be divided by effectively base logarithms He also worked with logarithms in base trakacheda and base caturthacheda
+Virasena gave the approximate formula C d d to relate the circumference of a circle C to its diameter d For large values of d this gives the approximation which is more accurate than the approximation given by Aryabhata in the Aryabhatiya
+Virasena was proficient in astrology grammar logic mathematics and prosody He wrote Dhavala a commentary on Jain canon Shatakhandagama He also started the work on Jayadhavalaa which was competed by his disciples He was among the jewels of Rashtrakuta king Amoghavarsha
+His lineage started with Chandrasena who initiated Aryanandi Aryanandi initiated Virasena and Jayasena Virasena initiated six disciples who were Dasharayguru Jinasena Vinayasena Shripal Padmasena and Devasena Dasharayguru and Jinasena initiated Gunabhadra who later initiated Lokasena Vinayasena initiated Kumarasena who started the Kashtha Sangha
+UmaswamiJain Pannalal ed Mahapurana Adipurana of Bhagavata Jinasenacharya Bharatiya Jnanapitha
+Jaini Padmanabh S Gender and Salvation Jaina Debates on the Spiritual Liberation of Women University of California Press ISBN
+Shah Natubhai First published in Jainism The World of Conquerors vol I Motilal Banarsidass ISBN Media related to Virasena at Wikimedia Commons
+Singh A N Mathematics of Dhavala Lucknow University Translation of part of the Dhavala

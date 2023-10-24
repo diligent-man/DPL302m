@@ -1,468 +1,223 @@
-The Rothschild family ([ˈʁoːt.ʃɪlt]) is a wealthy Ashkenazi Jewish family originally from Frankfurt that rose to prominence with Mayer Amschel Rothschild (1744–1812), a court factor to the German Landgraves of Hesse-Kassel in the Free City of Frankfurt, Holy Roman Empire, who established his banking business in the 1760s
-Unlike most previous court factors, Rothschild managed to bequeath his wealth and established an international banking family through his five sons, who established businesses in London, Paris, Frankfurt, Vienna, and Naples
-The family was elevated to noble rank in the Holy Roman Empire and the United Kingdom
-The family's documented history starts in 16th century Frankfurt; its name is derived from the family house, Rothschild, built by Isaak Elchanan Bacharach in Frankfurt in 1567.
-During the 19th century, the Rothschild family possessed the largest private fortune in the world, as well as in modern world history
-The family's wealth declined over the 20th century, and was divided among many descendants
-Today, their interests cover a diverse range of fields, including financial services, real estate, mining, energy, agriculture, winemaking, and nonprofits
-Many examples of the family's rural architecture exist across northwestern Europe
-The Rothschild family has frequently been the subject of conspiracy theories, many of which have antisemitic origins.
-The first member of the family who was known to use the name "Rothschild" was Izaak Elchanan Rothschild, born in 1577
-The name is derived from the German zum rothen Schild (with the old spelling "th"), meaning "at the red shield", in reference to the house where the family lived for many generations (in those days, houses were designated not by numbers, but by signs displaying different symbols or colours)
-A red shield can still be seen at the centre of the Rothschild coat of arms
-The family's ascent to international prominence began in 1744, with the birth of Mayer Amschel Rothschild in Frankfurt am Main, Germany
-He was the son of Amschel Moses Rothschild (born circa 1710), a money changer who had traded with the Prince of Hesse
-Born in the "Judengasse", the ghetto of Frankfurt, Mayer developed a finance house and spread his empire by installing each of his five sons in the five main European financial centres to conduct business
-The Rothschild coat of arms contains a clenched fist with five arrows symbolising the five dynasties established by the five sons of Mayer Rothschild, in a reference to Psalm 127: "Like arrows in the hands of a warrior, so are the children of one's youth." The family motto appears below the shield: Concordia, Integritas, Industria (Unity, Integrity, Industry).
-Paul Johnson writes "[T]he Rothschilds are elusive
-There is no book about them that is both revealing and accurate
-Libraries of nonsense have been written about them..
-A woman who planned to write a book entitled Lies about the Rothschilds abandoned it, saying: 'It was relatively easy to spot the lies, but it proved impossible to find out the truth.'" He writes that, unlike the court factors of earlier centuries, who had financed and managed European noble houses, but often lost their wealth through violence or expropriation, the new kind of international bank created by the Rothschilds was impervious to local attacks
-Their assets were held in financial instruments, circulating through the world as stocks, bonds and debts
-Changes made by the Rothschilds allowed them to insulate their property from local violence: "Henceforth their real wealth was beyond the reach of the mob, almost beyond the reach of greedy monarchs." Johnson argued that their fortune was generated to the greatest extent by Nathan Mayer Rothschild in London; however, more recent research by Niall Ferguson indicates that greater and equal profits also were realised by the other Rothschild dynasties, including James Mayer de Rothschild in Paris, Carl Mayer von Rothschild in Naples and Amschel Mayer Rothschild in Frankfurt.
-Another essential part of Mayer Rothschild's strategy for success was to keep control of their banks in family hands, allowing them to maintain full secrecy about the size of their fortunes
-In about 1906, the Jewish Encyclopedia noted: "The practice initiated by the Rothschilds of having several brothers of a firm establish branches in the different financial centres was followed by other Jewish financiers, like the Bischoffsheims, Pereires, Seligmans, Lazards and others, and these financiers by their integrity and financial skill obtained credit not alone with their Jewish confrères, but with the banking fraternity in general
-By this means, Jewish financiers obtained an increasing share of international finance during the middle and last quarter of the 19th century
-The head of the whole group was the Rothschild family..." It also says: "Of more recent years, non-Jewish financiers have learned the same cosmopolitan method, and, on the whole, the control is now rather less than more in Jewish hands than formerly."
-Mayer Rothschild successfully kept the fortune in the family with carefully arranged marriages, often between first- or second-cousins (similar to royal intermarriage)
-By the late 19th century, however, almost all Rothschilds had started to marry outside the family, usually into the aristocracy or other financial dynasties.
-His sons were:
-Amschel Mayer Rothschild (1773–1855): Frankfurt, died childless as his fortune passed to the sons of Salomon and Calmann
-Salomon Mayer Rothschild (1774–1855): Vienna
-Nathan Mayer Rothschild (1777–1836): London
-Calmann Mayer Rothschild (1788–1855): Naples
-Jakob Mayer Rothschild (1792–1868): ParisThe German family name "Rothschild" is pronounced [ˈʁoːtʃɪlt] in German, unlike /ˈrɒθ(s)tʃaɪld/ in English
-The surname "Rothschild" is rare in Germany.
-Families by country:
+The Rothschild family o t lt is a wealthy Ashkenazi Jewish family originally from Frankfurt that rose to prominence with Mayer Amschel Rothschild a court factor to the German Landgraves of Hesse Kassel in the Free City of Frankfurt Holy Roman Empire who established his banking business in the s Unlike most previous court factors Rothschild managed to bequeath his wealth and established an international banking family through his five sons who established businesses in London Paris Frankfurt Vienna and Naples The family was elevated to noble rank in the Holy Roman Empire and the United Kingdom The family's documented history starts in th century Frankfurt its name is derived from the family house Rothschild built by Isaak Elchanan Bacharach in Frankfurt in
+During the th century the Rothschild family possessed the largest private fortune in the world as well as in modern world history The family's wealth declined over the th century and was divided among many descendants Today their interests cover a diverse range of fields including financial services real estate mining energy agriculture winemaking and nonprofits Many examples of the family's rural architecture exist across northwestern Europe The Rothschild family has frequently been the subject of conspiracy theories many of which have antisemitic origins
+The first member of the family who was known to use the name Rothschild was Izaak Elchanan Rothschild born in The name is derived from the German zum rothen Schild with the old spelling th meaning at the red shield in reference to the house where the family lived for many generations in those days houses were designated not by numbers but by signs displaying different symbols or colours A red shield can still be seen at the centre of the Rothschild coat of arms The family's ascent to international prominence began in with the birth of Mayer Amschel Rothschild in Frankfurt am Main Germany He was the son of Amschel Moses Rothschild born circa a money changer who had traded with the Prince of Hesse Born in the Judengasse the ghetto of Frankfurt Mayer developed a finance house and spread his empire by installing each of his five sons in the five main European financial centres to conduct business The Rothschild coat of arms contains a clenched fist with five arrows symbolising the five dynasties established by the five sons of Mayer Rothschild in a reference to Psalm Like arrows in the hands of a warrior so are the children of one's youth The family motto appears below the shield Concordia Integritas Industria Unity Integrity Industry
+Paul Johnson writes T he Rothschilds are elusive There is no book about them that is both revealing and accurate Libraries of nonsense have been written about them A woman who planned to write a book entitled Lies about the Rothschilds abandoned it saying 'It was relatively easy to spot the lies but it proved impossible to find out the truth ' He writes that unlike the court factors of earlier centuries who had financed and managed European noble houses but often lost their wealth through violence or expropriation the new kind of international bank created by the Rothschilds was impervious to local attacks Their assets were held in financial instruments circulating through the world as stocks bonds and debts Changes made by the Rothschilds allowed them to insulate their property from local violence Henceforth their real wealth was beyond the reach of the mob almost beyond the reach of greedy monarchs Johnson argued that their fortune was generated to the greatest extent by Nathan Mayer Rothschild in London however more recent research by Niall Ferguson indicates that greater and equal profits also were realised by the other Rothschild dynasties including James Mayer de Rothschild in Paris Carl Mayer von Rothschild in Naples and Amschel Mayer Rothschild in Frankfurt
+Another essential part of Mayer Rothschild's strategy for success was to keep control of their banks in family hands allowing them to maintain full secrecy about the size of their fortunes In about the Jewish Encyclopedia noted The practice initiated by the Rothschilds of having several brothers of a firm establish branches in the different financial centres was followed by other Jewish financiers like the Bischoffsheims Pereires Seligmans Lazards and others and these financiers by their integrity and financial skill obtained credit not alone with their Jewish confr res but with the banking fraternity in general By this means Jewish financiers obtained an increasing share of international finance during the middle and last quarter of the th century The head of the whole group was the Rothschild family It also says Of more recent years non Jewish financiers have learned the same cosmopolitan method and on the whole the control is now rather less than more in Jewish hands than formerly
+Mayer Rothschild successfully kept the fortune in the family with carefully arranged marriages often between first or second cousins similar to royal intermarriage By the late th century however almost all Rothschilds had started to marry outside the family usually into the aristocracy or other financial dynasties
+Amschel Mayer Rothschild Frankfurt died childless as his fortune passed to the sons of Salomon and Calmann
+Jakob Mayer Rothschild ParisThe German family name Rothschild is pronounced o t lt in German unlike r s t a ld in English The surname Rothschild is rare in Germany
 Rothschild banking family of Austria
 Rothschild banking family of England
 Rothschild banking family of Naples
-Rothschild banking family of FranceThe five sons of Mayer Amschel Rothschild were elevated to the Austrian nobility by Emperor Francis I of Austria, and they were all granted the Austrian hereditary title of Freiherr (baron) on 29 September 1822
-The British branch of the family was elevated by Queen Victoria, who granted the hereditary title of baronet (1847) and later the hereditary peerage title of Baron Rothschild (1885).
-The Rothschilds already possessed a significant fortune before the start of the Napoleonic Wars (1803–1815), and the family had gained preeminence in the bullion trade by this time
-From London in 1813 to 1815, Nathan Mayer Rothschild was instrumental in almost single-handedly financing the British war effort, organising the shipment of bullion to the Duke of Wellington's armies across Europe, as well as arranging the payment of British financial subsidies to their continental allies
-In 1815 alone, the Rothschilds provided £9.8 million (in 1815 currency, which is about £566 million, €717 million or US$869 million today, when using the retail price index, and £6.58 billion, €8.34 billion or US$10.1 billion when using average earnings) in subsidy loans to Britain's continental allies.
-The brothers helped coordinate Rothschild activities across the continent, and the family developed a network of agents, shippers and couriers to transport gold across war-torn Europe
-The family network was also to provide Nathan Rothschild time and again with political and financial information ahead of his peers, giving him an advantage in the markets and rendering the house of Rothschild still more invaluable to the British government.
-In one instance, the family network enabled Nathan to receive in London the news of Wellington's victory at the Battle of Waterloo a full day ahead of the government's official messengers
-Rothschild's first concern on this occasion was not to the potential financial advantage on the market which the knowledge would have given him; he and his courier immediately took the news to the government
-That he used the news for financial advantage was a fiction then repeated in later popular accounts, such as that of Morton
-The basis for the Rothschild's most famously profitable move was made after the news of British victory had been made public
-Nathan Rothschild calculated that the future reduction in government borrowing brought about by the peace would create a bounce in British government bonds after a two-year stabilisation, which would finalise the post-war restructuring of the domestic economy
-In what has been described as one of the most audacious moves in financial history, Nathan immediately bought up the government bond market, for what at the time seemed an excessively high price, before waiting two years, then selling the bonds on the crest of a short bounce in the market in 1817 for a 40% profit
-Given the sheer power of leverage the Rothschild family had at their disposal, this profit was an enormous sum.
-Nathan Mayer Rothschild started his business in Manchester in 1806 and gradually moved it to London, where in 1809 he acquired the location at 2 New Court in St
-Swithin's Lane, City of London, where it operates today; he established N M Rothschild & Sons in 1811
-In 1818, he arranged a £5 million (equal to £390 million in 2021) loan to the Prussian government, and the issuing of bonds for government loans formed a mainstay of his bank's business
-He gained a position of such power in the City of London that by 1825–26 he was able to supply enough coin to the Bank of England to enable it to avert a market liquidity crisis.
-Rothschild family banking businesses pioneered international high finance during the industrialisation of Europe and were instrumental in supporting railway systems across the world and in complex government financing for projects such as the Suez Canal
-From 1895 through 1907 they loaned nearly $450,000,000 ($13,350,000,000 adjusted to inflation in 2022) to European governments
-During the 19th century, the family bought up a large proportion of the property in Mayfair, London.
-The Rothschild family was directly involved in the Independence of Brazil from Portugal in the early 19th century
-Upon an agreement, the Brazilian government should pay a compensation of two million pounds sterling to the Kingdom of Portugal to accept Brazil's independence
-N M Rothschild & Sons was pre-eminent in raising this capital for the government of the newly formed Empire of Brazil on the London market
-In 1825, Nathan Rothschild raised £2,000,000, and indeed was probably discreetly involved in the earlier tranche of this loan which raised £1,000,000 in 1824
-Part of the price of Portuguese recognition of Brazilian independence, secured in 1825, was that Brazil should take over repayment of the principal and interest on a £1,500,000 loan made to the Portuguese government in 1823 by N M Rothschild & Sons
-A correspondence from Samuel Phillips & Co
-in 1824 suggests the close involvement of the Rothschilds in the occasion.
-Major 19th-century businesses founded with Rothschild family capital include:
-Alliance Assurance (1824) (now Royal & Sun Alliance);
-Chemin de Fer du Nord (1845)
-The Rio Tinto mining company (1873) (from the 1880s onwards, the Rothschilds had full control of Rio Tinto)
-Eramet (1880)
-Imerys (1880)
-De Beers (1888)The family funded Cecil Rhodes in the creation of the African colony of Rhodesia
-From the late 1880s onwards, the family took over control of the Rio Tinto mining company.
-The Japanese government approached the London and Paris families for funding during the Russo-Japanese War
-The London consortium's issue of Japanese war bonds would total £11.5 million (at 1907 currency rates; £1.03 billion in 2012 currency terms).
-The name of Rothschild became synonymous with extravagance and great wealth; and, the family was renowned for its art collecting, for its palaces, as well as for its philanthropy
-By the end of the century, the family owned, or had built, at the lowest estimates, over 41 palaces, of a scale and luxury perhaps unparalleled even by the richest royal families
-The British Chancellor of the Exchequer Lloyd George claimed, in 1909, that Nathan, Lord Rothschild was the most powerful man in Britain.
-Niles' Weekly Register, Volume 49 had the following to say about the Rothschilds influence on international high finance in 1836;
-The Neapolitan Rothschilds was the first branch of the family to decline when revolution broke out and Giuseppe Garibaldi captured Naples on 7 September 1860 and set up a provisional Italian government
-Because of the family's close political connections with Austria and France, Adolphe Carl von Rothschild [fr] was caught in a delicate position
-He chose to take temporary sanctuary in Gaeta with the last Neapolitan king, Francis II of the Two Sicilies
-However, the Rothschild branches in London, Paris, and Vienna were not prepared nor willing to financially support the deposed king
-With the ensuing unification of Italy, and the mounting tension between Adolph and the rest of the family, the Naples house closed in 1863 after forty-two years in business.
-In 1901, the German branch closed its doors after more than a century in business following the death of Wilhelm Rothschild with no male heirs
-It was not until 1989 that the family returned, when N
-M
-Rothschild & Sons, the British branch, plus Bank Rothschild AG, the Swiss branch, set up a representative banking office in Frankfurt.
-By the start of the 20th century, the introduction of national taxation systems had ended the Rothschild's policy of operating with a single set of commercial account records which resulted in the various branches gradually going their own separate ways as independent banks
-The system of the five brothers and their successor sons would all but disappear by World War I.
-The rise of Nazi Germany in the 1930s led to a precarious situation for the Austrian Rothschilds under the Annexation of Austria in 1937 when the family was pressured to sell its banking operations at a fraction of its real worth
-While other Rothschilds had escaped the Nazis, Louis Rothschild was imprisoned for a year and only released after a substantial ransom was paid by his family
-After Louis was allowed to leave the country in March 1939, the Nazis placed the firm of S M von Rothschild under compulsory administration
-Nazi officers and senior staff from Austrian museums also emptied the Rothschild family estates of all their valuables
-Following the war, the Austrian Rothschilds were unable to reclaim much of their former assets and properties.
-Later, the fall of France during the Second World War led to the seizure of the property of the French Rothschilds under German occupation
-Despite having their bank restored to them at the end of the war, the French Rothschilds were powerless in 1982 as the family business was nationalised by the socialist government of newly elected President François Mitterrand.
-In addition, The New York Times wrote that the Rothschilds "grossly misjudged the opportunities directly across the Atlantic" and quoted Evelyn Robert de Rothschild as saying that despite the accomplishments made by the various branches of the family in international high finance for over 200 years, "we never seized the initiative in America and that was one of the mistakes my family made."
-In 1816, four of the five sons of Mayer Amschel Rothschild were elevated to the Austrian nobility by Emperor Francis I of Austria
-The remaining son, Nathan, was elevated in 1818
-All of them were granted the Austrian hereditary title of Freiherr (baron) on 29 September 1822
-As such, some members of the family used the nobiliary particle de or von before their surname to acknowledge the grant of nobility.
-In 1847, Anthony de Rothschild was made a hereditary baronet of the United Kingdom
-In 1885, Sir Nathan Rothschild, 2nd Baronet, was granted the hereditary peerage title of Baron Rothschild in the Peerage of the United Kingdom
-This title is currently held by the 4th Baron Rothschild.
-The Rothschild banking family of the United Kingdom was founded in 1798 by Nathan Mayer Rothschild (1777–1836), who first settled in Manchester but then moved to London
-Nathan Mayer von Rothschild, the third son of Mayer Amschel Rothschild (1744–1812), first established a textile jobbing business in Manchester and from there went on to establish N M Rothschild & Sons bank in London.
-During the early part of the 19th century, the Rothschild family's London bank took a leading part in managing and financing the subsidies that the British government transferred to its allies during the Napoleonic Wars
-Through the creation of a network of agents, couriers and shippers, the bank was able to provide funds to the armies of the Duke of Wellington in Portugal and Spain, therefore funding the war
-The providing of other innovative and complex financing for government projects formed a mainstay of the bank's business for the better part of the century
-N
-M
-Rothschild & Sons' financial strength in the City of London became such that, by 1825–26, the bank was able to supply enough coin to the Bank of England to enable it to avert a liquidity crisis.
-Nathan Mayer's eldest son, Lionel de Rothschild (1808–1879), succeeded him as head of the London branch
-Under Lionel, the bank financed the British government's 1875 purchase of Egypt's interest in the Suez Canal
-The Rothschild bank also funded Cecil Rhodes in the development of the British South Africa Company
-Leopold de Rothschild (1845–1917) administered Rhodes's estate after his death in 1902 and helped to set up the Rhodes Scholarship scheme at the University of Oxford
-In 1873, de Rothschild Frères in France and N
-M
-Rothschild & Sons of London joined with other investors to acquire the Spanish government's money-losing Rio Tinto copper mines
-The new owners restructured the company and turned it into a profitable business
-By 1905, the Rothschild interest in Rio Tinto amounted to more than 30 percent
-In 1887, the French and British Rothschild banking houses loaned money to, and invested in, the De Beers diamond mines in South Africa, becoming its largest shareholders.
-The London banking house continued under the management of Lionel Nathan de Rothschild (1882–1942) and his brother Anthony Gustav de Rothschild (1887–1961), and then to Sir Evelyn de Rothschild (b
-1931)
-In 2003, following Sir Evelyn's retirement as head of N
-M
-Rothschild & Sons of London, the British and French financial firms merged under the leadership of David René de Rothschild.
-There are two branches of the family connected to France.
-The first was the branch of James Mayer de Rothschild (1792–1868), known as "James", who established de Rothschild Frères in Paris; he married his niece Betty von Rothschild
-Following the Napoleonic Wars, he played a major role in financing the construction of railways and the mining business that helped make France an industrial power
-By 1980, the Paris business employed about 2,000 people and had an annual turnover of 26 billion francs (€4.13 billion or $5 billion in the currency rates of 1980).
-However, the Paris business suffered a near death blow in 1982, when the socialist government of François Mitterrand nationalised and renamed it as Compagnie Européenne de Banque
-Baron David de Rothschild, then 39, decided to stay and rebuild, creating a new entity named Rothschild & Cie Banque, with just three employees and €830,000 (US$1 million) in capital
-Today, the Paris operation has 22 partners and accounts for a significant part of the global business.
-Ensuing generations of the Paris Rothschild family remained involved in the family business, becoming a major force in international investment banking
-The Paris Rothschilds have since led the Thomson Financial League Tables in Investment Banking Merger and Acquisition deals in the UK, France and Italy.
-James Mayer de Rothschild's other son, Edmond James de Rothschild (1845–1934), was very much engaged in philanthropy and the arts, and he was a leading proponent of Zionism
-His grandson, Baron Edmond Adolphe de Rothschild, founded in 1953 the LCF Rothschild Group, a private bank
-Since 1997, Baron Benjamin de Rothschild chairs the group
-The group has €100bn of assets in 2008 and owns many wine properties in France (Château Clarke, Château des Laurets), in Australia or in South Africa
-In 1961, the 35-year-old Edmond Adolphe de Rothschild purchased the company Club Med, after he had visited a resort and enjoyed his stay
-His interest in Club Med was sold off by the 1990s
-In 1973, he bought out the Bank of California, selling his interests in 1984 before it was sold to Mitsubishi Bank in 1985.
-The second French branch was founded by Nathaniel de Rothschild (1812–1870)
-Born in London, he was the fourth child of the founder of the British branch of the family, Nathan Mayer Rothschild (1777–1836)
-In 1850 Nathaniel Rothschild moved to Paris to work with his uncle James Mayer Rothschild
-In 1853 Nathaniel acquired Château Brane Mouton, a vineyard in Pauillac in the Gironde département
- Nathaniel Rothschild renamed the estate Château Mouton Rothschild, and it would become one of the best known labels in the world
-In 1868, Nathaniel's uncle, James Mayer de Rothschild, acquired the neighbouring Château Lafite vineyard.
-In Vienna, Salomon Mayer Rothschild established a bank in the 1820s and the Austrian family had vast wealth and position
-The crash of 1929 brought problems, and Baron Louis von Rothschild attempted to shore up the Creditanstalt, Austria's largest bank, to prevent its collapse
-Nevertheless, during the Second World War they had to surrender their bank to the Nazis and flee the country
-Their Rothschild palaces, a collection of vast palaces in Vienna built and owned by the family, were confiscated, plundered and destroyed by the Nazis
-The palaces were famous for their sheer size and for their huge collections of paintings, armour, tapestries and statues (some of which were restored to the Rothschilds by the Austrian government in 1999)
-All family members escaped the Holocaust, some of them moving to the United States, and returning to Europe only after the war
-In 1999, the government of Austria agreed to return to the Rothschild family some 250 art treasures looted by the Nazis and absorbed into state museums after the war.
-The C M de Rothschild & Figli bank arranged substantial loans to the Papal States and to various Kings of Naples plus the Duchy of Parma and the Grand Duchy of Tuscany
-However, in the 1830s, Naples followed Spain with a gradual shift away from conventional bond issues that began to affect the bank's growth and profitability
-The Unification of Italy in 1861, with the ensuing decline of the Italian aristocracy who had been the Rothschild's primary clients, eventually brought about the closure of their Naples bank, due to a forecasted decline in the sustainability of the business over the long-term
-However, in the early 19th century, the Rothschild family of Naples built up close relations with the Holy See, and the association between the family and the Vatican continued into the 20th century
-In 1832, when Pope Gregory XVI was seen meeting Carl von Rothschild to arrange the 1832 Rothschild loan to the Holy See (for £400,000, worth €43,000,000 in 2014), observers were shocked that Rothschild was not required to kiss the Pope's feet, as was then required for all other visitors to the Pope, including monarchs
-The 1906 Jewish Encyclopedia described the Rothschilds as "the guardians of the papal treasure".
-Jewish solidarity in the family was not homogeneous
-Many Rothschilds were supporters of Zionism, while other members of the family opposed the creation of the Jewish state
- In 1917 Walter Rothschild, 2nd Baron Rothschild was the addressee of the Balfour Declaration to the Zionist Federation, which committed the British government to the establishment in Palestine of a national home for the Jewish people
-His nephew, Victor, Lord Rothschild was against granting asylum or helping Jewish refugees in 1938.
-After the death of James Jacob de Rothschild in 1868, his eldest son Alphonse Rothschild took over the management of the family bank and was the most active in support for Eretz Israel
-The Rothschild family archives show that during the 1870s the family contributed nearly 500,000 francs per year on behalf of Eastern Jewry to the Alliance Israélite Universelle.
-Baron Edmond James de Rothschild (known in Israel simply as "the Baron Rothschild" or "the Benefactor" (Hebrew: "HaNadiv"), youngest son of James Jacob de Rothschild, was a patron of the first permanent settlement in Palestine at Rishon-LeZion (1882)
-He also provided funding for the establishment of Petah Tikva as a permanent settlement (1883)
-Overall, he bought from Ottoman landlords 2-3% of the land which now makes up present-day Israel
-After Baron de Hirsch died in 1896, the Hirsch-founded Jewish Colonisation Association (ICA) started supporting the settlement of Palestine (1896), and Baron Rothschild took an active role in the organization and transferred his Palestinian land holdings as well as 15 million francs to it
-In 1924, he reorganized the Palestinian branch of the ICA into the Palestine Jewish Colonisation Association (PICA), which acquired more than 125,000 acres (50,586 ha) of land and set up business ventures
-In Tel Aviv, the Rothschild Boulevard is named after him, as are a number of localities throughout Israel which he assisted in founding, including Metulla, Zikhron Ya'akov, Rishon Lezion and Rosh Pina
-A park in Boulogne-Billancourt, Paris, the Parc Edmond de Rothschild (Edmond de Rothschild Park), is also named after its founder
-The Rothschilds also played a significant part in the funding of Israel's governmental infrastructure
-James A
-de Rothschild financed the Knesset building as a gift to the State of Israel and the Supreme Court of Israel building was donated to Israel by Dorothy de Rothschild
-Outside the President's Chamber is displayed the letter Dorothy de Rothschild wrote to then Prime Minister Shimon Peres expressing her intention to donate a new building for the Supreme Court.
-Interviewed by Haaretz in 2010, Baron Benjamin Rothschild, a Swiss-based member of the banking family, said that he supported the Israeli–Palestinian peace process: "I understand that it is a complicated business, mainly because of the fanatics and extremists – and I am talking about both sides
-I think you have fanatics in Israel
-..
-In general I am not in contact with politicians
-I spoke once with Netanyahu
-I met once with an Israeli finance minister, but the less I mingle with politicians the better I feel." Due to a dispute with the Israeli tax authorities, the baron refuses to visit Israel
-But his wife Ariane de Rothschild often visits Israel where she manages the Caesarea Foundation
-She says: "It is insulting that the state [Israel] casts doubt on us
-If there is a family that does not have to prove its commitment to Israel, it's ours."
-Primarily due to the generosity and influence of Baron Edmond James de Rothschild, HaNadiv (the Benefactor), on the history of the Land of Israel and the State of Israel, a tradition exists of naming cities, towns and other settlements in Israel in honor of members of the Rothschild family
-Six of these places are grouped in the same vicinity, on the Sharon plain, while the others are scattered throughout the country
-They are, listed in order of founding:
-- Zichron Ya'akov (Hebrew: Jacob's Memory), a town founded in 1882 and named after the Benefactor's father, James [Jacob] Mayer de Rothschild (1792-1868) from the Paris branch of the family;
-- Mazkeret Batya (Hebrew: Remembrance of Batya), a local council near Tel Aviv, founded in 1883 and named after Betty von Rothschild (1805-1886), the Benefactor's mother;
-- Bat Shlomo (Hebrew: Salomon's Daughter), a moshav near Rehovot, founded in 1889 and also named after the Baron's mother, who was the daughter of Salomon Mayer von Rothschild (1774-1855), the Benefactor's grandfather from the Vienna branch;
-- Meir Shfeya (Hebrew: Mayer's Fields), a youth village near Zichron Ya'acov, founded as a moshava in 1891 and named after Amschel Mayer von Rothschild (1773-1855), the Benefactor's grandfather from the Frankfurt branch;
-- Givat Ada (Hebrew: Ada's Hill), a town near Zichron Ya'acov, founded in 1903 and named after the Benefactor's wife Adelheid von Rothschild (1853-1935), who was also his cousin, from the Naples branch;
-- Binyamina, a town near Zichron Ya'acov, founded in 1922 and named after Benefactor himself (Binyamina was officially merged with Givat Ada in 2003);
-- Ashdot Ya'akov (Hebrew: Jacob's Rapids), a kibbutz just south of the Sea of Galilee, founded in 1924 and named after James Armand Edmond de Rothschild (1878-1957), son of the Benefactor;
-- Pardes Hanna (Hebrew: Hannah's [Citrus] Orchard), a local council near Zichron Ya'acov, founded in 1929 and named after Hannah Primrose, Countess of Rosebery née de Rothschild (1851-1890), daughter of Mayer Anschel Rothschild;
-- Shadmot Dvora (Hebrew: Deborah's Cultivated Fields), a moshav near Tiberias, founded in 1939 and named after Dorothy de Rothschild (1895-1988), who was James de Rothschild's wife and the Benefactor's daughter-in-law;
-- Sde Eliezer (Hebrew: Eliezer's Field), a moshav in the Hula Valley, founded in 1950 and named after Robert Rothschild (1911-1998), a relative of the Benefactor's of the French branch.
-Since the late 19th century, the family has taken a low-key public profile, donating many famous estates, as well as vast quantities of art, to charity, and generally eschewing conspicuous displays of wealth
-Today, Rothschild businesses are on a smaller scale than they were throughout the 19th century, although they encompass a diverse range of fields, including: real estate, financial services, mixed farming, energy, mining, winemaking and nonprofits.
-Since 2003, a group of Rothschild banks have been controlled by Rothschild Continuation Holdings, a Swiss-registered holding company (under the chairmanship of Baron David René de Rothschild)
-Rothschild Continuation Holdings is in turn controlled by Concordia BV, a Dutch-registered master holding company
-Concordia BV is managed by Paris Orléans S.A., a French-registered holding company
-Paris Orléans S.A
-is ultimately controlled by Rothschild Concordia SAS, a Rothschild's family holding company
-Rothschild & Cie Banque controls Rothschild banking businesses in France and continental Europe, while Rothschilds Continuation Holdings AG controls a number of Rothschild banks elsewhere, including N M Rothschild & Sons in London
-Twenty percent of Rothschild Continuation Holdings AG was sold in 2005 to Jardine Strategic, which is a subsidiary of Jardine, Matheson & Co
-of Hong Kong
-In November 2008, Rabobank Group, the leading investment and private bank in the Netherlands, acquired 7.5% of Rothschild Continuation Holdings AG, and Rabobank and Rothschild entered into a co-operation agreement in the fields of mergers and acquisitions (M&A) advisory and equity capital markets advisory in the food and agribusiness sectors
-It was believed that the move was intended to help Rothschild Continuation Holdings AG gain access to a wider capital pool, enlarging its presence in East Asian markets.
-Paris Orléans S.A
-is a financial holding company listed on Euronext Paris and controlled by the French and English branch of the Rothschild family
-Paris Orléans is the flagship of the Rothschild banking Group and controls the Rothschild Group's banking activities including N M Rothschild & Sons and Rothschild & Cie Banque
-It has over 2,000 employees
-Directors of the company include Eric de Rothschild, Robert de Rothschild and Count Philippe de Nicolay.
-N M Rothschild & Sons, an English investment bank, does most of its business as an advisor for mergers and acquisitions
-In 2004, the investment bank withdrew from the gold market, a commodity the Rothschild bankers had traded in for two centuries
-In 2006, it ranked second in UK M&A with deals totalling $104.9 billion
-In 2006, the bank recorded a pre-tax annual profit of £83.2 million with assets of £5.5 billion.
-In 1953, one Swiss member of the family, Edmond Adolphe de Rothschild (1926–1997), founded the LCF Rothschild Group (now Edmond de Rothschild Group) which is based in Geneva, which today extends to 15 countries across the world
-Although this Group is primarily a financial entity, specializing in asset management and private banking, its activities also cover mixed farming, luxury hotels and yacht racing
-Edmond de Rothschild Group's committee is currently being chaired by Benjamin de Rothschild, Baron Edmond's son.
-In late 2010, Baron Benjamin Rothschild said that the family had been unaffected by the financial crisis of 2007–2010, due to their conservative business practices: "We came through it well, because our investment managers did not want to put money into crazy things." He added that the Rothschilds were still a small-scale, traditional family business and took greater care over their clients' investments than American companies, adding: "The client knows we will not speculate with his money".
-Edmond de Rothschild group includes these companies.
-Banque privée Edmond de Rothschild – Swiss private banking firm
-Compagnie Financière Edmond de Rothschild – French private bank
+Rothschild banking family of FranceThe five sons of Mayer Amschel Rothschild were elevated to the Austrian nobility by Emperor Francis I of Austria and they were all granted the Austrian hereditary title of Freiherr baron on September The British branch of the family was elevated by Queen Victoria who granted the hereditary title of baronet and later the hereditary peerage title of Baron Rothschild
+The Rothschilds already possessed a significant fortune before the start of the Napoleonic Wars and the family had gained preeminence in the bullion trade by this time From London in to Nathan Mayer Rothschild was instrumental in almost single handedly financing the British war effort organising the shipment of bullion to the Duke of Wellington's armies across Europe as well as arranging the payment of British financial subsidies to their continental allies In alone the Rothschilds provided million in currency which is about million million or US million today when using the retail price index and billion billion or US billion when using average earnings in subsidy loans to Britain's continental allies
+The brothers helped coordinate Rothschild activities across the continent and the family developed a network of agents shippers and couriers to transport gold across war torn Europe The family network was also to provide Nathan Rothschild time and again with political and financial information ahead of his peers giving him an advantage in the markets and rendering the house of Rothschild still more invaluable to the British government
+In one instance the family network enabled Nathan to receive in London the news of Wellington's victory at the Battle of Waterloo a full day ahead of the government's official messengers Rothschild's first concern on this occasion was not to the potential financial advantage on the market which the knowledge would have given him he and his courier immediately took the news to the government That he used the news for financial advantage was a fiction then repeated in later popular accounts such as that of Morton The basis for the Rothschild's most famously profitable move was made after the news of British victory had been made public Nathan Rothschild calculated that the future reduction in government borrowing brought about by the peace would create a bounce in British government bonds after a two year stabilisation which would finalise the post war restructuring of the domestic economy In what has been described as one of the most audacious moves in financial history Nathan immediately bought up the government bond market for what at the time seemed an excessively high price before waiting two years then selling the bonds on the crest of a short bounce in the market in for a profit Given the sheer power of leverage the Rothschild family had at their disposal this profit was an enormous sum
+Nathan Mayer Rothschild started his business in Manchester in and gradually moved it to London where in he acquired the location at New Court in St Swithin's Lane City of London where it operates today he established N M Rothschild Sons in In he arranged a million equal to million in loan to the Prussian government and the issuing of bonds for government loans formed a mainstay of his bank's business He gained a position of such power in the City of London that by he was able to supply enough coin to the Bank of England to enable it to avert a market liquidity crisis
+Rothschild family banking businesses pioneered international high finance during the industrialisation of Europe and were instrumental in supporting railway systems across the world and in complex government financing for projects such as the Suez Canal From through they loaned nearly adjusted to inflation in to European governments During the th century the family bought up a large proportion of the property in Mayfair London
+The Rothschild family was directly involved in the Independence of Brazil from Portugal in the early th century Upon an agreement the Brazilian government should pay a compensation of two million pounds sterling to the Kingdom of Portugal to accept Brazil's independence N M Rothschild Sons was pre eminent in raising this capital for the government of the newly formed Empire of Brazil on the London market In Nathan Rothschild raised and indeed was probably discreetly involved in the earlier tranche of this loan which raised in Part of the price of Portuguese recognition of Brazilian independence secured in was that Brazil should take over repayment of the principal and interest on a loan made to the Portuguese government in by N M Rothschild Sons A correspondence from Samuel Phillips Co in suggests the close involvement of the Rothschilds in the occasion
+Major th century businesses founded with Rothschild family capital include
+Alliance Assurance now Royal Sun Alliance
+Chemin de Fer du Nord
+The Rio Tinto mining company from the s onwards the Rothschilds had full control of Rio Tinto
+De Beers The family funded Cecil Rhodes in the creation of the African colony of Rhodesia From the late s onwards the family took over control of the Rio Tinto mining company
+The Japanese government approached the London and Paris families for funding during the Russo Japanese War The London consortium's issue of Japanese war bonds would total million at currency rates billion in currency terms
+The name of Rothschild became synonymous with extravagance and great wealth and the family was renowned for its art collecting for its palaces as well as for its philanthropy By the end of the century the family owned or had built at the lowest estimates over palaces of a scale and luxury perhaps unparalleled even by the richest royal families The British Chancellor of the Exchequer Lloyd George claimed in that Nathan Lord Rothschild was the most powerful man in Britain
+Niles' Weekly Register Volume had the following to say about the Rothschilds influence on international high finance in
+The Neapolitan Rothschilds was the first branch of the family to decline when revolution broke out and Giuseppe Garibaldi captured Naples on September and set up a provisional Italian government Because of the family's close political connections with Austria and France Adolphe Carl von Rothschild fr was caught in a delicate position He chose to take temporary sanctuary in Gaeta with the last Neapolitan king Francis II of the Two Sicilies However the Rothschild branches in London Paris and Vienna were not prepared nor willing to financially support the deposed king With the ensuing unification of Italy and the mounting tension between Adolph and the rest of the family the Naples house closed in after forty two years in business
+In the German branch closed its doors after more than a century in business following the death of Wilhelm Rothschild with no male heirs It was not until that the family returned when N M Rothschild Sons the British branch plus Bank Rothschild AG the Swiss branch set up a representative banking office in Frankfurt
+By the start of the th century the introduction of national taxation systems had ended the Rothschild's policy of operating with a single set of commercial account records which resulted in the various branches gradually going their own separate ways as independent banks The system of the five brothers and their successor sons would all but disappear by World War I
+The rise of Nazi Germany in the s led to a precarious situation for the Austrian Rothschilds under the Annexation of Austria in when the family was pressured to sell its banking operations at a fraction of its real worth While other Rothschilds had escaped the Nazis Louis Rothschild was imprisoned for a year and only released after a substantial ransom was paid by his family After Louis was allowed to leave the country in March the Nazis placed the firm of S M von Rothschild under compulsory administration Nazi officers and senior staff from Austrian museums also emptied the Rothschild family estates of all their valuables Following the war the Austrian Rothschilds were unable to reclaim much of their former assets and properties
+Later the fall of France during the Second World War led to the seizure of the property of the French Rothschilds under German occupation Despite having their bank restored to them at the end of the war the French Rothschilds were powerless in as the family business was nationalised by the socialist government of newly elected President Fran ois Mitterrand
+In addition The New York Times wrote that the Rothschilds grossly misjudged the opportunities directly across the Atlantic and quoted Evelyn Robert de Rothschild as saying that despite the accomplishments made by the various branches of the family in international high finance for over years we never seized the initiative in America and that was one of the mistakes my family made
+In four of the five sons of Mayer Amschel Rothschild were elevated to the Austrian nobility by Emperor Francis I of Austria The remaining son Nathan was elevated in All of them were granted the Austrian hereditary title of Freiherr baron on September As such some members of the family used the nobiliary particle de or von before their surname to acknowledge the grant of nobility
+In Anthony de Rothschild was made a hereditary baronet of the United Kingdom In Sir Nathan Rothschild nd Baronet was granted the hereditary peerage title of Baron Rothschild in the Peerage of the United Kingdom This title is currently held by the th Baron Rothschild
+The Rothschild banking family of the United Kingdom was founded in by Nathan Mayer Rothschild who first settled in Manchester but then moved to London Nathan Mayer von Rothschild the third son of Mayer Amschel Rothschild first established a textile jobbing business in Manchester and from there went on to establish N M Rothschild Sons bank in London
+During the early part of the th century the Rothschild family's London bank took a leading part in managing and financing the subsidies that the British government transferred to its allies during the Napoleonic Wars Through the creation of a network of agents couriers and shippers the bank was able to provide funds to the armies of the Duke of Wellington in Portugal and Spain therefore funding the war The providing of other innovative and complex financing for government projects formed a mainstay of the bank's business for the better part of the century N M Rothschild Sons' financial strength in the City of London became such that by the bank was able to supply enough coin to the Bank of England to enable it to avert a liquidity crisis
+Nathan Mayer's eldest son Lionel de Rothschild succeeded him as head of the London branch Under Lionel the bank financed the British government's purchase of Egypt's interest in the Suez Canal The Rothschild bank also funded Cecil Rhodes in the development of the British South Africa Company Leopold de Rothschild administered Rhodes's estate after his death in and helped to set up the Rhodes Scholarship scheme at the University of Oxford In de Rothschild Fr res in France and N M Rothschild Sons of London joined with other investors to acquire the Spanish government's money losing Rio Tinto copper mines The new owners restructured the company and turned it into a profitable business By the Rothschild interest in Rio Tinto amounted to more than percent In the French and British Rothschild banking houses loaned money to and invested in the De Beers diamond mines in South Africa becoming its largest shareholders
+The London banking house continued under the management of Lionel Nathan de Rothschild and his brother Anthony Gustav de Rothschild and then to Sir Evelyn de Rothschild b In following Sir Evelyn's retirement as head of N M Rothschild Sons of London the British and French financial firms merged under the leadership of David Ren de Rothschild
+There are two branches of the family connected to France
+The first was the branch of James Mayer de Rothschild known as James who established de Rothschild Fr res in Paris he married his niece Betty von Rothschild Following the Napoleonic Wars he played a major role in financing the construction of railways and the mining business that helped make France an industrial power By the Paris business employed about people and had an annual turnover of billion francs billion or billion in the currency rates of
+However the Paris business suffered a near death blow in when the socialist government of Fran ois Mitterrand nationalised and renamed it as Compagnie Europ enne de Banque Baron David de Rothschild then decided to stay and rebuild creating a new entity named Rothschild Cie Banque with just three employees and US million in capital Today the Paris operation has partners and accounts for a significant part of the global business
+Ensuing generations of the Paris Rothschild family remained involved in the family business becoming a major force in international investment banking The Paris Rothschilds have since led the Thomson Financial League Tables in Investment Banking Merger and Acquisition deals in the UK France and Italy
+James Mayer de Rothschild's other son Edmond James de Rothschild was very much engaged in philanthropy and the arts and he was a leading proponent of Zionism His grandson Baron Edmond Adolphe de Rothschild founded in the LCF Rothschild Group a private bank Since Baron Benjamin de Rothschild chairs the group The group has bn of assets in and owns many wine properties in France Ch teau Clarke Ch teau des Laurets in Australia or in South Africa In the year old Edmond Adolphe de Rothschild purchased the company Club Med after he had visited a resort and enjoyed his stay His interest in Club Med was sold off by the s In he bought out the Bank of California selling his interests in before it was sold to Mitsubishi Bank in
+The second French branch was founded by Nathaniel de Rothschild Born in London he was the fourth child of the founder of the British branch of the family Nathan Mayer Rothschild In Nathaniel Rothschild moved to Paris to work with his uncle James Mayer Rothschild In Nathaniel acquired Ch teau Brane Mouton a vineyard in Pauillac in the Gironde d partement Nathaniel Rothschild renamed the estate Ch teau Mouton Rothschild and it would become one of the best known labels in the world In Nathaniel's uncle James Mayer de Rothschild acquired the neighbouring Ch teau Lafite vineyard
+In Vienna Salomon Mayer Rothschild established a bank in the s and the Austrian family had vast wealth and position The crash of brought problems and Baron Louis von Rothschild attempted to shore up the Creditanstalt Austria's largest bank to prevent its collapse Nevertheless during the Second World War they had to surrender their bank to the Nazis and flee the country Their Rothschild palaces a collection of vast palaces in Vienna built and owned by the family were confiscated plundered and destroyed by the Nazis The palaces were famous for their sheer size and for their huge collections of paintings armour tapestries and statues some of which were restored to the Rothschilds by the Austrian government in All family members escaped the Holocaust some of them moving to the United States and returning to Europe only after the war In the government of Austria agreed to return to the Rothschild family some art treasures looted by the Nazis and absorbed into state museums after the war
+The C M de Rothschild Figli bank arranged substantial loans to the Papal States and to various Kings of Naples plus the Duchy of Parma and the Grand Duchy of Tuscany However in the s Naples followed Spain with a gradual shift away from conventional bond issues that began to affect the bank's growth and profitability The Unification of Italy in with the ensuing decline of the Italian aristocracy who had been the Rothschild's primary clients eventually brought about the closure of their Naples bank due to a forecasted decline in the sustainability of the business over the long term However in the early th century the Rothschild family of Naples built up close relations with the Holy See and the association between the family and the Vatican continued into the th century In when Pope Gregory XVI was seen meeting Carl von Rothschild to arrange the Rothschild loan to the Holy See for worth in observers were shocked that Rothschild was not required to kiss the Pope's feet as was then required for all other visitors to the Pope including monarchs The Jewish Encyclopedia described the Rothschilds as the guardians of the papal treasure
+Jewish solidarity in the family was not homogeneous Many Rothschilds were supporters of Zionism while other members of the family opposed the creation of the Jewish state In Walter Rothschild nd Baron Rothschild was the addressee of the Balfour Declaration to the Zionist Federation which committed the British government to the establishment in Palestine of a national home for the Jewish people His nephew Victor Lord Rothschild was against granting asylum or helping Jewish refugees in
+After the death of James Jacob de Rothschild in his eldest son Alphonse Rothschild took over the management of the family bank and was the most active in support for Eretz Israel The Rothschild family archives show that during the s the family contributed nearly francs per year on behalf of Eastern Jewry to the Alliance Isra lite Universelle
+Baron Edmond James de Rothschild known in Israel simply as the Baron Rothschild or the Benefactor Hebrew HaNadiv youngest son of James Jacob de Rothschild was a patron of the first permanent settlement in Palestine at Rishon LeZion He also provided funding for the establishment of Petah Tikva as a permanent settlement Overall he bought from Ottoman landlords of the land which now makes up present day Israel After Baron de Hirsch died in the Hirsch founded Jewish Colonisation Association ICA started supporting the settlement of Palestine and Baron Rothschild took an active role in the organization and transferred his Palestinian land holdings as well as million francs to it In he reorganized the Palestinian branch of the ICA into the Palestine Jewish Colonisation Association PICA which acquired more than acres ha of land and set up business ventures In Tel Aviv the Rothschild Boulevard is named after him as are a number of localities throughout Israel which he assisted in founding including Metulla Zikhron Ya'akov Rishon Lezion and Rosh Pina A park in Boulogne Billancourt Paris the Parc Edmond de Rothschild Edmond de Rothschild Park is also named after its founder The Rothschilds also played a significant part in the funding of Israel's governmental infrastructure James A de Rothschild financed the Knesset building as a gift to the State of Israel and the Supreme Court of Israel building was donated to Israel by Dorothy de Rothschild Outside the President's Chamber is displayed the letter Dorothy de Rothschild wrote to then Prime Minister Shimon Peres expressing her intention to donate a new building for the Supreme Court
+Interviewed by Haaretz in Baron Benjamin Rothschild a Swiss based member of the banking family said that he supported the Israeli Palestinian peace process I understand that it is a complicated business mainly because of the fanatics and extremists and I am talking about both sides I think you have fanatics in Israel In general I am not in contact with politicians I spoke once with Netanyahu I met once with an Israeli finance minister but the less I mingle with politicians the better I feel Due to a dispute with the Israeli tax authorities the baron refuses to visit Israel But his wife Ariane de Rothschild often visits Israel where she manages the Caesarea Foundation She says It is insulting that the state Israel casts doubt on us If there is a family that does not have to prove its commitment to Israel it's ours
+Primarily due to the generosity and influence of Baron Edmond James de Rothschild HaNadiv the Benefactor on the history of the Land of Israel and the State of Israel a tradition exists of naming cities towns and other settlements in Israel in honor of members of the Rothschild family Six of these places are grouped in the same vicinity on the Sharon plain while the others are scattered throughout the country They are listed in order of founding
+Zichron Ya'akov Hebrew Jacob's Memory a town founded in and named after the Benefactor's father James Jacob Mayer de Rothschild from the Paris branch of the family
+Mazkeret Batya Hebrew Remembrance of Batya a local council near Tel Aviv founded in and named after Betty von Rothschild the Benefactor's mother
+Bat Shlomo Hebrew Salomon's Daughter a moshav near Rehovot founded in and also named after the Baron's mother who was the daughter of Salomon Mayer von Rothschild the Benefactor's grandfather from the Vienna branch
+Meir Shfeya Hebrew Mayer's Fields a youth village near Zichron Ya'acov founded as a moshava in and named after Amschel Mayer von Rothschild the Benefactor's grandfather from the Frankfurt branch
+Givat Ada Hebrew Ada's Hill a town near Zichron Ya'acov founded in and named after the Benefactor's wife Adelheid von Rothschild who was also his cousin from the Naples branch
+Binyamina a town near Zichron Ya'acov founded in and named after Benefactor himself Binyamina was officially merged with Givat Ada in
+Ashdot Ya'akov Hebrew Jacob's Rapids a kibbutz just south of the Sea of Galilee founded in and named after James Armand Edmond de Rothschild son of the Benefactor
+Pardes Hanna Hebrew Hannah's Citrus Orchard a local council near Zichron Ya'acov founded in and named after Hannah Primrose Countess of Rosebery n e de Rothschild daughter of Mayer Anschel Rothschild
+Shadmot Dvora Hebrew Deborah's Cultivated Fields a moshav near Tiberias founded in and named after Dorothy de Rothschild who was James de Rothschild's wife and the Benefactor's daughter in law
+Sde Eliezer Hebrew Eliezer's Field a moshav in the Hula Valley founded in and named after Robert Rothschild a relative of the Benefactor's of the French branch
+Since the late th century the family has taken a low key public profile donating many famous estates as well as vast quantities of art to charity and generally eschewing conspicuous displays of wealth Today Rothschild businesses are on a smaller scale than they were throughout the th century although they encompass a diverse range of fields including real estate financial services mixed farming energy mining winemaking and nonprofits
+Since a group of Rothschild banks have been controlled by Rothschild Continuation Holdings a Swiss registered holding company under the chairmanship of Baron David Ren de Rothschild Rothschild Continuation Holdings is in turn controlled by Concordia BV a Dutch registered master holding company Concordia BV is managed by Paris Orl ans S A a French registered holding company Paris Orl ans S A is ultimately controlled by Rothschild Concordia SAS a Rothschild's family holding company Rothschild Cie Banque controls Rothschild banking businesses in France and continental Europe while Rothschilds Continuation Holdings AG controls a number of Rothschild banks elsewhere including N M Rothschild Sons in London Twenty percent of Rothschild Continuation Holdings AG was sold in to Jardine Strategic which is a subsidiary of Jardine Matheson Co of Hong Kong In November Rabobank Group the leading investment and private bank in the Netherlands acquired of Rothschild Continuation Holdings AG and Rabobank and Rothschild entered into a co operation agreement in the fields of mergers and acquisitions M A advisory and equity capital markets advisory in the food and agribusiness sectors It was believed that the move was intended to help Rothschild Continuation Holdings AG gain access to a wider capital pool enlarging its presence in East Asian markets
+Paris Orl ans S A is a financial holding company listed on Euronext Paris and controlled by the French and English branch of the Rothschild family Paris Orl ans is the flagship of the Rothschild banking Group and controls the Rothschild Group's banking activities including N M Rothschild Sons and Rothschild Cie Banque It has over employees Directors of the company include Eric de Rothschild Robert de Rothschild and Count Philippe de Nicolay
+N M Rothschild Sons an English investment bank does most of its business as an advisor for mergers and acquisitions In the investment bank withdrew from the gold market a commodity the Rothschild bankers had traded in for two centuries In it ranked second in UK M A with deals totalling billion In the bank recorded a pre tax annual profit of million with assets of billion
+In one Swiss member of the family Edmond Adolphe de Rothschild founded the LCF Rothschild Group now Edmond de Rothschild Group which is based in Geneva which today extends to countries across the world Although this Group is primarily a financial entity specializing in asset management and private banking its activities also cover mixed farming luxury hotels and yacht racing Edmond de Rothschild Group's committee is currently being chaired by Benjamin de Rothschild Baron Edmond's son
+In late Baron Benjamin Rothschild said that the family had been unaffected by the financial crisis of due to their conservative business practices We came through it well because our investment managers did not want to put money into crazy things He added that the Rothschilds were still a small scale traditional family business and took greater care over their clients' investments than American companies adding The client knows we will not speculate with his money
+Edmond de Rothschild group includes these companies
+Banque priv e Edmond de Rothschild Swiss private banking firm
+Compagnie Financi re Edmond de Rothschild French private bank
 La Compagnie Benjamin de Rothschild
-Cogifrance – Real estate
-Compagnie Vinicole Baron Edmond de Rothschild – wine making firmIn 1980, Jacob Rothschild, 4th Baron Rothschild resigned from N M Rothschild & Sons and took independent control of Rothschild Investment Trust (now RIT Capital Partners, a British investment trust), which has reported assets of $3.4 billion in 2008
-It is listed on London Stock Exchange
-Lord Rothschild is also one of the major investors behind BullionVault, a gold trading platform.
-In 2010 RIT Capital Partners stored a significant proportion of its assets in the form of physical gold
-Other assets included oil and energy-related investments.
-In 2012, RIT Capital Partners announced it is to buy a 37 per cent stake in a Rockefeller family wealth advisory and asset management group
-Commenting on the deal, David Rockefeller, a former patriarch of the Rockefeller family, said: "The connection between our two families remains very strong."
-In 1991, Jacob Rothschild, 4th Baron Rothschild founded J
-Rothschild Assurance Group (now St
-James's Place Wealth Management) with Sir Mark Weinberg
-It is also listed on London Stock Exchange.
-In 2001, the Rothschild mansion located at 18 Kensington Palace Gardens, London, was on sale for £85 million, at that time (2001) the most expensive residential property ever to go on sale in the world
-It was built in marble, at 9,000 sq ft, with underground parking for 20 cars.
-In December 2009, Jacob Rothschild, 4th Baron Rothschild invested $200 million of his own money in a North Sea oil company.
-In January 2010, Nathaniel Philip Rothschild bought a substantial share of the Glencore mining and oil company's market capitalisation
-He also bought a large share of the aluminium mining company United Company RUSAL.
-During the 19th century, the Rothschilds controlled the Rio Tinto mining corporation, and to this day, Rothschild and Rio Tinto maintain a close business relationship.
-The Rothschild family has been in the winemaking industry for 150 years
-In 1853, Nathaniel de Rothschild purchased Château Brane-Mouton and renamed it Château Mouton Rothschild
-In 1868, James Mayer de Rothschild purchased the neighbouring Château Lafite and renamed it Château Lafite Rothschild.
-Today, the Rothschild family owns many wine estates: their estates in France include Château Clarke, Château de Malengin, Château Clerc-Milon, Château d'Armailhac, Château Duhart-Milon, Château Lafite Rothschild, Château de Laversine, Château des Laurets, Château L'Évangile, Château Malmaison, Château de Montvillargenne, Château Mouton Rothschild, Château de la Muette, Château Rieussec and Château Rothschild d'Armainvilliers
-They also own wine estates across North America, South America, South Africa and Australia.
-Especially, Château Mouton Rothschild and Château Lafite Rothschild are classified as Premier Cru Classé—i.e., First Growth, the status referring to a classification of wines from the Bordeaux region of France.
-Saskia de Rothschild was named Chairwoman of Château Lafite Rothschild in 2018, succeeding her father, Éric de Rothschild
-Château Mouton Rothschild was managed by Philippine de Rothschild until her death in 2014
-It is now under the direction of her son Philippe Sereys de Rothschild.
-The family once had one of the largest private art collections in the world, and a significant proportion of the art in the world's public museums are Rothschild donations which were sometimes, in the family tradition of discretion, donated anonymously.
-Hannah Mary Rothschild was appointed in December 2014 as chair of the Board of the National Gallery of London.
-In the words of The Daily Telegraph: "This multinational banking family is a byword for wealth, power – and discretion..
-The Rothschild name has become synonymous with money and power to a degree that perhaps no other family has ever matched."
-Writing of the Rockefeller and Rothschild families, Harry Mount writes: "That is what makes these two dynasties so exceptional – not just their dizzying wealth, but the fact that they have held on to it for so long: and not just the loot, but also their family companies."
-The story of the Rothschild family has been featured in a number of films
-The 1934 Hollywood film titled The House of Rothschild, starring George Arliss and Loretta Young, recounted the life of Mayer Amschel Rothschild and Nathan Mayer Rothschild (both played by Arliss)
-Excerpts from this film were incorporated into the Nazi propaganda film Der ewige Jude (The Eternal Jew) without the permission of the copyright holder
-Another Nazi film, Die Rothschilds (also called Aktien auf Waterloo), was directed by Erich Waschneck in 1940
-A Broadway musical entitled The Rothschilds, covering the history of the family up to 1818, was nominated for a Tony Award in 1971
-Nathaniel Mayer ("Natty") Rothschild, 1st Baron Rothschild appears as a minor character in the historical-mystery novel Stone's Fall, by Iain Pears
-Mayer Rothschild is featured in Diana Gabaldon's novel Voyager as a coin seller summoned to Le Havre by Jamie Fraser to appraise coins, prior to the establishment of the Rothschild dynasty, when Mayer is in his early 20s
-The Rothschild name is mentioned by Aldous Huxley in his novel Brave New World, among many names of historically affluent persons, scientific innovators and others
-The character, named Morgana Rothschild, played a relatively minor role in the story
-The name Rothschild used as a synonym for extreme wealth inspired the song "If I Were a Rich Man", which is based on a song from the Tevye the Dairyman stories, written in the Yiddish as Ven ikh bin Rotshild, meaning "If I were a Rothschild".
-In France, the word "Rothschild" was throughout the 19th and 20th centuries a synonym for seemingly endless wealth, neo-Gothic styles, and epicurean glamour
-The family also has lent its name to "le goût Rothschild," a suffocatingly glamorous style of interior decoration whose elements include neo-Renaissance palaces, extravagant use of velvet and gilding, vast collections of armour and sculpture, a sense of Victorian horror vacui, and the highest masterworks of art
-Le goût Rothschild has much influenced designers such as Robert Denning, Yves Saint Laurent, Vincent Fourcade and others.
-Over more than two centuries, the Rothschild family has frequently been the subject of conspiracy theories
-These theories take differing forms, such as claiming that the family controls the world's wealth and financial institutions or encouraged or discouraged wars between governments
-Discussing this and similar views, the historian Niall Ferguson wrote, Many conspiracy theories about the Rothschild family arise from anti-Semitic prejudice and various antisemitic canards.
-Prominent lineal descendants of Mayer Amschel Rothschild include among many others:
-Major Alexander Karet (1905–1976)
-Adeleheid von Rothschild (1853–1935) x 1877 : Edmond de Rothschild (1845–1934) (see the Paris branch)
-Almina Herbert, Countess of Carnarvon (15 August 1876 – 8 May 1969)
-Prince Alexandre Louis Philippe Marie Berthier (1883–1918), died fighting in the First World War
-Albert Salomon von Rothschild (1844–1911), former majority shareholder of Creditanstalt
-Alfred Charles de Rothschild (20 July 1842 – 31 January 1918)
-Alice Charlotte von Rothschild (1847–1922) close friend of Queen Victoria
-Aline Caroline de Rothschild (1867–1909), French socialite
-Alice Rothschild (born 1983), wife of Zac Goldsmith, after his divorce of Sheherazade Ventura-Bentley
-Lady Aline Caroline Cholmondeley (born 1916)
-Baroness Afdera Franchetti (born c
-1931), a former wife of Henry Fonda, from the noble Italian Jewish Franchetti family
-Baroness Alix Hermine Jeannette Schey de Koromla (1911–1982)
-Alphonse James de Rothschild (1827–1905)
-Amschel Mayor James Rothschild (1955–1996, Paris), patron of motor racing
-Princess Andréa de La Tour d'Auvergne-Lauraguais (born Paris 1972)
-Anthony Gustav de Rothschild (1887–1961), horse-breeder
-Anthony James de Rothschild (born 1977)
-Anselm von Rothschild (1803–1874), Austrian banker
-Anselm Alexander Carl de Rothschild (1835–1854)
-Sir Anthony de Rothschild, 1st Baronet (1810–1876)
-Antoine Armand Odélric Marie Henri de Gramont, 13th Duke of Gramont (born 1951)
-Alain de Rothschild (1910–1982)
-Lady Barbara Marie-Louise Constance Berry (born 1935)
-Arthur de Rothschild (1851–1903)
-Benjamin de Rothschild (1963–2021)
-Princess Béatrice de Broglie (born 1913)
-Béatrice Ephrussi de Rothschild (1864–1934)
-Bethsabée de Rothschild (1914–1999)
-Carl Mayer von Rothschild (1788–1855)
-Cécile Léonie Eugénie Gudule Lucie de Rothschild (1913–1995)
-Charlotte de Rothschild
-Charlotte Henriette de Rothschild (born 1955), British opera singer
-Charlotte von Rothschild (1818–84)
-Count Charles-Emmanuel Lannes de Montebello (born 1942)
-Charles Rothschild (1877–1923), banker and entomologist
-Constance Flower, 1st Baroness of Battersea (1843–1931)
-David Cholmondeley, 7th Marquess of Cholmondeley (born 1960), Lord Great Chamberlain of England
-David Mayer de Rothschild (born 1978), billionaire British adventurer and environmentalist
-David René de Rothschild (born 1942)
-Edmond Adolphe de Rothschild (1926–1997)
-Edouard Etienne de Rothschild (born 1957)
-Édouard Alphonse James de Rothschild (1868–1949) financier and polo player
-Prince Edouard de La Tour d'Auvergne-Lauraguais (born 1949)
-Edmond James de Rothschild (1845–1934)
-Edmund Leopold de Rothschild (1916–2009)
-Elie de Rothschild (1917–2007)
-Princess Elisabeth de Broglie (born 1920)
-Emma Rothschild (born 1948)
-Esther de Rothschild (born 1979)
-Evelina de Rothschild (1839–66)
-Evelyn Achille de Rothschild (1886–1917), died fighting for the British Army in the First World War
-Sir Evelyn de Rothschild (born 1931), banker
-Baron Ferdinand de Rothschild, M.P
-(1839–1898)
-Count Gabriel Antoine Armand (1908–1943), a soldier of the French Resistance.
-Gustave Samuel de Rothschild (1829–1911)
-Guy de Rothschild (1909–2007)
-Hannah Primrose, Countess of Rosebery née Hannah Rothschild (1851–1890)
-Hannah Mary Rothschild (born 1962), documentary filmmaker
-Helene Cecile Muhlstein de Rothschild (1936–2007) x 1962 : François Nourissier (1927–2011), président de l'Académie Goncourt
-Henri James de Rothschild (1872–1946), playwright, grandson of Nathaniel de Rothschild
-Henry Herbert, 6th Earl of Carnarvon (1898–1987)
-Duke Hélie Marie Auguste Jacques Bertrand Philippe (1943), 10th Duke of Noailles
-Henriette Rothschild (1791–1866) married Sir Moses Montefiore (1784–1885)
-Count Henri de Gramont (1909–1994)
-Hugh Cholmondeley, 6th Marquess of Cholmondeley (1919–90), Lord Great Chamberlain of England
-Jacqueline de Rothschild (1911–2012) x (1) 1930; Robert Calmann-Lévy (1899–1982) puis x (2) 1937; Gregor Piatigorsky (1903–1976)
-James Amschel Victor Rothschild (born 1985)
-James Armand de Rothschild (1878–1957)
-James Mayer Rothschild (1792–1868)
-Joachim Von Rothschild (1929–1998)
-Marie Angliviel de la Beaumelle (1963–2013)
-Neil Primrose, 7th Earl of Rosebery (born 1929)
-Neil James Archibald Primrose (1882–1917), MP, killed fighting in the First World War
-Baroness Nica de Koenigswarter (née Baroness Pannonica Rothschild) (1913–1988), patron of bebop and jazz writer – often called the "Jazz Baroness"
-Baron Léon Lambert (1929–1987), Belgian art collector
-Leopold de Rothschild (1845–1917)
-Leopold David de Rothschild (1927–2012)
-Leonora de Rothschild (1837–1911)
-Lionel Nathan Rothschild (1808–1879)
-Louis Nathaniel de Rothschild (1882–1955)
-Lady Louise Rothschild (1821–1910), philanthropist and daughter of Henrietta Rothschild
-Countess Magdalene-Sophie von Attems (born 1927)
-Marie-Hélène de Rothschild (1927–94), French socialite
-Maurice de Rothschild (1881–1957)
-Mayer Amschel de Rothschild (1818–1874)
-Miriam Louisa Rothschild (1908–2005), famous entomologist and zoologist
-Lionel Walter Rothschild, 2nd Baron Rothschild, of Tring in the County of Hertford (1868–1937)
-Nathaniel de Rothschild (1812–1870)
-Nathan Mayer Rothschild (1777–1836)
-Nathan Mayer Rothschild, 1st Baron Rothschild, of Tring in the County of Hertford (1840–1915)
-Nathaniel Charles Jacob Rothschild, 4th Baron Rothschild, of Tring in the County of Hertford (born 1936)
-Nathaniel Robert de Rothschild (1946), French financier
-Nathaniel Mayer Victor Rothschild, 3rd Baron Rothschild, of Tring in the County of Hertford (1910–1990)
-Nathaniel Philip Rothschild (born 1971), a co-chairman of Atticus Capital, a £20 billion hedge fund
-Nathaniel Anselm von Rothschild (1836–1905), Austrian socialite
-Sir Philip Sassoon, 3rd Baronet (1888–1939), British First Commissioner of Works and Under-Secretary of State for Air
-Count Philippe de Nicolay (born 1955), great-grandson of Salomon James de Rothschild, he is a director of the Rothschild group.
-Robert de Rothschild (1880–1946) x 1907 : Gabrielle Beer (1886–1945)
-Philippe de Rothschild (1902–1988), vintner, son of Henri James de Rothschild
-Philippine de Rothschild (1935–2014), vintner, daughter of Philippe
-Jacqueline Rebecca Louise de Rothschild (1911–2012), chess and tennis champion
-Harry Primrose, 6th Earl of Rosebery (1882–1974) Earl of Roseberry
-Raphael de Rothschild (1976–2000)
-Salomon James de Rothschild (1835–1864)
-Lady Serena Dunn Rothschild (born 1935)
-Countess Sophie von Löwenstein-Scharffeneck (1896–1978)
-Lady Sybil Grant (1879–1955), British writer
-Sybil Cholmondeley, Marchioness of Cholmondeley (1894–1989)
-Valentine Noémi von Springer (1886–1969)
-Victoria Katherine Rothschild (born 1953)
-Walter Rothschild, 2nd Baron Rothschild (1868–1937), zoologist
-Wilhelm Carl von Rothschild (1828–1901)Prominent marriages into the family include, among many others:
-Maurice Ephrussi (1849–1916), of the Ephrussi family
-Ben Goldsmith (born 1980), son of financier James Goldsmith, of the Goldsmith family married Kate Emma Rothschild (born 1982)
-Anita Patience Guinness (1957), of the Guinness family, married Amschel Mayor James Rothschild
-Abraham Oppenheim (1804–1878), of the Oppenheim Family, married Charlotte Beyfus (1811–1887)
-Cora Guggenheim (1873–1956), of the Guggenheim family, married Louis F
-Rothschild (1869–1957)
-Aline Caroline de Rothschild (1867–1909) married Edward Sassoon (1856–1912), of the Sassoon family
-Carola Warburg Rothschild (1894–1987), philanthropist, born into the Warburg family
-Sara Louise de Rothschild (born 1834), married the Baron Raimondo Franchetti (born 1829)
-Baron Eugéne Daniel de Rothschild (1884–1976) married Countess Cathleen Wolff de Schönborn-Bucheim (1885 – c
-1946)
-In 1923, James Nathaniel Charles Léopold Rothschild, son of Henri James Nathaniel Charles Rothschild and Mathilde Sophie Henriette de Weisweiller, married Claude du Pont of the Du Pont family.
-Bertha Clara de Rothschild (1862) married Prince Alexandre de Wagram
-Bertha Juliet de Rothschild (1870) married Baron Emmanuel Leonino
-Lili Jeanette von Goldschimdt-Rothschild (1883–1929), married Baron Philippe Schey de Koromla
-Elisabeth Pelletier de Chambure (1902–1945), the only member of the Rothschild family to die in the Holocaust.
-Antoine Agénor Armand (1879–1962), of the Naples Rothschild lines, married Countess Élaine Greffulhe, daughter of Princess Élisabeth de Caraman-Chimay
-Hannah Mayer Rothschild (1815–1864) married Hon
-Henry Fitzroy (1807–1859), of the family of the Dukes of Grafton
-Edouard Alphonse James de Rothschild (1868–1949) married in 1905 the Baroness Alice Germaine de Helphen (1884–1979)
-Count François de Nicolay (1919–1963), of the House of Nicolay, married Marie-Hélène Naila Stephanie Josina van Zuylen van Nyevelt
-Marguerite de Rothschild in 1878 married Antoine Alfred Agénor, 11th Duc de Gramont (1851–1921),
-Dorothy de Rothschild (1895–1988), on her death she left the largest probated estate in Britain
-George Herbert, 5th Earl of Carnarvon married Almina Victoria Maria Alexandra Wombwell, the illegitimate daughter of Alfred de Rothschild
-Pauline de Rothschild (1908–1976), fashion designer and translator of Elizabethan poetry
-Lady Irma Pauahi Wodehouse (1897), of the Wodehouse family
-Louis Philippe Marie Alexandre Berthier, 3rd Prince of Wagram (1836–1911)
-Countess Katharina Eleonore Veronika Irma Luise Henckel von Donnersmarck (1902–1965), actress, married Baron Erich von Goldschmidt-Rothschild
-Amartya Sen (born 1933), Nobel Laureate, Indian economist and philosopher, married Emma Georgina Rothschild of the Rothschild banking family of England.
-Jeanne de Rothschild (1908–2003), actress
-Nadine de Rothschild (1932–), French actress and author
-Princess Sophie de Ligne (born 1957), of the House of Ligne, married Philippe de Nicolay (born 1955), a director of the Rothschild group, and the great-grandson of Salomon James de Rothschild
-Liliane de Rothschild (1916–2003, née Fould-Springer), art collector
-David René de Rothschild married Princess Olimpia Anna Aldobrandini, of the House of Borghese and the House of Bonaparte.
-Baron Robert Philippe de Rothschild married Nelly Beer, a great-grand-niece of Giacomo Meyerbeer
-Richard Francis Roger Yarde-Buller, 4th Baron Churston of Churston Ferrers and Lupton (1910–1991), married Olga Alice Muriel Rothschild
-Serena Dunn Rothschild (1935-2019), granddaughter of Sir James Hamet Dunn, 1st Baronet
-Lynn Forester de Rothschild (born 1954), businesswoman
-Edward Maurice Stonor (1885–1930), son of Francis Stonor, 4th Baron Camoys
-Lady Pamela Wellesley Grant (born 1912), great-great-granddaughter of the Duke of Wellington, married Lieutenant Charles Robert Archibald Grant, great-great-grandson of Mayer Amschel de Rothschild
+Compagnie Vinicole Baron Edmond de Rothschild wine making firmIn Jacob Rothschild th Baron Rothschild resigned from N M Rothschild Sons and took independent control of Rothschild Investment Trust now RIT Capital Partners a British investment trust which has reported assets of billion in It is listed on London Stock Exchange Lord Rothschild is also one of the major investors behind BullionVault a gold trading platform
+In RIT Capital Partners stored a significant proportion of its assets in the form of physical gold Other assets included oil and energy related investments
+In RIT Capital Partners announced it is to buy a per cent stake in a Rockefeller family wealth advisory and asset management group Commenting on the deal David Rockefeller a former patriarch of the Rockefeller family said The connection between our two families remains very strong
+In Jacob Rothschild th Baron Rothschild founded J Rothschild Assurance Group now St James's Place Wealth Management with Sir Mark Weinberg It is also listed on London Stock Exchange
+In the Rothschild mansion located at Kensington Palace Gardens London was on sale for million at that time the most expensive residential property ever to go on sale in the world It was built in marble at sq ft with underground parking for cars
+In December Jacob Rothschild th Baron Rothschild invested million of his own money in a North Sea oil company
+In January Nathaniel Philip Rothschild bought a substantial share of the Glencore mining and oil company's market capitalisation He also bought a large share of the aluminium mining company United Company RUSAL
+During the th century the Rothschilds controlled the Rio Tinto mining corporation and to this day Rothschild and Rio Tinto maintain a close business relationship
+The Rothschild family has been in the winemaking industry for years In Nathaniel de Rothschild purchased Ch teau Brane Mouton and renamed it Ch teau Mouton Rothschild In James Mayer de Rothschild purchased the neighbouring Ch teau Lafite and renamed it Ch teau Lafite Rothschild
+Today the Rothschild family owns many wine estates their estates in France include Ch teau Clarke Ch teau de Malengin Ch teau Clerc Milon Ch teau d'Armailhac Ch teau Duhart Milon Ch teau Lafite Rothschild Ch teau de Laversine Ch teau des Laurets Ch teau L' vangile Ch teau Malmaison Ch teau de Montvillargenne Ch teau Mouton Rothschild Ch teau de la Muette Ch teau Rieussec and Ch teau Rothschild d'Armainvilliers They also own wine estates across North America South America South Africa and Australia
+Especially Ch teau Mouton Rothschild and Ch teau Lafite Rothschild are classified as Premier Cru Class i e First Growth the status referring to a classification of wines from the Bordeaux region of France
+Saskia de Rothschild was named Chairwoman of Ch teau Lafite Rothschild in succeeding her father ric de Rothschild Ch teau Mouton Rothschild was managed by Philippine de Rothschild until her death in It is now under the direction of her son Philippe Sereys de Rothschild
+The family once had one of the largest private art collections in the world and a significant proportion of the art in the world's public museums are Rothschild donations which were sometimes in the family tradition of discretion donated anonymously
+Hannah Mary Rothschild was appointed in December as chair of the Board of the National Gallery of London
+In the words of The Daily Telegraph This multinational banking family is a byword for wealth power and discretion The Rothschild name has become synonymous with money and power to a degree that perhaps no other family has ever matched
+Writing of the Rockefeller and Rothschild families Harry Mount writes That is what makes these two dynasties so exceptional not just their dizzying wealth but the fact that they have held on to it for so long and not just the loot but also their family companies
+The story of the Rothschild family has been featured in a number of films The Hollywood film titled The House of Rothschild starring George Arliss and Loretta Young recounted the life of Mayer Amschel Rothschild and Nathan Mayer Rothschild both played by Arliss Excerpts from this film were incorporated into the Nazi propaganda film Der ewige Jude The Eternal Jew without the permission of the copyright holder Another Nazi film Die Rothschilds also called Aktien auf Waterloo was directed by Erich Waschneck in A Broadway musical entitled The Rothschilds covering the history of the family up to was nominated for a Tony Award in Nathaniel Mayer Natty Rothschild st Baron Rothschild appears as a minor character in the historical mystery novel Stone's Fall by Iain Pears Mayer Rothschild is featured in Diana Gabaldon's novel Voyager as a coin seller summoned to Le Havre by Jamie Fraser to appraise coins prior to the establishment of the Rothschild dynasty when Mayer is in his early s The Rothschild name is mentioned by Aldous Huxley in his novel Brave New World among many names of historically affluent persons scientific innovators and others The character named Morgana Rothschild played a relatively minor role in the story The name Rothschild used as a synonym for extreme wealth inspired the song If I Were a Rich Man which is based on a song from the Tevye the Dairyman stories written in the Yiddish as Ven ikh bin Rotshild meaning If I were a Rothschild
+In France the word Rothschild was throughout the th and th centuries a synonym for seemingly endless wealth neo Gothic styles and epicurean glamour The family also has lent its name to le go t Rothschild a suffocatingly glamorous style of interior decoration whose elements include neo Renaissance palaces extravagant use of velvet and gilding vast collections of armour and sculpture a sense of Victorian horror vacui and the highest masterworks of art Le go t Rothschild has much influenced designers such as Robert Denning Yves Saint Laurent Vincent Fourcade and others
+Over more than two centuries the Rothschild family has frequently been the subject of conspiracy theories These theories take differing forms such as claiming that the family controls the world's wealth and financial institutions or encouraged or discouraged wars between governments Discussing this and similar views the historian Niall Ferguson wrote Many conspiracy theories about the Rothschild family arise from anti Semitic prejudice and various antisemitic canards
+Prominent lineal descendants of Mayer Amschel Rothschild include among many others
+Adeleheid von Rothschild x Edmond de Rothschild see the Paris branch
+Almina Herbert Countess of Carnarvon August May
+Prince Alexandre Louis Philippe Marie Berthier died fighting in the First World War
+Albert Salomon von Rothschild former majority shareholder of Creditanstalt
+Alfred Charles de Rothschild July January
+Alice Charlotte von Rothschild close friend of Queen Victoria
+Aline Caroline de Rothschild French socialite
+Alice Rothschild born wife of Zac Goldsmith after his divorce of Sheherazade Ventura Bentley
+Lady Aline Caroline Cholmondeley born
+Baroness Afdera Franchetti born c a former wife of Henry Fonda from the noble Italian Jewish Franchetti family
+Baroness Alix Hermine Jeannette Schey de Koromla
+Amschel Mayor James Rothschild Paris patron of motor racing
+Princess Andr a de La Tour d'Auvergne Lauraguais born Paris
+Anthony Gustav de Rothschild horse breeder
+Anthony James de Rothschild born
+Anselm von Rothschild Austrian banker
+Anselm Alexander Carl de Rothschild
+Sir Anthony de Rothschild st Baronet
+Antoine Armand Od lric Marie Henri de Gramont th Duke of Gramont born
+Lady Barbara Marie Louise Constance Berry born
+Princess B atrice de Broglie born
+B atrice Ephrussi de Rothschild
+C cile L onie Eug nie Gudule Lucie de Rothschild
+Charlotte Henriette de Rothschild born British opera singer
+Count Charles Emmanuel Lannes de Montebello born
+Charles Rothschild banker and entomologist
+Constance Flower st Baroness of Battersea
+David Cholmondeley th Marquess of Cholmondeley born Lord Great Chamberlain of England
+David Mayer de Rothschild born billionaire British adventurer and environmentalist
+David Ren de Rothschild born
+Edouard Etienne de Rothschild born
+douard Alphonse James de Rothschild financier and polo player
+Prince Edouard de La Tour d'Auvergne Lauraguais born
+Princess Elisabeth de Broglie born
+Evelyn Achille de Rothschild died fighting for the British Army in the First World War
+Sir Evelyn de Rothschild born banker
+Baron Ferdinand de Rothschild M P
+Count Gabriel Antoine Armand a soldier of the French Resistance
+Hannah Primrose Countess of Rosebery n e Hannah Rothschild
+Hannah Mary Rothschild born documentary filmmaker
+Helene Cecile Muhlstein de Rothschild x Fran ois Nourissier pr sident de l'Acad mie Goncourt
+Henri James de Rothschild playwright grandson of Nathaniel de Rothschild
+Henry Herbert th Earl of Carnarvon
+Duke H lie Marie Auguste Jacques Bertrand Philippe th Duke of Noailles
+Henriette Rothschild married Sir Moses Montefiore
+Hugh Cholmondeley th Marquess of Cholmondeley Lord Great Chamberlain of England
+Jacqueline de Rothschild x Robert Calmann L vy puis x Gregor Piatigorsky
+James Amschel Victor Rothschild born
+Marie Angliviel de la Beaumelle
+Neil Primrose th Earl of Rosebery born
+Neil James Archibald Primrose MP killed fighting in the First World War
+Baroness Nica de Koenigswarter n e Baroness Pannonica Rothschild patron of bebop and jazz writer often called the Jazz Baroness
+Baron L on Lambert Belgian art collector
+Lady Louise Rothschild philanthropist and daughter of Henrietta Rothschild
+Countess Magdalene Sophie von Attems born
+Marie H l ne de Rothschild French socialite
+Miriam Louisa Rothschild famous entomologist and zoologist
+Lionel Walter Rothschild nd Baron Rothschild of Tring in the County of Hertford
+Nathan Mayer Rothschild st Baron Rothschild of Tring in the County of Hertford
+Nathaniel Charles Jacob Rothschild th Baron Rothschild of Tring in the County of Hertford born
+Nathaniel Robert de Rothschild French financier
+Nathaniel Mayer Victor Rothschild rd Baron Rothschild of Tring in the County of Hertford
+Nathaniel Philip Rothschild born a co chairman of Atticus Capital a billion hedge fund
+Nathaniel Anselm von Rothschild Austrian socialite
+Sir Philip Sassoon rd Baronet British First Commissioner of Works and Under Secretary of State for Air
+Count Philippe de Nicolay born great grandson of Salomon James de Rothschild he is a director of the Rothschild group
+Robert de Rothschild x Gabrielle Beer
+Philippe de Rothschild vintner son of Henri James de Rothschild
+Philippine de Rothschild vintner daughter of Philippe
+Jacqueline Rebecca Louise de Rothschild chess and tennis champion
+Harry Primrose th Earl of Rosebery Earl of Roseberry
+Lady Serena Dunn Rothschild born
+Countess Sophie von L wenstein Scharffeneck
+Lady Sybil Grant British writer
+Sybil Cholmondeley Marchioness of Cholmondeley
+Valentine No mi von Springer
+Walter Rothschild nd Baron Rothschild zoologist
+Wilhelm Carl von Rothschild Prominent marriages into the family include among many others
+Maurice Ephrussi of the Ephrussi family
+Ben Goldsmith born son of financier James Goldsmith of the Goldsmith family married Kate Emma Rothschild born
+Anita Patience Guinness of the Guinness family married Amschel Mayor James Rothschild
+Abraham Oppenheim of the Oppenheim Family married Charlotte Beyfus
+Cora Guggenheim of the Guggenheim family married Louis F Rothschild
+Aline Caroline de Rothschild married Edward Sassoon of the Sassoon family
+Carola Warburg Rothschild philanthropist born into the Warburg family
+Sara Louise de Rothschild born married the Baron Raimondo Franchetti born
+Baron Eug ne Daniel de Rothschild married Countess Cathleen Wolff de Sch nborn Bucheim c
+In James Nathaniel Charles L opold Rothschild son of Henri James Nathaniel Charles Rothschild and Mathilde Sophie Henriette de Weisweiller married Claude du Pont of the Du Pont family
+Bertha Clara de Rothschild married Prince Alexandre de Wagram
+Bertha Juliet de Rothschild married Baron Emmanuel Leonino
+Lili Jeanette von Goldschimdt Rothschild married Baron Philippe Schey de Koromla
+Elisabeth Pelletier de Chambure the only member of the Rothschild family to die in the Holocaust
+Antoine Ag nor Armand of the Naples Rothschild lines married Countess laine Greffulhe daughter of Princess lisabeth de Caraman Chimay
+Hannah Mayer Rothschild married Hon Henry Fitzroy of the family of the Dukes of Grafton
+Edouard Alphonse James de Rothschild married in the Baroness Alice Germaine de Helphen
+Count Fran ois de Nicolay of the House of Nicolay married Marie H l ne Naila Stephanie Josina van Zuylen van Nyevelt
+Marguerite de Rothschild in married Antoine Alfred Ag nor th Duc de Gramont
+Dorothy de Rothschild on her death she left the largest probated estate in Britain
+George Herbert th Earl of Carnarvon married Almina Victoria Maria Alexandra Wombwell the illegitimate daughter of Alfred de Rothschild
+Pauline de Rothschild fashion designer and translator of Elizabethan poetry
+Lady Irma Pauahi Wodehouse of the Wodehouse family
+Louis Philippe Marie Alexandre Berthier rd Prince of Wagram
+Countess Katharina Eleonore Veronika Irma Luise Henckel von Donnersmarck actress married Baron Erich von Goldschmidt Rothschild
+Amartya Sen born Nobel Laureate Indian economist and philosopher married Emma Georgina Rothschild of the Rothschild banking family of England
+Nadine de Rothschild French actress and author
+Princess Sophie de Ligne born of the House of Ligne married Philippe de Nicolay born a director of the Rothschild group and the great grandson of Salomon James de Rothschild
+Liliane de Rothschild n e Fould Springer art collector
+David Ren de Rothschild married Princess Olimpia Anna Aldobrandini of the House of Borghese and the House of Bonaparte
+Baron Robert Philippe de Rothschild married Nelly Beer a great grand niece of Giacomo Meyerbeer
+Richard Francis Roger Yarde Buller th Baron Churston of Churston Ferrers and Lupton married Olga Alice Muriel Rothschild
+Serena Dunn Rothschild granddaughter of Sir James Hamet Dunn st Baronet
+Lynn Forester de Rothschild born businesswoman
+Edward Maurice Stonor son of Francis Stonor th Baron Camoys
+Lady Pamela Wellesley Grant born great great granddaughter of the Duke of Wellington married Lieutenant Charles Robert Archibald Grant great great grandson of Mayer Amschel de Rothschild
 Baroness Rozsika Edle von Wertheimstein
-Baron Etienne van Zuylen van Nyevelt of the House of Van Zuylen van Nyevelt – married Baroness Hélène de Rothschild (1863–1947).
-Baron Sigismund von Springer (1873–1927), married Baroness Valentine Noémi von Rothschild (1886–1969), after whom the asteroid 703 Noëmi is named
-In 1943 Baron Elie Robert de Rothschild (1917–2007), married Lady Liliane Elisabeth Victoire Fould-Springer, great-aunt of actress Helena Bonham Carter
-In 2015, James Rothschild married American heiress and socialite Nicky Hilton, the great-granddaughter of Hilton Hotels founder Conrad HiltonNiall Ferguson: The House of Rothschild: Money's Prophets, 1798–1848 (ISBN 0-14-024084-5)
-Niall Ferguson: The House of Rothschild: The World's Banker, 1849–1998 (ISBN 0-14-028662-4)
-Frederic Morton: The Rothschilds: Portrait of a Dynasty (ISBN 1-56836-220-X)
-Amos Elon: Founder: A Portrait of the First Rothschild and His Time, 1996
-(ISBN 0-670-86857-4)
-Egon Caesar Conte Corti: Rise of the House of Rothschild, B
-Lunn (translator), Books for Business 2001 (reprint of 1928 translation published by Gollancz), ISBN 978-0-89499-058-8, Amazon.co.uk searchable online view
-Joseph Valynseele & Henri-Claude Mars, Le Sang des Rothschild, ICC Editions, Paris [fr]
-2004 (ISBN 2-908003-22-8)
-Derek A
-Wilson: Rothschild: A Story of Wealth and Power (ISBN 0-233-98870-X)
-Mir-Babayev M.F.: The role of Azerbaijan in the World's oil industry – "Oil-Industry History" (USA), 2011, v
-12, no
-1, p. 109–123.
-Mir-Babayev M.F.: The Rothschild brother's contribution to Baku's oil industry – "Oil-Industry History" (USA), 2012, v
-13, no
-1, p. 225–236.
-Pietro Ratto: I Rothschild e gli altri
-Dal governo del mondo all'indebitamento delle nazioni: i segreti delle famiglie più potenti, Arianna Editrice, Bologna [it]
-2015 (ISBN 978-88-6588-115-6)
-William Verity: The Rise of the Rothschilds – "History Today" (April 19680, Vol
-18 Issue 4, p225-233
-covers 1770 to 1839.The Ascent of Money: A Financial History of the World – The early history of the Rothschild's family business feature in the second of a four-part series by Niall Ferguson aired on Channel FourHistory
-Rothschild Archive
-The article of "Rothschild" in Jewish Encyclopedia
-Newspaper clippings about Rothschild family in the 20th Century Press Archives of the ZBWFoundations
+Baron Etienne van Zuylen van Nyevelt of the House of Van Zuylen van Nyevelt married Baroness H l ne de Rothschild
+Baron Sigismund von Springer married Baroness Valentine No mi von Rothschild after whom the asteroid No mi is named
+In Baron Elie Robert de Rothschild married Lady Liliane Elisabeth Victoire Fould Springer great aunt of actress Helena Bonham Carter
+In James Rothschild married American heiress and socialite Nicky Hilton the great granddaughter of Hilton Hotels founder Conrad HiltonNiall Ferguson The House of Rothschild Money's Prophets ISBN
+Niall Ferguson The House of Rothschild The World's Banker ISBN
+Frederic Morton The Rothschilds Portrait of a Dynasty ISBN X
+Amos Elon Founder A Portrait of the First Rothschild and His Time ISBN
+Egon Caesar Conte Corti Rise of the House of Rothschild B Lunn translator Books for Business reprint of translation published by Gollancz ISBN Amazon co uk searchable online view
+Joseph Valynseele Henri Claude Mars Le Sang des Rothschild ICC Editions Paris fr ISBN
+Derek A Wilson Rothschild A Story of Wealth and Power ISBN X
+Mir Babayev M F The role of Azerbaijan in the World's oil industry Oil Industry History USA v no p
+Mir Babayev M F The Rothschild brother's contribution to Baku's oil industry Oil Industry History USA v no p
+Pietro Ratto I Rothschild e gli altri Dal governo del mondo all'indebitamento delle nazioni i segreti delle famiglie pi potenti Arianna Editrice Bologna it ISBN
+William Verity The Rise of the Rothschilds History Today April Vol Issue p covers to The Ascent of Money A Financial History of the World The early history of the Rothschild's family business feature in the second of a four part series by Niall Ferguson aired on Channel FourHistory
+The article of Rothschild in Jewish Encyclopedia
+Newspaper clippings about Rothschild family in the th Century Press Archives of the ZBWFoundations
 The Edmond de Rothschild Foundations
-The Rothschild Foundation

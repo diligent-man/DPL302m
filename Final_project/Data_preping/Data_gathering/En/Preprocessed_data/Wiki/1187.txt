@@ -1,224 +1,80 @@
-ITV is a British free-to-air television network
-It was launched in 1955 as Independent Television to provide competition to BBC Television (established in 1936)
-ITV is the oldest commercial network in the UK
-Since the passing of the Broadcasting Act 1990, its legal name has been Channel 3 to distinguish it from the other analogue channels at the time, BBC1, BBC2 and Channel 4.
-ITV was for four decades a network of separate companies which provided regional television services and also shared programmes between each other to be shown on the entire network
-Each franchise was originally owned by a different company
-After several mergers, the fifteen regional franchises are now held by two companies: ITV plc, which runs the ITV channel, and STV Group, which runs the STV channel.
-The ITV network is a separate entity from ITV plc, the company that resulted from the merger of Granada plc and Carlton Communications in 2004
-ITV plc holds the Channel 3 broadcasting licences for every region except for central and northern Scotland, which are held by STV Group.
-Today ITV plc simply commissions the network schedule centrally – programmes are made by its own subsidiary ITV Studios and independent production companies
-Regional programming remains in news and some current affairs series.
-In Northern Ireland, ITV plc used the brand name UTV as the name of the channel until April 2020
-This was the name used by former owner UTV Media (now known as Wireless Group)
-ITV plc bought UTV in 2016.
-Although the ITV network's history goes back to 1955, many regional franchisees changed over the years
-Some of the most important names in the network's past – notably Thames, ABC and ATV – have no connection with the modern network.
-The origins of ITV lie in the passing of the Television Act 1954, designed to break the monopoly on television held by the BBC Television Service
-The act created the Independent Television Authority (ITA, then IBA after the Sound Broadcasting Act) to heavily regulate the industry and to award franchises
-The first six franchises were awarded in 1954 for London, the Midlands and the North of England, with separate franchises for Weekdays and Weekends
-The first ITV service to launch was London's Associated-Rediffusion on 22 September 1955, with the Midlands and North services launching in February 1956 and May 1956 respectively
-Following these launches, the ITA awarded more franchises until the whole country was covered by fourteen regional stations, all launched by 1962.
-The network has been modified several times through franchise reviews that have taken place in 1963, 1967, 1974, 1980 and 1991, during which broadcast regions have changed and service operators have been replaced
-Only one service operator has ever been declared bankrupt, WWN in 1963, with all other operators leaving the network as a result of a franchise review
-Separate weekend franchises were removed in 1968 (with the exception of London) and over the years more services were added; these included a national breakfast franchise from 1983 onward—operating between 6:00 am and 9:25 am—and a teletext service
-The Broadcasting Act 1990 changed the nature of ITV; the then regulator the IBA was replaced with a light-touch regulator, the ITC; companies became able to purchase other ITV regional companies and franchises were now being awarded based upon a highest-bidder auction, with few safeguards in place
-This heavily criticised part of the review saw four operators replaced, and the operators facing different annual payments to the Treasury: Central Television, for example, paid only £2,000—despite holding a lucrative and large region—because it was unopposed, while Yorkshire Television paid £37.7 million for a region of the same size and status, owing to heavy competition.
-Following the 1993 changes, ITV as a network began to consolidate with several companies doing so to save money by ceasing the duplication of services present when they were all separate companies
-By 2004, the ITV network was owned by five companies, of which two, Carlton and Granada had become major players by owning between them all the franchises in England, Wales, the Scottish borders and the Isle of Man
-That same year, the two merged to form ITV plc with the only subsequent acquisitions being the takeover of Channel Television, the Channel Islands franchise, in 2011; and UTV, the franchise for Northern Ireland, in 2015.
-The ITV network is not owned or operated by one company, but by a number of licensees, which provide regional services while also broadcasting programmes across the network
-Since 2016, the fifteen licences are held by two companies, with the majority held by ITV Broadcasting Limited, part of ITV plc.
-The network is regulated by the media regulator Ofcom who is responsible for awarding the broadcast licences
-The last major review of the Channel 3 franchises was in 1991, with all operators' licences having been renewed between 1999 and 2002 and again from 2014 without a further contest
-While this has been the longest period that the ITV network has gone without a major review of its licence holders, Ofcom announced (following consultation) that it would split the Wales and West licence from 1 January 2014, creating a national licence for Wales and joining the newly separated West region to Westcountry Television, to form a new licence for the enlarged South West of England region.
-All companies holding a licence were part of the non-profit body ITV Network Limited, which commissioned and scheduled network programming, with compliance previously handled by ITV plc and Channel Television
-However, due to amalgamation of several of these companies since the creation of ITV Network Limited (and given Channel Television is now owned by ITV plc), it has been replaced by an affiliation system
-Approved by Ofcom, this results in ITV plc commissioning and funding the network schedule, with STV and UTV paying a fee to broadcast it
-All licensees have the right to opt out of network programming (except for the national news bulletins), however many do not due to pressures from the parent company or because of limited resources
-Prior to the affiliate system being introduced, STV would frequently (and sometimes controversially) opt out of several popular network programmes – such as the original run of the first series of Downton Abbey – citing the need to provide more Scottish content to its viewers.
-As a public service broadcaster, the ITV network is obliged to broadcast programming of public importance, including news, current affairs, children's and religious programming as well as party election broadcasts on behalf of the major political parties and political events, such as the Budget
-The network also needs to produce accessible output containing subtitles, signing and audio description
-In exchange for this programming, the ITV network is available on all platforms free to air and can be found at the top of the EPG of all providers.
-Since the launch of the platform in 1998, all of the ITV licensees have received gifted capacity on the digital terrestrial television platform
-At present, the companies are able to broadcast additional channels and all choose to broadcast the ITV plc owned ITV2, ITV3, ITV4 and CITV in their region
-UTV and STV (formerly Scottish Television and Grampian Television) previously broadcast their own services – UTV2 in Northern Ireland and S2 in central and northern Scotland – until 2002, when they adopted the ITV plc channels
-Despite this, STV was given a broadcasting licence for what would become the STV2 channel in 2013, however this was short-lived and the channel closed in 2018
-The broadcasters all make use of the Digital 3&4 multiplex, shared with Channel 4
-ITV Encore launched in June 2014 and ITVBe launched in October 2014
-ITV Box Office launched in February 2017.
-ITV plc owns thirteen of the fifteen franchises and broadcasts to England, Wales, southern Scotland, the Isle of Man, the Channel Islands and Northern Ireland through its subsidiary company ITV Broadcasting Limited
-The company also owns the breakfast television licence, which as of January 2020, broadcasts across the network between 6:00 and 10:00am each morning using the Good Morning Britain (previously Daybreak) and Lorraine names
-The company broadcasts a centralised service under the ITV brand
-In Northern Ireland, ITV used the UTV brand name as the name of the channel until April 2020.
-The group also owns ITV Studios, the production arm of the company and formed from an amalgamation of all the production departments of the regional licences they own
-The company produces a large proportion of ITV's networked programming (around 47%, but previously as high as 66% according to some reports), with the rest coming primarily from independent suppliers (under the Broadcasting Act 1990, at least 25% of ITV's total output must be from independent companies)
-ITV plc hopes to increase the amount of in-house programming to as close to the 75% limit as possible.
-The group cut the number of regional news programmes offered from 17 in 2007 to 9 by 2009, resulting several regions being merged to form one programme, including the Border and Tyne Tees regions, the Westcountry and West regions and the removal of sub regional programming, with some regions only represented by pre-recorded segments.
-STV Group plc owns two franchises, covering central and northern Scotland, through subsidiary companies STV Central and STV North, broadcasting a central service under the STV brand.
-The company has had several disputes with ITV plc in recent years over network programming
-STV aims to broadcast more Scottish programmes at peak times and so removed several key ITV plc programmes from their schedule in July 2009 including The Bill, Midsomer Murders and Lewis
-Despite STV's explanation of expense, ITV plc were angered by the decision, as a recent schedule change had made The Bill central to their programming, and broadcast the programmes on ITV3 as well to ensure Scottish viewers could see the programmes
-On 23 September ITV plc was reported to be in the process of suing STV for £20 million, as ITV felt dropping the shows constituted a breach of network agreements; STV subsequently counter-sued ITV plc for £35 million.
-The dispute was ended in 2011 with STV agreeing to pay ITV plc £18 million
-The signing of the new affiliation deal has resulted in STV paying a flat fee for all networked programming, and so to drop any programmes is unlikely due to the large costs involved.
-There are fifteen regional licences, covering fourteen regions (there are separate weekday and weekend licences for the London region), and one national licence for the breakfast service
-All licences listed here were renewed until the end of 2024
-Licences in England and Wales were held by the individual regional ITV plc owned companies prior to November 2008.
-The appointment to provide national news for Channel 3 is also subject to approval by Ofcom
-This appointment has been held by ITN since the channel's inception, and has also been approved through the end of 2024.
-For over 60 years of ITV, its homegrown programmes have become among the best remembered as well as being extremely successful
-Before the 1990s, nearly all of the content for the channel was produced by the fifteen franchise licensees: the regional companies.
-However, following legislation in the Broadcasting Act 1990 imposing a 25% quota for commissioning of independent productions, the number of programmes from independent production companies not connected to the traditional ITV network, has increased rapidly
-Notable examples include Talkback Thames (one half of which, Thames Television, was itself a former ITV franchisee), producers of The Bill and co-producers of The X Factor, and 2waytraffic (previously Celador), producers of Who Wants to Be a Millionaire?.
-From the late 1990s, ITV's long-standing commitment to strong current affairs and documentary programming began to diminish with the ending of productions such as World in Action (Granada Television), This Week (Rediffusion London/Thames Television), First Tuesday (Yorkshire Television), Network First, Survival (Anglia Television), and Weekend World (LWT) and their replacement with populist shows such as Tonight
-News at Ten was also axed in 1999, although it was reinstated in 2001
-In December 2009, the final edition of ITV's long-running arts programme, The South Bank Show was broadcast.
-ITV's primetime schedules are dominated by its soap operas, such as the flagship Coronation Street and Emmerdale
-At the start of the 21st century, Independent Television faced criticism for including a large amount of "reality TV" programmes in the schedule, such as Celebrity Fit Club, Celebrity Wrestling and Celebrity Love Island
-In its defence, ITV does continue to show its major strengths in the fields of sports coverage and drama productions, and it continues to schedule national news in primetime.
-Television has been broadcast on ITV at breakfast since 1 February 1983
-It was initially run by an independent contractor - TV-am, and later GMTV - until GMTV Limited became a wholly owned subsidiary of ITV plc in November 2009.
-Historically, ITV aired breakfast programmes from 6am until 9.25am but ITV extended this to 10am on weekdays on 6 January 2020
-and now broadcasts two breakfast programmes on weekdays - Good Morning Britain and Lorraine
-Good Morning Britain keeps viewers up to date with all the latest news, sports, features and weather, whilst Lorraine predominantly focuses on celebrity interviews, recipes, fashion and showbiz
-At weekends, ITV Breakfast airs children's programming, a simulcast of CITV Breakfast, under the CITV brand.
-ITV's strong daytime line-up helped by programmes such as This Morning, Loose Women, Dickinson's Real Deal and game shows Tipping Point and The Chase are very popular, achieving the highest audience share during the daytime slot.
-In recent years the network has tried to use formats that ITV Studios own out-right (whether they have originated in the UK with their Lifted Entertainment company or have come from production companies they own abroad), though some popular programme formats like The Masked Singer have still been acquired from other companies abroad
-Currently ITV are behind the formats for Dancing on Ice, The Voice UK (the format originally coming from their Dutch production company) and I'm a Celebrity...Get Me Out of Here!, while forthcoming music game show Walk The Line has been co-developed by Simon Cowell's Syco Entertainment and ITV.
-Since the network started, Independent Television News Limited (ITN) has held the contract to produce news for the ITV network, with 30-minute national news bulletins currently broadcast at 1:30 pm, and 10:00 pm, and an hour-long bulletin at 6.30pm
-These bulletins were broadcast under the ITN brand from 1955 until 1999, when a new network identity reinforced the ITV brand, resulting in the new bulletins being broadcast under the ITV News brand.
-ITN has long been respected in the news industry as a source of reliable information and news, and as a result the service has won many awards for their programmes, the latest being in May 2011 when News at Ten was named best news programme by the Royal Television Society and BAFTA.
-The ITV National Weather forecast was first broadcast in 1989, using data supplied by the Met Office, and was presented by a number of weather forecasters
-The forecasts are sponsored in which the sponsors message, would appear prior to and following the forecast
-The forecasts are made immediately after the main national news bulletins.
-Prior to the creation of the national forecast, each regional company provided its own regional forecast
-The regional forecasts today are incorporated into the main regional news bulletins, and in the summer months, includes a pollen count.
-Currently only new episodes of long-form news and current affairs programmes like Exposure, Peston and On Assignment are being scheduled after News at Ten, with the latter title currently only appearing on a month-by-month basis
-As the channel carries a simulcast of the Ideal World shopping network for a couple of hours after midnight, the time between the news and the shopping is usually kept for re-runs, with ITV repeating its primetime entertainment shows or sports programming from ITV4.
-ITV continues with its regularly scheduled programming after Ideal World at around 3am with showbiz news bulletin FYI Extra and repeats, many of which have on-screen BSL signing for the deaf community
-Replacing the information based ITV Nightscreen slot in 2021 was Unwind With ITV, programming produced in association with the Campaign Against Living Miserably
-At around 4am each night this mindfulness programme shows calming shots of natural landscapes and relaxing animations for around an hour, with versions of the footage also seen on ITV2, ITV3 and ITV4.
-The regional ITV companies are required to provide local news as part of their franchise agreement together with local weather forecasts, with the main local bulletin at 6pm and regional bulletins located after each national news programme
-In addition to this, traditionally ITV companies would provide other regional programming based on current affairs, entertainment or drama
-However, apart from a monthly political programme, most non-news regional programming in the English regions was dropped by ITV plc in 2009, although it continues in Wales and the Channel Islands, as well as on STV and UTV and ITV Border in Scotland from 2014 to cover mainly Scottish politics whilst ITV Border in England broadcast network programming 
-On 14 January 2013, ITV plc regional news programmes titles were discontinued in favour of more generic branding under the ITV News title with the region listed as the subheading
-However some "heritage" brand names were retained including Calendar, Granada Reports and Lookaround
-On 28 June 2014, ITV News Cymru Wales returned to its historic name of Wales at Six.
-Anglia: ITV News Anglia (with East and West variations)
-Border: ITV News Lookaround
-Central: ITV News Central (with East and West variations)
-Channel: ITV News Channel TV
-Granada: ITV News Granada Reports
-London: ITV News London
-Meridian: ITV News Meridian (with South variation and a Thames Valley opt-out and South East variation)
-STV Central: STV News (non-ITV plc) (with East and West variations)
-STV North: STV News (non-ITV plc) (with a Dundee opt-out)
-Tyne Tees: ITV News Tyne Tees
-UTV: UTV Live
-Wales: ITV News Wales at Six
-West Country: ITV News West Country (with East and West variations)
-Yorkshire: ITV News Calendar (with East and West variations)ATV: ATV Midlands News, ATV Today
-Anglia: About Anglia, Anglia News, Anglia News Tonight, Anglia Tonight
-Carlton: London Tonight
-Central / Carlton (Central): Central News, Central News at Six, Central Tonight
-Channel: Channel Report
-Grampian: North Tonight
-Granada: Northern Newscast, Scene at Six Thirty, Granada Tonight
-HTV Wales / ITV Wales: Report Wales/Y Dydd, Wales Tonight, HTV News, ITV Wales News
-HTV West / ITV West: Report West, HTV News, The West Tonight, ITV West News, West Country Tonight
-London Weekend Television / LWT: LWT News, London Tonight
-Meridian: Meridian Tonight
-Scottish Television / STV: Scotland Today
-Southern: Day by Day / Scene South East (Dover Transmitter)
-Television South West / TSW: Today South West, TSW Today
-Television South / TVS: Coast to Coast
-Thames: Thames News
-Thames Valley: Thames Valley Tonight
-Tyne Tees: Northern Life, Tyne Tees Today / Network North (Bilsdale Transmitter), North East Tonight
-Ulster Television / UTV: Good Evening Ulster, Six Tonight
-Westward: Westward Diary
-Westcountry / Carlton (Westcountry): Westcountry LiveFootball
-ITV holds joint rights for the FIFA World Cup and the UEFA European Championship with the BBC and has shown every World Cup live since 1966, on a shared basis with the BBC
-This arrangement has been in place since the 1960s
-Since 2008 ITV has covered every England international home friendlies and qualifiers for the European Championship and World Cup, the deal was extended to include away friendlies in 2009 and qualifiers from 2010
-This has since been extended until 2022 as well as highlights of the new UEFA Nations League tournament
-As announced on 29th April 2022, all England qualifiers, friendlies and UEFA Nations League matches from 2022-2024, are to be shown on Channel 4 ( https://www.channel4.com/press/news/channel-4-wins-rights-englands-european-qualifiers-and-uefa-nations-league-matches)  ITV shared the rights for the FA Cup with the BBC from 1955 to 1988 and will again from 2021–22
-ITV also held the live rights to the competition from 1998 to 2001 and from 2008 until 2014.
-Horse racing
-ITV other flagship sporting coverage is as the exclusive free to air home of British Horse Racing
-ITV's deal, which began on 1 January 2017, encompasses horse racing every Saturday Afternoon on ITV or ITV4.
-Boxing
-ITV Sport has broadcast many boxing matches over the years under the Big Fight Live banner and the sport was a regular fixture on ITV screens until the mid 1990s when ITV lost its two premier contracts to Sky Sports In 2005, ITV returned to the ring when it reached an agreement to broadcast the main share of Frank Warren's Sports Network fights
-This continued until 2008, and in 2010 ITV decided to stop covering the sport as ITV thought that boxing was no longer commercially viable
-In the late 2010s ITV showed some boxing on a pay-per-view channel ITV Box Office
-However ITV's boxing coverage is now restricted to Premier Boxing Champions which it shows on ITV4, having closed ITV Box Office at the start of 2020.
-Cycling
-ITV has shown the Tour de France in 2002
-Initially, live coverage was only broadcast at the weekend but since the 2010 Tour de France, ITV4 has broadcast daily live coverage of every stage
-ITV also covers the Women's Tour, Tour of Britain and Tour de Yorkshire live.
-Darts
-ITV4 covers six tournaments each year, including the UK Open, The Masters and the World Series of Darts
-ITV had previously extensively covered the sport and did so from 1972 until it decided to drop the sport in 1988
-ITV resumed coverage of darts in 2007 and since then it has gradually increased the number of events it shows.
-Motorsport
-ITV's flagship motorsport coverage is of the British Touring Car Championship and has shown the event extensively and in full since 2002
-ITV also broadcasts highlights of the World Superbike Championship and the British Superbike Championship
-ITV had previously covered Formula One and did so for 12 seasons, from 1997 to 2008.
-Rugby
-ITV has broadcast every Rugby World Cup live since 1991 and will show the 2023 tournament
-ITV also broadcasts the Women's Rugby World Cup for the first time and the Under 20 World Cup
-Since 2016, ITV has shared coverage of the Six Nations Championship with the BBC
-ITV broadcasts all England, France Ireland and Italy home matches live, while BBC shows all Scotland and Wales home matches live
-Since 2022 ITV will also show 5 (rising to 7 from 2022-2023) live matches from Premiership Rugby including the final and a weekly highlights show on ITV4 on Sunday evenings, repeated later on the main ITV channel.
-Snooker
-Snooker is another sport which ITV dropped but has subsequently restarted to show
-In the 1980s and early 1990s, ITV broadcast four tournaments per season
-ITV dropped snooker after the 1993 British Open and the sport was mostly absent from ITV screens until the 2010s
-In summer 2014 ITV and Barry Hearn announced they had signed a 5-year deal to cover 2 Snooker Tournaments per year, keeping coverage of the Champion of Champions and a new tournament called the World Grand Prix
-ITV now shows four tournaments each year, including the Champion of Champions and the World Grand Prix.
-Tennis
-In 2011, ITV Sport won the rights from the BBC to show the French Open and has shown the event since 2012
-The bulk of the daily coverage is broadcast on ITV4 although both singles finals plus other weekend matches are shown on ITV
-ITV renewed its deal to show the tournament in 2014 and ITV Sport will now show the French Open until 2021
-From 2022-2026, the tournament will be shown exclusively on Eurosport (https://sport-onthebox.com/2021/06/11/eurosport-discovery-roland-garros-french-open-tennis-uk-tv-rights-2022-2026/amp/).The network broadcasts children's programming under the CITV (Children's ITV) strand
-Children's programming was originally provided during weekday afternoons and weekend mornings, however following the launch of the CITV Channel in 2006, all children's programming, with the exception of the weekend ITV Breakfast slot, were relocated from the ITV line-up to the CITV channel in 2007, a move which was challenged by Ofcom in April 2007.
-Schools programming on the network began in 1957 in some regions and expanded as more regions began broadcasting
-It was a contractual obligation for some ITV companies to broadcast schools programming, and this was initially broadcast as part of the normal scheduling
-The programmes were moved into a segment for broadcast during the day in the 1960s, under the banner Independent Television for Schools and Colleges and from 1987 were broadcast on Channel 4 in the ITV Schools on Channel 4 segment
-In 1993, this segment became Channel 4 Schools and later in 2000 4Learning
-These strands of programming consisted of schools programming from all the ITV companies or from independent sources
-The schools strand itself is now defunct, with no particular branding segment used.
-AEW Dynamite
-AEW Rampage
-Ideal World
-Motorsport
-Unwind with ITVThe Public Teletext Licence allows the holder to broadcast a text-based information service around the clock on Channel 3 (as well as Channel 4 and S4C) frequencies
-Teletext on ITV was provided by ORACLE from 1974 until 1993 and from 1993 to 2010 by Teletext Ltd., whose news, sport and TV listings pages rivalled the BBC's offering, Ceefax on terrestrial and BBC Red Button on digital
-Teletext Ltd
-also provided digital teletext for the Channel 3 services, as well as the text output for both Channel 4 and S4C under the same licence and Channel 5
-However, the licence was revoked by Ofcom on 29 January 2010 for failing to provide news and local non-news information on ITV and there is currently no teletext licence holder for ITV.
-ITV (as UTV) is widely available in Ireland, where it is received directly in areas bordering Northern Ireland, or in coastal areas from Wales (as ITV Cymru Wales)
-Until 2015, it was also carried on cable, when it was replaced by UTV Ireland, which was itself replaced by be3, now Virgin Media Three
-ITV programming is also available to Irish viewers on Virgin Media One (including soap operas Emmerdale and Coronation Street)
-ITV is also available on cable and IPTV in Switzerland and Liechtenstein
-Since 27 March 2013, it has been offered by the British Forces Broadcasting Service (BFBS) to members of HM Forces and their families around the world, replacing the BFBS3 TV channel, which already carried a selection of ITV programmes.
-Since the launch of ITV, there have been concerns from politicians and the press that ITV faced a conflict concerning programme audiences and advertisers
-As advertisers are reluctant to buy advertising space around low viewing programmes, there is a pressure on ITV to broadcast more popular programmes in peak times
-This has become more profound in recent years following a relaxation in regulation and significantly more competition in the advertising market following the huge increase in commercial channels
-In recent years, programmes have started to dominate from the reality television genre including the celebrity and talent show subgenres
-This has led to accusations of ITV 'dumbing down' their programmes and appealing to the 'lowest common denominator', accusations that are at odds with the network's status as a public service broadcaster
-ITV was/is also heavily criticised for scaling back its regional programmes, including regional news, also ITV has been criticised (since 2010) for showing Emmerdale and Coronation Street at the 8:30 weekday slot (except Tuesdays).
-There has never been an identity for ITV as a whole that was adopted uniformly by all broadcasters within the ITV network
-Before 1989, each regional company used its own name for identification and the name "ITV" was rarely seen on screen, except for some sub-brands such as ITV Schools or ITV Sport
-From 1989, a national ITV corporate identity was established, which saw regional brands combined with the national ITV brand, although the balance between regional and national brands varied from company to company, and some companies never used the ITV brand at all
-It was not until 2002 that national ITV-branded continuity was adopted across all the regions in England (see ITV (TV channel)), although regional continuity before local programmes continued until 2006.
-On-screen branding, in the regions that chose to use it:
-List of ITV channels
+ITV is a British free to air television network It was launched in as Independent Television to provide competition to BBC Television established in ITV is the oldest commercial network in the UK Since the passing of the Broadcasting Act its legal name has been Channel to distinguish it from the other analogue channels at the time BBC BBC and Channel
+ITV was for four decades a network of separate companies which provided regional television services and also shared programmes between each other to be shown on the entire network Each franchise was originally owned by a different company After several mergers the fifteen regional franchises are now held by two companies ITV plc which runs the ITV channel and STV Group which runs the STV channel
+The ITV network is a separate entity from ITV plc the company that resulted from the merger of Granada plc and Carlton Communications in ITV plc holds the Channel broadcasting licences for every region except for central and northern Scotland which are held by STV Group
+Today ITV plc simply commissions the network schedule centrally programmes are made by its own subsidiary ITV Studios and independent production companies Regional programming remains in news and some current affairs series
+In Northern Ireland ITV plc used the brand name UTV as the name of the channel until April This was the name used by former owner UTV Media now known as Wireless Group ITV plc bought UTV in
+Although the ITV network's history goes back to many regional franchisees changed over the years Some of the most important names in the network's past notably Thames ABC and ATV have no connection with the modern network
+The origins of ITV lie in the passing of the Television Act designed to break the monopoly on television held by the BBC Television Service The act created the Independent Television Authority ITA then IBA after the Sound Broadcasting Act to heavily regulate the industry and to award franchises The first six franchises were awarded in for London the Midlands and the North of England with separate franchises for Weekdays and Weekends The first ITV service to launch was London's Associated Rediffusion on September with the Midlands and North services launching in February and May respectively Following these launches the ITA awarded more franchises until the whole country was covered by fourteen regional stations all launched by
+The network has been modified several times through franchise reviews that have taken place in and during which broadcast regions have changed and service operators have been replaced Only one service operator has ever been declared bankrupt WWN in with all other operators leaving the network as a result of a franchise review Separate weekend franchises were removed in with the exception of London and over the years more services were added these included a national breakfast franchise from onward operating between am and am and a teletext service The Broadcasting Act changed the nature of ITV the then regulator the IBA was replaced with a light touch regulator the ITC companies became able to purchase other ITV regional companies and franchises were now being awarded based upon a highest bidder auction with few safeguards in place This heavily criticised part of the review saw four operators replaced and the operators facing different annual payments to the Treasury Central Television for example paid only despite holding a lucrative and large region because it was unopposed while Yorkshire Television paid million for a region of the same size and status owing to heavy competition
+Following the changes ITV as a network began to consolidate with several companies doing so to save money by ceasing the duplication of services present when they were all separate companies By the ITV network was owned by five companies of which two Carlton and Granada had become major players by owning between them all the franchises in England Wales the Scottish borders and the Isle of Man That same year the two merged to form ITV plc with the only subsequent acquisitions being the takeover of Channel Television the Channel Islands franchise in and UTV the franchise for Northern Ireland in
+The ITV network is not owned or operated by one company but by a number of licensees which provide regional services while also broadcasting programmes across the network Since the fifteen licences are held by two companies with the majority held by ITV Broadcasting Limited part of ITV plc
+The network is regulated by the media regulator Ofcom who is responsible for awarding the broadcast licences The last major review of the Channel franchises was in with all operators' licences having been renewed between and and again from without a further contest While this has been the longest period that the ITV network has gone without a major review of its licence holders Ofcom announced following consultation that it would split the Wales and West licence from January creating a national licence for Wales and joining the newly separated West region to Westcountry Television to form a new licence for the enlarged South West of England region
+All companies holding a licence were part of the non profit body ITV Network Limited which commissioned and scheduled network programming with compliance previously handled by ITV plc and Channel Television However due to amalgamation of several of these companies since the creation of ITV Network Limited and given Channel Television is now owned by ITV plc it has been replaced by an affiliation system Approved by Ofcom this results in ITV plc commissioning and funding the network schedule with STV and UTV paying a fee to broadcast it All licensees have the right to opt out of network programming except for the national news bulletins however many do not due to pressures from the parent company or because of limited resources Prior to the affiliate system being introduced STV would frequently and sometimes controversially opt out of several popular network programmes such as the original run of the first series of Downton Abbey citing the need to provide more Scottish content to its viewers
+As a public service broadcaster the ITV network is obliged to broadcast programming of public importance including news current affairs children's and religious programming as well as party election broadcasts on behalf of the major political parties and political events such as the Budget The network also needs to produce accessible output containing subtitles signing and audio description In exchange for this programming the ITV network is available on all platforms free to air and can be found at the top of the EPG of all providers
+Since the launch of the platform in all of the ITV licensees have received gifted capacity on the digital terrestrial television platform At present the companies are able to broadcast additional channels and all choose to broadcast the ITV plc owned ITV ITV ITV and CITV in their region UTV and STV formerly Scottish Television and Grampian Television previously broadcast their own services UTV in Northern Ireland and S in central and northern Scotland until when they adopted the ITV plc channels Despite this STV was given a broadcasting licence for what would become the STV channel in however this was short lived and the channel closed in The broadcasters all make use of the Digital multiplex shared with Channel ITV Encore launched in June and ITVBe launched in October ITV Box Office launched in February
+ITV plc owns thirteen of the fifteen franchises and broadcasts to England Wales southern Scotland the Isle of Man the Channel Islands and Northern Ireland through its subsidiary company ITV Broadcasting Limited The company also owns the breakfast television licence which as of January broadcasts across the network between and am each morning using the Good Morning Britain previously Daybreak and Lorraine names The company broadcasts a centralised service under the ITV brand In Northern Ireland ITV used the UTV brand name as the name of the channel until April
+The group also owns ITV Studios the production arm of the company and formed from an amalgamation of all the production departments of the regional licences they own The company produces a large proportion of ITV's networked programming around but previously as high as according to some reports with the rest coming primarily from independent suppliers under the Broadcasting Act at least of ITV's total output must be from independent companies ITV plc hopes to increase the amount of in house programming to as close to the limit as possible
+The group cut the number of regional news programmes offered from in to by resulting several regions being merged to form one programme including the Border and Tyne Tees regions the Westcountry and West regions and the removal of sub regional programming with some regions only represented by pre recorded segments
+STV Group plc owns two franchises covering central and northern Scotland through subsidiary companies STV Central and STV North broadcasting a central service under the STV brand
+The company has had several disputes with ITV plc in recent years over network programming STV aims to broadcast more Scottish programmes at peak times and so removed several key ITV plc programmes from their schedule in July including The Bill Midsomer Murders and Lewis Despite STV's explanation of expense ITV plc were angered by the decision as a recent schedule change had made The Bill central to their programming and broadcast the programmes on ITV as well to ensure Scottish viewers could see the programmes On September ITV plc was reported to be in the process of suing STV for million as ITV felt dropping the shows constituted a breach of network agreements STV subsequently counter sued ITV plc for million
+The dispute was ended in with STV agreeing to pay ITV plc million The signing of the new affiliation deal has resulted in STV paying a flat fee for all networked programming and so to drop any programmes is unlikely due to the large costs involved
+There are fifteen regional licences covering fourteen regions there are separate weekday and weekend licences for the London region and one national licence for the breakfast service All licences listed here were renewed until the end of Licences in England and Wales were held by the individual regional ITV plc owned companies prior to November
+The appointment to provide national news for Channel is also subject to approval by Ofcom This appointment has been held by ITN since the channel's inception and has also been approved through the end of
+For over years of ITV its homegrown programmes have become among the best remembered as well as being extremely successful Before the s nearly all of the content for the channel was produced by the fifteen franchise licensees the regional companies
+However following legislation in the Broadcasting Act imposing a quota for commissioning of independent productions the number of programmes from independent production companies not connected to the traditional ITV network has increased rapidly Notable examples include Talkback Thames one half of which Thames Television was itself a former ITV franchisee producers of The Bill and co producers of The X Factor and waytraffic previously Celador producers of Who Wants to Be a Millionaire
+From the late s ITV's long standing commitment to strong current affairs and documentary programming began to diminish with the ending of productions such as World in Action Granada Television This Week Rediffusion London Thames Television First Tuesday Yorkshire Television Network First Survival Anglia Television and Weekend World LWT and their replacement with populist shows such as Tonight News at Ten was also axed in although it was reinstated in In December the final edition of ITV's long running arts programme The South Bank Show was broadcast
+ITV's primetime schedules are dominated by its soap operas such as the flagship Coronation Street and Emmerdale At the start of the st century Independent Television faced criticism for including a large amount of reality TV programmes in the schedule such as Celebrity Fit Club Celebrity Wrestling and Celebrity Love Island In its defence ITV does continue to show its major strengths in the fields of sports coverage and drama productions and it continues to schedule national news in primetime
+Television has been broadcast on ITV at breakfast since February It was initially run by an independent contractor TV am and later GMTV until GMTV Limited became a wholly owned subsidiary of ITV plc in November
+Historically ITV aired breakfast programmes from am until am but ITV extended this to am on weekdays on January and now broadcasts two breakfast programmes on weekdays Good Morning Britain and Lorraine Good Morning Britain keeps viewers up to date with all the latest news sports features and weather whilst Lorraine predominantly focuses on celebrity interviews recipes fashion and showbiz At weekends ITV Breakfast airs children's programming a simulcast of CITV Breakfast under the CITV brand
+ITV's strong daytime line up helped by programmes such as This Morning Loose Women Dickinson's Real Deal and game shows Tipping Point and The Chase are very popular achieving the highest audience share during the daytime slot
+In recent years the network has tried to use formats that ITV Studios own out right whether they have originated in the UK with their Lifted Entertainment company or have come from production companies they own abroad though some popular programme formats like The Masked Singer have still been acquired from other companies abroad Currently ITV are behind the formats for Dancing on Ice The Voice UK the format originally coming from their Dutch production company and I'm a Celebrity Get Me Out of Here while forthcoming music game show Walk The Line has been co developed by Simon Cowell's Syco Entertainment and ITV
+Since the network started Independent Television News Limited ITN has held the contract to produce news for the ITV network with minute national news bulletins currently broadcast at pm and pm and an hour long bulletin at pm These bulletins were broadcast under the ITN brand from until when a new network identity reinforced the ITV brand resulting in the new bulletins being broadcast under the ITV News brand
+ITN has long been respected in the news industry as a source of reliable information and news and as a result the service has won many awards for their programmes the latest being in May when News at Ten was named best news programme by the Royal Television Society and BAFTA
+The ITV National Weather forecast was first broadcast in using data supplied by the Met Office and was presented by a number of weather forecasters The forecasts are sponsored in which the sponsors message would appear prior to and following the forecast The forecasts are made immediately after the main national news bulletins
+Prior to the creation of the national forecast each regional company provided its own regional forecast The regional forecasts today are incorporated into the main regional news bulletins and in the summer months includes a pollen count
+Currently only new episodes of long form news and current affairs programmes like Exposure Peston and On Assignment are being scheduled after News at Ten with the latter title currently only appearing on a month by month basis As the channel carries a simulcast of the Ideal World shopping network for a couple of hours after midnight the time between the news and the shopping is usually kept for re runs with ITV repeating its primetime entertainment shows or sports programming from ITV
+ITV continues with its regularly scheduled programming after Ideal World at around am with showbiz news bulletin FYI Extra and repeats many of which have on screen BSL signing for the deaf community Replacing the information based ITV Nightscreen slot in was Unwind With ITV programming produced in association with the Campaign Against Living Miserably At around am each night this mindfulness programme shows calming shots of natural landscapes and relaxing animations for around an hour with versions of the footage also seen on ITV ITV and ITV
+The regional ITV companies are required to provide local news as part of their franchise agreement together with local weather forecasts with the main local bulletin at pm and regional bulletins located after each national news programme In addition to this traditionally ITV companies would provide other regional programming based on current affairs entertainment or drama However apart from a monthly political programme most non news regional programming in the English regions was dropped by ITV plc in although it continues in Wales and the Channel Islands as well as on STV and UTV and ITV Border in Scotland from to cover mainly Scottish politics whilst ITV Border in England broadcast network programming On January ITV plc regional news programmes titles were discontinued in favour of more generic branding under the ITV News title with the region listed as the subheading However some heritage brand names were retained including Calendar Granada Reports and Lookaround On June ITV News Cymru Wales returned to its historic name of Wales at Six
+Anglia ITV News Anglia with East and West variations
+Central ITV News Central with East and West variations
+Channel ITV News Channel TV
+Granada ITV News Granada Reports
+Meridian ITV News Meridian with South variation and a Thames Valley opt out and South East variation
+STV Central STV News non ITV plc with East and West variations
+STV North STV News non ITV plc with a Dundee opt out
+Tyne Tees ITV News Tyne Tees
+Wales ITV News Wales at Six
+West Country ITV News West Country with East and West variations
+Yorkshire ITV News Calendar with East and West variations ATV ATV Midlands News ATV Today
+Anglia About Anglia Anglia News Anglia News Tonight Anglia Tonight
+Central Carlton Central Central News Central News at Six Central Tonight
+Granada Northern Newscast Scene at Six Thirty Granada Tonight
+HTV Wales ITV Wales Report Wales Y Dydd Wales Tonight HTV News ITV Wales News
+HTV West ITV West Report West HTV News The West Tonight ITV West News West Country Tonight
+London Weekend Television LWT LWT News London Tonight
+Scottish Television STV Scotland Today
+Southern Day by Day Scene South East Dover Transmitter
+Television South West TSW Today South West TSW Today
+Television South TVS Coast to Coast
+Thames Valley Thames Valley Tonight
+Tyne Tees Northern Life Tyne Tees Today Network North Bilsdale Transmitter North East Tonight
+Ulster Television UTV Good Evening Ulster Six Tonight
+Westcountry Carlton Westcountry Westcountry LiveFootball
+ITV holds joint rights for the FIFA World Cup and the UEFA European Championship with the BBC and has shown every World Cup live since on a shared basis with the BBC This arrangement has been in place since the s Since ITV has covered every England international home friendlies and qualifiers for the European Championship and World Cup the deal was extended to include away friendlies in and qualifiers from This has since been extended until as well as highlights of the new UEFA Nations League tournament As announced on th April all England qualifiers friendlies and UEFA Nations League matches from are to be shown on Channel https www channel com press news channel wins rights englands european qualifiers and uefa nations league matches ITV shared the rights for the FA Cup with the BBC from to and will again from ITV also held the live rights to the competition from to and from until
+ITV other flagship sporting coverage is as the exclusive free to air home of British Horse Racing ITV's deal which began on January encompasses horse racing every Saturday Afternoon on ITV or ITV
+ITV Sport has broadcast many boxing matches over the years under the Big Fight Live banner and the sport was a regular fixture on ITV screens until the mid s when ITV lost its two premier contracts to Sky Sports In ITV returned to the ring when it reached an agreement to broadcast the main share of Frank Warren's Sports Network fights This continued until and in ITV decided to stop covering the sport as ITV thought that boxing was no longer commercially viable In the late s ITV showed some boxing on a pay per view channel ITV Box Office However ITV's boxing coverage is now restricted to Premier Boxing Champions which it shows on ITV having closed ITV Box Office at the start of
+ITV has shown the Tour de France in Initially live coverage was only broadcast at the weekend but since the Tour de France ITV has broadcast daily live coverage of every stage ITV also covers the Women's Tour Tour of Britain and Tour de Yorkshire live
+ITV covers six tournaments each year including the UK Open The Masters and the World Series of Darts ITV had previously extensively covered the sport and did so from until it decided to drop the sport in ITV resumed coverage of darts in and since then it has gradually increased the number of events it shows
+ITV's flagship motorsport coverage is of the British Touring Car Championship and has shown the event extensively and in full since ITV also broadcasts highlights of the World Superbike Championship and the British Superbike Championship ITV had previously covered Formula One and did so for seasons from to
+ITV has broadcast every Rugby World Cup live since and will show the tournament ITV also broadcasts the Women's Rugby World Cup for the first time and the Under World Cup Since ITV has shared coverage of the Six Nations Championship with the BBC ITV broadcasts all England France Ireland and Italy home matches live while BBC shows all Scotland and Wales home matches live Since ITV will also show rising to from live matches from Premiership Rugby including the final and a weekly highlights show on ITV on Sunday evenings repeated later on the main ITV channel
+Snooker is another sport which ITV dropped but has subsequently restarted to show In the s and early s ITV broadcast four tournaments per season ITV dropped snooker after the British Open and the sport was mostly absent from ITV screens until the s In summer ITV and Barry Hearn announced they had signed a year deal to cover Snooker Tournaments per year keeping coverage of the Champion of Champions and a new tournament called the World Grand Prix ITV now shows four tournaments each year including the Champion of Champions and the World Grand Prix
+In ITV Sport won the rights from the BBC to show the French Open and has shown the event since The bulk of the daily coverage is broadcast on ITV although both singles finals plus other weekend matches are shown on ITV ITV renewed its deal to show the tournament in and ITV Sport will now show the French Open until From the tournament will be shown exclusively on Eurosport https sport onthebox com eurosport discovery roland garros french open tennis uk tv rights amp The network broadcasts children's programming under the CITV Children's ITV strand Children's programming was originally provided during weekday afternoons and weekend mornings however following the launch of the CITV Channel in all children's programming with the exception of the weekend ITV Breakfast slot were relocated from the ITV line up to the CITV channel in a move which was challenged by Ofcom in April
+Schools programming on the network began in in some regions and expanded as more regions began broadcasting It was a contractual obligation for some ITV companies to broadcast schools programming and this was initially broadcast as part of the normal scheduling The programmes were moved into a segment for broadcast during the day in the s under the banner Independent Television for Schools and Colleges and from were broadcast on Channel in the ITV Schools on Channel segment In this segment became Channel Schools and later in Learning These strands of programming consisted of schools programming from all the ITV companies or from independent sources The schools strand itself is now defunct with no particular branding segment used
+Unwind with ITVThe Public Teletext Licence allows the holder to broadcast a text based information service around the clock on Channel as well as Channel and S C frequencies Teletext on ITV was provided by ORACLE from until and from to by Teletext Ltd whose news sport and TV listings pages rivalled the BBC's offering Ceefax on terrestrial and BBC Red Button on digital Teletext Ltd also provided digital teletext for the Channel services as well as the text output for both Channel and S C under the same licence and Channel However the licence was revoked by Ofcom on January for failing to provide news and local non news information on ITV and there is currently no teletext licence holder for ITV
+ITV as UTV is widely available in Ireland where it is received directly in areas bordering Northern Ireland or in coastal areas from Wales as ITV Cymru Wales Until it was also carried on cable when it was replaced by UTV Ireland which was itself replaced by be now Virgin Media Three ITV programming is also available to Irish viewers on Virgin Media One including soap operas Emmerdale and Coronation Street ITV is also available on cable and IPTV in Switzerland and Liechtenstein Since March it has been offered by the British Forces Broadcasting Service BFBS to members of HM Forces and their families around the world replacing the BFBS TV channel which already carried a selection of ITV programmes
+Since the launch of ITV there have been concerns from politicians and the press that ITV faced a conflict concerning programme audiences and advertisers As advertisers are reluctant to buy advertising space around low viewing programmes there is a pressure on ITV to broadcast more popular programmes in peak times This has become more profound in recent years following a relaxation in regulation and significantly more competition in the advertising market following the huge increase in commercial channels In recent years programmes have started to dominate from the reality television genre including the celebrity and talent show subgenres This has led to accusations of ITV 'dumbing down' their programmes and appealing to the 'lowest common denominator' accusations that are at odds with the network's status as a public service broadcaster ITV was is also heavily criticised for scaling back its regional programmes including regional news also ITV has been criticised since for showing Emmerdale and Coronation Street at the weekday slot except Tuesdays
+There has never been an identity for ITV as a whole that was adopted uniformly by all broadcasters within the ITV network Before each regional company used its own name for identification and the name ITV was rarely seen on screen except for some sub brands such as ITV Schools or ITV Sport From a national ITV corporate identity was established which saw regional brands combined with the national ITV brand although the balance between regional and national brands varied from company to company and some companies never used the ITV brand at all It was not until that national ITV branded continuity was adopted across all the regions in England see ITV TV channel although regional continuity before local programmes continued until
+On screen branding in the regions that chose to use it
 List of ITV journalists and newsreaders
 List of television programmes broadcast by ITV
-List of television stations in the United KingdomITV – www.itv.com
-STV – www.stv.tv
-ITV on Twitter
-STV on TwitterITV plc
-STV Group plc
+List of television stations in the United KingdomITV www itv com

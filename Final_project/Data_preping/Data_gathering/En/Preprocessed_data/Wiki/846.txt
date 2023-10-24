@@ -1,29 +1,17 @@
-In mathematics, Descartes' rule of signs, first described by René Descartes in his work La Géométrie, is a technique for getting information on the number of positive real roots of a polynomial
-It asserts that the number of positive roots is at most the number of sign changes in the sequence of polynomial's coefficients (omitting the zero coefficients), and that the difference between these two numbers is always even
-This implies, in particular, that if the number of sign changes is zero or one, then there are exactly zero or one positive roots, respectively.
-By a homographic transformation of the variable, one may use Descartes' rule of signs for getting a similar information on the number of roots in any interval
-This is the basic idea of Budan's theorem and Budan–Fourier theorem
-By repeating the division of an interval into two intervals, one gets eventually a list of disjoint intervals containing together all real roots of the polynomial, and containing each exactly one real root
-Descartes rule of signs and homographic transformations of the variable are, nowadays, the basis of the fastest algorithms for computer computation of real roots of polynomials (see Real-root isolation).
-Descartes himself used the transformation x → –x for using his rule for getting information of the number of negative roots.
-The rule states that if the nonzero terms of a single-variable polynomial with real coefficients are ordered by descending variable exponent, then the number of positive roots of the polynomial is either equal to the number of sign changes between consecutive (nonzero) coefficients, or is less than it by an even number
-A root of multiplicity k is counted as k roots.
-In particular, if the number of sign changes is zero or one, the number of positive roots equals the number of sign changes.
-As a corollary of the rule, the number of negative roots is the number of sign changes after multiplying the coefficients of odd-power terms by −1, or fewer than it by an even number
-This procedure is equivalent to substituting the negation of the variable for the variable itself.
-For example, the negative roots of
-Since nonreal roots of a polynomial with real coefficients must occur in conjugate pairs, it means that x − 1 has exactly two nonreal roots and one real root, which is positive.
-The subtraction of only multiples of 2 from the maximal number of positive roots occurs because the polynomial may have nonreal roots, which always come in pairs since the rule applies to polynomials whose coefficients are real
-Thus if the polynomial is known to have all real roots, this rule allows one to find the exact number of positive and negative roots
-Since it is easy to determine the multiplicity of zero as a root, the sign of all roots can be determined in this case.
-If the real polynomial P has k real positive roots counted with multiplicity, then for every a > 0 there are at least k changes of sign in the sequence of coefficients of the Taylor series of the function eP(x)
-For sufficiently large a, there are exactly k such changes of sign.
-In the 1970s Askold Khovanskii developed the theory of fewnomials that generalises Descartes' rule
-The rule of signs can be thought of as stating that the number of real roots of a polynomial is dependent on the polynomial's complexity, and that this complexity is proportional to the number of monomials it has, not its degree
-Khovanskiǐ showed that this holds true not just for polynomials but for algebraic combinations of many transcendental functions, the so-called Pfaffian functions.
-Sturm's theorem – Count of the roots of a polynomial in an interval, without computing them
-Rational root theorem – Relationship between the rational roots of a polynomial and its extreme coefficients
-Geometrical properties of polynomial roots – Geometry of the location of polynomial roots
-Gauss–Lucas theorem – Geometric relation between the roots of a polynomial and those of its derivativeThis article incorporates material from Descartes' rule of signs on PlanetMath, which is licensed under the Creative Commons Attribution/Share-Alike License.
-Descartes' Rule of Signs – Proof of the rule
-Descartes' Rule of Signs – Basic explanation
+In mathematics Descartes' rule of signs first described by Ren Descartes in his work La G om trie is a technique for getting information on the number of positive real roots of a polynomial It asserts that the number of positive roots is at most the number of sign changes in the sequence of polynomial's coefficients omitting the zero coefficients and that the difference between these two numbers is always even This implies in particular that if the number of sign changes is zero or one then there are exactly zero or one positive roots respectively
+By a homographic transformation of the variable one may use Descartes' rule of signs for getting a similar information on the number of roots in any interval This is the basic idea of Budan's theorem and Budan Fourier theorem By repeating the division of an interval into two intervals one gets eventually a list of disjoint intervals containing together all real roots of the polynomial and containing each exactly one real root Descartes rule of signs and homographic transformations of the variable are nowadays the basis of the fastest algorithms for computer computation of real roots of polynomials see Real root isolation
+Descartes himself used the transformation x x for using his rule for getting information of the number of negative roots
+The rule states that if the nonzero terms of a single variable polynomial with real coefficients are ordered by descending variable exponent then the number of positive roots of the polynomial is either equal to the number of sign changes between consecutive nonzero coefficients or is less than it by an even number A root of multiplicity k is counted as k roots
+In particular if the number of sign changes is zero or one the number of positive roots equals the number of sign changes
+As a corollary of the rule the number of negative roots is the number of sign changes after multiplying the coefficients of odd power terms by or fewer than it by an even number This procedure is equivalent to substituting the negation of the variable for the variable itself
+For example the negative roots of
+Since nonreal roots of a polynomial with real coefficients must occur in conjugate pairs it means that x has exactly two nonreal roots and one real root which is positive
+The subtraction of only multiples of from the maximal number of positive roots occurs because the polynomial may have nonreal roots which always come in pairs since the rule applies to polynomials whose coefficients are real Thus if the polynomial is known to have all real roots this rule allows one to find the exact number of positive and negative roots Since it is easy to determine the multiplicity of zero as a root the sign of all roots can be determined in this case
+If the real polynomial P has k real positive roots counted with multiplicity then for every a there are at least k changes of sign in the sequence of coefficients of the Taylor series of the function eP x For sufficiently large a there are exactly k such changes of sign
+In the s Askold Khovanskii developed the theory of fewnomials that generalises Descartes' rule The rule of signs can be thought of as stating that the number of real roots of a polynomial is dependent on the polynomial's complexity and that this complexity is proportional to the number of monomials it has not its degree Khovanski showed that this holds true not just for polynomials but for algebraic combinations of many transcendental functions the so called Pfaffian functions
+Sturm's theorem Count of the roots of a polynomial in an interval without computing them
+Rational root theorem Relationship between the rational roots of a polynomial and its extreme coefficients
+Geometrical properties of polynomial roots Geometry of the location of polynomial roots
+Gauss Lucas theorem Geometric relation between the roots of a polynomial and those of its derivativeThis article incorporates material from Descartes' rule of signs on PlanetMath which is licensed under the Creative Commons Attribution Share Alike License
+Descartes' Rule of Signs Proof of the rule
+Descartes' Rule of Signs Basic explanation

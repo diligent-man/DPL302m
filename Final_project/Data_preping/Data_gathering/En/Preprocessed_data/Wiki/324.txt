@@ -1,71 +1,27 @@
-Pandurang Vasudeo Sukhatme (1911–1997) was an Indian statistician
-He is known for his pioneering work of applying random sampling methods in agricultural statistics and in biometry, in the 1940s
-He was also influential in the establishment of the Indian Agricultural Statistics Research Institute
-As a part of his work at the Food and Agriculture Organization in Rome, he developed statistical models for assessing the dimensions of hunger and future food supplies for the world
-He also developed methods for measuring the size and nature of the protein gap.
-His other major contributions included applying statistical techniques to the study of human nutrition
-One of his ideas, the Sukhatme–Margen hypothesis, suggested that at low calorie intake levels, stored energy in the body is used with greater metabolic efficiency and that the metabolic efficiency decreases as the intake increases above the homeostatic range
-This involved paying attention to intra-individual variability that was found to be more than the inter-individual variability in protein or calorie intake
-He gave a genetic interpretation of the intra-individual variation jointly with P
-Narain.
-He was awarded the Padma Bhushan by the Government of India in 1971.
-Sukhatme was born in a Deshastha Brahmin family on 27 July 1911 in village Budh, district Satara in the state of Maharashtra in India
-He graduated in 1932 from Fergusson College with Mathematics as principal subject and Physics as subsidiary subject.
-From 1932 to 1936, he studied at University College London where he was awarded a Ph.D
-in 1936 and a D.Sc
-in 1939  for his work on bi-partitional  functions
-With J
-Neyman and E
-S
-Pearson he made significant contributions in the statistical theory of sampling which was instrumental in his subsequent research in sampling theory of survey and improvement of agricultural statistics in India
-This ushered in what may appropriately be termed as Sukhatme era in the development of agricultural statistics in India.
-1940–1951: Statistical Adviser, Indian Council of Agricultural Research, New Delhi.
-1951–1971: Director, Statistics Division, Food and Agriculture Organization, RomeSome of Dr Sukhatme's significant contributions in the form of research papers and books are:
-"Contribution to the Theory of the Representative Method", Journal of the Royal Statistical Society (1935)
-PhD thesis under the guidance of Jerzy Neyman and Egon Pearson (son of Karl Pearson).
-"On Bi-partitional Functions", Philosophical Transactions of the Royal Society (1936)
-DSc thesis under the guidance of Ronald Fisher.
-"Random Sampling for Estimating Rice Yield in Madras Province", Indian Journal of Agricultural Science (1945).
-"The Problem of Plot Size in Large-Scale Yield Surveys", Journal of the American Statistical Association (1947).
-"Use of Small Size Plots in Yield Surveys", Nature (1947)
-(With V.G.Panse)
-Crop Surveys in India — II, Journal of Indian Society of Agricultural Statistics (1951).
-(With K
-Kishen)
-Systems of Agricultural Statistics, Bulletin of International Statistical Institute (1951).
-"Sampling Theory of Surveys with Applications", Book published jointly by Indian Society of Agricultural Statistics and Iowa State University Press (1954)
-Translated in Spanish.
-"Statistical Methods for Agricultural Workers" (co-author: V G Panse), Book published by Indian Council of Agricultural Research (1954)
- Translated in Spanish.
-"The World's Hunger and Future Needs in Food Supplies", Journal of the Royal Statistical Society (1961).
-"Size and Nature of the Protein Gap", Nutrition Review (1970).
-"The Protein Problem — Its Size and Nature", Journal of the Royal Statistical Society (1974).
-(With S
-Margen)
-Models for protein deficiency
-American Journal of Clinical Nutrition (1978).
-"Autoregulatory Homeostatic Nature of Energy Balance", American Journal of Clinical Nutrition (1982).
-(With P
-Narain)
-The genetic significance of Intra-individual variation in energy requirement
-In: W
-G
-Cochran's  Impact on Statistics, Edited by    P.S.R.S
-Rao and J
-Sedransk, John Wiley & Sons., New York (1982).1963 - The Guy Medal by the Royal Statistical Society, London for his paper on 'The World's Hunger and Future Needs in Food Supplies'.
-1971 - Padma Bhushan, the third highest civilian award in the Republic of India.
-1973 - The B.C.Guha Memorial Lectureship of the Indian Science Congress Association.1950  - Elected as a Fellow of the American Statistical Association.
-1982 - Bal Gangadhar Tilak Lectureship of the Indian National Science Academy.Indian Agricultural Statistics Research InstituteP
-V
-Sukhatme (1966) "Major Developments in Sampling Theory and Practice," in F
-N
-David (ed.) Research Papers in Statistics, New York: Wiley.
-Shashikala Sukhatme (2002) "Pandurang V
-Sukhatme 1911–1997," Journal of Statistical Planning and Inference, 102(1), 3–24.
-P
-Narain (2000)
-Biographical Memoir of P
-V
-Sukhatme
-In: Biographical Memoirs of Fellows of the Indian National Science Academy, New Delhi, Vol
-22: 155-169.
+Pandurang Vasudeo Sukhatme was an Indian statistician He is known for his pioneering work of applying random sampling methods in agricultural statistics and in biometry in the s He was also influential in the establishment of the Indian Agricultural Statistics Research Institute As a part of his work at the Food and Agriculture Organization in Rome he developed statistical models for assessing the dimensions of hunger and future food supplies for the world He also developed methods for measuring the size and nature of the protein gap
+His other major contributions included applying statistical techniques to the study of human nutrition One of his ideas the Sukhatme Margen hypothesis suggested that at low calorie intake levels stored energy in the body is used with greater metabolic efficiency and that the metabolic efficiency decreases as the intake increases above the homeostatic range This involved paying attention to intra individual variability that was found to be more than the inter individual variability in protein or calorie intake He gave a genetic interpretation of the intra individual variation jointly with P Narain
+He was awarded the Padma Bhushan by the Government of India in
+Sukhatme was born in a Deshastha Brahmin family on July in village Budh district Satara in the state of Maharashtra in India He graduated in from Fergusson College with Mathematics as principal subject and Physics as subsidiary subject
+From to he studied at University College London where he was awarded a Ph D in and a D Sc in for his work on bi partitional functions With J Neyman and E S Pearson he made significant contributions in the statistical theory of sampling which was instrumental in his subsequent research in sampling theory of survey and improvement of agricultural statistics in India This ushered in what may appropriately be termed as Sukhatme era in the development of agricultural statistics in India
+Statistical Adviser Indian Council of Agricultural Research New Delhi
+Director Statistics Division Food and Agriculture Organization RomeSome of Dr Sukhatme's significant contributions in the form of research papers and books are
+Contribution to the Theory of the Representative Method Journal of the Royal Statistical Society PhD thesis under the guidance of Jerzy Neyman and Egon Pearson son of Karl Pearson
+On Bi partitional Functions Philosophical Transactions of the Royal Society DSc thesis under the guidance of Ronald Fisher
+Random Sampling for Estimating Rice Yield in Madras Province Indian Journal of Agricultural Science
+The Problem of Plot Size in Large Scale Yield Surveys Journal of the American Statistical Association
+Use of Small Size Plots in Yield Surveys Nature
+With V G Panse Crop Surveys in India II Journal of Indian Society of Agricultural Statistics
+With K Kishen Systems of Agricultural Statistics Bulletin of International Statistical Institute
+Sampling Theory of Surveys with Applications Book published jointly by Indian Society of Agricultural Statistics and Iowa State University Press Translated in Spanish
+Statistical Methods for Agricultural Workers co author V G Panse Book published by Indian Council of Agricultural Research Translated in Spanish
+The World's Hunger and Future Needs in Food Supplies Journal of the Royal Statistical Society
+Size and Nature of the Protein Gap Nutrition Review
+The Protein Problem Its Size and Nature Journal of the Royal Statistical Society
+With S Margen Models for protein deficiency American Journal of Clinical Nutrition
+Autoregulatory Homeostatic Nature of Energy Balance American Journal of Clinical Nutrition
+With P Narain The genetic significance of Intra individual variation in energy requirement In W G Cochran's Impact on Statistics Edited by P S R S Rao and J Sedransk John Wiley Sons New York The Guy Medal by the Royal Statistical Society London for his paper on 'The World's Hunger and Future Needs in Food Supplies'
+Padma Bhushan the third highest civilian award in the Republic of India
+The B C Guha Memorial Lectureship of the Indian Science Congress Association Elected as a Fellow of the American Statistical Association
+Bal Gangadhar Tilak Lectureship of the Indian National Science Academy Indian Agricultural Statistics Research InstituteP V Sukhatme Major Developments in Sampling Theory and Practice in F N David ed Research Papers in Statistics New York Wiley
+Shashikala Sukhatme Pandurang V Sukhatme Journal of Statistical Planning and Inference
+P Narain Biographical Memoir of P V Sukhatme In Biographical Memoirs of Fellows of the Indian National Science Academy New Delhi Vol

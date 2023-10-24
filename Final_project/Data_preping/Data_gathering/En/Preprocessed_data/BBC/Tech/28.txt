@@ -1,35 +1,11 @@
-Markets
-Fear & Greed Index
-Latest Market News
-The White House plans to introduce a highly anticipated executive order in the coming weeks dealing with artificial intelligence, President Joe Biden said Wednesday.
-“This fall, I’m going to take executive action, and my administration is going to continue to work with bipartisan legislation,” Biden said, “so America leads the way toward responsible AI innovation.”
-Biden offered no details on the contents of the coming order, which the White House had first announced in July
-But his remarks offer greater insight into his administration’s timing.
-Biden’s signing of the order would build on an earlier administration proposal for an “AI Bill of Rights.” Civil society groups have urged the Biden administration to require federal agencies to implement the AI Bill of Rights as part of any executive order on the technology
-Meanwhile, the US Senate is continuing to educate lawmakers on artificial intelligence in preparation for months of legislative work on the issue.
-In Wednesday’s remarks during a meeting of the Presidential Council of Advisors on Science and Technology, Biden described the recent conversations he’s had with AI leaders and experts.
-“Vast differences exist among them in terms of what potential it has, what dangers there are, and so, I have a keen interest in AI,” Biden said
-“I’ve convened key experts on how to harness the power of artificial intelligence for good while protecting people from the profound risk it also presents.”
-“We can’t kid ourselves,” Biden continued
-“[There is] profound risk if we don’t do it well.”
-Biden reiterated the United States’ commitment to working with international partners including the United Kingdom on developing safeguards for artificial intelligence.
-The meeting also saw presidential advisers showcasing to Biden several use cases for artificial intelligence
-Maria Zuber, the panel’s co-chair, said the examples Biden would see during the meeting would include the use of AI to predict extreme weather linked to climate change; to “create materials that have properties we’ve never been able to create before”; and to “understand the origins of the universe, which is literally as big as it gets.”
-Most stock quote data provided by BATS
-US market indices are shown in real time, except for the S&P 500 which is refreshed every two minutes
-All times are ET
-Factset: FactSet Research Systems Inc
-All rights reserved
-Chicago Mercantile: Certain market data is the property of Chicago Mercantile Exchange Inc
-and its licensors
-All rights reserved
-Dow Jones: The Dow Jones branded indices are proprietary to and are calculated, distributed and marketed by DJI Opco, a subsidiary of S&P Dow Jones Indices LLC and have been licensed for use to S&P Opco, LLC and CNN
-Standard & Poor’s and S&P are registered trademarks of Standard & Poor’s Financial Services LLC and Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC
-All content of the Dow Jones branded indices Copyright S&P Dow Jones Indices LLC and/or its affiliates
-Fair value provided by IndexArb.com
-Market holidays and trading hours provided by Copp Clark Limited.
-© 2023 Cable News Network
-A Warner Bros
-Discovery Company
-All Rights Reserved
- CNN Sans ™ & © 2016 Cable News Network.
+The White House plans to introduce a highly anticipated executive order in the coming weeks dealing with artificial intelligence President Joe Biden said Wednesday
+This fall I m going to take executive action and my administration is going to continue to work with bipartisan legislation Biden said so America leads the way toward responsible AI innovation
+Biden offered no details on the contents of the coming order which the White House had first announced in July But his remarks offer greater insight into his administration s timing
+Biden s signing of the order would build on an earlier administration proposal for an AI Bill of Rights Civil society groups have urged the Biden administration to require federal agencies to implement the AI Bill of Rights as part of any executive order on the technology Meanwhile the US Senate is continuing to educate lawmakers on artificial intelligence in preparation for months of legislative work on the issue
+In Wednesday s remarks during a meeting of the Presidential Council of Advisors on Science and Technology Biden described the recent conversations he s had with AI leaders and experts
+Vast differences exist among them in terms of what potential it has what dangers there are and so I have a keen interest in AI Biden said I ve convened key experts on how to harness the power of artificial intelligence for good while protecting people from the profound risk it also presents
+We can t kid ourselves Biden continued There is profound risk if we don t do it well
+Biden reiterated the United States commitment to working with international partners including the United Kingdom on developing safeguards for artificial intelligence
+The meeting also saw presidential advisers showcasing to Biden several use cases for artificial intelligence Maria Zuber the panel s co chair said the examples Biden would see during the meeting would include the use of AI to predict extreme weather linked to climate change to create materials that have properties we ve never been able to create before and to understand the origins of the universe which is literally as big as it gets
+Most stock quote data provided by BATS US market indices are shown in real time except for the S P which is refreshed every two minutes All times are ET Factset FactSet Research Systems Inc All rights reserved Chicago Mercantile Certain market data is the property of Chicago Mercantile Exchange Inc and its licensors All rights reserved Dow Jones The Dow Jones branded indices are proprietary to and are calculated distributed and marketed by DJI Opco a subsidiary of S P Dow Jones Indices LLC and have been licensed for use to S P Opco LLC and CNN Standard Poor s and S P are registered trademarks of Standard Poor s Financial Services LLC and Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC All content of the Dow Jones branded indices Copyright S P Dow Jones Indices LLC and or its affiliates Fair value provided by IndexArb com Market holidays and trading hours provided by Copp Clark Limited
+Cable News Network A Warner Bros Discovery Company All Rights Reserved CNN Sans Cable News Network

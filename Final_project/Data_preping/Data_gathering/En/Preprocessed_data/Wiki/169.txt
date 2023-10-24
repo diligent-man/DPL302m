@@ -1,48 +1,42 @@
-Calculus (from Latin calculus meaning ‘pebble’, plural calculī) in its most general sense is any method or system of calculation.
-Calculus may refer to:
-Infinitesimal calculus (or simply Calculus), which investigate motion and rates of change
-Differential calculus
-Integral calculus
-Non-standard calculus, an approach to infinitesimal calculus using Robinson's infinitesimals
-Calculus of sums and differences (difference operator), also called the finite-difference calculus, a discrete analogue of "calculus"
-Functional calculus, a way to apply various types of functions to operators
-Schubert calculus, a branch of algebraic geometry
-Tensor calculus (also called tensor analysis), a generalization of vector calculus that encompasses tensor fields
-Vector calculus (also called vector analysis), comprising specialized notations for multivariable analysis of vectors in an inner-product space
-Matrix calculus, a specialized notation for multivariable calculus over spaces of matrices
-Numerical calculus (also called numerical analysis), the study of numerical approximations
-Umbral calculus, the combinatorics of certain operations on polynomials
-The calculus of variations, a field of study that deals with extremizing functionalsLogical calculus, a formal system that defines a language and rules to derive an expression from premises
-Propositional calculus, specifies the rules of inference governing the logic of propositions
-Predicate calculus, specifies the rules of inference governing the logic of predicates
-Proof calculus, a framework for expressing systems of logical inference
-Sequent calculus, a proof calculus for first-order logic
-Cirquent calculus, a proof calculus based on graph-style structures called cirquents
-Situation calculus, a framework for describing relations within a dynamic system
-Event calculus, a model for reasoning about events and their effects
-Fluent calculus, a model for describing relations within a dynamic system
-Calculus of relations, the manipulation of binary relations with the algebra of sets, composition of relations, and transpose relations
-Epsilon calculus, a logical language which replaces quantifiers with the epsilon operator
-Fitch-style calculus, a method for constructing formal proofs used in first-order logic
-Modal μ-calculus, a common temporal logic used by formal verification methods such as model checkingBondi k-calculus, a method used in relativity theory
-Jones calculus, used in optics to describe polarized light
-Mueller calculus, used in optics to handle Stokes vectors, which describe the polarization of incoherent light
-Operational calculus, used to solve differential equations arising in electronicsLambda calculus, a formulation of the theory of reflexive functions that has deep connections to computational theory
-Kappa calculus, a reformulation of the first-order fragment of typed lambda calculus
-Rho calculus, introduced as a general means to uniformly integrate rewriting into lambda calculus
-Process calculus, a set of approaches to formulating formal models of concurrent systems
-Ambient calculus, a family of models for concurrent systems based on the concept of agent mobility
-Join calculus, a theoretical model for the design of distributed programming languages
-π-calculus, a formulation of the theory of concurrent, communicating processes
-Relational calculus, a calculus for the relational data model
-Domain relational calculus
-Tuple calculus
-Refinement calculus, a way of refining models of programs into efficient programsCalculus (dental), deposits of calcium phosphate salts on teeth, also known as tartar
-Calculus (medicine), a stone formed in the body such as a gall stone or kidney stone
-Battlefield calculus, military calculation of all known factors into the decision-making and action-planning process
-Calculus (spider), a genus of the family Oonopidae
-Caseolus calculus, a genus and species of small land snails
-Professor Calculus, a fictional character in the comic-strip series The Adventures of Tintin
-Calculus of negligence, a legal standard in U.S
-tort law to determine if a duty of care has been breached
-Felicific calculus, a procedure to evaluate the benefit of an action, according to Bentham
+Calculus from Latin calculus meaning pebble plural calcul in its most general sense is any method or system of calculation
+Infinitesimal calculus or simply Calculus which investigate motion and rates of change
+Non standard calculus an approach to infinitesimal calculus using Robinson's infinitesimals
+Calculus of sums and differences difference operator also called the finite difference calculus a discrete analogue of calculus
+Functional calculus a way to apply various types of functions to operators
+Schubert calculus a branch of algebraic geometry
+Tensor calculus also called tensor analysis a generalization of vector calculus that encompasses tensor fields
+Vector calculus also called vector analysis comprising specialized notations for multivariable analysis of vectors in an inner product space
+Matrix calculus a specialized notation for multivariable calculus over spaces of matrices
+Numerical calculus also called numerical analysis the study of numerical approximations
+Umbral calculus the combinatorics of certain operations on polynomials
+The calculus of variations a field of study that deals with extremizing functionalsLogical calculus a formal system that defines a language and rules to derive an expression from premises
+Propositional calculus specifies the rules of inference governing the logic of propositions
+Predicate calculus specifies the rules of inference governing the logic of predicates
+Proof calculus a framework for expressing systems of logical inference
+Sequent calculus a proof calculus for first order logic
+Cirquent calculus a proof calculus based on graph style structures called cirquents
+Situation calculus a framework for describing relations within a dynamic system
+Event calculus a model for reasoning about events and their effects
+Fluent calculus a model for describing relations within a dynamic system
+Calculus of relations the manipulation of binary relations with the algebra of sets composition of relations and transpose relations
+Epsilon calculus a logical language which replaces quantifiers with the epsilon operator
+Fitch style calculus a method for constructing formal proofs used in first order logic
+Modal calculus a common temporal logic used by formal verification methods such as model checkingBondi k calculus a method used in relativity theory
+Jones calculus used in optics to describe polarized light
+Mueller calculus used in optics to handle Stokes vectors which describe the polarization of incoherent light
+Operational calculus used to solve differential equations arising in electronicsLambda calculus a formulation of the theory of reflexive functions that has deep connections to computational theory
+Kappa calculus a reformulation of the first order fragment of typed lambda calculus
+Rho calculus introduced as a general means to uniformly integrate rewriting into lambda calculus
+Process calculus a set of approaches to formulating formal models of concurrent systems
+Ambient calculus a family of models for concurrent systems based on the concept of agent mobility
+Join calculus a theoretical model for the design of distributed programming languages
+calculus a formulation of the theory of concurrent communicating processes
+Relational calculus a calculus for the relational data model
+Refinement calculus a way of refining models of programs into efficient programsCalculus dental deposits of calcium phosphate salts on teeth also known as tartar
+Calculus medicine a stone formed in the body such as a gall stone or kidney stone
+Battlefield calculus military calculation of all known factors into the decision making and action planning process
+Calculus spider a genus of the family Oonopidae
+Caseolus calculus a genus and species of small land snails
+Professor Calculus a fictional character in the comic strip series The Adventures of Tintin
+Calculus of negligence a legal standard in U S tort law to determine if a duty of care has been breached
+Felicific calculus a procedure to evaluate the benefit of an action according to Bentham

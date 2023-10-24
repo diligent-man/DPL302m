@@ -1,7 +1,5 @@
-This page is a directory to various pages that will list political parties, from around the world, according to their respective regions
-All of the pages linked from here include a table listing the sub-pages of countries/jurisdiction in the given region, showing which party system is dominant in each country.
-A political party is a political organization subscribing to a certain ideology or formed around very special issues with the aim to participate in power, usually by participating in elections
- Individual parties are properly listed in separate articles under the page for each nation.
+This page is a directory to various pages that will list political parties from around the world according to their respective regions All of the pages linked from here include a table listing the sub pages of countries jurisdiction in the given region showing which party system is dominant in each country
+A political party is a political organization subscribing to a certain ideology or formed around very special issues with the aim to participate in power usually by participating in elections Individual parties are properly listed in separate articles under the page for each nation
 List of political parties in Africa by country
 List of political parties in Eastern Africa by country
 List of political parties in Middle Africa by country
@@ -22,8 +20,6 @@ List of political parties in Melanesia by country
 List of political parties in Micronesia by country
 List of political parties in New Zealand
 List of political parties in Polynesia by countryList of basic political science topics
-List of democracy and elections-related topics
-List of frivolous parties
-List of election results
+List of democracy and elections related topics
 List of national leadersPolitical resources on the net
-Leftist Parties of the World - Detailed resource for left-leaning parties (large and small) in each country
+Leftist Parties of the World Detailed resource for left leaning parties large and small in each country

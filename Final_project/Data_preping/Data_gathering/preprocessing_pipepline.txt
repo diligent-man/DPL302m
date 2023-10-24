@@ -1,3 +1,6 @@
 En:
+    Split into single sentences ->
+    Expand contraction words that don't exist in word2vec vocab ->
+    Remove non-alphabet chars (except apostrophe)
 
-Vn:
+Vn: 

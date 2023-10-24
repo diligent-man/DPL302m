@@ -1,45 +1,23 @@
-This is a list of calendars
-Included are historical calendars as well as proposed ones
-Historical calendars are often grouped into larger categories by cultural sphere or historical period; thus O'Neil (1976) distinguishes the groupings Egyptian calendars (Ancient Egypt), Babylonian calendars (Ancient Mesopotamia), Indian calendars (Hindu and Buddhist traditions of the Indian subcontinent), Chinese calendars and Mesoamerican calendars.
-These are not specific calendars but series of historical calendars undergoing reforms or regional diversification.
-In Classical Antiquity, the Hellenic calendars inspired the Roman calendar, including the solar Julian calendar introduced in 45 BC
-Many modern calendar proposals, including the Gregorian calendar introduced in 1582 AD, contains modifications from that of the Julian calendar.
-In the list below, specific calendars are given, listed by calendar type (solar, lunisolar or lunar), time of introduction (if known), and the context of use and cultural or historical grouping (if applicable)
-Where appropriate, the regional or historical group (Hijri calendar, Mayan, Aztecan, Egyptian, Mesopotamian, Iranian, Hindu, Buddhist, Pre-Columbian Mesoamerican, Hellenic, Julian or Gregorian-derived) is noted.
-Calendars fall into four types: lunisolar, solar, lunar and seasonal
-Most pre-modern calendars are lunisolar
-The seasonal calendars rely on changes in the environment (e.g., "wet season", "dry season") rather than lunar or solar observations
-The Islamic and some Buddhist calendars are lunar, while most modern calendars are solar, based on either the Julian or the Gregorian calendars.
-Some calendars listed are identical to the Gregorian calendar except for substituting regional month names or using a different calendar epoch
-For example, the Thai solar calendar (introduced 1888) is the Gregorian calendar using a different epoch (543 BC) and different names for the Gregorian months (Thai names based on the signs of the zodiac).
-Regional or historical names for lunations or Julian/Gregorian months
-Coordinated Universal Time, adopted 1960 and since 1972 including a system of observation-based leap seconds.
-ISO 8601, standard based on the Gregorian calendar, Coordinated Universal Time and ISO week date, a leap week calendar system used with the Gregorian calendar
-Fiscal year varies with different countries
-Used in accounting only.
-360-day calendar used for accounting
-365-day calendar used for accounting
-Unix time, number of seconds elapsed since 1 January 1970, 00:00:00 (UTC).
-Julian day, number of days elapsed since 1 January 4713 BC, 12:00:00 (UTC).
-Heliocentric Julian Date, Julian day corrected for differences in the Earth's position with respect to the Sun.
-Barycentric Julian Date, Julian day corrected for differences in the Earth's position with respect to the barycentre of the Solar System.
-Lilian date,   number of days elapsed since the beginning of the Gregorian Calendar on 15 October 1582.
-Rata Die, number of days elapsed since 1 January 1 AD 1 in the proleptic Gregorian calendar.Darian calendar (proposed for Mars, not used in planetary science)
-Discworld calendar (fictional)
-Middle-earth calendars (fictional)
-Stardates (from Star Trek, fictional)History of calendars
-Epoch
-Horology
-Perpetual calendar
-Liturgical year
-Calendar of saints
-Advent calendar
-Wall calendar
-Geologic Calendar
-Cosmic Calendar
-Lunar calendar
-World calendarBrian Williams, Calendars, Cherrytree Books, 2002.
-Sacha Stern, Calendars in Antiquity: Empires, States, and Societies, OUP Oxford, 2012.
-William Matthew O'Neil, Time and the Calendars, Manchester University Press, 1976.
-Anthony F
-Aveni, Empires of Time: Calendars, Clocks and Cultures, Tauris Parke Paperbacks, 2000.
+This is a list of calendars Included are historical calendars as well as proposed ones Historical calendars are often grouped into larger categories by cultural sphere or historical period thus O'Neil distinguishes the groupings Egyptian calendars Ancient Egypt Babylonian calendars Ancient Mesopotamia Indian calendars Hindu and Buddhist traditions of the Indian subcontinent Chinese calendars and Mesoamerican calendars
+These are not specific calendars but series of historical calendars undergoing reforms or regional diversification
+In Classical Antiquity the Hellenic calendars inspired the Roman calendar including the solar Julian calendar introduced in BC Many modern calendar proposals including the Gregorian calendar introduced in AD contains modifications from that of the Julian calendar
+In the list below specific calendars are given listed by calendar type solar lunisolar or lunar time of introduction if known and the context of use and cultural or historical grouping if applicable Where appropriate the regional or historical group Hijri calendar Mayan Aztecan Egyptian Mesopotamian Iranian Hindu Buddhist Pre Columbian Mesoamerican Hellenic Julian or Gregorian derived is noted
+Calendars fall into four types lunisolar solar lunar and seasonal Most pre modern calendars are lunisolar The seasonal calendars rely on changes in the environment e g wet season dry season rather than lunar or solar observations The Islamic and some Buddhist calendars are lunar while most modern calendars are solar based on either the Julian or the Gregorian calendars
+Some calendars listed are identical to the Gregorian calendar except for substituting regional month names or using a different calendar epoch For example the Thai solar calendar introduced is the Gregorian calendar using a different epoch BC and different names for the Gregorian months Thai names based on the signs of the zodiac
+Regional or historical names for lunations or Julian Gregorian months
+Coordinated Universal Time adopted and since including a system of observation based leap seconds
+ISO standard based on the Gregorian calendar Coordinated Universal Time and ISO week date a leap week calendar system used with the Gregorian calendar
+Fiscal year varies with different countries Used in accounting only
+day calendar used for accounting
+day calendar used for accounting
+Unix time number of seconds elapsed since January UTC
+Julian day number of days elapsed since January BC UTC
+Heliocentric Julian Date Julian day corrected for differences in the Earth's position with respect to the Sun
+Barycentric Julian Date Julian day corrected for differences in the Earth's position with respect to the barycentre of the Solar System
+Lilian date number of days elapsed since the beginning of the Gregorian Calendar on October
+Rata Die number of days elapsed since January AD in the proleptic Gregorian calendar Darian calendar proposed for Mars not used in planetary science
+Stardates from Star Trek fictional History of calendars
+World calendarBrian Williams Calendars Cherrytree Books
+Sacha Stern Calendars in Antiquity Empires States and Societies OUP Oxford
+William Matthew O'Neil Time and the Calendars Manchester University Press
+Anthony F Aveni Empires of Time Calendars Clocks and Cultures Tauris Parke Paperbacks

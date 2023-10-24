@@ -1,1117 +1,146 @@
-In mathematics, a spiral is a curve which emanates from a point, moving farther away as it revolves around the point.
-Two major definitions of "spiral" in the American Heritage Dictionary are:
-a curve on a plane that winds around a fixed center point at a continuously increasing or decreasing distance from the point.
-a three-dimensional curve that turns around an axis at a constant or continuously varying distance while moving parallel to the axis; a helix.The first definition describes a planar curve, that extends in both of the perpendicular directions within its plane; the groove on one side of a record closely approximates a plane spiral (and it is by the finite width and depth of the groove, but not by the wider spacing between than within tracks, that it falls short of being a perfect example); note that successive loops differ in diameter
-In another example, the "center lines" of the arms of a spiral galaxy trace logarithmic spirals.
-The second definition includes two kinds of 3-dimensional relatives of spirals:
-a conical or volute spring (including the spring used to hold and make contact with the negative terminals of AA or AAA batteries in a battery box), and the vortex that is created when water is draining in a sink is often described as a spiral, or as a conical helix.
-quite explicitly, definition 2 also includes a cylindrical coil spring and a strand of DNA, both of which are quite helical, so that "helix" is a more useful description than "spiral" for each of them; in general, "spiral" is seldom applied if successive "loops" of a curve have the same diameter.In the side picture, the black curve at the bottom is an Archimedean spiral, while the green curve is a helix
-The curve shown in red is a conic helix.
-A two-dimensional, or plane, spiral may be described most easily using polar coordinates, where the radius
-r
-{\displaystyle r}
+In mathematics a spiral is a curve which emanates from a point moving farther away as it revolves around the point
+Two major definitions of spiral in the American Heritage Dictionary are
+a curve on a plane that winds around a fixed center point at a continuously increasing or decreasing distance from the point
+a three dimensional curve that turns around an axis at a constant or continuously varying distance while moving parallel to the axis a helix The first definition describes a planar curve that extends in both of the perpendicular directions within its plane the groove on one side of a record closely approximates a plane spiral and it is by the finite width and depth of the groove but not by the wider spacing between than within tracks that it falls short of being a perfect example note that successive loops differ in diameter In another example the center lines of the arms of a spiral galaxy trace logarithmic spirals
+The second definition includes two kinds of dimensional relatives of spirals
+a conical or volute spring including the spring used to hold and make contact with the negative terminals of AA or AAA batteries in a battery box and the vortex that is created when water is draining in a sink is often described as a spiral or as a conical helix
+quite explicitly definition also includes a cylindrical coil spring and a strand of DNA both of which are quite helical so that helix is a more useful description than spiral for each of them in general spiral is seldom applied if successive loops of a curve have the same diameter In the side picture the black curve at the bottom is an Archimedean spiral while the green curve is a helix The curve shown in red is a conic helix
+A two dimensional or plane spiral may be described most easily using polar coordinates where the radius
 is a monotonic continuous function of angle
-φ
-{\displaystyle \varphi }
-:
-r
-=
-r
-(
-φ
-)
-.
-{\displaystyle r=r(\varphi )\;.}
-The circle would be regarded as a degenerate case (the function not being strictly monotonic, but rather constant).
-In
-x
-{\displaystyle x}
--
-y
-{\displaystyle y}
--coordinates the curve has the parametric representation:
-x
-=
-r
-(
-φ
-)
-cos
-⁡
-φ
-,
-y
-=
-r
-(
-φ
-)
-sin
-⁡
-φ
-.
-{\displaystyle x=r(\varphi )\cos \varphi \ ,\qquad y=r(\varphi )\sin \varphi \;.}
-Some of the most important sorts of two-dimensional spirals include:
-The Archimedean spiral:
-r
-=
-a
-φ
-{\displaystyle r=a\varphi }
-The hyperbolic spiral:
-r
-=
-a
-/
-φ
-{\displaystyle r=a/\varphi }
-Fermat's spiral:
-r
-=
-a
-φ
-1
-/
-2
-{\displaystyle r=a\varphi ^{1/2}}
-The lituus:
-r
-=
-a
-φ
-−
-1
-/
-2
-{\displaystyle r=a\varphi ^{-1/2}}
-The logarithmic spiral:
-r
-=
-a
-e
-k
-φ
-{\displaystyle r=ae^{k\varphi }}
+The circle would be regarded as a degenerate case the function not being strictly monotonic but rather constant
+coordinates the curve has the parametric representation
+displaystyle x r varphi cos varphi qquad y r varphi sin varphi
+Some of the most important sorts of two dimensional spirals include
+displaystyle r ae k varphi
 The Cornu spiral or clothoid
 The Fibonacci spiral and golden spiral
-The Spiral of Theodorus: an approximation of the Archimedean spiral composed of contiguous right triangles
-The involute of a circle, used twice on each tooth of almost every modern gearAn Archimedean spiral is, for example, generated while coiling a carpet.
-A hyperbolic spiral appears as image of a helix with a special central projection (see diagram)
-A hyperbolic spiral is some times called reciproke spiral, because it is the image of an Archimedean spiral with a circle-inversion (see below).
+The Spiral of Theodorus an approximation of the Archimedean spiral composed of contiguous right triangles
+The involute of a circle used twice on each tooth of almost every modern gearAn Archimedean spiral is for example generated while coiling a carpet
+A hyperbolic spiral appears as image of a helix with a special central projection see diagram A hyperbolic spiral is some times called reciproke spiral because it is the image of an Archimedean spiral with a circle inversion see below
 The name logarithmic spiral is due to the equation
-φ
-=
-1
-k
-⋅
-ln
-⁡
-r
-a
-{\displaystyle \varphi ={\tfrac {1}{k}}\cdot \ln {\tfrac {r}{a}}}
-Approximations of this are found in nature.
-Spirals which do not fit into this scheme of the first 5 examples:
-A Cornu spiral has two asymptotic points.
-The spiral of Theodorus is a polygon.
-The Fibonacci Spiral consists of a sequence of circle arcs.
-The involute of a circle looks like an Archimedean, but is not: see Involute#Examples.
-The following considerations are dealing with spirals, which can be described by a polar equation
-r
-=
-r
-(
-φ
-)
-{\displaystyle r=r(\varphi )}
-, especially for the cases
-r
-(
-φ
-)
-=
-a
-φ
-n
-{\displaystyle r(\varphi )=a\varphi ^{n}}
-(Archimedean, hyperbolic, Fermat's, lituus spirals) and the logarithmic spiral
-r
-=
-a
-e
-k
-φ
-{\displaystyle r=ae^{k\varphi }}
-.
-Polar slope angleThe angle
-α
-{\displaystyle \alpha }
-between the spiral tangent and the corresponding polar circle (see diagram) is called angle of the polar slope and
-tan
-⁡
-α
-{\displaystyle \tan \alpha }
-the polar slope.
+displaystyle varphi tfrac k cdot ln tfrac r a
+Approximations of this are found in nature
+Spirals which do not fit into this scheme of the first examples
+A Cornu spiral has two asymptotic points
+The spiral of Theodorus is a polygon
+The Fibonacci Spiral consists of a sequence of circle arcs
+The involute of a circle looks like an Archimedean but is not see Involute Examples
+The following considerations are dealing with spirals which can be described by a polar equation
+displaystyle r varphi a varphi n
+Archimedean hyperbolic Fermat's lituus spirals and the logarithmic spiral
+displaystyle r ae k varphi
+between the spiral tangent and the corresponding polar circle see diagram is called angle of the polar slope and
 From vector calculus in polar coordinates one gets the formula
-tan
-⁡
-α
-=
-r
-′
-r
-.
-{\displaystyle \tan \alpha ={\frac {r'}{r}}\ .}
+displaystyle tan alpha frac r' r
 Hence the slope of the spiral
-r
-=
-a
-φ
-n
-{\displaystyle \;r=a\varphi ^{n}\;}
-is
-tan
-⁡
-α
-=
-n
-φ
-.
-{\displaystyle \tan \alpha ={\frac {n}{\varphi }}\ .}
-In case of an Archimedean spiral (
-n
-=
-1
-{\displaystyle n=1}
-) the polar slope is
-tan
-⁡
-α
-=
-1
-φ
-.
-{\displaystyle \;\tan \alpha ={\tfrac {1}{\varphi }}\ .}
-The logarithmic spiral is a special case, because of
-tan
-⁡
-α
-=
-k
-{\displaystyle \ \tan \alpha =k\ }
-constant !
-curvatureThe curvature
-κ
-{\displaystyle \kappa }
+displaystyle r a varphi n
+displaystyle tan alpha frac n varphi
+In case of an Archimedean spiral
+displaystyle tan alpha tfrac varphi
+The logarithmic spiral is a special case because of
 of a curve with polar equation
-r
-=
-r
-(
-φ
-)
-{\displaystyle r=r(\varphi )}
-is
-κ
-=
-r
-2
-+
-2
-(
-r
-′
-)
-2
-−
-r
-r
-″
-(
-r
-2
-+
-(
-r
-′
-)
-2
-)
-3
-/
-2
-.
-{\displaystyle \kappa ={\frac {r^{2}+2(r')^{2}-r\;r''}{(r^{2}+(r')^{2})^{3/2}}}\ .}
-For a spiral with
-r
-=
-a
-φ
-n
-{\displaystyle r=a\varphi ^{n}}
-one gets
-κ
-=
-⋯
-=
-1
-a
-φ
-n
-−
-1
-φ
-2
-+
-n
-2
-+
-n
-(
-φ
-2
-+
-n
-2
-)
-3
-/
-2
-.
-{\displaystyle \kappa =\dotsb ={\frac {1}{a\varphi ^{n-1}}}{\frac {\varphi ^{2}+n^{2}+n}{(\varphi ^{2}+n^{2})^{3/2}}}\ .}
-In case of
-n
-=
-1
-{\displaystyle n=1}
-(Archimedean spiral)
-κ
-=
-φ
-2
-+
-2
-a
-(
-φ
-2
-+
-1
-)
-3
-/
-2
-{\displaystyle \kappa ={\tfrac {\varphi ^{2}+2}{a(\varphi ^{2}+1)^{3/2}}}}
-.
-Only for
-−
-1
-<
-n
-<
-0
-{\displaystyle -1<n<0}
-the spiral has an inflection point.
+displaystyle kappa frac r r' r r'' r r'
+displaystyle r a varphi n
+displaystyle kappa dotsb frac a varphi n frac varphi n n varphi n
+displaystyle kappa tfrac varphi a varphi
+the spiral has an inflection point
 The curvature of a logarithmic spiral
-r
-=
-a
-e
-k
-φ
-{\displaystyle \;r=ae^{k\varphi }\;}
-is
-κ
-=
-1
-r
-1
-+
-k
-2
-.
-{\displaystyle \;\kappa ={\tfrac {1}{r{\sqrt {1+k^{2}}}}}\;.}
-Sector areaThe area of a sector of a curve (see diagram) with polar equation
-r
-=
-r
-(
-φ
-)
-{\displaystyle r=r(\varphi )}
-is
-A
-=
-1
-2
-∫
-φ
-1
-φ
-2
-r
-(
-φ
-)
-2
-d
-φ
-.
-{\displaystyle A={\frac {1}{2}}\int _{\varphi _{1}}^{\varphi _{2}}r(\varphi )^{2}\;d\varphi \ .}
+displaystyle r ae k varphi
+displaystyle kappa tfrac r sqrt k
+Sector areaThe area of a sector of a curve see diagram with polar equation
+displaystyle A frac int varphi varphi r varphi d varphi
 For a spiral with equation
-r
-=
-a
-φ
-n
-{\displaystyle r=a\varphi ^{n}\;}
-one gets
-A
-=
-1
-2
-∫
-φ
-1
-φ
-2
-a
-2
-φ
-2
-n
-d
-φ
-=
-a
-2
-2
-(
-2
-n
-+
-1
-)
-(
-φ
-2
-2
-n
-+
-1
-−
-φ
-1
-2
-n
-+
-1
-)
-,
-if
-n
-≠
-−
-1
-2
-,
-{\displaystyle A={\frac {1}{2}}\int _{\varphi _{1}}^{\varphi _{2}}a^{2}\varphi ^{2n}\;d\varphi ={\frac {a^{2}}{2(2n+1)}}{\big (}\varphi _{2}^{2n+1}-\varphi _{1}^{2n+1}{\big )}\ ,\quad {\text{if}}\quad n\neq -{\frac {1}{2}},}
-A
-=
-1
-2
-∫
-φ
-1
-φ
-2
-a
-2
-φ
-d
-φ
-=
-a
-2
-2
-(
-ln
-⁡
-φ
-2
-−
-ln
-⁡
-φ
-1
-)
-,
-if
-n
-=
-−
-1
-2
-.
-{\displaystyle A={\frac {1}{2}}\int _{\varphi _{1}}^{\varphi _{2}}{\frac {a^{2}}{\varphi }}\;d\varphi ={\frac {a^{2}}{2}}(\ln \varphi _{2}-\ln \varphi _{1})\ ,\quad {\text{if}}\quad n=-{\frac {1}{2}}\ .}
+displaystyle r a varphi n
+displaystyle A frac int varphi varphi a varphi n d varphi frac a n big varphi n varphi n big quad text if quad n neq frac
+displaystyle A frac int varphi varphi frac a varphi d varphi frac a ln varphi ln varphi quad text if quad n frac
 The formula for a logarithmic spiral
-r
-=
-a
-e
-k
-φ
-{\displaystyle \;r=ae^{k\varphi }\;}
-is
-A
-=
-r
-(
-φ
-2
-)
-2
-−
-r
-(
-φ
-1
-)
-2
-)
-4
-k
-.
-{\displaystyle \ A={\tfrac {r(\varphi _{2})^{2}-r(\varphi _{1})^{2})}{4k}}\ .}
+displaystyle r ae k varphi
+displaystyle A tfrac r varphi r varphi k
 Arc lengthThe length of an arc of a curve with polar equation
-r
-=
-r
-(
-φ
-)
-{\displaystyle r=r(\varphi )}
-is
-L
-=
-∫
-φ
-1
-φ
-2
-(
-r
-′
-(
-φ
-)
-)
-2
-+
-r
-2
-(
-φ
-)
-d
-φ
-.
-{\displaystyle L=\int \limits _{\varphi _{1}}^{\varphi _{2}}{\sqrt {\left(r^{\prime }(\varphi )\right)^{2}+r^{2}(\varphi )}}\,\mathrm {d} \varphi \ .}
-For the spiral
-r
-=
-a
-φ
-n
-{\displaystyle r=a\varphi ^{n}\;}
-the length is
-L
-=
-∫
-φ
-1
-φ
-2
-n
-2
-r
-2
-φ
-2
-+
-r
-2
-d
-φ
-=
-a
-∫
-φ
-1
-φ
-2
-φ
-n
-−
-1
-n
-2
-+
-φ
-2
-d
-φ
-.
-{\displaystyle L=\int _{\varphi _{1}}^{\varphi _{2}}{\sqrt {{\frac {n^{2}r^{2}}{\varphi ^{2}}}+r^{2}}}\;d\varphi =a\int \limits _{\varphi _{1}}^{\varphi _{2}}\varphi ^{n-1}{\sqrt {n^{2}+\varphi ^{2}}}d\varphi \ .}
-Not all these integrals can be solved by a suitable table
-In case of a Fermat's spiral the integral can be expressed by elliptic integrals only.
+displaystyle L int limits varphi varphi sqrt left r prime varphi right r varphi mathrm d varphi
+displaystyle r a varphi n
+displaystyle L int varphi varphi sqrt frac n r varphi r d varphi a int limits varphi varphi varphi n sqrt n varphi d varphi
+Not all these integrals can be solved by a suitable table In case of a Fermat's spiral the integral can be expressed by elliptic integrals only
 The arc length of a logarithmic spiral
-r
-=
-a
-e
-k
-φ
-{\displaystyle \;r=ae^{k\varphi }\;}
-is
-L
-=
-k
-2
-+
-1
-k
-(
-r
-(
-φ
-2
-)
-−
-r
-(
-φ
-1
-)
-)
-.
-{\displaystyle \ L={\tfrac {\sqrt {k^{2}+1}}{k}}{\big (}r(\varphi _{2})-r(\varphi _{1}){\big )}\ .}
-Circle inversionThe inversion at the unit circle has in polar coordinates the simple description:
-(
-r
-,
-φ
-)
-↦
-(
-1
-r
-,
-φ
-)
-{\displaystyle \ (r,\varphi )\mapsto ({\tfrac {1}{r}},\varphi )\ }
-.
+displaystyle r ae k varphi
+displaystyle L tfrac sqrt k k big r varphi r varphi big
+Circle inversionThe inversion at the unit circle has in polar coordinates the simple description
+displaystyle r varphi mapsto tfrac r varphi
 The image of a spiral
-r
-=
-a
-φ
-n
-{\displaystyle \ r=a\varphi ^{n}\ }
+displaystyle r a varphi n
 under the inversion at the unit circle is the spiral with polar equation
-r
-=
-1
-a
-φ
-−
-n
-{\displaystyle \ r={\tfrac {1}{a}}\varphi ^{-n}\ }
-For example: The inverse of an Archimedean spiral is a hyperbolic spiral.A logarithmic spiral
-r
-=
-a
-e
-k
-φ
-{\displaystyle \;r=ae^{k\varphi }\;}
+displaystyle r tfrac a varphi n
+For example The inverse of an Archimedean spiral is a hyperbolic spiral A logarithmic spiral
+displaystyle r ae k varphi
 is mapped onto the logarithmic spiral
-r
-=
-1
-a
-e
-−
-k
-φ
-.
-{\displaystyle \;r={\tfrac {1}{a}}e^{-k\varphi }\;.}
-The function
-r
-(
-φ
-)
-{\displaystyle r(\varphi )}
-of a spiral is usually strictly monotonic, continuous
-and unbounded
-For the standard spirals
-r
-(
-φ
-)
-{\displaystyle r(\varphi )}
-is either a power function or an exponential function
-If one chooses for
-r
-(
-φ
-)
-{\displaystyle r(\varphi )}
-a bounded function the spiral is bounded, too
-A suitable bounded function is the arctan function:
-Example 1Setting
-r
-=
-a
-arctan
-⁡
-(
-k
-φ
-)
-{\displaystyle \;r=a\arctan(k\varphi )\;}
-and the choice
-k
-=
-0.1
-,
-a
-=
-4
-,
-φ
-≥
-0
-{\displaystyle \;k=0.1,a=4,\;\varphi \geq 0\;}
-gives a spiral, that starts at the origin (like an Archimedean spiral) and approaches the circle with radius
-r
-=
-a
-π
-/
-2
-{\displaystyle \;r=a\pi /2\;}
-(diagram, left).
-Example 2For
-r
-=
-a
-(
-arctan
-⁡
-(
-k
-φ
-)
-+
-π
-/
-2
-)
-{\displaystyle \;r=a(\arctan(k\varphi )+\pi /2)\;}
-and
-k
-=
-0.2
-,
-a
-=
-2
-,
-−
-∞
-<
-φ
-<
-∞
-{\displaystyle \;k=0.2,a=2,\;-\infty <\varphi <\infty \;}
-one gets a spiral, that approaches the origin (like a hyperbolic spiral) and approaches the circle with radius
-r
-=
-a
-π
-{\displaystyle \;r=a\pi \;}
-(diagram, right).
-Two well-known spiral space curves are conic spirals and spherical spirals, defined below.
-Another instance of space spirals is the toroidal spiral.
-A "a spiral wound around a helix", also known as double-twisted helix, represents objects such as coiled coil filaments or the Slinky spring toy.
-If in the
-x
-{\displaystyle x}
--
-y
-{\displaystyle y}
--plane a spiral with parametric representation
-x
-=
-r
-(
-φ
-)
-cos
-⁡
-φ
-,
-y
-=
-r
-(
-φ
-)
-sin
-⁡
-φ
-{\displaystyle x=r(\varphi )\cos \varphi \ ,\qquad y=r(\varphi )\sin \varphi }
-is given, then there can be added a third coordinate
-z
-(
-φ
-)
-{\displaystyle z(\varphi )}
-, such that the now space curve lies on the cone with equation
-m
-(
-x
-2
-+
-y
-2
-)
-=
-(
-z
-−
-z
-0
-)
-2
-,
-m
->
-0
-{\displaystyle \;m(x^{2}+y^{2})=(z-z_{0})^{2}\ ,\ m>0\;}
-:
-x
-=
-r
-(
-φ
-)
-cos
-⁡
-φ
-,
-y
-=
-r
-(
-φ
-)
-sin
-⁡
-φ
-,
-z
-=
-z
-0
-+
-m
-r
-(
-φ
-)
-.
-{\displaystyle x=r(\varphi )\cos \varphi \ ,\qquad y=r(\varphi )\sin \varphi \ ,\qquad \color {red}{z=z_{0}+mr(\varphi )}\ .}
-Spirals based on this procedure are called conical spirals.
+displaystyle r tfrac a e k varphi
+of a spiral is usually strictly monotonic continuous
+and unbounded For the standard spirals
+is either a power function or an exponential function If one chooses for
+a bounded function the spiral is bounded too A suitable bounded function is the arctan function
+displaystyle r a arctan k varphi
+displaystyle k a varphi geq
+gives a spiral that starts at the origin like an Archimedean spiral and approaches the circle with radius
+displaystyle r a arctan k varphi pi
+displaystyle k a infty varphi infty
+one gets a spiral that approaches the origin like a hyperbolic spiral and approaches the circle with radius
+Two well known spiral space curves are conic spirals and spherical spirals defined below
+Another instance of space spirals is the toroidal spiral
+A a spiral wound around a helix also known as double twisted helix represents objects such as coiled coil filaments or the Slinky spring toy
+plane a spiral with parametric representation
+displaystyle x r varphi cos varphi qquad y r varphi sin varphi
+is given then there can be added a third coordinate
+such that the now space curve lies on the cone with equation
+displaystyle m x y z z m
+displaystyle x r varphi cos varphi qquad y r varphi sin varphi qquad color red z z mr varphi
+Spirals based on this procedure are called conical spirals
 ExampleStarting with an archimedean spiral
-r
-(
-φ
-)
-=
-a
-φ
-{\displaystyle \;r(\varphi )=a\varphi \;}
-one gets the conical spiral (see diagram)
-x
-=
-a
-φ
-cos
-⁡
-φ
-,
-y
-=
-a
-φ
-sin
-⁡
-φ
-,
-z
-=
-z
-0
-+
-m
-a
-φ
-,
-φ
-≥
-0
-.
-{\displaystyle x=a\varphi \cos \varphi \ ,\qquad y=a\varphi \sin \varphi \ ,\qquad z=z_{0}+ma\varphi \ ,\quad \varphi \geq 0\ .}
+displaystyle r varphi a varphi
+one gets the conical spiral see diagram
+displaystyle x a varphi cos varphi qquad y a varphi sin varphi qquad z z ma varphi quad varphi geq
 If one represents a sphere of radius
-r
-{\displaystyle r}
-by:
-x
-=
-r
-⋅
-sin
-⁡
-θ
-⋅
-cos
-⁡
-φ
-y
-=
-r
-⋅
-sin
-⁡
-θ
-⋅
-sin
-⁡
-φ
-z
-=
-r
-⋅
-cos
-⁡
-θ
-{\displaystyle {\begin{array}{cll}x&=&r\cdot \sin \theta \cdot \cos \varphi \\y&=&r\cdot \sin \theta \cdot \sin \varphi \\z&=&r\cdot \cos \theta \end{array}}}
+displaystyle begin array cll x r cdot sin theta cdot cos varphi y r cdot sin theta cdot sin varphi z r cdot cos theta end array
 and sets the linear dependency
-φ
-=
-c
-θ
-,
-c
->
-2
-,
-{\displaystyle \;\varphi =c\theta ,\;c>2\;,}
-for the angle coordinates, one gets a spherical curve called spherical spiral with the parametric representation (with
-c
-{\displaystyle c}
-equal to twice the number of turns)
-x
-=
-r
-⋅
-sin
-⁡
-θ
-⋅
-cos
-⁡
-c
-θ
-y
-=
-r
-⋅
-sin
-⁡
-θ
-⋅
-sin
-⁡
-c
-θ
-z
-=
-r
-⋅
-cos
-⁡
-θ
-0
-≤
-θ
-≤
-π
-.
-{\displaystyle {\begin{array}{cll}x&=&r\cdot \sin \theta \cdot \cos {\color {red}c\theta }\\y&=&r\cdot \sin \theta \cdot \sin {\color {red}c\theta }\\z&=&r\cdot \cos \theta \qquad \qquad 0\leq \theta \leq \pi \ .\end{array}}}
-Spherical spirals were known to Pappus, too.
-Remark: a rhumb line is not a spherical spiral in this sense.
-A rhumb line (also known as a loxodrome or "spherical spiral") is the curve on a sphere traced by a ship with constant bearing (e.g., travelling from one pole to the other while keeping a fixed angle with respect to the meridians)
-The loxodrome has an infinite number of revolutions, with the separation between them decreasing as the curve approaches either of the poles, unlike an Archimedean spiral which maintains uniform line-spacing regardless of radius.
-The study of spirals in nature has a long history
-Christopher Wren observed that many shells form a logarithmic spiral; Jan Swammerdam observed the common mathematical characteristics of a wide range of shells from Helix to Spirula; and Henry Nottidge Moseley described the mathematics of univalve shells
-D’Arcy Wentworth Thompson's On Growth and Form gives extensive treatment to these spirals
-He describes how shells are formed by rotating a closed curve around a fixed axis: the shape of the curve remains fixed but its size grows in a geometric progression
-In some shells, such as Nautilus and ammonites, the generating curve revolves in a plane perpendicular to the axis and the shell will form a planar discoid shape
-In others it follows a skew path forming a helico-spiral pattern
-Thompson also studied spirals occurring in horns, teeth, claws and plants.
-A model for the pattern of florets in the head of a sunflower was proposed by H
-Vogel
-This has the form
-θ
-=
-n
-×
-137.5
-∘
-,
-r
-=
-c
-n
-{\displaystyle \theta =n\times 137.5^{\circ },\ r=c{\sqrt {n}}}
-where n is the index number of the floret and c is a constant scaling factor, and is a form of Fermat's spiral
-The angle 137.5° is the golden angle which is related to the golden ratio and gives a close packing of florets.
-Spirals in plants and animals are frequently described as whorls
-This is also the name given to spiral shaped fingerprints.
-A spiral like form has been found in Mezine, Ukraine, as part of a decorative object dated to 10,000 BCE.
-The spiral and triple spiral motif is a Neolithic symbol in Europe (Megalithic Temples of Malta)
-The Celtic symbol the triple spiral is in fact a pre-Celtic symbol
-It is carved into the rock of a stone lozenge near the main entrance of the prehistoric Newgrange monument in County Meath, Ireland
-Newgrange was built around 3200 BCE predating the Celts and the triple spirals were carved at least 2,500 years before the Celts reached Ireland but has long since been incorporated into Celtic culture
-The triskelion symbol, consisting of three interlocked spirals or three bent human legs, appears in many early cultures, including Mycenaean vessels, on coinage in Lycia, on staters of Pamphylia (at Aspendos, 370–333 BC) and Pisidia, as well as on the heraldic emblem on warriors' shields depicted on Greek pottery.
-Spirals can be found throughout pre-Columbian art in Latin and Central America
-The more than 1,400 petroglyphs (rock engravings) in Las Plazuelas, Guanajuato Mexico, dating 750-1200 AD, predominantly depict spirals, dot figures and scale models
-In Colombia monkeys, frog and lizard like figures depicted in petroglyphs or as gold offering figures frequently includes spirals, for example on the palms of hands
-In Lower Central America spirals along with circles, wavy lines, crosses and points are universal petroglyphs characters
-Spirals can also be found among the Nazca Lines in the coastal desert of Peru, dating from 200 BC to 500 AD
-The geoglyphs number in the thousands and depict animals, plants and geometric motifs, including spirals.
-Spiral shapes, including the swastika, triskele, etc., have often been interpreted as solar symbols.
-Roof tiles dating back to the Tang Dynasty with this symbol have been found west of the ancient city of Chang'an (modern-day Xi'an).
-Spirals are also a symbol of hypnosis, stemming from the cliché of people and cartoon characters being hypnotized by staring into a spinning spiral (one example being Kaa in Disney's The Jungle Book)
-They are also used as a symbol of dizziness, where the eyes of a cartoon character, especially in anime and manga, will turn into spirals to show they are dizzy or dazed
-The spiral is also found in structures as small as the double helix of DNA and as large as a galaxy
-Because of this frequent natural occurrence, the spiral is the official symbol of the World Pantheist Movement.
-The spiral is also a symbol of the dialectic process and Dialectical monism.
-The spiral has inspired artists throughout the ages
-Among the most famous of spiral-inspired art is Robert Smithson's earthwork, "Spiral Jetty", at the Great Salt Lake in Utah
-The spiral theme is also present in David Wood's Spiral Resonance Field at the Balloon Museum in Albuquerque, as well as in the critically acclaimed Nine Inch Nails 1994 concept album The Downward Spiral
-The Spiral is also a prominent theme in the anime Gurren Lagann, where it represents a philosophy and way of life
-It also central in Mario Merz and Andy Goldsworthy's work
-The spiral is the central theme of the horror manga Uzumaki by Junji Ito, where a small coastal town is afflicted by a curse involving spirals
-2012 A Piece of Mind By Wayne A Beale also depicts a large spiral in this book of dreams and images
-The coiled spiral is a central image in Australian artist Tanja Stark's Suburban Gothic iconography, that incorporates spiral electric stove top elements as symbols of domestic alchemy and spirituality.
-Celtic maze (straight-line spiral)
-Concentric circles
-DNA
-Fibonacci number
-Hypogeum of Ħal-Saflieni
-Megalithic Temples of Malta
-Patterns in nature
-Seashell surface
-Spirangle
-Spiral vegetable slicer
-Spiral stairs
-TriskelionCook, T., 1903
-Spirals in nature and art
-Nature 68 (1761), 296.
-Cook, T., 1979
-The curves of life
-Dover, New York.
-Habib, Z., Sakai, M., 2005
-Spiral transition curves and their applications
-Scientiae Mathematicae Japonicae 61 (2), 195 – 206.
-Dimulyo, Sarpono; Habib, Zulfiqar; Sakai, Manabu (2009)
-"Fair cubic transition between two circles with one circle inside or tangent to the other"
-Numerical Algorithms
-51 (4): 461–476
-Bibcode:2009NuAlg..51..461D
-doi:10.1007/s11075-008-9252-1
-S2CID 22532724.
-Harary, G., Tal, A., 2011
-The natural 3D spiral
-Computer Graphics Forum 30 (2), 237 – 246 [1].
-Xu, L., Mould, D., 2009
-Magnetic curves: curvature-controlled aesthetic curves using magnetic fields
-In: Deussen, O., Hall, P
-(Eds.), Computational Aesthetics in Graphics, Visualization, and Imaging
-The Eurographics Association [2].
-Wang, Yulin; Zhao, Bingyan; Zhang, Luzou; Xu, Jiachuan; Wang, Kanchang; Wang, Shuchun (2004)
-"Designing fair curves using monotone curvature pieces"
-Computer Aided Geometric Design
-21 (5): 515–527
-doi:10.1016/j.cagd.2004.04.001.
-Kurnosenko, A
-(2010)
-"Applying inversion to construct planar, rational spirals that satisfy two-point G2 Hermite data"
-Computer Aided Geometric Design
-27 (3): 262–280
-arXiv:0902.4834
-doi:10.1016/j.cagd.2009.12.004.
-A
-Kurnosenko
-Two-point G2 Hermite interpolation with spirals by inversion of hyperbola
-Computer Aided Geometric Design, 27(6), 474–481, 2010.
-Miura, K.T., 2006
-A general equation of aesthetic curves and its self-affinity
-Computer-Aided Design and Applications 3 (1–4), 457–464 [3].
-Miura, K., Sone, J., Yamashita, A., Kaneko, T., 2005
-Derivation of a general formula of aesthetic curves
-In: 8th International Conference on Humans and Computers (HC2005)
-Aizu-Wakamutsu, Japan, pp. 166 – 171 [4].
-Meek, D.S.; Walton, D.J
-(1989)
-"The use of Cornu spirals in drawing planar curves of controlled curvature"
-Journal of Computational and Applied Mathematics
-25: 69–78
-doi:10.1016/0377-0427(89)90076-9.
-Thomas, Sunil (2017)
-"Potassium sulfate forms a spiral structure when dissolved in solution"
-Russian Journal of Physical Chemistry B
-11 (1): 195–198
-Bibcode:2017RJPCB..11..195T
-doi:10.1134/S1990793117010328
-S2CID 99162341.
-Farin, Gerald (2006)
-"Class a Bézier curves"
-Computer Aided Geometric Design
-23 (7): 573–581
-doi:10.1016/j.cagd.2006.03.004.
-Farouki, R.T., 1997
-Pythagorean-hodograph quintic transition curves of monotone curvature
-Computer-Aided Design 29 (9), 601–606.
-Yoshida, N., Saito, T., 2006
-Interactive aesthetic curve segments
-The Visual Computer 22 (9), 896–905 [5].
-Yoshida, N., Saito, T., 2007
-Quasi-aesthetic curves in rational cubic Bézier forms
-Computer-Aided Design and Applications 4 (9–10), 477–486 [6].
-Ziatdinov, R., Yoshida, N., Kim, T., 2012
-Analytic parametric equations of log-aesthetic curves in terms of incomplete gamma functions
-Computer Aided Geometric Design 29 (2), 129—140 [7].
-Ziatdinov, R., Yoshida, N., Kim, T., 2012
-Fitting G2 multispiral transition curve joining two straight lines, Computer-Aided Design 44(6), 591—596 [8].
-Ziatdinov, R., 2012
-Family of superspirals with completely monotonic curvature given in terms of Gauss hypergeometric function
-Computer Aided Geometric Design 29(7): 510–518, 2012 [9].
-Ziatdinov, R., Miura K.T., 2012
-On the Variety of Planar Spirals and Their Applications in Computer Aided Design
-European Researcher 27(8-2), 1227—1232 [10].Jamnitzer-Galerie: 3D-Spirals
-Archimedes' spiral transforms into Galileo's spiral
-Mikhail Gaichenkov, OEIS
+displaystyle varphi c theta c
+for the angle coordinates one gets a spherical curve called spherical spiral with the parametric representation with
+equal to twice the number of turns
+displaystyle begin array cll x r cdot sin theta cdot cos color red c theta y r cdot sin theta cdot sin color red c theta z r cdot cos theta qquad qquad leq theta leq pi end array
+Spherical spirals were known to Pappus too
+Remark a rhumb line is not a spherical spiral in this sense
+A rhumb line also known as a loxodrome or spherical spiral is the curve on a sphere traced by a ship with constant bearing e g travelling from one pole to the other while keeping a fixed angle with respect to the meridians The loxodrome has an infinite number of revolutions with the separation between them decreasing as the curve approaches either of the poles unlike an Archimedean spiral which maintains uniform line spacing regardless of radius
+The study of spirals in nature has a long history Christopher Wren observed that many shells form a logarithmic spiral Jan Swammerdam observed the common mathematical characteristics of a wide range of shells from Helix to Spirula and Henry Nottidge Moseley described the mathematics of univalve shells D Arcy Wentworth Thompson's On Growth and Form gives extensive treatment to these spirals He describes how shells are formed by rotating a closed curve around a fixed axis the shape of the curve remains fixed but its size grows in a geometric progression In some shells such as Nautilus and ammonites the generating curve revolves in a plane perpendicular to the axis and the shell will form a planar discoid shape In others it follows a skew path forming a helico spiral pattern Thompson also studied spirals occurring in horns teeth claws and plants
+A model for the pattern of florets in the head of a sunflower was proposed by H Vogel This has the form
+displaystyle theta n times circ r c sqrt n
+where n is the index number of the floret and c is a constant scaling factor and is a form of Fermat's spiral The angle is the golden angle which is related to the golden ratio and gives a close packing of florets
+Spirals in plants and animals are frequently described as whorls This is also the name given to spiral shaped fingerprints
+A spiral like form has been found in Mezine Ukraine as part of a decorative object dated to BCE
+The spiral and triple spiral motif is a Neolithic symbol in Europe Megalithic Temples of Malta The Celtic symbol the triple spiral is in fact a pre Celtic symbol It is carved into the rock of a stone lozenge near the main entrance of the prehistoric Newgrange monument in County Meath Ireland Newgrange was built around BCE predating the Celts and the triple spirals were carved at least years before the Celts reached Ireland but has long since been incorporated into Celtic culture The triskelion symbol consisting of three interlocked spirals or three bent human legs appears in many early cultures including Mycenaean vessels on coinage in Lycia on staters of Pamphylia at Aspendos BC and Pisidia as well as on the heraldic emblem on warriors' shields depicted on Greek pottery
+Spirals can be found throughout pre Columbian art in Latin and Central America The more than petroglyphs rock engravings in Las Plazuelas Guanajuato Mexico dating AD predominantly depict spirals dot figures and scale models In Colombia monkeys frog and lizard like figures depicted in petroglyphs or as gold offering figures frequently includes spirals for example on the palms of hands In Lower Central America spirals along with circles wavy lines crosses and points are universal petroglyphs characters Spirals can also be found among the Nazca Lines in the coastal desert of Peru dating from BC to AD The geoglyphs number in the thousands and depict animals plants and geometric motifs including spirals
+Spiral shapes including the swastika triskele etc have often been interpreted as solar symbols
+Roof tiles dating back to the Tang Dynasty with this symbol have been found west of the ancient city of Chang'an modern day Xi'an
+Spirals are also a symbol of hypnosis stemming from the clich of people and cartoon characters being hypnotized by staring into a spinning spiral one example being Kaa in Disney's The Jungle Book They are also used as a symbol of dizziness where the eyes of a cartoon character especially in anime and manga will turn into spirals to show they are dizzy or dazed The spiral is also found in structures as small as the double helix of DNA and as large as a galaxy Because of this frequent natural occurrence the spiral is the official symbol of the World Pantheist Movement
+The spiral is also a symbol of the dialectic process and Dialectical monism
+The spiral has inspired artists throughout the ages Among the most famous of spiral inspired art is Robert Smithson's earthwork Spiral Jetty at the Great Salt Lake in Utah The spiral theme is also present in David Wood's Spiral Resonance Field at the Balloon Museum in Albuquerque as well as in the critically acclaimed Nine Inch Nails concept album The Downward Spiral The Spiral is also a prominent theme in the anime Gurren Lagann where it represents a philosophy and way of life It also central in Mario Merz and Andy Goldsworthy's work The spiral is the central theme of the horror manga Uzumaki by Junji Ito where a small coastal town is afflicted by a curse involving spirals A Piece of Mind By Wayne A Beale also depicts a large spiral in this book of dreams and images The coiled spiral is a central image in Australian artist Tanja Stark's Suburban Gothic iconography that incorporates spiral electric stove top elements as symbols of domestic alchemy and spirituality
+Celtic maze straight line spiral
+TriskelionCook T Spirals in nature and art Nature
+Cook T The curves of life Dover New York
+Habib Z Sakai M Spiral transition curves and their applications Scientiae Mathematicae Japonicae
+Dimulyo Sarpono Habib Zulfiqar Sakai Manabu Fair cubic transition between two circles with one circle inside or tangent to the other Numerical Algorithms Bibcode NuAlg D doi s S CID
+Harary G Tal A The natural D spiral Computer Graphics Forum
+Xu L Mould D Magnetic curves curvature controlled aesthetic curves using magnetic fields In Deussen O Hall P Eds Computational Aesthetics in Graphics Visualization and Imaging The Eurographics Association
+Wang Yulin Zhao Bingyan Zhang Luzou Xu Jiachuan Wang Kanchang Wang Shuchun Designing fair curves using monotone curvature pieces Computer Aided Geometric Design doi j cagd
+Kurnosenko A Applying inversion to construct planar rational spirals that satisfy two point G Hermite data Computer Aided Geometric Design arXiv doi j cagd
+A Kurnosenko Two point G Hermite interpolation with spirals by inversion of hyperbola Computer Aided Geometric Design
+Miura K T A general equation of aesthetic curves and its self affinity Computer Aided Design and Applications
+Miura K Sone J Yamashita A Kaneko T Derivation of a general formula of aesthetic curves In th International Conference on Humans and Computers HC Aizu Wakamutsu Japan pp
+Meek D S Walton D J The use of Cornu spirals in drawing planar curves of controlled curvature Journal of Computational and Applied Mathematics doi
+Thomas Sunil Potassium sulfate forms a spiral structure when dissolved in solution Russian Journal of Physical Chemistry B Bibcode RJPCB T doi S S CID
+Farin Gerald Class a B zier curves Computer Aided Geometric Design doi j cagd
+Farouki R T Pythagorean hodograph quintic transition curves of monotone curvature Computer Aided Design
+Yoshida N Saito T Interactive aesthetic curve segments The Visual Computer
+Yoshida N Saito T Quasi aesthetic curves in rational cubic B zier forms Computer Aided Design and Applications
+Ziatdinov R Yoshida N Kim T Analytic parametric equations of log aesthetic curves in terms of incomplete gamma functions Computer Aided Geometric Design
+Ziatdinov R Yoshida N Kim T Fitting G multispiral transition curve joining two straight lines Computer Aided Design
+Ziatdinov R Family of superspirals with completely monotonic curvature given in terms of Gauss hypergeometric function Computer Aided Geometric Design
+Ziatdinov R Miura K T On the Variety of Planar Spirals and Their Applications in Computer Aided Design European Researcher Jamnitzer Galerie D Spirals
+Archimedes' spiral transforms into Galileo's spiral Mikhail Gaichenkov OEIS

@@ -1,75 +1,12 @@
-The 1981 Italian Grand Prix was a Formula One motor race held at Monza on 13 September 1981
-It was the thirteenth race of the 1981 Formula One World Championship.
-Formula One returned to Monza after the previous year's Italian Grand Prix had been held at Imola
-The 52-lap race was won by Frenchman Alain Prost, who led every lap in his Renault after starting from third position
-Australian Alan Jones finished second in a Williams-Ford, some 22 seconds behind, with Argentine teammate Carlos Reutemann third.
-Reutemann came into the race tied on points at the top of the Drivers' Championship with Brazilian Nelson Piquet, driving a Brabham-Ford
-Piquet suffered a last-lap engine failure which dropped him from third to sixth, giving Reutemann a three-point lead in the championship with two races remaining.
-Qualifying saw René Arnoux take pole position in his Renault by 0.67 seconds from Carlos Reutemann's Williams
-It was Arnoux's fourth pole position of the season and the sixth in succession for the Renault team
-Alain Prost was third in the other Renault, with Jacques Laffite in the Ligier alongside him on the second row of the grid
-Alan Jones in the other Williams and Nelson Piquet in the Brabham made up the third row, and the top ten was completed by John Watson in the McLaren, Didier Pironi and Gilles Villeneuve in the two Ferraris, and Bruno Giacomelli in the Alfa Romeo.
-For the first time, the Toleman team qualified for a race, with Brian Henton taking 23rd
-Teammate Derek Warwick failed to qualify along with Marc Surer in the Theodore, Beppe Gabbiani in the Osella, Siegfried Stohr in the Arrows, and Keke Rosberg and Chico Serra in the two Fittipaldis
-Stohr crashed heavily during the qualifying session; already haunted by the trauma of nearly killing mechanic Dave Luckett in Belgium earlier in the season, he ultimately decided to stop racing and start a successful motor racing academy.
-On the run-up to the first chicane, Prost passed both Reutemann and teammate Arnoux to take the lead, while Pironi jumped from eighth to fourth
-Reutemann then overtook Arnoux at the Curva Grande, before Pironi overtook both to run second by the end of the lap
-As Prost opened up a lead, Arnoux re-passed Reutemann on lap 2 and Pironi on lap 5
-Laffite, having already passed Reutemann, then overtook Pironi for third on lap 6, as Villeneuve retired with an engine failure.
-On lap 12, Laffite dropped out with a puncture, by which point Pironi had dropped back behind Reutemann and Jones
-As rain started to fall, Jones passed teammate Reutemann for third
-At the end of the lap, Eddie Cheever spun his Tyrrell out at the Parabolica; on the next lap, Arnoux himself spun out after swerving to avoid Cheever's abandoned car, leaving Prost comfortably clear of Jones
-Reutemann, struggling as the track started to dry again, soon fell to eighth behind Giacomelli, Patrick Tambay in the second Ligier (who had only started 15th), Piquet, Pironi and Watson.
-On lap 20, Watson lost control exiting the second Lesmo bend and smashed into the barriers at high speed
-The McLaren was torn in two, with the gearbox and rear wheels going across the track and clipping the second Tyrrell of Michele Alboreto, who also retired
-Watson escaped unharmed.
-On lap 23 Tambay, like teammate Laffite, retired with a puncture, before Giacomelli pulled into the pits with a jammed gearbox on lap 26
-Piquet was thus promoted to third with Pironi fourth and Reutemann fifth, followed by Mario Andretti in the second Alfa Romeo, Elio de Angelis in the Lotus and Andrea de Cesaris in the second McLaren
-Reutemann soon passed Pironi again, before Andretti suffered an engine failure on lap 41.
-As Prost cruised to victory, ultimately finishing some 22 seconds ahead of Jones, Piquet looked set to hold off championship rival Reutemann for third, until his engine blew on the last lap
-Reutemann duly went past, as did de Angelis and Pironi
-Piquet was classified sixth ahead of de Cesaris, who himself suffered a puncture on the last lap
-The only other finishers were Giacomelli, Jean-Pierre Jarier in the second Osella, and Henton.
-Reutemann thus led the Drivers' Championship by three points from Piquet with two races remaining, with Prost, Jones and Laffite all retaining outside chances of the title
-The Williams team, meanwhile, needed just two more points to secure their second consecutive Constructors' Championship.
-Drivers' Championship standings
-Pos
-Driver
-Points
-1
-Carlos Reutemann
-49
-2
-Nelson Piquet
-46
-3
-Alain Prost
-37
-4
-Alan Jones
-37
-5
-Jacques Laffite
-34
-Source:
-Constructors' Championship standings
-Pos
-Constructor
-Points
-1
-Williams-Ford
-86
-2
-Brabham-Ford
-57
-3
-Renault
-48
-4
-Ligier-Matra
-34
-5
-Ferrari
-30
-Source:
-Note: Only the top five positions are included for both sets of standings.
+The Italian Grand Prix was a Formula One motor race held at Monza on September It was the thirteenth race of the Formula One World Championship
+Formula One returned to Monza after the previous year's Italian Grand Prix had been held at Imola The lap race was won by Frenchman Alain Prost who led every lap in his Renault after starting from third position Australian Alan Jones finished second in a Williams Ford some seconds behind with Argentine teammate Carlos Reutemann third
+Reutemann came into the race tied on points at the top of the Drivers' Championship with Brazilian Nelson Piquet driving a Brabham Ford Piquet suffered a last lap engine failure which dropped him from third to sixth giving Reutemann a three point lead in the championship with two races remaining
+Qualifying saw Ren Arnoux take pole position in his Renault by seconds from Carlos Reutemann's Williams It was Arnoux's fourth pole position of the season and the sixth in succession for the Renault team Alain Prost was third in the other Renault with Jacques Laffite in the Ligier alongside him on the second row of the grid Alan Jones in the other Williams and Nelson Piquet in the Brabham made up the third row and the top ten was completed by John Watson in the McLaren Didier Pironi and Gilles Villeneuve in the two Ferraris and Bruno Giacomelli in the Alfa Romeo
+For the first time the Toleman team qualified for a race with Brian Henton taking rd Teammate Derek Warwick failed to qualify along with Marc Surer in the Theodore Beppe Gabbiani in the Osella Siegfried Stohr in the Arrows and Keke Rosberg and Chico Serra in the two Fittipaldis Stohr crashed heavily during the qualifying session already haunted by the trauma of nearly killing mechanic Dave Luckett in Belgium earlier in the season he ultimately decided to stop racing and start a successful motor racing academy
+On the run up to the first chicane Prost passed both Reutemann and teammate Arnoux to take the lead while Pironi jumped from eighth to fourth Reutemann then overtook Arnoux at the Curva Grande before Pironi overtook both to run second by the end of the lap As Prost opened up a lead Arnoux re passed Reutemann on lap and Pironi on lap Laffite having already passed Reutemann then overtook Pironi for third on lap as Villeneuve retired with an engine failure
+On lap Laffite dropped out with a puncture by which point Pironi had dropped back behind Reutemann and Jones As rain started to fall Jones passed teammate Reutemann for third At the end of the lap Eddie Cheever spun his Tyrrell out at the Parabolica on the next lap Arnoux himself spun out after swerving to avoid Cheever's abandoned car leaving Prost comfortably clear of Jones Reutemann struggling as the track started to dry again soon fell to eighth behind Giacomelli Patrick Tambay in the second Ligier who had only started th Piquet Pironi and Watson
+On lap Watson lost control exiting the second Lesmo bend and smashed into the barriers at high speed The McLaren was torn in two with the gearbox and rear wheels going across the track and clipping the second Tyrrell of Michele Alboreto who also retired Watson escaped unharmed
+On lap Tambay like teammate Laffite retired with a puncture before Giacomelli pulled into the pits with a jammed gearbox on lap Piquet was thus promoted to third with Pironi fourth and Reutemann fifth followed by Mario Andretti in the second Alfa Romeo Elio de Angelis in the Lotus and Andrea de Cesaris in the second McLaren Reutemann soon passed Pironi again before Andretti suffered an engine failure on lap
+As Prost cruised to victory ultimately finishing some seconds ahead of Jones Piquet looked set to hold off championship rival Reutemann for third until his engine blew on the last lap Reutemann duly went past as did de Angelis and Pironi Piquet was classified sixth ahead of de Cesaris who himself suffered a puncture on the last lap The only other finishers were Giacomelli Jean Pierre Jarier in the second Osella and Henton
+Reutemann thus led the Drivers' Championship by three points from Piquet with two races remaining with Prost Jones and Laffite all retaining outside chances of the title The Williams team meanwhile needed just two more points to secure their second consecutive Constructors' Championship
+Note Only the top five positions are included for both sets of standings

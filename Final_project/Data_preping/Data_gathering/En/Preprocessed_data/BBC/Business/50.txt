@@ -1,39 +1,14 @@
-Markets
-Fear & Greed Index
-Latest Market News
-Women have made huge strides in business, ascending to the C-suite and the boardroom in record numbers.
-But they are still very far from achieving parity with men in securing top corporate jobs in the United States.
-Women make up half the US population
-But they only account for 10.6% of Fortune 500 chief executives, 30.4% of US board members and 32.8% of college and university presidents, according to the Pew Research Center.
-Pew decided to ask Americans why they think that is and whether they expect more women to occupy top business roles anytime soon
-So they surveyed a nationally representative sampling of US adults.
-In response to the question, “Why aren’t there more women in top executive business positions?” respondents identified several “major” reasons.
-Top among them:
-When asked whether there will ever be as many women as men in top executive positions in the business world, 50% said men will continue to outnumber women
-Another 48% said it’s “only a matter of time” before there are as many women as men occupying the top roles.
-Pew compared responses from men and women, and from respondents identifying as Democrats or Republicans.
-Most women (65%) and most Democrats, regardless of gender, (76%) said there are too few women in business leadership
-Among all those who said this, a large majority (79%) said ideally there should be the same number of women and men in these roles
-Another 10% said more women than men would be ideal, and another 10% said it would be ideal to have more women but still not as many women as men.
-Between the major political parties, Democrats were more likely than Republicans to see multiple factors as major obstacles for women seeking top leadership positions in business.
-But gender overrode political affiliation when it came to citing views on why more women aren’t at the top in the business world.
-“Republican and Democratic women are more likely than their male counterparts to say there are too few women in top business leadership positions and to point to certain factors as major obstacles for women,” Pew said.
-(Here is a look at all the survey questions and responses.)
-Most stock quote data provided by BATS
-US market indices are shown in real time, except for the S&P 500 which is refreshed every two minutes
-All times are ET
-Factset: FactSet Research Systems Inc
-All rights reserved
-Chicago Mercantile: Certain market data is the property of Chicago Mercantile Exchange Inc
-and its licensors
-All rights reserved
-Dow Jones: The Dow Jones branded indices are proprietary to and are calculated, distributed and marketed by DJI Opco, a subsidiary of S&P Dow Jones Indices LLC and have been licensed for use to S&P Opco, LLC and CNN
-Standard & Poor’s and S&P are registered trademarks of Standard & Poor’s Financial Services LLC and Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC
-All content of the Dow Jones branded indices Copyright S&P Dow Jones Indices LLC and/or its affiliates
-Fair value provided by IndexArb.com
-Market holidays and trading hours provided by Copp Clark Limited.
-© 2023 Cable News Network
-A Warner Bros
-Discovery Company
-All Rights Reserved
- CNN Sans ™ & © 2016 Cable News Network.
+Women have made huge strides in business ascending to the C suite and the boardroom in record numbers
+But they are still very far from achieving parity with men in securing top corporate jobs in the United States
+Women make up half the US population But they only account for of Fortune chief executives of US board members and of college and university presidents according to the Pew Research Center
+Pew decided to ask Americans why they think that is and whether they expect more women to occupy top business roles anytime soon So they surveyed a nationally representative sampling of US adults
+In response to the question Why aren t there more women in top executive business positions respondents identified several major reasons
+When asked whether there will ever be as many women as men in top executive positions in the business world said men will continue to outnumber women Another said it s only a matter of time before there are as many women as men occupying the top roles
+Pew compared responses from men and women and from respondents identifying as Democrats or Republicans
+Most women and most Democrats regardless of gender said there are too few women in business leadership Among all those who said this a large majority said ideally there should be the same number of women and men in these roles Another said more women than men would be ideal and another said it would be ideal to have more women but still not as many women as men
+Between the major political parties Democrats were more likely than Republicans to see multiple factors as major obstacles for women seeking top leadership positions in business
+But gender overrode political affiliation when it came to citing views on why more women aren t at the top in the business world
+Republican and Democratic women are more likely than their male counterparts to say there are too few women in top business leadership positions and to point to certain factors as major obstacles for women Pew said
+Here is a look at all the survey questions and responses
+Most stock quote data provided by BATS US market indices are shown in real time except for the S P which is refreshed every two minutes All times are ET Factset FactSet Research Systems Inc All rights reserved Chicago Mercantile Certain market data is the property of Chicago Mercantile Exchange Inc and its licensors All rights reserved Dow Jones The Dow Jones branded indices are proprietary to and are calculated distributed and marketed by DJI Opco a subsidiary of S P Dow Jones Indices LLC and have been licensed for use to S P Opco LLC and CNN Standard Poor s and S P are registered trademarks of Standard Poor s Financial Services LLC and Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC All content of the Dow Jones branded indices Copyright S P Dow Jones Indices LLC and or its affiliates Fair value provided by IndexArb com Market holidays and trading hours provided by Copp Clark Limited
+Cable News Network A Warner Bros Discovery Company All Rights Reserved CNN Sans Cable News Network

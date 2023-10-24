@@ -1,14 +1,6 @@
-Google Schemer was a Google service for sharing and discovering things to do
-Users could list things they want to do, share it with other people and mark it as done once they have already accomplished it.
-Schemer was forecast as likely to be integrated with Google+ and consumers needed to join Google+ to be able to use it
-It was intended to help to find people with same interests, share their goals and have conversations with them
-Users were planned to be able to add tags and locations as well
-The site's partners included Food Network, Zagat, Bravo, IGN, Entertainment Weekly, National Geographic Society, and Thrillist.
-Once inside the site, users could add "schemes" that they would like to implement, anything from "exploring a new city, checking out a friend’s movie recommendation, or just finding new activities for your weekends." Also, tags and locations could be added, making it easy for fellow schemers to join you
-The site also recorded the schemes that you'd successfully carried out as a list of accomplishments
-According to the site, the more you used Schemer, the better it got at recommending activities for you, based on your track record.
-Schemer had a few antecedents like Facebook Events, Foursquare, 43 Things etc
-with a similar concept of location-based activity sharing.
-On 10 January 2014, Google announced that Schemer was closing down, with all data scheduled to be deleted on 7 February 2014.
-Google Schemer
-Schemer - The beginning of everything worth doing!
+Google Schemer was a Google service for sharing and discovering things to do Users could list things they want to do share it with other people and mark it as done once they have already accomplished it
+Schemer was forecast as likely to be integrated with Google and consumers needed to join Google to be able to use it It was intended to help to find people with same interests share their goals and have conversations with them Users were planned to be able to add tags and locations as well The site's partners included Food Network Zagat Bravo IGN Entertainment Weekly National Geographic Society and Thrillist
+Once inside the site users could add schemes that they would like to implement anything from exploring a new city checking out a friend s movie recommendation or just finding new activities for your weekends Also tags and locations could be added making it easy for fellow schemers to join you The site also recorded the schemes that you'd successfully carried out as a list of accomplishments According to the site the more you used Schemer the better it got at recommending activities for you based on your track record
+Schemer had a few antecedents like Facebook Events Foursquare Things etc with a similar concept of location based activity sharing
+On January Google announced that Schemer was closing down with all data scheduled to be deleted on February
+Schemer The beginning of everything worth doing

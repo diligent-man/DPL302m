@@ -1,84 +1,17 @@
-Vittorio Jano designed a new 60° V12 engine for sports car racing for Ferrari
-This new engine, introduced in 1956, combined elements of both Colombo and Lampredi engines with new features
-Engine architecture was more of Lampredi school but retained smaller Colombo internal measurements
-Jano moved to Ferrari along with his designs for the Lancia D50 in 1955 and went on to design not only a new V12 but also a family of the Dino V6 engines soon after
-Some of the technical ideas came from the Jano's Lancia V8 DOHC engine, intended for Formula One
-This family of engines replaced Lampredi inline-4s known from Ferrari Monza line and went on to win many international races and titles for Ferrari
-The design team comprised Jano as well as Vittorio Bellentani, Alberto Massimino (best known for the Maserati 250F), and Andrea Fraschetti
-All Jano engines used dry sump lubrication and almost all of them had two spark plugs per cylinder with four coils
-Also most of them had DOHC configuration with chain-driven camshafts and two valves per cylinder.
-Type 130 was the first engine designed by Jano for Ferrari
-Introduced in 1956 it remained the only SOHC in its V12 family
-Bore and stroke was 73 mm by 69.5 mm for a total capacity of 3,490.61 cc (3.5 L; 213.0 cu in)
-At 9:1 compression ratio and, at first, with only three Weber 36 IR4/C1 carburettors this powerplant produced 320 PS (235 kW; 316 hp) at 7200 rpm and could achieve 280 km/h top speed
-Only four cars were made, all bodied by Scaglietti as spyders
-The Ferrari 290 MM that used this engine was a highly competitive race car at its time.
-Type 136 was introduced in 1957 for the Ferrari 290 S
-Having same measurements as before (73 mm by 69.5 mm) and same capacity, this engine received a DOHC configuration
-It was the first Ferrari sports racing car with a DOHC V12 engine, nine years before Colombo V12 received a quad-cam upgrade in 275 P2
-Those twin camshafts per cylinder bank were inspired by the Lancia D50 Formula One car's engine, also designed by Vittorio Jano
-With a new configuration also the fuel system was upgraded and now the 290 S sported six Weber 42DCN carburettors
-The power grew slightly to 330 PS (243 kW; 325 hp) but at higher, 8000, rpm
-Compression and top speed remained the same
-This car was very short lived and same year, after a couple of races, upgraded to the 315 specification.
-Type 140 was a first step forward in terms of capacity
-Redesigned in 1957 and enlarged to 3,783.40 cc (3.8 L; 230.9 cu in) thanks to bigger 76 mm bore with the same stroke as before
-Power output was now 360 PS (265 kW; 355 hp) at 7800 rpm
-Same six Webers setup, compression ratio and spark plugs arrangement remained
-Double camshafts per bank engine was not only more powerful than previous single-cam engines but also lighter and more reliable, which was important in long distance racing
-The Ferrari 315 S with this engine won the last Mille Miglia in 1957.
-Type 141 also debuted in 1957 on the Ferrari 335 S
-Having even bigger displacement than before at 4,023.32 cc (4.0 L; 245.5 cu in), this was also the last enlargement
-Both bore and stroke were changed, now at 77 mm by 72 mm, respectively
-Previous Weber carburettors were upgraded to 44 DCN type
-Compression ratio was slightly upped to 9.2:1 which resulted in 390 PS (287 kW; 385 hp) at 7400 rpm of maximum power
-The Ferrari 335 S equipped with this engine could top 300 km/h.
-Type 142 was very short lived installed in a single chassis ever produced
-Due to tragic events at the Mille Miglia, new regulations forced limited displacement to 3.0 L for 1958 season
-This new requirement-meeting engine had the same measurements as Colombo 250 at 73 mm by 58.8 mm resulting in total capacity of 2,953.21 cc (3.0 L; 180.2 cu in), difference being that this was a quad-cam configuration
-Power output was 320 PS (235 kW; 316 hp) at 8400 rpm, that is 20 PS (15 kW) more than the 250 Testa Rossa from the same year
-The only Jano V12 single spark plug engine with two magnetos
-After only a single, unfinished race in the Spa Francorchamps Grand Prix in May 1958, the car was quickly converted into the 412 S.
-The Ferrari 412 MI (MI for Monza Indianapolis) was one of only two Ferrari race cars, purpose-made for the 1958 500 Miles of Monza, a sort of Italian version of the Indianapolis 500
-This single-seater used the 4.0 L engine from the 335 S
-Now with a 9.9:1 compression ratio and a six Weber 42DCN carburettors, it could produce up to 447 PS (329 kW; 441 hp) at 7700 rpm
-It was the most powerful of the Ferrari engines to date
-Luigi Musso won qualifying at a record average speed of 280.8 km/h (174.5 mph)
-The actual race was divided into three heats and, with an aid from Phil Hill and Mike Hawthorn, the 412 MI was able to finish third overall, just behind two purpose-built American competitors.
-Type 141 again found its way into a sports racing chassis
-This time as a result of a conversion from the 312 S in 1958
-This model is usually confused with the 412 MI due to a similar name
-The engine was based on the 4.0 L unit from the MI with a higher compression ratio and the same 42-type carburettors
-It could produce an impressive 432 PS (318 kW; 426 hp) at 8000 rpm
-The car was raced in California by Phil Hill, Richie Ginther and John von Neumann (Ferrari distributor for California).
-Ferrari race cars sporting Jano-designed V12 engines scored many victories in Europe and internationally
-In 1956, the 290 MM won the Mille Miglia, brought 1-2 victory at the Sveriges Grand Prix and placed third at the 1000 km Nürburgring.
-In 1957, the 290 MM won the 1000 km Buenos Aires
-Same year the 315 S scored 1-2 victory at the Mille Miglia and third place at the 1000 km Nürburgring with the highest Le Mans score of fifth place
-The 335 S won 1-2 at the Gran Premio de Venezuela and finished second at the Nürburgring and the Swedish Grand Prix
-In the short-lived Race of Two Worlds, ran in 1957 and 1958 only, the highest place of any European entrant was achieved by the Ferrari 412 MI.
-The Jano V12 engines helped Ferrari achieve 1956 and 1957 World Sportscar Championships
-In 1956 the 290 MM scored two out of five rounds and in 1957 three different Jano-engined models won three out of seven rounds.
-After rules change for 1958 season, imposing a 3.0 L total capacity limit, most of the Jano sports cars became obsolete
-In the end Ferrari moved towards ubiquitous Colombo 250 engined sports and GT cars, winning 1958 World Sportscar Championship solely with the 250 Testa Rossas.
-Vittorio Jano being a talented engineer, designed many different types of engines in his career
-When Enzo Ferrari brought him from Lancia in 1955 he also inherited their 2,488.02 cc (2.5 L; 151.8 cu in), DOHC, 90° V8 Formula One engine from Lancia D50 race car
-In 1956 this car was reinstituted as the Ferrari D50 and was powered by a 2,485.98 cc (2.5 L; 151.7 cu in) engine with 76 x 68.5 mm of bore and stroke and capable of 265 PS (195 kW; 261 hp) at 8000 rpm.
-V8 engine was redesigned yet again for 1957 Formula One season and used in the Ferrari 801 F1 single-seater
-Now it could deliver 275 PS (202 kW; 271 hp) at 8400 rpm
-Compression was 11.5:1 and four Solex 40 PII carburettors were installed
-Engine was of a quad-cam configuration and had a dry sump
-The 801 design team also included Carlo Chiti.
-List of Ferrari enginesSchlegelmilch, Rainer W
-(2004)
-Ferrari
-Könemann
-ISBN 3-8331-1057-0.
-Acerbi, Leonardo (2012)
-Ferrari: All The Cars
-Haynes Publishing
-ISBN 978-1-84425-581-8.
-Laban, Brian (2005)
-The Ultimate History of Ferrari
-Parragon
-ISBN 1-40545-690-6.
+Vittorio Jano designed a new V engine for sports car racing for Ferrari This new engine introduced in combined elements of both Colombo and Lampredi engines with new features Engine architecture was more of Lampredi school but retained smaller Colombo internal measurements Jano moved to Ferrari along with his designs for the Lancia D in and went on to design not only a new V but also a family of the Dino V engines soon after Some of the technical ideas came from the Jano's Lancia V DOHC engine intended for Formula One This family of engines replaced Lampredi inline s known from Ferrari Monza line and went on to win many international races and titles for Ferrari The design team comprised Jano as well as Vittorio Bellentani Alberto Massimino best known for the Maserati F and Andrea Fraschetti All Jano engines used dry sump lubrication and almost all of them had two spark plugs per cylinder with four coils Also most of them had DOHC configuration with chain driven camshafts and two valves per cylinder
+Type was the first engine designed by Jano for Ferrari Introduced in it remained the only SOHC in its V family Bore and stroke was mm by mm for a total capacity of cc L cu in At compression ratio and at first with only three Weber IR C carburettors this powerplant produced PS kW hp at rpm and could achieve km h top speed Only four cars were made all bodied by Scaglietti as spyders The Ferrari MM that used this engine was a highly competitive race car at its time
+Type was introduced in for the Ferrari S Having same measurements as before mm by mm and same capacity this engine received a DOHC configuration It was the first Ferrari sports racing car with a DOHC V engine nine years before Colombo V received a quad cam upgrade in P Those twin camshafts per cylinder bank were inspired by the Lancia D Formula One car's engine also designed by Vittorio Jano With a new configuration also the fuel system was upgraded and now the S sported six Weber DCN carburettors The power grew slightly to PS kW hp but at higher rpm Compression and top speed remained the same This car was very short lived and same year after a couple of races upgraded to the specification
+Type was a first step forward in terms of capacity Redesigned in and enlarged to cc L cu in thanks to bigger mm bore with the same stroke as before Power output was now PS kW hp at rpm Same six Webers setup compression ratio and spark plugs arrangement remained Double camshafts per bank engine was not only more powerful than previous single cam engines but also lighter and more reliable which was important in long distance racing The Ferrari S with this engine won the last Mille Miglia in
+Type also debuted in on the Ferrari S Having even bigger displacement than before at cc L cu in this was also the last enlargement Both bore and stroke were changed now at mm by mm respectively Previous Weber carburettors were upgraded to DCN type Compression ratio was slightly upped to which resulted in PS kW hp at rpm of maximum power The Ferrari S equipped with this engine could top km h
+Type was very short lived installed in a single chassis ever produced Due to tragic events at the Mille Miglia new regulations forced limited displacement to L for season This new requirement meeting engine had the same measurements as Colombo at mm by mm resulting in total capacity of cc L cu in difference being that this was a quad cam configuration Power output was PS kW hp at rpm that is PS kW more than the Testa Rossa from the same year The only Jano V single spark plug engine with two magnetos After only a single unfinished race in the Spa Francorchamps Grand Prix in May the car was quickly converted into the S
+The Ferrari MI MI for Monza Indianapolis was one of only two Ferrari race cars purpose made for the Miles of Monza a sort of Italian version of the Indianapolis This single seater used the L engine from the S Now with a compression ratio and a six Weber DCN carburettors it could produce up to PS kW hp at rpm It was the most powerful of the Ferrari engines to date Luigi Musso won qualifying at a record average speed of km h mph The actual race was divided into three heats and with an aid from Phil Hill and Mike Hawthorn the MI was able to finish third overall just behind two purpose built American competitors
+Type again found its way into a sports racing chassis This time as a result of a conversion from the S in This model is usually confused with the MI due to a similar name The engine was based on the L unit from the MI with a higher compression ratio and the same type carburettors It could produce an impressive PS kW hp at rpm The car was raced in California by Phil Hill Richie Ginther and John von Neumann Ferrari distributor for California
+Ferrari race cars sporting Jano designed V engines scored many victories in Europe and internationally In the MM won the Mille Miglia brought victory at the Sveriges Grand Prix and placed third at the km N rburgring
+In the MM won the km Buenos Aires Same year the S scored victory at the Mille Miglia and third place at the km N rburgring with the highest Le Mans score of fifth place The S won at the Gran Premio de Venezuela and finished second at the N rburgring and the Swedish Grand Prix In the short lived Race of Two Worlds ran in and only the highest place of any European entrant was achieved by the Ferrari MI
+The Jano V engines helped Ferrari achieve and World Sportscar Championships In the MM scored two out of five rounds and in three different Jano engined models won three out of seven rounds
+After rules change for season imposing a L total capacity limit most of the Jano sports cars became obsolete In the end Ferrari moved towards ubiquitous Colombo engined sports and GT cars winning World Sportscar Championship solely with the Testa Rossas
+Vittorio Jano being a talented engineer designed many different types of engines in his career When Enzo Ferrari brought him from Lancia in he also inherited their cc L cu in DOHC V Formula One engine from Lancia D race car In this car was reinstituted as the Ferrari D and was powered by a cc L cu in engine with x mm of bore and stroke and capable of PS kW hp at rpm
+V engine was redesigned yet again for Formula One season and used in the Ferrari F single seater Now it could deliver PS kW hp at rpm Compression was and four Solex PII carburettors were installed Engine was of a quad cam configuration and had a dry sump The design team also included Carlo Chiti
+List of Ferrari enginesSchlegelmilch Rainer W Ferrari K nemann ISBN
+Acerbi Leonardo Ferrari All The Cars Haynes Publishing ISBN
+Laban Brian The Ultimate History of Ferrari Parragon ISBN

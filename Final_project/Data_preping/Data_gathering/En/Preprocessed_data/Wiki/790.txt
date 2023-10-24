@@ -1,35 +1,19 @@
-The Yellow Book of Lecan (Leabhar Buidhe Leacáin), or TCD MS 1318 (olim H 2.16), is a late medieval Irish manuscript.
-It contains much of the Ulster Cycle of Irish mythology, besides other material
-It is held in the Library of Trinity College Dublin.
-The manuscript is written on vellum and contains 344 columns of text.
-The first 289 were written by 1391; the remainder were written by 1401
- It is written in Middle Irish.
-Lecan was the site of the Mac Fhirbhisigh school of poetry in the territory of Tír Fhíacrach Múaidhe, now Lackan in Kilglass parish,  County Sligo (54°14′31″N 9°04′19″W﻿ / ﻿54.242°N 9.072°W﻿ / 54.242; -9.072).
-The manuscript is currently housed at Trinity College, Dublin
-It should not be confused with the Great Book of Lecan.
-The book contains nearly the whole of the Ulster Cycle, including a partial version of the Táin Bó Cúailnge which is a compilation of two or more earlier versions, indicated by the number of duplicated episodes and references to other versions in the text
-This incomplete Táin Bó Cúailnge overlaps with the partial version given in the Book of the Dun Cow; the complete text known today was derived from the combination of these recensions
- The version of Fergus mac Róich's death tale in the Yellow Book of Lecan is the oldest one that survives
-The Yellow Book of Lecan also contains parts of the Táin Bó Flidhais or the Mayo Táin, a tale set in Erris, Co
-Mayo.
-In addition to that material which would be placed with certainty within the Ulster Cycle, the book has a later version of The Voyage of Máel Dúin, a collection of Irish triads, and the same ogham tract as is recorded in the Book of Ballymote
-Also of note is Suidiugud Tellaich Temra ("The settling of the manor of Tara")
-It contains a story of the life of Saint Patrick as told by Fintan mac Bóchra that contains the account of Trefuilngid Tre-eochair, a giant at the Hill of Tara who is first to hear about the crucifixion of Jesus Christ.
-Edward Lhuyd obtained the book from one of two sources; Ruaidhrí Ó Flaithbheartaigh about March 1700 at An Pháirc, An Spidéal; or from Dáithí Óg Ó Dubhda of Bunnyconnellan, County Sligo, in the same year
-Ó Flaithbheartaigh and Ó Dubhda would have obtained them from Dubhaltach Mac Fhirbhisigh, whose family created and preserved the book
-Lhuyd bound together seventeen manuscripts as a single volume and dubbed them The Yellow Book of Lecan.
-Some of the manuscripts were written by Giolla Íosa Mór Mac Fhirbhisigh between c.1398 and c.1417
-Nollaig Ó Muraíle calls it a great composite manuscripts
-Ninety-nine folios of Giolla Isa's survive (which may be termed, for convenience, 'Leabhar Giolla Íosa' – LGÍ), containing some of the most important Irish literary texts from the Old and Middle Irish periods, including the only (virtually) complete copy of Rescension I of Táin Bó Cúailnge
-Two colophons by Giolla Íosa indicate 1392 as the date of writing, though the work may not have been brought to completion for some years after thatGiolla Íosa was assisted by his student, Murchadh Ó Cuindlis
-Ó Cuinnlis penned an excellent manuscript in east Ormond (now County Tipperary in 1398–99) which is now part of YBL.
-Giolla Íosa wrote that he "wrote this book for himself and for his son after him", and elsewhere, that it was "for himself and his family after him."
-Ó Muraíle further states: "That is one index of Giolla Íosa Mac Fir Bhisigh's importance; to his scribal labours we owe the preservation of the most celebrated of medieval Irish tales, Táin Bó Cúailnge." (p. 23) YBL also contains Aided Nath Í, Togail Bruidne Dá Derga, Táin Bó Fraích, Longes ma nUislenn; Dá Brón Flatha Nime and Mesca Ulad by his son, Tomás Cam Mac Firbhisigh.
-In 1986 (see below) Professor Tomás Ó Concheanainn stated his belief that much of the Yellow Book of Lecan/Leabhar Giolla Íosa was derived from Leabhar Gleann Dá Locha (The Book of Glendalough) and Lebor na Nuachongbála now The Book of Leinster.
-A fragment of the Yellow Book is in the hand of Solamh Ó Droma, one of the three scribes of the Book of Ballymote.
-Lhuyd derived the title from a note by Ciothruadh Mac Fhirbhisigh:
-[Leab]ar an Buide Leacain anim an leabhair so; mise Cirruaidh mac Taidg Ruaidh
-The Yellow Book of Lecan is the name of this book; I am Ciothruagh son of Taidg Ruaidh
-The numbering for the texts given below is both by column (as in the manuscript) and by number of pagination (as in the facsimile edition)
-The titles here do not necessarily refer to the titles given in the manuscript (if any), but conform to those of the main recensions.
-"The Yellow Book of Lecan and Miscellanea (H.2.16 1318)", Irish Script on Screen (ISOS), scanned images with catalogue description
+The Yellow Book of Lecan Leabhar Buidhe Leac in or TCD MS olim H is a late medieval Irish manuscript
+It contains much of the Ulster Cycle of Irish mythology besides other material It is held in the Library of Trinity College Dublin
+The manuscript is written on vellum and contains columns of text
+The first were written by the remainder were written by It is written in Middle Irish
+Lecan was the site of the Mac Fhirbhisigh school of poetry in the territory of T r Fh acrach M aidhe now Lackan in Kilglass parish County Sligo N W N W
+The manuscript is currently housed at Trinity College Dublin It should not be confused with the Great Book of Lecan
+The book contains nearly the whole of the Ulster Cycle including a partial version of the T in B C ailnge which is a compilation of two or more earlier versions indicated by the number of duplicated episodes and references to other versions in the text This incomplete T in B C ailnge overlaps with the partial version given in the Book of the Dun Cow the complete text known today was derived from the combination of these recensions The version of Fergus mac R ich's death tale in the Yellow Book of Lecan is the oldest one that survives The Yellow Book of Lecan also contains parts of the T in B Flidhais or the Mayo T in a tale set in Erris Co Mayo
+In addition to that material which would be placed with certainty within the Ulster Cycle the book has a later version of The Voyage of M el D in a collection of Irish triads and the same ogham tract as is recorded in the Book of Ballymote Also of note is Suidiugud Tellaich Temra The settling of the manor of Tara It contains a story of the life of Saint Patrick as told by Fintan mac B chra that contains the account of Trefuilngid Tre eochair a giant at the Hill of Tara who is first to hear about the crucifixion of Jesus Christ
+Edward Lhuyd obtained the book from one of two sources Ruaidhr Flaithbheartaigh about March at An Ph irc An Spid al or from D ith g Dubhda of Bunnyconnellan County Sligo in the same year Flaithbheartaigh and Dubhda would have obtained them from Dubhaltach Mac Fhirbhisigh whose family created and preserved the book Lhuyd bound together seventeen manuscripts as a single volume and dubbed them The Yellow Book of Lecan
+Some of the manuscripts were written by Giolla osa M r Mac Fhirbhisigh between c and c Nollaig Mura le calls it a great composite manuscripts Ninety nine folios of Giolla Isa's survive which may be termed for convenience 'Leabhar Giolla osa' LG containing some of the most important Irish literary texts from the Old and Middle Irish periods including the only virtually complete copy of Rescension I of T in B C ailnge Two colophons by Giolla osa indicate as the date of writing though the work may not have been brought to completion for some years after thatGiolla osa was assisted by his student Murchadh Cuindlis Cuinnlis penned an excellent manuscript in east Ormond now County Tipperary in which is now part of YBL
+Giolla osa wrote that he wrote this book for himself and for his son after him and elsewhere that it was for himself and his family after him
+Mura le further states That is one index of Giolla osa Mac Fir Bhisigh's importance to his scribal labours we owe the preservation of the most celebrated of medieval Irish tales T in B C ailnge p YBL also contains Aided Nath Togail Bruidne D Derga T in B Fra ch Longes ma nUislenn D Br n Flatha Nime and Mesca Ulad by his son Tom s Cam Mac Firbhisigh
+In see below Professor Tom s Concheanainn stated his belief that much of the Yellow Book of Lecan Leabhar Giolla osa was derived from Leabhar Gleann D Locha The Book of Glendalough and Lebor na Nuachongb la now The Book of Leinster
+A fragment of the Yellow Book is in the hand of Solamh Droma one of the three scribes of the Book of Ballymote
+Lhuyd derived the title from a note by Ciothruadh Mac Fhirbhisigh
+Leab ar an Buide Leacain anim an leabhair so mise Cirruaidh mac Taidg Ruaidh
+The Yellow Book of Lecan is the name of this book I am Ciothruagh son of Taidg Ruaidh
+The numbering for the texts given below is both by column as in the manuscript and by number of pagination as in the facsimile edition The titles here do not necessarily refer to the titles given in the manuscript if any but conform to those of the main recensions
+The Yellow Book of Lecan and Miscellanea H Irish Script on Screen ISOS scanned images with catalogue description

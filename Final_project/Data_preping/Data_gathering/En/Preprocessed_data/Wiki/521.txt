@@ -1,293 +1,103 @@
-The Boeing Model 307 Stratoliner is an American four-engine monoplane airliner that entered commercial service in July 1940
-It was the first airliner to enter revenue service with a pressurized cabin, which with supercharged engines, allowed it to cruise above the weather
-As such it represented a major advance, and was capable of cruising at 220 mph (350 km/h) to the contemporary Douglas DC-3s 160 mph (260 km/h), and could fly at 20,000 ft (6,100 m) compared to 8,000 ft (2,400 m).
-In commercial service the Model 307 had a crew of five to six, including a flight engineer, two flight attendants and an optional navigator, and had a capacity for 33 passengers which later modifications increased to 38
-Examples were also flown as the Boeing C-75 Stratoliner by the United States Army Air Forces.
-In 1935, Boeing designed a four-engine airliner in parallel with the Boeing Model 299 B-17 heavy bomber then in development, as the Model 307
-It combined the wings, tail, rudder, landing gear, and engines from the B-17 with a new, pressurized circular cross-section fuselage with a maximum diameter of 138 in (3,500 mm).
-The first aircraft built, registration NX19901 crashed on March 18, 1939 while being demonstrated to KLM's representatives
-After takeoff the aircraft climbed to an altitude of 11,000 ft (3,400 m) where stability tests were made
-While carrying out side-slips, it entered an inadvertent spin following a stall and made two to three turns before the engines were used to stop the spin
-While recovering from the subsequent dive, the wings and horizontal tail surfaces were over stressed and failed due to excessive loads
-All ten aboard were killed, which included TWA's representative, KLM's technical director, a Dutch Air Ministry representative, Boeing's test pilot, as well as their Chief Aerodynamicist and their Chief Engineer.
-Subsequent wind tunnel testing showed that the addition of a dorsal fin extended from the vertical tail fixed the problem, which was then air tested on NC19903, and also incorporated into Boeing's rear fuselage redesign for the B-17E bomber.
-The Stratoliners were normally flown with a pilot and co-pilot, and unusually for the time, both Pan Am and TWA aircraft carried a flight engineer to reduce the workload on the two pilots, by monitoring the engines for any problems and fine tuning them, while they also controlled fuel consumption from each of the tanks to maintain the aircraft's fore-aft and lateral balance
-Too much fuel used in one tank could result in the aircraft becoming uncontrollable
-They also monitored other aircraft systems, including the hydraulics used for undercarriage retraction and the cabin pressurization system.
-Pan Am aircraft had one additional crew member compared to TWA aircraft
-Because they made long overwater flights, they carried a navigator, who wasn't considered necessary for overland flights, which were served by a network of beacons across the continent.
-Both TWA and Pan Am normally carried two flight attendants
-TWA began using women as cabin crew in late 1935, which they called Hostesses, while Pan Am continued to use male stewards until late in WW2.
-Following the entry of the United States into World War II in December 1941, long-range transports were needed to transport government and military officials around the globe, and many aircraft, including TWA's Boeing 307s, were pressed into service.
-Beginning in February 1942, these were flown to Albuquerque, New Mexico for conversion to meet military needs, which included the removal of pressurization equipment to save weight, removal of some of the forward seats, and alteration of two of the four forward sleeper compartments to provide space for an additional five 212.5 US gal (804 l; 176.9 imp gal) fuel tanks and a crew rest area
-The landing gear was strengthened, and the maximum takeoff weight increased from 45,000 to 56,000 lb (20,000 to 25,000 kg), while the exterior was painted olive drab with grey undersides.
-After a couple of years the USAAF found it now had enough long range transports and sold the fleet back to TWA paid to have them reconverted back to civil standard under the SA-307B-1 designation by Boeing, who replaced the wings and horizontal tail with those from the B-17G, while slightly more powerful engines were fitted and the electrical system was replaced with from the B-29 Superfortress
-The cabin was redesigned and passenger capacity was increased from 33 to 38.
-300
-Original unpressurized concept which began as a four-engined Boeing 247.
-PAA-307 or S-307 Strato-Clipper
-Designation for three aircraft built for Pan Am under ATC 719
-Visible external differences included longer engine cowlings
-Four 1,100 hp (820 kW) Wright GR-1820-G102A Cyclone engines were fitted, with two-speed superchargers
-Crew of six
-Strato-Clipper was Pan Am's name for the type.
-SA-307B
-Designation for five aircraft built for TWA under ATC 726
-These differed externally from the Pan Am aircraft in having large external flap actuators
-Four 1,100 hp (820 kW) Wright GR-1820-G105A Cyclone engines were fitted, with two-speed superchargers
-Crew of five.
-SB-307B
-Designation for one aircraft built for Howard Hughes.
-C-75
-Five Trans World SA-307Bs were impressed into the USAAF
-The cabin pressurization was removed to save weight, and the external flap actuators replaced.
-SA-307B-1
-The C-75s were overhauled and updated with modified B-17G wings (which retained the 307s wing slots) and larger tailplanes, which were mounted further aft
-Four 1,200 hp (890 kW) Wright GR-1820-G205A Cyclone engines were fitted, along with B-29 electrical systems.Ten were built:
-NX19901 Crashed on test-flight on 18 March 1939
-10 killed, causing redesign of fin and rudder.
-NC19902 delivered to Pan Am as Clipper Rainbow
-Sold to Aigle Azur in 1951, went to Far East subsidiary Aigle Azur Extrême-Orient, as F-BHHR
-Damaged beyond repair 22 May 1961.
-NC19903 delivered to Pan Am as Clipper Flying Cloud
-Sold to Haiti as 2003
-Now on static display at the Smithsonian.
-NC19904 delivered to Howard Hughes as The Flying Penthouse
-Subsequently converted to a houseboat.
-NC19905 delivered to TWA as Comanche, then sold to the USAAF as C-75 42-88624
-Sold as F-BELV to Aigle Azur, then it went to Far East subsidiary Aigle Azur Extrême-Orient and later to CITCA
-Went missing on 18 October 1965.
-NC19906 delivered to TWA as Cherokee, then sold to the USAAF as C-75 42-88623
-Sold, as F-BELU to Aigle Azur, to Far East subsidiary Aigle Azur Extrême-Orient and larer to CITCA and CIC
-sold as XW-TFP
-Crashed 13 March 1975.
-NC19907 delivered to TWA as Zuni, then sold to the USAAF as C-75 42-88625
-Sold as F-BELX and operated by CIC until sold again to become XW-TFR
-Crashed 27 June 1974.
-NC19908 delivered to TWA as Apache, then sold to the USAAF as C-75 42-88626
-Operated by Airnautic as F-BELY, sold again as XW-PGR
-Damaged beyond repair on 27 February 1971.
-NC19909 delivered to TWA as Navajo, then sold to the USAAF as C-75 42-88627
-Operated by Airnautic as F-BELZ, then to Aigle Azur
-Crashed on 29 December 1962.
-NC19910 delivered to Pan Am as Clipper Comet
-To Aerovias Ecuatorianas as Quito HC-004 and later to Quaker City Airways as N75385
-Crashed 10 May 1958.The first Boeing 307 Stratoliner NX19901 made its first flight from Boeing Field, near Seattle on December 31, 1938, prior to its intended delivery to Pan Am following testing and certification.
-The first customer delivery was to millionaire Howard Hughes, who bought NX19904 for $315,000 for a round-the-world flight, hoping to break his own record of 91 hours 14 minutes set from July 10 to 14, 1938 in a Lockheed Model 14 Super Electra
-Hughes' Stratoliner was fitted with extra fuel tanks and was ready for the first leg of the round-the-world attempt when Nazi Germany invaded Poland on September 1, 1939, causing the attempt to be abandoned.
-Hughes later had the extra fuel tanks removed, and had it fitted with much more powerful Wright R-2600 engines for its transformation into "The Flying Penthouse"
-In 1949, Hughes spent an additional $100,000 renovating it so he could sell it, which now included a new interior designed by Raymond Loewy
-Oil tycoon Glenn McCarthy bought it and named it Shamrock , for the opening of his new Shamrock Hotel, however McCarthy defaulted on payments and it was returned to Hughes
-It languished unflown until 1964, when it was damaged beyond repair by a hurricane and bought for $69 by Kenneth W
-London, who cut the wings and tail off, built a hull under it, and installed a pair of V-8 engines to convert it into a houseboat he named Londonaire
-After various repossessions, deaths and failed sales later, it became the Cosmic Muffin, in which form it still survives.
-In 1937 Pan American Airways placed the first order for two Stratoliners, which they soon increased to six
-A second order for five followed, from Transcontinental & Western Air (TWA)
-Pan Am had received three and TWA received its five before war intervened and civil aircraft production halted.
-Ten 307s were built, three being delivered to Pan Am (NC19902 Clipper Rainbow, NC19903 Clipper Flying Cloud, and NC19910 Clipper Comet), five to TWA (NC19905 Comanche, NC19906 Cherokee, NC19907 Zuni, NC19908 Apache, and NC19909 Navajo), one aircraft went to Hughes (NX19904), and one was wrecked in testing prior to delivery
-NC19906 marked as NX1940 for promotional purposes.
-Deliveries to Pan Am started in March 1940
-TWA received its first Stratoliner on 6 May, 1940, and the last one was delivered on 4 June, 1940
-Both TWA and Pan Am carried out their first revenue flights on 8 July, 1940
-TWA's Stratoliners flew between Los Angeles and New York, making three stops, while Pan Am's flew from Miami to Latin America.
-On the entry of the United States into World War II, Pan Am continued operating its Stratoliners on routes to Central and South America, but under direction of the Army Air Forces' Air Transport Command,
-All five TWA Stratoliners were withdrawn from operations on 24 December 1941 while TWA created a subsidiary, the Intercontinental Division (ICD), whose civilian crews would operate them on behalf of the United States Army Air Forces
-The Stratoliners were sold to the USAAF, who assigned the type the C-75 designation, and each of them was given a USAAF serial number
-The first of these was accepted by the USAAF on 1 March 1941 and the last one on 17 December 1942
-The first service flight was made beginning 26 February, when a 307 flew to South America, before crossing the South Atlantic to Africa, and leisurely making their way to Prestwick, Scotland where they arrived on 20 April, 1942, primarily having carried munitions.
-After a couple of years the USAAF found it now had enough long range transports and sold the fleet back to TWA, with the aircraft being received by them between 6 January 1944 and 19 December 1944.
-Two main routes were flown between Washington, D.C
-and Cairo across the South Atlantic, and between New York and Prestwick, Scotland, across the North Atlantic
-They often flew non-stop the 2,122 mi (3,415 km) between Gander, Newfoundland and Prestwick, Scotland in the north, and the 2,500 mi (4,100 km) between Natal, Brazil and Accra, Ghana in the south
-After July 1942 a refueling stop at Ascension Island was added in the South Atlantic
-In the north, stops at Iceland or Greenland were often necessary, when flying west against the prevailing winds
-As Douglas C-54 Skymasters took over the Gander to Prestwick route, the C-75s operated between Marrakech and Prestwick over the Atlantic.
-The USAAF returned the five C-75s to TWA between 6 January 1944 and 19 December 1944
-It cost TWA $2 million to have them rebuilt by Boeing and the first of them resumed passenger service on April 1, 1945
-The CAA recertified these as SA-307B-1 civilian transports with their old registration numbers
-TWA had the interior cabin redesigned in two sections, with ten seats forward and 28 aft.
-Pan Am flew its unmodified 33-passenger Stratoliners between Miami and Havana until 1947, then sold them off to various small operators, including Aerovias Ecuatorianas (AREA)
-Some later returned to the US, whilst others went to South-East Asia to replace losses there.
-One aircraft was eventually purchased by the Haitian Air Force in 1954 and after plans to use it for passenger service were cancelled, it was fitted out as a Presidential transport
-When François "Papa Doc" Duvalier came into power in 1957 he didn't trust his pilots, and so chose not to use it, but instead had the aircraft sold off the same year, with the money raised being used to buy five North American T-6G Texan training aircraft
-This aircraft would later return to the U.S
-and is now restored and at the Smithsonian Museum.
-Although TWA was already committed to the larger and faster Lockheed Constellation, they only began to withdraw the Stratoliners in April 1951 having contineued to use them in domestic service, where they were replaced with the similarly sized but cheaper to operate twin-engine Martin 2-0-2
-The five SA-307B-1s were sold to the French operator Aigle Azur (French for Blue Eagle) who received them between 14 May 1951 and 19 December 1951
-and who used them on scheduled flights from France to North and Central Africa, and later to French Indo-China.
-Three were transferred to Aigle Azur's Vietnamese subsidiary, Aigle Azur Extrême-Orient (Blue Eagle Far East), and were used in South East Asia, in various liveries and registrations, with at least one aircraft remaining in commercial use until 1974
-Two aircraft remained in Europe for Mediterranean runs, especially around Corsica, operated by Airnautic
-The subsidiary was sold to UAT in 1955, and this in turn merged to become UTA in 1963, but the original branding was kept until 1961
-Some of these aircraft remained under contract to the ICC/CIC, running both ad hoc flights plus regular scheduled services for diplomats between various, often hostile, capitals
-Aircraft write-offs required buying other surviving 307s for maintenance and continuity of service
-At various times following independence, most received Laotian XW registrations, whilst maintaining the same services
-Some were registered to the CITCA leasing company, and a couple formed the basis for the national-carrier Royal Air Lao's fleet.
-United StatesHoward Hughes bought one aircraft.
-Pan American Airways (PAA: Pan Am) received three aircraft.
-Trans World Airlines (TWA) received five aircraft.
-Quaker City Airways, ex-Pan Am airframe. EcuadorAerovias Ecuatorianas CA/AREA Ecuador, as HC-004. FranceAigle Azur operated ex-TWA aircraft bought in 1951.
-Commission Internationale de Contrôle (CIC) operated the Aigle Azur aircraft, including those of its affiliates, such as the CITCA leasing company which were under contract to the CIC/ICC.Airnautic operated two aircraft. LaosRoyal Air Lao operated two ex-Aigle Azur aircraft. CambodiaRoyal Air Cambodge operated one aircraft with French registration.
-Cambodia Air Commercial operated one aircraft, under a Laos registration. HaitiHaitian Air Corps
-Compagnie Haïtienne de Transports Aériens (CoHaTA) (a Military transport organization) operated one ex-Pan Am airframe intended as a presidential transport from 1954 until sold and the money used to buy 5 North American T-6G trainers in 1957. United StatesUnited States Army Air Forces operated five ex-TWA SA-307Bs as C-75s
-Three Pan Am 307s operated under the direction of the USAAF but ownership remained with Pan Am.According to the Aviation Safety Network, the Boeing 307 was involved in eight hull-loss incidents with 67 fatalities
-Four of the eight incidents involved fatalities, with one being shot down while in a war zone.
-March 18, 1939: Boeing's prototype 307 NX19901 crashed near Mt
-Rainier during a test flight, killing all ten on board
-The recovery from a spin caused the aircraft to break up.
-May 10, 1958: Quaker City Airways S-307 N75385 force-landed near Madras, Oregon on a test flight, after an explosion and fire in the cabin, possibly due to a fuel leak, and was consumed by the fire
-Both pilots survived.
-May 22, 1961: Aigle Azur Extrême Orient S-307 F-BHHR was blown off the runway and crashed at Tan Son Nhat International Airport while landing after the number four engine failed in flight during a non-scheduled Saigon-Vientiane service
-The 28 passengers and crew survived, but the aircraft was written off.
-December 29, 1962: Airnautic SA-307B-1 F-BELZ collided with Monte Renoso, on Corsica due to crew error while on a Bastia-Nice-Ajaccio-Nice-Bastia flight, killing all 25 on board in the worst accident involving the 307.
-October 18, 1965: International Control Commission SA-307B-1 F-BELV disappeared on a scheduled non-commercial Vientiane-Hanoi flight with 13 on board and was probably shot down.
-February 27, 1971: Royal Air Lao SA-307B-1 XW-PGR struck a Royal Lao Air Force Douglas C-47 while landing at Luang Prabang, damaging the wing
-A lack of spares prevented repairs.
-June 27, 1974: Cambodia Air Commercial SA-307B-1 XW-TFR force-landed in a rice field shortly after takeoff from Battambang Airport en route to Phnom Penh due to poor maintenance which caused the failure of three engines
-The right wing struck a tree and separated just before landing
-19 of 39 on board died.
-March 13, 1975: Royal Air Lao SA-307B-1 XW-TFP force-landed in the Mekong River in Laos while on a Hong Kong-Vientiane cargo service
-Both pilots were held prisoner by the Pathet Lao for two months
-The wreck was located in 1986.The sole intact Boeing 307 Stratoliner, NC19903 is preserved in flying condition at the Smithsonian's Steven F
-Udvar-Hazy Center
-After having been restored to flying condition, it was being delivered to the Smithsonian on what was to be its last flight when it ran out of fuel and ditched in Elliott Bay near Seattle, Washington in March 2002
-Despite the incident, it was raised and again restored, and it completed its flight to the Smithsonian, where it was placed on display.
-The fuselage of Howard Hughes' 307 (NX19904) also survives, although it was stripped of flying surfaces and converted into the houseboat Cosmic Muffin
-The aircraft was awaiting restoration at Fort Lauderdale International Airport in the early 1960s when it was severely damaged in a hurricane after its tiedowns failed and it was blown into trees
-The aircraft was later salvaged for its conversion into a house boat and the interior remains notable for the additions made by Howard Hughes
-It is now part of the Florida Air Museum's collection.
-General characteristics
-Crew: Five, including pilot, co-pilot, flight engineer and 2 flight attendants
-Capacity: Daytime seating for 33, nighttime capacity 25, in 16 berths and 9 reclining chairs
-Length: 74 ft 4 in (22.66 m)
-Wingspan: 107 ft 3 in (32.69 m)
-Wing chord: 19 ft 0 in (5.79 m) at root and 9 ft 4.5 in (2.858 m) at tip rib
-Height: 20 ft 9 in (6.32 m) at rudder
-Undercarriage track: 295 in (7.5 m)
-Wing area: 1,486 sq ft (138.1 m)
-Airfoil: NACA 0018 at root, NACA 0010 at tip
-Wing dihedral: 4.5° from chord line
-Wing incidence: 3.5° constant root to tip
-Empty weight: 30,000 lb (13,608 kg) to 31,200 lb (14,200 kg) in overload condition.
-Gross weight: 45,000 lb (20,412 kg)
-Maximum load: 15,000 lb (6,800 kg), with 30 passengers, 650 lbs of baggage and 1,275 US gal (4,830 l; 1,062 imp gal)/5,750 lb (2,610 kg) of fuel,
-Fuel capacity: 1,275 US gal (4,830 l; 1,062 imp gal) normal, carried within the wings
-Overload could be increased to 1,800 US gal (6,800 l; 1,500 imp gal)
-Fuel consumption: 200 US gal (760 l; 170 imp gal)/hr
-Oil capacity: 100–180 US gal (380–680 l; 83–150 imp gal)
-Powerplant: 4 × Wright GR-1820-G105A Cyclone air-cooled radial engines with two-stage superchargers, 1,100 hp (820 kW)  each @ 2400 rpm for takeoff (sea level), reduced to 900 hp (670 kW) @ 2300rpm when at 17,300 ft (5,300 m)
-Propellers: 3-bladed Hamilton Standard all-metal Hydromatic constant-speed propellers, 11 ft 6 in (3.51 m) diameter Performance
-Maximum speed: 250 mph (400 km/h, 220 kn) at 16,200 ft (4,900 m)
-Cruise speed: 222 mph (357 km/h, 193 kn) at 19,000 ft (5,800 m) & 75% power
-Minimum control speed: 70 mph (110 km/h, 61 kn) with flaps
-Takeofff run: 1,800 ft (550 m)
-Landing run: 2,050 ft (620 m)
-Range: 1,300 mi (2,100 km, 1,100 nmi) at 19,000 ft (5,800 m) & 75% power
-Service ceiling: 23,800 ft (7,300 m) , reduced to 18,000 ft (5,500 m) when on three engines
-Cruising altitude: 15,000–20,000 ft (4,600–6,100 m)
-Absolute ceiling: 25,200 ft (7,700 m)
-Rate of climb: 1,200 ft/min (6.1 m/s) initial, from sea level
-Wing loading: 30 lb/sq ft (150 kg/m)
-Power loading: 12.5 lb/hp (7.6 kg/kW) take off, 10.25 lb/hp (6.23 kg/kW) cruiseBoeing 377 Stratocruiser
-Renard R.35 (first airliner with a pressurized cabin)Related development
-Boeing B-17 Flying FortressAircraft of comparable role, configuration, and era
-de Havilland Albatross
-Bloch MB.160
-Douglas DC-4E
-Focke-Wulf Fw 200 Condor
-Junkers Ju 90
-Lockheed Model 44 Excalibur (project only)
-Potez 662
-Related lists
-List of aircraft of World War IIAbzug, Malcolm J.; Larrabee, E
-Eugene (2005)
-Airplane Stability and Control: A History of the Technologies that Made Aviation Possible
-Cambridge, UK: Cambridge University Press
-ISBN 978-0521021289.
-Abel, Drina Welch, ed
-(1991)
-Paul Matt Scale Airplane Drawings
-Vol. 1
-Destin Florida: Aviation Heritage/Aviation Book Co
-p. 37
-ISBN 978-0943691046.
-Betts, Ed (1993)
-"The Boeing Stratoliners and TWA"
-American Aviation Historical Society Journal
-38 (3).
-Bowers, Peter M (1989)
-Boeing Aircraft since 1916 (Third ed.)
-London: Putnam
-ISBN 978-0851778044.
-Davies, R.E.G
-(1987)
-Pan Am - an Airline and its Aircraft - An illustrated history of the world's greatest airline and the airplanes that revolutionized air trasport from 1927 to the present
-New York City: Orion Books
-p. 49
-ISBN 9780517566398.
-Davies, R.E.G
-(2000)
-TWA - an Airline and its Aircraft - 75 years of pioneering progress
-McLean, Virgina: Paladwr Press
-ISBN 978-1888962161.
-Donald, David (1999)
-The Encyclopedia of Civil Aircraft
-San Diego, California: Thunder Bay Press
-ISBN 1-57145-183-8.
-Ford, Daniel (March–April 2004)
-"First and Last 'Strat': Boeing's Model 307 and its Survivors"
-Air Enthusiast
-Vol. 110
-pp. 54–60
-ISSN 0143-5450.
-Hagedorn, Daniel P
-(1993)
-Central American and Caribbean Air Forces
-Kent, UK: Air-Britain (Historians)
-p. 133
-ISBN 978-0851302102.
-Hardy, Mike (January 2004)
-"The Stratoliner Story (Part 1)"
-Air International
-Vol. 46, no. 1
-pp. 21–24
-ISSN 0306-5634.
-Hardy, Mike (February 2004)
-"The Stratoliner Story (Part 2)"
-Air International
-Vol. 46, no. 2
-pp. 69–72
-ISSN 0306-5634.
-Juptner, Joseph P
-(1980)
-US Civil Aircraft: Vol
-8 (ATC 701 - 800)
-Aero Publishers
-pp. 75-77 & 102-104
-ISBN 0816891788.
-Marrett, George J
-(2004)
-Howard Hughes : aviator
-Annapolis: Naval Institute Press
-ISBN 978-1591145103.
-Munson, Kenneth (1972)
-Bombers in Service, Patrol and Transport Aircraft Since 1960
-London: Macmillan
-ISBN 978-0713705867.
-Dietrich, Noah; Thomas, Bob (1972)
-Howard, The Amazing Mr
-Hughes
-Greenwich: Fawcett Publications
-p. 148
-ISBN 978-0449136522.
-Taylor, H
-A
-(July–September 1979)
-"Ten Big Boeings ..
-The Stratoliner Story"
-Air Enthusiast
-No. 10
-pp. 58–67
-ISSN 0143-5450.TWA promotional video with footage of Stratoliner
-History of the Boeing 307 by Boeing Historical Division
-Video Courtesy of *Bomberguy Aviation Historian
-Coast to Coast on Four Motors September 1940 Popular Mechanics
+The Boeing Model Stratoliner is an American four engine monoplane airliner that entered commercial service in July It was the first airliner to enter revenue service with a pressurized cabin which with supercharged engines allowed it to cruise above the weather As such it represented a major advance and was capable of cruising at mph km h to the contemporary Douglas DC s mph km h and could fly at ft m compared to ft m
+In commercial service the Model had a crew of five to six including a flight engineer two flight attendants and an optional navigator and had a capacity for passengers which later modifications increased to Examples were also flown as the Boeing C Stratoliner by the United States Army Air Forces
+In Boeing designed a four engine airliner in parallel with the Boeing Model B heavy bomber then in development as the Model It combined the wings tail rudder landing gear and engines from the B with a new pressurized circular cross section fuselage with a maximum diameter of in mm
+The first aircraft built registration NX crashed on March while being demonstrated to KLM's representatives After takeoff the aircraft climbed to an altitude of ft m where stability tests were made While carrying out side slips it entered an inadvertent spin following a stall and made two to three turns before the engines were used to stop the spin While recovering from the subsequent dive the wings and horizontal tail surfaces were over stressed and failed due to excessive loads All ten aboard were killed which included TWA's representative KLM's technical director a Dutch Air Ministry representative Boeing's test pilot as well as their Chief Aerodynamicist and their Chief Engineer
+Subsequent wind tunnel testing showed that the addition of a dorsal fin extended from the vertical tail fixed the problem which was then air tested on NC and also incorporated into Boeing's rear fuselage redesign for the B E bomber
+The Stratoliners were normally flown with a pilot and co pilot and unusually for the time both Pan Am and TWA aircraft carried a flight engineer to reduce the workload on the two pilots by monitoring the engines for any problems and fine tuning them while they also controlled fuel consumption from each of the tanks to maintain the aircraft's fore aft and lateral balance Too much fuel used in one tank could result in the aircraft becoming uncontrollable They also monitored other aircraft systems including the hydraulics used for undercarriage retraction and the cabin pressurization system
+Pan Am aircraft had one additional crew member compared to TWA aircraft Because they made long overwater flights they carried a navigator who wasn't considered necessary for overland flights which were served by a network of beacons across the continent
+Both TWA and Pan Am normally carried two flight attendants TWA began using women as cabin crew in late which they called Hostesses while Pan Am continued to use male stewards until late in WW
+Following the entry of the United States into World War II in December long range transports were needed to transport government and military officials around the globe and many aircraft including TWA's Boeing s were pressed into service
+Beginning in February these were flown to Albuquerque New Mexico for conversion to meet military needs which included the removal of pressurization equipment to save weight removal of some of the forward seats and alteration of two of the four forward sleeper compartments to provide space for an additional five US gal l imp gal fuel tanks and a crew rest area The landing gear was strengthened and the maximum takeoff weight increased from to lb to kg while the exterior was painted olive drab with grey undersides
+After a couple of years the USAAF found it now had enough long range transports and sold the fleet back to TWA paid to have them reconverted back to civil standard under the SA B designation by Boeing who replaced the wings and horizontal tail with those from the B G while slightly more powerful engines were fitted and the electrical system was replaced with from the B Superfortress The cabin was redesigned and passenger capacity was increased from to
+Original unpressurized concept which began as a four engined Boeing
+PAA or S Strato Clipper
+Designation for three aircraft built for Pan Am under ATC Visible external differences included longer engine cowlings Four hp kW Wright GR G A Cyclone engines were fitted with two speed superchargers Crew of six Strato Clipper was Pan Am's name for the type
+Designation for five aircraft built for TWA under ATC These differed externally from the Pan Am aircraft in having large external flap actuators Four hp kW Wright GR G A Cyclone engines were fitted with two speed superchargers Crew of five
+Designation for one aircraft built for Howard Hughes
+Five Trans World SA Bs were impressed into the USAAF The cabin pressurization was removed to save weight and the external flap actuators replaced
+The C s were overhauled and updated with modified B G wings which retained the s wing slots and larger tailplanes which were mounted further aft Four hp kW Wright GR G A Cyclone engines were fitted along with B electrical systems Ten were built
+NX Crashed on test flight on March killed causing redesign of fin and rudder
+NC delivered to Pan Am as Clipper Rainbow Sold to Aigle Azur in went to Far East subsidiary Aigle Azur Extr me Orient as F BHHR Damaged beyond repair May
+NC delivered to Pan Am as Clipper Flying Cloud Sold to Haiti as Now on static display at the Smithsonian
+NC delivered to Howard Hughes as The Flying Penthouse Subsequently converted to a houseboat
+NC delivered to TWA as Comanche then sold to the USAAF as C Sold as F BELV to Aigle Azur then it went to Far East subsidiary Aigle Azur Extr me Orient and later to CITCA Went missing on October
+NC delivered to TWA as Cherokee then sold to the USAAF as C Sold as F BELU to Aigle Azur to Far East subsidiary Aigle Azur Extr me Orient and larer to CITCA and CIC sold as XW TFP Crashed March
+NC delivered to TWA as Zuni then sold to the USAAF as C Sold as F BELX and operated by CIC until sold again to become XW TFR Crashed June
+NC delivered to TWA as Apache then sold to the USAAF as C Operated by Airnautic as F BELY sold again as XW PGR Damaged beyond repair on February
+NC delivered to TWA as Navajo then sold to the USAAF as C Operated by Airnautic as F BELZ then to Aigle Azur Crashed on December
+NC delivered to Pan Am as Clipper Comet To Aerovias Ecuatorianas as Quito HC and later to Quaker City Airways as N Crashed May The first Boeing Stratoliner NX made its first flight from Boeing Field near Seattle on December prior to its intended delivery to Pan Am following testing and certification
+The first customer delivery was to millionaire Howard Hughes who bought NX for for a round the world flight hoping to break his own record of hours minutes set from July to in a Lockheed Model Super Electra Hughes' Stratoliner was fitted with extra fuel tanks and was ready for the first leg of the round the world attempt when Nazi Germany invaded Poland on September causing the attempt to be abandoned
+Hughes later had the extra fuel tanks removed and had it fitted with much more powerful Wright R engines for its transformation into The Flying Penthouse In Hughes spent an additional renovating it so he could sell it which now included a new interior designed by Raymond Loewy Oil tycoon Glenn McCarthy bought it and named it Shamrock for the opening of his new Shamrock Hotel however McCarthy defaulted on payments and it was returned to Hughes It languished unflown until when it was damaged beyond repair by a hurricane and bought for by Kenneth W London who cut the wings and tail off built a hull under it and installed a pair of V engines to convert it into a houseboat he named Londonaire After various repossessions deaths and failed sales later it became the Cosmic Muffin in which form it still survives
+In Pan American Airways placed the first order for two Stratoliners which they soon increased to six A second order for five followed from Transcontinental Western Air TWA Pan Am had received three and TWA received its five before war intervened and civil aircraft production halted
+Ten s were built three being delivered to Pan Am NC Clipper Rainbow NC Clipper Flying Cloud and NC Clipper Comet five to TWA NC Comanche NC Cherokee NC Zuni NC Apache and NC Navajo one aircraft went to Hughes NX and one was wrecked in testing prior to delivery NC marked as NX for promotional purposes
+Deliveries to Pan Am started in March TWA received its first Stratoliner on May and the last one was delivered on June Both TWA and Pan Am carried out their first revenue flights on July TWA's Stratoliners flew between Los Angeles and New York making three stops while Pan Am's flew from Miami to Latin America
+On the entry of the United States into World War II Pan Am continued operating its Stratoliners on routes to Central and South America but under direction of the Army Air Forces' Air Transport Command
+All five TWA Stratoliners were withdrawn from operations on December while TWA created a subsidiary the Intercontinental Division ICD whose civilian crews would operate them on behalf of the United States Army Air Forces The Stratoliners were sold to the USAAF who assigned the type the C designation and each of them was given a USAAF serial number The first of these was accepted by the USAAF on March and the last one on December The first service flight was made beginning February when a flew to South America before crossing the South Atlantic to Africa and leisurely making their way to Prestwick Scotland where they arrived on April primarily having carried munitions
+After a couple of years the USAAF found it now had enough long range transports and sold the fleet back to TWA with the aircraft being received by them between January and December
+Two main routes were flown between Washington D C and Cairo across the South Atlantic and between New York and Prestwick Scotland across the North Atlantic They often flew non stop the mi km between Gander Newfoundland and Prestwick Scotland in the north and the mi km between Natal Brazil and Accra Ghana in the south After July a refueling stop at Ascension Island was added in the South Atlantic In the north stops at Iceland or Greenland were often necessary when flying west against the prevailing winds As Douglas C Skymasters took over the Gander to Prestwick route the C s operated between Marrakech and Prestwick over the Atlantic
+The USAAF returned the five C s to TWA between January and December It cost TWA million to have them rebuilt by Boeing and the first of them resumed passenger service on April The CAA recertified these as SA B civilian transports with their old registration numbers TWA had the interior cabin redesigned in two sections with ten seats forward and aft
+Pan Am flew its unmodified passenger Stratoliners between Miami and Havana until then sold them off to various small operators including Aerovias Ecuatorianas AREA Some later returned to the US whilst others went to South East Asia to replace losses there
+One aircraft was eventually purchased by the Haitian Air Force in and after plans to use it for passenger service were cancelled it was fitted out as a Presidential transport When Fran ois Papa Doc Duvalier came into power in he didn't trust his pilots and so chose not to use it but instead had the aircraft sold off the same year with the money raised being used to buy five North American T G Texan training aircraft This aircraft would later return to the U S and is now restored and at the Smithsonian Museum
+Although TWA was already committed to the larger and faster Lockheed Constellation they only began to withdraw the Stratoliners in April having contineued to use them in domestic service where they were replaced with the similarly sized but cheaper to operate twin engine Martin The five SA B s were sold to the French operator Aigle Azur French for Blue Eagle who received them between May and December and who used them on scheduled flights from France to North and Central Africa and later to French Indo China
+Three were transferred to Aigle Azur's Vietnamese subsidiary Aigle Azur Extr me Orient Blue Eagle Far East and were used in South East Asia in various liveries and registrations with at least one aircraft remaining in commercial use until Two aircraft remained in Europe for Mediterranean runs especially around Corsica operated by Airnautic The subsidiary was sold to UAT in and this in turn merged to become UTA in but the original branding was kept until Some of these aircraft remained under contract to the ICC CIC running both ad hoc flights plus regular scheduled services for diplomats between various often hostile capitals Aircraft write offs required buying other surviving s for maintenance and continuity of service At various times following independence most received Laotian XW registrations whilst maintaining the same services Some were registered to the CITCA leasing company and a couple formed the basis for the national carrier Royal Air Lao's fleet
+United StatesHoward Hughes bought one aircraft
+Pan American Airways PAA Pan Am received three aircraft
+Trans World Airlines TWA received five aircraft
+Quaker City Airways ex Pan Am airframe EcuadorAerovias Ecuatorianas CA AREA Ecuador as HC FranceAigle Azur operated ex TWA aircraft bought in
+Commission Internationale de Contr le CIC operated the Aigle Azur aircraft including those of its affiliates such as the CITCA leasing company which were under contract to the CIC ICC Airnautic operated two aircraft LaosRoyal Air Lao operated two ex Aigle Azur aircraft CambodiaRoyal Air Cambodge operated one aircraft with French registration
+Cambodia Air Commercial operated one aircraft under a Laos registration HaitiHaitian Air Corps
+Compagnie Ha tienne de Transports A riens CoHaTA a Military transport organization operated one ex Pan Am airframe intended as a presidential transport from until sold and the money used to buy North American T G trainers in United StatesUnited States Army Air Forces operated five ex TWA SA Bs as C s Three Pan Am s operated under the direction of the USAAF but ownership remained with Pan Am According to the Aviation Safety Network the Boeing was involved in eight hull loss incidents with fatalities Four of the eight incidents involved fatalities with one being shot down while in a war zone
+March Boeing's prototype NX crashed near Mt Rainier during a test flight killing all ten on board The recovery from a spin caused the aircraft to break up
+May Quaker City Airways S N force landed near Madras Oregon on a test flight after an explosion and fire in the cabin possibly due to a fuel leak and was consumed by the fire Both pilots survived
+May Aigle Azur Extr me Orient S F BHHR was blown off the runway and crashed at Tan Son Nhat International Airport while landing after the number four engine failed in flight during a non scheduled Saigon Vientiane service The passengers and crew survived but the aircraft was written off
+December Airnautic SA B F BELZ collided with Monte Renoso on Corsica due to crew error while on a Bastia Nice Ajaccio Nice Bastia flight killing all on board in the worst accident involving the
+October International Control Commission SA B F BELV disappeared on a scheduled non commercial Vientiane Hanoi flight with on board and was probably shot down
+February Royal Air Lao SA B XW PGR struck a Royal Lao Air Force Douglas C while landing at Luang Prabang damaging the wing A lack of spares prevented repairs
+June Cambodia Air Commercial SA B XW TFR force landed in a rice field shortly after takeoff from Battambang Airport en route to Phnom Penh due to poor maintenance which caused the failure of three engines The right wing struck a tree and separated just before landing of on board died
+March Royal Air Lao SA B XW TFP force landed in the Mekong River in Laos while on a Hong Kong Vientiane cargo service Both pilots were held prisoner by the Pathet Lao for two months The wreck was located in The sole intact Boeing Stratoliner NC is preserved in flying condition at the Smithsonian's Steven F Udvar Hazy Center After having been restored to flying condition it was being delivered to the Smithsonian on what was to be its last flight when it ran out of fuel and ditched in Elliott Bay near Seattle Washington in March Despite the incident it was raised and again restored and it completed its flight to the Smithsonian where it was placed on display
+The fuselage of Howard Hughes' NX also survives although it was stripped of flying surfaces and converted into the houseboat Cosmic Muffin The aircraft was awaiting restoration at Fort Lauderdale International Airport in the early s when it was severely damaged in a hurricane after its tiedowns failed and it was blown into trees The aircraft was later salvaged for its conversion into a house boat and the interior remains notable for the additions made by Howard Hughes It is now part of the Florida Air Museum's collection
+Crew Five including pilot co pilot flight engineer and flight attendants
+Capacity Daytime seating for nighttime capacity in berths and reclining chairs
+Wing chord ft in m at root and ft in m at tip rib
+Height ft in m at rudder
+Wing area sq ft m
+Airfoil NACA at root NACA at tip
+Wing dihedral from chord line
+Wing incidence constant root to tip
+Empty weight lb kg to lb kg in overload condition
+Maximum load lb kg with passengers lbs of baggage and US gal l imp gal lb kg of fuel
+Fuel capacity US gal l imp gal normal carried within the wings Overload could be increased to US gal l imp gal
+Fuel consumption US gal l imp gal hr
+Oil capacity US gal l imp gal
+Powerplant Wright GR G A Cyclone air cooled radial engines with two stage superchargers hp kW each rpm for takeoff sea level reduced to hp kW rpm when at ft m
+Propellers bladed Hamilton Standard all metal Hydromatic constant speed propellers ft in m diameter Performance
+Maximum speed mph km h kn at ft m
+Cruise speed mph km h kn at ft m power
+Minimum control speed mph km h kn with flaps
+Range mi km nmi at ft m power
+Service ceiling ft m reduced to ft m when on three engines
+Rate of climb ft min m s initial from sea level
+Wing loading lb sq ft kg m
+Power loading lb hp kg kW take off lb hp kg kW cruiseBoeing Stratocruiser
+Renard R first airliner with a pressurized cabin Related development
+Boeing B Flying FortressAircraft of comparable role configuration and era
+Lockheed Model Excalibur project only
+List of aircraft of World War IIAbzug Malcolm J Larrabee E Eugene Airplane Stability and Control A History of the Technologies that Made Aviation Possible Cambridge UK Cambridge University Press ISBN
+Abel Drina Welch ed Paul Matt Scale Airplane Drawings Vol Destin Florida Aviation Heritage Aviation Book Co p ISBN
+Betts Ed The Boeing Stratoliners and TWA American Aviation Historical Society Journal
+Bowers Peter M Boeing Aircraft since Third ed London Putnam ISBN
+Davies R E G Pan Am an Airline and its Aircraft An illustrated history of the world's greatest airline and the airplanes that revolutionized air trasport from to the present New York City Orion Books p ISBN
+Davies R E G TWA an Airline and its Aircraft years of pioneering progress McLean Virgina Paladwr Press ISBN
+Donald David The Encyclopedia of Civil Aircraft San Diego California Thunder Bay Press ISBN
+Ford Daniel March April First and Last 'Strat' Boeing's Model and its Survivors Air Enthusiast Vol pp ISSN
+Hagedorn Daniel P Central American and Caribbean Air Forces Kent UK Air Britain Historians p ISBN
+Hardy Mike January The Stratoliner Story Part Air International Vol no pp ISSN
+Hardy Mike February The Stratoliner Story Part Air International Vol no pp ISSN
+Juptner Joseph P US Civil Aircraft Vol ATC Aero Publishers pp ISBN
+Marrett George J Howard Hughes aviator Annapolis Naval Institute Press ISBN
+Munson Kenneth Bombers in Service Patrol and Transport Aircraft Since London Macmillan ISBN
+Dietrich Noah Thomas Bob Howard The Amazing Mr Hughes Greenwich Fawcett Publications p ISBN
+Taylor H A July September Ten Big Boeings The Stratoliner Story Air Enthusiast No pp ISSN TWA promotional video with footage of Stratoliner
+History of the Boeing by Boeing Historical Division
+Video Courtesy of Bomberguy Aviation Historian
+Coast to Coast on Four Motors September Popular Mechanics

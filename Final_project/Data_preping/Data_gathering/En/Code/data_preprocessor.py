@@ -1,7 +1,7 @@
-from enum import Flag
 import os
 import re
 import shutil
+import contractions
 
 
 class TextPreprocessor:
@@ -26,8 +26,8 @@ class TextPreprocessor:
         return self.__preprocessed_data_path
 
 
-    @staticmethod
-    def has_BOM(filename):
+    @staticmethod    
+    def __has_BOM(filename):
         # ref: https://codeverge.com/unicodeerror-utf-16-stream-does-not-start-with-bom
         with open(filename, 'rb') as f:
             initial_bytes = f.read(2)
@@ -35,9 +35,18 @@ class TextPreprocessor:
 
 
     @staticmethod
-    def save_preprocessed_data(preprocessed_data_path: str, filename: str, data: str) -> None:
+    def __expand_contractions(text, contractions_dict):
+        def replace(match):
+            return contractions_dict[match.group(0)]
+
+        # Regular expression for finding contractions
+        contractions_re = re.compile('(%s)' % '|'.join(contractions_dict.keys()))
+        return contractions_re.sub(replace, text)
+
+    @staticmethod
+    def __save_preprocessed_data(preprocessed_data_path, filename: str, data: str) -> None:
         with open(preprocessed_data_path + '/' + filename, 'w', encoding='utf-8') as f:
-            f.write(data + '\n')
+            f.write(data)
         return None
 
 
@@ -52,31 +61,65 @@ class TextPreprocessor:
                 # Take only available sentence
                 sentences = [sentence for sentences in paragraph for sentence in sentences if len(sentence) != 0]
 
-            # save data to preprocessed_data folder
+            # save data
             data = '\n'.join(sentences)
-            self.save_preprocessed_data(self.__preprocessed_data_path, filename, data)
+            self.__save_preprocessed_data(self.__preprocessed_data_path,  filename, data)
 
 
-    def remove_special_chars(self):
-        for filename in sorted(os.listdir(self.__data_path)):
-            with open(os.path.join(self.__data_path, filename), 'r', encoding='utf-8') as f:
-                data = ''
+    def eliminate_contraction(self):
+        contractions_dict = {"how'll":"how will",
+                             "mayn't":"may not",
+                             "might've":"might have",
+                             "mightn't":"might not",
+                             "mustn't":"must not",
+                             "needn't":"need not",
+                             "shan't":"shall not",
+                             "so've":"so have",
+                             "that'd":"that would",
+                             "there'd":"there would",
+                             "to've":"to have",
+                             "what'll":"what will",
+                             "when've":"when have",
+                             "where've":"where have",
+                             "why've":"why have",
+                             "will've":"will have"}
+        
+        for filename in os.listdir(self.__data_path):
+            with open(self.__data_path + '/' + filename, 'r', encoding='utf-8') as f:
+                expanded_lines = []
                 for line in f:
-                    # remove special chars
-                    line = re.sub(r'[^a-zA-Z ]', ' ', line.lower())
+                    expanded_words = [self.__expand_contractions(word, contractions_dict) for word in line.split()]
+                    expanded_line = ' '.join(expanded_words)
+                    expanded_lines.append(expanded_line)
+            
+            # save data
+            expanded_lines = '\n'.join(expanded_lines)
+            self.__save_preprocessed_data(self.__preprocessed_data_path, filename, expanded_lines)
+                                    
+
+    def remove_non_alphabet_chars(self):
+        for filename in sorted(os.listdir(self.__data_path)):
+            print(filename, self.get_data_path())
+            with open(os.path.join(self.__data_path, filename), 'r', encoding='utf-8') as f:
+                data = []
+                for line in f:
+                    # remove non-alphabet chars
+                    line = re.sub(r"[^a-zA-Z \']", ' ', line)
                     if line.startswith('-'):
                         line = line[1:]
 
-                    # Loại bỏ khoảng trắng đầu dòng và giữ một khoảng trắng giữa các từ
+                    # remove ws at the beginning and the end of sentence
                     line = ' '.join(line.strip().split())
 
                     # if len line < 5, ignore it
-                    if len(line) >= 5:
-                        print(line, len(line))
-                        data = data + line + '\n'
-
-                # save to file
-                self.save_preprocessed_data(self.__preprocessed_data_path, filename, data)
+                    if len(line.split()) < 5:
+                        continue
+                    else:
+                        data.append(line)
+            
+                # save data
+                data = '\n'.join(data)
+                self.__save_preprocessed_data(self.__preprocessed_data_path, filename, data)
 
 
 def en_preprocessing() -> None:
@@ -115,13 +158,13 @@ def en_preprocessing() -> None:
         # perform splitting
         text_preprocessor.split_into_sentence()
 
+        # eliminate contraction
+        text_preprocessor.eliminate_contraction()
 
-    # # remove punctuation marks
-    # for category in category_ls:
-    #     text_preprocessor = TextPreprocessor()
-    #     text_preprocessor.set_data_path(preprocessed_data_dir + '/' + category)
-    #     text_preprocessor.set_preprocessed_data_path(preprocessed_data_dir + '/' + category)
-    #     text_preprocessor.remove_special_chars()
+        # remove punctuation marks
+        text_preprocessor.remove_non_alphabet_chars()
+    
+        
 
 
 def main() -> None:

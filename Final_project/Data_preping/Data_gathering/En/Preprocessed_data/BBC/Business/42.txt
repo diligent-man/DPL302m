@@ -1,41 +1,15 @@
-Markets
-Fear & Greed Index
-Latest Market News
-Intelligence officers in Belgium are monitoring Alibaba’s logistics hub in Europe for possible espionage on behalf of the Chinese government.
-Belgium’s state security service VSSE told CNN Thursday it was watching the activities of Alibaba’s (BABA) logistics arm, Cainiao, at the country’s Liège cargo airport
-The Financial Times first reported the news.
-“We strongly deny the allegations [which are] based on prior conjecture,” Cainiao told CNN in a statement
-“Cainiao is in compliance with all laws and regulations where it operates.”
-Alibaba, which is preparing to spin off Cainiao via an initial public offering, did not respond to a request for comment.
-The VSSE said every Chinese company was legally obliged to provide data to Chinese security services on request, and it believes they have the “intent and capacity to use this data for non-commercial purposes.”
-“[We] detect and fight against possible spying and/or interference activities carried out by Chinese entities, including Alibaba,” the VSSE said in a statement.
-Liège airport announced in 2018 that it had struck a deal with Cainiao to become its European logistics hub
-In a statement at the time, the airport said Cainiao would use a “collaborative data platform” at the site to manage its operations.
-“This electronic tool supplies real-time access to information for logistics partners, buyers and sellers,” it said.
-The hub opened in 2021.
-In July, the Belgian government introduced a requirement for all direct investments by companies from outside the European Union in “sensitive” industries to be screened by a federal body for potential national security risks
-Those industries include critical infrastructure, raw materials, energy and defense.
-Following decades of relative openness, Western governments have become more cautious in recent years about the degree of access they afford to Chinese companies, citing security concerns.
-Last November, the German government blocked the sale of one of its semiconductor factories to a Chinese-owned tech firm because of security fears
-A month prior, those same concerns prompted Berlin to intervene in the purchase by Chinese shipping giant Cosco of a stake in the operator of a Hamburg port terminal, resulting in the stake being reduced.
-Last month, Alibaba announced a plan to spin off and list Cainiao on the Hong Kong Stock Exchange.
-The news of the upcoming IPO came six months after the e-commerce giant said it intended to split its business into six separate units, each overseen by its own chief executive and board of directors.
-— Juliana Liu contributed reporting.
-Most stock quote data provided by BATS
-US market indices are shown in real time, except for the S&P 500 which is refreshed every two minutes
-All times are ET
-Factset: FactSet Research Systems Inc
-All rights reserved
-Chicago Mercantile: Certain market data is the property of Chicago Mercantile Exchange Inc
-and its licensors
-All rights reserved
-Dow Jones: The Dow Jones branded indices are proprietary to and are calculated, distributed and marketed by DJI Opco, a subsidiary of S&P Dow Jones Indices LLC and have been licensed for use to S&P Opco, LLC and CNN
-Standard & Poor’s and S&P are registered trademarks of Standard & Poor’s Financial Services LLC and Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC
-All content of the Dow Jones branded indices Copyright S&P Dow Jones Indices LLC and/or its affiliates
-Fair value provided by IndexArb.com
-Market holidays and trading hours provided by Copp Clark Limited.
-© 2023 Cable News Network
-A Warner Bros
-Discovery Company
-All Rights Reserved
- CNN Sans ™ & © 2016 Cable News Network.
+Intelligence officers in Belgium are monitoring Alibaba s logistics hub in Europe for possible espionage on behalf of the Chinese government
+Belgium s state security service VSSE told CNN Thursday it was watching the activities of Alibaba s BABA logistics arm Cainiao at the country s Li ge cargo airport The Financial Times first reported the news
+We strongly deny the allegations which are based on prior conjecture Cainiao told CNN in a statement Cainiao is in compliance with all laws and regulations where it operates
+Alibaba which is preparing to spin off Cainiao via an initial public offering did not respond to a request for comment
+The VSSE said every Chinese company was legally obliged to provide data to Chinese security services on request and it believes they have the intent and capacity to use this data for non commercial purposes
+We detect and fight against possible spying and or interference activities carried out by Chinese entities including Alibaba the VSSE said in a statement
+Li ge airport announced in that it had struck a deal with Cainiao to become its European logistics hub In a statement at the time the airport said Cainiao would use a collaborative data platform at the site to manage its operations
+This electronic tool supplies real time access to information for logistics partners buyers and sellers it said
+In July the Belgian government introduced a requirement for all direct investments by companies from outside the European Union in sensitive industries to be screened by a federal body for potential national security risks Those industries include critical infrastructure raw materials energy and defense
+Following decades of relative openness Western governments have become more cautious in recent years about the degree of access they afford to Chinese companies citing security concerns
+Last November the German government blocked the sale of one of its semiconductor factories to a Chinese owned tech firm because of security fears A month prior those same concerns prompted Berlin to intervene in the purchase by Chinese shipping giant Cosco of a stake in the operator of a Hamburg port terminal resulting in the stake being reduced
+Last month Alibaba announced a plan to spin off and list Cainiao on the Hong Kong Stock Exchange
+The news of the upcoming IPO came six months after the e commerce giant said it intended to split its business into six separate units each overseen by its own chief executive and board of directors
+Most stock quote data provided by BATS US market indices are shown in real time except for the S P which is refreshed every two minutes All times are ET Factset FactSet Research Systems Inc All rights reserved Chicago Mercantile Certain market data is the property of Chicago Mercantile Exchange Inc and its licensors All rights reserved Dow Jones The Dow Jones branded indices are proprietary to and are calculated distributed and marketed by DJI Opco a subsidiary of S P Dow Jones Indices LLC and have been licensed for use to S P Opco LLC and CNN Standard Poor s and S P are registered trademarks of Standard Poor s Financial Services LLC and Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC All content of the Dow Jones branded indices Copyright S P Dow Jones Indices LLC and or its affiliates Fair value provided by IndexArb com Market holidays and trading hours provided by Copp Clark Limited
+Cable News Network A Warner Bros Discovery Company All Rights Reserved CNN Sans Cable News Network
