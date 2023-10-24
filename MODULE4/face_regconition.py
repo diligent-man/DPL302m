@@ -99,11 +99,11 @@ print("kian")
 np.around(np.array(danielle) / 255.0, decimals=12).shape
 print("danielle")
 def verify(image_path, identity, database, model):
-    # Step 1: Compute the encoding for the image. Use img_to_encoding() see example above. (≈ 1 line)
+    # Step 1: Compute the encoding for the image. Use img_to_encoding() see example above. 
     encoding = img_to_encoding(image_path, model)
-    # Step 2: Compute distance with identity's image (≈ 1 line)
+    # Step 2: Compute distance with identity's image 
     dist = np.linalg.norm(encoding - database[identity])
-    # Step 3: Open the door if dist < 0.7, else don't open (≈ 3 lines)
+    # Step 3: Open the door if dist < 0.7, else don't open 
     if dist < 0.7:
         print("It's " + str(identity) + ", welcome in!")
         door_open = True
@@ -121,7 +121,7 @@ verify("images/camera_2.jpg", "kian", database, FRmodel)
 
 
 def who_is_it(image_path, database, model):
-## Step 1: Compute the target "encoding" for the image. Use img_to_encoding() see example above. ## (≈ 1 line)
+## Step 1: Compute the target "encoding" for the image. Use img_to_encoding() see example above. 
     encoding =  img_to_encoding(image_path, model)
     
     ## Step 2: Find the closest encoding ##
