@@ -1,0 +1,5 @@
+Source Input Format SIF defined in MPEG- is a video format that was developed to allow the storage and transmission of digital video
+SIF format PALSECAM has a resolution of or x active pixels and a refresh rate of frames per second
+SIF Format NTSC has a resolution of or x active pixels and a refresh rate of frames per secondWhen compared to the CCIR specifications which defines the appropriate parameters for digital encoding of TV signals SIF can be seen as being reduced by half in all of height width frame-rate and chrominance
+SIF video is known as a constrained parameters bitstream
+The computer industry has defined square-pixel SIF to be x QVGA or x active pixels with a refresh rate of whatever the computer is capable of supporting

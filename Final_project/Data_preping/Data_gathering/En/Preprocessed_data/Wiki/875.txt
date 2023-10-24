@@ -1,0 +1,105 @@
+Islanders stylized in all uppercase is a casual city-building game developed and published by German indie game studio Grizzly Games
+It was initially released on Steam for Microsoft Windows on April and support for macOS and Linux was added in June that year
+A version for consoles titled Islanders Console Edition was released for Nintendo Switch on August and PlayStation and Xbox One on August
+The console version was published by Coatsink who announced on May that they had acquired Islanders from Grizzly Games
+In Islanders players earn points by strategically placing buildings from their inventory onto a procedurally generated island
+Earning points restocks the building inventory eventually unlocking new types of buildings and the ability to move to a new island and continue the session
+The session ends when no more points can be gained because no buildings are available or there is no space to place them
+The overall goal of the game is to obtain the highest score possible in a single session
+Islanders was developed over seven months while the members of Grizzly Games were completing degrees in video game design at HTW Berlin
+The developers were inspired by a mutual love of city-building games and chose to embrace simplicity in designing Islanders because of the limitations of working with a small team
+Employing procedural generation of new islands enabled them to keep the game's mechanics simple while still providing the player enough variety to make the game engaging for repeat sessions
+Critical reception of Islanders was generally positive
+Most reviews highlighted elements of the game's minimalist design low poly visuals relaxing sound design and simple yet engaging gameplay mechanics
+These same attributes also attracted a degree of criticism from reviewers who felt there was room for more complexity
+In April Islanders was one of the top twenty best-selling games on Steam
+Several video game journalists placed it on lists of favorites for
+At the start of each session players are presented with a small procedurally generated island
+There are several styles of islands some have terrain that restricts the placement of certain buildings
+The player is given a choice between two building packs to start with each of which provides a limited number of buildings according to a theme such as forestry farming or fishing
+When selected from the inventory a building displays a translucent sphere around it which indicates the distance at which it will earn points from existing buildings and natural features such as trees
+The size of this scoring sphere varies between building types
+Buildings gain points from being placed near relevant structures but lose points for incompatible ones
+A circus for example gains points for being placed near houses but loses points for being near mansions
+As potential points are shown in preview before placement the player can move the building around the island to determine the best location before setting the building down permanently
+Buildings can be rotated to fit into position but once placed cannot be removed or built over so careful placement and forward planning are important to maximize the score
+As buildings are placed they are removed from the inventory
+When the player reaches a given threshold of points they may choose from one of two new themes for their next building pack which will include more copies of already-unlocked buildings as well as buildings from the newly-selected theme
+This process gradually unlocks more advanced building types such as gold mines and resorts which may have more difficult placement criteria but higher scoring potential
+Scoring points fills up the island gauge at the bottom of the screen when filled the player can click on it to move to the next island
+The number of points required to restock the inventory and move to new islands increases with each unlock
+Players are free to remain on their current island and continue to build and increase their score until they decide to move on
+The session ends if the player runs out of buildings to place or space to place buildings before unlocking the next island
+The player's score is cumulative across all islands in a session and the overall objective is to reach a high score for the entire session
+The game intentionally omits many features common to city-builders such as resource accumulation traffic management and technology research
+There are no sidequests or optional objectives although there is a short list of achievements to earn
+The sole multiplayer element is the global high score board that ranks every player's highest-scoring game
+Grizzly Games is composed of Paul Schnepf Friedemann Allmenröder and Jonas Tyroller who met during the Bachelor of Arts in Game Design program at HTW Berlin
+Schnepf and Allmenröder first worked together on a second-year project a short experimental game called ROM
+Later in their second year they worked with another student Shahriar Shahrabi to develop minimalist wingsuit flight simulator Superflight founding Grizzly Games as a means to release it
+Shahrabi left after the release of Superflight
+During their third year Tyroller joined Grizzly Games and development began on Islanders
+The development of Islanders began with a three-week process of researching prototyping and refinement of several concepts
+Inspired by a mutual childhood love of city-building games like Anno The Settlers and SimCity the team decided to move forward with the concept that became Islanders
+The game had a short development cycle of seven months four months of major development time and another three months of refinement and preparation before release
+In an interview with Game World Observer Allmenröder described the game as an evolution of ideas explored in the earlier Superflight particularly the embrace of minimalism and procedural generation
+Because there were only three team members each had to fill multiple roles in the development process
+Rather than struggling against the limits of working with a small team they adopted simplicity as a design philosophy and decided to create a game that was simple enough to be played in short sessions but engaging enough to be returned to from time to time
+Schnepf compared the process of building a city in Islanders to be just like growing a garden
+The game's use of procedural generation had its roots in the development of Superflight
+In order to test game mechanics the developers created a script that quickly assembled new levels from pre-generated blocks
+They found that having new levels each time they played kept their experience entertaining without extending development time so they decided to use the process for Islanders
+When developing the mechanics of the game Allmenröder explained that his team constantly discussed simplifying the systems they were implementing Every time we made a decision we asked ourselves Can we make it simpler Can the game still be fun if we cut this feature The gameplay went through various iterations including one with a day-night cycle before the team settled on a simple proximity-based scoring system
+The visual design of the buildings is intended to be divorced from any specific time period or culture
+The game which uses the Unity D engine was initially released on Steam for Microsoft Windows on April
+Several post-release updates expanded the game with new content
+Early updates added new island types and new buildings such as seaweed farms and monuments as well as new gameplay features such as a photo mode that removes the user interface elements to allow for uncluttered screenshots
+The final major update was made in June adding support for macOS and Linux a sandbox mode which removes the scoring mechanic and provides the players with an unlimited selection of buildings and an undo button to allow players in original game mode to remove the last building placed
+Islanders Console Edition was developed by Grizzly Games in collaboration with Coatsink and released in
+The Nintendo Switch version was released on August
+Versions for PlayStation and Xbox One were released on August
+Backward compatibility allowed those versions to be played on the PlayStation and Xbox Series X and Series S respectively
+The console version has new island types and color schemes as well as an additional building type
+On May Coatsink announced that it had acquired Islanders from Grizzly Games with an eye towards creating downloadable content releasing versions for additional platforms and possibly developing a sequel
+Grizzly will remain involved with the series in an unstated capacity
+Critical reception of Islanders was largely positive it received an aggregate score of on Metacritic which uses a weighted average system
+Reviewers praised the game's intentionally simple mechanics as well as its minimalist low-poly visual aesthetic and relaxing soundtrack
+The game was commercially successful as well in April it was one of the top twenty highest-selling new releases on Steam
+In July the staff at Rock Paper Shotgun placed it on their list of the year's best games so far
+Luke Plunkett of Kotaku placed the game on his list of the top games of
+Paul Tamayo also of Kotaku named it one of the most relaxing games of
+Many critics highlighted the game's simplicity as a positive calling the game relaxing or meditative
+In his full review Luke Plunkett called Islanders pure city-building
+No fuss no distractions Reviewers found that the simple gameplay encouraged variable session length
+Many enjoyed the ability to play in short sessions
+Both the reviewer from video game magazine Edge and Cass Marshall of Polygon described using the game as a palate cleanser to wind down between sessions of more complicated games
+Others felt the game was suitable for long sessions in and of itself
+Several reviewers found that the process of strategically placing buildings reminded them of carefully directing falling blocks in the puzzle game Tetris
+Visual style was a draw that affected the way some reviewers played the game
+French gaming site Millenium fr appreciated the way the color palettes and shapes suited the gameplay
+Samuel Guglielmo of TechRaptor found that the art style prompted him to place buildings in locations that looked pretty even if it meant scoring fewer points
+The reviewer from Edge described going through a similar battle between efficiency and beauty but found that the crisp geometric style of the graphics meant that the islands still looked attractive even when they focused on scoring over aesthetics
+Benja Hiller of German indie magazine Welcome to Last Week enjoyed the lack of human characters there are no annoying people
+Nobody who wags his finger maliciously in front of you and says Now take care of the road damage
+Some reviewers felt that the game reflected or encouraged philosophical thinking
+Michael Moore at The Verge wrote that the way each island visually progressed from a pristine natural setting to being densely packed with buildings felt like an honest reflection of humanity's exploitative relationship with nature At Eurogamer Christian Donlan had similar thoughts asking Is it nice to see one of the game's gorgeous low-poly islands filled with buildings or is it a crime against nature He appreciated that the game allowed the player to decide that for themselves rather than forcing a perspective on them
+Reviewing the console version in for Nintendo Life Roland Ingram wrote Islanders is an elucidation of how games build meaning from abstract systems Ryan Young of The Indie Games Website discussed Islanders in relation to the lusory attitude a psychological state of willingness to play and abide by a game's arbitrary rules
+He found that the game's slow pace combined with the possibility of entropy spiraling from a poor building placement affected his ability to adopt the lusory attitude towards the game
+The game's studied minimalism attracted criticism from reviewers who wanted more depth from the experience
+Both Nicol Paschetto of Italian gaming site The Games Machine and Alice Liguori of Rock Paper Shotgun were disappointed that the game did not have animated inhabitants to give the islands a sense of life
+Some critics cited the single-song soundtrack as a negative
+Other reviewers had concerns with game mechanics
+The reviewer from Millenium wished there were more objectives aside from simply earning points
+Reviewing the console edition Joe Findlay of Comics Gaming Magazine found the lack of in-game consequences for placement of buildings made the game feel pointless to him
+The reviewer from Edge magazine noted that the game can be a little persnickety about placement of buildings and Alessandro Barbosa of Critical Hit disliked the lack of an undo button at launch
+Several reviewers found it frustrating to start again on the earlier simpler islands after a game over
+Young wrote that the prospect of restarting a failed session felt stressful enough to him that he quit playing entirely instead
+Rahul Shirke of IND wished for an option to choose the size or type of island when starting a new game and Alec Meer suggested that players should be able to reset existing islands
+Response to Islanders Console Edition was also positive the Switch version received an aggregate score of on Metacritic
+Critics generally found that the relaxed gameplay and low-poly graphics translated well to the Nintendo Switch in both docked and handheld mode
+However many found the controls did not translate well to game controllers
+Donlan noted that playing with the Switch controller was not quite as elegant as it was with a mouse
+Ingram wrote that the controls can sometimes get fiddly Willem Hilhorst writing for Nintendo World Report was the most critical calling the control scheme irritating
+Hilhorst also wanted more explicit instructions on the specifics of building placement as he sometimes found the mechanics of where you can actually place the building to be confusing
+Following the release of the console edition some critics have drawn comparisons to Dorfromantik a tile-based city-building game released in
+List of city-building video gamesOfficial website for Islanders Console Edition

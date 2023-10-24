@@ -1,0 +1,344 @@
+The Lockheed P- Orion is a four-engined turboprop anti-submarine and maritime surveillance aircraft developed for the United States Navy and introduced in the s
+Lockheed based it on the L- Electra commercial airliner
+The aircraft is easily distinguished from the Electra by its distinctive tail stinger or MAD boom used for the magnetic anomaly detection MAD of submarines
+Over the years the aircraft has seen numerous design developments most notably in its electronics packages
+Numerous navies and air forces around the world continue to use the P- Orion primarily for maritime patrol reconnaissance anti-surface warfare and anti-submarine warfare
+A total of P-s have been built
+In it joined the handful of military aircraft including the Boeing B- Stratofortress Boeing KC- Stratotanker Lockheed C- Hercules and the Lockheed U- that the United States military has been using for more than years
+The Boeing P- Poseidon will eventually replace the US
+Navy called for proposals for replacement of the piston-engined Lockheed PV Neptune later redesignated P- and Martin PM Marlin later redesignated P- with a more advanced aircraft to conduct maritime patrol and antisubmarine warfare
+Modifying an existing aircraft should save on cost and to allow rapid introduction into the fleet
+Lockheed suggested a military version of its L- Electra then still in development and yet to fly
+In April Lockheed won the competition and was awarded an initial research-and-development contract in May
+Lockheed modified the prototype YPV-YP-A Bureau Number BuNo from the third Electra airframe cn
+The first flight of the aircraft's aerodynamic prototype originally designated YPV- took place on August
+While based on the same design philosophy as the Electra the aircraft differed structurally it had feet m less fuselage forward of the wings with an opening bomb bay and a more pointed nose radome a distinctive tail stinger for detection of submarines by MAD wing hardpoints and other internal external and airframe-production technique enhancements
+The Orion has four Allison T turboprops which give it a top speed of knots kmh mph comparable to the fastest propeller fighters or even to slow high-bypass turbofan jets such as the Fairchild Republic A- Thunderbolt II or the Lockheed S- Viking
+Similar patrol aircraft include the Soviet Ilyushin Il- the French Breguet Atlantique and the British jet-powered Hawker Siddeley Nimrod based on the de Havilland Comet
+The first production version designated PV- was launched on April
+Initial squadron deliveries to Patrol Squadron Eight VP- and Patrol Squadron Forty-Four VP- at Naval Air Station Patuxent River Maryland began in August
+military transitioned to a unified designation system for all services with the aircraft being renamed the P- Orion
+Paint schemes have changed from early s gloss seaplane gray and white to mid-sssearly s gloss white and gray to mid-s flat-finish low-visibility gray with fewer and smaller markings
+In the early s the paint scheme changed to its current overall gloss gray finish with the original full-sized color markings
+However large-sized BuNos on the vertical stabilizer and squadron designations on the fuselage remained largely omitted
+Navy's Bureau of Naval Weapons contracted Univac Defense Systems Division of Sperry Rand to engineer build and test a digital computer a device then in its infancy to interface with the many sensors and newly developing display units of the P- Orion
+Project A-NEW was the engineering system which after several early trials produced the engineering prototype the CP-U Univac Serial A- A-NEW MOD Computing System
+Univac delivered the CP-U to the Naval Air Development Center at Johnsville Pennsylvania in this directly led to the production computers later equipped on the P-C Orion
+Three civilian Electras were lost in fatal accidents between February and March
+Following the third crash the FAA restricted the maximum speed of Electras pending determination of the causes
+After an extensive investigation two of the crashes those of September and March were identified as due to insufficiently strong engine mounts unable to damp a whirling motion that could affect the outboard engines
+When the oscillation was transmitted to the wings a severe vertical vibration escalated tearing the wings from the aircraft
+The company implemented an expensive modification program labelled the Lockheed Electra Achievement Program which strengthened the engine mounts and the wing structures supporting the mounts and replaced some wing skins with thicker material
+Lockheed at its own expense modified all the surviving Electras of the built at that time at the factory with the modifications taking days for each aircraft
+The changes were incorporated into subsequent aircraft as they were built
+Sales of Electra airliners were limited as Lockheed's technical fix did not serve to completely erase the aircraft's jinxed reputation in an era in which turboprop-powered aircraft were being replaced by faster jets
+In military roles that value fuel efficiency more than speed the Orion remained in service for over years after its introduction
+Although surpassed in production longevity by the Lockheed C- Hercules P-s were produced through
+Lockheed Martin opened a new P- wing production-line in as part of its Service Life Extension Program ASLEP for delivery in
+A complete ASLEP replaces the outer wings center-wing lower section and horizontal stabilizers with newly built parts
+Navy attempted to procure a successor aircraft to the P- and selected the improved P- over a naval-specific variant of the twin turbofan-powered Boeing but this program was subsequently cancelled
+In a second program to select a replacement the advanced Lockheed Martin Orion another P--derived aircraft lost out to the Boeing P- Poseidon a Boeing variant which entered service in
+The P- has an internal bomb bay under the front fuselage which can house conventional Mark torpedoes or Mark torpedoes andor special nuclear weapons
+Additional underwing stations or pylons can carry other armament configurations including the AGM- Harpoon AGM-E SLAM AGM-HK SLAM-ER AGM- Maverick millimetres in Zuni rockets and various other sea mines missiles and gravity bombs
+The aircraft also had the capability to carry the AGM- Bullpup guided missile until that weapon was withdrawn from USNATOAllied service
+The P- is equipped with a MAD in the extended tail
+This instrument is able to detect the magnetic anomaly of a submarine in the Earth's magnetic field
+The limited range of this instrument requires the aircraft to be near the submarine at low altitude
+Because of this it is primarily used for pinpointing the location of a submarine immediately prior to a torpedo or depth bomb attack
+Due to the sensitivity of the detector electromagnetic noise can interfere with it so the detector is placed in P-'s fiberglass tail stinger MAD boom far from other electronics and ferrous metals on the aircraft
+The crew complement varies depending on the role being flown the variant being operated and the country that is operating the type
+Navy service the normal crew complement was until it was reduced to its current complement of in the early s when the in-flight ordnanceman position was eliminated as a cost-savings measure and the ORD duties assumed by the in-flight technician
+Patrol Plane Tactical Coordinator PPTC or TACCO
+Patrol Plane NavigatorCommunicator PPNC or NAVCOMNOTE NAVCOM on P-C only USN P-A and P-B series had an NFO Navigator TACNAV and an enlisted Airborne Radio Operator RO
+two enlisted Aircrew Flight Engineers FE and FE
+one enlisted Aviation Ordnanceman ORD position no longer used on USN crews duties assumed by IFTThe senior of either the PPC or TACCO will be designated as the aircraft Mission Commander MC
+Once on station one engine is often shut down usually the No
+engine the left outer engine to conserve fuel and extend the time aloft andor range when at low level
+It is the primary candidate for loiter shutdown because it has no generator
+Eliminating the exhaust from engine also improves visibility from the aft observer station on the left side of the aircraft
+On occasion both outboard engines can be shut down weight weather and fuel permitting
+Long deep-water coastal or border-patrol missions can last over hours and may include extra crew
+The record time aloft for a P- is hours undertaken by the Royal New Zealand Air Force's No
+Developed during the Cold War the P-'s primary mission was to localize Soviet Navy ballistic missile and fast attack submarines detected by undersea surveillance systems and eliminate them in the event of full-scale war
+Navy's P- community consisted of twenty-four active duty Fleet patrol squadrons home based at air stations in the states of Florida and Hawaii as well as bases which formerly had P- operations in Maryland Maine and California
+There were also thirteen Naval Reserve patrol squadrons identical to their active duty Fleet counterparts said Reserve Fleet squadrons being based in Florida Pennsylvania Maryland Michigan Massachusetts later relocated to Maine Illinois Tennessee Louisiana California and Washington
+Two Fleet Replacement Squadrons FRS also called RAG squadrons from the historic Replacement Air Group nomenclature were located in California and Florida
+The since-deactivated VP- in California provided P- training for the Pacific Fleet while VP- in Florida performed the task for the Atlantic Fleet
+These squadrons were also augmented by a test and evaluation squadron in Maryland two additional test and evaluation units that were part of an air development center in Pennsylvania and a test center in California an oceanographic development squadron in Maryland and two active duty special projects units in Maine and Hawaii the latter being slightly smaller than a typical squadron
+Navy planned to reduce active-duty patrol squadrons from to - seven on the East Coast six on the West
+The patrol squadrons planned to survive were VP- and at NAS Brunswick Maine and VP- and at NAS Jacksonville Florida
+The Pacific squadrons that were to be retained were VP- and at Barbers' Point Hawaii and and VP- at NAS Whidbey Island Washington
+Thus Patrol Squadrons and were to be disestablished and the remaining units were to operate nine aircraft instead of eight augmented by VP- and the nine-at-the-time USNR P- squadrons
+Reconnaissance missions in international waters led to occasions where Soviet fighters would bump a P- either operated by the US
+Navy or other operators such as the Royal Norwegian Air Force
+On April a midair collision between a United States Navy EP-E ARIES II signals surveillance aircraft and a People's Liberation Army Navy J-II jet fighter-interceptor resulted in an international dispute between the US
+and the People's Republic of China PRC
+More than combatant and noncombatant P- variants have demonstrated the rugged reliability displayed by the platform flying -hour plus missions ft m over salt water while maintaining an excellent safety record
+Versions have been developed for the National Oceanic and Atmospheric Administration NOAA for research and hurricane huntinghurricane wall busting for the US
+Customs and Border Protection for drug interdiction and aerial surveillance mission with a rotodome adapted from the Grumman E- Hawkeye or an ANAPG- radar adapted from the General Dynamics F- Fighting Falcon and for NASA for research and development
+Navy remains the largest P- operator currently distributed between a single fleet replacement ie training patrol squadron in Florida VP- active duty patrol squadrons distributed between bases in Florida Washington and Hawaii two Navy Reserve patrol squadrons in Florida and Washington one active duty special projects patrol squadron VPU- in Hawaii and two active duty test and evaluation squadrons
+One additional active duty fleet reconnaissance squadron VQ- operates the EP- Aries signals intelligence SIGINT variant at Naval Air Station Whidbey Island Washington
+Navy revealed that P-s have been used to hunt down third generation narco-submarines
+This is significant because as recently as July fully submersible submarines have been used in smuggling operations
+As of November the US Navy began phasing out the P- in favor of the newer and more advanced Boeing P- Poseidon
+In May Patrol Squadron completed the transition to the P- marking the retirement of the P-C from US
+The last of the active-duty P-Cs aircraft was also delivered to the Naval Aviation Museum in Pensacola Florida
+Two Navy Reserve squadrons and Air Test and Evaluation Squadron continue to fly the P-C with final phaseout of the aircraft expected in
+In October P-A aircraft flew several blockade patrols in the vicinity of Cuba
+Having just recently joined the operational Fleet earlier that year this was the first employment of the P- in a real world heightened threat situation
+Beginning in forward deployed P- aircraft began flying a variety of missions under Operation Market Time from bases in the Philippines and Vietnam
+The primary focus of these coastal patrols was to stem the supply of materials to the Viet Cong by sea although several of these missions also became overland feet dry sorties
+During one such mission a small caliber artillery shell passed through a P- without rendering it mission incapable
+The only confirmed combat loss of a P- also occurred during Operation Market Time
+Navy P-B of VP- was downed by anti-aircraft fire in the Gulf of Thailand with the loss of the entire crew
+Two months earlier in February another one of VP-'s P-B aircraft was operating in the same vicinity when it crashed with the loss of the entire crew
+Originally attributed to an aircraft mishap at low altitude later conjecture is that this aircraft may have also fallen victim to anti-aircraft artillery AAA fire from the same source as the April incident
+On August Iraq invaded Kuwait and was poised to strike Saudi Arabia
+Within hours of the initial invasion US
+Navy P-C aircraft were among the first American forces to arrive in the area
+One was a modified platform with a prototype system known as Outlaw Hunter
+Undergoing trials in the Pacific after being developed by Tiburon Systems Inc
+for NAVAIR's PMA- Program Office Outlaw Hunter was testing a specialized over-the-horizon targeting OTH-T system package when it responded
+Within hours of the start of the coalition air campaign Outlaw Hunter detected a large number of Iraqi patrol boats and naval vessels attempting to move from Basra and Umm Qasr to Iranian waters
+Outlaw Hunter vectored in strike elements which attacked the flotilla near Bubiyan Island destroying vessels and damaging scores more
+During Desert Shield a P- using infrared imaging detected a ship with Iraqi markings beneath freshly-painted bogus Egyptian markings trying to avoid detection
+Several days before the January commencement of Operation Desert Storm a P-C equipped with an APS- Inverse Synthetic Aperture Radar ISAR conducted coastal surveillance along Iraq and Kuwait to provide pre-strike reconnaissance on enemy military installations
+A total of of the Iraqi vessels destroyed during the conflict were targeted by P-C aircraft
+The P- Orion's mission expanded in the late s and early s to include battlespace surveillance both at sea and over land
+The long range and long loiter time of the P- Orion have proved to be an invaluable asset during Operation Iraqi Freedom and Operation Enduring Freedom
+It can instantaneously provide information about the battlespace it can see to ground troops particularly the US
+Although the P- is a Maritime Patrol Aircraft armament and sensor upgrades in the Anti-surface Warfare Improvement Program AIP have made it suitable for sustained combat air support over land
+In what became known as the Decade in the Desert Navy P-C crews patrolled combat zones in the Middle East and Southwest Asia
+From the start of the war in Afghanistan US
+Navy P- aircraft operated from Kandahar in that role
+Royal Australian Air Force AP-C Orions operated out of Minhad Air Base in the UAE from until their withdrawal in November
+During the period the AP-C Orions conducted overland intelligence surveillance and reconnaissance tasks in support of coalition troops throughout Afghanistan
+The United States Geological Survey used the Orion to survey parts of southern and eastern Afghanistan for lithium copper and other mineral deposits
+Navy P-C Orions and two Canadian CP- Auroras a variant of the Orion have participated in maritime surveillance missions over Libyan waters in the framework of enforcement of the no-fly zone over Libya
+Navy P-C Orion supporting Operation Odyssey Dawn engaged the Libyan coast guard vessel Vittoria on March after the vessel and eight smaller craft fired on merchant ships in the port of Misrata Libya
+The Orion fired AGM- Maverick missiles on Vittoria which was subsequently beached
+Lockheed produced the P-F variant of the P- Orion for Iran
+Six examples were delivered to the former Imperial Iranian Air Force IIAF in and
+Following the Iranian Revolution in the Orions continued in service after the IIAF was renamed the Islamic Republic of Iran Air Force IRIAF
+They were used in the Tanker War phase of the IranIraq War
+A total of four P-Fs remain in service
+Three P-C Orions delivered to the Pakistan Navy in and were operated extensively during the Kargil conflict
+After the crash of one the type was grounded due to the loss of an entire crew nonetheless the aircraft were maintained in an armed state and airworthy condition throughout the escalation period of and
+In they were used by the navy to conduct signals intelligence airborne and bombing operations in a Swat offensive and Operation Rah-e-Nijat
+Precision and strategic bombing missions were carried out by the Orions and in intelligence management operations were conducted against Taliban and al-Qaeda operatives
+On May two out of the four Pakistani P-Cs were destroyed in an attack on PNS Mehran a Pakistani Naval station in Karachi
+The Pakistani fleet had been readily used in overland counter-insurgency operations
+agreed to replace the destroyed aircraft with two new ones with delivery to follow later
+delivered two additional P-C Orion aircraft to the Pakistan Navy
+The Spanish Air Force deployed P-s to assist the international effort against piracy in Somalia
+On October a Spanish P- aircraft patrolling the coast of Somalia reacted to a distress call from an oil tanker in the Gulf of Aden
+To deter the pirates the aircraft flew over the pirates three times as they attempted to board the tanker dropping a smoke bomb on each pass
+After the third pass the attacking pirate boats broke off their attack
+Later on March the same P- pursued the assailants of the German navy tanker Spessart A resulting in the capture of the pirates
+In April the Portuguese Air Force also contributed to Operation Ocean Shield by sending a P-C which had early success when on its fifth mission detected a pirate whaler with two attack skiffs
+Since the Japan Maritime Self-Defense Force has deployed P-s to Djibouti for anti-piracy patrols from from its own base
+As well the German Navy is contributing assets against piracy with one P- from time to time
+Several P- aircraft have been N-registered and are operated by civilian agencies
+The US Customs and Border Protection has a number of P-A and P-B aircraft that are used for aircraft intercept and maritime patrol
+NOAA operates two WP-D variants specially modified for hurricane research
+One P- NNA is used by National Aeronautics and Space Administration NASA as an Earth science research platform primarily for the NASA Science Mission Directorate's Airborne Science Program
+It is based at Goddard Space Flight Center's Wallops Flight Facility Virginia
+operated eight secondhand P-A aircraft configured as air tankers which were leased to the US
+Forest Service the California Department of Forestry and Fire Protection and other agencies for firefighting use
+Several of these aircraft were involved in the US
+Forest Service airtanker scandal but have not been involved in any catastrophic aircraft mishaps
+Aero Union has since gone bankrupt and their P-s have been put up for auction
+Over the years numerous variants of the P- have been created
+WP-D Two P-C aircraft as modified on the production line for NOAA weather research including hurricane hunting
+EP-E Aries P-A and EP-B aircraft converted into ELINT aircraft
+EP-E Aries II P-C aircraft converted into ELINT aircraft
+AP-C Royal Australian Air Force P-CW aircraft which have been extensively upgraded by L- Communications with new mission systems including an Elta SARISAR radar and a General Dynamics Canada acoustic processor system
+CP-M Aurora Long-range maritime reconnaissance anti-submarine warfare ASW aircraft for the Canadian Forces
+Based on the P-C Orion airframe but mounts the more advanced electronics suite of the Lockheed S- Viking built
+CP-A Arcturus Three P-s without ASW equipment for CP- Aurora crew training and various coastal patrol missions
+P- proposed new-build and improved variant as a P- Orion replacement later canceled
+Orion proposed new-build and improved variant as a P- Orion replacement lost to the Boeing P- Poseidon
+P-K Royal New Zealand Air Force P-K aircraft which have been fully upgraded with totally new mission systems by L- Mission Integration Division Greenville Texas
+The flight deck now has 'glass' instrumentation and navigation computer automation
+The Tactical Rail Tacrail has been completely refitted with modern sensors communication and data management systems
+ArgentinaArgentine Naval Aviation six P-B based at Base Aeronaval Alte
+Zar Trelew non-operational though being refurbished as of AustraliaRoyal Australian Air Force AP-C P-C
+Sqn based at RAAF Base EdinburghIn the RAAF received significantly upgraded AP-C
+Also known as Australian Orions they are fitted with a variety of sensors
+They include digital multi-mode radar electronic support measures electro-optics detectors infrared and visual magnetic anomaly detectors MAD identification friend or foe systems and acoustic detectors
+The AP-C Orion has been replaced by the Boeing P- Poseidon
+The P- Orion celebrated years of RAAF service in November
+BrazilBrazilian Air Force P-AM Upgraded in ex-USN airframes purchased
+Integrated with the CASA FITS Fully Integrated Tactical System utilized in antisubmarine warfare ChileChilean Navy four P-A based at Base Aeronaval Torquemada Concn
+Three used as patrol aircraft one used for personnel transport
+Chile plans to extend their service lives past by changing the wings modernizing the engines and integrating the AGM- Harpoon anti-ship missile CanadaRoyal Canadian Air Force Canada purchased P-A in
+The CP- Aurora are operated by Long Range Patrol and Training Squadron Long Range Patrol Squadron Long Range Patrol Force Development Squadron all three from Wing Greenwood Long Range Patrol Squadron Wing Comox
+Upgraded aircraft now referred to as CP-M
+The RCAF also operated CP-A Arcturus P- aircraft purchased in without an anti-submarine warfare suite and used primarily for pilot training and long-range surface patrol
+The last two were retired in and transferred to AMARG GermanyGerman Navy four P-C CUP+ ex-Royal Netherlands Navy originally bought eight machines based at NAS Nordholz Marinefliegergeschwader Graf Zeppelin GreeceHellenic Air Force six P-B operated jointly with the Hellenic Navy in operable condition as of additional are undergoing maintenance as of which should return them to airworthy condition the first of which was completed in May IranIslamic Republic of Iran Air Force five P-F ASW SQN based at Shiraz International Airport Shahid Douran Air Base JapanJapan Maritime Self-Defense Force P-C five EP- five OP-C one UP-C three UP-D
+The Kawasaki Corporation assembled five airframes produced by Lockheed and then Kawasaki produced more than P-s under license in Japan
+The Kawasaki P- is gradually replacing them
+Air Patrol Squadron JMSDF New ZealandRoyal New Zealand Air Force six P-K Sqn based in RNZAF Base Auckland
+Five were originally delivered in as P-Bs
+Another was purchased from the RAAF in
+All six have been upgraded by L- Communications Canada and now designated as P-K with the first upgraded aircraft returned to New Zealand in April
+The New Zealand Government announced they are to be replaced in with the purchase of Boeing P-A Poseidons
+An interim upgrade contract worth NZM has been awarded to Boeing to upgrade the underwater intelligence reconnaissance and surveillance capability of the P-K with a capability similar to that provided in the P- NorwayRoyal Norwegian Air Force four P-C two P-N Sqn based in Andøya Air Station PakistanPakistan Naval Air Arm Four P-C based in Naval aviation base Faisal Karachi
+Upgraded P-C MPA and P-B AEW models equipped with Hawkeye AEW system ordered in first upgraded P-C delivered in early
+In June two more upgraded P-Cs joined the Pakistan Navy with anti-ship and submarine warfare capabilities
+Two aircraft were destroyed in an attack by armed militants at the Mehran Naval Airbase PortugalPortuguese Air Force five P-C CUP+ ex Royal Netherlands Navy operated by Squadron Lobos based in Beja Air Base
+They replaced six former RAAF P-Bs upgraded to P-Ps in the late s
+The last P-P flew on October South KoreaRepublic of Korea Navy eight P-Cs eight P-CKs based in Pohang Airport and Jeju international airport
+Korean AirL- Communications are upgrading the P-C aircraft with new electronics including new magnetic anomaly detectors electro-optical sensors surveillance equipment and a self-protection suite
+The Navy's impetus stems from a experience in which ROK forces detected only of North Korean submarines involved in exercises SpainSpanish Air and Space Force Two P-A HWs four P-B ex-Norway being upgraded to P-M based at Morn Air Base
+The Spanish AF bought five P-B from Norway in and it was planned to upgrade all five to M standard however due to budgetary constraints only four are to be upgraded the remaining aircraft being used as spares source TaiwanRepublic of China Air Force Least known of all P- family
+Three P-As were obtained by the CIA from the US
+Navy under Project STSPIN in May as the replacement aircraft for CIA's own covert operation fleet of RB-APV-U versions
+Converted by Aerosystems Division of LTV at Greenville Texas the three P-As were simply known as black P-As under Project Axial
+Navy to CIA on JuneJuly LTV Aerosystems converted the three aircraft to be both ELINT and COMINT platform
+First of three black P-As arrived in Taiwan and officially transferred to ROCAF's top secret Black Bat Squadron on June
+Armed with four Sidewinder short range AAM missiles for self-defense the three black P-A flew peripheral missions along the China coast to collect SIGINT and air samples
+When the project was terminated in January all three black P-As were flown to NAS Alameda CA for long-term storage
+In September Lockheed at Burbank converted two of the three aircraft and into the only two EP-B examples in existence in the world while the third aircraft was converted by Lockheed in to serve as a development aircraft for various electronic programs
+The two EP-Bs known as Bat Rack owing to their short period of service with Taiwan's Black Bat Squadron were issued to US
+Navy's VQ- Squadron in and deployed to Da Nang Vietnam
+Later the two EP-Bs were converted to EP-E ARIES along with seven EP-As
+The two EP-Es retired in the s when replaced by EP-E ARIES II versions
+Republic of China Navy The Republic of China Navy obtained P-C aircraft under the US
+government's Foreign Military Sales program in which were then modernized to provide an additional flight hours
+P-Cs ordered with deliveries starting in with three spare airframes that might be converting to EP-E standard based in south part of the island and offshore island
+In May Lockheed Martin were awarded a contract to upgrade and overhaul all P-Cs for completion by August United StatesUnited States Navy P-Cs and EP-Es in service
+The government of Singapore has expressed an interest in buying surplus P-C aircraft from the US
+Navy NetherlandsRoyal Netherlands Navy Netherlands Naval Aviation Service former operator
+Sold to Portugal and Germany ThailandRoyal Thai Navy two P-Ts one VP-T one UP-T based at RTNAB U-Tapao Sqn
+Withdrawn from active service in Buffalo Airways one P-A Aerial firefightingWaterbomber Buffalo Airways USA Inc - NAU
+National Oceanographic and Atmospheric Administration NOAA two WP-Ds flown by NOAA Commissioned Corps officers previously based at MacDill AFB now based at Lakeland Linder International Airport Florida
+National Aeronautics and Space Administration one ex-USN P-B based at NASA's Wallops Flight Facility Virginia used for low altitude heavy lift airborne science missions modified to support passive microwave instruments such as NOAA's Polarimetric Scanning Radiometer PSR NASA's -DSTAR and the Jet Propulsion Laboratory JPL polarimetric scatterometer POLSCAT instruments
+United States Department of Homeland Security Bureau of Customs and Border Protection Office of Air and Marine eight P- AEWs based at NAS Corpus Christi Texas and Cecil Field and NAS Jacksonville Florida
+Used for border patrol and anti-drug duties
+Former USN aircraft modified and equipped with the same airborne early warning radar as fitted to the E- Hawkeye
+United States Department of Homeland Security Bureau of Customs and Border Protection Office of Air and Marine P- LRTs Long Range Tracker
+Former USN aircraft also based at NAS Corpus Christi Texas and Cecil Field Jacksonville Florida
+Normally operate in tandem with P- AEW aircraft
+Aircraft are FAA Registered as LD and based in Keystone Heights Florida
+Airstrike Firefighters former Aero Union Tanker with plans for more P-sAero Union eight ex-USN P-A aircraft based at Chico Municipal Airport in Chico California and converted into aerial firefighting platforms
+Aero Union shut down and put its Orions up for auction in January United States Navy P-A BuNo was lost at sea in the Atlantic Ocean crew killed
+July Lockheed P-A Orion BuNo construction number - assigned to VP- Radio call sign Papa Echo Zero Five PE- crashed miles km northeast Battle Creek MI
+The P-A Orion was on the return leg of a cross country training flight from NAS New York-Floyd Bennett Field New York to NAS Moffett Field California via NAS Glenview Illinois all four crew lost
+Feb Lockheed P-B Orion Registration construction number - assigned to VP- crashed during an Operation Market Time combat patrol off Phu Quoc Island Vietnam with the loss of all crew MIA
+Initially attributed to mechanical failure later events suggest it may have been shot down
+Apr Lockheed P-B Orion Registration construction number - assigned to VP- was shot down by surface anti-aircraft fire during an Operation Market Time combat patrol off Phu Quoc Island Vietnam
+The AAA fire initially set an engine on fire but during a subsequent attempt to land the wing separated and the aircraft crashed with the loss of all crew
+Apr Lockheed P-B Orion Registration A- construction number - assigned to RAAF crashed on runway L at NAS Moffett Field California after departing the manufacturer's facility during pre-delivery acceptance trials
+The left main mount undercarriage collapsed on landing and the aircraft ground-looped
+All crew survived without serious injury but the aircraft was completely destroyed by the resulting fire
+March USN P-A BuNo tail coded RP- of VP- crashed at NAS Lemoore California at the end of a practice ground control approach GCA landing all six crew died
+Lilienthal USN flew a P-C Orion to a world speed record for heavyweight turboprops
+Over kilometers he reached miles per hour to break the Soviet Il-'s May record of miles per hour
+May USN P-A BuNo disappeared over the Pacific Ocean on a routine training mission after departing NAS Moffett Field California with the loss of eight crew members
+June While attempting to fly through the Straits of Gibraltar en route from Naval Station Rota Spain to Naval Air Station Sigonella Sicily a US
+Navy P-A of VP- hit a mountain in Morocco resulting in the death of all crew on board the aircraft
+April A United States Navy P-C BuNo operating from NAS Moffett Field California collided with a Convair NNA operated by NASA during approach to runway L
+The aircraft crashed on the Sunnyvale Municipal Golf Course miles km short of the runway resulting in destruction of both aircraft and the death of all but one crewmember
+December USN P-B BuNo from VP- operating from Lajes Field Azores crashed on mountainous El Hierro southwesternmost of the Canary Islands in poor visibility
+There were no survivors from the crew of
+April USN P-B BuNo from VP- crashed on landing approach to Lajes Field Azores
+Seven of the crew were killed and the plane sank into deep water preventing recovery to assess the cause of the crash
+September USN P-B BuNo from VP- disintegrated over Poland Maine on September
+An over-pressurized fuel tank caused the port wing to separate at the outboard engine
+The detached wing sheared off part of the tail and aerodynamic forces caused the remaining engines and starboard wing to detach from the fuselage
+Debris rained down near the south end of Tripp Pond shortly after
+There were no survivors from the plane's -man crew
+October USN P-C BuNo call sign coded AF from VP- operating from NAS Adak ditched at sea after an engine fire caused by a propeller malfunction
+All but two of the -man crew were rescued by a Soviet trawler but three crew members died of exposure
+June P-B BuNo from VP- operating from NAS Cubi Point Philippines had a propeller overspeed shortly after departure
+The number propeller then departed the aircraft striking the number three with a subsequent fire on that engine
+While attempting an overweight landing with engines out the aircraft stalled rolled inverted and crashed in Subic Bay just past Grande Island
+Four crew and one passenger were killed in the crash
+April USN P-C BuNo from VP- while flying for a parachuting exhibition in Pago Pago American Samoa struck overhead tram wires and crashed killing all six crew on board
+May USN P-B BuNo tail coded YB- from VP- inadvertently landed gear up during a routine dedicated field work DFW pilot training flight at NAS Barbers Point
+No crew were injured but the aircraft was a total loss
+June USN P-B BuNo tail coded YB- from VP- at NAS Barbers Point crashed into a mountain top in fog and low clouds on the Napali Coast between the Hanapu and Kalalau valleys in Kauai Hawai'i shortly after hours killing all on board
+September A Royal Norwegian Air Force P-B tail number is hit from below by a Russian Air Force Sukhoi Su- of the st IAP V-PVO
+The Su- flew below the P-'s starboard side then accelerated and pulled up clipping the engine's propellers
+The propeller shrapnel hit the Orion's fuselage and caused a decompression
+There were no injuries and both aircraft returned safely to base
+September The first production model P-C Update III BuNo assigned to VP- at NAS Moffett Field impacted the runway at an excessive rate of descent while conducting at dedicated field work sortie at Naval Auxiliary Landing Field Crows Landing
+Both main landing gear failed and the aircraft slid down the runway
+Some crewmembers sustained minor injuries but there were no fatalities
+March While on a training mission west of San Diego California two US
+Navy P-C Orions BuNos and assigned to VP- based at NAS Moffett Field collided in midair killing all crew on board both aircraft
+April AP-C tail number A- of the Royal Australian Air Force lost a wing leading edge and crashed into shallow water in the Cocos Island one crewman was killed
+Aircraft was cut up and used as an artificial reef
+The head investigator of this incident was RAAF FLTLT Richard Hall
+October P-A NAU of Aero Union crashed into a mountain in Montana United States killing both crew
+March USN P-C BuNo assigned to VP- was returning from a training mission in the North Arabian Sea when it suffered catastrophic engine failure of the number engine
+The aircraft ditched at sea miles km from RAFO Masirah Oman
+All crew members were rescued by the Royal Omani Air Force
+April An aerial collision known as the Hainan Island incident between a USN EP-E ARIES II BuNo a signals reconnaissance version of the P-C and a People's Liberation Army Navy J-IIM fighter resulted in the J-IIM crashing and its pilot was killed
+The EP- came close to becoming uncontrollable at one point sustaining a near inverted roll but was able to make an emergency landing on Hainan
+April P-B NAU of Aero Union crashed while conducting practice drops of water over an area of rugged mountainous terrain located north of the Chico Airport
+All three crew on board were killed
+October P-C USN On landing the aircraft overrun runway and lost its right landing gear
+Nobody was injured but the aircraft was damaged beyond repair
+May Twenty Tehrik-i-Taliban Pakistan militants claiming to avenge Osama Bin Laden's death destroyed two Pakistan Navy P-C Orions during an armed attack at PNS Mehran a heavily guarded base of the Pakistan Navy located in Karachi
+The aircraft had been readily used by the Pakistani military in overland counter-insurgency surveillance operations
+February Three US Navy P-C Orions were crushed beyond repair when their hangar at NAF Atsugi Japan was destroyed due to a massive snow storm P-A Moffett Field Historical Society former NAS Moffett Field California
+PA Cockpit Moffett Field Historical Society former NAS Moffett Field California
+VP-A Pima Air and Space Museum adjacent to Davis-Monthan AFB Tucson Arizona
+Aircraft last assigned to Executive Transport Det NAS Signonella Sicily
+P-A NAS Jacksonville Heritage Park NAS Jacksonville Florida
+P-A National Naval Aviation Museum NAS Pensacola Florida
+P-A Brunswick Executive Airport former NAS Brunswick Maine
+Former US Navy aircraft transferred to operated by and later retired as gate guard by Royal Thai Navy
+P-B Navy Operational Support Center formerly Naval Air Facility Detroit Selfridge ANGB Michigan
+- P-B - Wings of Freedom Aviation Museum adjacent to Horsham Air National Guard Station former NASJRB Willow Grove Horsham Pennsylvania
+P-C CDU Naval Air Museum Barbers Point Kalaeloa Airport former Naval Air Station Barbers Point Hawaii
+Aircraft last assigned to VP- but carrying s era markings of VP- for US
+P-C Hickory Aviation Museum at Hickory Regional Airport Hickory North Carolina
+AP-C Historical Aircraft Restoration Society Shellharbour Airport New South Wales Australia
+Ex-Royal Australian Air Force A- former Squadron aircraft and later Squadron as a static training aid
+Officially handed over to HARS by the RAAF on November
+Civil registered as VH-ORI and will be maintained as a flying warbird
+AP-C South Australian Aviation Museum South Australia
+Construction number RAAF A- received by Squadron as a P-C in upgraded to AP-C in early s
+P-C UD II Marine Corps Air Station Kaneohe Bay Hawaii
+P-C UD II Joint Base Andrews former Naval Air Facility Washington Maryland
+- P-C AIP+ - National Naval Aviation Museum NAS Pensacola Florida
+RCAF Serial CP-A Greenwood Military Museum CFB Greenwood Canada
+Aircraft last assigned to RCAF MP Squadron
+RCAF Serial - CP-A - National Air Force Museum of Canada CFB Trenton CanadaGeneral characteristics
+Airfoil root NACA modified tip NACA modified
+Max takeoff weight lb kg MTOW normal lb kg maximum permissibleMaximum landing weight MLW lb kg
+Fuel capacity US gal imp gal l usable fuel in wing and fuselage tanks lb kg maximum fuel weight US gal imp gal l usable oil in tanks
+Powerplant × Allison T-A- turboprop engines shp kW each equivalent
+Propellers -bladed Hamilton Standard H- ft in m diameter constant-speed fully-feathering reversible propellersPerformance
+Maximum speed kn mph kmh at ft m and lb kg
+Cruise speed kn mph kmh at ft m and lb kg
+Patrol speed kn mph kmh at ft m and lb kg
+Stall speed kn mph kmh flaps up kn mph kmh flaps downCombat range nmi mi km hours on station at ft m
+Endurance hours minutes at ft m on two engines hours minutes at ft m on four enginesService ceiling ft m ft m one engine inoperative OEIRate of climb ftmin ms
+Time to altitude ft m in minutes
+Take-off distance to ft m ft m
+Landing distance from ft m ft mArmament
+Hardpoints wing stations in total x on each wing and x on each wing root and eight internal bomb bay stations with a capacity of lb kg with provisions to carry combinations of
+Air-to-surface missile×AGM- Maverick ×AGM- Harpoon ×AGM- Standoff Land Attack Missile SLAM-ER
+Depth charges Mk Lulu nuclear depth bomb×MK Rockeye MK Series ×MK MK MK general-purpose bombs B nuclear bomb US service only retired
+Mk mostly retired from service × Mk × Mk × Mk or MU Impact torpedoes
+Mk Mk Mk × Mk Mk CAPTOR or × Mk or × Mk or ×Mk Quickstrike naval mines
+RADAR Raytheon ANAPS- Maritime Surveillance Radar ANAPS-DV Inverse Synthetic Aperture Search Radar
+IFF APX- APX- APX- Interrogation Friend or Foe IFF
+EOIR ASX- Advanced Imaging Multispectral Sensor AIMS ASX- Multi-Mode Imaging System MMIS
+ESM ALR- Radar Warning Receiver ALR-V Specific Emitter IdentificationThreat Warning
+AQA- directional acoustic frequency analysis and recording sonobuoy indicators
+Lockheed Martin ANALQ-V electronic surveillance receiverLockheed P- Neptune
+Lockheed WP-D OrionAircraft of comparable role configuration and era
+List of military aircraft of the United States
+List of active United States military aircraft
+Upgrade of the Orion maritime patrol aircraft fleet Department of Defence Defence Materiel Organisation PDF
+Archived from the original PDF on February
+Military Aircraft of the Cold War The Aviation Factfile
+ISBN ---AP-C Orion maritime patrol aircraft Royal Australian Air Force November
+ADF-Serials RAAF Lockheed AP-C P-BC TAP-B Orion Page
+P- Orion Computer Development History and Project A-New
+P-C fact file Archived March at the Wayback Machine

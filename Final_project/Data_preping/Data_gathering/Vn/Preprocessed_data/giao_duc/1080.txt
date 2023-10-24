@@ -1,0 +1,40 @@
+thí sinh bị điểm môn Lịch sử
+Số liệu thống kê từ các trường đại học Sư phạm Hà Nội Đà Lạt Sư phạm TP HCM và Sư phạm Đồng Tháp cho thấy kiến thức về lịch sử của thí sinh hiện nay thật đáng báo động
+Tính ra chỉ có thí sinh đạt điểm trung bình trở lên
+Tính chung cả bốn trường này có thí sinh dự thi khối C thì chỉ có thí sinh đạt điểm môn Sử từ trở lên tỷ lệ là
+Bắt đầu từ ĐH Sư phạm Hà Nội khối C của trường này có thí sinh dự thi thì lượng thí sinh đạt trên điểm môn chỉ có thí sinh từ điểm trở lên môn là hơn
+Trong đó toàn trường chỉ có thí sinh đạt môn lịch sử từ trở lên thí sinh đạt từ trở lên thí sinh đạt từ điểm trở lên
+Nếu thống kê số bài thi có điểm từ trở xuống thì có đến thí sinh từ điểm trở xuống có thí sinh và điểm trở xuống có thí sinh
+Làm bài toán đơn giản sẽ thấy số thí sinh đạt điểm trung bình môn Lịch sử chỉ có số liệu đã làm tròn
+Thế nhưng con số tỷ lệ trung bình của ĐH Sư phạm Hà Nội còn được xem là an ủi
+Vì ngay như ĐH Sư phạm TP HCM có thí sinh dự thi khối C mà cũng chỉ có một thí sinh đạt điểm môn thí sinh đạt điểm môn và nếu lấy ở mức điểm trung bình là điểm môn thì chỉ có thí sinh
+Trong đó môn Lịch sử chỉ có thí sinh đạt từ điểm trở lên và nếu lấy điểm trở lên thì trường này chỉ có vỏn vẹn thí sinh lấy điểm trở lên chỉ có thí sinh
+Nếu tiếp tục thống kê theo chiều đi xuống lại càng khủng khiếp số thí sinh có điểm bài thi từ điểm trở xuống có đến thí sinh từ điểm trở xuống có và từ điểm trở xuống có thí sinh
+Chung cuộc trường này chỉ có thí sinh đạt điểm trung bình môn sử
+Trong khi đó ĐH Đà Lạt khối C có thí sinh dự thi có thí sinh đạt điểm trở lên môn thi thí sinh đạt điểm trở lên môn thi
+Nếu xem ở mức điểm trở xuống môn lịch sử có thí sinh điểm trở xuống có thí sinh và điểm trở xuống có thí sinh
+Còn điểm trở lên có thí sinh và điểm trung bình điểm trở lên của môn này chỉ có thí sinh tỉ lệ đạt điểm trung bình là
+Còn ở ĐH Sư phạm Đồng Tháp có thí sinh dự thi khối C thì chỉ có thí sinh đạt điểm trở lên ở môn lịch sử thí sinh trở lên đạt mức sàn điểm trở lên và thí sinh đạt mức điểm trở lên
+Số còn lại đều chia đều cho tốp dưới vì có đến thí sinh đạt từ điểm trở xuống thí sinh đạt từ điểm trở xuống và thí sinh đạt từ điểm trở xuống
+Trung bình ĐH Sư phạm Đồng Tháp có số thí sinh đạt điểm trung bình
+Bao giờ dân ta mới biết sử ta
+Trong đợt của kỳ thi tuyển sinh ĐH khối C số thí sinh ngồi cắn bút nhiều nhất tập trung vào buổi thi môn lịch sử
+Một trật tự viên tại Trường THCS Chu Văn An điểm thi số ĐH KHXHNV ĐH Quốc gia TP HCM kể Trong lúc đưa một thí sinh đi vệ sinh trong buổi chiều thi môn lịch sử cô cứ bị thí sinh này liên tục nài nỉ nhắc bài
+Thí sinh này chắc hẳn đã quen với việc học gạo nên không thể làm được bài với đề thi như vậy
+Mặc dù trật tự viên nhất mực từ chối nhưng thí sinh này vẫn cố nài nỉ Cô nhắc cho em một chữ đầu thôi là em nhớ hết bài
+Đề thi sử năm nay được đánh giá là bám sát sách giáo khoa sự kiện và quan điểm lịch sử đều được thể hiện trong sách lịch sử lớp hiện hành
+Thế nhưng thật xót xa và không thể không bàng hoàng trước con số có đến thí sinh thí sinh có bài làm đạt từ điểm trở xuống chiếm tỷ lệ đến
+Chắc chắn những người ra đề thi sẽ không ngờ đề thi lại có sự phân hóa khủng khiếp đến vậy
+Những giờ học sử chỉ là những giờ học nhàm chán học sử mà chỉ chăm chăm mỗi việc nhớ cho được ngày tháng năm diễn ra sự kiện lịch sử quân ta giết được bao nhiêu kẻ thù
+Để rồi đứng trước một bài thi đòi hỏi khả năng suy luận phân tích và đánh giá các sự kiện lịch sử thì tất cả đều
+Theo PGSTS Võ Văn Sen Trưởng khoa lịch sử ĐH Khoa học xã hội và Nhân văn ĐH Quốc gia TP HCM kết quả này đúng là đáng báo động về tình trạng dạy và học sử hiện nay
+Học sinh có học bài nhưng chỉ học vẹt học nhưng không hiểu bài không biết cách suy luận và tổng hợp
+Ví dụ như ý của câu số I hỏi về Ý nghĩa của cao trào kháng Nhật cứu nước đối với Tổng khởi nghĩa tháng
+Nội dung này trong sách giáo khoa không trình bày thành một mục riêng nhưng trong phần diễn biến của cao trào kháng Nhật thì có nói đến vậy mà rất hiếm thí sinh làm được
+Hay ở câu số cũng vậy Nêu những sự kiện lịch sử tiêu biểu thể hiện tình đoàn kết chiến đấu giữa hai dân tộc Việt Nam và Lào trong thời kỳ chống Pháp và chống Mỹ thí sinh phải biết góp nhặt những sự kiện của thời kỳ nhưng số thí sinh làm được câu này chỉ đếm trên đầu ngón tay
+Yếu tố đầu tiên dẫn đến tình hình trên nên xét đến chính là sách giáo khoa môn sử hiện nay kiến thức quá dàn trải nhiều chi tiết nhưng không nêu được vấn đề cốt lõi tính sư phạm rất thấp
+Giáo viên môn sử không được coi trọng như những giáo viên các môn khoa học tự nhiên ít được bồi dưỡng kiến thức thường xuyên cuộc sống vất vả vì mưu sinh giảng dạy theo lối mòn để chạy theo chương trình sợ cháy giáo án
+Phương pháp dạy như thế ảnh hưởng lớn đến phương pháp học của học sinh học mà không hiểu là vì vậy
+Ông Chu Văn Thông Sở GDĐT Nghệ An thì cho rằng đề thi năm nay bám sát sách giáo khoa sự kiện và quan điểm lịch sử chủ yếu đã được thể hiện trong sách lịch sử lớp hiện hành
+Một trong những yêu cầu cơ bản của một bộ đề thi là sự phân hóa để bỏ được tình trạng ngồi nhầm lớp của học sinh
+Vì vậy câu I ý Hồ Chí Minh đã thực hiện những chủ trương gì để Việt Nam với tư cách là một nước độc lập đón tiếp quân Đồng minh là câu hỏi rất hay những thí sinh có khả năng khá giỏi mới làm được câu này

@@ -1,0 +1,19 @@
+ATC code A04 Antiemetics and antinauseants is a therapeutic subgroup of the Anatomical Therapeutic Chemical Classification System, a system of alphanumeric codes developed by the World Health Organization (WHO) for the classification of drugs and other medical products. Subgroup A04 is part of the anatomical group A Alimentary tract and metabolism.
+Codes for veterinary use (ATCvet codes) can be created by placing the letter Q in front of the human ATC code: for example, QA04. ATCvet codes without corresponding human ATC codes are cited with the leading Q in the following list.National issues of the ATC classification may include additional codes not present in this list, which follows the WHO version.
+A04AA01 Ondansetron
+A04AA02 Granisetron
+A04AA03 Tropisetron
+A04AA04 Dolasetron
+A04AA05 Palonosetron
+A04AA55 Palonosetron, combinationsA04AD01 Scopolamine
+A04AD02 Cerium oxalate
+A04AD04 Chlorobutanol
+A04AD05 Metopimazine
+A04AD10 Dronabinol
+A04AD11 Nabilone
+A04AD12 Aprepitant
+A04AD13 Casopitant
+A04AD14 Rolapitant
+A04AD51 Scopolamine, combinations
+A04AD54 Chlorobutanol, combinations
+QA04AD90 Maropitant
