@@ -2,29 +2,23 @@ import os
 import re
 import shutil
 
-import textsearch
 
 class TextPreprocessor:
     def __init__(self):
         self.__data_path = ""
         self.__preprocessed_data_path = ""
 
-
     def set_data_path(self, path):
         self.__data_path = path
-
 
     def get_data_path(self):
         return self.__data_path
 
-
     def set_preprocessed_data_path(self, path):
         self.__preprocessed_data_path = path
 
-
     def get_preprocessed_data_path(self):
         return self.__preprocessed_data_path
-
 
     @staticmethod
     def __has_BOM(filename):
@@ -33,13 +27,11 @@ class TextPreprocessor:
             initial_bytes = f.read(2)
         return initial_bytes in [b'\xFE\xFF', b'\xFF\xFE']
 
-
     @staticmethod
     def __save_preprocessed_data(preprocessed_data_path: str, filename: str, data: str) -> None:
         with open(preprocessed_data_path + '/' + filename, 'w', encoding='utf-8') as f:
             f.write(data)
         return None
-
 
     def split_into_sentence(self):
         for filename in sorted(os.listdir(self.__data_path)):
@@ -65,7 +57,6 @@ class TextPreprocessor:
             # save data to preprocessed_data folder
             data = '\n'.join(sentences)        
             self.__save_preprocessed_data(self.__preprocessed_data_path, filename, data)
-
 
     def remove_by_regex(self, regex_dict):
         for i in regex_dict:

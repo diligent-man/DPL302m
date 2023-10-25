@@ -2,7 +2,6 @@ import os
 import re
 import string
 import shutil
-import contractions
 
 
 class TextPreprocessor:
