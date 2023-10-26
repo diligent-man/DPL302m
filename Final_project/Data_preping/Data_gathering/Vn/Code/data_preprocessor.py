@@ -91,10 +91,8 @@ class TextPreprocessor:
                     normalized_line = chuan_hoa_dau_tu_tieng_viet(line)
                     # Apply the punctuation normalization function from typing_error_gen.py
                     normalized_line = vn_sentence_to_telex_type(normalized_line)
-
                     # Remove extra spaces and ensure spaces between words
                     normalized_line = ' '.join(normalized_line.strip().split())
-
                     # If the normalized line is not empty, save it
                     if len(normalized_line) > 0:
                         data += normalized_line + '\n'
