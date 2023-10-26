@@ -19,10 +19,15 @@ Telex Reference:
 
 Telex rule: Telex requires the user to type in a base letter, followed by one or two characters that represent the diacritical marks:
 """
+# sys.path.append('../../../..')
+import os
 import re
-import random
 import string
-from itertools import permutations
+import random
+import zipfile
+from itertools import count, permutations
+
+from numpy import corrcoef
 
 
 tonal_mapping_1 = {
@@ -31,7 +36,7 @@ tonal_mapping_1 = {
     'ảu': ['aủ'], 'áu': ['aú'], 'àu': ['aù'], 'ạu': ['aụ'], 'ãu': ['aũ'],
     'ảy': ['aỷ'], 'áy': ['aý'], 'ày': ['aỳ'], 'ạy': ['aỵ'], 'ãy': ['aỹ'],
     'òa': ['oà'], 'óa': ['oá'], 'ỏa': ['oả'], 'õa': ['oã'], 'ọa': ['oạ'],
-    'oái': ['óai', 'oaí'], 'oài': ['òai', 'oaì'], 'oải': ['ỏai', 'oaỉ'], 'oại': ['ọai', 'oaị'],
+    'oái': ['óai', 'oaí'], 'oài': ['òai', 'oaì'], 'oải': ['ỏai', 'oaỉ'], 'oại': ['ọai', 'oaị'],'oãi': ['õai', 'oaĩ'],
     'oáy': ['óay', 'oaý'], 'oạy': ['ọay', 'oaỵ'],
     'oạc': ['ọac'], 'oác': ['óac'],
     'oắc': ['óăc'], 'oặc': ['ọăc'],
@@ -44,7 +49,7 @@ tonal_mapping_1 = {
     'uật': ['ụât'], 'uất': ['úât'],
     'ẩu': ['âủ'], 'ấu': ['âú'], 'ầu': ['âù'], 'ậu': ['âụ'], 'ẫu': ['âũ'],
     'ẩy': ['âỷ'], 'ấy': ['âý'], 'ầy': ['âỳ'], 'ậy': ['âỵ'], 'ẫy': ['âỹ'],
-    'uẩy': ['uâỷ', 'ủây'], 'uấy': ['uâý', 'úây'],   'uẫy': ['uâỹ', 'ũây'],
+    'uẩy': ['uâỷ', 'ủây'], 'uấy': ['uâý', 'úây'],   'uẫy': ['uâỹ', 'ũây'], 'uậy':['ụây','uâỵ'],
     'òe': ['oè'], 'óe': ['oé'], 'ỏe': ['oẻ'], 'õe': ['oẽ'], 'ọe': ['oẹ'],
     'oèn': ['òen'], 'oẻn': ['ỏen'],
     'oèo': ['òeo', 'oeò'], 'oẹo': ['ọeo', 'oẹo'], 'oẻo': ['ỏeo', 'oeỏ'],
@@ -59,14 +64,17 @@ tonal_mapping_1 = {
     'uỵch': ['ụych'], 'uých': ['úych'],
     'iếc': ['íêc'], 'iệc': ['ịêc'],
     'iềm': ['ìêm'], 'iểm': ['ỉêm'], 'iếm': ['íêm'], 'iệm': ['ịêm'],
-    'yểm': ['ỷêm'], 'yến': ['ýên'],
+    'yểm': ['ỷêm'], 'yềm': ['ỳêm'], 'yếm': ['ýêm'], 'yệm': ['ỵêm'],
+    'yến': ['ýên'],
     'iền': ['ìên'], 'iến': ['íên'], 'iễn': ['ĩên'], 'iển': ['ỉên'], 'iện': ['ịên'],
     'uyến': ['úyên', 'uýên'], 'uyền': ['ùyê', 'uỳên'], 'uyển': ['ủyên', 'uỷên'], 'uyện': ['ụyên', 'uỵên'], 'uyễn':['ũyên', 'uỹên'],
     'iếu': ['íêu', 'iêú'], 'iều': ['ìêu', 'iêù'], 'iệu': ['ịêu', 'iêụ'], 'iểu': ['ỉêu', ' iêủ'],
+    'iết': ['íêt'], 'iềt': ['ìêt'], 'iệt': ['ịêt'],
     'iếng': ['íêng'], 'iềng': ['ìêng'], 'iệng': ['ịêng'], 'iểng': ['ỉêng'],
     'iếp': ['íêp'], 'iềp': ['ìêp'], 'iệp': ['ịêp'],
     'iết': ['íêt'], 'iềt': ['ìêt'], 'iệt': ['ịêt'],
     'uyệt': ['ụyêt', 'uỵêt'], 'uyết': ['úyêt', 'uýêt'],
+    'yệt': ['ỵêt'], 'yết': ['ýêt'],
     'iếu': ['íêu'], 'iều': ['ìêu'], 'iệu': ['ịêu'], 'iễu': ['ĩêu'], 'iểu': ['ỉêu'],
     'yếu': ['ýêu', 'yêú'], 'yểu': ['ỷêu', 'yêủ'],
     'uỵp': ['ụyp'], 'uýp': ['úyp'], 'uýt': ['úyt'], 'uỵt': ['ụyt'],
@@ -78,8 +86,10 @@ tonal_mapping_1 = {
     'ởi': ['ơỉ'], 'ới': ['ơí'], 'ời': ['ơì'], 'ợi': ['ơị'], 'ỡi': ['ơĩ'],
     'ùa': ['uà'], 'úa': ['uá'], 'ủa': ['uả'], 'ũa': ['uã'], 'ụa': ['uạ'],
     'ùi': ['uì'], 'úi': ['uí'], 'ủi': ['uỉ'], 'ũi': ['uĩ'], 'ụi': ['uị'],
+    'ùy': ['uỳ'], 'úy': ['uý'], 'ủy': ['uỷ'], 'ũy': ['uỹ'], 'ụy': ['uỵ'],
     'uốc': ['úôc'], 'uồc': ['ùôc'], 'uổc': ['ủôc'], 'uộc': ['ụôc'], 'uỗc': ['ũôc'],
     'uối': ['úôi', 'uôí'], 'uồi': ['ùôi', 'uôì'], 'uổi': ['ủôi', 'uôỉ'], 'uội': ['ụôi', 'uôị'], 'uỗi': ['ũôi', 'uôĩ'],
+    'ối': ['ôí'], 'ồi': ['ôì'], 'ổi': ['ôỉ'], 'ội': ['ôị'], 'ỗi': ['ôĩ'],
     'uốn': ['úôn'], 'uồn': ['ùôn'], 'uổn': ['ủôn'], 'uộn': ['ụôn'], 'uỗn': ['ũôn'],
     'uống': ['úông'], 'uồng': ['ùông'], 'uổng': ['ủông'], 'uộng': ['ụông'], 'uỗng': ['ũông'],
     'uốt': ['úôt'], 'uột': ['ụôt'],
@@ -95,25 +105,29 @@ tonal_mapping_1 = {
     'ướu': ['ứơu', 'ươú'], 'ườu': ['ừơu', 'ươù'], 'ượu': ['ựơu', 'ươụ'],
     'ựu': ['ưụ'], 'ừu': ['ưù'], 'ửu': ['ưủ'], 'ứu': ['ưú'], 'ữu': ['ưũ'],
     'oáng': ['óang'], 'oạch': ['ọach'], 'oách': ['óach'],
+    'oán': ['óan'], 'oạn': ['ọan'], 'oãn': ['õan'],'oàn':['òan'],
     'oắn': ['óăn'],
     'oặt': ['ọăt'], 'uắc': ['úăc'],
     'uấy': ['úây', 'uâý'], 'uầy': ['ùây', 'uâỳ'], 'uẩy': ['ủây', 'uâỷ'], 'uậy': ['ụây', 'uâỵ'],
     'ưới': ['ứơi', 'ươí'], 'ười': ['ừơi', 'ươì'], 'ượi': ['ựơi', 'ươị'], 'ưỡi': ['ữơi', 'ươĩ'],
+    'ưở':['ửơ'],
     'uèn': ['ùen'],
     'uyến': ['úyên', 'uýên'], 'uyền': ['ùyên', 'uỳên'], 'uyển': ['ủyên', 'uỷên'], 'uyện': ['ụyên', 'uỵên'], 'uyễn':['ũyên', 'uỹên'],
     'uầy': ['ùây'], 'uỷu': ['ủyu', 'uyủ'], 'uỳnh': ['ùynh'],
-    'uốc': ['úôc'], 'uần': ['ùân']
+    'uốc': ['úôc'], 'uần': ['ùân'],
+    'yến':['ýên'], 'yền': ['ỳên'], 'yển':'ỷên','yễn':['ỹên'], 'yện':['ỵên']
 }
 
 
 tonal_mapping_2 = {
-    'uấy': ['uâý'], 'uầy': ['uâỳ'], 'uẩy': ['uâỷ'], 'uậy': ['uâỵ'],
+    'ấy': ['âý'], 'ầy': ['âỳ'], 'ẩy': ['âỷ'], 'ậy': ['âỵ'],
     'ữa': ['ưã'], 'ựa': ['ưạ'], 'ứa': ['ưá'], 'ừa': ['ưà'], 'ửa': ['ửa'],
-    'ướng': ['ứơng'], 'ường': ['ừơng'], 'ượng': ['ựơng']
+    'ướng': ['ứơng'], 'ường': ['ừơng'], 'ượng': ['ựơng'], 'uyết':['uýêt'],
+    'uyến':['uýên'], 'uyền':['uỳên'], 'uyển':['uỷên']
 }
 
 
-class wrong_word_generator:
+class WrongWordGenerator:
     def __init__(self):
         self.__word = ""
 
@@ -122,77 +136,46 @@ class wrong_word_generator:
 
     def set_word(self, word: str):
         self.__word = word
+    
+    @staticmethod
+    def __swap(word, pos_1, pos_2) -> str:
+        tmp = word[pos_1]
+        word = word.replace(word[pos_1], word[pos_2], 1)
+        word = word.replace(word[pos_2], tmp, 1)
+        return word
 
-    def remove_char(self) -> dict:
-        '''
-        Input
-            word: Input word to process
-
-        Output
-            result: dict that key is the original word,
-                    value is the string of wrong words separated by delimiter ','
+    def remove_char(self) -> str:
+        """
         Example:
             inp: "hello"
-            out: {"hello": "ello, hllo, helo, hell, hell"}
-            
-            in: "nguyễn"
-            out: {'nguyễn': 'guyễn, nuyễn, ngyễn, nguễn, nguyn, nguyễ'}
-        
+            out: "ello" or "hllo" or "helo" or"hell" or "hell"
         Note: This method is used for both en & vn
-        '''
+        """
         word = self.get_word()
-        result = {word: ''}
+        pos = random.randrange(0, len(word))
+        
+        # remove char
+        word = word[: pos] + word[pos + 1:]
+        return word
 
-        # remove char in each pos
-        for pos in range(len(word)):
-            removed_word = word[: pos] + word[pos + 1:]
-            result[word] += removed_word + ', '
-
-        # Remove the trailing comma and space
-        result[word] = result[word][: -2]
-        return result
-
-    def insert_char_english(self) -> dict:
-        '''
-        Input
-            word: Input word to process
-
-        Output
-            result: dict that key is the original word,
-                    value is the string of wrong words separated by delimiter ', '
-
+    def insert_char_english(self) -> str:
+        """
         Example:
             inp: "hi"
-            out: {"hi": "ahi, bhi, chi, ..., zhi, hai, hbi, hci, ..., hzi"}
-        '''
+            out: "ahi" or "bhi" or "chi" or ...
+        """
         word = self.get_word()
-        result = {word: ''}
+        pos_1 = random.randrange(0, len(word))
+
+        # select random char
         alphabet = string.ascii_lowercase  # Get all lowercase letters
+        pos_2 = random.randrange(0, len(alphabet))
         
-        # Loop through each char pos
-        for pos in range(len(word)+1):
-            inserted_word = []
-            # Insert at first pos
-            if pos == 0:
-                inserted_word = [char + word for char in alphabet]
-            # insert at last pos
-            elif pos == len(word):
-                inserted_word = [word + char for char in alphabet]
-            # insert other pos
-            else:
-                inserted_word = [word[:pos] + char + word[pos:] for char in alphabet]
-            
-            # merge words into a string
-            inserted_word = (', ').join(inserted_word)
+        # insert random char into word
+        word = word[:pos_1] + alphabet[pos_2] + word[pos_1:]
+        return word
 
-            # merge into result
-            if pos == len(word):
-                result[word] += inserted_word
-            else:
-                result[word] += inserted_word + ', '
-        return result
-
-    def swap_char_english(self) -> dict:
+    def swap_char_english(self) -> str:
         """
         Input: word
 
@@ -203,107 +186,130 @@ class wrong_word_generator:
             out: {"hello": "its_permutations"}
         """
         word = self.get_word()
-        permutation = [''.join(p) for p in permutations(word) if p != word]
-        permutation = ', '.join(permutation)
-        return {word: permutation}
+        pos_1 = random.randrange(0, len(word))
+        pos_2 = random.randrange(0, len(word))
+        
+        # check for similar pos
+        if len(word) > 2:
+            while pos_2 == pos_1:
+                pos_1 = random.randrange(0, len(word))
+                pos_2 = random.randrange(0, len(word))
+        return self.__swap(word, pos_1, pos_2)
 
 
     ##########################################################################
-    def  wrong_tone_pos_vn(self) -> dict:
+    def  wrong_tone_pos_vn(self) -> list:
         '''
-        Input:
-            single word
-
-        Output:
-            dict of string vals
-
         Examples: {"hiếu": "híêu, hiêú"}
                   {"giường": "giừơng"}
                   {quặng: ""}
 
         "gi" và "qu" are deemed to be consonants
         '''
-        word = self.__word
-        wrong_word = []
-        #  Start with "gi" or "qu"
-        if self.__word.startswith('qu') or self.__word.startswith('gi'):
+        word = self.get_word()
+        result = []
+        # start code
+        # start with "gi" hoặc "qu"
+        if 'qu' in word or 'gi' in word:
             for key in tonal_mapping_2:
                 if word.endswith(key):
                     for value in tonal_mapping_2[key]:
-                        wrong_word.append(word[:-len(key)] + value)  # 'gi' or 'qu' + wrong_pos_syllable
+                        wrong_word = word[:-len(key)] + value
+                        result.append(wrong_word)
         else:
-        # Not start with "gi" or "qu"
-            for key in tonal_mapping_1:
+            # Remaining cases
+            for key in tonal_mapping_1 :
                 if word.endswith(key):
-                    for value in tonal_mapping_1[key]:
-                        wrong_word = word[:-len(key)] + value # first consonants + wrong_pos_syllable
-                        result[word].append(wrong_word)
-
-        result = {word: ' '.join(wrong_word)}
-        if not result[word]:
-            return {word: [word]}
-        else:
-            return result
+                    for value in tonal_mapping_1 [key]:
+                        wrong_word = word[:-len(key)] + value
+                        result.append(wrong_word)
+        return result
 
 
 ###############################################################################
-def test_remove_char_english() -> None:
-    word = 'hello'
-    generator = wrong_word_generator()
-    generator.set_word(word)
+def add_noise(sentence: str) -> str:
+    """
+    Input: single sentence
+           num_of_wrong_sentence: how many wrong sentences are generated
+    
+    Output: pair of correct & incorrect sentence
 
-    wrong_word = generator.remove_char()
-    print(wrong_word)
+    Example:
+        inp: correct sentence
+        out: correct sentence|incorrect sentence_1
+             correct sentence|incorrect sentence_2
+             correct sentence|incorrect sentence_3
+             correct sentence|incorrect sentence_4
+             correct sentence|incorrect sentence_5
+    
+    Constraints:
+        len(sen) > 20: sai 5 words
+        len(sen) > 10: sai 2 words
+
+    Naming convention:
+        sentence_0.txt
+        sentence_1.txt
+        sentence_2.txt
+    """
+    wrong_word_generator = WrongWordGenerator()
+    if len(sentence.split()) <= 10:
+        max_wrong_words = 3
+    elif 10 < len(sentence.split()) <= 20:
+        max_wrong_words = 5
+    elif len(sentence.split()) > 20:
+        max_wrong_words = 7
+    
+    for i in range(max_wrong_words):
+        # randomize index for word
+        word_index = random.randrange(0, len(sentence.split()))
+
+        wrong_word_generator.set_word(sentence.split()[word_index])
+
+        # randomize method that's gonna be applied
+        method_index = random.randrange(0, 3)
+        if method_index == 0: # insert
+            generated_result = wrong_word_generator.insert_char_english()
+
+        elif method_index == 1: # remove
+            generated_result = wrong_word_generator.remove_char()
+
+        elif method_index == 2: # swap
+            generated_result = wrong_word_generator.swap_char_english()
+    return sentence.replace(sentence.split()[word_index], generated_result)
+
+
+def add_noise_eng() -> None:
+    path = '../Data_preping/Data_gathering/En/Preprocessed_data/'
+    num_of_wrong_sentence = 10
+
+    with open(path + 'corpus.txt', 'r') as reader:
+        with open(path + 'noised_corpus.txt', 'w') as writer:
+            for line in reader:
+                print(line)
+                for i in range(num_of_wrong_sentence):
+                    incorect_sentence = add_noise(line)
+                    correct_sentence = line
+
+                    # ensure incorrect sentence must differ from correct sentence
+                    while incorect_sentence == correct_sentence:
+                        incorect_sentence = add_noise(line)
+                    
+                    writer.write(correct_sentence[:-1] + '|' + incorect_sentence)
     return None
-
-
-def test_insert_char_english() -> None:
-    word = 'hello'
-    generator = wrong_word_generator()
-    generator.set_word(word)
-    wrong_word = generator.insert_char_english()
-    print(wrong_word)
-
-
-def test_swap_char_english() -> None:
-    word = 'hello'
-    generator = wrong_word_generator()
-    generator.set_word(word)
-    wrong_word = generator.swap_char_english()
-    print(wrong_word)
 
 
 ###############################################################################
-def test_remove_char_vn() -> None:
-    word = 'Nguyễn'
-    generator = wrong_word_generator()
-    generator.set_word(word)
-    wrong_word = generator.remove_char()
-    print(wrong_word)
-    return None
-
-
-def test_wrong_tone_pos_vn() -> None:
-    # word_ls = ['nguyễn', 'giường', 'quặng', 'quàng', 'quờn', 'quấy', 'vượng']
-    word_ls = ['quyết', 'quýt', 'quỵt', 'giường', 'giượng']
-    for word in word_ls:
-        generator = wrong_word_generator()
-        generator.set_word(word)
-        wrong_word = generator. wrong_tone_pos_vn()
-        print(wrong_word)
-    return None
-
+def add_noised_vn() -> None:
+    pass
 
 ###############################################################################
 def main() -> None:
-    # test_remove_char_english()
-    # test_remove_char_vn()
-
-    # test_insert_char_english()
-    # test_swap_char_english()
-
-    test_wrong_tone_pos_vn()
+    # add_noise_eng()
+    add_noised_vn()
+    return None
 
 
 if __name__ == '__main__':
     main()
+    
+

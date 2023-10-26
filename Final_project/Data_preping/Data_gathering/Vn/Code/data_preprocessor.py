@@ -61,7 +61,7 @@ class TextPreprocessor:
     def remove_by_regex(self, regex_dict):
         for i in regex_dict:
             for filename in sorted(os.listdir(self.__data_path)):
-                with open(os.path.join(self.__data_path, filename), 'r', encoding='utf-8') as f:            
+                with open(os.path.join(self.__data_path, filename), 'r', encoding='utf-8') as f:
                     data = []
                     for line in f:
                         line = re.sub(regex_dict[i][0], regex_dict[i][1], line)
@@ -76,7 +76,6 @@ class TextPreprocessor:
                     data = '\n'.join(data)
                     self.__save_preprocessed_data(self.__preprocessed_data_path, filename, data)
         return None
-
 
 def vn_preprocessing() -> None:
     category_ls = ['am_thuc', 'doi_song', 'du_lich', 'gia_dinh', 'the_gioi',
