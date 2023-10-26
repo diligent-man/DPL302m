@@ -2,6 +2,10 @@ import os
 import re
 import shutil
 
+from typing_error_gen import *
+from confusion_set import vi_syllables
+from normalize import vn_sentence_to_telex_type, chuan_hoa_dau_tu_tieng_viet
+
 
 class TextPreprocessor:
     def __init__(self):
@@ -77,6 +81,28 @@ class TextPreprocessor:
                     self.__save_preprocessed_data(self.__preprocessed_data_path, filename, data)
         return None
 
+    def standardize_mark(self):
+        # Perform punctuation normalization on the data
+        for filename in sorted(os.listdir(self.__preprocessed_data_path)):
+            with open(os.path.join(self.__preprocessed_data_path, filename), 'r', encoding='utf-8') as f:
+                data = ''
+                for line in f:
+                    # Apply the punctuation normalization function from normalize.py
+                    normalized_line = chuan_hoa_dau_tu_tieng_viet(line)
+                    # Apply the punctuation normalization function from typing_error_gen.py
+                    normalized_line = vn_sentence_to_telex_type(normalized_line)
+
+                    # Remove extra spaces and ensure spaces between words
+                    normalized_line = ' '.join(normalized_line.strip().split())
+
+                    # If the normalized line is not empty, save it
+                    if len(normalized_line) > 0:
+                        data += normalized_line + '\n'
+
+                # Save the preprocessed data
+                self.__save_preprocessed_data(self.__preprocessed_data_path, filename, data)
+
+
 def vn_preprocessing() -> None:
     category_ls = ['am_thuc', 'doi_song', 'du_lich', 'gia_dinh', 'the_gioi',
                    'giai_tri', 'giao_duc', 'khong_gian_song', 'loi_song',
@@ -104,6 +130,7 @@ def vn_preprocessing() -> None:
                       1: [r"[-–]", ""], # hyphen & dash
                      }
         text_preprocessor.remove_by_regex(regex_dict)
+        text_preprocessor.standardize_mark()
 
 
 def main() -> None:

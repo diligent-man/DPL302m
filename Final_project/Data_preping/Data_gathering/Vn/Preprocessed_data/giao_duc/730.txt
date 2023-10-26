@@ -1,40 +1,40 @@
-Thông tin tuyển sinh sẽ được net hóa Công khai thông tin tuyển sinh rộng rãi trên mạng sẽ có lợi nhiều hơn cho thí sinh Hiện Trung tâm tin học Bộ Giáo dục và Đào tạo GDĐT đã chuẩn bị xong hệ thống phần mềm cung cấp các thông tin tuyển sinh năm mang tên Cổng thông tin tuyển sinh
-Phần mềm này sẽ chạy trên mạng miễn phí để giúp các trường công bố dữ liệu tuyển sinh và thí sinh TS tham khảo để đăng ký thay vì phải chờ đến ngày sau khi phát hành cuốn Những điều cần biết về tuyển sinh của Bộ GDĐT
-PV báo Thanh Niên đã có cuộc trao đổi với ông Quách Tuấn Ngọc Giám đốc Trung tâm tin học Bộ GDĐT xung quanh sự kiện này
-Phóng viên Được biết phần mềm Cổng thông tin tuyển sinh được triển khai sẽ là bước đột phá trong việc cải tiến những thủ tục quy trình liên quan đến kỳ thi tuyển sinh ĐH CĐ
-Xin ông cho biết cụ thể hơn
-Ông Quách Tuấn Ngọc Lâu nay mọi người đều biết rằng quy trình tuyển sinh là hằng năm các Sở nộp về Bộ mã trường mã đơn vị đăng ký dự thi cho thống nhất các trường phải đăng ký mã ngành tuyển sinh những thay đổi sửa đổi về ngành nghề đào tạo
-với Bộ GDĐT mỗi năm phải mất khá nhiều thời gian và rất tốn công sức để chế bản cuốn sách Những điều cần biết về tuyển sinh
-Chỉ khi nào phát hành tài liệu đó thì coi như tuyển sinh mới bắt đầu TS lúc đó mới có thể có thông tin để đăng ký trường thi
-Thứ hai khi có thông tin tuyển sinh ở Những điều cần biết thí sinh muốn tìm ngành nghề tìm trường rất vất vả vì tra cứu trên giấy rất khó
-Ví dụ một TS đưa ra yêu cầu muốn thi ngành công nghệ thông tin tại TPHCM nhưng ở bậc cao đẳng thì có những trường nào Nếu tìm ở Những điều cần biết
-sẽ rất lâu và có thể không tìm ra hết được nhưng tìm trên máy thì rất đơn giản
-Nó chỉ hiện ra đúng một trang thông tin cho TS hoặc TS chỉ nhớ mang máng mã trường có chữ Q chỉ cần bấm chữ Q là ra hết tất cả các trường có chữ Q
-Có thể nói Cổng thông tin tuyển sinh là cơ sở dữ liệu của tất cả các trường có nhu cầu thi tuyển sinh cho nên sự tra cứu rất tiện
-Một cái lợi quan trọng khác là khi hệ thống này vận hành TS có thể tham khảo quanh năm suốt tháng chứ không phải chờ đến ngày sau khi có cuốn Những điều cần biết
-Khi phần mềm này vận hành các trường và thí sinh sẽ được khai thác những gì
-Đối với các trường có một thuận lợi là muốn đưa thông tin lên lúc nào cũng được
-Nếu như trước đây sau ngày khi in xong quyển Những điều cần biết trường nào muốn mở thêm ngành nghề mới sau ngày đó thì không thông tin được tới TS
-Với hệ thống mạng này thì hằng năm trước ngày kết thúc đăng ký dự thi vẫn có thể mở thêm ngành mới
-Việc đưa thông tin rất đơn giản Trung tâm tin học sẽ cung cấp cho các trường một tên một mật khẩu
-Người sử dụng có quyền vào trang của trường mình để nạp thông tin và thay đổi dữ liệu
-Có thể năm đầu sẽ hơi mất công để đưa thông tin lên nhưng những năm sau có thể chỉ cần phút để thay đổi các dữ liệu cần thiết
-Còn TS thì vào tự do như xem một tờ báo mạng
-Việc mà chúng tôi đang đề xuất là chúng ta phải tiến tới cho phép TS được khai giấy đăng ký dự thi từ trên mạng này và chỉ cần ký vào đó là có thể nộp được không phải mua hồ sơ từ các Sở GDĐT
-Và có thể còn cho phép TS đăng ký qua mạng nữa
-Hiện cổng thông tin tuyển sinh đã có chức năng này
-Trước mắt nó sẽ giúp TS được thoải mái đăng ký nháp trước khi đăng ký chính thức mà không bị khống chế bởi số lượng hồ sơ
-Điều đáng nói cổng thông tin tuyển sinh là hệ thống tư vấn hoàn thiện để giúp TS lựa chọn được đúng ngành nghề đúng trường dự thi
-Tất cả các thông tin khác về tư vấn tuyển sinh điểm chuẩn các năm các dữ liệu thống kê phân tích cũng được đưa lên đó các TS có thể tham khảo quanh năm
-Các TS sẽ biết ngay chất lượng của các trường năng lực của mình có đáp ứng được không
-Hệ thống này còn cho phép TS đăng ký cả nguyện vọng NV NV
-Lúc đó nếu tất cả các trường NV NV cùng chơi trên phần mềm này sẽ giúp TS tránh được rủi ro
-Ví dụ hôm nay trường A muốn tuyển TS có NV mà ngày đó đã có khoảng TS đăng ký với mức điểm định tuyển là thì những TS có điểm có thể chạy đi chỗ khác
-Điều này cũng sẽ không ảnh hưởng gì đến quyền lợi của các trường vì đây chỉ là phần đăng ký nháp
-Sau đó TS có nguyện vọng thực sự phải chính thức gửi hồ sơ xét tuyển đến các trường
-Việc triển khai để ra mắt cổng thông tin này như thế nào
-Về công nghệ chúng tôi đã chuẩn bị rất tốt nó chạy trên mạng miễn phí
-Nhưng còn một vấn đề cần triển khai là sự hợp tác của các trường
-Các trường phải nhận thức đây là quyền lợi của họ phải nhập dữ liệu vào và kiểm soát dữ liệu một cách chuẩn xác thì hệ thống vận hành mới ngon được và mới có đầy đủ ý nghĩa
-Bộ cần triệu tập các trường đến để tập huấn và chỉ đạo bằng văn bản để các trường có trách nhiệm thực hiện
-Dự kiến sẽ chính thức đưa cổng thông tin này lên mạng tại địa chỉ httpwwwtsedunetvn
+Thoong tin tuyeenr sinh sex đuwowcj net hoas Coong khai thoong tin tuyeenr sinh roongj raix treen mangj sex cos lowij nhieeuf hown cho this sinh Hieenj Trung taam tin hocj Booj Giaos ducj vaf Đaof taoj GDĐT đax chuaanr bij xong heej thoongs phaanf meemf cung caaps cacs thoong tin tuyeenr sinh nawm mang teen Coongr thoong tin tuyeenr sinh
+Phaanf meemf nayf sex chayj treen mangj mieenx phis đeer giups cacs truwowngf coong boos duwx lieeuj tuyeenr sinh vaf this sinh TS tham khaor đeer đawng kys thay vif phair chowf đeens ngayf sau khi phats hanhf cuoons Nhuwngx đieeuf caanf bieets veef tuyeenr sinh cuar Booj GDĐT
+PV baos Thanh Nieen đax cos cuoocj trao đooir vowis oong Quachs Tuaans Ngocj Giams đoocs Trung taam tin hocj Booj GDĐT xung quanh suwj kieenj nayf
+Phongs vieen Đuwowcj bieets phaanf meemf Coongr thoong tin tuyeenr sinh đuwowcj trieenr khai sex laf buwowcs đootj phas trong vieecj cair tieens nhuwngx thur tucj quy trinhf lieen quan đeens kyf thi tuyeenr sinh ĐH CĐ
+Xin oong cho bieets cuj theer hown
+Ông Quachs Tuaans Ngocj Laau nay moij nguwowif đeeuf bieets rawngf quy trinhf tuyeenr sinh laf hawngf nawm cacs Sowr noopj veef Booj max truwowngf max đown vij đawng kys duwj thi cho thoongs nhaats cacs truwowngf phair đawng kys max nganhf tuyeenr sinh nhuwngx thay đooir suwar đooir veef nganhf ngheef đaof taoj
+vowis Booj GDĐT mooix nawm phair maats khas nhieeuf thowif gian vaf raats toons coong suwcs đeer chees banr cuoons sachs Nhuwngx đieeuf caanf bieets veef tuyeenr sinh
+Chir khi naof phats hanhf taif lieeuj đos thif coi nhuw tuyeenr sinh mowis bawts đaauf TS lucs đos mowis cos theer cos thoong tin đeer đawng kys truwowngf thi
+Thuws hai khi cos thoong tin tuyeenr sinh owr Nhuwngx đieeuf caanf bieets this sinh muoons timf nganhf ngheef timf truwowngf raats vaats var vif tra cuwus treen giaays raats khos
+Vis duj mootj TS đuwa ra yeeu caauf muoons thi nganhf coong ngheej thoong tin taij TPHCM nhuwng owr baacj cao đawngr thif cos nhuwngx truwowngf naof Neeus timf owr Nhuwngx đieeuf caanf bieets
+sex raats laau vaf cos theer khoong timf ra heets đuwowcj nhuwng timf treen mays thif raats đown gianr
+Nos chir hieenj ra đungs mootj trang thoong tin cho TS hoawcj TS chir nhows mang mangs max truwowngf cos chuwx Q chir caanf baams chuwx Q laf ra heets taats car cacs truwowngf cos chuwx Q
+Cos theer nois Coongr thoong tin tuyeenr sinh laf cow sowr duwx lieeuj cuar taats car cacs truwowngf cos nhu caauf thi tuyeenr sinh cho neen suwj tra cuwus raats tieenj
+Mootj cais lowij quan trongj khacs laf khi heej thoongs nayf vaanj hanhf TS cos theer tham khaor quanh nawm suoots thangs chuws khoong phair chowf đeens ngayf sau khi cos cuoons Nhuwngx đieeuf caanf bieets
+Khi phaanf meemf nayf vaanj hanhf cacs truwowngf vaf this sinh sex đuwowcj khai thacs nhuwngx gif
+Đoois vowis cacs truwowngf cos mootj thuaanj lowij laf muoons đuwa thoong tin leen lucs naof cungx đuwowcj
+Neeus nhuw truwowcs đaay sau ngayf khi in xong quyeenr Nhuwngx đieeuf caanf bieets truwowngf naof muoons mowr theem nganhf ngheef mowis sau ngayf đos thif khoong thoong tin đuwowcj towis TS
+Vowis heej thoongs mangj nayf thif hawngf nawm truwowcs ngayf keets thucs đawng kys duwj thi vaanx cos theer mowr theem nganhf mowis
+Vieecj đuwa thoong tin raats đown gianr Trung taam tin hocj sex cung caaps cho cacs truwowngf mootj teen mootj maatj khaaur
+Nguwowif suwr dungj cos quyeenf vaof trang cuar truwowngf minhf đeer napj thoong tin vaf thay đooir duwx lieeuj
+Cos theer nawm đaauf sex howi maats coong đeer đuwa thoong tin leen nhuwng nhuwngx nawm sau cos theer chir caanf phuts đeer thay đooir cacs duwx lieeuj caanf thieets
+Conf TS thif vaof tuwj do nhuw xem mootj towf baos mangj
+Vieecj maf chungs tooi đang đeef xuaats laf chungs ta phair tieens towis cho pheps TS đuwowcj khai giaays đawng kys duwj thi tuwf treen mangj nayf vaf chir caanf kys vaof đos laf cos theer noopj đuwowcj khoong phair mua hoof sow tuwf cacs Sowr GDĐT
+Vaf cos theer conf cho pheps TS đawng kys qua mangj nuwax
+Hieenj coongr thoong tin tuyeenr sinh đax cos chuwcs nawng nayf
+Truwowcs mawts nos sex giups TS đuwowcj thoair mais đawng kys nhaps truwowcs khi đawng kys chinhs thuwcs maf khoong bij khoongs chees bowir soos luwowngj hoof sow
+Đieeuf đangs nois coongr thoong tin tuyeenr sinh laf heej thoongs tuw vaans hoanf thieenj đeer giups TS luwaj chonj đuwowcj đungs nganhf ngheef đungs truwowngf duwj thi
+Taats car cacs thoong tin khacs veef tuw vaans tuyeenr sinh đieemr chuaanr cacs nawm cacs duwx lieeuj thoongs kee phaan tichs cungx đuwowcj đuwa leen đos cacs TS cos theer tham khaor quanh nawm
+Cacs TS sex bieets ngay chaats luwowngj cuar cacs truwowngf nawng luwcj cuar minhf cos đaps uwngs đuwowcj khoong
+Heej thoongs nayf conf cho pheps TS đawng kys car nguyeenj vongj NV NV
+Lucs đos neeus taats car cacs truwowngf NV NV cungf chowi treen phaanf meemf nayf sex giups TS tranhs đuwowcj ruir ro
+Vis duj hoom nay truwowngf A muoons tuyeenr TS cos NV maf ngayf đos đax cos khoangr TS đawng kys vowis muwcs đieemr đinhj tuyeenr laf thif nhuwngx TS cos đieemr cos theer chayj đi choox khacs
+Đieeuf nayf cungx sex khoong anhr huwowngr gif đeens quyeenf lowij cuar cacs truwowngf vif đaay chir laf phaanf đawng kys nhaps
+Sau đos TS cos nguyeenj vongj thuwcj suwj phair chinhs thuwcs guwir hoof sow xets tuyeenr đeens cacs truwowngf
+Vieecj trieenr khai đeer ra mawts coongr thoong tin nayf nhuw thees naof
+Veef coong ngheej chungs tooi đax chuaanr bij raats toots nos chayj treen mangj mieenx phis
+Nhuwng conf mootj vaans đeef caanf trieenr khai laf suwj howpj tacs cuar cacs truwowngf
+Cacs truwowngf phair nhaanj thuwcs đaay laf quyeenf lowij cuar hoj phair nhaapj duwx lieeuj vaof vaf kieemr soats duwx lieeuj mootj cachs chuaanr xacs thif heej thoongs vaanj hanhf mowis ngon đuwowcj vaf mowis cos đaayf đur ys nghiax
+Booj caanf trieeuj taapj cacs truwowngf đeens đeer taapj huaans vaf chir đaoj bawngf vawn banr đeer cacs truwowngf cos trachs nhieemj thuwcj hieenj
+Duwj kieens sex chinhs thuwcs đuwa coongr thoong tin nayf leen mangj taij điaj chir httpwwwtsedunetvn

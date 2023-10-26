@@ -1,9 +1,9 @@
-ĐHDL Hùng Vương đóng cửa ngành học
-Sáng ĐHDL Hùng Vương đã khai giảng năm học mới với tân sinh viên hệ ĐH và CĐ
-Tuy nhiên trong số này hiện có hàng chục sinh viên hết sức lo lắng chưa biết mình sẽ học ngành gì ở đâu
-Sau lễ khai giảng nhà trường đã có cuộc họp với phụ huynh và các tân sinh viên này
-Trường thông báo do ngành tiếng Anh tiếng Nhật tiếng Pháp tiếng Trung toán tin ứng dụng chỉ tuyển được mỗi ngành từ đến sinh viên nên trường không thể mở lớp được
-Trường sẽ giải quyết bằng cách cho sinh viên chuyển ngành đồng thời sẽ liên hệ với các ĐHDL khác để chuyển sinh viên sang học
-Tuy nhiên nhiều phụ huynh đã tỏ ra bức xúc
-Bà Mai Bình Trưởng phòng Đào tạo cho biết ngành tiếng Anh nhà trường gọi thí sinh nhưng chỉ có thí sinh đến nhập học trong khi chỉ cần sinh viên là trường có thể mở lớp
-Riêng ngành tiếng Pháp nếu sinh viên yêu cầu chuyển sang trường khác thì trường vẫn không thể giải quyết vì ĐHDL Ngoại ngữ Tin học và ĐHDL Văn Hiến năm nay cũng không mở được ngành tiếng Pháp do có quá ít sinh viên
+ĐHDL Hungf Vuwowng đongs cuwar nganhf hocj
+Sangs ĐHDL Hungf Vuwowng đax khai giangr nawm hocj mowis vowis taan sinh vieen heej ĐH vaf CĐ
+Tuy nhieen trong soos nayf hieenj cos hangf chucj sinh vieen heets suwcs lo lawngs chuwa bieets minhf sex hocj nganhf gif owr đaau
+Sau leex khai giangr nhaf truwowngf đax cos cuoocj hopj vowis phuj huynh vaf cacs taan sinh vieen nayf
+Truwowngf thoong baos do nganhf tieengs Anh tieengs Nhaatj tieengs Phaps tieengs Trung toans tin uwngs dungj chir tuyeenr đuwowcj mooix nganhf tuwf đeens sinh vieen neen truwowngf khoong theer mowr lowps đuwowcj
+Truwowngf sex giair quyeets bawngf cachs cho sinh vieen chuyeenr nganhf đoongf thowif sex lieen heej vowis cacs ĐHDL khacs đeer chuyeenr sinh vieen sang hocj
+Tuy nhieen nhieeuf phuj huynh đax tor ra buwcs xucs
+Baf Mai Binhf Truwowngr phongf Đaof taoj cho bieets nganhf tieengs Anh nhaf truwowngf goij this sinh nhuwng chir cos this sinh đeens nhaapj hocj trong khi chir caanf sinh vieen laf truwowngf cos theer mowr lowps
+Rieeng nganhf tieengs Phaps neeus sinh vieen yeeu caauf chuyeenr sang truwowngf khacs thif truwowngf vaanx khoong theer giair quyeets vif ĐHDL Ngoaij nguwx Tin hocj vaf ĐHDL Vawn Hieens nawm nay cungx khoong mowr đuwowcj nganhf tieengs Phaps do cos quas its sinh vieen

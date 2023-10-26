@@ -1,19 +1,19 @@
-Phó thủ tướng yêu cầu làm sạch dữ liệu người giao dịch chứng khoán
-Phó thủ tướng yêu cầu Bộ Tài chính chỉ đạo rà soát xác thực làm sạch dữ liệu thông tin người giao dịch chứng khoán trong đó có người thân tham gia giao dịch
-Văn phòng Chính phủ ngày truyền đạt chỉ đạo của Phó thủ tướng Trần Lưu Quang giao Ủy ban chứng khoán Nhà nước Sở Giao dịch Tổng công ty Lưu ký và Bù trừ chứng khoán Việt Nam kết nối cơ sở dữ liệu quốc gia về dân cư hệ thống định danh và xác thực điện tử
-Việc kết nối nhằm làm sạch dữ liệu người tham gia giao dịch chứng khoán
-Nhiệm vụ này hoàn thành trong tháng
-Làm sạch dữ liệu người dùng là đối chiếu thông tin của họ với Cơ sở dữ liệu quốc gia về dân cư để đảm bảo trùng khớp và loại bỏ dữ liệu sai trùng lặp hoặc thông tin ảo
-Chỉ đạo trên đưa ra khi thời gian qua nhiều cá nhân bị khởi tố vì thao túng chứng khoán để thu lợi
-Tháng cựu chủ tịch FLC Trịnh Văn Quyết bị Cơ quan Cảnh sát điều tra Bộ Công an C khởi tố về tội Thao túng thị trường chứng khoán theo Điều Bộ luật Hình sự
-Tháng Chủ tịch Louis Holdings Đỗ Thành Nhân bị tuyên năm tháng tù vì tội Thao túng thị trường chứng khoán
-Theo thông báo hôm qua Bộ Công an chủ trì cùng các bộ Thông tin và Truyền thông Xây dựng Tài nguyên và Môi trường nghiên cứu bổ sung thông tin địa chỉ số quốc gia vào cơ sở dữ liệu quốc gia về dân cư tích hợp tài khoản định danh điện tử cá nhân tổ chức doanh nghiệp với sàn giao dịch bất động sản quốc gia hệ thống cơ sở dữ liệu đất đai quốc gia ngân hàng
-Địa chỉ số là dãy số biểu trưng cho địa chỉ vật lý có thể là nhà căn hộ nơi cư trú thực thể kinh doanh hoặc di tích
-Sổ Bảo hiểm Xã hội sẽ được tích hợp trên ứng dụng VNeID để hiệu quả không chồng chéo
-Bộ Tư pháp bố trí hạ tầng công nghệ thông tin tối ưu hóa hệ thống đăng ký quản lý hộ tịch điện tử dùng chung đảm bảo hiệu quả trong thực hiện các thủ tục hành chính liên thông gồm Đăng ký khai sinh đăng ký thường trú cấp thẻ bảo hiểm y tế cho trẻ dưới tuổi Đăng ký khai tử xóa đăng ký thường trú trợ cấp mai táng phí
-Bộ Lao động Thương binh và Xã hội phối hợp Bộ Công an nghiên cứu tổng hợp thông tin người lao động và giao dịch việc làm gắn với ứng dụng VNeID
-Bộ Y tế hướng dẫn bệnh viện và người dân sử dụng sổ sức khỏe điện tử trên VNeID
-Trước đó Nghị quyết phiên họp Chính phủ thường kỳ ngày giao Bộ Giao thông Vận tải nghiên cứu nộp phạt vi phạm giao thông trên VNeID
-Tháng Thủ tướng yêu cầu tích hợp hàng loạt tiện ích lên ứng dụng VNeID gồm trình độ học vấn quan hệ họ hàng giấy phép lái xe tài khoản ngân hàng điện nước viễn thông công chức viên chức đảng viên
-Các đô thị loại thành phố hoặc thị xã thuộc tỉnh có các phường nội thành nội thị và các xã ngoại thành ngoại thị sớm nghiên cứu thí điểm tích hợp ứng dụng quản lý xã hội trên VNeID như tố giác tội phạm phòng chống cháy nổ an toàn giao thông bảo vệ môi trường khai báo tạm trú tạm vắng
-Các tiện ích cho người dân như cấp lý lịch tư pháp sổ sức khỏe điện tử giấy khai sinh kết hôn ly hôn dịch vụ ngân hàng tiện ích cho nhóm yếu thế người già trẻ em người có công cũng sẽ được tích hợp vào ứng dụng
+Phos thur tuwowngs yeeu caauf lamf sachj duwx lieeuj nguwowif giao dichj chuwngs khoans
+Phos thur tuwowngs yeeu caauf Booj Taif chinhs chir đaoj raf soats xacs thuwcj lamf sachj duwx lieeuj thoong tin nguwowif giao dichj chuwngs khoans trong đos cos nguwowif thaan tham gia giao dichj
+Vawn phongf Chinhs phur ngayf truyeenf đatj chir đaoj cuar Phos thur tuwowngs Traanf Luwu Quang giao Ủy ban chuwngs khoans Nhaf nuwowcs Sowr Giao dichj Toongr coong ty Luwu kys vaf Buf truwf chuwngs khoans Vieetj Nam keets noois cow sowr duwx lieeuj quoocs gia veef daan cuw heej thoongs đinhj danh vaf xacs thuwcj đieenj tuwr
+Vieecj keets noois nhawmf lamf sachj duwx lieeuj nguwowif tham gia giao dichj chuwngs khoans
+Nhieemj vuj nayf hoanf thanhf trong thangs
+Lamf sachj duwx lieeuj nguwowif dungf laf đoois chieeus thoong tin cuar hoj vowis Cow sowr duwx lieeuj quoocs gia veef daan cuw đeer đamr baor trungf khowps vaf loaij bor duwx lieeuj sai trungf lawpj hoawcj thoong tin aor
+Chir đaoj treen đuwa ra khi thowif gian qua nhieeuf cas nhaan bij khowir toos vif thao tungs chuwngs khoans đeer thu lowij
+Thangs cuwuj chur tichj FLC Trinhj Vawn Quyeets bij Cow quan Canhr sats đieeuf tra Booj Coong an C khowir toos veef tooij Thao tungs thij truwowngf chuwngs khoans theo Đieeuf Booj luaatj Hinhf suwj
+Thangs Chur tichj Louis Holdings Đoox Thanhf Nhaan bij tuyeen nawm thangs tuf vif tooij Thao tungs thij truwowngf chuwngs khoans
+Theo thoong baos hoom qua Booj Coong an chur trif cungf cacs booj Thoong tin vaf Truyeenf thoong Xaay duwngj Taif nguyeen vaf Mooi truwowngf nghieen cuwus boor sung thoong tin điaj chir soos quoocs gia vaof cow sowr duwx lieeuj quoocs gia veef daan cuw tichs howpj taif khoanr đinhj danh đieenj tuwr cas nhaan toor chuwcs doanh nghieepj vowis sanf giao dichj baats đoongj sanr quoocs gia heej thoongs cow sowr duwx lieeuj đaats đai quoocs gia ngaan hangf
+Điaj chir soos laf dayx soos bieeur truwng cho điaj chir vaatj lys cos theer laf nhaf cawn hooj nowi cuw trus thuwcj theer kinh doanh hoawcj di tichs
+Soor Baor hieemr Xax hooij sex đuwowcj tichs howpj treen uwngs dungj VNeID đeer hieeuj quar khoong choongf cheos
+Booj Tuw phaps boos tris haj taangf coong ngheej thoong tin toois uwu hoas heej thoongs đawng kys quanr lys hooj tichj đieenj tuwr dungf chung đamr baor hieeuj quar trong thuwcj hieenj cacs thur tucj hanhf chinhs lieen thoong goomf Đawng kys khai sinh đawng kys thuwowngf trus caaps ther baor hieemr y tees cho trer duwowis tuooir Đawng kys khai tuwr xoas đawng kys thuwowngf trus trowj caaps mai tangs phis
+Booj Lao đoongj Thuwowng binh vaf Xax hooij phoois howpj Booj Coong an nghieen cuwus toongr howpj thoong tin nguwowif lao đoongj vaf giao dichj vieecj lamf gawns vowis uwngs dungj VNeID
+Booj Y tees huwowngs daanx beenhj vieenj vaf nguwowif daan suwr dungj soor suwcs khoer đieenj tuwr treen VNeID
+Truwowcs đos Nghij quyeets phieen hopj Chinhs phur thuwowngf kyf ngayf giao Booj Giao thoong Vaanj tair nghieen cuwus noopj phatj vi phamj giao thoong treen VNeID
+Thangs Thur tuwowngs yeeu caauf tichs howpj hangf loatj tieenj ichs leen uwngs dungj VNeID goomf trinhf đooj hocj vaans quan heej hoj hangf giaays pheps lais xe taif khoanr ngaan hangf đieenj nuwowcs vieenx thoong coong chuwcs vieen chuwcs đangr vieen
+Cacs đoo thij loaij thanhf phoos hoawcj thij xax thuoocj tinhr cos cacs phuwowngf nooij thanhf nooij thij vaf cacs xax ngoaij thanhf ngoaij thij sowms nghieen cuwus this đieemr tichs howpj uwngs dungj quanr lys xax hooij treen VNeID nhuw toos giacs tooij phamj phongf choongs chays noor an toanf giao thoong baor veej mooi truwowngf khai baos tamj trus tamj vawngs
+Cacs tieenj ichs cho nguwowif daan nhuw caaps lys lichj tuw phaps soor suwcs khoer đieenj tuwr giaays khai sinh keets hoon ly hoon dichj vuj ngaan hangf tieenj ichs cho nhoms yeeus thees nguwowif giaf trer em nguwowif cos coong cungx sex đuwowcj tichs howpj vaof uwngs dungj

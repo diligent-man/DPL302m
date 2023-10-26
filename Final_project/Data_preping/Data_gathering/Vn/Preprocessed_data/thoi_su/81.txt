@@ -1,20 +1,20 @@
-Hai trạm thu phí không dừng bị lỗi hệ thống
-Hai trạm thu phí không dừng Bến Thủy và Bến Thủy ở Nghệ An bị mất kết nối khiến hệ thống không thể tự động trừ tiền khi xe qua trạm
-Tình trạng này vừa được đại diện chủ đầu tư chi nhánh BOT tuyến tránh thành phố Vinh báo cáo Cục Đường bộ Việt Nam
-Theo báo cáo từ tháng chi nhánh đã bàn giao việc vận hành thu phí tại hai trạm thu phí Bến Thủy và Bến Thủy cho Công ty TNHH Thu phí tự động VETC
-Tuy nhiên hệ thống xảy ra nhiều lỗi
-Trong tháng có lần hệ thống mất kết nối với máy chủ
-Lần gần nhất hệ thống tại hai trạm mất kết nối giờ
-Khi xảy ra lỗi ôtô chạy qua trạm thu phí BOT không được hệ thống nhận diện để thanh toán tự động
-Nhân viên trạm phải nhập biển số thủ công cho barrie mở xe qua và thao tác trừ tiền trên hệ thống
-Việc các xe dừng chờ nhập biển số gây ùn tắc tại trạm và tiềm ẩn nguy cơ thất thoát doanh thu của nhà đầu tư BOT
-Cục Đường bộ Việt Nam đã yêu cầu Công ty VETC nhanh chóng rà soát khắc phục lỗi này báo cáo nguyên nhân phương án sửa chữa và kết quả khắc phục
-Ông Nguyễn Lê Thắng Phó tổng giám đốc Công ty TNHH Thu phí tự động VETC cho biết việc mất kết nối mạng đầu tháng là do tủ điện tại trạm Bến Thủy bị nhảy aptomat chống rò khiến bộ lưu điện của máy chủ cạn pin và mất điện máy chủ
-Công ty VETC đã lắp đặt toàn bộ còi cảnh báo khi hệ thống thiết bị tại trạm bị mất điện lưới
-Giữa tháng kênh truyền dẫn đến kết nối hệ thống Backend hệ thống xử lý trung tâm bị chập chờn nên hệ thống thu phí bị lỗi
-VETC đã phối hợp với nhà cung cấp dịch vụ kênh truyền dữ liệu khôi phục và có giải pháp ngăn ngừa sự cố
-Hồi tháng các trạm thu phí Bến Thủy có hai lần mất kết nối do hệ thống xử lý xe qua trạm bị quá tải khiến giao dịch chậm
-Công ty VETC đã có kế hoạch nâng cấp tổng thể hệ thống Backend dự kiến hoàn thành trong năm
-Từ ngày thu phí tự động không dừng áp dụng cho các cao tốc trạm BOT trên quốc lộ chỉ còn một làn thu phí hỗn hợp
-Cả nước đã có trạm thu phí không dừng với làn thu phí
-Hiện triệu ôtô chiếm đã dán thẻ và mở tài khoản thu phí không dừng
+Hai tramj thu phis khoong duwngf bij looix heej thoongs
+Hai tramj thu phis khoong duwngf Beens Thuyr vaf Beens Thuyr owr Ngheej An bij maats keets noois khieens heej thoongs khoong theer tuwj đoongj truwf tieenf khi xe qua tramj
+Tinhf trangj nayf vuwaf đuwowcj đaij dieenj chur đaauf tuw chi nhanhs BOT tuyeens tranhs thanhf phoos Vinh baos caos Cucj Đuwowngf booj Vieetj Nam
+Theo baos caos tuwf thangs chi nhanhs đax banf giao vieecj vaanj hanhf thu phis taij hai tramj thu phis Beens Thuyr vaf Beens Thuyr cho Coong ty TNHH Thu phis tuwj đoongj VETC
+Tuy nhieen heej thoongs xayr ra nhieeuf looix
+Trong thangs cos laanf heej thoongs maats keets noois vowis mays chur
+Laanf gaanf nhaats heej thoongs taij hai tramj maats keets noois giowf
+Khi xayr ra looix ootoo chayj qua tramj thu phis BOT khoong đuwowcj heej thoongs nhaanj dieenj đeer thanh toans tuwj đoongj
+Nhaan vieen tramj phair nhaapj bieenr soos thur coong cho barrie mowr xe qua vaf thao tacs truwf tieenf treen heej thoongs
+Vieecj cacs xe duwngf chowf nhaapj bieenr soos gaay unf tawcs taij tramj vaf tieemf aanr nguy cow thaats thoats doanh thu cuar nhaf đaauf tuw BOT
+Cucj Đuwowngf booj Vieetj Nam đax yeeu caauf Coong ty VETC nhanh chongs raf soats khawcs phucj looix nayf baos caos nguyeen nhaan phuwowng ans suwar chuwax vaf keets quar khawcs phucj
+Ông Nguyeenx Lee Thawngs Phos toongr giams đoocs Coong ty TNHH Thu phis tuwj đoongj VETC cho bieets vieecj maats keets noois mangj đaauf thangs laf do tur đieenj taij tramj Beens Thuyr bij nhayr aptomat choongs rof khieens booj luwu đieenj cuar mays chur canj pin vaf maats đieenj mays chur
+Coong ty VETC đax lawps đawtj toanf booj coif canhr baos khi heej thoongs thieets bij taij tramj bij maats đieenj luwowis
+Giuwax thangs keenh truyeenf daanx đeens keets noois heej thoongs Backend heej thoongs xuwr lys trung taam bij chaapj chownf neen heej thoongs thu phis bij looix
+VETC đax phoois howpj vowis nhaf cung caaps dichj vuj keenh truyeenf duwx lieeuj khooi phucj vaf cos giair phaps ngawn nguwaf suwj coos
+Hooif thangs cacs tramj thu phis Beens Thuyr cos hai laanf maats keets noois do heej thoongs xuwr lys xe qua tramj bij quas tair khieens giao dichj chaamj
+Coong ty VETC đax cos kees hoachj naang caaps toongr theer heej thoongs Backend duwj kieens hoanf thanhf trong nawm
+Tuwf ngayf thu phis tuwj đoongj khoong duwngf aps dungj cho cacs cao toocs tramj BOT treen quoocs looj chir conf mootj lanf thu phis hoonx howpj
+Car nuwowcs đax cos tramj thu phis khoong duwngf vowis lanf thu phis
+Hieenj trieeuj ootoo chieems đax dans ther vaf mowr taif khoanr thu phis khoong duwngf

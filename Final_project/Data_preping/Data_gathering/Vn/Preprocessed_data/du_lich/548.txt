@@ -1,13 +1,13 @@
-Bắt đầu triển khai đường bay thuỷ phi cơ Tuần Châu Cô Tô
-Từ thủy phi cơ Tuần Châu đảo Cô Tô được triển khai nhằm rút gắn thời gian di chuyển và mang lại những trải nghiệm mới mẻ cho du khách
-Đơn vị triển khai dịch vụ này là hãng hàng không Hải Âu đơn vị đầu tiên và duy nhất tại Việt Nam vận hành dòng tàu bay thủy phi cơ đa dụng Cessna Grand Caravan B EX UBND huyện Cô Tô cho hay
-Vào đầu tháng các đơn vị liên quan đã khảo sát điều kiện cất hạ cánh đường bay từ đảo Tuần Châu Hạ Long ra Cô Tô và huấn luyện bay cho phi công thủy phi cơ tại huyện Cô Tô
-Ngày chuyến bay thử nghiệm đầu tiên với hành khách đã diễn ra thành công
-Từ hành khách có thể bắt đầu đặt vé với ưu đãi dành cho tất cả các khách hàng thực hiện hành trình bay khứ hồi Tuần Châu Cô Tô ngay trong tháng
-Hiện nay khách ra đảo Cô Tô phải đi tàu cao tốc từ Cẩm Phả hoặc Vân Đồn với thời gian từ đến phút
-Khi đường bay được đưa vào khai thác hành khách có thể rút ngắn thời gian di chuyển xuống còn phút
-Ngoài ra hành khách còn được chiêm ngưỡng vẻ đẹp của vịnh Hạ Long vịnh Bái Tử Long từ trên cao
-Ông Nguyễn Hải Linh Trưởng Phòng Văn hóa Thông tin và Du lịch huyện Cô Tô cho biết trong tháng Cô Tô đón khách lượt lưu trú đạt trên tăng so với cùng kỳ năm ngoái
-Lượng khách tới đảo đang ở mức ngang cùng kỳ năm trước dịch Covid nhưng thời gian lưu trú lâu hơn
-Trung bình mỗi khách tới đảo nghỉ trên hai đêm ông Linh cho biết
-Trong tháng đảo dự kiến đón khách
+Bawts đaauf trieenr khai đuwowngf bay thuyr phi cow Tuaanf Chaau Coo Too
+Tuwf thuyr phi cow Tuaanf Chaau đaor Coo Too đuwowcj trieenr khai nhawmf ruts gawns thowif gian di chuyeenr vaf mang laij nhuwngx trair nghieemj mowis mer cho du khachs
+Đown vij trieenr khai dichj vuj nayf laf hangx hangf khoong Hair Âu đown vij đaauf tieen vaf duy nhaats taij Vieetj Nam vaanj hanhf dongf tauf bay thuyr phi cow đa dungj Cessna Grand Caravan B EX UBND huyeenj Coo Too cho hay
+Vaof đaauf thangs cacs đown vij lieen quan đax khaor sats đieeuf kieenj caats haj canhs đuwowngf bay tuwf đaor Tuaanf Chaau Haj Long ra Coo Too vaf huaans luyeenj bay cho phi coong thuyr phi cow taij huyeenj Coo Too
+Ngayf chuyeens bay thuwr nghieemj đaauf tieen vowis hanhf khachs đax dieenx ra thanhf coong
+Tuwf hanhf khachs cos theer bawts đaauf đawtj ves vowis uwu đaix danhf cho taats car cacs khachs hangf thuwcj hieenj hanhf trinhf bay khuws hooif Tuaanf Chaau Coo Too ngay trong thangs
+Hieenj nay khachs ra đaor Coo Too phair đi tauf cao toocs tuwf Caamr Phar hoawcj Vaan Đoonf vowis thowif gian tuwf đeens phuts
+Khi đuwowngf bay đuwowcj đuwa vaof khai thacs hanhf khachs cos theer ruts ngawns thowif gian di chuyeenr xuoongs conf phuts
+Ngoaif ra hanhf khachs conf đuwowcj chieem nguwowngx ver đepj cuar vinhj Haj Long vinhj Bais Tuwr Long tuwf treen cao
+Ông Nguyeenx Hair Linh Truwowngr Phongf Vawn hoas Thoong tin vaf Du lichj huyeenj Coo Too cho bieets trong thangs Coo Too đons khachs luwowtj luwu trus đatj treen tawng so vowis cungf kyf nawm ngoais
+Luwowngj khachs towis đaor đang owr muwcs ngang cungf kyf nawm truwowcs dichj Covid nhuwng thowif gian luwu trus laau hown
+Trung binhf mooix khachs towis đaor nghir treen hai đeem oong Linh cho bieets
+Trong thangs đaor duwj kieens đons khachs

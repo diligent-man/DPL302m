@@ -1,6 +1,6 @@
-Bảo mật thông tin máy tính bằng giải pháp mã nguồn mở NLĐ Hơn nhân viên chuyên gia công nghệ thông tin thuộc các đơn vị Nhà nước doanh nghiệp tư nhân tại TPHCM đã tham gia hội thảo Kinh nghiệm chuyển đổi sang phần mềm mã nguồn mở của Chính phủ Đức do Bộ Khoa học và Công nghệ chủ trì diễn ra ngày
-Nội dung hội thảo tập trung vào khả năng chuyển đổi các phần mềm cơ bản sang phần mềm mã nguồn mở trên hệ thống máy chủ và máy trạm
-Đồng thời tăng khả năng an ninh và bảo mật các thông tin dữ liệu trong các đơn vị Nhà nước bằng giải pháp phần mềm mã nguồn mở
-Ông Hoàng Lê Minh Phó Giám đốc Sở Bưu chính Viễn thông TPHCM cảnh báo tình trạng vi phạm bản quyền các phần mềm hiện nay khá phổ biến kể cả trong các đơn vị Nhà nước
-Người sử dụng khi mua máy vi tính thương hiệu VN thường gỡ bỏ phần mềm mã nguồn mở Linux được cài sẵn để cài lại phần mềm không có bản quyền
-Trong năm TPHCM đã tiến hành kiểm tra và xử phạt các trường hợp vi phạm bản quyền phần mềm có vụ phạt từ triệu đồng
+Baor maatj thoong tin mays tinhs bawngf giair phaps max nguoonf mowr NLĐ Hown nhaan vieen chuyeen gia coong ngheej thoong tin thuoocj cacs đown vij Nhaf nuwowcs doanh nghieepj tuw nhaan taij TPHCM đax tham gia hooij thaor Kinh nghieemj chuyeenr đooir sang phaanf meemf max nguoonf mowr cuar Chinhs phur Đuwcs do Booj Khoa hocj vaf Coong ngheej chur trif dieenx ra ngayf
+Nooij dung hooij thaor taapj trung vaof khar nawng chuyeenr đooir cacs phaanf meemf cow banr sang phaanf meemf max nguoonf mowr treen heej thoongs mays chur vaf mays tramj
+Đoongf thowif tawng khar nawng an ninh vaf baor maatj cacs thoong tin duwx lieeuj trong cacs đown vij Nhaf nuwowcs bawngf giair phaps phaanf meemf max nguoonf mowr
+Ông Hoangf Lee Minh Phos Giams đoocs Sowr Buwu chinhs Vieenx thoong TPHCM canhr baos tinhf trangj vi phamj banr quyeenf cacs phaanf meemf hieenj nay khas phoor bieens keer car trong cacs đown vij Nhaf nuwowcs
+Nguwowif suwr dungj khi mua mays vi tinhs thuwowng hieeuj VN thuwowngf gowx bor phaanf meemf max nguoonf mowr Linux đuwowcj caif sawnx đeer caif laij phaanf meemf khoong cos banr quyeenf
+Trong nawm TPHCM đax tieens hanhf kieemr tra vaf xuwr phatj cacs truwowngf howpj vi phamj banr quyeenf phaanf meemf cos vuj phatj tuwf trieeuj đoongf

@@ -1,26 +1,26 @@
-Hai thủ khoa của Bách khoa TP HCM chọn Khoa học máy tính
-Hai thủ khoa đầu vào của trường Đại học Bách khoa TP HCM đều chọn ngành Khoa học máy tính
-Năm nay trường Đại học Bách khoa Đại học Quốc gia TP HCM có hai thủ khoa đầu vào
-Trong đó Phạm Khánh Duy cựu học sinh trường THPT chuyên Bến Tre là thí sinh đạt điểm cao nhất ở phương thức xét kết hợp với điểm
-Ngành này lấy điểm chuẩn là điểm
-Đây là điểm kết hợp nhiều thành phần gồm kết quả thi đánh giá năng lực điểm thi tốt nghiệp điểm học bạ và các giải thưởng học thuật thành tích hoạt động xã hội văn thể mỹ
-Duy đạt điểm thi đánh giá năng lực điểm thi tốt nghiệp theo tổ hợp khối A Toán Lý Hóa là
-Còn Trần Đức Minh Hiếu cựu học sinh THPT Nguyễn Hữu Cầu TP HCM đứng đầu về điểm thi đánh giá năng lực với điểm
-Kỳ thi có hơn thí sinh nhưng chỉ người đạt mức điểm như Duy và Hiếu trở lên
-Ngoài ra Minh Hiếu còn có điểm thi tốt nghiệp theo tổ hợp khối A đạt
-Khánh Duy và Minh Hiếu đều chọn ngành Khoa học máy tính
-Xuất phát là học sinh chuyên Toán Khánh Duy cho biết lựa chọn ngành Khoa học máy tính không chỉ vì xu thế hiện nay mà còn phù hợp với niềm đam mê Toán học của em từ thời phổ thông
-Trong khi đó Minh Hiếu đã hứng thú và tự mày mò học hỏi về lập trình từ năm lớp nên không đắn đo nhiều khi đưa ra quyết định
-Cứ đến hè mình lại bật Youtube xem hướng dẫn lập trình vi mạch lập trình ứng dụng
-Thất bại từ một vài cuộc thi khiến mình quyết tâm tìm hiểu kỹ hơn về lập trình Minh Hiếu bày tỏ
-Ngoài hai thủ khoa nữ sinh có điểm trúng tuyển cao nhất là Nguyễn Thị Yến Nhi cựu học sinh THPT chuyên Bến Tre điểm cũng chọn theo đuổi ngành Khoa học Máy tính
-Trong khi đó á khoa của trường là Nguyễn Tiến Anh điểm cựu học sinh trường THPT Nguyễn Thượng Hiền TP HCM bỏ ngành Khoa học máy tính vào phút chót
-Nam sinh rẽ sang ngành Điện Điện tử vì cho rằng đây là nền tảng cho những tiến bộ của công nghệ song hành cùng sự phát triển của Công nghệ thông tin
-Ngành kỹ thuật đã chứng tỏ sự ổn định trong hàng chục năm qua và cũng đang phát triển nhưng tiếc rằng ít nhận được sự chú ý Tiến Anh đánh giá
-Hai thủ khoa đầu vào của trường được trao học bổng triệu đồng á khoa và sinh viên nữ xuất sắc nhận nhận học bổng triệu đồng từ Quỹ Phát triển Đại học Quốc gia TP HCM
-Theo thống kê của trường Đại học Bách khoa TP HCM hơn tân sinh viên đến từ trường THPT ở tỉnh thành
-Trong đó khoảng sinh viên là nữ chiếm tỷ lệ
-TP HCM dẫn đầu về số thí sinh trúng tuyển với em tiếp đó là Đồng Nai Bà Rịa Vũng Tàu Tiền Giang Long An
-trường THPT có nhiều học sinh đỗ Bách khoa TP HCM năm
-Đại học Bách khoa TP HCM là trường có công thức tính điểm xét tuyển nhiều thành phần nhất hiện nay theo thang
-So với năm ngoái các ngành hot là Khoa học máy tính Kỹ thuật máy tính vẫn dẫn đầu về điểm chuẩn tăng lần lượt là và điểm
+Hai thur khoa cuar Bachs khoa TP HCM chonj Khoa hocj mays tinhs
+Hai thur khoa đaauf vaof cuar truwowngf Đaij hocj Bachs khoa TP HCM đeeuf chonj nganhf Khoa hocj mays tinhs
+Nawm nay truwowngf Đaij hocj Bachs khoa Đaij hocj Quoocs gia TP HCM cos hai thur khoa đaauf vaof
+Trong đos Phamj Khanhs Duy cuwuj hocj sinh truwowngf THPT chuyeen Beens Tre laf this sinh đatj đieemr cao nhaats owr phuwowng thuwcs xets keets howpj vowis đieemr
+Nganhf nayf laays đieemr chuaanr laf đieemr
+Đaay laf đieemr keets howpj nhieeuf thanhf phaanf goomf keets quar thi đanhs gias nawng luwcj đieemr thi toots nghieepj đieemr hocj baj vaf cacs giair thuwowngr hocj thuaatj thanhf tichs hoatj đoongj xax hooij vawn theer myx
+Duy đatj đieemr thi đanhs gias nawng luwcj đieemr thi toots nghieepj theo toor howpj khoois A Toans Lys Hoas laf
+Conf Traanf Đuwcs Minh Hieeus cuwuj hocj sinh THPT Nguyeenx Huwux Caauf TP HCM đuwngs đaauf veef đieemr thi đanhs gias nawng luwcj vowis đieemr
+Kyf thi cos hown this sinh nhuwng chir nguwowif đatj muwcs đieemr nhuw Duy vaf Hieeus trowr leen
+Ngoaif ra Minh Hieeus conf cos đieemr thi toots nghieepj theo toor howpj khoois A đatj
+Khanhs Duy vaf Minh Hieeus đeeuf chonj nganhf Khoa hocj mays tinhs
+Xuaats phats laf hocj sinh chuyeen Toans Khanhs Duy cho bieets luwaj chonj nganhf Khoa hocj mays tinhs khoong chir vif xu thees hieenj nay maf conf phuf howpj vowis nieemf đam mee Toans hocj cuar em tuwf thowif phoor thoong
+Trong khi đos Minh Hieeus đax huwngs thus vaf tuwj mayf mof hocj hoir veef laapj trinhf tuwf nawm lowps neen khoong đawns đo nhieeuf khi đuwa ra quyeets đinhj
+Cuws đeens hef minhf laij baatj Youtube xem huwowngs daanx laapj trinhf vi machj laapj trinhf uwngs dungj
+Thaats baij tuwf mootj vaif cuoocj thi khieens minhf quyeets taam timf hieeur kyx hown veef laapj trinhf Minh Hieeus bayf tor
+Ngoaif hai thur khoa nuwx sinh cos đieemr trungs tuyeenr cao nhaats laf Nguyeenx Thij Yeens Nhi cuwuj hocj sinh THPT chuyeen Beens Tre đieemr cungx chonj theo đuooir nganhf Khoa hocj Mays tinhs
+Trong khi đos as khoa cuar truwowngf laf Nguyeenx Tieens Anh đieemr cuwuj hocj sinh truwowngf THPT Nguyeenx Thuwowngj Hieenf TP HCM bor nganhf Khoa hocj mays tinhs vaof phuts chots
+Nam sinh rex sang nganhf Đieenj Đieenj tuwr vif cho rawngf đaay laf neenf tangr cho nhuwngx tieens booj cuar coong ngheej song hanhf cungf suwj phats trieenr cuar Coong ngheej thoong tin
+Nganhf kyx thuaatj đax chuwngs tor suwj oonr đinhj trong hangf chucj nawm qua vaf cungx đang phats trieenr nhuwng tieecs rawngf its nhaanj đuwowcj suwj chus ys Tieens Anh đanhs gias
+Hai thur khoa đaauf vaof cuar truwowngf đuwowcj trao hocj boongr trieeuj đoongf as khoa vaf sinh vieen nuwx xuaats sawcs nhaanj nhaanj hocj boongr trieeuj đoongf tuwf Quyx Phats trieenr Đaij hocj Quoocs gia TP HCM
+Theo thoongs kee cuar truwowngf Đaij hocj Bachs khoa TP HCM hown taan sinh vieen đeens tuwf truwowngf THPT owr tinhr thanhf
+Trong đos khoangr sinh vieen laf nuwx chieems tyr leej
+TP HCM daanx đaauf veef soos this sinh trungs tuyeenr vowis em tieeps đos laf Đoongf Nai Baf Riaj Vungx Tauf Tieenf Giang Long An
+truwowngf THPT cos nhieeuf hocj sinh đoox Bachs khoa TP HCM nawm
+Đaij hocj Bachs khoa TP HCM laf truwowngf cos coong thuwcs tinhs đieemr xets tuyeenr nhieeuf thanhf phaanf nhaats hieenj nay theo thang
+So vowis nawm ngoais cacs nganhf hot laf Khoa hocj mays tinhs Kyx thuaatj mays tinhs vaanx daanx đaauf veef đieemr chuaanr tawng laanf luwowtj laf vaf đieemr

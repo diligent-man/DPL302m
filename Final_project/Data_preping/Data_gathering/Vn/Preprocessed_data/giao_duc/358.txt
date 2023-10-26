@@ -1,24 +1,24 @@
-VTC Online phát hành ứng dụng luyện nói tiếng Anh Betia English
-VTC Online và Hodoo Labs hợp tác phát hành Betia English ứng dụng giúp phát triển kỹ năng nói tiếng Anh cho người dùng Việt Nam
-Betia English được Công ty giáo dục Hàn Quốc Hodoo Labs nghiên cứu và ra mắt nhằm đem đến những trải nghiệm tối ưu trong học tiếng Anh cho học sinh
-Khác với phương thức cung cấp kiến thức truyền thống Betia English xây dựng một thế giới ảo có cốt truyện và các nhân vật mang những nét tính cách và đặc trưng nghề nghiệp khác nhau đem tới những tình huống mang tính ứng dụng trong thực tế giúp các em luyện tập và nâng cao kỹ năng nói
-Cốt truyện kể về thế giới Betia vốn yên bình bỗng bị xâm chiếm và bị đánh cắp ngôn ngữ
-Học sinh sẽ hóa thân thành một nhân vật trong thế giới này hoàn thành các thử thách luyện nói để từ đó đem lại hoà bình lấy lại ngôn ngữ bị đánh cắp cho Betia
-Thế giới Betia chính là nơi các em học sinh được tự do khám phá tiếng Anh tiếp thêm động lực để trau dồi kiến thức mới mỗi ngày
-Không tập trung đánh giá thông qua điểm số Betia hướng tới việc tạo động lực để thúc đẩy học sinh luyện tập hàng ngày khiến việc nói tiếng Anh không còn là nỗi sợ với các em
-Kiến thức thực tế được triển khai dưới dạng một câu chuyện với hệ thống nhân vật ảo tạo cho các em cảm giác đang trò chuyện với một người bạn thực sự trên ứng dụng
-Betia English được phát triển theo định hướng mô hình hệ thống nhiệm vụ với một chuỗi bài học cùng phần thưởng đồng thời tăng cường tương tác với học sinh nhằm kích thích khả năng phát âm tiếng Anh tự nhiên
-Thông qua ứng dụng công nghệ AI nhận diện giọng nói Betia English có thể nhận diện đánh giá phát âm của học sinh và trả ra nhận xét chi tiết tạo cơ sở để các em kiểm soát chất lượng và xây dựng kế hoạch học tập phù hợp và hiệu quả
-Nội dung bài học của Betia được xây dựng và phát triển theo chuẩn Khung tham chiếu trình độ ngôn ngữ chung của châu Âu CEFR do Chungdahm Learning tập đoàn giáo dục hàng đầu Hàn Quốc phối hợp biên soạn
-Thay vì chỉ xoay quanh những bài học về ngữ pháp hay từ vựng Betia English sử dụng phương pháp Chunking để xây dựng lộ trình học
-Đây là phương pháp học ngoại ngữ thông qua mẫu câu cụm từ hoặc cách diễn đạt trong ngữ cảnh cụ thể chứ không học từng từ vựng riêng lẻ
-Phương pháp này không chỉ giúp người đọc nâng cao khả năng ghi nhớ mà còn giúp người học tránh việc dùng sai nghĩa của từ đồng thời nâng cao khả năng phát âm cải thiện ngữ điệu khi nói
-Kết hợp giữa chơi và học Betia English trở nên đặc biệt mang lại trải nghiệm học tập thú vị truyền cảm hứng và tạo động lực cho các em nhỏ học tiếng Anh mỗi ngày
-Với phương châm giáo dục không khoảng cách ứng dụng này đã trở thành người bạn đồng hành hàng ngày hỗ trợ hàng triệu học sinh rèn luyện và cải thiện kỹ năng nói tiếng Anh tại Hàn Quốc
-Ông Nguyễn Đức Duy Trưởng dự án Betia English của VTC Online chia sẻ trong thời đại hội nhập quốc tế và tiếng Anh là một trong những ngôn ngữ được sử dụng nhiều nhất việc luyện tập và phát triển kỹ năng nói tiếng Anh là vô cùng cần thiết
-Tuy nhiên những hạn chế về thời gian cũng như không gian luyện tập chính là rào cản đối với các em học sinh Việt Nam bởi không phải lúc nào các em cũng có nhiều cơ hội để luyện tập
-VTC Online đưa Betia English ứng dụng phát triển tiếng Anh hàng đầu Hàn Quốc đến với các bạn học sinh Việt Nam nhằm góp phần tạo thêm một sân chơi ngôn ngữ nơi các em có thể chủ động luyện tập và khơi dậy hứng thú học tiếng Anh cho các em ông Duy cho biết
-VTC Online dự kiến sẽ chính thức phát hành ứng dụng Betia trên thị trường giáo dục Việt Nam vào đầu năm học tới
-Đơn vị kỳ vọng Betia English sẽ trở thành người bạn đồng hành cùng học sinh Việt Nam nâng cao kỹ năng nói tiếng Anh hướng đến mục tiêu phát triển năng lực tiếng Anh toàn diện
-Công ty Cổ phần VTC truyền thông trực tuyến VTC Online là đơn vị hoạt động trong lĩnh vực công nghệ và nội dung số có nền tảng kỹ thuật và kinh nghiệm triển khai dịch vụ giáo dục trực tuyến trên internet sở hữu chương trình Olympic tiếng Anh trên Internet IOE
-Hodoo Labs là công ty công nghệ giáo dục hàng đầu tại Hàn Quốc mới đây nhận được danh hiệu Công ty công nghệ tiềm năng do Bộ Doanh nghiệp vừa và nhỏ và khởi nghiệp Hàn Quốc trao tặng
+VTC Online phats hanhf uwngs dungj luyeenj nois tieengs Anh Betia English
+VTC Online vaf Hodoo Labs howpj tacs phats hanhf Betia English uwngs dungj giups phats trieenr kyx nawng nois tieengs Anh cho nguwowif dungf Vieetj Nam
+Betia English đuwowcj Coong ty giaos ducj Hanf Quoocs Hodoo Labs nghieen cuwus vaf ra mawts nhawmf đem đeens nhuwngx trair nghieemj toois uwu trong hocj tieengs Anh cho hocj sinh
+Khacs vowis phuwowng thuwcs cung caaps kieens thuwcs truyeenf thoongs Betia English xaay duwngj mootj thees giowis aor cos coots truyeenj vaf cacs nhaan vaatj mang nhuwngx nets tinhs cachs vaf đawcj truwng ngheef nghieepj khacs nhau đem towis nhuwngx tinhf huoongs mang tinhs uwngs dungj trong thuwcj tees giups cacs em luyeenj taapj vaf naang cao kyx nawng nois
+Coots truyeenj keer veef thees giowis Betia voons yeen binhf boongx bij xaam chieems vaf bij đanhs cawps ngoon nguwx
+Hocj sinh sex hoas thaan thanhf mootj nhaan vaatj trong thees giowis nayf hoanf thanhf cacs thuwr thachs luyeenj nois đeer tuwf đos đem laij hoaf binhf laays laij ngoon nguwx bij đanhs cawps cho Betia
+Thees giowis Betia chinhs laf nowi cacs em hocj sinh đuwowcj tuwj do khams phas tieengs Anh tieeps theem đoongj luwcj đeer trau dooif kieens thuwcs mowis mooix ngayf
+Khoong taapj trung đanhs gias thoong qua đieemr soos Betia huwowngs towis vieecj taoj đoongj luwcj đeer thucs đaayr hocj sinh luyeenj taapj hangf ngayf khieens vieecj nois tieengs Anh khoong conf laf nooix sowj vowis cacs em
+Kieens thuwcs thuwcj tees đuwowcj trieenr khai duwowis dangj mootj caau chuyeenj vowis heej thoongs nhaan vaatj aor taoj cho cacs em camr giacs đang trof chuyeenj vowis mootj nguwowif banj thuwcj suwj treen uwngs dungj
+Betia English đuwowcj phats trieenr theo đinhj huwowngs moo hinhf heej thoongs nhieemj vuj vowis mootj chuooix baif hocj cungf phaanf thuwowngr đoongf thowif tawng cuwowngf tuwowng tacs vowis hocj sinh nhawmf kichs thichs khar nawng phats aam tieengs Anh tuwj nhieen
+Thoong qua uwngs dungj coong ngheej AI nhaanj dieenj giongj nois Betia English cos theer nhaanj dieenj đanhs gias phats aam cuar hocj sinh vaf trar ra nhaanj xets chi tieets taoj cow sowr đeer cacs em kieemr soats chaats luwowngj vaf xaay duwngj kees hoachj hocj taapj phuf howpj vaf hieeuj quar
+Nooij dung baif hocj cuar Betia đuwowcj xaay duwngj vaf phats trieenr theo chuaanr Khung tham chieeus trinhf đooj ngoon nguwx chung cuar chaau Âu CEFR do Chungdahm Learning taapj đoanf giaos ducj hangf đaauf Hanf Quoocs phoois howpj bieen soanj
+Thay vif chir xoay quanh nhuwngx baif hocj veef nguwx phaps hay tuwf vuwngj Betia English suwr dungj phuwowng phaps Chunking đeer xaay duwngj looj trinhf hocj
+Đaay laf phuwowng phaps hocj ngoaij nguwx thoong qua maaux caau cumj tuwf hoawcj cachs dieenx đatj trong nguwx canhr cuj theer chuws khoong hocj tuwngf tuwf vuwngj rieeng ler
+Phuwowng phaps nayf khoong chir giups nguwowif đocj naang cao khar nawng ghi nhows maf conf giups nguwowif hocj tranhs vieecj dungf sai nghiax cuar tuwf đoongf thowif naang cao khar nawng phats aam cair thieenj nguwx đieeuj khi nois
+Keets howpj giuwax chowi vaf hocj Betia English trowr neen đawcj bieetj mang laij trair nghieemj hocj taapj thus vij truyeenf camr huwngs vaf taoj đoongj luwcj cho cacs em nhor hocj tieengs Anh mooix ngayf
+Vowis phuwowng chaam giaos ducj khoong khoangr cachs uwngs dungj nayf đax trowr thanhf nguwowif banj đoongf hanhf hangf ngayf hoox trowj hangf trieeuj hocj sinh renf luyeenj vaf cair thieenj kyx nawng nois tieengs Anh taij Hanf Quoocs
+Ông Nguyeenx Đuwcs Duy Truwowngr duwj ans Betia English cuar VTC Online chia ser trong thowif đaij hooij nhaapj quoocs tees vaf tieengs Anh laf mootj trong nhuwngx ngoon nguwx đuwowcj suwr dungj nhieeuf nhaats vieecj luyeenj taapj vaf phats trieenr kyx nawng nois tieengs Anh laf voo cungf caanf thieets
+Tuy nhieen nhuwngx hanj chees veef thowif gian cungx nhuw khoong gian luyeenj taapj chinhs laf raof canr đoois vowis cacs em hocj sinh Vieetj Nam bowir khoong phair lucs naof cacs em cungx cos nhieeuf cow hooij đeer luyeenj taapj
+VTC Online đuwa Betia English uwngs dungj phats trieenr tieengs Anh hangf đaauf Hanf Quoocs đeens vowis cacs banj hocj sinh Vieetj Nam nhawmf gops phaanf taoj theem mootj saan chowi ngoon nguwx nowi cacs em cos theer chur đoongj luyeenj taapj vaf khowi daayj huwngs thus hocj tieengs Anh cho cacs em oong Duy cho bieets
+VTC Online duwj kieens sex chinhs thuwcs phats hanhf uwngs dungj Betia treen thij truwowngf giaos ducj Vieetj Nam vaof đaauf nawm hocj towis
+Đown vij kyf vongj Betia English sex trowr thanhf nguwowif banj đoongf hanhf cungf hocj sinh Vieetj Nam naang cao kyx nawng nois tieengs Anh huwowngs đeens mucj tieeu phats trieenr nawng luwcj tieengs Anh toanf dieenj
+Coong ty Coor phaanf VTC truyeenf thoong truwcj tuyeens VTC Online laf đown vij hoatj đoongj trong linhx vuwcj coong ngheej vaf nooij dung soos cos neenf tangr kyx thuaatj vaf kinh nghieemj trieenr khai dichj vuj giaos ducj truwcj tuyeens treen internet sowr huwux chuwowng trinhf Olympic tieengs Anh treen Internet IOE
+Hodoo Labs laf coong ty coong ngheej giaos ducj hangf đaauf taij Hanf Quoocs mowis đaay nhaanj đuwowcj danh hieeuj Coong ty coong ngheej tieemf nawng do Booj Doanh nghieepj vuwaf vaf nhor vaf khowir nghieepj Hanf Quoocs trao tawngj

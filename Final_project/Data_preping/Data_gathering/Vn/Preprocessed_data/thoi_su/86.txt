@@ -1,9 +1,9 @@
-Ra mắt hệ thống cảnh báo giông sét
-Từ hôm nay người dân có thể truy cập vào trang iweather để theo dõi khu vực nào xảy ra giông sét từ đó đưa ra quyết định đảm bảo an toàn cho mình và gia đình
-Trang iweathergovvn được Tổng cục Khí tượng Thủy văn Bộ Tài nguyên và Môi trường xây dựng và công bố chiều
-Đây là kết quả tích hợp dữ liệu quan trắc tự động với sự vận hành của radar cố định radar di động tốt nhất Việt Nam hiện nay
-Truy cập vào trang web người dân có thể nhận biết khu vực nào đang và sẽ xảy ra nhiều giông sét thời gian mức độ vị trí đến cấp huyện và theo thời gian thực
-Ngoài ra hệ thống còn tích hợp hai trường dữ liệu là phân tích dự báo định lượng mưa trước giờ và cảnh báo nguy cơ lũ quét sạt lở đất
-Đối với công tác dự báo hệ thống hỗ trợ giám sát liên tục thông qua các bức ảnh thu nhận được từ vệ tinh quan trắc Trái đất radar thời tiết trong nước mạng lưới đo mưa và định vị sét trên toàn quốc
-Dự báo viên hay các cơ quan chức năng có thể nhận biết được các quá trình hình thành phát triển và di chuyển của đám mây đối lưu có khả năng gây mưa giông từ đó đưa ra cảnh báo tới người dân đại diện Tổng cục Khí tượng Thủy văn nói
-Theo Ban Chỉ đạo quốc gia về phòng chống thiên tai từ năm đến sét làm người chết trong đó riêng tháng đầu năm là người nhiều gần gấp lần năm
+Ra mawts heej thoongs canhr baos gioong sets
+Tuwf hoom nay nguwowif daan cos theer truy caapj vaof trang iweather đeer theo doix khu vuwcj naof xayr ra gioong sets tuwf đos đuwa ra quyeets đinhj đamr baor an toanf cho minhf vaf gia đinhf
+Trang iweathergovvn đuwowcj Toongr cucj Khis tuwowngj Thuyr vawn Booj Taif nguyeen vaf Mooi truwowngf xaay duwngj vaf coong boos chieeuf
+Đaay laf keets quar tichs howpj duwx lieeuj quan trawcs tuwj đoongj vowis suwj vaanj hanhf cuar radar coos đinhj radar di đoongj toots nhaats Vieetj Nam hieenj nay
+Truy caapj vaof trang web nguwowif daan cos theer nhaanj bieets khu vuwcj naof đang vaf sex xayr ra nhieeuf gioong sets thowif gian muwcs đooj vij tris đeens caaps huyeenj vaf theo thowif gian thuwcj
+Ngoaif ra heej thoongs conf tichs howpj hai truwowngf duwx lieeuj laf phaan tichs duwj baos đinhj luwowngj muwa truwowcs giowf vaf canhr baos nguy cow lux quets satj lowr đaats
+Đoois vowis coong tacs duwj baos heej thoongs hoox trowj giams sats lieen tucj thoong qua cacs buwcs anhr thu nhaanj đuwowcj tuwf veej tinh quan trawcs Trais đaats radar thowif tieets trong nuwowcs mangj luwowis đo muwa vaf đinhj vij sets treen toanf quoocs
+Duwj baos vieen hay cacs cow quan chuwcs nawng cos theer nhaanj bieets đuwowcj cacs quas trinhf hinhf thanhf phats trieenr vaf di chuyeenr cuar đams maay đoois luwu cos khar nawng gaay muwa gioong tuwf đos đuwa ra canhr baos towis nguwowif daan đaij dieenj Toongr cucj Khis tuwowngj Thuyr vawn nois
+Theo Ban Chir đaoj quoocs gia veef phongf choongs thieen tai tuwf nawm đeens sets lamf nguwowif cheets trong đos rieeng thangs đaauf nawm laf nguwowif nhieeuf gaanf gaaps laanf nawm

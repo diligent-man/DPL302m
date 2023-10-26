@@ -1,35 +1,35 @@
-Chuyên gia công nghệ chia sẻ bí quyết kiếm triệu đô
-Anh Ngô Duy Trinh FPT Software hoàn thành dự án triệu USD cùng nhân sự trong tháng nhờ quan điểm coi dự án phần mềm như trận chiến chỉ được quyền thắng
-Đây là một dự án hợp đồng cố định fixedprice có quy mô lớn nhất của FPT Software trong năm hợp tác với công ty năng lượng có trụ sở chính tại thành phố Nagoya Nhật Bản
-Anh Trinh nhận định các doanh nghiệp từ nước này tất khó tính về quy trình chất lượng và cả hạn cam kết
-Dự án chính thức thực hiện từ đầu tháng và phải đảm bảo tiến độ để hoàn thành trong tháng cùng năm
-Nam kỹ sư kể lại thời điểm triển khai dự án này bước vào giai đoạn cam go nhất anh cùng đồng đội đã bất chấp tất cả để chơi một trận sống còn không bỏ sót những khe cửa hẹp để đưa công việc của mình thành một mốc son đại thắng của công ty
-Chúng tôi không còn đường lùi không còn lựa chọn
-Chỉ còn cách tiến về phía trước anh Duy Trinh Quản trị dự án tại FPT Software Đà Nẵng nói thêm
-Triển khai đến tháng thứ ba Covid bùng phát lần thứ hai tại Việt Nam đồng thời Đà Nẵng trở thành tâm dịch và trụ sở FComplex Đà Nẵng cũng ghi nhận ca F đầu tiên
-Chỉ sau một đêm toàn bộ kỹ sư của dự án phải làm việc tại nhà theo chỉ thị vừa chạy dự án vừa tự cách ly theo dõi
-Đội hình phân tán công tác kiểm tra kiểm soát dự án gặp nhiều khó khăn
-Lúc này quản trị dự án Ngô Duy Trinh phải đảm nhận trọng trách kết nối con người chỉ qua màn hình laptop
-Anh phải đối mặt với hàng loạt câu hỏi như làm sao để đảm bảo tiến độ và năng suất khi nhân viên làm việc từ xa chọn nền tảng trao đổi và quản lý công việc như thế nào cho hiệu quả
-Tuy nhiên cựu sinh viên Trường Đại học FPT quan niệm không thách thức nào có thể gây khó dễ cho bản thân
-Từ thời sinh viên anh đã quen với việc vừa học chuyên môn vừa học cách giải quyết và gỡ rối khi gặp bài toán thực tế
-Tôi cùng như nhiều bạn bè đồng trang lứa ở trường đều không quá 'ngợp' khi ra đời và va vào thách thức trong công việc
-Tôi nghĩ đó là may mắn của mình khi đã chọn học Trường Đại học FPT và chịu khó lăn lộn rèn luyện anh nói thêm
-Anh Trinh giải bài toán kết nối hàng trăm kỹ sư của dự án giữa bối cảnh dịch bệnh hoành hành bằng cách ngừng sáng tạo để thích ứng linh hoạt với hoàn cảnh
-x triển khai một công cụ để các thành viên có thể tạo báo cáo năng suất hằng ngày đồng thời trưởng bộ phận theo dõi tiến độ công việc của từng cá nhân
-Anh cũng nhanh chóng thành lập các nhóm công việc và ấn định thời gian họp qua Webex
-Nam kỹ sư chia sẻ nhóm thường xuyên cập nhật trên nhóm làm việc đến đêm thậm chí vào h có những tình huống dở khóc dở cười khi từ nhân viên đến sếp đều đang mang quần đùi ngồi ở nhà đeo tai nghe và tranh luận quyết liệt trước màn hình online
-Văn hóa ở FPT là vậy cởi mở đến mức hoàn toàn không câu nệ thứ bậc cấp trên cấp dưới công việc hiệu quả là được anh nói thêm
-Anh Duy Trinh cho biết thêm từ thời là sinh viên Trường Đại học FPT bản thân được học trong một môi trường có giáo trình quốc tế đa dạng hoạt động trải nghiệm và tôn trọng sự khác biệt cá nhân
-Do đó khi ra trường và đầu quân về FPT Software anh không bị bỡ ngỡ trước sự sự cởi mở và coi trọng hiệu quả công việc này
-Trên cương vị một nhà quản lý anh Duy Trinh còn tận dụng tối ưu văn hóa mở đó để kết nối hiệu quả các nhân sự trong đơn vị
-Mô hình kết nối kỹ sư dự án làm việc online do anh triển khai giữa bão Covid đã hoạt động rất hiệu quả
-Đội hình phân tán nhưng không xa cách cá nhân tự giác tập thể đoàn kết vững mạnh nên năng suất và tiến độ công việc vẫn được giữ vững như khi làm trực tiếp
-Cuối năm dự án được bàn giao cho khách hàng trước niềm vui vỡ òa của toàn đội
-Anh Trinh cùng các đồng đội trở thành những biểu tượng chiến binh quả cảm vượt Covid của công ty
-Sau kỳ tích này anh Trinh cũng được cấp trên tin tưởng giao quản trị nhiều dự án quan trọng khác
-Hiện tại anh Trinh đảm nhiệm vị trí Business Unit Leader Trưởng đơn vị phát triển phần mềm của FPT Software Đà Nẵng
-Theo đó khó khăn và thử thách ngày càng gia tăng tỷ lệ thuận với vị trí được giao
-Vì vậy anh tự nhủ bản thân phải không ngừng trau dồi học hỏi sáng tạo đổi mới để phát triển bản thân và đáp ứng được những yêu cầu công việc đề ra
-Đó là một trong những kỹ năng tôi tích lũy từ khi học Trường Đại học FPT
-Trường không chỉ dạy về chuyên môn mà còn trang bị sinh viên năng lực tự học và cách thích ứng với hoàn cảnh mới nam kỹ sư chia sẻ
+Chuyeen gia coong ngheej chia ser bis quyeets kieems trieeuj đoo
+Anh Ngoo Duy Trinh FPT Software hoanf thanhf duwj ans trieeuj USD cungf nhaan suwj trong thangs nhowf quan đieemr coi duwj ans phaanf meemf nhuw traanj chieens chir đuwowcj quyeenf thawngs
+Đaay laf mootj duwj ans howpj đoongf coos đinhj fixedprice cos quy moo lowns nhaats cuar FPT Software trong nawm howpj tacs vowis coong ty nawng luwowngj cos truj sowr chinhs taij thanhf phoos Nagoya Nhaatj Banr
+Anh Trinh nhaanj đinhj cacs doanh nghieepj tuwf nuwowcs nayf taats khos tinhs veef quy trinhf chaats luwowngj vaf car hanj cam keets
+Duwj ans chinhs thuwcs thuwcj hieenj tuwf đaauf thangs vaf phair đamr baor tieens đooj đeer hoanf thanhf trong thangs cungf nawm
+Nam kyx suw keer laij thowif đieemr trieenr khai duwj ans nayf buwowcs vaof giai đoanj cam go nhaats anh cungf đoongf đooij đax baats chaaps taats car đeer chowi mootj traanj soongs conf khoong bor sots nhuwngx khe cuwar hepj đeer đuwa coong vieecj cuar minhf thanhf mootj moocs son đaij thawngs cuar coong ty
+Chungs tooi khoong conf đuwowngf luif khoong conf luwaj chonj
+Chir conf cachs tieens veef phias truwowcs anh Duy Trinh Quanr trij duwj ans taij FPT Software Đaf Nawngx nois theem
+Trieenr khai đeens thangs thuws ba Covid bungf phats laanf thuws hai taij Vieetj Nam đoongf thowif Đaf Nawngx trowr thanhf taam dichj vaf truj sowr FComplex Đaf Nawngx cungx ghi nhaanj ca F đaauf tieen
+Chir sau mootj đeem toanf booj kyx suw cuar duwj ans phair lamf vieecj taij nhaf theo chir thij vuwaf chayj duwj ans vuwaf tuwj cachs ly theo doix
+Đooij hinhf phaan tans coong tacs kieemr tra kieemr soats duwj ans gawpj nhieeuf khos khawn
+Lucs nayf quanr trij duwj ans Ngoo Duy Trinh phair đamr nhaanj trongj trachs keets noois con nguwowif chir qua manf hinhf laptop
+Anh phair đoois mawtj vowis hangf loatj caau hoir nhuw lamf sao đeer đamr baor tieens đooj vaf nawng suaats khi nhaan vieen lamf vieecj tuwf xa chonj neenf tangr trao đooir vaf quanr lys coong vieecj nhuw thees naof cho hieeuj quar
+Tuy nhieen cuwuj sinh vieen Truwowngf Đaij hocj FPT quan nieemj khoong thachs thuwcs naof cos theer gaay khos deex cho banr thaan
+Tuwf thowif sinh vieen anh đax quen vowis vieecj vuwaf hocj chuyeen moon vuwaf hocj cachs giair quyeets vaf gowx roois khi gawpj baif toans thuwcj tees
+Tooi cungf nhuw nhieeuf banj bef đoongf trang luwas owr truwowngf đeeuf khoong quas 'ngowp'j khi ra đowif vaf va vaof thachs thuwcs trong coong vieecj
+Tooi nghix đos laf may mawns cuar minhf khi đax chonj hocj Truwowngf Đaij hocj FPT vaf chiuj khos lawn loonj renf luyeenj anh nois theem
+Anh Trinh giair baif toans keets noois hangf trawm kyx suw cuar duwj ans giuwax boois canhr dichj beenhj hoanhf hanhf bawngf cachs nguwngf sangs taoj đeer thichs uwngs linh hoatj vowis hoanf canhr
+x trieenr khai mootj coong cuj đeer cacs thanhf vieen cos theer taoj baos caos nawng suaats hawngf ngayf đoongf thowif truwowngr booj phaanj theo doix tieens đooj coong vieecj cuar tuwngf cas nhaan
+Anh cungx nhanh chongs thanhf laapj cacs nhoms coong vieecj vaf aans đinhj thowif gian hopj qua Webex
+Nam kyx suw chia ser nhoms thuwowngf xuyeen caapj nhaatj treen nhoms lamf vieecj đeens đeem thaamj chis vaof h cos nhuwngx tinhf huoongs dowr khocs dowr cuwowif khi tuwf nhaan vieen đeens seeps đeeuf đang mang quaanf đuif ngooif owr nhaf đeo tai nghe vaf tranh luaanj quyeets lieetj truwowcs manf hinhf online
+Vawn hoas owr FPT laf vaayj cowir mowr đeens muwcs hoanf toanf khoong caau neej thuws baacj caaps treen caaps duwowis coong vieecj hieeuj quar laf đuwowcj anh nois theem
+Anh Duy Trinh cho bieets theem tuwf thowif laf sinh vieen Truwowngf Đaij hocj FPT banr thaan đuwowcj hocj trong mootj mooi truwowngf cos giaos trinhf quoocs tees đa dangj hoatj đoongj trair nghieemj vaf toon trongj suwj khacs bieetj cas nhaan
+Do đos khi ra truwowngf vaf đaauf quaan veef FPT Software anh khoong bij bowx ngowx truwowcs suwj suwj cowir mowr vaf coi trongj hieeuj quar coong vieecj nayf
+Treen cuwowng vij mootj nhaf quanr lys anh Duy Trinh conf taanj dungj toois uwu vawn hoas mowr đos đeer keets noois hieeuj quar cacs nhaan suwj trong đown vij
+Moo hinhf keets noois kyx suw duwj ans lamf vieecj online do anh trieenr khai giuwax baox Covid đax hoatj đoongj raats hieeuj quar
+Đooij hinhf phaan tans nhuwng khoong xa cachs cas nhaan tuwj giacs taapj theer đoanf keets vuwngx manhj neen nawng suaats vaf tieens đooj coong vieecj vaanx đuwowcj giuwx vuwngx nhuw khi lamf truwcj tieeps
+Cuoois nawm duwj ans đuwowcj banf giao cho khachs hangf truwowcs nieemf vui vowx oaf cuar toanf đooij
+Anh Trinh cungf cacs đoongf đooij trowr thanhf nhuwngx bieeur tuwowngj chieens binh quar camr vuwowtj Covid cuar coong ty
+Sau kyf tichs nayf anh Trinh cungx đuwowcj caaps treen tin tuwowngr giao quanr trij nhieeuf duwj ans quan trongj khacs
+Hieenj taij anh Trinh đamr nhieemj vij tris Business Unit Leader Truwowngr đown vij phats trieenr phaanf meemf cuar FPT Software Đaf Nawngx
+Theo đos khos khawn vaf thuwr thachs ngayf cangf gia tawng tyr leej thuaanj vowis vij tris đuwowcj giao
+Vif vaayj anh tuwj nhur banr thaan phair khoong nguwngf trau dooif hocj hoir sangs taoj đooir mowis đeer phats trieenr banr thaan vaf đaps uwngs đuwowcj nhuwngx yeeu caauf coong vieecj đeef ra
+Đos laf mootj trong nhuwngx kyx nawng tooi tichs luyx tuwf khi hocj Truwowngf Đaij hocj FPT
+Truwowngf khoong chir dayj veef chuyeen moon maf conf trang bij sinh vieen nawng luwcj tuwj hocj vaf cachs thichs uwngs vowis hoanf canhr mowis nam kyx suw chia ser

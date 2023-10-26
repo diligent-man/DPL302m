@@ -1,37 +1,37 @@
-Dương thịnh âm suy là suy nghĩ của nhiều người khi nói về dân làm công nghệ thông tin IT bởi số lượng nữ theo nghề khá ít thậm chí có nơi chỉ đếm trên đầu ngón tay
-Ấy vậy mà có những cô gái vẫn đam mê và hết lòng theo đuổi cái nghề mà có người gọi vui là hao chất xám mòn chất trẻ này…
-Có vẻ hơi quá lời nhưng với những cô gái đang làm trong lĩnh vực phần mềm thì đó lại là chuyện thường ở huyện
-Tranh thủ giờ nghỉ trưa đến gặp người bạn Ánh Tuyết Ngọc Thùy Thu Vân cùng xuất thân từ khoa Toán Tin ĐH KHTN TPHCM và hiện đang làm việc tại nhóm gia công phần mềm TCG của Công ty SDS QTân Bình
-Tuy cùng nhóm nhưng mỗi người lại phụ trách công việc khác nhau Thùy đọc dữ liệu từ phía khách hàng rồi phác thảo mẫu chương trình theo yêu cầu design Vân viết code để thực hiện theo mẫu implement và Ánh Tuyết đảm nhận khâu kiểm tra chương trình trước khi gửi đi test
-Trái với hình dung ban đầu về dân IT thường khô khan ba cô nàng lại rất dí dỏm khi kể về công việc khá nhiều áp lực của mình Cả ngày nhìn máy hơn nhìn người nên đến lúc xong việc thấy máy tính là ớn lắm Nhưng nói vậy chứ cả trong lúc ăn lúc ngủ đầu óc cũng nghĩ tới nó công việc mà
-Đó là chưa kể mỗi lần đến hạn gửi dữ liệu cho khách hàng thì chuyện làm thêm giờ thậm chí có lúc còn phải trực chiến qua đêm là không tránh khỏi
-Lúc công ty mới hoạt động cứ đến đợt cao điểm của dự án bọn mình cũng thức trắng đến sáng để giải quyết
-Còn bây giờ ổn định hơn các đồng nghiệp nam galăng gánh vác bớt nên hiếm lắm mới qua đêm ở công ty Thùy cho biết
-Còn Ánh Tuyết thì đùa Ngồi một chỗ trong phòng lạnh không phải dãi nắng dầm mưa nên có người nghĩ công việc này khá nhàn nhưng tính ra dễ tàn tạ lắm vì lúc nào đầu óc cũng phải vận động cập nhật cái mới rồi ngồi lâu da dẻ xanh xao vì ảnh hưởng những tia từ máy tính phát ra
-Cũng may ngôn ngữ phần mềm trong công ty khá ổn định nếu không chạy theo cũng hụt hơi
-Trong khi đó tuy đang phụ trách nhóm nghiên cứu chuyển giao công nghệ phục vụ giảng dạy tại Trung tâm Tin học ĐHQG TPHCM nhưng cô gái nhỏ nhắn Lại Thị Hạnh cũng có thâm niên năm về phần mềm
-Trước đây cô là bóng hồng duy nhất làm việc ở Phòng Phát triển phần mềm của trung tâm phụ trách mảng ứng dụng quản lý như thiết kế dữ liệu tuyển sinh cho các trường đại học hay các phần mềm về kế toán cho các công ty
-Có lẽ vất vả là khi làm dữ liệu tuyển sinh do áp lực rất lớn từ phía phụ huynh học sinh rồi báo đài vì muốn biết kết quả sớm trong khi số liệu rất nhiều nếu chẳng may sai sót thì khốn Hạnh bộc bạch
-Rồi cô nhớ lại lần trực chiến đến khuya ở Trường ĐHKHXHampNV TPHCM sau khi dữ liệu được chuyển cho báo đài một vị phụ huynh gọi điện đến hỏi thăm biết con mình đủ điểm đậu đã reo lên vui mừng trên điện thoại
-Tự nhiên lúc đó mình cũng vui lây và quên đi mệt mỏi
-Còn công việc hiện tại với cô tuy không quá vất vả nhưng cũng là cơ hội thử sức mình khi thiết kế bài giảng cho các khóa đào tạo từ xa sắp tới của trung tâm
-Hạnh và đồng nghiệp họp nhóm trao đổi công việc
-Không chịu nhiều áp lực như dân phần mềm nhưng công việc vất vả không kém là những cô nàng chuyên về mạng
-Phải chạy đi chạy lại giữa các phòng ban để giải quyết sự cố khi có nhu cầu nâng cấp phải cài đặt lại hàng loạt máy tính cũng như tháp tùng các đồng nghiệp nam đi dây mạng đó là công việc thường nhật của Thanh Ngân đang công tác tại nhóm bảo trì và quản lý mạng cho một công ty thủy sản tại TPHCM
-Ớn nhất là những lần sập mạng toàn công ty mà chưa hiểu rõ nguyên nhân trong khi mọi người cứ sốt ruột hối thúc vì đang cần trao đổi thông tin với đối tác ở châu Âu
-Lúc đó nếu không giải quyết thỏa đáng thì chỉ có nước bị stress nặng Ngân cho biết
-Ấy vậy mà theo lời Ngân thì May mà mới bảo trì hệ thống mấy chục máy chứ như bảo trì cho hệ thống lớn và phức tạp hơn nữa thì cực lắm con gái như mình chỉ làm vài năm là chịu không thấu
-Không chỉ bù đầu với công việc những cô nàng làm IT còn biết tranh thủ những phút thư giãn ít ỏi để xả stress
-Thỉnh thoảng rảnh tay bọn này hay chơi trò tung hứng với những vật nhẹ xung quanh xem như đang tập ném bóng đó mà Ngọc Thùy và Ánh Tuyết nheo mắt tinh nghịch
-Cách đây không lâu nhóm còn giao lưu với các đồng nghiệp nữ khác trong công ty bằng cuộc thi đá cầu
-Còn với Bích Trang hiện đang phụ trách vận hành và quản lý trang web cestigovvn của Trung tâm thông tin khoa học và công nghệ thuộc Sở Khoa học amp Công nghệ TPHCM thì ngoài giờ làm việc cô lại thích cùng đồng nghiệp trong phòng đi ăn bụi hay đăng ký tham gia trò chơi truyền hình như Hành trình văn hóa
-Công việc không đến nỗi tối mắt tối mũi nhưng cũng không ngơi tay vì phải liên tục cập nhật tổng hợp thông tin và thay đổi giao diện cho trang web
-Thế nên có thời gian rảnh là mình tranh thủ thư giãn để lấy tinh thần làm việc tiếp Trang bật mí
-Trong khi đó mỗi khi công việc tương đối giãn ra thì Thanh Ngân lại thích lang thang lên mạng đọc báo xem truyện cười hay đến cuối tuần lại tranh thủ phóng xe về thăm nhà ở Tiền Giang để nạp lại năng lượng
-Có mấy đứa bạn cũng làm IT lúc công việc bận rộn chẳng còn biết trời trăng gì hết nhưng đến lúc được ngơi tay cũng rủ nhau lo tút lại dung nhan vốn bị công việc bào mòn
-Con gái mà lị cô nàng cười
-Xem ra những cô nàng làm IT mà tôi có dịp tiếp xúc cũng nhu mì và hóm hỉnh lắm chứ ai dám bảo là khô như ngói
-Và có người còn là người vợ người mẹ dịu dàng bên mái ấm nhỏ xinh của mình như Hạnh sau giờ làm việc niềm vui của cô là về bên con nhỏ và chăm chút cho gia đình
-Nghề nào cũng có cái cực riêng nhưng nếu biết thu xếp thì sẽ ổn thỏa cả thôi cô cho biết
-Làm trong lĩnh vực IT vốn dĩ không dễ dàng với nhiều người đặc biệt với nữ lại càng vất vả hơn để theo đuổi lâu dài
-Nhưng nói như lời của những cô gái đã trót yêu thích và chọn máy tính làm bạn thì Miễn còn say mê và biết sắp xếp thì khổ cực mấy cũng sẽ trụ lại và theo đuổi đến cùng…
+Duwowng thinhj aam suy laf suy nghix cuar nhieeuf nguwowif khi nois veef daan lamf coong ngheej thoong tin IT bowir soos luwowngj nuwx theo ngheef khas its thaamj chis cos nowi chir đeems treen đaauf ngons tay
+Ấy vaayj maf cos nhuwngx coo gais vaanx đam mee vaf heets longf theo đuooir cais ngheef maf cos nguwowif goij vui laf hao chaats xams monf chaats trer nay…f
+Cos ver howi quas lowif nhuwng vowis nhuwngx coo gais đang lamf trong linhx vuwcj phaanf meemf thif đos laij laf chuyeenj thuwowngf owr huyeenj
+Tranh thur giowf nghir truwa đeens gawpj nguwowif banj Ánh Tuyeets Ngocj Thuyf Thu Vaan cungf xuaats thaan tuwf khoa Toans Tin ĐH KHTN TPHCM vaf hieenj đang lamf vieecj taij nhoms gia coong phaanf meemf TCG cuar Coong ty SDS QTaan Binhf
+Tuy cungf nhoms nhuwng mooix nguwowif laij phuj trachs coong vieecj khacs nhau Thuyf đocj duwx lieeuj tuwf phias khachs hangf rooif phacs thaor maaux chuwowng trinhf theo yeeu caauf design Vaan vieets code đeer thuwcj hieenj theo maaux implement vaf Ánh Tuyeets đamr nhaanj khaau kieemr tra chuwowng trinhf truwowcs khi guwir đi test
+Trais vowis hinhf dung ban đaauf veef daan IT thuwowngf khoo khan ba coo nangf laij raats dis domr khi keer veef coong vieecj khas nhieeuf aps luwcj cuar minhf Car ngayf nhinf mays hown nhinf nguwowif neen đeens lucs xong vieecj thaays mays tinhs laf owns lawms Nhuwng nois vaayj chuws car trong lucs awn lucs ngur đaauf ocs cungx nghix towis nos coong vieecj maf
+Đos laf chuwa keer mooix laanf đeens hanj guwir duwx lieeuj cho khachs hangf thif chuyeenj lamf theem giowf thaamj chis cos lucs conf phair truwcj chieens qua đeem laf khoong tranhs khoir
+Lucs coong ty mowis hoatj đoongj cuws đeens đowtj cao đieemr cuar duwj ans bonj minhf cungx thuwcs trawngs đeens sangs đeer giair quyeets
+Conf baay giowf oonr đinhj hown cacs đoongf nghieepj nam galawng ganhs vacs bowts neen hieems lawms mowis qua đeem owr coong ty Thuyf cho bieets
+Conf Ánh Tuyeets thif đuaf Ngooif mootj choox trong phongf lanhj khoong phair daix nawngs daamf muwa neen cos nguwowif nghix coong vieecj nayf khas nhanf nhuwng tinhs ra deex tanf taj lawms vif lucs naof đaauf ocs cungx phair vaanj đoongj caapj nhaatj cais mowis rooif ngooif laau da der xanh xao vif anhr huwowngr nhuwngx tia tuwf mays tinhs phats ra
+Cungx may ngoon nguwx phaanf meemf trong coong ty khas oonr đinhj neeus khoong chayj theo cungx hutj howi
+Trong khi đos tuy đang phuj trachs nhoms nghieen cuwus chuyeenr giao coong ngheej phucj vuj giangr dayj taij Trung taam Tin hocj ĐHQG TPHCM nhuwng coo gais nhor nhawns Laij Thij Hanhj cungx cos thaam nieen nawm veef phaanf meemf
+Truwowcs đaay coo laf bongs hoongf duy nhaats lamf vieecj owr Phongf Phats trieenr phaanf meemf cuar trung taam phuj trachs mangr uwngs dungj quanr lys nhuw thieets kees duwx lieeuj tuyeenr sinh cho cacs truwowngf đaij hocj hay cacs phaanf meemf veef kees toans cho cacs coong ty
+Cos lex vaats var laf khi lamf duwx lieeuj tuyeenr sinh do aps luwcj raats lowns tuwf phias phuj huynh hocj sinh rooif baos đaif vif muoons bieets keets quar sowms trong khi soos lieeuj raats nhieeuf neeus chawngr may sai sots thif khoons Hanhj boocj bachj
+Rooif coo nhows laij laanf truwcj chieens đeens khuya owr Truwowngf ĐHKHXHampNV TPHCM sau khi duwx lieeuj đuwowcj chuyeenr cho baos đaif mootj vij phuj huynh goij đieenj đeens hoir thawm bieets con minhf đur đieemr đaauj đax reo leen vui muwngf treen đieenj thoaij
+Tuwj nhieen lucs đos minhf cungx vui laay vaf queen đi meetj moir
+Conf coong vieecj hieenj taij vowis coo tuy khoong quas vaats var nhuwng cungx laf cow hooij thuwr suwcs minhf khi thieets kees baif giangr cho cacs khoas đaof taoj tuwf xa sawps towis cuar trung taam
+Hanhj vaf đoongf nghieepj hopj nhoms trao đooir coong vieecj
+Khoong chiuj nhieeuf aps luwcj nhuw daan phaanf meemf nhuwng coong vieecj vaats var khoong kems laf nhuwngx coo nangf chuyeen veef mangj
+Phair chayj đi chayj laij giuwax cacs phongf ban đeer giair quyeets suwj coos khi cos nhu caauf naang caaps phair caif đawtj laij hangf loatj mays tinhs cungx nhuw thaps tungf cacs đoongf nghieepj nam đi daay mangj đos laf coong vieecj thuwowngf nhaatj cuar Thanh Ngaan đang coong tacs taij nhoms baor trif vaf quanr lys mangj cho mootj coong ty thuyr sanr taij TPHCM
+Ớn nhaats laf nhuwngx laanf saapj mangj toanf coong ty maf chuwa hieeur rox nguyeen nhaan trong khi moij nguwowif cuws soots ruootj hoois thucs vif đang caanf trao đooir thoong tin vowis đoois tacs owr chaau Âu
+Lucs đos neeus khoong giair quyeets thoar đangs thif chir cos nuwowcs bij stress nawngj Ngaan cho bieets
+Ấy vaayj maf theo lowif Ngaan thif May maf mowis baor trif heej thoongs maays chucj mays chuws nhuw baor trif cho heej thoongs lowns vaf phuwcs tapj hown nuwax thif cuwcj lawms con gais nhuw minhf chir lamf vaif nawm laf chiuj khoong thaaus
+Khoong chir buf đaauf vowis coong vieecj nhuwngx coo nangf lamf IT conf bieets tranh thur nhuwngx phuts thuw gianx its oir đeer xar stress
+Thinhr thoangr ranhr tay bonj nayf hay chowi trof tung huwngs vowis nhuwngx vaatj nhej xung quanh xem nhuw đang taapj nems bongs đos maf Ngocj Thuyf vaf Ánh Tuyeets nheo mawts tinh nghichj
+Cachs đaay khoong laau nhoms conf giao luwu vowis cacs đoongf nghieepj nuwx khacs trong coong ty bawngf cuoocj thi đas caauf
+Conf vowis Bichs Trang hieenj đang phuj trachs vaanj hanhf vaf quanr lys trang web cestigovvn cuar Trung taam thoong tin khoa hocj vaf coong ngheej thuoocj Sowr Khoa hocj amp Coong ngheej TPHCM thif ngoaif giowf lamf vieecj coo laij thichs cungf đoongf nghieepj trong phongf đi awn buij hay đawng kys tham gia trof chowi truyeenf hinhf nhuw Hanhf trinhf vawn hoas
+Coong vieecj khoong đeens nooix toois mawts toois muix nhuwng cungx khoong ngowi tay vif phair lieen tucj caapj nhaatj toongr howpj thoong tin vaf thay đooir giao dieenj cho trang web
+Thees neen cos thowif gian ranhr laf minhf tranh thur thuw gianx đeer laays tinh thaanf lamf vieecj tieeps Trang baatj mis
+Trong khi đos mooix khi coong vieecj tuwowng đoois gianx ra thif Thanh Ngaan laij thichs lang thang leen mangj đocj baos xem truyeenj cuwowif hay đeens cuoois tuaanf laij tranh thur phongs xe veef thawm nhaf owr Tieenf Giang đeer napj laij nawng luwowngj
+Cos maays đuwas banj cungx lamf IT lucs coong vieecj baanj roonj chawngr conf bieets trowif trawng gif heets nhuwng đeens lucs đuwowcj ngowi tay cungx rur nhau lo tuts laij dung nhan voons bij coong vieecj baof monf
+Con gais maf lij coo nangf cuwowif
+Xem ra nhuwngx coo nangf lamf IT maf tooi cos dipj tieeps xucs cungx nhu mif vaf homs hinhr lawms chuws ai dams baor laf khoo nhuw ngois
+Vaf cos nguwowif conf laf nguwowif vowj nguwowif mej diuj dangf been mais aams nhor xinh cuar minhf nhuw Hanhj sau giowf lamf vieecj nieemf vui cuar coo laf veef been con nhor vaf chawm chuts cho gia đinhf
+Ngheef naof cungx cos cais cuwcj rieeng nhuwng neeus bieets thu xeeps thif sex oonr thoar car thooi coo cho bieets
+Lamf trong linhx vuwcj IT voons dix khoong deex dangf vowis nhieeuf nguwowif đawcj bieetj vowis nuwx laij cangf vaats var hown đeer theo đuooir laau daif
+Nhuwng nois nhuw lowif cuar nhuwngx coo gais đax trots yeeu thichs vaf chonj mays tinhs lamf banj thif Mieenx conf say mee vaf bieets sawps xeeps thif khoor cuwcj maays cungx sex truj laij vaf theo đuooir đeens cung…f

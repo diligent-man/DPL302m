@@ -1,53 +1,53 @@
-Quận trưng bày trung tâm điều hành đô thị thông minh
-Mô hình giám sát giao thông an ninh dịch bệnh phân tích các dữ liệu về kinh tế xã hội
-được giới thiệu tại ngày hội chuyển đổi số quận
-Triển lãm công nghệ nằm trong ngày hội Chuyển đổi số Không gian Khởi nghiệp sáng tạo năm do UBDN quận tổ chức vào hai ngày tại Quảng trường Trung tâm Hành chính
-Nổi bật tại triển lãm là gian hàng giới thiệu Trung tâm Điều hành đô thị thông minh quận
-Đây là mô hình được tiếp nối và phát triển trên nền tảng các cơ sở dữ liệu của Trung tâm chỉ huy phòng chống dịch Covid và khôi phục kinh tế do quận phối hợp Tập đoàn FPT xây dựng trong thời gian đại dịch Covid năm
-Trung tâm được xây dựng với mục tiêu đưa ra các giải pháp công nghệ đồng bộ đảm bảo các hệ thống hiện tại và tương lai có thể tích hợp chia sẻ dữ liệu một cách linh hoạt thống nhất hình thành cơ sở dữ liệu chung của quận như số hóa tích hợp các dữ liệu về các lĩnh vực như kinh tế đô thị tài nguyên và môi trường y tế văn hóa xã hội
-Triển lãm công nghệ nằm trong ngày hội Chuyển đổi số Không gian Khởi nghiệp sáng tạo năm do UBDN quận tổ chức vào hai ngày tại Quảng trường Trung tâm Hành chính
-Nổi bật tại triển lãm là gian hàng giới thiệu Trung tâm Điều hành đô thị thông minh quận
-Đây là mô hình được tiếp nối và phát triển trên nền tảng các cơ sở dữ liệu của Trung tâm chỉ huy phòng chống dịch Covid và khôi phục kinh tế do quận phối hợp Tập đoàn FPT xây dựng trong thời gian đại dịch Covid năm
-Trung tâm được xây dựng với mục tiêu đưa ra các giải pháp công nghệ đồng bộ đảm bảo các hệ thống hiện tại và tương lai có thể tích hợp chia sẻ dữ liệu một cách linh hoạt thống nhất hình thành cơ sở dữ liệu chung của quận như số hóa tích hợp các dữ liệu về các lĩnh vực như kinh tế đô thị tài nguyên và môi trường y tế văn hóa xã hội
-Trung tâm tích hợp nhiều thành phần như hệ thống giám sát an ninh trật tự an toàn giao thông Hệ thống an toàn thông tin giám sát chỉ đạo điều hành Hệ thống góp ý phản ánh của người dân và doanh nghiệp Hệ thống giám sát phòng chống dịch bệnh
-Đồng thời trung tâm phát triển các hạng mục về dịch vụ hành chính công quận góp phần cụ thể hóa việc chuyển đổi số trong công tác chính quyền trọng tâm là phát triển kinh tế số xây dựng đô thị thông minh chính quyền điện tử tiến tới chính quyền số
-Trung tâm tích hợp nhiều thành phần như hệ thống giám sát an ninh trật tự an toàn giao thông Hệ thống an toàn thông tin giám sát chỉ đạo điều hành Hệ thống góp ý phản ánh của người dân và doanh nghiệp Hệ thống giám sát phòng chống dịch bệnh
-Đồng thời trung tâm phát triển các hạng mục về dịch vụ hành chính công quận góp phần cụ thể hóa việc chuyển đổi số trong công tác chính quyền trọng tâm là phát triển kinh tế số xây dựng đô thị thông minh chính quyền điện tử tiến tới chính quyền số
-Các công cụ của trung tâm giúp người dân và doanh nghiệp được tiếp cận các dịch vụ công trực tuyến trực tiếp trao đổi đổi thông tin với chính quyền qua môi trường mạng
-Đồng thời hệ thống còn phân tích các dữ liệu về dân cư kinh tế y tế giáo dục trên địa bàn thể hiện qua dạng các biểu đồ có đối chiếu so sánh qua từng năm
-Bên cạnh đó các cán bộ công chức công dân tại quận cũng được xây dựng văn hoá số thông qua việc sử dụng các ứng dụng như Công chức trực tuyến và Quận trực tuyến
-Các công cụ của trung tâm giúp người dân và doanh nghiệp được tiếp cận các dịch vụ công trực tuyến trực tiếp trao đổi đổi thông tin với chính quyền qua môi trường mạng
-Đồng thời hệ thống còn phân tích các dữ liệu về dân cư kinh tế y tế giáo dục trên địa bàn thể hiện qua dạng các biểu đồ có đối chiếu so sánh qua từng năm
-Bên cạnh đó các cán bộ công chức công dân tại quận cũng được xây dựng văn hoá số thông qua việc sử dụng các ứng dụng như Công chức trực tuyến và Quận trực tuyến
-Ngoài ra không gian triển lãm còn có hàng chục gian hàng của các doanh nghiệp công nghệ ngân hàng giáo dục y tế công nghiệp như FPT Vinama KDI Momo HD Bank Acecook Phú Mỹ Hưng Khu chế xuất Tân Thuận
-Các gian hàng trưng bày giới thiệu nhiều sản phẩm mới ứng dụng khoa học công nghệ
-Ngoài ra không gian triển lãm còn có hàng chục gian hàng của các doanh nghiệp công nghệ ngân hàng giáo dục y tế công nghiệp như FPT Vinama KDI Momo HD Bank Acecook Phú Mỹ Hưng Khu chế xuất Tân Thuận
-Các gian hàng trưng bày giới thiệu nhiều sản phẩm mới ứng dụng khoa học công nghệ
-Khách tham quan tìm hiểu về hệ thống nhà thông minh như các cảm biến công tắc camera giám sát từ FPT
-FPT còn mang đến hệ sinh thái sản phẩm của các công ty thành viên như hệ thống hợp đồng điện tử nền tảng FPT Play akaBot hệ thống xác thực thông minh…
-Khách tham quan tìm hiểu về hệ thống nhà thông minh như các cảm biến công tắc camera giám sát từ FPT
-FPT còn mang đến hệ sinh thái sản phẩm của các công ty thành viên như hệ thống hợp đồng điện tử nền tảng FPT Play akaBot hệ thống xác thực thông minh…
-Khách tham quan trải nghiệm kiểm tra chỉ số cơ thể
-Máy sẽ tiến hành phân tích các chỉ số như chiều cao cân nặng tỷ lê cơ mỡ đánh giá và đưa ra tư vấn về chế độ dinh dưỡng tập luyện
-Khách tham quan trải nghiệm kiểm tra chỉ số cơ thể
-Máy sẽ tiến hành phân tích các chỉ số như chiều cao cân nặng tỷ lê cơ mỡ đánh giá và đưa ra tư vấn về chế độ dinh dưỡng tập luyện
-Gian hàng của KDI cung cấp các giải pháp chuyển đổi số trong giáo dục như hệ thống học liệu trực tuyến
-Gian hàng của KDI cung cấp các giải pháp chuyển đổi số trong giáo dục như hệ thống học liệu trực tuyến
-KDI giới thiệu sản phẩm tự động hóa robot máy in D dùng giảng dạy thực tế tại các trường tiểu học
-KDI giới thiệu sản phẩm tự động hóa robot máy in D dùng giảng dạy thực tế tại các trường tiểu học
-Siêu Thanh Ricoh giới thiệu hàng loạt các sản phẩm trong văn phòng thông minh như các máy in máy photocopy đa chức năng
-Các thiết bị này hỗ trợ quản lý bằng di động phân quyền người dùng để bảo vệ dữ liệu có thể bóc tác văn bản hình ảnh khi đưa tài liệu vào máy
-Khu chế xuất Tân Thuận qua sự kiện cũng giới thiệu nhiều cách làm trong quản lý vận hành giám sát thông minh các nhà xưởng nhà máy tạo môi trường thuận lợi cho các doanh nghiệp hoạt động
-Siêu Thanh Ricoh giới thiệu hàng loạt các sản phẩm trong văn phòng thông minh như các máy in máy photocopy đa chức năng
-Các thiết bị này hỗ trợ quản lý bằng di động phân quyền người dùng để bảo vệ dữ liệu có thể bóc tác văn bản hình ảnh khi đưa tài liệu vào máy
-Khu chế xuất Tân Thuận qua sự kiện cũng giới thiệu nhiều cách làm trong quản lý vận hành giám sát thông minh các nhà xưởng nhà máy tạo môi trường thuận lợi cho các doanh nghiệp hoạt động
-Khách tham quan trải nghiệm khám phá nhà máy Acecook trên không gian ảo nhận quà là các sản phẩm của doanh nghiệp
-Ngoài không gian triển lãm ngày hội Chuyển đổi số Không gian Khởi nghiệp sáng tạo còn có các buổi tọa đàm
-Trong đó sáng diễn ra tọa đàm Ứng dụng chuyển đổi số trong thực tiễn thu hút hàng trăm người tham dự nghe chia sẻ về các giải pháp chuyển đổi số cho doanh nghiệp vừa và nhỏ ứng dụng thanh toán không tiền mặt môi trường làm việc số
-Buổi chiều diễn ra tọa đàm Ứng dụng chuyển đổi số trong giáo dục
-Ngày sự kiện tiếp tục diễn ra với vòng chung kết cuộc thi ý tưởng sáng tạo khởi nghiệp giải chạy online và offline đêm nhạc
-Khách tham quan trải nghiệm khám phá nhà máy Acecook trên không gian ảo nhận quà là các sản phẩm của doanh nghiệp
-Ngoài không gian triển lãm ngày hội Chuyển đổi số Không gian Khởi nghiệp sáng tạo còn có các buổi tọa đàm
-Trong đó sáng diễn ra tọa đàm Ứng dụng chuyển đổi số trong thực tiễn thu hút hàng trăm người tham dự nghe chia sẻ về các giải pháp chuyển đổi số cho doanh nghiệp vừa và nhỏ ứng dụng thanh toán không tiền mặt môi trường làm việc số
-Buổi chiều diễn ra tọa đàm Ứng dụng chuyển đổi số trong giáo dục
-Ngày sự kiện tiếp tục diễn ra với vòng chung kết cuộc thi ý tưởng sáng tạo khởi nghiệp giải chạy online và offline đêm nhạc
+Quaanj truwng bayf trung taam đieeuf hanhf đoo thij thoong minh
+Moo hinhf giams sats giao thoong an ninh dichj beenhj phaan tichs cacs duwx lieeuj veef kinh tees xax hooij
+đuwowcj giowis thieeuj taij ngayf hooij chuyeenr đooir soos quaanj
+Trieenr lamx coong ngheej nawmf trong ngayf hooij Chuyeenr đooir soos Khoong gian Khowir nghieepj sangs taoj nawm do UBDN quaanj toor chuwcs vaof hai ngayf taij Quangr truwowngf Trung taam Hanhf chinhs
+Nooir baatj taij trieenr lamx laf gian hangf giowis thieeuj Trung taam Đieeuf hanhf đoo thij thoong minh quaanj
+Đaay laf moo hinhf đuwowcj tieeps noois vaf phats trieenr treen neenf tangr cacs cow sowr duwx lieeuj cuar Trung taam chir huy phongf choongs dichj Covid vaf khooi phucj kinh tees do quaanj phoois howpj Taapj đoanf FPT xaay duwngj trong thowif gian đaij dichj Covid nawm
+Trung taam đuwowcj xaay duwngj vowis mucj tieeu đuwa ra cacs giair phaps coong ngheej đoongf booj đamr baor cacs heej thoongs hieẹn tại vaf tuwowng lai cos theer tichs howpj chia ser duwx lieeuj mootj cachs linh hoatj thoongs nhaats hinhf thanhf cow sowr duwx lieeuj chung cuar quaanj nhuw soos hoas tichs howpj cacs duwx lieeuj veef cacs linhx vuwcj nhuw kinh tees đoo thij taif nguyeen vaf mooi truwowngf y tees vawn hoas xax hooij
+Trieenr lamx coong ngheej nawmf trong ngayf hooij Chuyeenr đooir soos Khoong gian Khowir nghieepj sangs taoj nawm do UBDN quaanj toor chuwcs vaof hai ngayf taij Quangr truwowngf Trung taam Hanhf chinhs
+Nooir baatj taij trieenr lamx laf gian hangf giowis thieeuj Trung taam Đieeuf hanhf đoo thij thoong minh quaanj
+Đaay laf moo hinhf đuwowcj tieeps noois vaf phats trieenr treen neenf tangr cacs cow sowr duwx lieeuj cuar Trung taam chir huy phongf choongs dichj Covid vaf khooi phucj kinh tees do quaanj phoois howpj Taapj đoanf FPT xaay duwngj trong thowif gian đaij dichj Covid nawm
+Trung taam đuwowcj xaay duwngj vowis mucj tieeu đuwa ra cacs giair phaps coong ngheej đoongf booj đamr baor cacs heej thoongs hieẹn tại vaf tuwowng lai cos theer tichs howpj chia ser duwx lieeuj mootj cachs linh hoatj thoongs nhaats hinhf thanhf cow sowr duwx lieeuj chung cuar quaanj nhuw soos hoas tichs howpj cacs duwx lieeuj veef cacs linhx vuwcj nhuw kinh tees đoo thij taif nguyeen vaf mooi truwowngf y tees vawn hoas xax hooij
+Trung taam tichs howpj nhieeuf thanhf phaanf nhuw heej thoongs giams sats an ninh traatj tuwj an toanf giao thoong Heej thoongs an toanf thoong tin giams sats chir đaoj đieeuf hanhf Heej thoongs gops ys phanr anhs cuar nguwowif daan vaf doanh nghieepj Heej thoongs giams sats phongf choongs dichj beenhj
+Đoongf thowif trung taam phats trieenr cacs hangj mucj veef dichj vuj hanhf chinhs coong quaanj gops phaanf cuj theer hoas vieecj chuyeenr đooir soos trong coong tacs chinhs quyeenf trongj taam laf phats trieenr kinh tees soos xaay duwngj đoo thij thoong minh chinhs quyeenf đieenj tuwr tieens towis chinhs quyeenf soos
+Trung taam tichs howpj nhieeuf thanhf phaanf nhuw heej thoongs giams sats an ninh traatj tuwj an toanf giao thoong Heej thoongs an toanf thoong tin giams sats chir đaoj đieeuf hanhf Heej thoongs gops ys phanr anhs cuar nguwowif daan vaf doanh nghieepj Heej thoongs giams sats phongf choongs dichj beenhj
+Đoongf thowif trung taam phats trieenr cacs hangj mucj veef dichj vuj hanhf chinhs coong quaanj gops phaanf cuj theer hoas vieecj chuyeenr đooir soos trong coong tacs chinhs quyeenf trongj taam laf phats trieenr kinh tees soos xaay duwngj đoo thij thoong minh chinhs quyeenf đieenj tuwr tieens towis chinhs quyeenf soos
+Cacs coong cuj cuar trung taam giups nguwowif daan vaf doanh nghieepj đuwowcj tieeps caanj cacs dichj vuj coong truwcj tuyeens truwcj tieeps trao đooir đooir thoong tin vowis chinhs quyeenf qua mooi truwowngf mangj
+Đoongf thowif heej thoongs conf phaan tichs cacs duwx lieeuj veef daan cuw kinh tees y tees giaos ducj treen điaj banf theer hieenj qua dangj cacs bieeur đoof cos đoois chieeus so sanhs qua tuwngf nawm
+Been canhj đos cacs cans booj coong chuwcs coong daan taij quaanj cungx đuwowcj xaay duwngj vawn hoas soos thoong qua vieecj suwr dungj cacs uwngs dungj nhuw Coong chuwcs truwcj tuyeens vaf Quaanj truwcj tuyeens
+Cacs coong cuj cuar trung taam giups nguwowif daan vaf doanh nghieepj đuwowcj tieeps caanj cacs dichj vuj coong truwcj tuyeens truwcj tieeps trao đooir đooir thoong tin vowis chinhs quyeenf qua mooi truwowngf mangj
+Đoongf thowif heej thoongs conf phaan tichs cacs duwx lieeuj veef daan cuw kinh tees y tees giaos ducj treen điaj banf theer hieenj qua dangj cacs bieeur đoof cos đoois chieeus so sanhs qua tuwngf nawm
+Been canhj đos cacs cans booj coong chuwcs coong daan taij quaanj cungx đuwowcj xaay duwngj vawn hoas soos thoong qua vieecj suwr dungj cacs uwngs dungj nhuw Coong chuwcs truwcj tuyeens vaf Quaanj truwcj tuyeens
+Ngoaif ra khoong gian trieenr lamx conf cos hangf chucj gian hangf cuar cacs doanh nghieepj coong ngheej ngaan hangf giaos ducj y tees coong nghieepj nhuw FPT Vinama KDI Momo HD Bank Acecook Phus Myx Huwng Khu chees xuaats Taan Thuaanj
+Cacs gian hangf truwng bayf giowis thieeuj nhieeuf sanr phaamr mowis uwngs dungj khoa hocj coong ngheej
+Ngoaif ra khoong gian trieenr lamx conf cos hangf chucj gian hangf cuar cacs doanh nghieepj coong ngheej ngaan hangf giaos ducj y tees coong nghieepj nhuw FPT Vinama KDI Momo HD Bank Acecook Phus Myx Huwng Khu chees xuaats Taan Thuaanj
+Cacs gian hangf truwng bayf giowis thieeuj nhieeuf sanr phaamr mowis uwngs dungj khoa hocj coong ngheej
+Khachs tham quan timf hieeur veef heej thoongs nhaf thoong minh nhuw cacs camr bieens coong tawcs camera giams sats tuwf FPT
+FPT conf mang đeens heej sinh thais sanr phaamr cuar cacs coong ty thanhf vieen nhuw heej thoongs howpj đoongf đieenj tuwr neenf tangr FPT Play akaBot heej thoongs xacs thuwcj thoong minh…
+Khachs tham quan timf hieeur veef heej thoongs nhaf thoong minh nhuw cacs camr bieens coong tawcs camera giams sats tuwf FPT
+FPT conf mang đeens heej sinh thais sanr phaamr cuar cacs coong ty thanhf vieen nhuw heej thoongs howpj đoongf đieenj tuwr neenf tangr FPT Play akaBot heej thoongs xacs thuwcj thoong minh…
+Khachs tham quan trair nghieemj kieemr tra chir soos cow theer
+Mays sex tieens hanhf phaan tichs cacs chir soos nhuw chieeuf cao caan nawngj tyr lee cow mowx đanhs gias vaf đuwa ra tuw vaans veef chees đooj dinh duwowngx taapj luyeenj
+Khachs tham quan trair nghieemj kieemr tra chir soos cow theer
+Mays sex tieens hanhf phaan tichs cacs chir soos nhuw chieeuf cao caan nawngj tyr lee cow mowx đanhs gias vaf đuwa ra tuw vaans veef chees đooj dinh duwowngx taapj luyeenj
+Gian hangf cuar KDI cung caaps cacs giair phaps chuyeenr đooir soos trong giaos ducj nhuw heej thoongs hocj lieeuj truwcj tuyeens
+Gian hangf cuar KDI cung caaps cacs giair phaps chuyeenr đooir soos trong giaos ducj nhuw heej thoongs hocj lieeuj truwcj tuyeens
+KDI giowis thieeuj sanr phaamr tuwj đoongj hoas robot mays in D dungf giangr dayj thuwcj tees taij cacs truwowngf tieeur hocj
+KDI giowis thieeuj sanr phaamr tuwj đoongj hoas robot mays in D dungf giangr dayj thuwcj tees taij cacs truwowngf tieeur hocj
+Sieeu Thanh Ricoh giowis thieeuj hangf loatj cacs sanr phaamr trong vawn phongf thoong minh nhuw cacs mays in mays photocopy đa chuwcs nawng
+Cacs thieets bij nayf hoox trowj quanr lys bawngf di đoongj phaan quyeenf nguwowif dungf đeer baor veej duwx lieeuj cos theer bocs tacs vawn banr hinhf anhr khi đuwa taif lieeuj vaof mays
+Khu chees xuaats Taan Thuaanj qua suwj kieenj cungx giowis thieeuj nhieeuf cachs lamf trong quanr lys vaanj hanhf giams sats thoong minh cacs nhaf xuwowngr nhaf mays taoj mooi truwowngf thuaanj lowij cho cacs doanh nghieepj hoatj đoongj
+Sieeu Thanh Ricoh giowis thieeuj hangf loatj cacs sanr phaamr trong vawn phongf thoong minh nhuw cacs mays in mays photocopy đa chuwcs nawng
+Cacs thieets bij nayf hoox trowj quanr lys bawngf di đoongj phaan quyeenf nguwowif dungf đeer baor veej duwx lieeuj cos theer bocs tacs vawn banr hinhf anhr khi đuwa taif lieeuj vaof mays
+Khu chees xuaats Taan Thuaanj qua suwj kieenj cungx giowis thieeuj nhieeuf cachs lamf trong quanr lys vaanj hanhf giams sats thoong minh cacs nhaf xuwowngr nhaf mays taoj mooi truwowngf thuaanj lowij cho cacs doanh nghieepj hoatj đoongj
+Khachs tham quan trair nghieemj khams phas nhaf mays Acecook treen khoong gian aor nhaanj quaf laf cacs sanr phaamr cuar doanh nghieepj
+Ngoaif khoong gian trieenr lamx ngayf hooij Chuyeenr đooir soos Khoong gian Khowir nghieepj sangs taoj conf cos cacs buooir toaj đamf
+Trong đos sangs dieenx ra toaj đamf Ứng dungj chuyeenr đooir soos trong thuwcj tieenx thu huts hangf trawm nguwowif tham duwj nghe chia ser veef cacs giair phaps chuyeenr đooir soos cho doanh nghieepj vuwaf vaf nhor uwngs dungj thanh toans khoong tieenf mawtj mooi truwowngf lamf vieecj soos
+Buooir chieeuf dieenx ra toaj đamf Ứng dungj chuyeenr đooir soos trong giaos ducj
+Ngayf suwj kieenj tieeps tucj dieenx ra vowis vongf chung keets cuoocj thi ys tuwowngr sangs taoj khowir nghieepj giair chayj online vaf offline đeem nhacj
+Khachs tham quan trair nghieemj khams phas nhaf mays Acecook treen khoong gian aor nhaanj quaf laf cacs sanr phaamr cuar doanh nghieepj
+Ngoaif khoong gian trieenr lamx ngayf hooij Chuyeenr đooir soos Khoong gian Khowir nghieepj sangs taoj conf cos cacs buooir toaj đamf
+Trong đos sangs dieenx ra toaj đamf Ứng dungj chuyeenr đooir soos trong thuwcj tieenx thu huts hangf trawm nguwowif tham duwj nghe chia ser veef cacs giair phaps chuyeenr đooir soos cho doanh nghieepj vuwaf vaf nhor uwngs dungj thanh toans khoong tieenf mawtj mooi truwowngf lamf vieecj soos
+Buooir chieeuf dieenx ra toaj đamf Ứng dungj chuyeenr đooir soos trong giaos ducj
+Ngayf suwj kieenj tieeps tucj dieenx ra vowis vongf chung keets cuoocj thi ys tuwowngr sangs taoj khowir nghieepj giair chayj online vaf offline đeem nhacj

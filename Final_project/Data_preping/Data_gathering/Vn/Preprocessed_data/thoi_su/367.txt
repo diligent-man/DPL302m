@@ -1,15 +1,15 @@
-Nghiên cứu nộp phạt vi phạm giao thông trên VNeID
-Bộ Giao thông Vận tải tích hợp đồng bộ dữ liệu giấy phép lái xe để phục vụ nộp phạt vi phạm giao thông trên ứng dụng VNeID Chính phủ yêu cầu
-Nghị quyết phiên họp Chính phủ thường kỳ ngày Chính phủ giao Bộ Giao thông Vận tải nghiên cứu nộp phạt vi phạm giao thông thuộc thẩm quyền của thanh tra giao thông trên VNeID
-Bộ Công an hoàn thiện ứng dụng VNeID tích hợp các tiện ích quản lý xã hội ứng dụng phục vụ người dân và doanh nghiệp làm thủ tục hành chính trên môi trường điện tử
-Từ tháng người dân cả nước được nộp phạt vi phạm giao thông trực tuyến trên Cổng dịch vụ công quốc gia và nhận giấy tờ tại nhà
-Thời gian hệ thống cập nhật quyết định xử phạt là ngày
-Sau ngày kể từ khi nhận quyết định xử phạt người dân nhập số biên bản vi phạm hành chính ngày tháng năm vi phạm họ và tên sẽ tìm ra quyết định số tiền bị xử phạt
-Sau đó thực hiện các bước thanh toán qua ngân hàngtrung tâm thanh toán nhận biên lai
-Cảnh sát giao thông căn cứ vào biên lai thu tiền phạt để trả giấy tờ cho người dân qua bưu điện
-Tháng Cục Cảnh sát giao thông Bộ Công an thử nghiệm kết nối Cơ sở dữ liệu quốc gia về dân cư với Cơ sở dữ liệu về xử lý vi phạm hành chính
-Người vi phạm giao thông cung cấp mã số định danh cá nhân số trên thẻ căn cước có mã QR để cảnh sát tra cứu dữ liệu ở Cổng dịch vụ công Quốc gia phục vụ nộp phạt qua mạng
-Nếu được nộp phạt vi phạm giao thông qua ứng dụng VNeID người dân sẽ có thêm kênh trực tuyến để thực hiện việc này
-Hồi tháng Thủ tướng yêu cầu tích hợp hàng loạt tiện ích lên ứng dụng VNeID gồm trình độ học vấn quan hệ họ hàng giấy phép lái xe tài khoản ngân hàng điện nước viễn thông công chức viên chức đảng viên
-Các đô thị loại thành phố hoặc thị xã thuộc tỉnh có các phường nội thành nội thị và các xã ngoại thành ngoại thị sớm nghiên cứu thí điểm tích hợp ứng dụng quản lý xã hội trên VNeID như tố giác tội phạm phòng chống cháy nổ an toàn giao thông bảo vệ môi trường khai báo tạm trú tạm vắng
-Các tiện ích cho người dân như cấp lý lịch tư pháp sổ sức khỏe điện tử giấy khai sinh kết hôn ly hôn dịch vụ ngân hàng tiện ích cho nhóm yếu thế người già trẻ em người có công cũng sẽ được tích hợp vào ứng dụng
+Nghieen cuwus noopj phatj vi phamj giao thoong treen VNeID
+Booj Giao thoong Vaanj tair tichs howpj đoongf booj duwx lieeuj giaays pheps lais xe đeer phucj vuj noopj phatj vi phamj giao thoong treen uwngs dungj VNeID Chinhs phur yeeu caauf
+Nghij quyeets phieen hopj Chinhs phur thuwowngf kyf ngayf Chinhs phur giao Booj Giao thoong Vaanj tair nghieen cuwus noopj phatj vi phamj giao thoong thuoocj thaamr quyeenf cuar thanh tra giao thoong treen VNeID
+Booj Coong an hoanf thieenj uwngs dungj VNeID tichs howpj cacs tieenj ichs quanr lys xax hooij uwngs dungj phucj vuj nguwowif daan vaf doanh nghieepj lamf thur tucj hanhf chinhs treen mooi truwowngf đieenj tuwr
+Tuwf thangs nguwowif daan car nuwowcs đuwowcj noopj phatj vi phamj giao thoong truwcj tuyeens treen Coongr dichj vuj coong quoocs gia vaf nhaanj giaays towf taij nhaf
+Thowif gian heej thoongs caapj nhaatj quyeets đinhj xuwr phatj laf ngayf
+Sau ngayf keer tuwf khi nhaanj quyeets đinhj xuwr phatj nguwowif daan nhaapj soos bieen banr vi phamj hanhf chinhs ngayf thangs nawm vi phamj hoj vaf teen sex timf ra quyeets đinhj soos tieenf bij xuwr phatj
+Sau đos thuwcj hieenj cacs buwowcs thanh toans qua ngaan hangtrungf taam thanh toans nhaanj bieen lai
+Canhr sats giao thoong cawn cuws vaof bieen lai thu tieenf phatj đeer trar giaays towf cho nguwowif daan qua buwu đieenj
+Thangs Cucj Canhr sats giao thoong Booj Coong an thuwr nghieemj keets noois Cow sowr duwx lieeuj quoocs gia veef daan cuw vowis Cow sowr duwx lieeuj veef xuwr lys vi phamj hanhf chinhs
+Nguwowif vi phamj giao thoong cung caaps max soos đinhj danh cas nhaan soos treen ther cawn cuwowcs cos max QR đeer canhr sats tra cuwus duwx lieeuj owr Coongr dichj vuj coong Quoocs gia phucj vuj noopj phatj qua mangj
+Neeus đuwowcj noopj phatj vi phamj giao thoong qua uwngs dungj VNeID nguwowif daan sex cos theem keenh truwcj tuyeens đeer thuwcj hieenj vieecj nayf
+Hooif thangs Thur tuwowngs yeeu caauf tichs howpj hangf loatj tieenj ichs leen uwngs dungj VNeID goomf trinhf đooj hocj vaans quan heej hoj hangf giaays pheps lais xe taif khoanr ngaan hangf đieenj nuwowcs vieenx thoong coong chuwcs vieen chuwcs đangr vieen
+Cacs đoo thij loaij thanhf phoos hoawcj thij xax thuoocj tinhr cos cacs phuwowngf nooij thanhf nooij thij vaf cacs xax ngoaij thanhf ngoaij thij sowms nghieen cuwus this đieemr tichs howpj uwngs dungj quanr lys xax hooij treen VNeID nhuw toos giacs tooij phamj phongf choongs chays noor an toanf giao thoong baor veej mooi truwowngf khai baos tamj trus tamj vawngs
+Cacs tieenj ichs cho nguwowif daan nhuw caaps lys lichj tuw phaps soor suwcs khoer đieenj tuwr giaays khai sinh keets hoon ly hoon dichj vuj ngaan hangf tieenj ichs cho nhoms yeeus thees nguwowif giaf trer em nguwowif cos coong cungx sex đuwowcj tichs howpj vaof uwngs dungj

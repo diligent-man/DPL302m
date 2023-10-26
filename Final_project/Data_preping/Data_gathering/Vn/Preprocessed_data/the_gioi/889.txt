@@ -1,20 +1,20 @@
-Anh sinh viên amp chàng robot ma trận
-Luân kể hồi SV năm một lần xem tivi thấy robot chuyển vật dụng cứ ám ảnh lấy Luân
-Hỏi ra mới biết giá thành lên tới gần cả tỉ đồng
-Luân âm thầm nuôi quyết tâm mình cũng có thể chế tạo những con robot đơn giản với giá rẻ hơn nhiều và làm việc hiệu quả không kém
-Thế rồi phải mất cả năm trời mày mò sách vở lội chợ Nhật Tảo Q tìm kiếm linh kiện điện tử robot chuyển hàng di chuyển theo ma trận cũng ra lò
-Các giải pháp tiết kiệm cho robot do Luân chế tạo tập trung ở ba điểm
-Luân đã tự chế tạo một loại đầu dò vạch tự động ADC có tính thông minh và tin cậy nhưng giá thành lại rất thấp so với bộ dò tích hợp nhập khẩu giá phần cứng của một cảm biến dùng cho công trình này chỉ USD so với giá gần USD của hàng nhập khẩu
-Hầu hết các robot cùng loại do nước ngoài chế tạo có bộ xử lý tín hiệu và điều khiển bằng PET robot của Luân dùng vi điều khiển ATC có thể linh hoạt áp dụng để vận chuyển nhiều loại hàng hóa khác nhau
-Tại hội nghị nghiên cứu khoa học SV ĐH bán công Tôn Đức Thắng lần vừa qua đề tài Thiết kế và thi công robot chuyển hàng di chuyển theo ma trận của Đào Trung Luân đã được trao giải A
-Cũng với đề tài này Luân vừa bảo vệ thành công luận án tốt nghiệp ĐH của mình và kiếm được đầy đủ sáu điểm của hội đồng đồng thời bước đầu đề tài được một công ty tự động hóa chú ý đặt hàng
-Đây là robot thông minh và dễ tính
-Giao tiếp với người sử dụng rất thân thiện qua màn hình LCD hiển thị hướng dẫn trạng thái robot khá rõ ràng nhập lệnh bằng phím dễ dàng
-Nhận lệnh bằng bàn phím X nên công nhân không rành máy móc cao siêu cũng thao tác dễ dàng
-Trong quá trình di chuyển gặp vật cản robot sẽ dừng lại và báo động sau khi báo động mà chẳng ăn thua robot lùi lại tìm đường đi khác
-Khi không thực hiện được lệnh báo động đàng hoàng
-Chú robot này có thể hoán cải dùng cho rất nhiều công việc khác nhau nặng thì có thể bốc chuyển gạch hàng hóa to cồng kềnh nhẹ nhàng thì có thể gắp một chiếc đĩa CD ngon lành
-Tưởng tượng một cửa hàng có đĩa CD nhân viên chỉ cần nhập lệnh tên hay vị trí của đĩa là cánh tay thông minh tự đi tới ngăn chứa lấy mang về
-Một giá trị cộng thêm của robot nữa là có thể di chuyển dễ dàng trong điều kiện nhà xưởng nhỏ sàn mấp mô rất phổ biến ở nhà xưởng VN
-Đào Trung Luân tự tin Với nguyên lý của robot này VN hoàn toàn có thể sản xuất những robot chuyển hàng tự động với giá cả thấp hơn rất nhiều robot nhập ngoại
-Robot chuyển gạch nhập ngoại ở VN hiện nay trị giá khoảng triệu đồng nhưng hàng VN chất lượng tương đương chỉ khoảng triệu và sẽ còn rẻ hơn nếu sản xuất hàng loạt
+Anh sinh vieen amp changf robot ma traanj
+Luaan keer hooif SV nawm mootj laanf xem tivi thaays robot chuyeenr vaatj dungj cuws ams anhr laays Luaan
+Hoir ra mowis bieets gias thanhf leen towis gaanf car tir đoongf
+Luaan aam thaamf nuooi quyeets taam minhf cungx cos theer chees taoj nhuwngx con robot đown gianr vowis gias rer hown nhieeuf vaf lamf vieecj hieeuj quar khoong kems
+Thees rooif phair maats car nawm trowif mayf mof sachs vowr looij chowj Nhaatj Taor Q timf kieems linh kieenj đieenj tuwr robot chuyeenr hangf di chuyeenr theo ma traanj cungx ra lof
+Cacs giair phaps tieets kieemj cho robot do Luaan chees taoj taapj trung owr ba đieemr
+Luaan đax tuwj chees taoj mootj loaij đaauf dof vachj tuwj đoongj ADC cos tinhs thoong minh vaf tin caayj nhuwng gias thanhf laij raats thaaps so vowis booj dof tichs howpj nhaapj khaaur gias phaanf cuwngs cuar mootj camr bieens dungf cho coong trinhf nayf chir USD so vowis gias gaanf USD cuar hangf nhaapj khaaur
+Haauf heets cacs robot cungf loaij do nuwowcs ngoaif chees taoj cos booj xuwr lys tins hieeuj vaf đieeuf khieenr bawngf PET robot cuar Luaan dungf vi đieeuf khieenr ATC cos theer linh hoatj aps dungj đeer vaanj chuyeenr nhieeuf loaij hangf hoas khacs nhau
+Taij hooij nghij nghieen cuwus khoa hocj SV ĐH bans coong Toon Đuwcs Thawngs laanf vuwaf qua đeef taif Thieets kees vaf thi coong robot chuyeenr hangf di chuyeenr theo ma traanj cuar Đaof Trung Luaan đax đuwowcj trao giair A
+Cungx vowis đeef taif nayf Luaan vuwaf baor veej thanhf coong luaanj ans toots nghieepj ĐH cuar minhf vaf kieems đuwowcj đaayf đur saus đieemr cuar hooij đoongf đoongf thowif buwowcs đaauf đeef taif đuwowcj mootj coong ty tuwj đoongj hoas chus ys đawtj hangf
+Đaay laf robot thoong minh vaf deex tinhs
+Giao tieeps vowis nguwowif suwr dungj raats thaan thieenj qua manf hinhf LCD hieenr thij huwowngs daanx trangj thais robot khas rox rangf nhaapj leenhj bawngf phims deex dangf
+Nhaanj leenhj bawngf banf phims X neen coong nhaan khoong ranhf mays mocs cao sieeu cungx thao tacs deex dangf
+Trong quas trinhf di chuyeenr gawpj vaatj canr robot sex duwngf laij vaf baos đoongj sau khi baos đoongj maf chawngr awn thua robot luif laij timf đuwowngf đi khacs
+Khi khoong thuwcj hieenj đuwowcj leenhj baos đoongj đangf hoangf
+Chus robot nayf cos theer hoans cair dungf cho raats nhieeuf coong vieecj khacs nhau nawngj thif cos theer boocs chuyeenr gachj hangf hoas to coongf keenhf nhej nhangf thif cos theer gawps mootj chieecs điax CD ngon lanhf
+Tuwowngr tuwowngj mootj cuwar hangf cos điax CD nhaan vieen chir caanf nhaapj leenhj teen hay vij tris cuar điax laf canhs tay thoong minh tuwj đi towis ngawn chuwas laays mang veef
+Mootj gias trij coongj theem cuar robot nuwax laf cos theer di chuyeenr deex dangf trong đieeuf kieenj nhaf xuwowngr nhor sanf maaps moo raats phoor bieens owr nhaf xuwowngr VN
+Đaof Trung Luaan tuwj tin Vowis nguyeen lys cuar robot nayf VN hoanf toanf cos theer sanr xuaats nhuwngx robot chuyeenr hangf tuwj đoongj vowis gias car thaaps hown raats nhieeuf robot nhaapj ngoaij
+Robot chuyeenr gachj nhaapj ngoaij owr VN hieenj nay trij gias khoangr trieeuj đoongf nhuwng hangf VN chaats luwowngj tuwowng đuwowng chir khoangr trieeuj vaf sex conf rer hown neeus sanr xuaats hangf loatj

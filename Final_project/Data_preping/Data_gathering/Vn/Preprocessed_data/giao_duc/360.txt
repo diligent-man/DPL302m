@@ -1,42 +1,42 @@
-Trường Đại học FPT Quy Nhơn đào tạo 'thực chiến' về AI
-Sinh viên được cập nhật kiến thức phù hợp xu thế tham gia xây dựng mô hình AI giải quyết bài toán thực tế sẵn sàng đáp ứng nhân lực cho thị trường
-Tháng Trần Thống Nhất bước vào năm học thứ hai chuyên ngành AI tại Trường Đại học FPT AI Quy Nhơn
-Qua một năm học điều khiến Nhất ấn tượng là hoạt động đào tạo luôn gắn liền với diễn biến thực tế của công nghệ và thị trường
-Kiến thức về AI được các giảng viên và chuyên gia nổi tiếng trong ngành truyền đạt thú vị dễ hiểu
-Chúng em còn được thực hành tại văn phòng FPT Software mở ra cơ hội tiếp cận công nghệ và quy trình làm việc hiện đại ngay trong giờ học Nhất cho biết
-Theo chương trình giảng dạy của trường Nhất cùng các sinh viên chuyên ngành AI được học tập trong môi trường quốc tế với giảng viên tiếng Anh là người nước ngoài giúp sinh viên dễ hòa nhập làm việc cùng doanh nghiệp toàn cầu sau tốt nghiệp
-Lộ trình đào tạo phân chia thành nhiều giai đoạn với tính thực tế cao
-Hai năm đầu tập trung trang bị kiến thức kỹ năng nền tảng để sinh viên bước vào kỳ thực tập hiệu quả ở năm ba
-Đến năm cuối khi hoàn thành thêm ba học kỳ chuyên môn nâng cao và khóa luận tốt nghiệp nhiều em có thể đáp ứng được các vị trí senior
-Đầu tháng năm nay trường bổ nhiệm ông Vũ Hồng Chiên Giám đốc Trung tâm Nghiên cứu và Ứng dụng Trí tuệ nhân tạo Quy Nhơn QAI FPT Software vào vị trí quản lý AI Department
-Theo Tiến sĩ Nguyễn Gia Trí Trưởng ban Đào tạo Trường Đại học FPT AI Quy Nhơn đây là một bước đi hiếm có khi giám đốc của đơn vị phát triển phần mềm đồng thời kiêm nhiệm vai trò quản lý tại một trường đại học
-Cùng với quan hệ hợp tác toàn diện với FPT Software từ trước đó nhà trường và công ty sẽ hỗ trợ nâng cao năng lực đào tạo nghiên cứu kỳ vọng đáp ứng nguồn nhân lực chất lượng cho thị trường
-Trong vai trò mới ông Chiên sẽ tham gia quản lý hoạch định và điều chỉnh nội dung giảng dạy một số môn học phù hợp với xu thế phát triển của công nghệ cũng như thực tế doanh nghiệp
-Qua đó sinh viên sẽ được tiếp cận những kiến thức cần thiết mới nhất
-Cụ thể sinh viên sẽ được cập nhật các xu hướng nổi bật của học máy học sâu học tăng cường thị giác máy tính xử lý ngôn ngữ tự nhiên phát triển ứng dụng AI với TensorFlow dự án AI và khoa học dữ liệu
-Với môn học Computer Vision các em có cơ hội tham gia vào những dự án thực tế của FPT Software như akaOCR trích xuất dữ liệu từ văn bản in hoặc viết tay akaCam phân tích hành vi đối tượng từ dữ liệu camera
-Một số dự án tương tự như phát hiện hành vi bất thường của công nhân trong nhà máy phát hiện người đánh nhau mang vác vũ khí
-Khi theo học sinh viên sẽ được giảng viên và các chuyên gia hướng dẫn từ việc thu thập dữ liệu cần thiết để huấn luyện cho các mô hình AI xử lý dữ liệu hay cách lựa chọn mô hình AI phù hợp
-Sau cùng các em được tham gia vào một số công đoạn của dự án để phát triển thành giải pháp hoàn thiện
-Qua quá trình học tập và thực hành sinh viên sẽ nắm tổng quan việc phát triển một giải pháp AI để giải quyết bài toán thực tế
-Sinh viên cũng hiểu rõ hơn cách phân tích thu thập và xử lý dữ liệu để bắt tay vào việc phát triển một mô hình AI cho bài toán cụ thể
-Cùng với đó các em có thêm một số kỹ năng hữu ích khác như cách phân tích theo dõi và đo đạc hiệu năng nắm rõ quy trình triển khai một dự án AI
-Nắm vững kiến thức cơ bản trải nghiệm dự án thực tế sinh viên tốt nghiệp có sẵn kinh nghiệm tiếp cận nhiều cơ hội nghề nghiệp hơn
-Các em còn có thể xây dựng một mạng lưới chuyên gia để hỗ trợ mình trong học tập cũng như sau này khi đã đi làm ông Chiên nói
-Bên cạnh chương trình đào tạo trường liên tục bổ sung nhiều tài nguyên thiết bị cần thiết cho các thử nghiệm trong lĩnh vực AI
-Sinh viên được thực hành trên hệ thống máy tính hiệu suất cao cho phép chạy các mô hình AI phức tạp cùng nhiều thiết bị cảm biến IoT và các phần cứng hỗ trợ khác
-Phòng lab tạo ra môi trường thúc đẩy sự đổi mới phát triển nghiên cứu và hỗ trợ học tập cho cả sinh viên lẫn các nhà nghiên cứu AI
-Trong khuôn viên có xưởng phát triển phần mềm nhằm tạo một môi trường làm việc với các dự án thực tế
-Mô hình này mang đến không gian trải nghiệm độc đáo nhiều lợi ích và kinh nghiệm thực tiễn cho sinh viên
-Toàn bộ diện tích ha của Trường Đại học FPT AI Quy Nhơn mang thiết kế hài hòa giữa hình ảnh khối bo mạch điện tử và cảnh quan xanh mướt của cây cối
-Cơ sở vật chất đầu tư hiện đại và đa dạng bao gồm khu thể thao phức hợp với các sân bóng đá sân bóng chuyền sân bóng rổ tạo điều kiện thuận lợi cho sinh viên phát triển toàn diện về mặt thể chất
-Ký túc xá và căng tin cũng trang bị đầy đủ tiện ích tạo không gian sống thoải mái tiện nghi cho sinh viên
-Trường Đại học FPT AI Quy Nhơn thành lập năm định hướng đào tạo chuyên sâu về Trí tuệ nhân tạo
-Trường có một số chuyên ngành khác như Kỹ thuật phần mềm Thiết kế Mỹ thuật số Marketing số Kinh doanh quốc tế và Quản trị truyền thông đa phương tiện
-Về định hướng lâu dài Trường Đại học FPT AI Quy Nhơn với vai trò đào tạo nguồn nhân lực chất lượng cao sẽ đem lại sự phát triển bền vững thúc đẩy sự tiến bộ cho FPT Software và QAI cũng như ngành công nghệ của Việt Nam trong tương lai
-Điều này có ý nghĩa lớn khi hiện tại nguồn lực trong nước chỉ đáp ứng nhu cầu thị trường trong khi lĩnh vực AI đang có tốc độ phát triển chóng mặt
-Để khuyến khích nhân tài trường triển khai nhiều chương trình học bổng cho thí sinh đạt thành tích cao
-Ngoài ra trường có chương trình Nguồn nhân lực miền Trung với ưu đãi học phí cho tất cả sinh viên trong suốt bốn năm học
-Sinh viên còn có thể tham gia học kỳ trao đổi tại nước ngoài semester abroad để trau dồi kỹ năng vốn sống
-Ngược lại sinh viên các campus khác của Trường Đại học FPT cũng được tạo cơ hội đăng ký học tập tại FPT AI Quy Nhơn thông qua chương trình local exchange mở rộng trải nghiệm
-Nói về sứ mệnh của trường ông Trương Gia Bình Chủ tịch Hội đồng quản trị Tập đoàn FPT cho biết FPT có một khát vọng lớn đầu tư và xây dựng đưa Bình Định trở thành trung tâm AI hàng đầu khu vực một trung tâm khoa học thử nghiệm phát triển các công nghệ mới nhất của thế giới
+Truwowngf Đaij hocj FPT Quy Nhown đaof taoj 'thuwcj chieen's veef AI
+Sinh vieen đuwowcj caapj nhaatj kieens thuwcs phuf howpj xu thees tham gia xaay duwngj moo hinhf AI giair quyeets baif toans thuwcj tees sawnx sangf đaps uwngs nhaan luwcj cho thij truwowngf
+Thangs Traanf Thoongs Nhaats buwowcs vaof nawm hocj thuws hai chuyeen nganhf AI taij Truwowngf Đaij hocj FPT AI Quy Nhown
+Qua mootj nawm hocj đieeuf khieens Nhaats aans tuwowngj laf hoatj đoongj đaof taoj luoon gawns lieenf vowis dieenx bieens thuwcj tees cuar coong ngheej vaf thij truwowngf
+Kieens thuwcs veef AI đuwowcj cacs giangr vieen vaf chuyeen gia nooir tieengs trong nganhf truyeenf đatj thus vij deex hieeur
+Chungs em conf đuwowcj thuwcj hanhf taij vawn phongf FPT Software mowr ra cow hooij tieeps caanj coong ngheej vaf quy trinhf lamf vieecj hieenj đaij ngay trong giowf hocj Nhaats cho bieets
+Theo chuwowng trinhf giangr dayj cuar truwowngf Nhaats cungf cacs sinh vieen chuyeen nganhf AI đuwowcj hocj taapj trong mooi truwowngf quoocs tees vowis giangr vieen tieengs Anh laf nguwowif nuwowcs ngoaif giups sinh vieen deex hoaf nhaapj lamf vieecj cungf doanh nghieepj toanf caauf sau toots nghieepj
+Looj trinhf đaof taoj phaan chia thanhf nhieeuf giai đoanj vowis tinhs thuwcj tees cao
+Hai nawm đaauf taapj trung trang bij kieens thuwcs kyx nawng neenf tangr đeer sinh vieen buwowcs vaof kyf thuwcj taapj hieeuj quar owr nawm ba
+Đeens nawm cuoois khi hoanf thanhf theem ba hocj kyf chuyeen moon naang cao vaf khoas luaanj toots nghieepj nhieeuf em cos theer đaps uwngs đuwowcj cacs vij tris senior
+Đaauf thangs nawm nay truwowngf boor nhieemj oong Vux Hoongf Chieen Giams đoocs Trung taam Nghieen cuwus vaf Ứng dungj Tris tueej nhaan taoj Quy Nhown QAI FPT Software vaof vij tris quanr lys AI Department
+Theo Tieens six Nguyeenx Gia Tris Truwowngr ban Đaof taoj Truwowngf Đaij hocj FPT AI Quy Nhown đaay laf mootj buwowcs đi hieems cos khi giams đoocs cuar đown vij phats trieenr phaanf meemf đoongf thowif kieem nhieemj vai trof quanr lys taij mootj truwowngf đaij hocj
+Cungf vowis quan heej howpj tacs toanf dieenj vowis FPT Software tuwf truwowcs đos nhaf truwowngf vaf coong ty sex hoox trowj naang cao nawng luwcj đaof taoj nghieen cuwus kyf vongj đaps uwngs nguoonf nhaan luwcj chaats luwowngj cho thij truwowngf
+Trong vai trof mowis oong Chieen sex tham gia quanr lys hoachj đinhj vaf đieeuf chinhr nooij dung giangr dayj mootj soos moon hocj phuf howpj vowis xu thees phats trieenr cuar coong ngheej cungx nhuw thuwcj tees doanh nghieepj
+Qua đos sinh vieen sex đuwowcj tieeps caanj nhuwngx kieens thuwcs caanf thieets mowis nhaats
+Cuj theer sinh vieen sex đuwowcj caapj nhaatj cacs xu huwowngs nooir baatj cuar hocj mays hocj saau hocj tawng cuwowngf thij giacs mays tinhs xuwr lys ngoon nguwx tuwj nhieen phats trieenr uwngs dungj AI vowis TensorFlow duwj ans AI vaf khoa hocj duwx lieeuj
+Vowis moon hocj Computer Vision cacs em cos cow hooij tham gia vaof nhuwngx duwj ans thuwcj tees cuar FPT Software nhuw akaOCR trichs xuaats duwx lieeuj tuwf vawn banr in hoawcj vieets tay akaCam phaan tichs hanhf vi đoois tuwowngj tuwf duwx lieeuj camera
+Mootj soos duwj ans tuwowng tuwj nhuw phats hieenj hanhf vi baats thuwowngf cuar coong nhaan trong nhaf mays phats hieenj nguwowif đanhs nhau mang vacs vux khis
+Khi theo hocj sinh vieen sex đuwowcj giangr vieen vaf cacs chuyeen gia huwowngs daanx tuwf vieecj thu thaapj duwx lieeuj caanf thieets đeer huaans luyeenj cho cacs moo hinhf AI xuwr lys duwx lieeuj hay cachs luwaj chonj moo hinhf AI phuf howpj
+Sau cungf cacs em đuwowcj tham gia vaof mootj soos coong đoanj cuar duwj ans đeer phats trieenr thanhf giair phaps hoanf thieenj
+Qua quas trinhf hocj taapj vaf thuwcj hanhf sinh vieen sex nawms toongr quan vieecj phats trieenr mootj giair phaps AI đeer giair quyeets baif toans thuwcj tees
+Sinh vieen cungx hieeur rox hown cachs phaan tichs thu thaapj vaf xuwr lys duwx lieeuj đeer bawts tay vaof vieecj phats trieenr mootj moo hinhf AI cho baif toans cuj theer
+Cungf vowis đos cacs em cos theem mootj soos kyx nawng huwux ichs khacs nhuw cachs phaan tichs theo doix vaf đo đacj hieeuj nawng nawms rox quy trinhf trieenr khai mootj duwj ans AI
+Nawms vuwngx kieens thuwcs cow banr trair nghieemj duwj ans thuwcj tees sinh vieen toots nghieepj cos sawnx kinh nghieemj tieeps caanj nhieeuf cow hooij ngheef nghieepj hown
+Cacs em conf cos theer xaay duwngj mootj mangj luwowis chuyeen gia đeer hoox trowj minhf trong hocj taapj cungx nhuw sau nayf khi đax đi lamf oong Chieen nois
+Been canhj chuwowng trinhf đaof taoj truwowngf lieen tucj boor sung nhieeuf taif nguyeen thieets bij caanf thieets cho cacs thuwr nghieemj trong linhx vuwcj AI
+Sinh vieen đuwowcj thuwcj hanhf treen heej thoongs mays tinhs hieeuj suaats cao cho pheps chayj cacs moo hinhf AI phuwcs tapj cungf nhieeuf thieets bij camr bieens IoT vaf cacs phaanf cuwngs hoox trowj khacs
+Phongf lab taoj ra mooi truwowngf thucs đaayr suwj đooir mowis phats trieenr nghieen cuwus vaf hoox trowj hocj taapj cho car sinh vieen laanx cacs nhaf nghieen cuwus AI
+Trong khuoon vieen cos xuwowngr phats trieenr phaanf meemf nhawmf taoj mootj mooi truwowngf lamf vieecj vowis cacs duwj ans thuwcj tees
+Moo hinhf nayf mang đeens khoong gian trair nghieemj đoocj đaos nhieeuf lowij ichs vaf kinh nghieemj thuwcj tieenx cho sinh vieen
+Toanf booj dieenj tichs ha cuar Truwowngf Đaij hocj FPT AI Quy Nhown mang thieets kees haif hoaf giuwax hinhf anhr khoois bo machj đieenj tuwr vaf canhr quan xanh muwowts cuar caay coois
+Cow sowr vaatj chaats đaauf tuw hieenj đaij vaf đa dangj bao goomf khu theer thao phuwcs howpj vowis cacs saan bongs đas saan bongs chuyeenf saan bongs roor taoj đieeuf kieenj thuaanj lowij cho sinh vieen phats trieenr toanf dieenj veef mawtj theer chaats
+Kys tucs xas vaf cawng tin cungx trang bij đaayf đur tieenj ichs taoj khoong gian soongs thoair mais tieenj nghi cho sinh vieen
+Truwowngf Đaij hocj FPT AI Quy Nhown thanhf laapj nawm đinhj huwowngs đaof taoj chuyeen saau veef Tris tueej nhaan taoj
+Truwowngf cos mootj soos chuyeen nganhf khacs nhuw Kyx thuaatj phaanf meemf Thieets kees Myx thuaatj soos Marketing soos Kinh doanh quoocs tees vaf Quanr trij truyeenf thoong đa phuwowng tieenj
+Veef đinhj huwowngs laau daif Truwowngf Đaij hocj FPT AI Quy Nhown vowis vai trof đaof taoj nguoonf nhaan luwcj chaats luwowngj cao sex đem laij suwj phats trieenr beenf vuwngx thucs đaayr suwj tieens booj cho FPT Software vaf QAI cungx nhuw nganhf coong ngheej cuar Vieetj Nam trong tuwowng lai
+Đieeuf nayf cos ys nghiax lowns khi hieenj taij nguoonf luwcj trong nuwowcs chir đaps uwngs nhu caauf thij truwowngf trong khi linhx vuwcj AI đang cos toocs đooj phats trieenr chongs mawtj
+Đeer khuyeens khichs nhaan taif truwowngf trieenr khai nhieeuf chuwowng trinhf hocj boongr cho this sinh đatj thanhf tichs cao
+Ngoaif ra truwowngf cos chuwowng trinhf Nguoonf nhaan luwcj mieenf Trung vowis uwu đaix hocj phis cho taats car sinh vieen trong suoots boons nawm hocj
+Sinh vieen conf cos theer tham gia hocj kyf trao đooir taij nuwowcs ngoaif semester abroad đeer trau dooif kyx nawng voons soongs
+Nguwowcj laij sinh vieen cacs campus khacs cuar Truwowngf Đaij hocj FPT cungx đuwowcj taoj cow hooij đawng kys hocj taapj taij FPT AI Quy Nhown thoong qua chuwowng trinhf local exchange mowr roongj trair nghieemj
+Nois veef suws meenhj cuar truwowngf oong Truwowng Gia Binhf Chur tichj Hooij đoongf quanr trij Taapj đoanf FPT cho bieets FPT cos mootj khats vongj lowns đaauf tuw vaf xaay duwngj đuwa Binhf Đinhj trowr thanhf trung taam AI hangf đaauf khu vuwcj mootj trung taam khoa hocj thuwr nghieemj phats trieenr cacs coong ngheej mowis nhaats cuar thees giowis
