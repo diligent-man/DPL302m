@@ -1,0 +1,10 @@
+CHCl + NaOH → CHOH + NaCl|CHCl  NaOH → CHOH  NaCl
+CHCl + NaOH → CHOH + NaCl|CHCl + aOH → CHOH + NaCl
+CHCl + NaOH → CHOH + NaCl|CHCl + NaOH → CHH + NaCl
+CHCl + NaOH → CHOH + NaCl|CHCl  NaOH → CHOH  NaCl
+CHCl + NaOH → CHOH + NaCl|CHCl + NOH → CHOH + NaCl
+CHCl + NaOH → CHOH + NaCl|CHCl + NaOH w→ CHOH + NaCl
+CHCl + NaOH → CHOH + NaCl|CHCl + NOH → CHOH + NaCl
+CHCl + NaOH → CHOH + NaCl|CHCl  NaOH → CHOH  NaCl
+CHCl + NaOH → CHOH + NaCl|CHCl + NaO → CHOH + NaCl
+CHCl + NaOH → CHOH + NaCl|CHbCl + NaOH → CHOH + NaCl

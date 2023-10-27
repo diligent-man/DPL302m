@@ -152,10 +152,9 @@ def en_preprocessing() -> None:
         text_preprocessor.split_into_sentence()
         text_preprocessor.set_data_path(text_preprocessor.get_preprocessed_data_path())
 
-        text_preprocessor.eliminate_contraction()
-        text_preprocessor.set_data_path(text_preprocessor.get_preprocessed_data_path())
+        # text_preprocessor.eliminate_contraction()
 
-        regex_dict = {0: [r"[~!@#$%\^&\*()\_,，./<>\?;:：\"\[\]\{\}\\|“”\u2122\u00A90-9\u300A\u300B]*", ""],  # punctuation_marks_and_numeral
+        regex_dict = {0: [r"[~!@#$%\^&\*\(\)\_,，./<>\?;:：\"\[\]\{\}\\|“”\u2122\u00A90-9\u300A\u300B]*", ""],  # punctuation_marks_and_numeral
                       1: [r"[–]", ""], 
                       2: [r"[\u4E00-\u9FFF]", ""], # Chinese hieroglyphs
                       3: [r"[\u00E0\u00E1\u1EA3\u00E3\u1EA1\u00E2\u1EA7\u1EA5\u1EAD\u1EAB\u1EAF\u0103\u1EB1\u1EAF\u1EB5\u1EB3\u1EB7\u00E8\u00E9\u1EBB\u1EBD\u1EB9\u00EA\u1EC1\u1EBF\u1EC3\u1EC5\u1EC7\u0111\u00EC\u00ED\u1EC9\u0129\u1ECB\u00F2\u00F3\u1ECF\u00F5\u1ECD\u00F4\u1ED3\u1ED1\u1ED5\u1ED7\u1ED9\u01A1\u1EDD\u1EDB\u1EDF\u1EE1\u1EE3\u00F9\u00FA\u1EE7\u0169\u1EE5\u1EEB\u1EE9\u1EED\u1EEF\u1EF1\u1EF3\u00FD\u1EF7\u1EF9\u1EF5\u00C0\u00C1\u00C2\u00C3\u00C4\u00C7\u00C8\u00C9\u00CA\u00CB\u00CE\u00CF\u00D4\u0152\u00D9\u00DA\u00DB\u00DC\u0178\u00E0\u00E1\u00E2\u00E3\u00E4\u00E7\u00E8\u00E9\u00EA\u00EB\u00EE\u00EF\u00F4\u0153\u00F9\u00FA\u00FB\u00FC\u00FD\u00FF]", ""], # Vietnamese chars

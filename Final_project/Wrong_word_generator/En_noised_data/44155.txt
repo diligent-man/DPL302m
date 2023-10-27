@@ -1,0 +1,10 @@
+displaystyle mathrm H YX=mathrm H XY-mathrm H X+mathrm H Y|displaystyle mathrm H rYX=mathrm H XrY-mathrm H X+mathrm H rY
+displaystyle mathrm H YX=mathrm H XY-mathrm H X+mathrm H Y|displaystyle mathrm H YX=mahrm H XY-mathrm H X+mathrm H Y
+displaystyle mathrm H YX=mathrm H XY-mathrm H X+mathrm H Y|dispmlaystyle mathrm H YX=mathrm H XY-mathrm H X+mathrm H Y
+displaystyle mathrm H YX=mathrm H XY-mathrm H X+mathrm H Y|displaystyle masthrm H YX=masthrm H XY-masthrm H X+masthrm H Y
+displaystyle mathrm H YX=mathrm H XY-mathrm H X+mathrm H Y|displaystyle mathrm H X=mathrm H X-mathrm H X+mathrm H 
+displaystyle mathrm H YX=mathrm H XY-mathrm H X+mathrm H Y|displaystyle mathrm H X=mathrm H X-mathrm H X+mathrm H 
+displaystyle mathrm H YX=mathrm H XY-mathrm H X+mathrm H Y|displaystyle mathrm  YX=mathrm  XY-mathrm  X+mathrm  Y
+displaystyle mathrm H YX=mathrm H XY-mathrm H X+mathrm H Y|displaystyle mathrm fH YX=mathrm fH XY-mathrm fH X+mathrm fH Y
+displaystyle mathrm H YX=mathrm H XY-mathrm H X+mathrm H Y|displaystyle mathrm vH YX=mathrm vH XY-mathrm vH X+mathrm vH Y
+displaystyle mathrm H YX=mathrm H XY-mathrm H X+mathrm H Y|displaystyle mathrm H YX=matrm H XY-mathrm H X+mathrm H Y

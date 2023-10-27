@@ -269,3 +269,4 @@ def test_telex_wrong_vn() -> None:
     return None
 
     
+test_telex_wrong_vn()

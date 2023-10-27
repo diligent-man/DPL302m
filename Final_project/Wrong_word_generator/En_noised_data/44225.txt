@@ -1,0 +1,10 @@
+A cat is an animal 'Cat' denotes an animal|A ca is an animal 'Cat' denotes an animal
+A cat is an animal 'Cat' denotes an animal| cat is an animal 'Cat' denotes an animal
+A cat is an animal 'Cat' denotes an animal|A cat is n nimal 'Cat' denotes n nimal
+A cat is an animal 'Cat' denotes an animal|A cat is an animal 'Cat' edenotes an animal
+A cat is an animal 'Cat' denotes an animal|A cat is an anizmal 'Cat' denotes an anizmal
+A cat is an animal 'Cat' denotes an animal| cat is an animal 'Cat' denotes an animal
+A cat is an animal 'Cat' denotes an animal|aA cat is an animal 'Cat' denotes an animal
+A cat is an animal 'Cat' denotes an animal|A cat is an animal 'Cat' denmotes an animal
+A cat is an animal 'Cat' denotes an animal|fA cat is an animal 'Cat' denotes an animal
+A cat is an animal 'Cat' denotes an animal|A cat is an animal 'pCat' denotes an animal

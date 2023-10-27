@@ -279,13 +279,13 @@ def add_noise(sentence: str) -> str:
 
 
 def add_noise_eng() -> None:
-    path = '../Data_preping/Data_gathering/En/Preprocessed_data/'
     num_of_wrong_sentence = 10
 
-    with open(path + 'corpus.txt', 'r') as reader:
-        with open(path + 'noised_corpus.txt', 'w') as writer:
-            for line in reader:
-                print(line)
+    with open('en_corpus.txt', 'r') as reader:
+        counter = 0
+        for line in reader:
+            print(line)
+            with open('En_noised_data/' + f'{counter}.txt', 'w') as writer:
                 for i in range(num_of_wrong_sentence):
                     incorect_sentence = add_noise(line)
                     correct_sentence = line
@@ -293,8 +293,9 @@ def add_noise_eng() -> None:
                     # ensure incorrect sentence must differ from correct sentence
                     while incorect_sentence == correct_sentence:
                         incorect_sentence = add_noise(line)
-                    
+                
                     writer.write(correct_sentence[:-1] + '|' + incorect_sentence)
+            counter += 1
     return None
 
 
@@ -304,8 +305,8 @@ def add_noised_vn() -> None:
 
 ###############################################################################
 def main() -> None:
-    # add_noise_eng()
-    add_noised_vn()
+    add_noise_eng()
+    # add_noised_vn()
     return None
 
 

@@ -1,0 +1,10 @@
+displaystyle varphi t=cXnabla varphi cdot nabla varphi|displaystyle varphi t=cXnaba varphi cdot naba varphi
+displaystyle varphi t=cXnabla varphi cdot nabla varphi|displaystyle varphi t=cyXnabla varphi cdot nabla varphi
+displaystyle varphi t=cXnabla varphi cdot nabla varphi|displaystyle vjarphi t=cXnabla vjarphi cdot nabla vjarphi
+displaystyle varphi t=cXnabla varphi cdot nabla varphi|displaystyle parvhi t=cXnabla parvhi cdot nabla parvhi
+displaystyle varphi t=cXnabla varphi cdot nabla varphi|displaystyle varpi t=cXnabla varpi cdot nabla varpi
+displaystyle varphi t=cXnabla varphi cdot nabla varphi|displaystyle parvhi t=cXnabla parvhi cdot nabla parvhi
+displaystyle varphi t=cXnabla varphi cdot nabla varphi|displaystyle varphi t=cXnaibla varphi cdot nabla varphi
+displaystyle varphi t=cXnabla varphi cdot nabla varphi|displaystyle varphi t=pcXnabla varphi cdot nabla varphi
+displaystyle varphi t=cXnabla varphi cdot nabla varphi|displaystylie varphi t=cXnabla varphi cdot nabla varphi
+displaystyle varphi t=cXnabla varphi cdot nabla varphi|displaystyle varphi t=cXnaba varphi cdot naba varphi
