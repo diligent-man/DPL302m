@@ -2,6 +2,7 @@ import os
 import re
 import shutil
 
+from pprint import pprint as pp
 from typing_error_gen import *
 from confusion_set import vi_syllables
 from normalize import vn_sentence_to_telex_type, chuan_hoa_dau_tu_tieng_viet
@@ -43,23 +44,25 @@ class TextPreprocessor:
                 with open(self.__data_path + '/' + filename, 'r', encoding='utf-16') as f:
                     # Split by paragraph
                     data = f.read().split('\n')
-                    paragraph = [paragraph.strip() for paragraph in data if len(paragraph) != 0]
-                    # Split by period
-                    paragraph = [sentence.split('. ') for sentence in paragraph]
-                    # Take only available sentence
-                    sentences = [sentence for sentences in paragraph for sentence in sentences if len(sentence) != 0]
-            else:
-                with open(self.__data_path + '/' + filename, 'r', encoding='utf-8') as f:
-                    # Split by paragraph
-                    data = f.read().split('\n')
+ 
                     paragraph = [paragraph.strip() for paragraph in data if len(paragraph) != 0]
                     # Split by period
                     paragraph = [sentence.split('. ') for sentence in paragraph]
                     # Take only available sentence
                     sentences = [sentence for sentences in paragraph for sentence in sentences if len(sentence) != 0]
 
+            else:
+                with open(self.__data_path + '/' + filename, 'r', encoding='utf-8') as f:
+                    # Split by paragraph
+                    data = f.read().split('\n')
+                    
+                    paragraph = [paragraph.strip() for paragraph in data if len(paragraph) != 0]
+                    # Split by period
+                    paragraph = [sentence.split('. ') for sentence in paragraph]
+                    # Take only available sentence
+                    sentences = [sentence for sentences in paragraph for sentence in sentences if len(sentence) != 0]
             # save data to preprocessed_data folder
-            data = '\n'.join(sentences)        
+            data = '\n'.join(sentences)
             self.__save_preprocessed_data(self.__preprocessed_data_path, filename, data)
 
     def remove_by_regex(self, regex_dict):
@@ -110,24 +113,24 @@ def vn_preprocessing() -> None:
 
     # split into singular sentence
     for category in category_ls:
-        print(category)
         text_preprocessor = TextPreprocessor()
         text_preprocessor.set_data_path(data_dir + '/' + category)
         text_preprocessor.set_preprocessed_data_path(preprocessed_data_dir + '/' + category)
 
         # remove preprocessed data dir if it exists
-        if category in os.listdir(preprocessed_data_dir):
-            shutil.rmtree(path=preprocessed_data_dir + '/' + category)
-        os.mkdir(path=preprocessed_data_dir + '/' + category, mode=0o777)
+        # if category in os.listdir(preprocessed_data_dir):
+        #     shutil.rmtree(path=preprocessed_data_dir + '/' + category)
+        # os.mkdir(path=preprocessed_data_dir + '/' + category, mode=0o777)
 
         # perform splitting
-        text_preprocessor.split_into_sentence()
+        # text_preprocessor.split_into_sentence()
+        print(text_preprocessor.get_preprocessed_data_path())
         text_preprocessor.set_data_path(text_preprocessor.get_preprocessed_data_path())
 
         regex_dict = {0: [r"[~!@#$%\^&\*()\_,，./<>\?;:：\"\[\]\{\}\\|“”0-9\+=]*", ""],  # punctuation_marks_and_numeral
                       1: [r"[-–]", ""], # hyphen & dash
                      }
-        text_preprocessor.remove_by_regex(regex_dict)
+        # text_preprocessor.remove_by_regex(regex_dict)
         text_preprocessor.standardize_mark()
 
 
