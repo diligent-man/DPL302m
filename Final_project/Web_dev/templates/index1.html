@@ -4,94 +4,84 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!---link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='styles/textarea_style.css')}}"--->
     <script
     type="module"
     src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js" ></script><script
     nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
-    <link rel="stylesheet" href="/templates/textarea_style.css" />
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles/textarea_style.css') }}">
     <title>Spelling checker</title>
 </head>
 
-<body>
+<body >
 <div class="header">
-    <nav id="desktop-nav">
+    <nav id="desktop_nav">
         <div class ="logo">SPELLING CHECKER</div>
         <div>
-            <ul class ="nav-links">
+            <ul class ="nav_links">
                 <li><a href ="about.html">About</a></li>
                 <li><a href ="#contact">Contact</a></li>
     
             </ul>
         </div>
     </nav>
-    <nav id="hamburger-nav">
+    <nav id="hamburger_nav">
         <div class ="logo"><b>SPELLING CHECKER</b></div>
-        <div class="hamburger-menu">
-            <div class="hamburger-icon" onclick="toggleMenu()">
+        <div class="hamburger_menu">
+            <div class="hamburger_icon" onclick="toggleMenu()">
                 <span></span>
                 <span></span>
             </div>
-            <div class ="menu-links">
+            <div class ="menu_links">
                 <li><a href ="#about" onclick="toggleMenu()">About</a></li>
                 <li><a href ="#contact" onclick ="toggleMenu()">Contact</a></li>
             </div>
             </div>
     </nav>
-    <form action="/" method="post" id="spellingForm">
     <section id="main">
+        <div class="dropdown_toggle">
+            <ion-icon name="globe_outline"></ion-icon>
+        <form action="/" method="post" id="spellingForm">
+            
+            <select name="language" id="language" class="language-dropdown" style="background-color:#ff88aa" onchange="changeLanguage()">
+                <option value="English" style="background-color:#FF88AA;text-align: center;">English</option>
+                <option value="Vietnamese" style="background-color:#FF88AA;text-align: center;">Vietnamese</option>
+            </select>
+        </div>
     <div class="container">
-        <div class="card input-wrapper" >
+        <div class="card input_wrapper" >
         <div class="from">
         <!--custom select--->
-            <div class = "dropdown-container" id="input-language">
-                <div class="dropdown-toggle">
-                    <ion-icon name="globe-outline"></ion-icon>
-                    <!--span class="selected">English</span-->
-                    <select name="language" id="language" class="language-dropdown" style="background-color:#ff88aa" onchange="changeLanguage()">
-                        <option value="English" style="background-color:#FF88AA;text-align: center;">English</option>
-                        <option value="Vietnamese" style="background-color:#FF88AA;text-align: center;">Vietnamese</option>
-                    </select>
-                </div>
-                <ul class="dropdown-menu">
-                    <li class="option">Vietnamese</li>
-                </ul>
+            <div class = "dropdown_container" id="input_language">
             </div>
         </div>
-        <div class ="text-area">
+        <div class ="text_area">
             <textarea
-                id ="input-text"
+                id ="input_text"
+                spellcheck="false"
+                autocapitalize="off"
+                autocomplete="off"
                 cols="30"
                 rows="10"
-                placeholder ="Enter your text here"></textarea>
-            <div class ="chars">
-                <span id="input-chars">0</span> / 5000</div>
-                <button class="button">Process</button>
+                placeholder ="Enter your text here">{{input_text}}</textarea>
+            <div>
+                <div class ="chars">
+                    <span id="input_chars">0</span> / 1000</div>
+                    <div id="alert">The word can not be more than 1000</div>
+                    <button class="button">Process</button>
+                </div>
             </div>
         </div>
         <div class ="center"></div>
-        <div class="card output-wrapper">
-            <div class="to">
-            <span class="heading"></span>
-            <div class="dropdown-container" id="output">
-                <div class="dropdown-toggle"> </div>
-            </div>
-            </div>
-            <textarea id="output-text" cols="30" rows="10" placeholder=".............."disabled
-            ></textarea>
-           
-            
+        <div class="card output_wrapper">
+            <textarea id="output_text"  cols="30" rows="10" placeholder=".............."disabled
+            >{{output_text}}</textarea>
     </div>
-    </section>
-
-    </form>
-
-
+</section>
+</form>
+    <script src="{{ url_for('static',filename='script/script.js') }}"></script>
 
 
 
-
-
-
-    <scrip src="script.js"></scrip>
 </body>
 </html>

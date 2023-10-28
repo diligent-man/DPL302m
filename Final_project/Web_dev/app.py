@@ -1,36 +1,26 @@
-# from flask import Flask, render_template, request, redirect
-#
-# app = Flask(__name__)
-#
-# @app.route('/')
-# def show_html():
-#     return render_template('frontend.html')
-#
-# if __name__ == '__main__':
-#     app.run(debug=True)
-
-
 from flask import Flask, render_template, request, jsonify
+app = Flask(__name__, template_folder="./templates", static_folder="./static")
 
-app = Flask(__name__)
-
-@app.route('/', methods=['GET', 'POST'])
+@app.route('/', methods=['GET','POST'])
 def show_html():
-    freeform2_data = ''
-    freeform1_data = ''
+    input_text = ''
+    output_text = ''
     language = 'English'
+
     if request.method == 'POST':
-        # Lấy dữ laiệu từ biểu mẫu nếu là phương thức POST
-        freeform1_data = request.form.get('freeform1')
+        input_text = request.form.get('input_text')
         language = request.form.get('language', 'English')
         print(language)
         if language == "English":
-            freeform2_data = "This is model for English"
+            output_text = "This is model for English".upper()
         elif language == "Vietnamese":
-            freeform2_data = "This is model for Vietnamese"
+            output_text = "This is model for Vietnamese".upper()
 
-    return render_template('index1.html', freeform2=freeform2_data, freeform1=freeform1_data, lang = language)
+    return render_template('index1.html', output_text=output_text, input_text=input_text, lang=language)
 
+@app.route('/about.html', methods=['GET','POST'])
+def about_us():
+    return render_template('about.html')
 
 if __name__ == '__main__':
     app.run(debug=True)
