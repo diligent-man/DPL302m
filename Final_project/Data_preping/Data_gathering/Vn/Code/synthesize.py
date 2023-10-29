@@ -3,7 +3,7 @@ import shutil
 
 
 def main() -> None:
-    if 'corpus.txt' in os.listdir('../../../../Wrong_word_generator/'):
+    if 'vn_corpus.txt' in os.listdir('../../../../Wrong_word_generator/'):
             os.remove(path='../../../../Wrong_word_generator/' + 'vn_corpus.txt')
 
     category_ls = ['am_thuc', 'doi_song', 'du_lich', 'gia_dinh', 'the_gioi',
@@ -19,7 +19,7 @@ def main() -> None:
             with open(file=file, mode='r') as reader:
                 with open (file='../../../../Wrong_word_generator/vn_corpus.txt', mode='a') as writer:
                     writer.write(reader.read())
-    shutil.rmtree('../Preprocessed_data/' + category)
+    shutil.rmtree('../Preprocessed_data/')
     return None
 
 

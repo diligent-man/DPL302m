@@ -1,0 +1,10 @@
+if confirm'gui y kien toi ban bien tap'|if confirm'gui y kien toi ban ben tap'
+if confirm'gui y kien toi ban bien tap'|if confirm'gui y qkine toi ban bien tap'
+if confirm'gui y kien toi ban bien tap'|f confirm'gui y kien toi ban bien tap'
+if confirm'gui y kien toi ban bien tap'|if confirm'gui y kien toi ba bien tap'
+if confirm'gui y kien toi ban bien tap'|if confirm'gui y kien toi ban bien tap'c
+if confirm'gui y kien toi ban bien tap'|f confirm'gui y kien toi ban bien tap'
+if confirm'gui y kien toi ban bien tap'|ifx confirm'gui y kien toi ban bien tap'
+if confirm'gui y kien toi ban bien tap'|fi confirm'gui y kien toi ban bien tap'
+if confirm'gui y kien toi ban bien tap'|if confirm'gui y kien toi ban bien tap'y
+if confirm'gui y kien toi ban bien tap'|f confirm'gui y kien toi ban bien tap'

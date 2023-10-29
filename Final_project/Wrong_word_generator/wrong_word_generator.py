@@ -5,7 +5,7 @@ wrong_word_generator
     remove_char()
 
     # For En
-    insert_char_english()
+    insert_char()
     swap_char_english()
 
     # For Vn
@@ -19,17 +19,15 @@ Telex Reference:
 
 Telex rule: Telex requires the user to type in a base letter, followed by one or two characters that represent the diacritical marks:
 """
-# sys.path.append('../../../..')
 import os
 import re
 import string
 import random
-import zipfile
-from itertools import count, permutations
-
-from numpy import corrcoef
+import numpy as np
 
 
+#######################################################################################
+# Two dicts for wrong_tone_pos funs
 tonal_mapping_1 = {
     'ảo': ['aỏ'], 'áo': ['aó'], 'ào': ['aò'], 'ạo': ['aọ'], 'ão': ['aõ'],
     'ải': ['aỉ'], 'ái': ['aí'], 'ài': ['aì'], 'ại': ['aị'], 'ãi': ['aĩ'],
@@ -125,8 +123,24 @@ tonal_mapping_2 = {
     'ướng': ['ứơng'], 'ường': ['ừơng'], 'ượng': ['ựơng'], 'uyết':['uýêt'],
     'uyến':['uýên'], 'uyền':['uỳên'], 'uyển':['uỷên']
 }
+######################################################################################
+# This section for expand_telex_error
+bang_nguyen_am = [['a', 'à', 'á', 'ả', 'ã', 'ạ', 'a'],
+                  ['ă', 'ằ', 'ắ', 'ẳ', 'ẵ', 'ặ', 'aw'],
+                  ['â', 'ầ', 'ấ', 'ẩ', 'ẫ', 'ậ', 'aa'],
+                  ['e', 'è', 'é', 'ẻ', 'ẽ', 'ẹ', 'e'],
+                  ['ê', 'ề', 'ế', 'ể', 'ễ', 'ệ', 'ee'],
+                  ['i', 'ì', 'í', 'ỉ', 'ĩ', 'ị', 'i'],
+                  ['o', 'ò', 'ó', 'ỏ', 'õ', 'ọ', 'o'],
+                  ['ô', 'ồ', 'ố', 'ổ', 'ỗ', 'ộ', 'oo'],
+                  ['ơ', 'ờ', 'ớ', 'ở', 'ỡ', 'ợ', 'ow'],
+                  ['u', 'ù', 'ú', 'ủ', 'ũ', 'ụ', 'u'],
+                  ['ư', 'ừ', 'ứ', 'ử', 'ữ', 'ự', 'uw'],
+                  ['y', 'ỳ', 'ý', 'ỷ', 'ỹ', 'ỵ', 'y']]
+bang_ky_tu_dau = ['', 'f', 's', 'r', 'x', 'j']
 
 
+######################################################################################
 class WrongWordGenerator:
     def __init__(self):
         self.__word = ""
@@ -136,13 +150,40 @@ class WrongWordGenerator:
 
     def set_word(self, word: str):
         self.__word = word
-    
+
     @staticmethod
-    def __swap(word, pos_1, pos_2) -> str:
-        tmp = word[pos_1]
-        word = word.replace(word[pos_1], word[pos_2], 1)
-        word = word.replace(word[pos_2], tmp, 1)
-        return word
+    def __expand_telex_error(word) -> str:
+        """
+
+        - Insert cuối - trường hợp đặc biệt: 'thủyy -> code chạy: 'thuyyr' -> ko đúng. Đúng: 'thuyry'
+        - Insert bất kỳ - chạy bình thường
+        """
+        nguyen_am_to_ids = {}
+        for i in range(len(bang_nguyen_am)):
+            for j in range(len(bang_nguyen_am[i]) - 1):
+                nguyen_am_to_ids[bang_nguyen_am[i][j]] = (i, j)
+        dau_cau = 0
+        new_word = ''
+        for char in word:
+            x, y = nguyen_am_to_ids.get(char, (-1, -1))
+            if x == -1:
+                new_word += char
+                continue
+            if y != 0:
+                dau_cau = y
+            new_word += bang_nguyen_am[x][-1]
+        new_word += bang_ky_tu_dau[dau_cau]
+
+        # swap last char vs penultimate char
+        # When insert into the last pos, it yields 'thủyy' -> 'thuyyr'
+        # but it should be 'thuyry'
+        pos_1 = len(new_word) - 1
+        pos_2 = len(new_word) - 2
+        
+        tmp = new_word[pos_1]
+        new_word = new_word.replace(new_word[pos_1], new_word[pos_2], 1)
+        new_word = new_word.replace(new_word[pos_2], tmp, 1)
+        return new_word
 
     def remove_char(self) -> str:
         """
@@ -158,7 +199,7 @@ class WrongWordGenerator:
         word = word[: pos] + word[pos + 1:]
         return word
 
-    def insert_char_english(self) -> str:
+    def insert_char(self, language) -> str:
         """
         Example:
             inp: "hi"
@@ -173,19 +214,22 @@ class WrongWordGenerator:
         
         # insert random char into word
         word = word[:pos_1] + alphabet[pos_2] + word[pos_1:]
+
+        bang_nguyen_am_co_dau = np.array(bang_nguyen_am)[:, 1:-1]
+        bang_nguyen_am_co_dau = [ele for row in bang_nguyen_am_co_dau for ele in row]
+        flag = True # check whether tonal vowel exist in word or not
+        for char in bang_nguyen_am_co_dau:
+            if char in word:
+                flag = True
+                break
+
+        if language == 'vn' and flag == True:
+            word = self.__expand_telex_error(word)
         return word
 
-    def swap_char_english(self) -> str:
-        """
-        Input: word
-
-        Output: dict that key is the original word,
-                value is the string of wrong words separated by delimiter ', '
-        Example
-            inp: hello
-            out: {"hello": "its_permutations"}
-        """
+    def swap_char(self, language) -> str:
         word = self.get_word()
+
         pos_1 = random.randrange(0, len(word))
         pos_2 = random.randrange(0, len(word))
         
@@ -194,11 +238,19 @@ class WrongWordGenerator:
             while pos_2 == pos_1:
                 pos_1 = random.randrange(0, len(word))
                 pos_2 = random.randrange(0, len(word))
-        return self.__swap(word, pos_1, pos_2)
+        # swap char
+        tmp = word[pos_1]
+        word = word.replace(word[pos_1], word[pos_2], 1)
+        word = word.replace(word[pos_2], tmp, 1)
+
+        # if vn, perform expand telex typo
+        if language == 'vn':
+            word = self.__expand_telex_error(word)
+        return word
 
 
     ##########################################################################
-    def  wrong_tone_pos_vn(self) -> list:
+    def wrong_tone_pos_vn(self) -> str:
         '''
         Examples: {"hiếu": "híêu, hiêú"}
                   {"giường": "giừơng"}
@@ -223,11 +275,16 @@ class WrongWordGenerator:
                     for value in tonal_mapping_1 [key]:
                         wrong_word = word[:-len(key)] + value
                         result.append(wrong_word)
-        return result
+
+        if len(result) == 1:
+            return result[0]
+        else:
+            word_index = random.randrange(0, len(result))
+            return result[word_index]
 
 
 ###############################################################################
-def add_noise(sentence: str) -> str:
+def add_noise(sentence: str, language: str) -> str:
     """
     Input: single sentence
            num_of_wrong_sentence: how many wrong sentences are generated
@@ -243,13 +300,9 @@ def add_noise(sentence: str) -> str:
              correct sentence|incorrect sentence_5
     
     Constraints:
-        len(sen) > 20: sai 5 words
-        len(sen) > 10: sai 2 words
-
-    Naming convention:
-        sentence_0.txt
-        sentence_1.txt
-        sentence_2.txt
+        20 < len(sen) > 30: 7 wrong words
+        10 < len(sen) > 20: 5 wrong words
+        len(sen) <= 10: 3 wrong words
     """
     wrong_word_generator = WrongWordGenerator()
     if len(sentence.split()) <= 10:
@@ -267,32 +320,42 @@ def add_noise(sentence: str) -> str:
 
         # randomize method that's gonna be applied
         method_index = random.randrange(0, 3)
-        if method_index == 0: # insert
-            generated_result = wrong_word_generator.insert_char_english()
-
-        elif method_index == 1: # remove
+        if method_index == 0: # remove
             generated_result = wrong_word_generator.remove_char()
 
+        elif method_index == 1: # insert
+            generated_result = wrong_word_generator.insert_char(language)
+
         elif method_index == 2: # swap
-            generated_result = wrong_word_generator.swap_char_english()
+            generated_result = wrong_word_generator.swap_char(language)
+        
+        elif method_index == 3 and language == 'vn': # wrong_tone_pos
+            generated_result = wrong_word_generator.wrong_tone_pos_vn()
+
     return sentence.replace(sentence.split()[word_index], generated_result)
 
 
-def add_noise_eng() -> None:
+def generate_wrong_word(language) -> None:
     num_of_wrong_sentence = 10
+    if language == "en":
+        filename = 'en_corpus.txt'
+        save_path = 'En_noised_data/'
+    elif language == 'vn':
+        filename = 'vn_corpus.txt'
+        save_path = 'Vn_noised_data/'
 
-    with open('en_corpus.txt', 'r') as reader:
+    with open(filename, 'r') as reader:
         counter = 0
         for line in reader:
             print(line)
-            with open('En_noised_data/' + f'{counter}.txt', 'w') as writer:
+            with open(save_path + f'{counter}.txt', 'w') as writer:
                 for i in range(num_of_wrong_sentence):
-                    incorect_sentence = add_noise(line)
+                    incorect_sentence = add_noise(line, language)
                     correct_sentence = line
 
                     # ensure incorrect sentence must differ from correct sentence
                     while incorect_sentence == correct_sentence:
-                        incorect_sentence = add_noise(line)
+                        incorect_sentence = add_noise(line, language)
                 
                     writer.write(correct_sentence[:-1] + '|' + incorect_sentence)
             counter += 1
@@ -300,13 +363,9 @@ def add_noise_eng() -> None:
 
 
 ###############################################################################
-def add_noised_vn() -> None:
-    pass
-
-###############################################################################
 def main() -> None:
-    add_noise_eng()
-    # add_noised_vn()
+    # generate_wrong_word("en")
+    generate_wrong_word("vn")
     return None
 
 

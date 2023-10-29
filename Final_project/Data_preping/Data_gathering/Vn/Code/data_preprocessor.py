@@ -3,9 +3,7 @@ import re
 import shutil
 
 from pprint import pprint as pp
-from typing_error_gen import *
-from confusion_set import vi_syllables
-from normalize import vn_sentence_to_telex_type, chuan_hoa_dau_tu_tieng_viet
+from normalize import chuan_hoa_dau_cau_tieng_viet
 
 
 class TextPreprocessor:
@@ -91,9 +89,7 @@ class TextPreprocessor:
                 data = ''
                 for line in f:
                     # Apply the punctuation normalization function from normalize.py
-                    normalized_line = chuan_hoa_dau_tu_tieng_viet(line)
-                    # Apply the punctuation normalization function from typing_error_gen.py
-                    normalized_line = vn_sentence_to_telex_type(normalized_line)
+                    normalized_line = chuan_hoa_dau_cau_tieng_viet(line)
                     # Remove extra spaces and ensure spaces between words
                     normalized_line = ' '.join(normalized_line.strip().split())
                     # If the normalized line is not empty, save it
@@ -118,19 +114,19 @@ def vn_preprocessing() -> None:
         text_preprocessor.set_preprocessed_data_path(preprocessed_data_dir + '/' + category)
 
         # remove preprocessed data dir if it exists
-        # if category in os.listdir(preprocessed_data_dir):
-        #     shutil.rmtree(path=preprocessed_data_dir + '/' + category)
-        # os.mkdir(path=preprocessed_data_dir + '/' + category, mode=0o777)
+        if category in os.listdir(preprocessed_data_dir):
+            shutil.rmtree(path=preprocessed_data_dir + '/' + category)
+        os.mkdir(path=preprocessed_data_dir + '/' + category, mode=0o777)
 
         # perform splitting
-        # text_preprocessor.split_into_sentence()
+        text_preprocessor.split_into_sentence()
         print(text_preprocessor.get_preprocessed_data_path())
         text_preprocessor.set_data_path(text_preprocessor.get_preprocessed_data_path())
 
         regex_dict = {0: [r"[~!@#$%\^&\*()\_,，./<>\?;:：\"\[\]\{\}\\|“”0-9\+=]*", ""],  # punctuation_marks_and_numeral
                       1: [r"[-–]", ""], # hyphen & dash
                      }
-        # text_preprocessor.remove_by_regex(regex_dict)
+        text_preprocessor.remove_by_regex(regex_dict)
         text_preprocessor.standardize_mark()
 
 
