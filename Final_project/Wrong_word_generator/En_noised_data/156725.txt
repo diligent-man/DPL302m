@@ -1,10 +1,10 @@
-displaystyle Ato BLeftrightarrow lnot Bto lnot A|displaystyle tAo BLeftrightarrow lnot Bto lnot A
-displaystyle Ato BLeftrightarrow lnot Bto lnot A|displaystyle gAto BLeftrightarrow lnot Bto lnot gA
-displaystyle Ato BLeftrightarrow lnot Bto lnot A|displaystyle Ato BLeftrightarrow lnot Bot lnot A
-displaystyle Ato BLeftrightarrow lnot Bto lnot A|displaystyle Ato BLeftrightarrow lnnot Bto lnnot A
-displaystyle Ato BLeftrightarrow lnot Bto lnot A|displaystyle Ato BLeftrightarrow lnot Bot lnot A
-displaystyle Ato BLeftrightarrow lnot Bto lnot A|displaystyle Ato BLeftrightarrow lot Bto lot A
-displaystyle Ato BLeftrightarrow lnot Bto lnot A|displaystyle Ato BLeftrightarrow klnot Bto klnot A
-displaystyle Ato BLeftrightarrow lnot Bto lnot A|dislaystyle Ato BLeftrightarrow lnot Bto lnot A
-displaystyle Ato BLeftrightarrow lnot Bto lnot A|displaystyloe Ato BLeftrightarrow lnot Bto lnot A
-displaystyle Ato BLeftrightarrow lnot Bto lnot A|displaystyle Ato BLegtrifhtarrow lnot Bto lnot A
+not-A implies B negation not-B not-A must false must true principle known reductio ad absurdum|not-A implies B neoatign not-B not-A must false must true principle known reductio ad absurdum
+not-A implies B negation not-B not-A must false must true principle known reductio ad absurdum|not-A implies B negation not-B not-A must false must true principle known redeuctio ad absurdum
+not-A implies B negation not-B not-A must false must true principle known reductio ad absurdum|not-A implies bB negation not-bB not-A must false must true principle known reductio ad absurdum
+not-A implies B negation not-B not-A must false must true principle known reductio ad absurdum|not-A implies B negation not-B not-A must alse must true principle known reductio ad absurdum
+not-A implies B negation not-B not-A must false must true principle known reductio ad absurdum|not-A implies B negation not-B not-A must false must true principle known reductio ad absrdum
+not-A implies B negation not-B not-A must false must true principle known reductio ad absurdum|not-A implies B neagtion not-B not-A must false must true principle known reductio ad absurdum
+not-A implies B negation not-B not-A must false must true principle known reductio ad absurdum|not-A implies B negation not-B not-A must false must true principle known reductio awd absurdum
+not-A implies B negation not-B not-A must false must true principle known reductio ad absurdum|not-A implies B negation not-B not-A must false must true principle konwn reductio ad absurdum
+not-A implies B negation not-B not-A must false must true principle known reductio ad absurdum|not-A implies B negation not-B not-A must false must true principle known reductio a absurdum
+not-A implies B negation not-B not-A must false must true principle known reductio ad absurdum|not-A implies B negation not-B not-A mut false mut true principle known reductio ad absurdum

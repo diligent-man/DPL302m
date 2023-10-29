@@ -1,10 +1,10 @@
-that assume prescribed values on the boundary of|that ssume prescribed values on the boundary of
-that assume prescribed values on the boundary of|that assume prescribed values no the boundary of
-that assume prescribed values on the boundary of|that assume prescribed values on the boundarhy of
-that assume prescribed values on the boundary of|that assume prescribed values on eht boundary of
-that assume prescribed values on the boundary of|that assume prescribed values on the boudnary of
-that assume prescribed values on the boundary of|that assume prescribed vlues on the boundary of
-that assume prescribed values on the boundary of|taht assume prescribed values on the boundary of
-that assume prescribed values on the boundary of|that assume prescribed values on the boundary ojf
-that assume prescribed values on the boundary of|that asume prescribed values on the boundary of
-that assume prescribed values on the boundary of|that assume prescribed values on the boundary oqf
+displaystyle iint Dnabla cdot vnabla udxdy=iint Dnabla ucdot nabla v+vnabla cdot nabla udxdy=int Cvfrac partial upartial nds|displaystyle iinmt Dnabla cdot vnabla udxdy=iinmt Dnabla ucdot nabla v+vnabla cdot nabla udxdy=int Cvfrac partial upartial nds
+displaystyle iint Dnabla cdot vnabla udxdy=iint Dnabla ucdot nabla v+vnabla cdot nabla udxdy=int Cvfrac partial upartial nds|displaystyle iint Dnabla cdot vnabla udxdy=iint Dnabla ucdo nabla v+vnabla cdot nabla udxdy=int Cvfrac partial upartial nds
+displaystyle iint Dnabla cdot vnabla udxdy=iint Dnabla ucdot nabla v+vnabla cdot nabla udxdy=int Cvfrac partial upartial nds|displaystyle iint Dnabtla cdot vnabtla udxdy=iint Dnabtla ucdot nabtla v+vnabtla cdot nabtla udxdy=int Cvfrac partial upartial nds
+displaystyle iint Dnabla cdot vnabla udxdy=iint Dnabla ucdot nabla v+vnabla cdot nabla udxdy=int Cvfrac partial upartial nds|displaystyle iint Dnabla cdot vnabla udxdy=iint Dnabla ucdot nabla v+vnabla cdot nabla udxdy=int Cvfrahc partial upartial nds
+displaystyle iint Dnabla cdot vnabla udxdy=iint Dnabla ucdot nabla v+vnabla cdot nabla udxdy=int Cvfrac partial upartial nds|displaystyle iint Dnaba cdot vnaba udxdy=iint Dnaba ucdot naba v+vnaba cdot naba udxdy=int Cvfrac partial upartial nds
+displaystyle iint Dnabla cdot vnabla udxdy=iint Dnabla ucdot nabla v+vnabla cdot nabla udxdy=int Cvfrac partial upartial nds|displaystyle iint Dnabla cdot vnabla udxdy=iit Dnabla ucdot nabla v+vnabla cdot nabla udxdy=int Cvfrac partial upartial nds
+displaystyle iint Dnabla cdot vnabla udxdy=iint Dnabla ucdot nabla v+vnabla cdot nabla udxdy=int Cvfrac partial upartial nds|displaystyle iint Dnabla cdot vnala udxdy=iint Dnabla ucdot nabla v+vnala cdot nabla udxdy=int Cvfrac partial upartial nds
+displaystyle iint Dnabla cdot vnabla udxdy=iint Dnabla ucdot nabla v+vnabla cdot nabla udxdy=int Cvfrac partial upartial nds|displaystyle iint Dnabla cdot vnabla udxdy=iint Dnabla ucdot nabla v+vnabla cdot nabla udydx=int Cvfrac partial upartial nds
+displaystyle iint Dnabla cdot vnabla udxdy=iint Dnabla ucdot nabla v+vnabla cdot nabla udxdy=int Cvfrac partial upartial nds|displaystyle iint Dnala cdot vnabla udxdy=iint Dnala ucdot nabla v+vnabla cdot nabla udxdy=int Cvfrac partial upartial nds
+displaystyle iint Dnabla cdot vnabla udxdy=iint Dnabla ucdot nabla v+vnabla cdot nabla udxdy=int Cvfrac partial upartial nds|displaystyle iint Dnabla cdot vnabla udxdy=iint Dnabla ucdoht nabla v+vnabla cdot nabla udxdy=int Cvfrac partial upartial nds

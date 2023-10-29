@@ -1,10 +1,10 @@
-These solutions correspond to spheres whose radius grows or shrinks with velocity c|These solutions orrespond to spheres whose radius grows or shrinks with veloity 
-These solutions correspond to spheres whose radius grows or shrinks with velocity c|These solutions dcorrespond to spheres whose radius grows or shrinks with velodcity dc
-These solutions correspond to spheres whose radius grows or shrinks with velocity c|These soultions correspond to spheres whose radius grows or shrinks with velocity c
-These solutions correspond to spheres whose radius grows or shrinks with velocity c|These solutions correspond to spheres whose radius grows or skrinhs with velocity c
-These solutions correspond to spheres whose radius grows or shrinks with velocity c|These solutions correspond to spheres whose radius grows or shirnks with velocity c
-These solutions correspond to spheres whose radius grows or shrinks with velocity c|These solutions correspond to spheres whose radius grows or slhrinks with velocity c
-These solutions correspond to spheres whose radius grows or shrinks with velocity c|These solutions kcorrespond to spheres whose radius grows or shrinks with velokcity kc
-These solutions correspond to spheres whose radius grows or shrinks with velocity c|These solutions correspond to spheres whse radius grows or shrinks with velocity c
-These solutions correspond to spheres whose radius grows or shrinks with velocity c|These solutions correspond to spheres whos radius grows or shrinks with velocity c
-These solutions correspond to spheres whose radius grows or shrinks with velocity c|These solutions correspond to spherxes whose radius grows or shrinks with velocity c
+displaystyle frac cvec x-vec xquad hboxis stationary forquad vec xin|displaystyle frac cvec x-vec dxquad hboxis stationary forquad vec xin
+displaystyle frac cvec x-vec xquad hboxis stationary forquad vec xin|displaystyle frac cvec x-vec xquad hboxis stationary forquad vec xn
+displaystyle frac cvec x-vec xquad hboxis stationary forquad vec xin|displaystyle frac cvec x-vc xquad hboxis stationary forquad vec xin
+displaystyle frac cvec x-vec xquad hboxis stationary forquad vec xin|displaystyle frac cvec -vec xquad hboxis stationary forquad vec xin
+displaystyle frac cvec x-vec xquad hboxis stationary forquad vec xin|displaystyle frac cvec xvec xquad hboxis stationary forquad vec xin
+displaystyle frac cvec x-vec xquad hboxis stationary forquad vec xin|displaystyle frac cvec x-vec xquad hboxis stationary forqua vec xin
+displaystyle frac cvec x-vec xquad hboxis stationary forquad vec xin|displaystyle frac vec x-vec xquad hboxis stationary forquad vec xin
+displaystyle frac cvec x-vec xquad hboxis stationary forquad vec xin|displaystyle frac cvec x-vec xquad hboxis stationary foquad vec xin
+displaystyle frac cvec x-vec xquad hboxis stationary forquad vec xin|displaystyle craf cvec x-vec xquad hboxis stationary forquad vec xin
+displaystyle frac cvec x-vec xquad hboxis stationary forquad vec xin|displaystyle frac cvec x-vec xquad hboxis stationary forquad vec in

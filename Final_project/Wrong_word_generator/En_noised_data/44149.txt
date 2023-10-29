@@ -1,10 +1,10 @@
-displaystyle mathrm H YX=mathrm H XY-mathrm H X|displaystyle mathrm cH YX=mathrm cH XY-mathrm cH X
-displaystyle mathrm H YX=mathrm H XY-mathrm H X|displaystylle mathrm H YX=mathrm H XY-mathrm H X
-displaystyle mathrm H YX=mathrm H XY-mathrm H X|displaystyle mathrm  YX=mathrm  XY-mathrm  X
-displaystyle mathrm H YX=mathrm H XY-mathrm H X|displaystyle mathrm H YX=mathrm H X-mathrm H X
-displaystyle mathrm H YX=mathrm H XY-mathrm H X|dilpsaystyle mathrm H YX=mathrm H XY-mathrm H X
-displaystyle mathrm H YX=mathrm H XY-mathrm H X|displaystyle matrm H YX=matrm H XY-matrm H X
-displaystyle mathrm H YX=mathrm H XY-mathrm H X|dihsplaystyle mathrm H YX=mathrm H XY-mathrm H X
-displaystyle mathrm H YX=mathrm H XY-mathrm H X|dqisplaystyle mathrm H YX=mathrm H XY-mathrm H X
-displaystyle mathrm H YX=mathrm H XY-mathrm H X|displaystyle mathrm H YX=rmathrm H XY-mathrm H X
-displaystyle mathrm H YX=mathrm H XY-mathrm H X|displaystyle mathrm  YX=mathrm  XY-mathrm  X
+displaystyle mathrm H XXldots Xn=sum i=nmathrm H XiXldots Xi-|displaystyle athrm H XXldots Xn=sum i=nathrm H XiXldots Xi-
+displaystyle mathrm H XXldots Xn=sum i=nmathrm H XiXldots Xi-|displaystyle matxhrm H XXldots Xn=sum i=nmatxhrm H XiXldots Xi-
+displaystyle mathrm H XXldots Xn=sum i=nmathrm H XiXldots Xi-|displaystyle mathtrm H XXldots Xn=sum i=nmathtrm H XiXldots Xi-
+displaystyle mathrm H XXldots Xn=sum i=nmathrm H XiXldots Xi-|displaystyle mathrm cH XXldots Xn=sum i=nmathrm cH XiXldots Xi-
+displaystyle mathrm H XXldots Xn=sum i=nmathrm H XiXldots Xi-|displaystyle mathrm H XXludots Xn=sum i=nmathrm H XiXldots Xi-
+displaystyle mathrm H XXldots Xn=sum i=nmathrm H XiXldots Xi-|displaystyle athrm H XXldots Xn=sum i=nathrm H XiXldots Xi-
+displaystyle mathrm H XXldots Xn=sum i=nmathrm H XiXldots Xi-|displaystyle mathrm H XXldots Xn=sum i=nmpathrm H XiXldots Xi-
+displaystyle mathrm H XXldots Xn=sum i=nmathrm H XiXldots Xi-|displaystysle mathrm H XXldots Xn=sum i=nmathrm H XiXldots Xi-
+displaystyle mathrm H XXldots Xn=sum i=nmathrm H XiXldots Xi-|displaystyle mathrm H XXldots Xn=sum i=nmrtham H XiXldots Xi-
+displaystyle mathrm H XXldots Xn=sum i=nmathrm H XiXldots Xi-|displaystyle mathrm H XXldots Xn=susm i=nmathrm H XiXldots Xi-

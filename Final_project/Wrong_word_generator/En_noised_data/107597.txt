@@ -1,10 +1,10 @@
-Level L Instruction cache KiB in size|Level L Instxruction cache KiB in size
-Level L Instruction cache KiB in size|Level L Instruction cache pKiB in size
-Level L Instruction cache KiB in size|Level L Invstruction cache KiB in size
-Level L Instruction cache KiB in size|evel  Instruction cache KiB in size
-Level L Instruction cache KiB in size|Level L Instrction cache KiB in size
-Level L Instruction cache KiB in size|nLevel nL Instruction cache KiB in size
-Level L Instruction cache KiB in size|Level L Instruction cache iB in size
-Level L Instruction cache KiB in size|Level L Instruction cache KiB ni size
-Level L Instruction cache KiB in size|Leel L Instruction cache KiB in size
-Level L Instruction cache KiB in size|Level L Instruction cache KiB i size
+Level L Shared cache MiB size|Levl L Shared cache MiB size
+Level L Shared cache MiB size|Level L Shared cache MiB msize
+Level L Shared cache MiB size|Level L Shared cache kMiB size
+Level L Shared cache MiB size|Level L Shared chcae MiB size
+Level L Shared cache MiB size|evel L Shared cache MiB size
+Level L Shared cache MiB size|hLevel hL Shared cache MiB size
+Level L Shared cache MiB size|evel  Shared cache MiB size
+Level L Shared cache MiB size|Level L Shared cache MiB ize
+Level L Shared cache MiB size|Level L Sared cache MiB size
+Level L Shared cache MiB size|Level L Shard cache MiB size

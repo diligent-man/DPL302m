@@ -1,10 +1,10 @@
-This corresponds to an external force density|This corresponds to n external force density
-This corresponds to an external force density|This corresponds to a external force density
-This corresponds to an external force density|This corresponds to ann external force density
-This corresponds to an external force density|fThis corresponds to an external force density
-This corresponds to an external force density|This corresonds to an external force density
-This corresponds to an external force density|This cdorresponds to an external force density
-This corresponds to an external force density|This corresponds to an external ferco density
-This corresponds to an external force density|This corresponds to an externla force density
-This corresponds to an external force density|This corresponds to an external forcve density
-This corresponds to an external force density|This corresponds to an external force decnsity
+displaystyle iint Dleftnabla ucdot nabla v+fvrightdxdy+int Cleftsigma uv+gvrightds=|displaystyle iint Dleftnabla ucdot nabla v+fvrightdxdy+int Cleftsigma uh+gvrigvtds=
+displaystyle iint Dleftnabla ucdot nabla v+fvrightdxdy+int Cleftsigma uv+gvrightds=|adisplaystyle iint Dleftnabla ucdot nabla v+fvrightdxdy+int Cleftsigma uv+gvrightds=
+displaystyle iint Dleftnabla ucdot nabla v+fvrightdxdy+int Cleftsigma uv+gvrightds=|displaystyle iint Dleftnbla ucdot nabla v+fvrightdxdy+int Cleftsigma uv+gvrightds=
+displaystyle iint Dleftnabla ucdot nabla v+fvrightdxdy+int Cleftsigma uv+gvrightds=|displaystyle iin Dleftnabla ucdot nabla v+fvrightdxdy+int Cleftsigma uv+gvrightds=
+displaystyle iint Dleftnabla ucdot nabla v+fvrightdxdy+int Cleftsigma uv+gvrightds=|displaystyle iint Dleftnabla ucdot nabla v+fvrightdxdy+int Clleftsigma uv+gvrightds=
+displaystyle iint Dleftnabla ucdot nabla v+fvrightdxdy+int Cleftsigma uv+gvrightds=|displaystyle iitn Dleftnabla ucdot nabla v+fvrightdxdy+int Cleftsigma uv+gvrightds=
+displaystyle iint Dleftnabla ucdot nabla v+fvrightdxdy+int Cleftsigma uv+gvrightds=|displaysktyle iint Dleftnabla ucdot nabla v+fvrightdxdy+int Cleftsigma uv+gvrightds=
+displaystyle iint Dleftnabla ucdot nabla v+fvrightdxdy+int Cleftsigma uv+gvrightds=|displaystyle iint Dleftnabla ucdot nabla vi+fvrightdxdy+int Cleftsigma uv+gvrightds=
+displaystyle iint Dleftnabla ucdot nabla v+fvrightdxdy+int Cleftsigma uv+gvrightds=|displaystyle iint Dleftnabla ucdot nabla v+fvrightxdy+int Cleftsigma uv+gvrightds=
+displaystyle iint Dleftnabla ucdot nabla v+fvrightdxdy+int Cleftsigma uv+gvrightds=|displaystyle iint Dleftnabla ucdot nabla v+fvrightdxdy+int Cletfsigma uv+gvrightds=

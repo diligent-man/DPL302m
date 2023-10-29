@@ -1,10 +1,10 @@
-The set of bounded hyperreals is not internal|The set of bouded hyperreals is not internal
-The set of bounded hyperreals is not internal|The set of bounded hyperreals wis not internal
-The set of bounded hyperreals is not internal|The set o bounded hyperreals is not internal
-The set of bounded hyperreals is not internal|The set f bounded hyperreals is not internal
-The set of bounded hyperreals is not internal|The set of bounded hyperreals is nont internal
-The set of bounded hyperreals is not internal|The set of bounded hyeprreals is not internal
-The set of bounded hyperreals is not internal|The set of bounded hyperreals is not internl
-The set of bounded hyperreals is not internal|The set of bounded hyperreals is no internal
-The set of bounded hyperreals is not internal|The set of bounded yperreals is not internal
-The set of bounded hyperreals is not internal|Te set of bounded hyperreals is not internal
+displaystyle forall epsilon mathbb R +exists delta mathbb R +hleq delta implies fx+h-fxleq varepsilon|displaysityle forall epsilon mathbb R +exists delta mathbb R +hleq delta implies fx+h-fxleq varepsilon
+displaystyle forall epsilon mathbb R +exists delta mathbb R +hleq delta implies fx+h-fxleq varepsilon|displaystyle forall epsilon bathmb R +exists delta bathmb R +hleq delta implies fx+h-fxleq varepsilon
+displaystyle forall epsilon mathbb R +exists delta mathbb R +hleq delta implies fx+h-fxleq varepsilon|displaystyle forall epsizlon mathbb R +exists delta mathbb R +hleq delta implies fx+h-fxleq varepsizlon
+displaystyle forall epsilon mathbb R +exists delta mathbb R +hleq delta implies fx+h-fxleq varepsilon|displaystyle forall epsilon mathbb R +exists delta mathbb R +hleq delta implies fx+h-fxleq varesilon
+displaystyle forall epsilon mathbb R +exists delta mathbb R +hleq delta implies fx+h-fxleq varepsilon|displaystyle forall epsilon mathbb tR +exists delta mathbb tR +hleq delta implies fx+h-fxleq varepsilon
+displaystyle forall epsilon mathbb R +exists delta mathbb R +hleq delta implies fx+h-fxleq varepsilon|displaystyle forall epsiulon mathbb R +exists delta mathbb R +hleq delta implies fx+h-fxleq varepsiulon
+displaystyle forall epsilon mathbb R +exists delta mathbb R +hleq delta implies fx+h-fxleq varepsilon|displaystyle forall epsilon mathbb R +exists dlelta mathbb R +hleq dlelta implies fx+h-fxleq varepsilon
+displaystyle forall epsilon mathbb R +exists delta mathbb R +hleq delta implies fx+h-fxleq varepsilon|displaystyle foroall epsilon mathbb R +exists delta mathbb R +hleq delta implies fx+h-fxleq varepsilon
+displaystyle forall epsilon mathbb R +exists delta mathbb R +hleq delta implies fx+h-fxleq varepsilon|displaystyle forall epsilon masthbb R +exists delta masthbb R +hleq delta implies fx+h-fxleq varepsilon
+displaystyle forall epsilon mathbb R +exists delta mathbb R +hleq delta implies fx+h-fxleq varepsilon|displaystyle forall epsilon mathb R +exists delta mathb R +hleq delta implies fx+h-fxleq varepsilon

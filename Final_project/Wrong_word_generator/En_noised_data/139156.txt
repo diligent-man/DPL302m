@@ -1,10 +1,10 @@
-displaystyle L=int varphi varphi sqrt frac nrvarphi +rdvarphi =aint limits varphi varphi varphi n-sqrt n+varphi dvarphi|displaystyle L=int varphi varphi sqrt frac nrvarphi +rdvarphi =int limits varphi varphi varphi n-sqrt n+varphi dvarphi
-displaystyle L=int varphi varphi sqrt frac nrvarphi +rdvarphi =aint limits varphi varphi varphi n-sqrt n+varphi dvarphi|displaystyle L=int varphi varphi sqrt frac nrvarphri +rdvarphi =aint limits varphi varphi varphi n-sqrt n+varphi dvarphi
-displaystyle L=int varphi varphi sqrt frac nrvarphi +rdvarphi =aint limits varphi varphi varphi n-sqrt n+varphi dvarphi|displaystyle L=itn varphi varphi sqrt frac nrvarphi +rdvarphi =aint limits varphi varphi varphi n-sqrt n+varphi dvarphi
-displaystyle L=int varphi varphi sqrt frac nrvarphi +rdvarphi =aint limits varphi varphi varphi n-sqrt n+varphi dvarphi|displaystyle L=int varphi varphi sqrt frac nrvarphi +rdvaorphi =aint limits varphi varphi varphi n-sqrt n+varphi dvarphi
-displaystyle L=int varphi varphi sqrt frac nrvarphi +rdvarphi =aint limits varphi varphi varphi n-sqrt n+varphi dvarphi|displaystyle L=int varphi varphi sqrt arfc nrvarphi +rdvarphi =aint limits varphi varphi varphi n-sqrt n+varphi dvarphi
-displaystyle L=int varphi varphi sqrt frac nrvarphi +rdvarphi =aint limits varphi varphi varphi n-sqrt n+varphi dvarphi|displaystyle L=int vaphi vaphi sqrt frac nrvaphi +rdvaphi =aint limits vaphi vaphi vaphi n-sqrt n+vaphi dvaphi
-displaystyle L=int varphi varphi sqrt frac nrvarphi +rdvarphi =aint limits varphi varphi varphi n-sqrt n+varphi dvarphi|displajystyle L=int varphi varphi sqrt frac nrvarphi +rdvarphi =aint limits varphi varphi varphi n-sqrt n+varphi dvarphi
-displaystyle L=int varphi varphi sqrt frac nrvarphi +rdvarphi =aint limits varphi varphi varphi n-sqrt n+varphi dvarphi|displaystyle L=int varphi varphi sqrt frac nrvarphi +rdvarphi =aint limits varphi varphi varphi n-sqirt n+varphi dvarphi
-displaystyle L=int varphi varphi sqrt frac nrvarphi +rdvarphi =aint limits varphi varphi varphi n-sqrt n+varphi dvarphi|displaystyle L=int varphi varphi sqrt frac nrvarphi +rdvarphi =aint limits varphi varphi varphi n-sqrt fn+varphi dvarphi
-displaystyle L=int varphi varphi sqrt frac nrvarphi +rdvarphi =aint limits varphi varphi varphi n-sqrt n+varphi dvarphi|displaystyle L=int varphi varphi sqrt frac nrvarphi +rdvarphi =aint limits varphi varphi varphi on-sqrt n+varphi dvarphi
+displaystyle L=tfrac sqrt k+kbig rvarphi -rvarphi big|displaystyle L=trac sqrt k+kbig rvarphi -rvarphi big
+displaystyle L=tfrac sqrt k+kbig rvarphi -rvarphi big|displaystyle L=tfrac qrt k+kbig rvarphi -rvarphi big
+displaystyle L=tfrac sqrt k+kbig rvarphi -rvarphi big|displaystyle L=tfrac sqrt k+kbi rvarphi -rvarphi bi
+displaystyle L=tfrac sqrt k+kbig rvarphi -rvarphi big|displaystyle L=tfrac sqrt k+kig rvarphi -rvarphi ig
+displaystyle L=tfrac sqrt k+kbig rvarphi -rvarphi big|displaystyle L=tfrac sqrt k+kpbig rvarphi -rvarphi pbig
+displaystyle L=tfrac sqrt k+kbig rvarphi -rvarphi big|displaystyle L=tfrac sqrt kikb+g rvarphi -rvarphi big
+displaystyle L=tfrac sqrt k+kbig rvarphi -rvarphi big|displaystyle Ltfrac sqrt k+kbig rvarphi -rvarphi big
+displaystyle L=tfrac sqrt k+kbig rvarphi -rvarphi big|displaystyle L=tdfrac sqrt k+kbig rvarphi -rvarphi big
+displaystyle L=tfrac sqrt k+kbig rvarphi -rvarphi big|displaystyle L=tfrac sqrt k+kbig rvarphi -rmvarphi big
+displaystyle L=tfrac sqrt k+kbig rvarphi -rvarphi big|dsplaystyle L=tfrac sqrt k+kbig rvarphi -rvarphi big

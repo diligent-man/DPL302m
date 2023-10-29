@@ -1,10 +1,10 @@
-As the EIB runs at half the system clock rate the effective channel rate is bytes every two system clocks|As the EIB runs at half the systm clock rate the effective channel rate is bytes every two systm clocks
-As the EIB runs at half the system clock rate the effective channel rate is bytes every two system clocks|As the EIB runs at half the system clock rate the effective channel rate i bytes every two system clocks
-As the EIB runs at half the system clock rate the effective channel rate is bytes every two system clocks|As the EIB runs at half the system clock rate the effective channel rate jis bytes every two system clocks
-As the EIB runs at half the system clock rate the effective channel rate is bytes every two system clocks|As thwe EIB runs at half thwe system clock rate thwe effective channel rate is bytes every two system clocks
-As the EIB runs at half the system clock rate the effective channel rate is bytes every two system clocks|As the EIB runs at half the system clock rate the effective channel rate is byctes every two system clocks
-As the EIB runs at half the system clock rate the effective channel rate is bytes every two system clocks|As the EIB runs at half the system clock rate the effective channel rate is bytes every two system clock
-As the EIB runs at half the system clock rate the effective channel rate is bytes every two system clocks|As the EIB runs at half the system clock rate the effecttive channel rate is bytes every two system clocks
-As the EIB runs at half the system clock rate the effective channel rate is bytes every two system clocks|As the EIB runs at half the system clock rat the effective channel rat is bytes every two system clocks
-As the EIB runs at half the system clock rate the effective channel rate is bytes every two system clocks|As the EIB rruns at half the system clock rate the effective channel rate is bytes every two system clocks
-As the EIB runs at half the system clock rate the effective channel rate is bytes every two system clocks|As the EIB runs at half the ysstem clock rate the effective channel rate is bytes every two ysstem clocks
+participant EIB one -byte read port one -byte write port|participant EIB one -qbyte read port one -qbyte write port
+participant EIB one -byte read port one -byte write port|participant EB one -byte read port one -byte write port
+participant EIB one -byte read port one -byte write port|participant BIE one -byte read port one -byte write port
+participant EIB one -byte read port one -byte write port|participant EIB onte -byte read port onte -byte write port
+participant EIB one -byte read port one -byte write port|participant EIB one -bygte read port one -bygte write port
+participant EIB one -byte read port one -byte write port|participant EIB one b-yte read port one b-yte write port
+participant EIB one -byte read port one -byte write port|participant EIB one -byte read port one -byte wrfite port
+participant EIB one -byte read port one -byte write port|participant EIB one -byte read pojrt one -byte write pojrt
+participant EIB one -byte read port one -byte write port|participjant EIB one -byte read port one -byte write port
+participant EIB one -byte read port one -byte write port|participant EIB on -byte read port on -byte write port

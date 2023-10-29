@@ -1,10 +1,10 @@
-displaystyle log mathcal Lalpha beta mid x=alpha log beta -log Gamma alpha +alpha -log x-beta x|displaystyle log mathcal Lalpha beta mid x=alpha log beta -lg Gamma alpha +alpha -lg x-beta x
-displaystyle log mathcal Lalpha beta mid x=alpha log beta -log Gamma alpha +alpha -log x-beta x|displaystyle log mathcal Lalpha beta mid x=alpha log beta log Gamma alpha +alpha log x-beta x
-displaystyle log mathcal Lalpha beta mid x=alpha log beta -log Gamma alpha +alpha -log x-beta x|displaystyle log mathcal laLpha beta mid x=alpha log beta -log Gamma alpha +alpha -log x-beta x
-displaystyle log mathcal Lalpha beta mid x=alpha log beta -log Gamma alpha +alpha -log x-beta x|displaystyle log mathcal Lalpha beta mid x=alpha log beta -log Gamma alpha +alpha -log xi-beta x
-displaystyle log mathcal Lalpha beta mid x=alpha log beta -log Gamma alpha +alpha -log x-beta x|displaystyle log mathcal Lalha beta mid x=alha log beta -log Gamma alha +alha -log x-beta x
-displaystyle log mathcal Lalpha beta mid x=alpha log beta -log Gamma alpha +alpha -log x-beta x|displaystyle log mathcal Lalpha beta md x=alpha log beta -log Gamma alpha +alpha -log x-beta x
-displaystyle log mathcal Lalpha beta mid x=alpha log beta -log Gamma alpha +alpha -log x-beta x|displaystyle log mathcal Lalpha beta mid x=alpha log beta -log Gamma alpha +alpha -log x-bejta x
-displaystyle log mathcal Lalpha beta mid x=alpha log beta -log Gamma alpha +alpha -log x-beta x|displaystyle log mathcal Lalpha beta mid =alpha log beta -log Gamma alpha +alpha -log x-beta x
-displaystyle log mathcal Lalpha beta mid x=alpha log beta -log Gamma alpha +alpha -log x-beta x|displaystyle log mathcal Lalpha bta mid x=alpha log bta -log Gamma alpha +alpha -log x-bta x
-displaystyle log mathcal Lalpha beta mid x=alpha log beta -log Gamma alpha +alpha -log x-beta x|displaystyle log mathcal Lalpha beta mid x=alpha log beta -log Gamma alpha +alpha -log x-bet x
+joint log-likelihood sum individual log-likelihoods derivative sum sum derivatives individual log-likelihood|joint log-likelihood sum indivdual log-likelihoods derivative sum sum derivatives indivdual log-likelihood
+joint log-likelihood sum individual log-likelihoods derivative sum sum derivatives individual log-likelihood|joint log-likelihood su individual log-likelihoods derivative su su derivatives individual log-likelihood
+joint log-likelihood sum individual log-likelihoods derivative sum sum derivatives individual log-likelihood|joit log-likelihood sum individual log-likelihoods derivative sum sum derivatives individual log-likelihood
+joint log-likelihood sum individual log-likelihoods derivative sum sum derivatives individual log-likelihood|joint lsog-likelihood sum individual lsog-likelihoods derivative sum sum derivatives individual lsog-likelihood
+joint log-likelihood sum individual log-likelihoods derivative sum sum derivatives individual log-likelihood|joint log-likelihood sum individual log-likelihoods derivative sum sum derivatbives individual log-likelihood
+joint log-likelihood sum individual log-likelihoods derivative sum sum derivatives individual log-likelihood|joint log-likelihood sum individual log-likelihoods derivative sum sum deivatives individual log-likelihood
+joint log-likelihood sum individual log-likelihoods derivative sum sum derivatives individual log-likelihood|joint log-likelihood csum individual log-likelihoods derivative csum csum derivatives individual log-likelihood
+joint log-likelihood sum individual log-likelihoods derivative sum sum derivatives individual log-likelihood|join log-likelihood sum individual log-likelihoods derivative sum sum derivatives individual log-likelihood
+joint log-likelihood sum individual log-likelihoods derivative sum sum derivatives individual log-likelihood|joint logy-likelihood sum individual logy-likelihoods derivative sum sum derivatives individual logy-likelihood
+joint log-likelihood sum individual log-likelihoods derivative sum sum derivatives individual log-likelihood|joint log-likelihood sm individual log-likelihoods derivative sm sm derivatives individual log-likelihood

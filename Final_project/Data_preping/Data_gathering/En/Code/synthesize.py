@@ -2,14 +2,14 @@ import os
 import shutil
 
 def main() -> None:
-    if 'corpus.txt' in os.listdir('../../../../Wrong_word_generator/'):
+    if 'en_corpus.txt' in os.listdir('../../../../Wrong_word_generator/'):
             os.remove(path='../../../../Wrong_word_generator/' + 'en_corpus.txt')
 
     metadata = {"category_ls_1": ['Business', 'Entertainment', 'Health', 'Sport', 'Style', 'Tech', 'Travel', 'Weather','World'],
                 "category_ls_2": ['Ted_talk', 'Wiki'],
                 "data_dir_1": ['../Data/BBC'],
                 "data_dir_2": ['../Data'],
-                "preprocessed_data_dien_r_1": ["../Preprocessed_data/BBC"],
+                "preprocessed_data_dir_1": ["../Preprocessed_data/BBC"],
                 "preprocessed_data_dir_2": ["../Preprocessed_data"]
                      }
     index_1 = index_2 = 0

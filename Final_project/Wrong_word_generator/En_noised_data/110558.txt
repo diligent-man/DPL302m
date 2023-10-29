@@ -1,10 +1,10 @@
-EstimationThe interpolation by simple kriging is given by|EstimationThe interpolation by simple kriging si given by
-EstimationThe interpolation by simple kriging is given by|EstimationThe interpolation by simple kriging s given by
-EstimationThe interpolation by simple kriging is given by|EstimationThe interpolation uby simple kriging is given uby
-EstimationThe interpolation by simple kriging is given by|EstimationThe interpolation by simple kriging i given by
-EstimationThe interpolation by simple kriging is given by|EstiationThe interpolation by simple kriging is given by
-EstimationThe interpolation by simple kriging is given by|EstimationThe interpolation by smiple kriging is given by
-EstimationThe interpolation by simple kriging is given by|EstimationThe interpolatizon by simple kriging is given by
-EstimationThe interpolation by simple kriging is given by|EstimationThe interpolation by simple kriging ijs given by
-EstimationThe interpolation by simple kriging is given by|EstimationThe interpolation y simple kriging is given y
-EstimationThe interpolation by simple kriging is given by|EstimationThe interpolation by simple ksriging is given by
+displaystyle operatorname Var big Zxbig =operatorname Var big hat Zxbig +operatorname Var big hat Zx-Zxbig|displaystyle operatorname Var big Zxbig =operatorname Var big hat Zxbig +opertorname Var big hat Zx-Zxbig
+displaystyle operatorname Var big Zxbig =operatorname Var big hat Zxbig +operatorname Var big hat Zx-Zxbig|displaystyle operatorname Var bi Zxbi =operatorname Var bi hat Zxbi +operatorname Var bi hat Zx-Zxbi
+displaystyle operatorname Var big Zxbig =operatorname Var big hat Zxbig +operatorname Var big hat Zx-Zxbig|displaystyle operatornaqme Var big Zxbig =operatornaqme Var big hat Zxbig +operatornaqme Var big hat Zx-Zxbig
+displaystyle operatorname Var big Zxbig =operatorname Var big hat Zxbig +operatorname Var big hat Zx-Zxbig|displaystyle opeatorname Var big Zxbig =opeatorname Var big hat Zxbig +opeatorname Var big hat Zx-Zxbig
+displaystyle operatorname Var big Zxbig =operatorname Var big hat Zxbig +operatorname Var big hat Zx-Zxbig|displaystyle operatorname Va big Zxbig =operatorname Va big hat Zxbig +operatorname Va big hat Zx-Zxbig
+displaystyle operatorname Var big Zxbig =operatorname Var big hat Zxbig +operatorname Var big hat Zx-Zxbig|displaystyle operatorname Vdar big Zxbig =operatorname Vdar big hat Zxbig +operatorname Vdar big hat Zx-Zxbig
+displaystyle operatorname Var big Zxbig =operatorname Var big hat Zxbig +operatorname Var big hat Zx-Zxbig|displaystyle operatorname Vkar big Zxbig =operatorname Vkar big hat Zxbig +operatorname Vkar big hat Zx-Zxbig
+displaystyle operatorname Var big Zxbig =operatorname Var big hat Zxbig +operatorname Var big hat Zx-Zxbig|displaystyle operatorname Va big Zxbig =operatorname Va big hat Zxbig +operatorname Va big hat Zx-Zxbig
+displaystyle operatorname Var big Zxbig =operatorname Var big hat Zxbig +operatorname Var big hat Zx-Zxbig|displaystyle operatorname ar big Zxbig =operatorname ar big hat Zxbig +operatorname ar big hat Zx-Zxbig
+displaystyle operatorname Var big Zxbig =operatorname Var big hat Zxbig +operatorname Var big hat Zx-Zxbig|displaystyle operatorname Var bnig Zxbnig =operatorname Var bnig hat Zxbnig +operatorname Var bnig hat Zx-Zxbnig

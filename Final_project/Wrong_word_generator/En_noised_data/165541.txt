@@ -1,10 +1,10 @@
-displaystyle leftPhi langle cdot cdot rangle vwright=langle vwrangle|displaystyle leftPhi langle cdot cdot rangle nvwright=langle vwrangle
-displaystyle leftPhi langle cdot cdot rangle vwright=langle vwrangle|displaystyle leftPhi ganlle cdot cdot rangle vwright=ganlle vwrangle
-displaystyle leftPhi langle cdot cdot rangle vwright=langle vwrangle|displaystyle leftPhi langl cdot cdot rangle vwright=langl vwrangle
-displaystyle leftPhi langle cdot cdot rangle vwright=langle vwrangle|displaystyle leftPhi langle cqdot cqdot rangle vwright=langle vwrangle
-displaystyle leftPhi langle cdot cdot rangle vwright=langle vwrangle|displaystyle leftPhi langle cdot cdot rangkle vwright=langle vwrangkle
-displaystyle leftPhi langle cdot cdot rangle vwright=langle vwrangle|displaystyle leftPhi langle qcdot qcdot rangle vwright=langle vwrangle
-displaystyle leftPhi langle cdot cdot rangle vwright=langle vwrangle|displaystyle leftPhi langle ecdot ecdot rangle vwright=langle vwrangle
-displaystyle leftPhi langle cdot cdot rangle vwright=langle vwrangle|displaystyle leftPhi lancgle cdot cdot rangle vwright=lancgle vwrangle
-displaystyle leftPhi langle cdot cdot rangle vwright=langle vwrangle|isplaystyle leftPhi langle cdot cdot rangle vwright=langle vwrangle
-displaystyle leftPhi langle cdot cdot rangle vwright=langle vwrangle|diesplaystyle leftPhi langle cdot cdot rangle vwright=langle vwrangle
+displaystyle langle vwrangle Phi =Phi vw=Phi vw|displaystyle langle vwrengla Phi =Phi vw=Phi vw
+displaystyle langle vwrangle Phi =Phi vw=Phi vw|displaystyle langle vwrcangle Phi =Phi vw=Phi vw
+displaystyle langle vwrangle Phi =Phi vw=Phi vw|displaystyle langle vwrangle Phi =Phi vw=hi vw
+displaystyle langle vwrangle Phi =Phi vw=Phi vw|pdisplaystyle langle vwrangle Phi =Phi vw=Phi vw
+displaystyle langle vwrangle Phi =Phi vw=Phi vw|disyplaystyle langle vwrangle Phi =Phi vw=Phi vw
+displaystyle langle vwrangle Phi =Phi vw=Phi vw|displaystyle lawngle vwrangle Phi =Phi vw=Phi vw
+displaystyle langle vwrangle Phi =Phi vw=Phi vw|displaystyle langle vwranle Phi =Phi vw=Phi vw
+displaystyle langle vwrangle Phi =Phi vw=Phi vw|displaystyle langle mvwrangle Phi =Phi mvw=Phi mvw
+displaystyle langle vwrangle Phi =Phi vw=Phi vw|displaystyle langle vwrangle Phi =Pi vw=Pi vw
+displaystyle langle vwrangle Phi =Phi vw=Phi vw|displaystyle langle vwrangle Phi =Pchi vw=Pchi vw

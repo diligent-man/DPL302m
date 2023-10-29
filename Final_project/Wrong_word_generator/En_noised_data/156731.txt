@@ -1,10 +1,10 @@
-displaystyle lnot Aland BLeftrightarrow lnot Alor lnot B|isplaystyle lnot Aland BLeftrightarrow lnot Alor lnot B
-displaystyle lnot Aland BLeftrightarrow lnot Alor lnot B|displaystyle lnt Aland BLeftrightarrow lnt Alor lnt B
-displaystyle lnot Aland BLeftrightarrow lnot Alor lnot B|displaystyle lnot lAand BLeftrightarrow lnot Alor lnot B
-displaystyle lnot Aland BLeftrightarrow lnot Alor lnot B|displaystyle flnot Aland BLeftrightarrow flnot Alor flnot B
-displaystyle lnot Aland BLeftrightarrow lnot Alor lnot B|displaystyle not Aland BLeftrightarrow not Alor not B
-displaystyle lnot Aland BLeftrightarrow lnot Alor lnot B|displaystyle lnot Aland BLeftrightarrow lnot Alonr lnot B
-displaystyle lnot Aland BLeftrightarrow lnot Alor lnot B|displaystyle lnot Aland kBLeftrightarrow lnot Alor lnot kB
-displaystyle lnot Aland BLeftrightarrow lnot Alor lnot B|dispaystyle lnot Aland BLeftrightarrow lnot Alor lnot B
-displaystyle lnot Aland BLeftrightarrow lnot Alor lnot B|displaystyle lnot Aland BLeftrightarrow lnot Alo lnot B
-displaystyle lnot Aland BLeftrightarrow lnot Alor lnot B|displaystyle lnot Aland BLeftrightarrow lnot Alosr lnot B
+implies B B implies C implies C principle known syllogism|implies   implies C implies C principle known syllogism
+implies B B implies C implies C principle known syllogism|imelips B B imelips C imelips C principle known syllogism
+implies B B implies C implies C principle known syllogism|empliis B B empliis C empliis C principle known syllogism
+implies B B implies C implies C principle known syllogism|impalies B B impalies C impalies C principle known syllogism
+implies B B implies C implies C principle known syllogism|implies B B implies C implies C principle kown syllogism
+implies B B implies C implies C principle known syllogism|impies B B impies C impies C principle known syllogism
+implies B B implies C implies C principle known syllogism|implvies B B implvies C implvies C principle known syllogism
+implies B B implies C implies C principle known syllogism|implies B B implies C implies C priniple known syllogism
+implies B B implies C implies C principle known syllogism|implies B B implies  implies  principle known syllogism
+implies B B implies C implies C principle known syllogism|imlies B B imlies C imlies C principle known syllogism

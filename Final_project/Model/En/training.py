@@ -1,10 +1,11 @@
 import os
-
-from sklearn.utils import shuffle
 os.environ["TF_CPP_MIN_LOG_LEVEL"] = "2"
 
+
+import nltk
 import numpy as np
 import tensorflow as tf
+
 from sklearn.model_selection import train_test_split
 
 
@@ -19,6 +20,24 @@ class DataLoader():
 
     def get_path(self):
         return self.__path
+
+
+    @staticmethod
+    def __remove_stop_word(x_train, y_train, x_test, y_test):
+        stop_words = set(stopwords.words('english'))
+        
+        x_train = [word_tokenize(sentence) for sentence in x_train]
+        # y_train = [word_tokenize(sentence) for sentence in y_train] 
+        # x_test = [word_tokenize(sentence) for sentence in x_test]
+        # y_test = [word_tokenize(sentence) for sentence in y_test]
+
+        # x_train = [sentence for sentence in x_train]
+        # y_train = 
+        # x_test = 
+        # y_test = 
+        print(x_train)
+        # filtered_sentence = [w for w in word_tokens if not w.lower() in stop_words]
+        return x_train, y_train, x_test, y_test
 
 
     def load_dataset(self) -> tuple:
@@ -44,6 +63,9 @@ class DataLoader():
                 for line in f:
                     x_test.append(line.split('|')[0].strip())
                     y_test.append(line.split('|')[1].strip())
+
+        # remove stop word and upper case
+        x_train, y_train, x_test, y_test = self.__remove_stop_word(x_train, y_train, x_test, y_test)
         return x_train, y_train, x_test, y_test
 
 

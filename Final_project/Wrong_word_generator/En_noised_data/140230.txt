@@ -1,10 +1,10 @@
-For instance in a linear regression with normally distributed errors|For instance in a linear regression wivth normally distributed errors
-For instance in a linear regression with normally distributed errors|For instance in a linear regressqion with normally distributed errors
-For instance in a linear regression with normally distributed errors|For instance in a linear regression witch normally distributed errors
-For instance in a linear regression with normally distributed errors|For istance i a liear regression with normally distributed errors
-For instance in a linear regression with normally distributed errors|For instance in a linear regresson with normally distributed errors
-For instance in a linear regression with normally distributed errors|Fr instance in a linear regression with normally distributed errors
-For instance in a linear regression with normally distributed errors|For instance in a linear regression with normally distributed erreors
-For instance in a linear regression with normally distributed errors|For instance in a linear regression wbith normally distributed errors
-For instance in a linear regression with normally distributed errors|For instance in a linear regression with norally distributed errors
-For instance in a linear regression with normally distributed errors|For instance in a linear regression with normally distributed erros
+displaystyle beta beta =leftmathbf X mathsf Tmathbf X right-mathbf X mathsf Tleftmathbf -mathbf X beta right|displaystyle beta beta =leftmathbf X mathsf Tmathbf X right-mathrbf X mathsf Tleftmathbf -mathrbf X beta right
+displaystyle beta beta =leftmathbf X mathsf Tmathbf X right-mathbf X mathsf Tleftmathbf -mathbf X beta right|dirsplaystyle beta beta =leftmathbf X mathsf Tmathbf X right-mathbf X mathsf Tleftmathbf -mathbf X beta right
+displaystyle beta beta =leftmathbf X mathsf Tmathbf X right-mathbf X mathsf Tleftmathbf -mathbf X beta right|displaystyle beta beta =leftmathbf pX mathsf Tmathbf pX right-mathbf pX mathsf Tleftmathbf -mathbf pX beta right
+displaystyle beta beta =leftmathbf X mathsf Tmathbf X right-mathbf X mathsf Tleftmathbf -mathbf X beta right|displaystyle beta beta =leftmathbf  mathsf Tmathbf  right-mathbf  mathsf Tleftmathbf -mathbf  beta right
+displaystyle beta beta =leftmathbf X mathsf Tmathbf X right-mathbf X mathsf Tleftmathbf -mathbf X beta right|displaystyle beta beta =leftmathbf X mathf Tmathbf X right-mathbf X mathf Tleftmathbf -mathbf X beta right
+displaystyle beta beta =leftmathbf X mathsf Tmathbf X right-mathbf X mathsf Tleftmathbf -mathbf X beta right|displaystyle beta beta =leftmathbf X mathsf Tmathbf X right-matfbh X mathsf Tleftmathbf -matfbh X beta right
+displaystyle beta beta =leftmathbf X mathsf Tmathbf X right-mathbf X mathsf Tleftmathbf -mathbf X beta right|displaystyle beta beta =leftmathbf X mathsf Tmathbf X jright-mathbf X mathsf Tleftmathbf -mathbf X beta jright
+displaystyle beta beta =leftmathbf X mathsf Tmathbf X right-mathbf X mathsf Tleftmathbf -mathbf X beta right|displaystyle beta beta =leftmathbf wX mathsf Tmathbf wX right-mathbf wX mathsf Tleftmathbf -mathbf wX beta right
+displaystyle beta beta =leftmathbf X mathsf Tmathbf X right-mathbf X mathsf Tleftmathbf -mathbf X beta right|displaystyle beta beta =leftmathbf X mathsf Tmathbf X righthmat-bf X mathsf Tleftmathbf hmat-bf X beta right
+displaystyle beta beta =leftmathbf X mathsf Tmathbf X right-mathbf X mathsf Tleftmathbf -mathbf X beta right|displaystyle beta beta =leftmathbf X mathsf Tmathbf X righ-mathbf X mathsf Tleftmathbf -mathbf X beta righ

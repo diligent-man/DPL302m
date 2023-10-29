@@ -1,10 +1,10 @@
-displaystyle int -infty infty Hrstzmathrm d zleq Minfty|displaystyle int -inftly inftly Hrstzmathrm d zleq Minftly
-displaystyle int -infty infty Hrstzmathrm d zleq Minfty|displaystyle int -infty infty Hrstzmathm d zleq Minfty
-displaystyle int -infty infty Hrstzmathrm d zleq Minfty|displaystyle int -infy infy Hrstzmathrm d zleq Minfy
-displaystyle int -infty infty Hrstzmathrm d zleq Minfty|displaystyle int -ifty ifty Hrstzmathrm d zleq Mifty
-displaystyle int -infty infty Hrstzmathrm d zleq Minfty|displaystyle irnt -infty infty Hrstzmathrm d zleq Minfty
-displaystyle int -infty infty Hrstzmathrm d zleq Minfty|displaystyle int -infty infty Hrstzmathrm d zleq Minfqty
-displaystyle int -infty infty Hrstzmathrm d zleq Minfty|displaystyle int -nfty infty Hrstzmathrm d zleq Minfty
-displaystyle int -infty infty Hrstzmathrm d zleq Minfty|displaystyle int -infty infty Hrstzmathrm d zle Minfty
-displaystyle int -infty infty Hrstzmathrm d zleq Minfty|displaystyle ifnt -infty infty Hrstzmathrm d zleq Minfty
-displaystyle int -infty infty Hrstzmathrm d zleq Minfty|displaystyle int -nfty infty Hrstzmathrm d zleq Minfty
+ensures score finite variance|ensures score finite variaunce
+ensures score finite variance|ensures score finie variance
+ensures score finite variance|ensures score finite varipance
+ensures score finite variance|ensres score finite variance
+ensures score finite variance|esnures score finite variance
+ensures score finite variance|nsures score finite variance
+ensures score finite variance|ensures score inite variance
+ensures score finite variance|ensurejs score finite variance
+ensures score finite variance|ensures score finite varianc
+ensures score finite variance|ensures score finite varoiance

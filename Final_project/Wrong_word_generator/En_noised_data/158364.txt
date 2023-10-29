@@ -1,10 +1,10 @@
-The Leibniz formula for π can be obtained by putting x = into this series|The Leibniz formula for π can be obtained by putting x = iento this series
-The Leibniz formula for π can be obtained by putting x = into this series|The Leibniz formula for π chan be obtained by putting x = into this series
-The Leibniz formula for π can be obtained by putting x = into this series|The Leibniz formula for π nac be obtained by putting x = into this series
-The Leibniz formula for π can be obtained by putting x = into this series|The Leibniz formula for  can be obtained by putting x = into this series
-The Leibniz formula for π can be obtained by putting x = into this series|The Leibniz formula for π can be obtained by putting kx = into this series
-The Leibniz formula for π can be obtained by putting x = into this series|The Leibniz formula for π can be obtained by putting  = into this series
-The Leibniz formula for π can be obtained by putting x = into this series|The Leibniz formula for π can be obtained by putting x = into this eries
-The Leibniz formula for π can be obtained by putting x = into this series|The Leibniz formulha for π can be obtained by putting x = into this series
-The Leibniz formula for π can be obtained by putting x = into this series|The Leibniz formula for π can be obtained by putting x = into his series
-The Leibniz formula for π can be obtained by putting x = into this series|The Leidbniz formula for π can be obtained by putting x = into this series
+displaystyle leq int frac xn++xdxleq int xn+dx=frac n+rightarrow text nrightarrow infty|displaystyle leq int frac xn++xdxleq int xn+dx=frac n+rightarrow text nrightarrow infy
+displaystyle leq int frac xn++xdxleq int xn+dx=frac n+rightarrow text nrightarrow infty|displaystyle leq init frac xn++xdxleq init xn+dx=frac n+rightarrow text nrightarrow infty
+displaystyle leq int frac xn++xdxleq int xn+dx=frac n+rightarrow text nrightarrow infty|displaystyle leq int craf xn++xdxleq int xn+dx=craf n+rightarrow text nrightarrow infty
+displaystyle leq int frac xn++xdxleq int xn+dx=frac n+rightarrow text nrightarrow infty|displaystyle leq int frac xn++xdxleq int xn+dx=frac n+rightarrow text nrightarrow ifty
+displaystyle leq int frac xn++xdxleq int xn+dx=frac n+rightarrow text nrightarrow infty|displaystyle leq int frac xn++xdxleq int xn+dx=frac n+rightarrow text nrightarow infty
+displaystyle leq int frac xn++xdxleq int xn+dx=frac n+rightarrow text nrightarrow infty|dispilaystyle leq int frac xn++xdxleq int xn+dx=frac n+rightarrow text nrightarrow infty
+displaystyle leq int frac xn++xdxleq int xn+dx=frac n+rightarrow text nrightarrow infty|displaystyle leq int frac qn++xdxlex int xn+dx=frac n+rightarrow text nrightarrow infty
+displaystyle leq int frac xn++xdxleq int xn+dx=frac n+rightarrow text nrightarrow infty|displaystyle leq int frc xn++xdxleq int xn+dx=frc n+rightarrow text nrightarrow infty
+displaystyle leq int frac xn++xdxleq int xn+dx=frac n+rightarrow text nrightarrow infty|displaystyle leq int frac xn++xdxleq int xn+dx=frac n+rightarrow text nightarrow infty
+displaystyle leq int frac xn++xdxleq int xn+dx=frac n+rightarrow text nrightarrow infty|displaystyle leq int frac xn++xdxleq int xndx=frac n+rightarrow text nrightarrow infty

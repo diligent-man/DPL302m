@@ -1,10 +1,10 @@
-displaystyle iint Dleftnabla ucdot nabla v+fvrightdxdy+int Cleftsigma uv+gvrightds=|displaystyle iint Dleftnabla ucdot nabla v+fvrightdxdy+int Cleftsigma uv+gvrigtds=
-displaystyle iint Dleftnabla ucdot nabla v+fvrightdxdy+int Cleftsigma uv+gvrightds=|displaystyle iint Dleftnlbaa ucdot nlbaa v+fvrightdxdy+int Cleftsigma uv+gvrightds=
-displaystyle iint Dleftnabla ucdot nabla v+fvrightdxdy+int Cleftsigma uv+gvrightds=|displaystyle iint Dleftnabla ucdot nabla v+fvrightdxdy+int Cleftsigma us+gvrightdv=
-displaystyle iint Dleftnabla ucdot nabla v+fvrightdxdy+int Cleftsigma uv+gvrightds=|displaystyle iint Dleftnabla ucdot nabla v+fvrightdxdy+int Cleftsigkma uv+gvrightds=
-displaystyle iint Dleftnabla ucdot nabla v+fvrightdxdy+int Cleftsigma uv+gvrightds=|displaystyle iint Dleftnabla ucdt nabla v+fvrightdxdy+int Cleftsigma uv+gvrightds=
-displaystyle iint Dleftnabla ucdot nabla v+fvrightdxdy+int Cleftsigma uv+gvrightds=|displaystyle iint Dleftnwabla ucdot nwabla v+fvrightdxdy+int Cleftsigma uv+gvrightds=
-displaystyle iint Dleftnabla ucdot nabla v+fvrightdxdy+int Cleftsigma uv+gvrightds=|displaystyle iint Dyleftnabla ucdot nabla v+fvrightdxdy+int Cleftsigma uv+gvrightds=
-displaystyle iint Dleftnabla ucdot nabla v+fvrightdxdy+int Cleftsigma uv+gvrightds=|displaystyle iint Dleftnabla ucdot nabla v+fvrigtdxdy+int Cleftsigma uv+gvrightds=
-displaystyle iint Dleftnabla ucdot nabla v+fvrightdxdy+int Cleftsigma uv+gvrightds=|displaystyle iint Dleftnabla tcdou nabla v+fvrightdxdy+int Cleftsigma uv+gvrightds=
-displaystyle iint Dleftnabla ucdot nabla v+fvrightdxdy+int Cleftsigma uv+gvrightds=|displaystyle iint Dleftnabla ucdot nabla v+fvrightdxdy+int Cleftsigma uv+gvrigtds=
+assume arbitrary boundary values implies|assume arbitrary bokundary values implies
+assume arbitrary boundary values implies|asume arbitrary boundary values implies
+assume arbitrary boundary values implies|assmume arbitrary boundary values implies
+assume arbitrary boundary values implies|assume aribtrary boundary values implies
+assume arbitrary boundary values implies|yassume arbitrary boundary values implies
+assume arbitrary boundary values implies|assume arbitrary boundary alues implies
+assume arbitrary boundary values implies|asume arbitrary boundary values implies
+assume arbitrary boundary values implies|assume arbcitrary boundary values implies
+assume arbitrary boundary values implies|assume arbitrary bzoundary values implies
+assume arbitrary boundary values implies|assume arbitrary boundary values implfies

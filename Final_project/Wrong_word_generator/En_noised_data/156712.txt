@@ -1,10 +1,10 @@
-A valuation is a function that assigns each propositional variable to either T for truth or F for falsity|A valuation is a function that assigns each propositional variable to either rT for truth or F for falsity
-A valuation is a function that assigns each propositional variable to either T for truth or F for falsity|A valuation is a function that assigns each propositional variable rto either T for truth or F for falsity
-A valuation is a function that assigns each propositional variable to either T for truth or F for falsity|A valuation is a function that assigns each nropositiopal variable to either T for truth or F for falsity
-A valuation is a function that assigns each propositional variable to either T for truth or F for falsity|A valuation is a function tht assigns each propositional variable to either T for truth or F for falsity
-A valuation is a function that assigns each propositional variable to either T for truth or F for falsity|A valuatio is a function that assigns each propositional variable to either T for truth or F for falsity
-A valuation is a function that assigns each propositional variable to either T for truth or F for falsity|A valuation is a function that assigns each propositional variable to either T for etruth or F for falsity
-A valuation is a function that assigns each propositional variable to either T for truth or F for falsity|A valuation is a function that assigns each propositional variable to either T or truth or F or falsity
-A valuation is a function that assigns each propositional variable to either T for truth or F for falsity|A valuation is a function that assigns each propositional variable to either T rof truth or F rof falsity
-A valuation is a function that assigns each propositional variable to either T for truth or F for falsity|A valuation is a function that assigns each propositional variable o either T for truth or F for falsity
-A valuation is a function that assigns each propositional variable to either T for truth or F for falsity|A valuation is a function that asigns each propositional variable to either T for truth or F for falsity
+displaystyle Aland Blor lnot Alor lnot B|displaystyle Aland Blor elnot Alor elnot B
+displaystyle Aland Blor lnot Alor lnot B|isplaystyle Aland Blor lnot Alor lnot B
+displaystyle Aland Blor lnot Alor lnot B|displaystyle Aland Blor lnot Alo lnot B
+displaystyle Aland Blor lnot Alor lnot B|displaystyle Aland Blor lnot Alomr lnot B
+displaystyle Aland Blor lnot Alor lnot B|displaystyle Afland Blor lnot Alor lnot B
+displaystyle Aland Blor lnot Alor lnot B|displaystyle Aland uBlor lnot Alor lnot uB
+displaystyle Aland Blor lnot Alor lnot B|displaystyle Aland Blor tnol Alor tnol B
+displaystyle Aland Blor lnot Alor lnot B|disalpystyle Aland Blor lnot Alor lnot B
+displaystyle Aland Blor lnot Alor lnot B|displaystyle Aland lor lnot Alor lnot 
+displaystyle Aland Blor lnot Alor lnot B|displaystyle Aland lor lnot Alor lnot B

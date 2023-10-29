@@ -1,10 +1,10 @@
-The POWER implements a superscalar microarchitecture through high-frequency speculative out-of-order execution using eight independent execution units|The POWER implements a superscalar microarchitecture through high-frequency speculative out-of-order execution usifng eight independent execution units
-The POWER implements a superscalar microarchitecture through high-frequency speculative out-of-order execution using eight independent execution units|Tvhe POWER implements a superscalar microarchitecture through high-frequency speculative out-of-order execution using eight independent execution units
-The POWER implements a superscalar microarchitecture through high-frequency speculative out-of-order execution using eight independent execution units|The POWER implements a superscalar microarchitecture through high-frequency speculative out-of-order execution usping eight independent execution units
-The POWER implements a superscalar microarchitecture through high-frequency speculative out-of-order execution using eight independent execution units|The POWER implements  supersclr microrchitecture through high-frequency specultive out-of-order execution using eight independent execution units
-The POWER implements a superscalar microarchitecture through high-frequency speculative out-of-order execution using eight independent execution units|The POWER implements a superscalar microarchitecture through high-frequency speculative out-ofl-order execution using eight independent execution units
-The POWER implements a superscalar microarchitecture through high-frequency speculative out-of-order execution using eight independent execution units|The POWER implements a superscala microarchitecture through high-frequency speculative out-of-order execution using eight independent execution units
-The POWER implements a superscalar microarchitecture through high-frequency speculative out-of-order execution using eight independent execution units|The POWER implements a superscalar microarchitecture through high-frequency speculative out-of-order execution using eight independent execution unts
-The POWER implements a superscalar microarchitecture through high-frequency speculative out-of-order execution using eight independent execution units|The POWER implement a superscalar microarchitecture through high-frequency speculative out-of-order execution using eight independent execution units
-The POWER implements a superscalar microarchitecture through high-frequency speculative out-of-order execution using eight independent execution units|The POWER implements a superscalar microarchitecture through high-frequency speculative out-of-order execution using eigt independent execution units
-The POWER implements a superscalar microarchitecture through high-frequency speculative out-of-order execution using eight independent execution units|The POWER implements a superscalar microarchitecture through high-frequency speculative out-of-order exeution using eight independent exeution units
+loadstore unit complete one instruction per clock|loadstore unit complete one instruction per clok
+loadstore unit complete one instruction per clock|loadstore unit complete one instruction per olcck
+loadstore unit complete one instruction per clock|loadstore unit complete one instruction per clok
+loadstore unit complete one instruction per clock|loadstore unit complete one instruction pe clock
+loadstore unit complete one instruction per clock|loadstore unxit complete one instruction per clock
+loadstore unit complete one instruction per clock|loadstoxre unit complete one instruction per clock
+loadstore unit complete one instruction per clock|loadstore unit complete one istruction per clock
+loadstore unit complete one instruction per clock|loadstore unibt complete one instruction per clock
+loadstore unit complete one instruction per clock|loadstore unit complete ne instruction per clock
+loadstore unit complete one instruction per clock|loadstore uni complete one instruction per clock

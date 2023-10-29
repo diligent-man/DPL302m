@@ -1,10 +1,10 @@
-displaystyle beginalignedvarphi +psi x=varphi x+psi xavarphi x=aleftvarphi xrightendaligned|displaystyle beginalignedvarphi +psi x=varphi x+ps xavarphi x=aleftvarphi xrightendaligned
-displaystyle beginalignedvarphi +psi x=varphi x+psi xavarphi x=aleftvarphi xrightendaligned|displaystyle beginalignedvarphi +psi x=varphi x+psi xavarphi x=aleftvarphi xrightenwdaligned
-displaystyle beginalignedvarphi +psi x=varphi x+psi xavarphi x=aleftvarphi xrightendaligned|displaystyle beginalignedvarphi ips+ x=varphi xips+ xavarphi x=aleftvarphi xrightendaligned
-displaystyle beginalignedvarphi +psi x=varphi x+psi xavarphi x=aleftvarphi xrightendaligned|diplaystyle beginalignedvarphi +psi x=varphi x+psi xavarphi x=aleftvarphi xrightendaligned
-displaystyle beginalignedvarphi +psi x=varphi x+psi xavarphi x=aleftvarphi xrightendaligned|displaystyle beginalignedvarphi +psi x=varphi x+psi xavardphi x=aleftvarphi xrightendaligned
-displaystyle beginalignedvarphi +psi x=varphi x+psi xavarphi x=aleftvarphi xrightendaligned|displaystyle beginalignedvarphi +psi x=varphi x+psli xavarphi x=aleftvarphi xrightendaligned
-displaystyle beginalignedvarphi +psi x=varphi x+psi xavarphi x=aleftvarphi xrightendaligned|displaystyle beginalignedvarphi +psi x=varphi x+si xavarphi x=aleftvarphi xrightendaligned
-displaystyle beginalignedvarphi +psi x=varphi x+psi xavarphi x=aleftvarphi xrightendaligned|dislaystyle beginalignedvarphi +psi x=varphi x+psi xavarphi x=aleftvarphi xrightendaligned
-displaystyle beginalignedvarphi +psi x=varphi x+psi xavarphi x=aleftvarphi xrightendaligned|displaystyle beginalignedvarphi +psi x=varphi xpsi xavarphi x=aleftvarphi xrightendaligned
-displaystyle beginalignedvarphi +psi x=varphi x+psi xavarphi x=aleftvarphi xrightendaligned|displaystyle beginalignedvarphi +psi x=varphi x+psi xavarphi x=aleftqvarphi xrightendaligned
+Given basis e en V possible construct specific basis V called dual basis|Given bassis e en V possible construct specific bassis V called dual bassis
+Given basis e en V possible construct specific basis V called dual basis|Givven basis e en V possible construct specific basis V called dual basis
+Given basis e en V possible construct specific basis V called dual basis|Given bsis e en V possible construct specific bsis V called dual bsis
+Given basis e en V possible construct specific basis V called dual basis|Given bsis e en V possible construct specific bsis V called dual bsis
+Given basis e en V possible construct specific basis V called dual basis|Givgen basis ge gen V possiblge construct spgecific basis V callged dual basis
+Given basis e en V possible construct specific basis V called dual basis|Gjiven basis e en V possible construct specific basis V called dual basis
+Given basis e en V possible construct specific basis V called dual basis|Given basis e en  possible construct specific basis  called dual basis
+Given basis e en V possible construct specific basis V called dual basis|Given basis e en V possibl construct specific basis V called dual basis
+Given basis e en V possible construct specific basis V called dual basis|Given basis e en V possible construct speicfic basis V called dual basis
+Given basis e en V possible construct specific basis V called dual basis|Givn basis  n V possibl construct spcific basis V calld dual basis

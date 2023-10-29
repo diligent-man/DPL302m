@@ -1,10 +1,10 @@
-The PPE contains a KiB level cache KiB instruction and a KiB data and a KiB Level cache|The PPE containms a KiB level cache KiB instruction and a KiB data and a KiB Level cache
-The PPE contains a KiB level cache KiB instruction and a KiB data and a KiB Level cache|The PPE contains a KiB level ache KiB instruction and a KiB data and a KiB Level ache
-The PPE contains a KiB level cache KiB instruction and a KiB data and a KiB Level cache|The PPE contains a KiB level cache KiB rinstruction and a KiB data and a KiB Level cache
-The PPE contains a KiB level cache KiB instruction and a KiB data and a KiB Level cache|The PPE contains a KiB level cache KiB instruction ansd a KiB data ansd a KiB Level cache
-The PPE contains a KiB level cache KiB instruction and a KiB data and a KiB Level cache|The PPE contains a KiB level cache KiB insruction and a KiB data and a KiB Level cache
-The PPE contains a KiB level cache KiB instruction and a KiB data and a KiB Level cache|Tyhe PPE contains a KiB level cache KiB instruction and a KiB data and a KiB Level cache
-The PPE contains a KiB level cache KiB instruction and a KiB data and a KiB Level cache|The PPE contains a KiB velel cache KiB instruction and a KiB data and a KiB Level cache
-The PPE contains a KiB level cache KiB instruction and a KiB data and a KiB Level cache|The PPE contains a KjiB level cache KjiB instruction and a KjiB data and a KjiB Level cache
-The PPE contains a KiB level cache KiB instruction and a KiB data and a KiB Level cache|The PPE contains a KB level cache KB instruction and a KB data and a KB Level cache
-The PPE contains a KiB level cache KiB instruction and a KiB data and a KiB Level cache|The PPE contains a KiB level cache KiB instruction and a KiB adta and a KiB Level cache
+IU contains L instruction cache branch prediction hardware instruction buffers dependency checking logic|IU contains L instructon cache branch prediction hardware instructon buffers dependency checking logic
+IU contains L instruction cache branch prediction hardware instruction buffers dependency checking logic|IpU contains L instruction cache branch prediction hardware instruction buffers dependency checking logic
+IU contains L instruction cache branch prediction hardware instruction buffers dependency checking logic|UI contains L instruction cache branch prediction hardware instruction buffers dependency checking logic
+IU contains L instruction cache branch prediction hardware instruction buffers dependency checking logic|IU contains L instruction cache branch predictjion hardware instruction buffers dependency checking logic
+IU contains L instruction cache branch prediction hardware instruction buffers dependency checking logic|IU contains L instructidon cache branch prediction hardware instructidon buffers dependency checking logic
+IU contains L instruction cache branch prediction hardware instruction buffers dependency checking logic|IU contains L instruction cahe branch prediction hardware instruction buffers dependency checking logic
+IU contains L instruction cache branch prediction hardware instruction buffers dependency checking logic|IU contains L instruction ckache branch prediction hardware instruction buffers dependency checking logic
+IU contains L instruction cache branch prediction hardware instruction buffers dependency checking logic|IU contains L nstruction cache branch prediction hardware nstruction buffers dependency checking logic
+IU contains L instruction cache branch prediction hardware instruction buffers dependency checking logic|IU contains L instruction cache branch prediction hardware instruction buffeprs dependency checking logic
+IU contains L instruction cache branch prediction hardware instruction buffers dependency checking logic|IU contains L inrstruction cache branch prediction hardware inrstruction buffers dependency checking logic

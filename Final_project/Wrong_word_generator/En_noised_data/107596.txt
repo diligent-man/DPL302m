@@ -1,10 +1,10 @@
-Level L Micro operations cache bytes KiB in size|Level L Micro operations cache byes KiB in size
-Level L Micro operations cache bytes KiB in size|Level L Micro operations cache ybtes KiB in size
-Level L Micro operations cache bytes KiB in size|Level L Micro operations cache byts KiB in size
-Level L Micro operations cache bytes KiB in size|Level L Micro operations cache byte KiB in size
-Level L Micro operations cache bytes KiB in size|Level L Micro operations cache bstey KiB in size
-Level L Micro operations cache bytes KiB in size|Level L Micro operations cache byts KiB in size
-Level L Micro operations cache bytes KiB in size|Level L Micro operations chcae bytes KiB in size
-Level L Micro operations cache bytes KiB in size|Level L Micro operations cach bytes KiB in size
-Level L Micro operations cache bytes KiB in size|evel  Micro operations cache bytes KiB in size
-Level L Micro operations cache bytes KiB in size|Level L Micro operations cache btes KiB in size
+Level L Shared cache MiB size|Level L Shared cache MiB ize
+Level L Shared cache MiB size|Level L hared cache MiB size
+Level L Shared cache MiB size|Level L uShared cache MiB size
+Level L Shared cache MiB size|Level L Searhd cache MiB size
+Level L Shared cache MiB size|eLvel L Shared cache MiB size
+Level L Shared cache MiB size|Lyevel L Shared cache MiB size
+Level L Shared cache MiB size|evel  Shared cache MiB size
+Level L Shared cache MiB size|Level L Shared cache MiB ize
+Level L Shared cache MiB size|Lvel L Shared cache MiB size
+Level L Shared cache MiB size|Level L Shared eachc MiB size

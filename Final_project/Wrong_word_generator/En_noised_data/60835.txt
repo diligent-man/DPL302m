@@ -1,10 +1,10 @@
-POWER ISA PowerPC or Power ISA computers running IBM AIX or Linux operating systems|POWER ISA PowerPC or Power ISA computers running IBM AIX or Linx operating systems
-POWER ISA PowerPC or Power ISA computers running IBM AIX or Linux operating systems|POWER ISA PowerPC or Power ISA computers running zIBM AIX or Linux operating systems
-POWER ISA PowerPC or Power ISA computers running IBM AIX or Linux operating systems|POWER ISA PowerPC or Power ISA computers running IM AIX or Linux operating systems
-POWER ISA PowerPC or Power ISA computers running IBM AIX or Linux operating systems|POWER ISA PowrPC or Power ISA computers running IBM AIX or Linux operating systems
-POWER ISA PowerPC or Power ISA computers running IBM AIX or Linux operating systems|POWER ISA PowerPC or Power ISA coputers running IBM AIX or Linux operating systems
-POWER ISA PowerPC or Power ISA computers running IBM AIX or Linux operating systems|POWER ISA PowerPC r Power ISA computers running IBM AIX r Linux operating systems
-POWER ISA PowerPC or Power ISA computers running IBM AIX or Linux operating systems|POWER ISA PoowerPC or Poower ISA computers running IBM AIX or Linux operating systems
-POWER ISA PowerPC or Power ISA computers running IBM AIX or Linux operating systems|POWER ISA PowerPC or Power ISA compauters running IBM AIX or Linux operating systems
-POWER ISA PowerPC or Power ISA computers running IBM AIX or Linux operating systems|POWER ISA PowerPC or Power ISA computers running IBM AIX or Liinux operating systems
-POWER ISA PowerPC or Power ISA computers running IBM AIX or Linux operating systems|POWER SA PowerPC or Power SA computers running IBM AIX or Linux operating systems
+Mainframe computers custom operating systems IBM zOS|Mainframe computers custom opegrating systems IBM zOS
+Mainframe computers custom operating systems IBM zOS|Mainframe computers custom operating systems IBM OzS
+Mainframe computers custom operating systems IBM zOS|Mainframe computers custom operating stsyems IBM zOS
+Mainframe computers custom operating systems IBM zOS|Mainframe computers custom operating systrems IBM zOS
+Mainframe computers custom operating systems IBM zOS|Mainframpe computers custom operating systems IBM zOS
+Mainframe computers custom operating systems IBM zOS|Mainframe pcomputers custom operating systems IBM zOS
+Mainframe computers custom operating systems IBM zOS|Mainframe computers custom operating systems IBM zSO
+Mainframe computers custom operating systems IBM zOS|Mainframe computers custom operating ystems IBM zOS
+Mainframe computers custom operating systems IBM zOS|Minframe computers custom operating systems IBM zOS
+Mainframe computers custom operating systems IBM zOS|Mainframe cmputers custom operating systems IBM zOS

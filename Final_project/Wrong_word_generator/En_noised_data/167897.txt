@@ -1,10 +1,10 @@
-This can be obtained by differentiating the PDE|This can be obtained yb differentiating the PDE
-This can be obtained by differentiating the PDE|This can ybe obtained by differentiating the PDE
-This can be obtained by differentiating the PDE|This can bce obtained by differentiating the PDE
-This can be obtained by differentiating the PDE|This can be obtained by differentiating the PDlE
-This can be obtained by differentiating the PDE|This can bce obtained by differentiating the PDE
-This can be obtained by differentiating the PDE|Ths can be obtained by differentiating the PDE
-This can be obtained by differentiating the PDE|This can be obtained by dfferentiating the PDE
-This can be obtained by differentiating the PDE|This can be obtained by dhifferentiating the PDE
-This can be obtained by differentiating the PDE|This can be obtained by differentiating the PDqE
-This can be obtained by differentiating the PDE|This ca be obtained by differentiating the PDE
+displaystyle leftbeginarraycsum limits ijaijdfrac partial yjpartial xi+f=vdots sum limits ijaijndfrac partial yjpartial xi+fn=endarrayright|displaystyle leftbeginarraycsum limits jaijdfrac partial yjpartial xi+f=vdots sum limits ijaijndfrac partial yjpartial xi+fn=endarrayright
+displaystyle leftbeginarraycsum limits ijaijdfrac partial yjpartial xi+f=vdots sum limits ijaijndfrac partial yjpartial xi+fn=endarrayright|displaystyle leftbeginarraycsum imits ijaijdfrac partial yjpartial xi+f=vdots sum imits ijaijndfrac partial yjpartial xi+fn=endarrayright
+displaystyle leftbeginarraycsum limits ijaijdfrac partial yjpartial xi+f=vdots sum limits ijaijndfrac partial yjpartial xi+fn=endarrayright|displaystyle leftbeginarraycsum limits ijaijdfrac partial yjbpartial xi+f=vdots sum limits ijaijndfrac partial yjbpartial xi+fn=endarrayright
+displaystyle leftbeginarraycsum limits ijaijdfrac partial yjpartial xi+f=vdots sum limits ijaijndfrac partial yjpartial xi+fn=endarrayright|displaystyle leftbeginarraycsum ilmits ijaijdfrac partial yjpartial xi+f=vdots sum ilmits ijaijndfrac partial yjpartial xi+fn=endarrayright
+displaystyle leftbeginarraycsum limits ijaijdfrac partial yjpartial xi+f=vdots sum limits ijaijndfrac partial yjpartial xi+fn=endarrayright|displaystyle leftbeginarraycsum limits ijaijdfrac partial yjpartial xi+f=vdots sum limits ijaijndfrac partial yjpartial xi+fn=endarrayaright
+displaystyle leftbeginarraycsum limits ijaijdfrac partial yjpartial xi+f=vdots sum limits ijaijndfrac partial yjpartial xi+fn=endarrayright|displaystyle lsftbeginarrayceum limits ijaijdfrac partial yjpartial xi+f=vdots sum limits ijaijndfrac partial yjpartial xi+fn=endarrayright
+displaystyle leftbeginarraycsum limits ijaijdfrac partial yjpartial xi+f=vdots sum limits ijaijndfrac partial yjpartial xi+fn=endarrayright|displaystyle leftbeginarraycsum limit ijaijdfrac partial yjpartial xi+f=vdots sum limit ijaijndfrac partial yjpartial xi+fn=endarrayright
+displaystyle leftbeginarraycsum limits ijaijdfrac partial yjpartial xi+f=vdots sum limits ijaijndfrac partial yjpartial xi+fn=endarrayright|displaystyle leftbeginarraycvsum limits ijaijdfrac partial yjpartial xi+f=vdots sum limits ijaijndfrac partial yjpartial xi+fn=endarrayright
+displaystyle leftbeginarraycsum limits ijaijdfrac partial yjpartial xi+f=vdots sum limits ijaijndfrac partial yjpartial xi+fn=endarrayright|displaystyle leftbeginarraycsum lmiits ijaijdfrac partial yjpartial xi+f=vdots sum lmiits ijaijndfrac partial yjpartial xi+fn=endarrayright
+displaystyle leftbeginarraycsum limits ijaijdfrac partial yjpartial xi+f=vdots sum limits ijaijndfrac partial yjpartial xi+fn=endarrayright|displaystyle leftbeginarraycsum limits ijaijdfrac partial yjprtial xi+f=vdots sum limits ijaijndfrac partial yjprtial xi+fn=endarrayright

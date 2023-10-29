@@ -1,10 +1,10 @@
-displaystyle mathrm H XXldots Xn=sum i=nmathrm H XiXldots Xi-|displaystyle mathrm H XXldots Xn=sum i=nmathrm H XiXldots X-
-displaystyle mathrm H XXldots Xn=sum i=nmathrm H XiXldots Xi-|displaystyle mathrm H XXldots Xn=msum i=nmathrm H XiXldots Xi-
-displaystyle mathrm H XXldots Xn=sum i=nmathrm H XiXldots Xi-|ditplayssyle mathrm H XXldots Xn=sum i=nmathrm H XiXldots Xi-
-displaystyle mathrm H XXldots Xn=sum i=nmathrm H XiXldots Xi-|displaystyle mathrm H XXldots Xn=sum i=nmathrm H XiXldots Xpi-
-displaystyle mathrm H XXldots Xn=sum i=nmathrm H XiXldots Xi-|displaystyle qmathrm H XXldots Xn=sum i=nqmathrm H XiXldots Xi-
-displaystyle mathrm H XXldots Xn=sum i=nmathrm H XiXldots Xi-|displaystyle mathm H XXldots Xn=sum i=nmathm H XiXldots Xi-
-displaystyle mathrm H XXldots Xn=sum i=nmathrm H XiXldots Xi-|displaystyle mathrm  XXldots Xn=sum i=nmathrm  XiXldots Xi-
-displaystyle mathrm H XXldots Xn=sum i=nmathrm H XiXldots Xi-|displaystyle mathrvm H XXldots Xn=sum i=nmathrvm H XiXldots Xi-
-displaystyle mathrm H XXldots Xn=sum i=nmathrm H XiXldots Xi-|displaystyle mathrm  XXldots Xn=sum i=nmathrm  XiXldots Xi-
-displaystyle mathrm H XXldots Xn=sum i=nmathrm H XiXldots Xi-|displaystyle mathrm H XXldots Xn=sum i=mathrm H XiXldots Xi-
+displaystyle mathrm H XY=mathrm H YX-mathrm H|displaystyle mathrm H XY=mathr H YX-mathrm H
+displaystyle mathrm H XY=mathrm H YX-mathrm H|displaytyle mathrm H XY=mathrm H YX-mathrm H
+displaystyle mathrm H XY=mathrm H YX-mathrm H|displaystyle mathm H XY=mathm H YX-mathm H
+displaystyle mathrm H XY=mathrm H YX-mathrm H|displaystyle mathrm tH XY=mathrm tH YX-mathrm tH
+displaystyle mathrm H XY=mathrm H YX-mathrm H|displaystyle mathrm  XY=mathrm  YX-mathrm 
+displaystyle mathrm H XY=mathrm H YX-mathrm H|diosplaystyle mathrm H XY=mathrm H YX-mathrm H
+displaystyle mathrm H XY=mathrm H YX-mathrm H|displaystyle mathrm H XY=mathrm H YX-amathrm H
+displaystyle mathrm H XY=mathrm H YX-mathrm H|dnisplaystyle mathrm H XY=mathrm H YX-mathrm H
+displaystyle mathrm H XY=mathrm H YX-mathrm H|displystyle mathrm H XY=mathrm H YX-mathrm H
+displaystyle mathrm H XY=mathrm H YX-mathrm H|dispaystyle mathrm H XY=mathrm H YX-mathrm H

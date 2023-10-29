@@ -1,10 +1,10 @@
-displaystyle nabla psi cdot nabla psi =n|displaystyle nabla psi cdto nabla psi =n
-displaystyle nabla psi cdot nabla psi =n|displaystyle nabla psfi cdot nabla psfi =n
-displaystyle nabla psi cdot nabla psi =n|displaystyle nabla psi dot nabla psi =n
-displaystyle nabla psi cdot nabla psi =n|didsplaystyle nabla psi cdot nabla psi =n
-displaystyle nabla psi cdot nabla psi =n|displaystyle nabla psi cdot nabla psi n
-displaystyle nabla psi cdot nabla psi =n|displaystyle nabla pisi cdot nabla pisi =n
-displaystyle nabla psi cdot nabla psi =n|displaystyle znabla psi cdot znabla psi =n
-displaystyle nabla psi cdot nabla psi =n|displaystyle nabla si cdot nabla si =n
-displaystyle nabla psi cdot nabla psi =n|displaystyle nabla ps cdot nabla ps =n
-displaystyle nabla psi cdot nabla psi =n|displaystyle nabla isp cdot nabla isp =n
+displaystyle frac dsdt=frac sqrt dot Xcdot dot Xn|displaystyle frac dsdt=frac sqrt dopt Xcdopt dopt Xn
+displaystyle frac dsdt=frac sqrt dot Xcdot dot Xn|displaystyle frac dsdt=frac srt dot Xcdot dot Xn
+displaystyle frac dsdt=frac sqrt dot Xcdot dot Xn|displaystyle frac dsdt=frac sqrt do Xcdo do Xn
+displaystyle frac dsdt=frac sqrt dot Xcdot dot Xn|displaystyle frac sdt=frac sqrt dot Xcdot dot Xn
+displaystyle frac dsdt=frac sqrt dot Xcdot dot Xn|displaystyle frac dsdt=frac sqrt dobt Xcdobt dobt Xn
+displaystyle frac dsdt=frac sqrt dot Xcdot dot Xn|displaystyle fryac dsdt=fryac sqrt dot Xcdot dot Xn
+displaystyle frac dsdt=frac sqrt dot Xcdot dot Xn|displaystyle rac dsdt=rac sqrt dot Xcdot dot Xn
+displaystyle frac dsdt=frac sqrt dot Xcdot dot Xn|displaystyle frac dsdt=frac sqrt dost Xcdost dost Xn
+displaystyle frac dsdt=frac sqrt dot Xcdot dot Xn|displaystyle frac dsdt=frac sqrt dot Xcdot dot X
+displaystyle frac dsdt=frac sqrt dot Xcdot dot Xn|displaystyle frac dsdt=frac sqrt dot Xcot dot Xn

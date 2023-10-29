@@ -275,10 +275,11 @@ class WrongWordGenerator:
                     for value in tonal_mapping_1 [key]:
                         wrong_word = word[:-len(key)] + value
                         result.append(wrong_word)
-
+        if len(result) == 0:
+            return word
         if len(result) == 1:
             return result[0]
-        else:
+        elif len(result) > 1:
             word_index = random.randrange(0, len(result))
             return result[word_index]
 
@@ -311,26 +312,41 @@ def add_noise(sentence: str, language: str) -> str:
         max_wrong_words = 5
     elif len(sentence.split()) > 20:
         max_wrong_words = 7
-    
+
     for i in range(max_wrong_words):
         # randomize index for word
         word_index = random.randrange(0, len(sentence.split()))
 
         wrong_word_generator.set_word(sentence.split()[word_index])
+        if language == 'en':
+            # randomize method that's gonna be applied
+            method_index = random.randrange(0, 3)
 
-        # randomize method that's gonna be applied
-        method_index = random.randrange(0, 3)
-        if method_index == 0: # remove
-            generated_result = wrong_word_generator.remove_char()
+            if method_index == 0: # remove
+                generated_result = wrong_word_generator.remove_char()
 
-        elif method_index == 1: # insert
-            generated_result = wrong_word_generator.insert_char(language)
+            elif method_index == 1: # insert
+                generated_result = wrong_word_generator.insert_char(language)
 
-        elif method_index == 2: # swap
-            generated_result = wrong_word_generator.swap_char(language)
-        
-        elif method_index == 3 and language == 'vn': # wrong_tone_pos
-            generated_result = wrong_word_generator.wrong_tone_pos_vn()
+            elif method_index == 2: # swap
+                generated_result = wrong_word_generator.swap_char(language)
+
+        elif language == 'vn':
+            # randomize method that's gonna be applied
+            method_index = random.randrange(0, 4)
+
+            if method_index == 0: # remove
+                generated_result = wrong_word_generator.remove_char()
+
+            elif method_index == 1: # insert
+                generated_result = wrong_word_generator.insert_char(language)
+
+            elif method_index == 2: # swap
+                generated_result = wrong_word_generator.swap_char(language)
+            
+            elif method_index == 3: # wrong_tone_pos
+                generated_result = wrong_word_generator.wrong_tone_pos_vn()
+
 
     return sentence.replace(sentence.split()[word_index], generated_result)
 
@@ -347,18 +363,19 @@ def generate_wrong_word(language) -> None:
     with open(filename, 'r') as reader:
         counter = 0
         for line in reader:
-            print(line)
-            with open(save_path + f'{counter}.txt', 'w') as writer:
-                for i in range(num_of_wrong_sentence):
-                    incorect_sentence = add_noise(line, language)
-                    correct_sentence = line
-
-                    # ensure incorrect sentence must differ from correct sentence
-                    while incorect_sentence == correct_sentence:
+            if len(line.strip()) != 0: # ignore blank line
+                with open(save_path + f'{counter}.txt', 'w') as writer:
+                    print(counter)
+                    for i in range(num_of_wrong_sentence):
                         incorect_sentence = add_noise(line, language)
+                        correct_sentence = line
+
+                        # ensure incorrect sentence must differ from correct sentence
+                        while incorect_sentence == correct_sentence:
+                            incorect_sentence = add_noise(line, language)
                 
-                    writer.write(correct_sentence[:-1] + '|' + incorect_sentence)
-            counter += 1
+                        writer.write(correct_sentence[:-1] + '|' + incorect_sentence)
+                counter += 1
     return None
 
 

@@ -1,10 +1,10 @@
-Each SPE runs a mini kernel whose role is to fetch a job execute it and synchronize with the PPE|Each SPE runs a mini kernel wheose role is to fetch a job execute it and synchronize with the PPE
-Each SPE runs a mini kernel whose role is to fetch a job execute it and synchronize with the PPE|Each SPE runs a mini kernel whose role is to fetch a job execute it ankd synchronize with the PPE
-Each SPE runs a mini kernel whose role is to fetch a job execute it and synchronize with the PPE|Each SPE rudns a mini kernel whose role is to fetch a job execute it and synchronize with the PPE
-Each SPE runs a mini kernel whose role is to fetch a job execute it and synchronize with the PPE|Each SPE runs a mini kernel whose role is to fetch a job execute t and synchronize wth the PPE
-Each SPE runs a mini kernel whose role is to fetch a job execute it and synchronize with the PPE|Each SPE runs a mini kernel whose role is to fetch a job execute it ad synchronize with the PPE
-Each SPE runs a mini kernel whose role is to fetch a job execute it and synchronize with the PPE|Each SPE runs a mini kernel whose role is to fetch a job execute it awnd synchronize with the PPE
-Each SPE runs a mini kernel whose role is to fetch a job execute it and synchronize with the PPE|Each SPE runs a mini kernel whose role is to fetch a boj execute it and synchronize with the PPE
-Each SPE runs a mini kernel whose role is to fetch a job execute it and synchronize with the PPE|Each SPE runs a mini kernel whose role is to fetch a job execute it and synchreonize with the PPE
-Each SPE runs a mini kernel whose role is to fetch a job execute it and synchronize with the PPE|Each SPE runs a mini kernel whose role is to fetch a job execute t and synchronize wth the PPE
-Each SPE runs a mini kernel whose role is to fetch a job execute it and synchronize with the PPE|Ech SPE runs  mini kernel whose role is to fetch  job execute it nd synchronize with the PPE
+SPEs use shared memory tasks configuration|SPEs use shared memory tasks cconfiguration
+SPEs use shared memory tasks configuration|SPEs use shared mymore tasks configuration
+SPEs use shared memory tasks configuration|SPEs use shared remomy tasks configuration
+SPEs use shared memory tasks configuration|SPEs use shaed memory tasks configuration
+SPEs use shared memory tasks configuration|SPE use shared memory tasks configuration
+SPEs use shared memory tasks configuration|SPEs use sshared memory tasks configuration
+SPEs use shared memory tasks configuration|SPEs use shard memory tasks configuration
+SPEs use shared memory tasks configuration|SPEs use shared memory tasks configruation
+SPEs use shared memory tasks configuration|SPEs ue shared memory tasks configuration
+SPEs use shared memory tasks configuration|SPEs use shared memory tasks configiuration

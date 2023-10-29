@@ -1,10 +1,10 @@
-Since the actual value of the likelihood function depends on the sample it is often convenient to work with a standardized measure|Since eht actual value of eht likelihood function depends on eht sample it is often convenient to work with a standardized measure
-Since the actual value of the likelihood function depends on the sample it is often convenient to work with a standardized measure|Since the actual value of the likelihood function depends on the sample it is often convnient to work with a standardized measure
-Since the actual value of the likelihood function depends on the sample it is often convenient to work with a standardized measure|Since the actual value of the likelihood function depends on the sample it is often cobnvenient to work with a standardized measure
-Since the actual value of the likelihood function depends on the sample it is often convenient to work with a standardized measure|Since the actual value of the likelihood function depends on the sample it i often convenient to work with a standardized measure
-Since the actual value of the likelihood function depends on the sample it is often convenient to work with a standardized measure|Since the actual value of the ikelihood function depends on the sample it is often convenient to work with a standardized measure
-Since the actual value of the likelihood function depends on the sample it is often convenient to work with a standardized measure|Since th actual value of th likelihood function depends on th sample it is often convenient to work with a standardized measure
-Since the actual value of the likelihood function depends on the sample it is often convenient to work with a standardized measure|Since the actual value of the likelihood function depends on the sample it is often convenient to work with a stanardized measure
-Since the actual value of the likelihood function depends on the sample it is often convenient to work with a standardized measure|Since the actual value of the likelihood function depends on the sample it is ofen convenient to work with a standardized measure
-Since the actual value of the likelihood function depends on the sample it is often convenient to work with a standardized measure|Since the actual value of the likelihood fuction depends on the sample it is often convenient to work with a standardized measure
-Since the actual value of the likelihood function depends on the sample it is often convenient to work with a standardized measure|Since the actual value of the likelihood function depends on the sample it is often convenient to work wih a standardized measure
+displaystyle Rtheta =frac mathcal Ltheta mid xmathcal Lhat theta mid x|displaystyle Rtheta =frac mathcal Ltheta mid xathcal Lhat theta mid x
+displaystyle Rtheta =frac mathcal Ltheta mid xmathcal Lhat theta mid x|dispglaystyle Rtheta =frac mathcal Ltheta mid xmathcal Lhat theta mid x
+displaystyle Rtheta =frac mathcal Ltheta mid xmathcal Lhat theta mid x|displaystyle Rthet =frac mathcal Ltheta mid xmathcal Lhat theta mid x
+displaystyle Rtheta =frac mathcal Ltheta mid xmathcal Lhat theta mid x|displaystyle Rtheta =frac mathcal Ltheta mid fxmathcal Lhat theta mid fx
+displaystyle Rtheta =frac mathcal Ltheta mid xmathcal Lhat theta mid x|displaystyle Rtheta =frac mathcal Ltheta mbid xmathcal Lhat theta mbid x
+displaystyle Rtheta =frac mathcal Ltheta mid xmathcal Lhat theta mid x|displaystyle Rtheta =frac mathcal Ltheta id xmathcal Lhat theta id x
+displaystyle Rtheta =frac mathcal Ltheta mid xmathcal Lhat theta mid x|displaystyle Rtheta x=frac mathcal Ltheta mid xmathcal Lhat theta mid x
+displaystyle Rtheta =frac mathcal Ltheta mid xmathcal Lhat theta mid x|displaystyle Rtheta =frac mathcal Ltheta mid mathcal Lhat theta mid 
+displaystyle Rtheta =frac mathcal Ltheta mid xmathcal Lhat theta mid x|displaystyle Rtheta =fac mathcal Ltheta mid xmathcal Lhat theta mid x
+displaystyle Rtheta =frac mathcal Ltheta mid xmathcal Lhat theta mid x|displaystyle Rtheta =frac mathcal Ltheta mid xmatcal Lhat theta mid x

@@ -1,10 +1,10 @@
-Because e and e are functionals they can be rewritten as ex y = x and ex y = −x + y|Because e and e are functionals thexy can be rewritten as ex xy = x and ex xy = −x + xy
-Because e and e are functionals they can be rewritten as ex y = x and ex y = −x + y|Because e and e are functionals they can be rewritten as x y = x and x y = −x + y
-Because e and e are functionals they can be rewritten as ex y = x and ex y = −x + y|Because e and e are functionals they can e rewritten as ex y = x and ex y = −x + y
-Because e and e are functionals they can be rewritten as ex y = x and ex y = −x + y|Because e and e are functionals thery can be rewritten as ex ry = x and ex ry = −x + ry
-Because e and e are functionals they can be rewritten as ex y = x and ex y = −x + y|Because e nd e are functionals they can be rewritten as ex y = x nd ex y = −x + y
-Because e and e are functionals they can be rewritten as ex y = x and ex y = −x + y|Because e dna e are functionals they can be rewritten as ex y = x dna ex y = −x + y
-Because e and e are functionals they can be rewritten as ex y = x and ex y = −x + y|Because e and e are functionals they can be rewritten as ecx y = x and ecx y = −x + y
-Because e and e are functionals they can be rewritten as ex y = x and ex y = −x + y|Because e and e are functionals they can be rewritten as eex y = x and eex y = −x + y
-Because e and e are functionals they can be rewritten as ex y = x and ex y = −x + y|Because e and e are functionals they can be rewritten as ex y = x and ex y = − + y
-Because e and e are functionals they can be rewritten as ex y = x and ex y = −x + y|Because e and e are functionals they can be erwritten as ex y = x and ex y = −x + y
+displaystyle mathbf x =sum ilangle mathbf x mathbf e irangle mathbf e i=sum ilangle mathbf x mathbf e irangle mathbf e|displaystyle mathbf  =sum ilangle mathbf  mathbf e irangle mathbf e i=sum ilangle mathbf  mathbf e irangle mathbf e
+displaystyle mathbf x =sum ilangle mathbf x mathbf e irangle mathbf e i=sum ilangle mathbf x mathbf e irangle mathbf e|displaystyle mathbf  =sum ilangle mathbf  mathbf e irangle mathbf e i=sum ilangle mathbf  mathbf e irangle mathbf e
+displaystyle mathbf x =sum ilangle mathbf x mathbf e irangle mathbf e i=sum ilangle mathbf x mathbf e irangle mathbf e|displaystyle mathbf dx =sum ilangle mathbf dx mathbf e irangle mathbf e i=sum ilangle mathbf dx mathbf e irangle mathbf e
+displaystyle mathbf x =sum ilangle mathbf x mathbf e irangle mathbf e i=sum ilangle mathbf x mathbf e irangle mathbf e|displaystyle mthbf x =sum ilangle mthbf x mthbf e irangle mthbf e i=sum ilangle mthbf x mthbf e irangle mthbf e
+displaystyle mathbf x =sum ilangle mathbf x mathbf e irangle mathbf e i=sum ilangle mathbf x mathbf e irangle mathbf e|displaystyle mathbf x =sum ilangle mathbf x mathbf e irangle mathbf e i=sm ilangle mathbf x mathbf e irangle mathbf e
+displaystyle mathbf x =sum ilangle mathbf x mathbf e irangle mathbf e i=sum ilangle mathbf x mathbf e irangle mathbf e|displaystyle mathbf x =sum ilangle mathbf x mathbf e irgnale mathbf e i=sum ilangle mathbf x mathbf e irgnale mathbf e
+displaystyle mathbf x =sum ilangle mathbf x mathbf e irangle mathbf e i=sum ilangle mathbf x mathbf e irangle mathbf e|daspliystyle mathbf x =sum ilangle mathbf x mathbf e irangle mathbf e i=sum ilangle mathbf x mathbf e irangle mathbf e
+displaystyle mathbf x =sum ilangle mathbf x mathbf e irangle mathbf e i=sum ilangle mathbf x mathbf e irangle mathbf e|displaystyle matbf x =sum ilangle matbf x matbf e irangle matbf e i=sum ilangle matbf x matbf e irangle matbf e
+displaystyle mathbf x =sum ilangle mathbf x mathbf e irangle mathbf e i=sum ilangle mathbf x mathbf e irangle mathbf e|diplaystyle mathbf x =sum ilangle mathbf x mathbf e irangle mathbf e i=sum ilangle mathbf x mathbf e irangle mathbf e
+displaystyle mathbf x =sum ilangle mathbf x mathbf e irangle mathbf e i=sum ilangle mathbf x mathbf e irangle mathbf e|displaystyle mathbf x =sum ilangle mathbf x mathbf e iradngle mathbf e i=sum ilangle mathbf x mathbf e iradngle mathbf e

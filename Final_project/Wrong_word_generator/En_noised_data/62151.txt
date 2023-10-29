@@ -1,10 +1,10 @@
-The PPE maintains a job queue schedules jobs in SPEs and monitors progress|The PPE maintains a job queue lcheduses jobs in SPEs and monitors progress
-The PPE maintains a job queue schedules jobs in SPEs and monitors progress|The PPE maintains a job queue schedules jobs in SPEs and monitors psogrers
-The PPE maintains a job queue schedules jobs in SPEs and monitors progress|The PE maintains a job queue schedules jobs in SPEs and monitors progress
-The PPE maintains a job queue schedules jobs in SPEs and monitors progress|The PPE mniatains a job queue schedules jobs in SPEs and monitors progress
-The PPE maintains a job queue schedules jobs in SPEs and monitors progress|The PPE maientains a job queue schedules jobs in SPEs and monitors progress
-The PPE maintains a job queue schedules jobs in SPEs and monitors progress|The PPE maintains a job queue schedules jobs in SPEs and monitors prgoress
-The PPE maintains a job queue schedules jobs in SPEs and monitors progress|The nPPE maintains a job queue schedules jobs in SPEs and monitors progress
-The PPE maintains a job queue schedules jobs in SPEs and monitors progress|The PE maintains a job queue schedules jobs in SPEs and monitors progress
-The PPE maintains a job queue schedules jobs in SPEs and monitors progress|The PPE maintains a job queue schedules jobs in SPEs an monitors progress
-The PPE maintains a job queue schedules jobs in SPEs and monitors progress|zThe PPE maintains a job queue schedules jobs in SPEs and monitors progress
+Ready-to-run tasks wait queue SPE execute|Ready-to-run tasks iawt queue SPE execute
+Ready-to-run tasks wait queue SPE execute|Ready-to-run tasks wait quee SPE execute
+Ready-to-run tasks wait queue SPE execute|Ready-to-run tasks wait queue SePE execute
+Ready-to-run tasks wait queue SPE execute|eRady-to-run tasks wait queue SPE execute
+Ready-to-run tasks wait queue SPE execute|Ready-to-run tasks wat queue SPE execute
+Ready-to-run tasks wait queue SPE execute|Ready-to-run tasks taiw queue SPE execute
+Ready-to-run tasks wait queue SPE execute|Ready-to-ru tasks wait queue SPE execute
+Ready-to-run tasks wait queue SPE execute|Ready-to-run tcasks wait queue SPE execute
+Ready-to-run tasks wait queue SPE execute|Ready-to-run tasks wait queue PE execute
+Ready-to-run tasks wait queue SPE execute|Ready-to-run tasks taiw queue SPE execute

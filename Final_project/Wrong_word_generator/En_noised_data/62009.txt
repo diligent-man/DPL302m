@@ -1,10 +1,10 @@
-A DMA operation can transfer either a single block area of size up to KB or a list of to such blocks|A DMA operation can transfer either a single block area of szie up to KB or a list of to such blocks
-A DMA operation can transfer either a single block area of size up to KB or a list of to such blocks|A DMA oeration can transfer either a single block area of size up to KB or a list of to such blocks
-A DMA operation can transfer either a single block area of size up to KB or a list of to such blocks|A DMA operation can transfer either a single block area of size up to KB or a lrist of to such blocks
-A DMA operation can transfer either a single block area of size up to KB or a list of to such blocks|A DMA operation can transfer either a single block area of size up hto KB or a list of hto such blocks
-A DMA operation can transfer either a single block area of size up to KB or a list of to such blocks|A DMA operation can transfer either a single block area of size up to KB or a list of to hsuch blocks
-A DMA operation can transfer either a single block area of size up to KB or a list of to such blocks|A DA operation can transfer either a single block area of size up to KB or a list of to such blocks
-A DMA operation can transfer either a single block area of size up to KB or a list of to such blocks|A DMA operation can transfer either a single block area of siwze up to KB or a list of to such blocks
-A DMA operation can transfer either a single block area of size up to KB or a list of to such blocks|A DMA operation can transfer either a single block area of size up to KB o a list of to such blocks
-A DMA operation can transfer either a single block area of size up to KB or a list of to such blocks|gA DMgA operation can transfer either a single block area of size up to KB or a list of to such blocks
-A DMA operation can transfer either a single block area of size up to KB or a list of to such blocks|A DMA operation can transer either a single block area of size up to KB or a list of to such blocks
+Unlike SPEs PPE read write main memory local memories SPEs standard loadstore instructions|Unlike SPEs PPE read write main memory local memories SPEs standard lodstore instructions
+Unlike SPEs PPE read write main memory local memories SPEs standard loadstore instructions|Unlike SPEs PPE mread write main memory local memories SPEs standard loadstore instructions
+Unlike SPEs PPE read write main memory local memories SPEs standard loadstore instructions|Unlike SPEs PPE read write main memory local memories SPEs stadard loadstore instructions
+Unlike SPEs PPE read write main memory local memories SPEs standard loadstore instructions|Unlike SPEs PPE read write mrain memory local memories SPEs standard loadstore instructions
+Unlike SPEs PPE read write main memory local memories SPEs standard loadstore instructions|Unlike SPEs PPE read write main memory local memories SPEs standard oadstore instructions
+Unlike SPEs PPE read write main memory local memories SPEs standard loadstore instructions|Unlike SPEs PPE read write main memory local memories SPEs standard loadstore instrucstions
+Unlike SPEs PPE read write main memory local memories SPEs standard loadstore instructions|Unlike SPEs PPE read write main mmory local memories SPEs standard loadstore instructions
+Unlike SPEs PPE read write main memory local memories SPEs standard loadstore instructions|Unlike PEs PPE read write main memory local memories PEs standard loadstore instructions
+Unlike SPEs PPE read write main memory local memories SPEs standard loadstore instructions|Unlik SPEs PPE read write main memory local memories SPEs standard loadstore instructions
+Unlike SPEs PPE read write main memory local memories SPEs standard loadstore instructions|nlike SPEs PPE read write main memory local memories SPEs standard loadstore instructions

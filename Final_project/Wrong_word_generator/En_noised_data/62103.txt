@@ -1,10 +1,10 @@
-The memory interface controller MIC is separate from the XIO macro and is designed by IBM|The memory interface controller MIiC is separate from the XIO macro and is designed by IBM
-The memory interface controller MIC is separate from the XIO macro and is designed by IBM|The memory interface controller MIC is separate from tyhe XIO macro and is designed by IBM
-The memory interface controller MIC is separate from the XIO macro and is designed by IBM|The memory interface controller MIC is separate frm the XIO macro and is designed by IBM
-The memory interface controller MIC is separate from the XIO macro and is designed by IBM|The memory interface controller MIC is separate from the XIO macryo and is designed by IBM
-The memory interface controller MIC is separate from the XIO macro and is designed by IBM|The mmory interface controller MIC is separate from the XIO macro and is designed by IBM
-The memory interface controller MIC is separate from the XIO macro and is designed by IBM|The memory interface controller MIC is srpaeate from the XIO macro and is designed by IBM
-The memory interface controller MIC is separate from the XIO macro and is designed by IBM|The memory interface controller MIC i separate from the XIO macro and i designed by IBM
-The memory interface controller MIC is separate from the XIO macro and is designed by IBM|The memory interface controller MIC is separate from the XIO macro and is desigkned by IBM
-The memory interface controller MIC is separate from the XIO macro and is designed by IBM|The memory interface cotroller MIC is separate from the XIO macro and is designed by IBM
-The memory interface controller MIC is separate from the XIO macro and is designed by IBM|The memory interface controller MIC is separate from the XIO macro an is designed by IBM
+FlexIO interface organized lanes lane unidirectional -bit wide point-to-point path|FlexIO interface organized lanes lane unidirectional -bit wide point-o-point path
+FlexIO interface organized lanes lane unidirectional -bit wide point-to-point path|FlexIO interface organizd lanes lane unidirectional -bit wide point-to-point path
+FlexIO interface organized lanes lane unidirectional -bit wide point-to-point path|FlexIO interface organized lanes lane unidirectional -bit gwide point-to-point path
+FlexIO interface organized lanes lane unidirectional -bit wide point-to-point path|FlexIO interface orgahnized lanes lane unidirectional -bit wide point-to-point path
+FlexIO interface organized lanes lane unidirectional -bit wide point-to-point path|FlexIO interface organized laes lane unidirectional -bit wide point-to-point path
+FlexIO interface organized lanes lane unidirectional -bit wide point-to-point path|FlexIO interface organized lanes lane unidirectional bit wide point-to-point path
+FlexIO interface organized lanes lane unidirectional -bit wide point-to-point path|FlexIO interface organized laxnes lane unidirectional -bit wide point-to-point path
+FlexIO interface organized lanes lane unidirectional -bit wide point-to-point path|FlxIO interface organized lanes lane unidirectional -bit wide point-to-point path
+FlexIO interface organized lanes lane unidirectional -bit wide point-to-point path|FlexIO interface organized lanes lane unidirectional p-bit wide point-to-point path
+FlexIO interface organized lanes lane unidirectional -bit wide point-to-point path|FlexIO interface organinzed lanes lane unidirectional -bit wide point-to-point path

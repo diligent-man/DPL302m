@@ -1,10 +1,10 @@
-displaystyle frac partial Lpartial f-frac ddxfrac partial Lpartial f'=|displaystyle frac partial Lpartial f-frac ddxfrac partial Lpartial f='
-displaystyle frac partial Lpartial f-frac ddxfrac partial Lpartial f'=|displaystyle frac parliat Lparliat f-frac ddxfrac parliat Lparliat f'=
-displaystyle frac partial Lpartial f-frac ddxfrac partial Lpartial f'=|displaystyle frac partia Lpartia f-frac ddxfrac partia Lpartia f'=
-displaystyle frac partial Lpartial f-frac ddxfrac partial Lpartial f'=|displaystyle fra partial Lpartial f-fra ddxfra partial Lpartial f'=
-displaystyle frac partial Lpartial f-frac ddxfrac partial Lpartial f'=|displaystyle frac prtial Lprtial f-frac ddxfrac prtial Lprtial f'=
-displaystyle frac partial Lpartial f-frac ddxfrac partial Lpartial f'=|displatsyyle frac partial Lpartial f-frac ddxfrac partial Lpartial f'=
-displaystyle frac partial Lpartial f-frac ddxfrac partial Lpartial f'=|displaystyle frc partial Lpartial f-frc ddxfrc partial Lpartial f'=
-displaystyle frac partial Lpartial f-frac ddxfrac partial Lpartial f'=|displaystyle frac partial Lpartia f-frac ddxfrac partial Lpartia f'=
-displaystyle frac partial Lpartial f-frac ddxfrac partial Lpartial f'=|displaystyle fcar partial Lpartial f-fcar ddxfcar partial Lpartial f'=
-displaystyle frac partial Lpartial f-frac ddxfrac partial Lpartial f'=|displaystyle frac partial Lpartial f-frc ddxfrac partial Lpartial f'=
+displaystyle fx=mx+bqquad textwith m=frac y-yx-xquad textandquad b=frac xy-xyx-x|displaystyle fx=mx+bqquad textwith =frac y-yx-xquad textandquad b=frac xy-xyx-x
+displaystyle fx=mx+bqquad textwith m=frac y-yx-xquad textandquad b=frac xy-xyx-x|dlisplaystyle fx=mx+bqquad textwith m=frac y-yx-xquad textandquad b=frac xy-xyx-x
+displaystyle fx=mx+bqquad textwith m=frac y-yx-xquad textandquad b=frac xy-xyx-x|displaystyle fx=mix+bqquad textwith m=frac y-yx-xquad textandquad b=frac xy-xyx-x
+displaystyle fx=mx+bqquad textwith m=frac y-yx-xquad textandquad b=frac xy-xyx-x|displaystyle fx=mx+bqquad textwith m=fraic y-yx-xquad textandquad b=frac xy-xyx-x
+displaystyle fx=mx+bqquad textwith m=frac y-yx-xquad textandquad b=frac xy-xyx-x|displaystyle fx=mx+bqquad textwth m=frac y-yx-xquad textandquad b=frac xy-xyx-x
+displaystyle fx=mx+bqquad textwith m=frac y-yx-xquad textandquad b=frac xy-xyx-x|displaystyle fx=mx+bqquad textwith m=frac y-yx-xquad txtandquad b=frac xy-xyx-x
+displaystyle fx=mx+bqquad textwith m=frac y-yx-xquad textandquad b=frac xy-xyx-x|displaystyle fx=mx+bqquad textwgith m=frac y-yx-xquad textandquad b=frac xy-xyx-x
+displaystyle fx=mx+bqquad textwith m=frac y-yx-xquad textandquad b=frac xy-xyx-x|idsplaystyle fx=mx+bqquad textwith m=frac y-yx-xquad textandquad b=frac xy-xyx-x
+displaystyle fx=mx+bqquad textwith m=frac y-yx-xquad textandquad b=frac xy-xyx-x|displaystyle fx=mx+bqquad textwith m=frac y-yx-xquad teqtandxuad b=frac xy-xyx-x
+displaystyle fx=mx+bqquad textwith m=frac y-yx-xquad textandquad b=frac xy-xyx-x|displaystyle fx=mx+bqquad textwith m=frarc y-yx-xquad textandquad b=frac xy-xyx-x

@@ -1,10 +1,10 @@
-Airfoil NACA at root NACA at tip|Airfoil NACA xat root NACA xat tip
-Airfoil NACA at root NACA at tip|Airfoil NACA at rolot NACA at tip
-Airfoil NACA at root NACA at tip|Airfoil NAC at root NAC at tip
-Airfoil NACA at root NACA at tip|Airfoil ACA at root ACA at tip
-Airfoil NACA at root NACA at tip|Airfoil NACA art root NACA art tip
-Airfoil NACA at root NACA at tip|Airfoil NACA at roort NACA at tip
-Airfoil NACA at root NACA at tip|Airfoil NACA at roo NACA at tip
-Airfoil NACA at root NACA at tip|Airfoil NAA at root NAA at tip
-Airfoil NACA at root NACA at tip|Airfoil NCAA at root NCAA at tip
-Airfoil NACA at root NACA at tip|Airfoil cNACA at root cNACA at tip
+Fuel capacity US gal l imp gal normal carried within wings|Fuel capacity US gal l imp gal nomal carried within wings
+Fuel capacity US gal l imp gal normal carried within wings|Fuel capacity US gal l imp gal normal carried withikn wings
+Fuel capacity US gal l imp gal normal carried within wings|Fuel capacity US gal l imp gal dnormal carried within wings
+Fuel capacity US gal l imp gal normal carried within wings|Fue capacity US gal l imp gal normal carried within wings
+Fuel capacity US gal l imp gal normal carried within wings|Fuejl capacity US gajl jl imp gajl normajl carried within wings
+Fuel capacity US gal l imp gal normal carried within wings|Fuegl capacity US gagl gl imp gagl normagl carried within wings
+Fuel capacity US gal l imp gal normal carried within wings|Fuel capacity US hgal l imp hgal normal carried within wings
+Fuel capacity US gal l imp gal normal carried within wings|Fuel capacity US fgal l imp fgal normal carried within wings
+Fuel capacity US gal l imp gal normal carried within wings|Fueul capacity US gaul ul imp gaul normaul carried within wings
+Fuel capacity US gal l imp gal normal carried within wings|Fuel capacity US gal l pmi gal normal carried within wings

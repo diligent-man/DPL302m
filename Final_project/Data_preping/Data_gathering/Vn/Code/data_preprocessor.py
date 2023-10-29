@@ -11,17 +11,22 @@ class TextPreprocessor:
         self.__data_path = ""
         self.__preprocessed_data_path = ""
 
+
     def set_data_path(self, path):
         self.__data_path = path
+
 
     def get_data_path(self):
         return self.__data_path
 
+
     def set_preprocessed_data_path(self, path):
         self.__preprocessed_data_path = path
 
+
     def get_preprocessed_data_path(self):
         return self.__preprocessed_data_path
+
 
     @staticmethod
     def __has_BOM(filename):
@@ -30,11 +35,13 @@ class TextPreprocessor:
             initial_bytes = f.read(2)
         return initial_bytes in [b'\xFE\xFF', b'\xFF\xFE']
 
+
     @staticmethod
     def __save_preprocessed_data(preprocessed_data_path: str, filename: str, data: str) -> None:
         with open(preprocessed_data_path + '/' + filename, 'w', encoding='utf-8') as f:
             f.write(data)
         return None
+
 
     def split_into_sentence(self):
         for filename in sorted(os.listdir(self.__data_path)):
@@ -63,6 +70,7 @@ class TextPreprocessor:
             data = '\n'.join(sentences)
             self.__save_preprocessed_data(self.__preprocessed_data_path, filename, data)
 
+
     def remove_by_regex(self, regex_dict):
         for i in regex_dict:
             for filename in sorted(os.listdir(self.__data_path)):
@@ -82,6 +90,7 @@ class TextPreprocessor:
                     self.__save_preprocessed_data(self.__preprocessed_data_path, filename, data)
         return None
 
+
     def standardize_mark(self):
         # Perform punctuation normalization on the data
         for filename in sorted(os.listdir(self.__preprocessed_data_path)):
@@ -95,9 +104,34 @@ class TextPreprocessor:
                     # If the normalized line is not empty, save it
                     if len(normalized_line) > 0:
                         data += normalized_line + '\n'
-
                 # Save the preprocessed data
                 self.__save_preprocessed_data(self.__preprocessed_data_path, filename, data)
+
+
+    def remove_stop_word(self) -> None:
+        # read stop words
+        stopwords = []
+        with open('vietnamese-stopwords.txt', 'r') as f:
+            for line in f:
+                stopwords.append(line[:-1]) # exclude escape sequence
+        stopwords = set(stopwords)  
+
+        # remove stop words that exist in the sentence
+        for filename in sorted(os.listdir(self.__preprocessed_data_path)):
+            with open(os.path.join(self.__preprocessed_data_path, filename), 'r', encoding='utf-8') as f:
+                data = []
+                for line in f:
+                    for stop_word in stopwords:
+                        tmp = line.split(' ')
+                        if stop_word in tmp:
+                            tmp.remove(stop_word)
+                    data.append(' '.join(tmp))
+
+                data = '\n'.join(data)
+                # Save the preprocessed data
+                self.__save_preprocessed_data(self.__preprocessed_data_path, filename, data)   
+        return None
+
 
 
 def vn_preprocessing() -> None:
@@ -121,18 +155,22 @@ def vn_preprocessing() -> None:
         # perform splitting
         text_preprocessor.split_into_sentence()
         print(text_preprocessor.get_preprocessed_data_path())
-        text_preprocessor.set_data_path(text_preprocessor.get_preprocessed_data_path())
 
+        text_preprocessor.set_data_path(text_preprocessor.get_preprocessed_data_path())        
+        text_preprocessor.standardize_mark()
+        text_preprocessor.remove_stop_word()
+        
         regex_dict = {0: [r"[~!@#$%\^&\*()\_,，./<>\?;:：\"\[\]\{\}\\|“”0-9\+=]*", ""],  # punctuation_marks_and_numeral
                       1: [r"[-–]", ""], # hyphen & dash
                      }
         text_preprocessor.remove_by_regex(regex_dict)
-        text_preprocessor.standardize_mark()
+
 
 
 def main() -> None:
     vn_preprocessing()
     return None
+
 
 
 if __name__ == '__main__':

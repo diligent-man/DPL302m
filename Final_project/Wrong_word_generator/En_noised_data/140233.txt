@@ -1,10 +1,10 @@
-displaystyle mathbf X =leftmathbf X mathbf X right|displaystyle mathbf X =leftmathbf X mathbf X righ
-displaystyle mathbf X =leftmathbf X mathbf X right|displaystyle mathbf  =leftmathbf  mathbf  right
-displaystyle mathbf X =leftmathbf X mathbf X right|displaystyle mathbf rX =leftmathbf rX mathbf rX right
-displaystyle mathbf X =leftmathbf X mathbf X right|displaystyle mthbf X =leftmthbf X mthbf X right
-displaystyle mathbf X =leftmathbf X mathbf X right|displaystyle mathbf X =leftmathbf X mathbf X righ
-displaystyle mathbf X =leftmathbf X mathbf X right|displaystyle mqathbf X =leftmqathbf X mqathbf X right
-displaystyle mathbf X =leftmathbf X mathbf X right|displaystyle mathbf  =leftmathbf  mathbf  right
-displaystyle mathbf X =leftmathbf X mathbf X right|displaystyle mathbf  =leftmathbf  mathbf  right
-displaystyle mathbf X =leftmathbf X mathbf X right|isplaystyle mathbf X =leftmathbf X mathbf X right
-displaystyle mathbf X =leftmathbf X mathbf X right|displaystyle mathbf yX =leftmathbf yX mathbf yX right
+displaystyle mathbf P =mathbf X leftmathbf X mathsf Tmathbf X right-mathbf X mathsf|displaystyle mathbf P =mathbf X leftmathbf X matehsf Tmathbf X right-mathbf X matehsf
+displaystyle mathbf P =mathbf X leftmathbf X mathsf Tmathbf X right-mathbf X mathsf|displaystyle mathbf P =mathbf  leftmathbf  mathsf Tmathbf  right-mathbf  mathsf
+displaystyle mathbf P =mathbf X leftmathbf X mathsf Tmathbf X right-mathbf X mathsf|displaystyle mathbf P =mathbf X leftmathbf X mathsf Tmatbf X right-mathbf X mathsf
+displaystyle mathbf P =mathbf X leftmathbf X mathsf Tmathbf X right-mathbf X mathsf|displaystyle wmathbf P =wmathbf X leftwmathbf X mathsf Twmathbf X right-wmathbf X mathsf
+displaystyle mathbf P =mathbf X leftmathbf X mathsf Tmathbf X right-mathbf X mathsf|displaystyle hatmbf P =hatmbf X lefthatmbf X mathsf Thatmbf X right-hatmbf X mathsf
+displaystyle mathbf P =mathbf X leftmathbf X mathsf Tmathbf X right-mathbf X mathsf|displaystyle mathbf P =mathbf X leftmathbf X mathsf Tmathbf X rigth-mathbf X mathsf
+displaystyle mathbf P =mathbf X leftmathbf X mathsf Tmathbf X right-mathbf X mathsf|dsplaystyle mathbf P =mathbf X leftmathbf X mathsf Tmathbf X right-mathbf X mathsf
+displaystyle mathbf P =mathbf X leftmathbf X mathsf Tmathbf X right-mathbf X mathsf|displaystyle mathbf P =mathbf X lftmathbf X mathsf Tmathbf X right-mathbf X mathsf
+displaystyle mathbf P =mathbf X leftmathbf X mathsf Tmathbf X right-mathbf X mathsf|dtsplaysiyle mathbf P =mathbf X leftmathbf X mathsf Tmathbf X right-mathbf X mathsf
+displaystyle mathbf P =mathbf X leftmathbf X mathsf Tmathbf X right-mathbf X mathsf|displaystyle mathbf P =mathbf sX leftmathbf sX mathsf Tmathbf sX right-mathbf sX mathsf
