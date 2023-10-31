@@ -144,7 +144,7 @@ a:hover {
   opacity: 1;
 }
 
-.hamburger_con span:first-child {
+.hamburger-icon span:first-child {
   transform: none;
 }
 
@@ -158,7 +158,7 @@ section {
     min-height: fit-content;
   }
   
-  .section_container {
+  .section-container {
     display: flex;
   }
 
@@ -227,18 +227,18 @@ body {
     cursor: pointer;
     transition: all 0.3s;
 }
-.dropdown_container .dropdown_toggle ion_icon {
+.dropdown_container .dropdown_toggle ion-icon {
     font-size: 20px;
     transition: transform 0.3s ease;
 }
-.dropdown_container .dropdown-toggle span {
+.dropdown_container .dropdown_toggle span {
     flex: 1;
     margin-left: 10px;}
 
 .dropdown_container.active .dropdown_toggle {
     border-radius: 20px 20px 0 0;
 }
-.dropdown_container .dropdown_menu {
+.dropdown_container .dropdown-menu {
     position: absolute;
     top: 100%;
     left: 0;
@@ -254,13 +254,13 @@ body {
     transition: all 1s;
     border-radius: 0 0 20px 20px;
 }
-.dropdown_container .dropdown_menu::-webkit-scrollbar {
+.dropdown_container .dropdown-menu::-webkit-scrollbar {
     display: none;
 }
-.dropdown_container.active .dropdown_menu {
+.dropdown_container.active .dropdown-menu {
     display: flex;
 }
-.dropdown_container .dropdown_menu li {
+.dropdown_container .dropdown-menu li {
     padding: 10px 20px;
     border-radius: 20px;
     cursor: pointer;
@@ -268,14 +268,14 @@ body {
     border-bottom: 1px solid var(--light-bg-color);
     transition: all 0.3s;
 }
-.dropdown_container .dropdown_menu li:hover {
+.dropdown_container .dropdown-menu li:hover {
     background-color: var(--light-bg-color);
 }
-.dropdown_container.active .dropdown_menu li.active {
+.dropdown_container.active .dropdown-menu li.active {
     color: var(--primary-text-color);
     background-color: var(--primary-color);
 }
-.dropdown_container.active .dropdown_menu li:not(.active):hover{
+.dropdown_container.active .dropdown-menu li:not(.active):hover{
     background-color: var(--light-bg-color);
 }
 .container .text_area {
@@ -314,7 +314,7 @@ body {
     background-color: rgb(241, 92, 142);
 }
 
-.language_dropdown{
+.language-dropdown{
     height: 20px;
     width: 100px;
 

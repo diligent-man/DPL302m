@@ -14,7 +14,7 @@ def show_html():
         if language == "English":
             output_text = "This is model for English".upper()
         elif language == "Vietnamese":
-            output_text = "This is model for Vietnamese".upper()
+            output_text = "This is model for Vietnamese".lower()
 
     return render_template('index1.html', output_text=output_text, input_text=input_text, lang=language)
 
