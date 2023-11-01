@@ -9,10 +9,13 @@ let input_area = document.getElementById("input_text")
 input_area.addEventListener("input", ( event ) => {
     let count_word = document.getElementById("input_chars")
     let alr = document.getElementById("alert")
-    let number_of_words = input_area.value.length
-    if (number_of_words > 10){
+    let input_splitting = input_area.value.split(" ").filter(n => n)
+    console.log(input_splitting)
+    let number_of_words = input_splitting.length
+    if (number_of_words > 1000){
       alr.style["display"] = "block"
-      input_area.value = input_area.value.substring(0, number_of_words - 1)
+      input_area.value = input_splitting.slice(0, 1000).join(" ")
+      count_word.textContent = 1000
     }
     else{
       count_word.textContent = number_of_words
@@ -25,20 +28,19 @@ function changeLanguage() {
 
   if (selectedLanguage === "English") {
       input_text.setAttribute("placeholder", "Write something here...");
-  } else if (selectedLanguage === "Vietnamese") {
+  }else if(selectedLanguage === "Vietnamese"){
       input_text.setAttribute("placeholder", "Viết gì đó ở đây...");
   }
 
 }
-    function changeToCurrentLanguage(){
-        let cur_lang = document.getElementById("cached").textContent
-        cur_lang = cur_lang.trim()
-        let lang_selection = document.getElementById("language")
-        if (cur_lang === 'English'){
-            lang_selection.select = 'English'
-        }
-        else {
-            lang_selection.value = 'Vietnamese'
-        }
-        console.log(lang_selection.value)
+function changeToCurrentLanguage(){
+    let cur_lang = document.getElementById("cached").textContent
+    cur_lang = cur_lang.trim()
+    let lang_selection = document.getElementById("language")
+    if (cur_lang === 'English'){
+        lang_selection.select = 'English'
     }
+    else {
+        lang_selection.value = 'Vietnamese'
+    }
+}

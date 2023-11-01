@@ -116,9 +116,7 @@ a:hover {
   transition: all 0.3 ease-in-out;
 }
 
-.menu_links li {
-  list-style: none;
-}
+
 
 .menu_links.open {
   max-height: 300px;
@@ -309,15 +307,17 @@ body {
     gap: 20px;
     padding: 0 20px;
     border-radius: 30px;
-    color: black
+    color: black;
     cursor: pointer;
     background-color: rgb(241, 92, 142);
 }
 
 .language-dropdown{
-    height: 20px;
-    width: 100px;
-
+    padding: 2px;
+    border-radius: 5px;
+    position: relative;
+    left: 40px;
+    bottom: 10px;
 }
 .pushable {
   background: hsl(340deg 100% 32%);
@@ -326,6 +326,11 @@ body {
   padding: 0;
   cursor: pointer;
   outline-offset: 4px;
+  border: none;
+}
+.button{
+  border: none;
+  box-shadow: 0 2px 4px darkslategray;
 }
 .front {
   display: block;
@@ -352,7 +357,4 @@ body {
 }
 .input_wrapper{
   position: relative;
-}
-.card{
-  min-height: 100px;
 }

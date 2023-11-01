@@ -80,6 +80,9 @@
 .about-content .read-more: hover{
     background-color: #3e8e41;
 }
+body{
+    background-image: linear-gradient(#cdffd8, #94b9ff);
+}
 @media screen and (max-width: 768px){
     .heading{
         padding: 0px 20px;
