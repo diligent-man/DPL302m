@@ -41,7 +41,6 @@ def scaled_dot_product_attention(q, k, v, mask=None):
       Returns:
         output, attention_weights
       """
-
       matmul_qk = tf.matmul(q, k, transpose_b=True)  # (..., seq_len_q, seq_len_k)
 
       # scale matmul_qk
@@ -114,7 +113,6 @@ class MultiHeadAttention(tf.keras.layers.Layer):
                                       (batch_size, -1, self.d_model))  # (batch_size, seq_len_q, d_model)
 
         output = self.dense(concat_attention)  # (batch_size, seq_len_q, d_model)
-
         return output, attention_weights
 
 
@@ -308,7 +306,7 @@ class Transformer(tf.keras.Model):
 
 
     def __call__(self, inp, tar, training, enc_padding_mask,
-             look_ahead_mask, dec_padding_mask):
+                 look_ahead_mask, dec_padding_mask):
         # print('enc_padding_mask: ', enc_padding_mask)
         enc_output = self.encoder(inp, training, enc_padding_mask)  # (batch_size, inp_seq_len, d_model)
 
@@ -317,4 +315,33 @@ class Transformer(tf.keras.Model):
 
         final_output = self.final_layer(dec_output)  # (batch_size, tar_seq_len, target_vocab_size)
         return final_output, attention_weights
-        
+
+
+
+
+
+
+def main() -> None:
+
+    
+    model = Transformer(d_model=512, num_heads=8, num_layers=4, dff=1024,
+                 input_vocab_size=1000, target_vocab_size=1000,
+                 pe_input=1000, pe_target=1000)
+
+
+    temp_input = tf.random.uniform((64, 38), dtype=tf.int64, minval=0, maxval=200)
+    temp_target = tf.random.uniform((64, 36), dtype=tf.int64, minval=0, maxval=200)
+    print(temp_input)
+
+
+    fn_out, _ = model(temp_input, temp_target, training=False, 
+                               enc_padding_mask=None, 
+                               look_ahead_mask=None,
+                               dec_padding_mask=None)
+
+    print(fn_out.shape)  # (batch_size, tar_seq_len, target_vocab_size)
+    return None
+ 
+ 
+if __name__ == '__main__':
+    main() 
