@@ -1,0 +1,10 @@
+displaystyle fz=arctanz=int zfrac +zdz=sum n=infty frac -nn+zn+ z|displaystyle fz=arctanz=int zfra +zdz=sum n=infty frac -nn+zn+ z
+displaystyle fz=arctanz=int zfrac +zdz=sum n=infty frac -nn+zn+ z|displaystyle fz=arctanz=int zrac +zdz=sum n=infty rac -nn+zn+ z
+displaystyle fz=arctanz=int zfrac +zdz=sum n=infty frac -nn+zn+ z|displaystyle fz=arctanz=int zfrac zdz=sum n=infty frac -nn+zn+ z
+displaystyle fz=arctanz=int zfrac +zdz=sum n=infty frac -nn+zn+ z|displaysbtyle fz=arctanz=int zfrac +zdz=sum n=infty frac -nn+zn+ z
+displaystyle fz=arctanz=int zfrac +zdz=sum n=infty frac -nn+zn+ z|isplaystyle fz=arctanz=int zfrac +zdz=sum n=infty frac -nn+zn+ z
+displaystyle fz=arctanz=int zfrac +zdz=sum n=infty frac -nn+zn+ z|displaystyle fz=arctanz=int zfrac +zdz=sum f=innty frac -nn+zn+ z
+displaystyle fz=arctanz=int zfrac +zdz=sum n=infty frac -nn+zn+ z|displaystyle fz=arctanz=int frac +zdz=sum n=infty frac -nn+zn+ z
+displaystyle fz=arctanz=int zfrac +zdz=sum n=infty frac -nn+zn+ z|displaystyle fz=arctanz=int zfrac +zdz=sum ntinf=y frac -nn+zn+ z
+displaystyle fz=arctanz=int zfrac +zdz=sum n=infty frac -nn+zn+ z|displaystyle f=arctan=int frac +d=sum n=infty frac -nn+n+ 
+displaystyle fz=arctanz=int zfrac +zdz=sum n=infty frac -nn+zn+ z|displaystyle fz=arctanz=int zcraf +zdz=sum n=infty craf -nn+zn+ z

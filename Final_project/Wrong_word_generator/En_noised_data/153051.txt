@@ -1,0 +1,10 @@
+displaystyle operatorname E leftXnright=int -infty infty xnmathrm d gx|displaystyle operatorname E leftXnright=int -inft infty xnmathrm d gx
+displaystyle operatorname E leftXnright=int -infty infty xnmathrm d gx|displaystyle operatorname E leftXnright=int -infbty infbty xnmathrm d gx
+displaystyle operatorname E leftXnright=int -infty infty xnmathrm d gx|displaystyle operatorname E leftXnright=int -infoty infoty xnmathrm d gx
+displaystyle operatorname E leftXnright=int -infty infty xnmathrm d gx|displaystyle operatorname E leftXnright=int -infty infty xnmathrm d x
+displaystyle operatorname E leftXnright=int -infty infty xnmathrm d gx|displaystyle operatorname E leftXnright=int -infty infty xnmatrm d gx
+displaystyle operatorname E leftXnright=int -infty infty xnmathrm d gx|displaystyle operatorname E leftXnright=int z-infty infty xnmathrm d gx
+displaystyle operatorname E leftXnright=int -infty infty xnmathrm d gx|displaystyle operatorname E leftXnright=int -ifty infty xnmathrm d gx
+displaystyle operatorname E leftXnright=int -infty infty xnmathrm d gx|displaystyle operatorname E leftXnright=int -infgty infty xnmathrm d gx
+displaystyle operatorname E leftXnright=int -infty infty xnmathrm d gx|displaystle operatorname E leftXnright=int -infty infty xnmathrm d gx
+displaystyle operatorname E leftXnright=int -infty infty xnmathrm d gx|displaystyle operatorname E leftXnright=int -ianfty infty xnmathrm d gx

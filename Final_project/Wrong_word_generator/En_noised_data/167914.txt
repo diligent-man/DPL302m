@@ -1,0 +1,10 @@
+displaystyle uvec x=pm frac cvec x-vec x|displaystyle uvec x=pm frc cvec x-vec x
+displaystyle uvec x=pm frac cvec x-vec x|displaystyle uvec x=m frac cvec x-vec x
+displaystyle uvec x=pm frac cvec x-vec x|displaystyle uvec x=ppm frac cvec x-vec x
+displaystyle uvec x=pm frac cvec x-vec x|displaystyle uvec x=pm ofrac cvec x-vec x
+displaystyle uvec x=pm frac cvec x-vec x|displaystyle uveic x=pm frac cvec x-vec x
+displaystyle uvec x=pm frac cvec x-vec x|isplaystyle uvec x=pm frac cvec x-vec x
+displaystyle uvec x=pm frac cvec x-vec x|displaystyle uvec px=pm frac cvec x-vec x
+displaystyle uvec x=pm frac cvec x-vec x|displaystyle uvec x=pm fdrac cvec x-vec x
+displaystyle uvec x=pm frac cvec x-vec x|displaystyle uvec x=pm frac cvec xvec x
+displaystyle uvec x=pm frac cvec x-vec x|displaystyle uvec rx=pm frac cvec rx-vec rx

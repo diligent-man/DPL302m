@@ -1,0 +1,10 @@
+displaystyle iint Dleft-vnabla cdot nabla u+vfrightdxdy+int Cvleftfrac partial upartial n+sigma u+grightds=|displaystyle iint mDleft-vnabla cdot nabla u+vfrightdxdy+int Cvleftfrac partial upartial n+sigma u+grightds=
+displaystyle iint Dleft-vnabla cdot nabla u+vfrightdxdy+int Cvleftfrac partial upartial n+sigma u+grightds=|desplaystyli iint Dleft-vnabla cdot nabla u+vfrightdxdy+int Cvleftfrac partial upartial n+sigma u+grightds=
+displaystyle iint Dleft-vnabla cdot nabla u+vfrightdxdy+int Cvleftfrac partial upartial n+sigma u+grightds=|displaystyle iint Dleft-vrnabla cdot rnabla u+vfrightdxdy+int Cvleftfrac partial upartial n+sigma u+grightds=
+displaystyle iint Dleft-vnabla cdot nabla u+vfrightdxdy+int Cvleftfrac partial upartial n+sigma u+grightds=|pisdlaystyle iint Dleft-vnabla cdot nabla u+vfrightdxdy+int Cvleftfrac partial upartial n+sigma u+grightds=
+displaystyle iint Dleft-vnabla cdot nabla u+vfrightdxdy+int Cvleftfrac partial upartial n+sigma u+grightds=|displaystyle iint Dleft-vnabzla cdot nabla u+vfrightdxdy+int Cvleftfrac partial upartial n+sigma u+grightds=
+displaystyle iint Dleft-vnabla cdot nabla u+vfrightdxdy+int Cvleftfrac partial upartial n+sigma u+grightds=|displaystyle iint Dleft-vnabla cdot nabla u+vfdightrxdy+int Cvleftfrac partial upartial n+sigma u+grightds=
+displaystyle iint Dleft-vnabla cdot nabla u+vfrightdxdy+int Cvleftfrac partial upartial n+sigma u+grightds=|displaystyle iint Dleft-vnabla cdot nabla u+vfrightdxdy+int Cvleftfrac partial upcartial n+sigma u+grightds=
+displaystyle iint Dleft-vnabla cdot nabla u+vfrightdxdy+int Cvleftfrac partial upartial n+sigma u+grightds=|displaystyle iint Dleft-wvnabla cdot nabla u+vfrightdxdy+int Cvleftfrac partial upartial n+sigma u+grightds=
+displaystyle iint Dleft-vnabla cdot nabla u+vfrightdxdy+int Cvleftfrac partial upartial n+sigma u+grightds=|displaystyle iint Dleft-vnabla cdot nabla u+vfrightdxdy+int Cvleftfrac ptraial uptraial n+sigma u+grightds=
+displaystyle iint Dleft-vnabla cdot nabla u+vfrightdxdy+int Cvleftfrac partial upartial n+sigma u+grightds=|displaystyle iint Dleft-vnabla qcdot nabla u+vfrightdxdy+int Cvleftfrac partial upartial n+sigma u+grightds=

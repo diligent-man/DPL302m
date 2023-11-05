@@ -1,0 +1,1430 @@
+In mathematics, the Riemann–Stieltjes integral is a generalization of the Riemann integral, named after Bernhard Riemann and Thomas Joannes Stieltjes. The definition of this integral was first published in 1894 by Stieltjes. It serves as an instructive and useful precursor of the Lebesgue integral, and an invaluable tool in unifying equivalent forms of statistical theorems that apply to discrete and continuous probability.
+The Riemann–Stieltjes integral of a real-valued function 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ of a real variable on the interval 
+
+
+
+[
+a
+,
+b
+]
+
+
+{\displaystyle [a,b]}
+
+ with respect to another real-to-real function 
+
+
+
+g
+
+
+{\displaystyle g}
+
+ is denoted by
+
+
+
+
+
+∫
+
+x
+=
+a
+
+
+b
+
+
+f
+(
+x
+)
+
+
+d
+
+g
+(
+x
+)
+.
+
+
+{\displaystyle \int _{x=a}^{b}f(x)\,\mathrm {d} g(x).}
+
+Its definition uses a sequence of partitions 
+
+
+
+P
+
+
+{\displaystyle P}
+
+ of the interval 
+
+
+
+[
+a
+,
+b
+]
+
+
+{\displaystyle [a,b]}
+
+
+
+
+
+
+P
+=
+{
+a
+=
+
+x
+
+0
+
+
+<
+
+x
+
+1
+
+
+<
+⋯
+<
+
+x
+
+n
+
+
+=
+b
+}
+.
+
+
+{\displaystyle P=\{a=x_{0}<x_{1}<\cdots <x_{n}=b\}.}
+
+The integral, then, is defined to be the limit, as the norm (the length of the longest subinterval) of the partitions approaches 
+
+
+
+0
+
+
+{\displaystyle 0}
+
+, of the approximating sum
+
+
+
+
+S
+(
+P
+,
+f
+,
+g
+)
+=
+
+∑
+
+i
+=
+0
+
+
+n
+−
+1
+
+
+f
+(
+
+c
+
+i
+
+
+)
+
+[
+
+g
+(
+
+x
+
+i
++
+1
+
+
+)
+−
+g
+(
+
+x
+
+i
+
+
+)
+
+]
+
+
+
+{\displaystyle S(P,f,g)=\sum _{i=0}^{n-1}f(c_{i})\left[g(x_{i+1})-g(x_{i})\right]}
+
+where 
+
+
+
+
+c
+
+i
+
+
+
+
+{\displaystyle c_{i}}
+
+ is in the 
+
+
+
+i
+
+
+{\displaystyle i}
+
+-th subinterval 
+
+
+
+[
+
+x
+
+i
+
+
+;
+
+x
+
+i
++
+1
+
+
+]
+
+
+{\displaystyle [x_{i};x_{i+1}]}
+
+.  The two functions 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ and 
+
+
+
+g
+
+
+{\displaystyle g}
+
+ are respectively called the integrand and the integrator. Typically 
+
+
+
+g
+
+
+{\displaystyle g}
+
+ is taken to be monotone (or at least of bounded variation) and right-semicontinuous (however this last is essentially convention). We specifically do not require 
+
+
+
+g
+
+
+{\displaystyle g}
+
+ to be continuous, which allows for integrals that have point mass terms.
+The "limit" is here understood to be a number A (the value of the Riemann–Stieltjes integral) such that for every ε > 0, there exists δ > 0 such that for every partition P with norm(P) < δ, and for every choice of points ci in [xi, xi+1],
+
+
+
+
+
+|
+
+S
+(
+P
+,
+f
+,
+g
+)
+−
+A
+
+|
+
+<
+ε
+.
+
+
+
+{\displaystyle |S(P,f,g)-A|<\varepsilon .\,}
+
+The Riemann–Stieltjes integral admits integration by parts in the form
+
+
+
+
+
+∫
+
+a
+
+
+b
+
+
+f
+(
+x
+)
+
+
+d
+
+g
+(
+x
+)
+=
+f
+(
+b
+)
+g
+(
+b
+)
+−
+f
+(
+a
+)
+g
+(
+a
+)
+−
+
+∫
+
+a
+
+
+b
+
+
+g
+(
+x
+)
+
+
+d
+
+f
+(
+x
+)
+
+
+{\displaystyle \int _{a}^{b}f(x)\,\mathrm {d} g(x)=f(b)g(b)-f(a)g(a)-\int _{a}^{b}g(x)\,\mathrm {d} f(x)}
+
+and the existence of either integral implies the existence of the other.
+On the other hand, a classical result shows that the integral is well-defined if f is α-Hölder continuous and g is β-Hölder continuous with α + β > 1 .
+If g is the cumulative probability distribution function of a random variable X that has a probability density function with respect to Lebesgue measure, and f is any function for which the expected value 
+
+
+
+E
+⁡
+
+[
+
+
+
+|
+
+f
+(
+X
+)
+
+|
+
+
+
+]
+
+
+
+{\displaystyle \operatorname {E} \left[\,\left|f(X)\right|\,\right]}
+
+ is finite, then the probability density function of X is the derivative of g and we have
+
+
+
+
+E
+⁡
+[
+f
+(
+X
+)
+]
+=
+
+∫
+
+−
+∞
+
+
+∞
+
+
+f
+(
+x
+)
+
+g
+′
+
+(
+x
+)
+
+
+d
+
+x
+.
+
+
+{\displaystyle \operatorname {E} [f(X)]=\int _{-\infty }^{\infty }f(x)g'(x)\,\mathrm {d} x.}
+
+But this formula does not work if X does not have a probability density function with respect to Lebesgue measure.  In particular, it does not work if the distribution of X is discrete (i.e., all of the probability is accounted for by point-masses), and even if the cumulative distribution function g is continuous, it does not work if g fails to be absolutely continuous (again, the Cantor function may serve as an example of this failure).  But the identity
+
+
+
+
+E
+⁡
+[
+f
+(
+X
+)
+]
+=
+
+∫
+
+−
+∞
+
+
+∞
+
+
+f
+(
+x
+)
+
+
+d
+
+g
+(
+x
+)
+
+
+{\displaystyle \operatorname {E} [f(X)]=\int _{-\infty }^{\infty }f(x)\,\mathrm {d} g(x)}
+
+holds if g is any cumulative probability distribution function on the real line, no matter how ill-behaved.  In particular, no matter how ill-behaved the cumulative distribution function g of a random variable X, if the moment E(X) exists, then it is equal to
+
+
+
+
+E
+⁡
+
+[
+
+X
+
+n
+
+
+]
+
+=
+
+∫
+
+−
+∞
+
+
+∞
+
+
+
+x
+
+n
+
+
+
+
+d
+
+g
+(
+x
+)
+.
+
+
+{\displaystyle \operatorname {E} \left[X^{n}\right]=\int _{-\infty }^{\infty }x^{n}\,\mathrm {d} g(x).}
+
+The Riemann–Stieltjes integral appears in the original formulation of F. Riesz's theorem which represents  the dual space of the Banach space C[a,b] of continuous functions in an interval [a,b] as Riemann–Stieltjes integrals against functions of bounded variation.  Later, that theorem was reformulated in terms of measures.
+The Riemann–Stieltjes integral also appears in the formulation of the spectral theorem for (non-compact) self-adjoint (or more generally, normal) operators in a Hilbert space.  In this theorem, the integral is considered with respect to a spectral family of projections.
+The best simple existence theorem states that if f is continuous and g is of bounded variation on [a, b], then the integral exists. A function g is of bounded variation if and only if it is the difference between two (bounded) monotone functions.  If g is not of bounded variation, then there will be continuous functions which cannot be integrated with respect to g.  In general, the integral is not well-defined if f and g share any points of discontinuity, but there are other cases as well.
+An important generalization is the Lebesgue–Stieltjes integral, which generalizes the Riemann–Stieltjes integral in a way analogous to how the Lebesgue integral generalizes the Riemann integral. If improper Riemann–Stieltjes integrals are allowed, then the Lebesgue integral is not strictly more general than the Riemann–Stieltjes integral.
+The Riemann–Stieltjes integral also generalizes to the case when either the integrand ƒ or the integrator g take values in a Banach space.  If g : [a,b] → X takes values in the Banach space X, then it is natural to assume that it is of strongly bounded variation, meaning that
+
+
+
+
+sup
+
+∑
+
+i
+
+
+‖
+g
+(
+
+t
+
+i
+−
+1
+
+
+)
+−
+g
+(
+
+t
+
+i
+
+
+)
+
+‖
+
+X
+
+
+<
+∞
+
+
+{\displaystyle \sup \sum _{i}\|g(t_{i-1})-g(t_{i})\|_{X}<\infty }
+
+the supremum being taken over all finite partitions
+
+
+
+
+a
+=
+
+t
+
+0
+
+
+≤
+
+t
+
+1
+
+
+≤
+⋯
+≤
+
+t
+
+n
+
+
+=
+b
+
+
+{\displaystyle a=t_{0}\leq t_{1}\leq \cdots \leq t_{n}=b}
+
+of the interval [a,b].  This generalization plays a role in the study of semigroups, via the Laplace–Stieltjes transform.
+The Itô integral extends the Riemann–Stietjes integral to encompass integrands and integrators which are stochastic processes rather than simple functions; see also stochastic calculus.
+A slight generalization is to consider in the above definition partitions P that refine another partition Pε, meaning that P arises from Pε by the addition of points, rather than from partitions with a finer mesh. Specifically, the generalized Riemann–Stieltjes integral of f with respect to g is a number A such that for every ε > 0 there exists a partition Pε such that for every partition P that refines Pε,
+
+
+
+
+
+|
+
+S
+(
+P
+,
+f
+,
+g
+)
+−
+A
+
+|
+
+<
+ε
+
+
+
+{\displaystyle |S(P,f,g)-A|<\varepsilon \,}
+
+for every choice of points ci in [xi, xi+1].
+This generalization exhibits the Riemann–Stieltjes integral as the Moore–Smith limit on the directed set of partitions of [a, b] .
+A consequence is that with this definition, the integral 
+
+
+
+
+∫
+
+a
+
+
+b
+
+
+f
+(
+x
+)
+
+
+d
+
+g
+(
+x
+)
+
+
+{\textstyle \int _{a}^{b}f(x)\,\mathrm {d} g(x)}
+
+ can still be defined in cases where f and g have a point of discontinuity in common.
+The Riemann–Stieltjes integral can be efficiently handled using an appropriate generalization of Darboux sums.  For a partition P and a nondecreasing function g on [a, b] define the upper Darboux sum of f with respect to g by
+
+
+
+
+U
+(
+P
+,
+f
+,
+g
+)
+=
+
+∑
+
+i
+=
+1
+
+
+n
+
+
+
+
+[
+
+g
+(
+
+x
+
+i
+
+
+)
+−
+g
+(
+
+x
+
+i
+−
+1
+
+
+)
+
+]
+
+
+sup
+
+x
+∈
+[
+
+x
+
+i
+−
+1
+
+
+,
+
+x
+
+i
+
+
+]
+
+
+f
+(
+x
+)
+
+
+{\displaystyle U(P,f,g)=\sum _{i=1}^{n}\,\,[\,g(x_{i})-g(x_{i-1})\,]\,\sup _{x\in [x_{i-1},x_{i}]}f(x)}
+
+and the lower sum by
+
+
+
+
+L
+(
+P
+,
+f
+,
+g
+)
+=
+
+∑
+
+i
+=
+1
+
+
+n
+
+
+
+
+[
+
+g
+(
+
+x
+
+i
+
+
+)
+−
+g
+(
+
+x
+
+i
+−
+1
+
+
+)
+
+]
+
+
+inf
+
+x
+∈
+[
+
+x
+
+i
+−
+1
+
+
+,
+
+x
+
+i
+
+
+]
+
+
+f
+(
+x
+)
+.
+
+
+{\displaystyle L(P,f,g)=\sum _{i=1}^{n}\,\,[\,g(x_{i})-g(x_{i-1})\,]\,\inf _{x\in [x_{i-1},x_{i}]}f(x).}
+
+Then the generalized Riemann–Stieltjes of f with respect to g exists if and only if, for every ε > 0, there exists a partition P such that
+
+
+
+
+U
+(
+P
+,
+f
+,
+g
+)
+−
+L
+(
+P
+,
+f
+,
+g
+)
+<
+ε
+.
+
+
+{\displaystyle U(P,f,g)-L(P,f,g)<\varepsilon .}
+
+Furthermore, f is Riemann–Stieltjes integrable with respect to g (in the classical sense) if
+
+
+
+
+
+lim
+
+mesh
+⁡
+(
+P
+)
+→
+0
+
+
+[
+
+U
+(
+P
+,
+f
+,
+g
+)
+−
+L
+(
+P
+,
+f
+,
+g
+)
+
+]
+=
+0.
+
+
+
+{\displaystyle \lim _{\operatorname {mesh} (P)\to 0}[\,U(P,f,g)-L(P,f,g)\,]=0.\quad }
+
+Given a 
+
+
+
+g
+(
+x
+)
+
+
+{\displaystyle g(x)}
+
+ which is continuously differentiable over 
+
+
+
+
+R
+
+
+
+{\displaystyle \mathbb {R} }
+
+ it can be shown that there is the equality
+
+
+
+
+
+∫
+
+a
+
+
+b
+
+
+f
+(
+x
+)
+
+
+d
+
+g
+(
+x
+)
+=
+
+∫
+
+a
+
+
+b
+
+
+f
+(
+x
+)
+
+g
+′
+
+(
+x
+)
+
+
+d
+
+x
+
+
+{\displaystyle \int _{a}^{b}f(x)\,\mathrm {d} g(x)=\int _{a}^{b}f(x)g'(x)\,\mathrm {d} x}
+
+where the integral on the right-hand side is the standard Riemann integral, assuming that 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ can be integrated by the Riemann–Stieltjes integral.
+More generally, the Riemann integral equals the Riemann–Stieltjes integral if 
+
+
+
+g
+
+
+{\displaystyle g}
+
+ is the Lebesgue integral of its derivative; in this case 
+
+
+
+g
+
+
+{\displaystyle g}
+
+ is said to be absolutely continuous.
+It may be the case that 
+
+
+
+g
+
+
+{\displaystyle g}
+
+ has jump discontinuities, or may have derivative zero almost everywhere while still being continuous and increasing (for example, 
+
+
+
+g
+
+
+{\displaystyle g}
+
+ could be the Cantor function or “Devil's staircase”), in either of which cases the Riemann–Stieltjes integral is not captured by any expression involving derivatives of g.
+The standard Riemann integral is a special case of the Riemann–Stieltjes integral where 
+
+
+
+g
+(
+x
+)
+=
+x
+
+
+{\displaystyle g(x)=x}
+
+.
+Consider the function 
+
+
+
+g
+(
+x
+)
+=
+max
+{
+0
+,
+x
+}
+
+
+{\displaystyle g(x)=\max\{0,x\}}
+
+ used in the study of neural networks, called a rectified linear unit (ReLU). Then the Riemann–Stieltjes can be evaluated as
+
+
+
+
+
+∫
+
+a
+
+
+b
+
+
+f
+(
+x
+)
+
+
+d
+
+g
+(
+x
+)
+=
+
+∫
+
+g
+(
+a
+)
+
+
+g
+(
+b
+)
+
+
+f
+(
+x
+)
+
+
+d
+
+x
+
+
+{\displaystyle \int _{a}^{b}f(x)\,\mathrm {d} g(x)=\int _{g(a)}^{g(b)}f(x)\,\mathrm {d} x}
+
+where the integral on the right-hand side is the standard Riemann integral.
+Cavalieri's principle can be used to calculate areas bounded by curves using Riemann–Stieltjes integrals. The integration strips of Riemann integration are replaced with strips that are non-rectangular in shape. The method is to transform a "Cavaliere region" with a transformation 
+
+
+
+h
+
+
+{\displaystyle h}
+
+, or to use 
+
+
+
+g
+=
+
+h
+
+−
+1
+
+
+
+
+{\displaystyle g=h^{-1}}
+
+ as integrand.
+For a given function 
+
+
+
+f
+(
+x
+)
+
+
+{\displaystyle f(x)}
+
+ on an interval 
+
+
+
+[
+a
+,
+b
+]
+
+
+{\displaystyle [a,b]}
+
+, a "translational function" 
+
+
+
+a
+(
+y
+)
+
+
+{\displaystyle a(y)}
+
+ must intersect 
+
+
+
+(
+x
+,
+f
+(
+x
+)
+)
+
+
+{\displaystyle (x,f(x))}
+
+ exactly once for any shift in the interval. A "Cavaliere region" is then bounded by  
+
+
+
+f
+(
+x
+)
+,
+a
+(
+y
+)
+
+
+{\displaystyle f(x),a(y)}
+
+, the 
+
+
+
+x
+
+
+{\displaystyle x}
+
+-axis, and 
+
+
+
+b
+(
+y
+)
+=
+a
+(
+y
+)
++
+(
+b
+−
+a
+)
+
+
+{\displaystyle b(y)=a(y)+(b-a)}
+
+. The area of the region is then
+
+
+
+
+
+∫
+
+a
+(
+y
+)
+
+
+b
+(
+y
+)
+
+
+f
+(
+x
+)
+
+d
+x
+ 
+=
+ 
+
+∫
+
+
+a
+′
+
+
+
+
+b
+′
+
+
+
+f
+(
+x
+)
+
+d
+g
+(
+x
+)
+,
+
+
+{\displaystyle \int _{a(y)}^{b(y)}f(x)\,dx\ =\ \int _{a'}^{b'}f(x)\,dg(x),}
+
+where 
+
+
+
+
+a
+′
+
+
+
+{\displaystyle a'}
+
+ and 
+
+
+
+
+b
+′
+
+
+
+{\displaystyle b'}
+
+ are the 
+
+
+
+x
+
+
+{\displaystyle x}
+
+-values where  
+
+
+
+a
+(
+y
+)
+
+
+{\displaystyle a(y)}
+
+ and  
+
+
+
+b
+(
+y
+)
+
+
+{\displaystyle b(y)}
+
+ intersect 
+
+
+
+f
+(
+x
+)
+
+
+{\displaystyle f(x)}
+
+.
+Graves, Lawrence (1946). The Theory of Functions of Real Variables. McGraw-Hill. via HathiTrust
+Hildebrandt, T.H. (1938). "Definitions of Stieltjes integrals of the Riemann type". The American Mathematical Monthly. 45 (5): 265–278. ISSN 0002-9890. JSTOR 2302540. MR 1524276.
+Hille, Einar; Phillips, Ralph S. (1974). Functional analysis and semi-groups. Providence, RI: American Mathematical Society. MR 0423094.
+Johnsonbaugh, Richard F.; Pfaffenberger, William Elmer (2010). Foundations of mathematical analysis. Mineola, NY: Dover Publications. ISBN 978-0-486-47766-4.
+Kolmogorov, Andrey; Fomin, Sergei V. (1975) [1970]. Introductory Real Analysis. Translated by Silverman, Richard A. (Revised English ed.). Dover Press. ISBN 0-486-61226-0.
+McShane, E. J. (1952). "Partial orderings & Moore-Smith limit" (PDF). The American Mathematical Monthly. 59: 1–11. doi:10.2307/2307181. JSTOR 2307181. Retrieved 2 November 2010.
+Pollard, Henry (1920). "The Stieltjes integral and its generalizations". The Quarterly Journal of Pure and Applied Mathematics. 49.
+Riesz, F.; Sz. Nagy, B. (1990). Functional Analysis. Dover Publications. ISBN 0-486-66289-6.
+Rudin, Walter (1964). Principles of mathematical analysis (Second ed.). New York, NY: McGraw-Hill.
+Shilov, G. E.; Gurevich, B. L. (1978). Integral, Measure, and Derivative: A unified approach. Translated by Silverman, Richard A. Dover Publications. Bibcode:1966imdu.book.....S. ISBN 0-486-63519-8.
+Stieltjes, Thomas Jan (1894). "Recherches sur les fractions continues". Ann. Fac. Sci. Toulouse. VIII: 1–122. MR 1344720.
+Stroock, Daniel W. (1998). A Concise Introduction to the Theory of Integration (3rd ed.). Birkhauser. ISBN 0-8176-4073-8.
+Young, L.C. (1936). "An inequality of the Hölder type, connected with Stieltjes integration". Acta Mathematica. 67 (1): 251–282. doi:10.1007/bf02401743.

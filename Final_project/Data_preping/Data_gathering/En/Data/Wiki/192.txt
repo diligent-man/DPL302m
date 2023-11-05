@@ -1,0 +1,2360 @@
+Algebra can essentially be considered as doing computations similar to those of arithmetic but with non-numerical mathematical objects. However, until the 19th century, algebra consisted essentially of the theory of equations. For example, the fundamental theorem of algebra belongs to the theory of equations and is not, nowadays, considered as belonging to algebra (in fact, every proof must use the completeness of the real numbers, which is not an algebraic property).
+This article describes the history of the theory of equations, called here "algebra", from the origins to the emergence of algebra as a separate area of mathematics.
+The word "algebra" is derived from the Arabic word الجبر al-jabr, and this comes from the treatise written in the year 830 by the medieval Persian mathematician, Muhammad ibn Mūsā al-Khwārizmī, whose Arabic title, Kitāb al-muḫtaṣar fī ḥisāb al-ğabr wa-l-muqābala, can be translated as The Compendious Book on Calculation by Completion and Balancing. The treatise provided for the systematic solution of linear and quadratic equations. According to one history, "[i]t is not certain just what the terms al-jabr and muqabalah mean, but the usual interpretation is similar to that implied in the previous translation. The word 'al-jabr' presumably meant something like 'restoration' or 'completion' and seems to refer to the transposition of subtracted terms to the other side of an equation; the word 'muqabalah' is said to refer to 'reduction' or 'balancing'—that is, the cancellation of like terms on opposite sides of the equation. Arabic influence in Spain long after the time of al-Khwarizmi is found in Don Quixote, where the word 'algebrista' is used for a bone-setter, that is, a 'restorer'." The term is used by al-Khwarizmi to describe the operations that he introduced, "reduction" and "balancing", referring to the transposition of subtracted terms to the other side of an equation, that is, the cancellation of like terms on opposite sides of the equation.
+Algebra did not always make use of the symbolism that is now ubiquitous in mathematics; instead, it went through three distinct stages. The stages in the development of symbolic algebra are approximately as follows:
+
+Rhetorical algebra, in which equations are written in full sentences. For example, the rhetorical form of 
+
+
+
+x
++
+1
+=
+2
+
+
+{\displaystyle x+1=2}
+
+ is "The thing plus one equals two" or possibly "The thing plus 1 equals 2". Rhetorical algebra was first developed by the ancient Babylonians and remained dominant up to the 16th century.
+Syncopated algebra, in which some symbolism is used, but which does not contain all of the characteristics of symbolic algebra. For instance, there may be a restriction that subtraction may be used only once within one side of an equation, which is not the case with symbolic algebra. Syncopated algebraic expression first appeared in Diophantus' Arithmetica (3rd century AD), followed by Brahmagupta's Brahma Sphuta Siddhanta (7th century).
+Symbolic algebra, in which full symbolism is used. Early steps toward this can be seen in the work of several Islamic mathematicians such as Ibn al-Banna (13th-14th centuries) and al-Qalasadi (15th century), although fully symbolic algebra was developed by François Viète (16th century). Later, René Descartes (17th century) introduced the modern notation (for example, the use of x—see below) and showed that the problems occurring in geometry can be expressed and solved in terms of algebra (Cartesian geometry).Equally important as the use or lack of symbolism in algebra was the degree of the equations that were addressed. Quadratic equations played an important role in early algebra; and throughout most of history, until the early modern period, all quadratic equations were classified as belonging to one of three categories.
+
+
+
+
+
+x
+
+2
+
+
++
+p
+x
+=
+q
+
+
+{\displaystyle x^{2}+px=q}
+
+
+
+
+
+
+
+x
+
+2
+
+
+=
+p
+x
++
+q
+
+
+{\displaystyle x^{2}=px+q}
+
+
+
+
+
+
+
+x
+
+2
+
+
++
+q
+=
+p
+x
+
+
+{\displaystyle x^{2}+q=px}
+
+where 
+
+
+
+p
+
+
+{\displaystyle p}
+
+ and 
+
+
+
+q
+
+
+{\displaystyle q}
+
+ are positive.
+This trichotomy comes about because quadratic equations of the form 
+
+
+
+
+x
+
+2
+
+
++
+p
+x
++
+q
+=
+0
+,
+
+
+{\displaystyle x^{2}+px+q=0,}
+
+with 
+
+
+
+p
+
+
+{\displaystyle p}
+
+ and 
+
+
+
+q
+
+
+{\displaystyle q}
+
+ positive, have no positive roots.
+In between the rhetorical and syncopated stages of symbolic algebra, a geometric constructive algebra was developed by classical Greek and Vedic Indian mathematicians in which algebraic equations were solved through geometry. For instance, an equation of the form 
+
+
+
+
+x
+
+2
+
+
+=
+A
+
+
+{\displaystyle x^{2}=A}
+
+ was solved by finding the side of a square of area 
+
+
+
+A
+.
+
+
+{\displaystyle A.}
+
+
+In addition to the three stages of expressing algebraic ideas, some authors recognized four conceptual stages in the development of algebra that occurred alongside the changes in expression. These four stages were as follows:
+Geometric stage, where the concepts of algebra are largely geometric. This dates back to the Babylonians and continued with the Greeks, and was later revived by Omar Khayyám.
+Static equation-solving stage, where the objective is to find numbers satisfying certain relationships. The move away from the geometric stage dates back to Diophantus and Brahmagupta, but algebra didn't decisively move to the static equation-solving stage until Al-Khwarizmi introduced generalized algorithmic processes for solving algebraic problems.
+Dynamic function stage, where motion is an underlying idea. The idea of a function began emerging with Sharaf al-Dīn al-Tūsī, but algebra did not decisively move to the dynamic function stage until Gottfried Leibniz.
+Abstract stage, where mathematical structure plays a central role. Abstract algebra is largely a product of the 19th and 20th centuries.The origins of algebra can be traced to the ancient Babylonians, who developed a positional number system that greatly aided them in solving their rhetorical algebraic equations. The Babylonians were not interested in exact solutions, but rather approximations, and so they would commonly use linear interpolation to approximate intermediate values. One of the most famous tablets is the Plimpton 322 tablet, created around 1900–1600 BC, which gives a table of Pythagorean triples and represents some of the most advanced mathematics prior to Greek mathematics.
+Babylonian algebra was much more advanced than the Egyptian algebra of the time; whereas the Egyptians were mainly concerned with linear equations the Babylonians were more concerned with quadratic and cubic equations. The Babylonians had developed flexible algebraic operations with which they were able to add equals to equals and multiply both sides of an equation by like quantities so as to eliminate fractions and factors. They were familiar with many simple forms of factoring, three-term quadratic equations with positive roots, and many cubic equations, although it is not known if they were able to reduce the general cubic equation.
+Ancient Egyptian algebra dealt mainly with linear equations while the Babylonians found these equations too elementary, and developed mathematics to a higher level than the Egyptians.
+The Rhind Papyrus, also known as the Ahmes Papyrus, is an ancient Egyptian papyrus written c. 1650 BC by Ahmes, who transcribed it from an earlier work that he dated to between 2000 and 1800 BC. It is the most extensive ancient Egyptian mathematical document known to historians. The Rhind Papyrus contains problems where linear equations of the form 
+
+
+
+x
++
+a
+x
+=
+b
+
+
+{\displaystyle x+ax=b}
+
+ and 
+
+
+
+x
++
+a
+x
++
+b
+x
+=
+c
+
+
+{\displaystyle x+ax+bx=c}
+
+ are solved, where 
+
+
+
+a
+,
+b
+,
+
+
+{\displaystyle a,b,}
+
+ and 
+
+
+
+c
+
+
+{\displaystyle c}
+
+ are known and 
+
+
+
+x
+,
+
+
+{\displaystyle x,}
+
+ which is referred to as "aha" or heap, is the unknown. The solutions were possibly, but not likely, arrived at by using the "method of false position", or regula falsi, where first a specific value is substituted into the left hand side of the equation, then the required arithmetic calculations are done, thirdly the result is compared to the right hand side of the equation, and finally the correct answer is found through the use of proportions. In some of the problems the author "checks" his solution, thereby writing one of the earliest known simple proofs.
+It is sometimes alleged that the Greeks had no algebra, but this is inaccurate. By the time of Plato, Greek mathematics had undergone a drastic change. The Greeks created a geometric algebra where terms were represented by sides of geometric objects, usually lines, that had letters associated with them, and with this new form of algebra they were able to find solutions to equations by using a process that they invented, known as "the application of areas". "The application of areas" is only a part of geometric algebra and it is thoroughly covered in Euclid's Elements.
+An example of geometric algebra would be solving the linear equation 
+
+
+
+a
+x
+=
+b
+c
+.
+
+
+{\displaystyle ax=bc.}
+
+ The ancient Greeks would solve this equation by looking at it as an equality of areas rather than as an equality between the ratios 
+
+
+
+a
+:
+b
+
+
+{\displaystyle a:b}
+
+ and 
+
+
+
+c
+:
+x
+.
+
+
+{\displaystyle c:x.}
+
+ The Greeks would construct a rectangle with sides of length 
+
+
+
+b
+
+
+{\displaystyle b}
+
+ and 
+
+
+
+c
+,
+
+
+{\displaystyle c,}
+
+ then extend a side of the rectangle to length 
+
+
+
+a
+,
+
+
+{\displaystyle a,}
+
+ and finally they would complete the extended rectangle so as to find the side of the rectangle that is the solution.
+Iamblichus in Introductio arithmatica says that Thymaridas (c. 400 BCE – c. 350 BCE) worked with simultaneous linear equations. In particular, he created the then famous rule that was known as the "bloom of Thymaridas" or as the "flower of Thymaridas", which states that:
+If the sum of 
+
+
+
+n
+
+
+{\displaystyle n}
+
+ quantities be given, and also the sum of every pair containing a particular quantity, then this particular quantity is equal to 
+
+
+
+1
+
+/
+
+(
+n
+−
+2
+)
+
+
+{\displaystyle 1/(n-2)}
+
+ of the difference between the sums of these pairs and the first given sum.or using modern notation, the solution of the following system of 
+
+
+
+n
+
+
+{\displaystyle n}
+
+ linear equations in 
+
+
+
+n
+
+
+{\displaystyle n}
+
+ unknowns,
+
+ 
+
+
+
+x
++
+
+x
+
+1
+
+
++
+
+x
+
+2
+
+
++
+⋯
++
+
+x
+
+n
+−
+1
+
+
+=
+s
+
+
+{\displaystyle x+x_{1}+x_{2}+\cdots +x_{n-1}=s}
+
+
+
+
+
+
+x
++
+
+x
+
+1
+
+
+=
+
+m
+
+1
+
+
+
+
+{\displaystyle x+x_{1}=m_{1}}
+
+
+
+
+
+
+x
++
+
+x
+
+2
+
+
+=
+
+m
+
+2
+
+
+
+
+{\displaystyle x+x_{2}=m_{2}}
+
+
+
+
+
+
+⋮
+
+
+{\displaystyle \vdots }
+
+
+
+
+
+
+x
++
+
+x
+
+n
+−
+1
+
+
+=
+
+m
+
+n
+−
+1
+
+
+
+
+{\displaystyle x+x_{n-1}=m_{n-1}}
+
+
+
+is,
+
+
+
+
+x
+=
+
+
+
+
+
+
+
+
+(
+
+m
+
+1
+
+
++
+
+m
+
+2
+
+
++
+.
+.
+.
++
+
+m
+
+n
+−
+1
+
+
+)
+−
+s
+
+
+
+
+
+
+
+
+
+n
+−
+2
+
+
+
+
+
+=
+
+
+
+
+
+
+
+
+(
+
+∑
+
+i
+=
+1
+
+
+n
+−
+1
+
+
+
+m
+
+i
+
+
+)
+−
+s
+
+
+
+
+
+
+
+
+
+n
+−
+2
+
+
+
+
+
+.
+
+
+{\displaystyle x={\cfrac {(m_{1}+m_{2}+...+m_{n-1})-s}{n-2}}={\cfrac {(\sum _{i=1}^{n-1}m_{i})-s}{n-2}}.}
+
+Iamblichus goes on to describe how some systems of linear equations that are not in this form can be placed into this form.
+Euclid (Greek: Εὐκλείδης) was a Greek mathematician who flourished in Alexandria, Egypt, almost certainly during the reign of Ptolemy I (323–283 BCE). Neither the year nor place of his birth have been established, nor the circumstances of his death.
+Euclid is regarded as the "father of geometry". His Elements is the most successful textbook in the history of mathematics. Although he is one of the most famous mathematicians in history there are no new discoveries attributed to him; rather he is remembered for his great explanatory skills. The Elements is not, as is sometimes thought, a collection of all Greek mathematical knowledge to its date; rather, it is an elementary introduction to it.
+The geometric work of the Greeks, typified in Euclid's Elements, provided the framework for generalizing formulae beyond the solution of particular problems into more general systems of stating and solving equations.
+Book II of the Elements contains fourteen propositions, which in Euclid's time were extremely significant for doing geometric algebra. These propositions and their results are the geometric equivalents of our modern symbolic algebra and trigonometry. Today, using modern symbolic algebra, we let symbols represent known and unknown magnitudes (i.e. numbers) and then apply algebraic operations on them, while in Euclid's time magnitudes were viewed as line segments and then results were deduced using the axioms or theorems of geometry.
+Many basic laws of addition and multiplication are included or proved geometrically in the Elements. For instance, proposition 1 of Book II states:
+If there be two straight lines, and one of them be cut into any number of segments whatever, the rectangle contained by the two straight lines is equal to the rectangles contained by the uncut straight line and each of the segments.But this is nothing more than the geometric version of the (left) distributive law, 
+
+
+
+a
+(
+b
++
+c
++
+d
+)
+=
+a
+b
++
+a
+c
++
+a
+d
+
+
+{\displaystyle a(b+c+d)=ab+ac+ad}
+
+; and in Books V and VII of the Elements the commutative and associative laws for multiplication are demonstrated.
+Many basic equations were also proved geometrically. For instance, proposition 5 in Book II proves that 
+
+
+
+
+a
+
+2
+
+
+−
+
+b
+
+2
+
+
+=
+(
+a
++
+b
+)
+(
+a
+−
+b
+)
+,
+
+
+{\displaystyle a^{2}-b^{2}=(a+b)(a-b),}
+
+ and proposition 4 in Book II proves that 
+
+
+
+(
+a
++
+b
+
+)
+
+2
+
+
+=
+
+a
+
+2
+
+
++
+2
+a
+b
++
+
+b
+
+2
+
+
+.
+
+
+{\displaystyle (a+b)^{2}=a^{2}+2ab+b^{2}.}
+
+
+Furthermore, there are also geometric solutions given to many equations. For instance, proposition 6 of Book II gives the solution to the quadratic equation 
+
+
+
+a
+x
++
+
+x
+
+2
+
+
+=
+
+b
+
+2
+
+
+,
+
+
+{\displaystyle ax+x^{2}=b^{2},}
+
+ and proposition 11 of Book II gives a solution to 
+
+
+
+a
+x
++
+
+x
+
+2
+
+
+=
+
+a
+
+2
+
+
+.
+
+
+{\displaystyle ax+x^{2}=a^{2}.}
+
+
+Data is a work written by Euclid for use at the schools of Alexandria and it was meant to be used as a companion volume to the first six books of the Elements. The book contains some fifteen definitions and ninety-five statements, of which there are about two dozen statements that serve as algebraic rules or formulas. Some of these statements are geometric equivalents to solutions of quadratic equations. For instance, Data contains the solutions to the equations 
+
+
+
+d
+
+x
+
+2
+
+
+−
+a
+d
+x
++
+
+b
+
+2
+
+
+c
+=
+0
+
+
+{\displaystyle dx^{2}-adx+b^{2}c=0}
+
+ and the familiar Babylonian equation 
+
+
+
+x
+y
+=
+
+a
+
+2
+
+
+,
+x
+±
+y
+=
+b
+.
+
+
+{\displaystyle xy=a^{2},x\pm y=b.}
+
+
+A conic section is a curve that results from the intersection of a cone with a plane. There are three primary types of conic sections: ellipses (including circles), parabolas, and hyperbolas. The conic sections are reputed to have been discovered by Menaechmus (c. 380 BC – c. 320 BC) and since dealing with conic sections is equivalent to dealing with their respective equations, they played geometric roles equivalent to cubic equations and other higher order equations.
+Menaechmus knew that in a parabola, the equation 
+
+
+
+
+y
+
+2
+
+
+=
+l
+x
+
+
+{\displaystyle y^{2}=lx}
+
+ holds, where 
+
+
+
+l
+
+
+{\displaystyle l}
+
+ is a constant called the latus rectum, although he was not aware of the fact that any equation in two unknowns determines a curve. He apparently derived these properties of conic sections and others as well. Using this information it was now possible to find a solution to the problem of the duplication of the cube by solving for the points at which two parabolas intersect, a solution equivalent to solving a cubic equation.
+We are informed by Eutocius that the method he used to solve the cubic equation was due to Dionysodorus (250 BC – 190 BC). Dionysodorus solved the cubic by means of the intersection of a rectangular hyperbola and a parabola. This was related to a problem in Archimedes' On the Sphere and Cylinder. Conic sections would be studied and used for thousands of years by Greek, and later Islamic and European, mathematicians. In particular Apollonius of Perga's famous Conics deals with conic sections, among other topics.
+Chinese Mathematics dates to at least 300 BC with the Zhoubi Suanjing, generally considered to be one of the oldest Chinese mathematical documents.
+Chiu-chang suan-shu or The Nine Chapters on the Mathematical Art, written around 250 BC, is one of the most influential of all Chinese math books and it is composed of some 246 problems. Chapter eight deals with solving determinate and indeterminate simultaneous linear equations using positive and negative numbers, with one problem dealing with solving four equations in five unknowns.
+Ts'e-yuan hai-ching, or Sea-Mirror of the Circle Measurements, is a collection of some 170 problems written by Li Zhi (or Li Ye) (1192 – 1279 CE). He used fan fa, or Horner's method, to solve equations of degree as high as six, although he did not describe his method of solving equations.
+Shu-shu chiu-chang, or Mathematical Treatise in Nine Sections, was written by the wealthy governor and minister Ch'in Chiu-shao (c. 1202 – c. 1261). With the introduction of a method for solving simultaneous congruences, now called the Chinese remainder theorem, it marks the high point in Chinese indeterminate analysis.
+The earliest known magic squares appeared in China. In Nine Chapters the author solves a system of simultaneous linear equations by placing the coefficients and constant terms of the linear equations into a magic square (i.e. a matrix) and performing column reducing operations on the magic square. The earliest known magic squares of order greater than three are attributed to Yang Hui (fl. c. 1261 – 1275), who worked with magic squares of order as high as ten.
+Ssy-yüan yü-chien《四元玉鑒》, or Precious Mirror of the Four Elements, was written by Chu Shih-chieh in 1303 and it marks the peak in the development of Chinese algebra. The four elements, called heaven, earth, man and matter, represented the four unknown quantities in his algebraic equations. The Ssy-yüan yü-chien deals with simultaneous equations and with equations of degrees as high as fourteen. The author uses the method of fan fa, today called Horner's method, to solve these equations.
+The Precious Mirror opens with a diagram of the arithmetic triangle (Pascal's triangle) using a round zero symbol, but Chu Shih-chieh denies credit for it. A similar triangle appears in Yang Hui's work, but without the zero symbol.
+There are many summation equations given without proof in the Precious mirror. A few of the summations are:
+
+
+
+
+
+1
+
+2
+
+
++
+
+2
+
+2
+
+
++
+
+3
+
+2
+
+
++
+⋯
++
+
+n
+
+2
+
+
+=
+
+
+
+n
+(
+n
++
+1
+)
+(
+2
+n
++
+1
+)
+
+
+3
+!
+
+
+
+
+
+{\displaystyle 1^{2}+2^{2}+3^{2}+\cdots +n^{2}={n(n+1)(2n+1) \over 3!}}
+
+
+
+
+
+
+1
++
+8
++
+30
++
+80
++
+⋯
++
+
+
+
+
+n
+
+2
+
+
+(
+n
++
+1
+)
+(
+n
++
+2
+)
+
+
+3
+!
+
+
+
+=
+
+
+
+n
+(
+n
++
+1
+)
+(
+n
++
+2
+)
+(
+n
++
+3
+)
+(
+4
+n
++
+1
+)
+
+
+5
+!
+
+
+
+
+
+{\displaystyle 1+8+30+80+\cdots +{n^{2}(n+1)(n+2) \over 3!}={n(n+1)(n+2)(n+3)(4n+1) \over 5!}}
+
+Diophantus was a Hellenistic mathematician who lived c. 250 CE, but the uncertainty of this date is so great that it may be off by more than a century. He is known for having written Arithmetica, a treatise that was originally thirteen books but of which only the first six have survived. Arithmetica has very little in common with traditional Greek mathematics since it is divorced from geometric methods, and it is different from Babylonian mathematics in that Diophantus is concerned primarily with exact solutions, both determinate and indeterminate, instead of simple approximations.
+It is usually rather difficult to tell whether a given Diophantine equation is solvable. There is no evidence that suggests Diophantus even realized that there could be two solutions to a quadratic equation. He also considered simultaneous quadratic equations. Also, no general method may be abstracted from all Diophantus' solutions.
+In Arithmetica, Diophantus is the first to use symbols for unknown numbers as well as abbreviations for powers of numbers, relationships, and operations; thus he used what is now known as syncopated algebra. The main difference between Diophantine syncopated algebra and modern algebraic notation is that the former lacked special symbols for operations, relations, and exponentials. So, for example, what we would write as
+
+
+
+
+
+x
+
+3
+
+
+−
+2
+
+x
+
+2
+
+
++
+10
+x
+−
+1
+=
+5
+,
+
+
+{\displaystyle x^{3}-2x^{2}+10x-1=5,}
+
+which can be rewritten as
+
+
+
+
+
+(
+
+
+
+x
+
+3
+
+
+
+1
++
+
+x
+
+10
+
+)
+
+−
+
+(
+
+
+
+x
+
+2
+
+
+
+2
++
+
+
+x
+
+0
+
+
+
+1
+
+)
+
+=
+
+
+x
+
+0
+
+
+
+5
+,
+
+
+{\displaystyle \left({x^{3}}1+{x}10\right)-\left({x^{2}}2+{x^{0}}1\right)={x^{0}}5,}
+
+would be written in Diophantus's syncopated notation as
+
+
+
+
+
+
+K
+
+
+υ
+
+
+
+
+α
+¯
+
+
+
+ζ
+
+
+ι
+¯
+
+
+
+
+⋔
+
+
+
+Δ
+
+υ
+
+
+
+
+β
+¯
+
+
+
+
+M
+
+
+
+α
+¯
+
+
+
+
+
+
+{\displaystyle \mathrm {K} ^{\upsilon }{\overline {\alpha }}\;\zeta {\overline {\iota }}\;\,\pitchfork \;\,\Delta ^{\upsilon }{\overline {\beta }}\;\mathrm {M} {\overline {\alpha }}\,\;}
+
+ἴ
+
+
+
+σ
+
+
+
+M
+
+
+
+ε
+¯
+
+
+
+
+{\displaystyle \sigma \;\,\mathrm {M} {\overline {\varepsilon }}}
+
+where the symbols represent the following:
+Unlike in modern notation, the coefficients come after the variables and that addition is represented by the juxtaposition of terms. A literal symbol-for-symbol translation of Diophantus's syncopated equation into a modern symbolic equation would be the following:
+
+
+
+
+
+
+x
+
+3
+
+
+
+1
+
+x
+
+10
+−
+
+
+x
+
+2
+
+
+
+2
+
+
+x
+
+0
+
+
+
+1
+=
+
+
+x
+
+0
+
+
+
+5
+
+
+{\displaystyle {x^{3}}1{x}10-{x^{2}}2{x^{0}}1={x^{0}}5}
+
+where to clarify, if the modern parentheses and plus are used then the above equation can be rewritten as:
+
+
+
+
+
+(
+
+
+
+x
+
+3
+
+
+
+1
++
+
+x
+
+10
+
+)
+
+−
+
+(
+
+
+
+x
+
+2
+
+
+
+2
++
+
+
+x
+
+0
+
+
+
+1
+
+)
+
+=
+
+
+x
+
+0
+
+
+
+5
+
+
+{\displaystyle \left({x^{3}}1+{x}10\right)-\left({x^{2}}2+{x^{0}}1\right)={x^{0}}5}
+
+Arithmetica is a collection of some 150 solved problems with specific numbers and there is no postulational development nor is a general method explicitly explained, although generality of method may have been intended and there is no attempt to find all of the solutions to the equations. Arithmetica does contain solved problems involving several unknown quantities, which are solved, if possible, by expressing the unknown quantities in terms of only one of them. Arithmetica also makes use of the identities:
+
+
+
+
+
+
+(
+
+a
+
+2
+
+
++
+
+b
+
+2
+
+
+)
+(
+
+c
+
+2
+
+
++
+
+d
+
+2
+
+
+)
+
+
+{\displaystyle (a^{2}+b^{2})(c^{2}+d^{2})}
+
+
+
+
+
+
+
+=
+(
+a
+c
++
+d
+b
+
+)
+
+2
+
+
++
+(
+b
+c
+−
+a
+d
+
+)
+
+2
+
+
+
+
+{\displaystyle =(ac+db)^{2}+(bc-ad)^{2}}
+
+
+
+
+
+
+
+
+
+
+=
+(
+a
+d
++
+b
+c
+
+)
+
+2
+
+
++
+(
+a
+c
+−
+b
+d
+
+)
+
+2
+
+
+
+
+{\displaystyle =(ad+bc)^{2}+(ac-bd)^{2}}
+
+
+The Indian mathematicians were active in studying about number systems. The earliest known Indian mathematical documents are dated to around the middle of the first millennium BC (around the 6th century BC).
+The recurring themes in Indian mathematics are, among others, determinate and indeterminate linear and quadratic equations, simple mensuration, and Pythagorean triples.
+Aryabhata (476–550) was an Indian mathematician who authored Aryabhatiya. In it he gave the rules,
+
+
+
+
+
+1
+
+2
+
+
++
+
+2
+
+2
+
+
++
+⋯
++
+
+n
+
+2
+
+
+=
+
+
+
+n
+(
+n
++
+1
+)
+(
+2
+n
++
+1
+)
+
+6
+
+
+
+
+{\displaystyle 1^{2}+2^{2}+\cdots +n^{2}={n(n+1)(2n+1) \over 6}}
+
+and
+
+
+
+
+
+1
+
+3
+
+
++
+
+2
+
+3
+
+
++
+⋯
++
+
+n
+
+3
+
+
+=
+(
+1
++
+2
++
+⋯
++
+n
+
+)
+
+2
+
+
+
+
+{\displaystyle 1^{3}+2^{3}+\cdots +n^{3}=(1+2+\cdots +n)^{2}}
+
+Brahmagupta (fl. 628) was an Indian mathematician who authored Brahma Sphuta Siddhanta. In his work Brahmagupta solves the general quadratic equation for both positive and negative roots. In indeterminate analysis Brahmagupta gives the Pythagorean triads 
+
+
+
+m
+,
+
+
+1
+2
+
+
+
+(
+
+
+
+
+m
+
+2
+
+
+n
+
+
+−
+n
+
+)
+
+,
+
+
+{\displaystyle m,{\frac {1}{2}}\left({m^{2} \over n}-n\right),}
+
+ 
+
+
+
+
+
+1
+2
+
+
+
+(
+
+
+
+
+m
+
+2
+
+
+n
+
+
++
+n
+
+)
+
+,
+
+
+{\displaystyle {\frac {1}{2}}\left({m^{2} \over n}+n\right),}
+
+ but this is a modified form of an old Babylonian rule that Brahmagupta may have been familiar with. He was the first to give a general solution to the linear Diophantine equation 
+
+
+
+a
+x
++
+b
+y
+=
+c
+,
+
+
+{\displaystyle ax+by=c,}
+
+ where 
+
+
+
+a
+,
+b
+,
+
+
+{\displaystyle a,b,}
+
+ and 
+
+
+
+c
+
+
+{\displaystyle c}
+
+ are integers. Unlike Diophantus who only gave one solution to an indeterminate equation, Brahmagupta gave all integer solutions; but that Brahmagupta used some of the same examples as Diophantus has led some historians to consider the possibility of a Greek influence on Brahmagupta's work, or at least a common Babylonian source.
+Like the algebra of Diophantus, the algebra of Brahmagupta was syncopated. Addition was indicated by placing the numbers side by side, subtraction by placing a dot over the subtrahend, and division by placing the divisor below the dividend, similar to our modern notation but without the bar. Multiplication, evolution, and unknown quantities were represented by abbreviations of appropriate terms. The extent of Greek influence on this syncopation, if any, is not known and it is possible that both Greek and Indian syncopation may be derived from a common Babylonian source.
+Bhāskara II (1114 – c. 1185) was the leading mathematician of the 12th century. In Algebra, he gave the general solution of Pell's equation. He is the author of Lilavati and Vija-Ganita, which contain problems dealing with determinate and indeterminate linear and quadratic equations, and Pythagorean triples and he fails to distinguish between exact and approximate statements. Many of the problems in Lilavati and Vija-Ganita are derived from other Hindu sources, and so Bhaskara is at his best in dealing with indeterminate analysis.
+Bhaskara uses the initial symbols of the names for colors as the symbols of unknown variables. So, for example, what we would write today as
+
+
+
+
+(
+−
+x
+−
+1
+)
++
+(
+2
+x
+−
+8
+)
+=
+x
+−
+9
+
+
+{\displaystyle (-x-1)+(2x-8)=x-9}
+
+Bhaskara would have written as
+.    _ .
+ya 1 ru 1
+.
+ya 2 ru 8
+.
+Sum ya 1 ru 9where ya indicates the first syllable of the word for black, and ru is taken from the word species. The dots over the numbers indicate subtraction.
+The first century of the Islamic Arab Empire saw almost no scientific or mathematical achievements since the Arabs, with their newly conquered empire, had not yet gained any intellectual drive and research in other parts of the world had faded. In the second half of the 8th century, Islam had a cultural awakening, and research in mathematics and the sciences increased. The Muslim Abbasid caliph al-Mamun (809–833) is said to have had a dream where Aristotle appeared to him, and as a consequence al-Mamun ordered that Arabic translation be made of as many Greek works as possible, including Ptolemy's Almagest and Euclid's Elements. Greek works would be given to the Muslims by the Byzantine Empire in exchange for treaties, as the two empires held an uneasy peace. Many of these Greek works were translated by Thabit ibn Qurra (826–901), who translated books written by Euclid, Archimedes, Apollonius, Ptolemy, and Eutocius.
+Arabic mathematicians established algebra as an independent discipline, and gave it the name "algebra" (al-jabr). They were the first to teach algebra in an elementary form and for its own sake. There are three theories about the origins of Arabic Algebra. The first emphasizes Hindu influence, the second emphasizes Mesopotamian or Persian-Syriac influence and the third emphasizes Greek influence. Many scholars believe that it is the result of a combination of all three sources.
+Throughout their time in power, the Arabs used a fully rhetorical algebra, where often even the numbers were spelled out in words. The Arabs would eventually replace spelled out numbers (e.g. twenty-two) with Arabic numerals (e.g. 22), but the Arabs did not adopt or develop a syncopated or symbolic algebra until the work of Ibn al-Banna, who developed a symbolic algebra in the 13th century, followed by Abū al-Hasan ibn Alī al-Qalasādī in the 15th century.
+The Muslim Persian mathematician Muhammad ibn Mūsā al-Khwārizmī was a faculty member of the "House of Wisdom" (Bait al-Hikma) in Baghdad, which was established by Al-Mamun. Al-Khwarizmi, who died around 850 CE, wrote more than half a dozen mathematical and astronomical works, some of which were based on the Indian Sindhind. One of al-Khwarizmi's most famous books is entitled Al-jabr wa'l muqabalah or The Compendious Book on Calculation by Completion and Balancing, and it gives an exhaustive account of solving polynomials up to the second degree. The book also introduced the fundamental concept of "reduction" and "balancing", referring to the transposition of subtracted terms to the other side of an equation, that is, the cancellation of like terms on opposite sides of the equation. This is the operation which Al-Khwarizmi originally described as al-jabr. The name "algebra" comes from the "al-jabr" in the title of his book.
+R. Rashed and Angela Armstrong write:
+Al-Jabr is divided into six chapters, each of which deals with a different type of formula. The first chapter of Al-Jabr deals with equations whose squares equal its roots 
+
+
+
+
+(
+
+a
+
+x
+
+2
+
+
+=
+b
+x
+
+)
+
+,
+
+
+{\displaystyle \left(ax^{2}=bx\right),}
+
+ the second chapter deals with squares equal to number 
+
+
+
+
+(
+
+a
+
+x
+
+2
+
+
+=
+c
+
+)
+
+,
+
+
+{\displaystyle \left(ax^{2}=c\right),}
+
+ the third chapter deals with roots equal to a number 
+
+
+
+
+(
+
+b
+x
+=
+c
+
+)
+
+,
+
+
+{\displaystyle \left(bx=c\right),}
+
+ the fourth chapter deals with squares and roots equal a number 
+
+
+
+
+(
+
+a
+
+x
+
+2
+
+
++
+b
+x
+=
+c
+
+)
+
+,
+
+
+{\displaystyle \left(ax^{2}+bx=c\right),}
+
+ the fifth chapter deals with squares and number equal roots 
+
+
+
+
+(
+
+a
+
+x
+
+2
+
+
++
+c
+=
+b
+x
+
+)
+
+,
+
+
+{\displaystyle \left(ax^{2}+c=bx\right),}
+
+ and the sixth and final chapter deals with roots and number equal to squares 
+
+
+
+
+(
+
+b
+x
++
+c
+=
+a
+
+x
+
+2
+
+
+
+)
+
+.
+
+
+{\displaystyle \left(bx+c=ax^{2}\right).}
+
+
+In Al-Jabr, al-Khwarizmi uses geometric proofs, he does not recognize the root 
+
+
+
+x
+=
+0
+,
+
+
+{\displaystyle x=0,}
+
+ and he only deals with positive roots. He also recognizes that the discriminant must be positive and described the method of completing the square, though he does not justify the procedure. The Greek influence is shown by Al-Jabr's geometric foundations and by one problem taken from Heron. He makes use of lettered diagrams but all of the coefficients in all of his equations are specific numbers since he had no way of expressing with parameters what he could express geometrically; although generality of method is intended.
+Al-Khwarizmi most likely did not know of Diophantus's Arithmetica, which became known to the Arabs sometime before the 10th century. And even though al-Khwarizmi most likely knew of Brahmagupta's work, Al-Jabr is fully rhetorical with the numbers even being spelled out in words. So, for example, what we would write as
+
+
+
+
+
+x
+
+2
+
+
++
+10
+x
+=
+39
+
+
+{\displaystyle x^{2}+10x=39}
+
+Diophantus would have written as
+
+
+
+
+
+Δ
+
+Υ
+
+
+
+
+α
+¯
+
+
+ς
+
+
+ι
+¯
+
+
+
+
+
+
+{\displaystyle \Delta ^{\Upsilon }{\overline {\alpha }}\varsigma {\overline {\iota }}\,\;}
+
+ἴ
+
+
+
+σ
+
+
+
+M
+
+λ
+
+
+θ
+¯
+
+
+
+
+{\displaystyle \sigma \;\,\mathrm {M} \lambda {\overline {\theta }}}
+
+And al-Khwarizmi would have written as
+One square and ten roots of the same amount to thirty-nine dirhems; that is to say, what must be the square which, when increased by ten of its own roots, amounts to thirty-nine?'Abd al-Hamīd ibn Turk authored a manuscript entitled Logical Necessities in Mixed Equations, which is very similar to al-Khwarzimi's Al-Jabr and was published at around the same time as, or even possibly earlier than, Al-Jabr. The manuscript gives exactly the same geometric demonstration as is found in Al-Jabr, and in one case the same example as found in Al-Jabr, and even goes beyond Al-Jabr by giving a geometric proof that if the discriminant is negative then the quadratic equation has no solution. The similarity between these two works has led some historians to conclude that Arabic algebra may have been well developed by the time of al-Khwarizmi and 'Abd al-Hamid.
+Arabic mathematicians treated irrational numbers as algebraic objects. The Egyptian mathematician Abū Kāmil Shujā ibn Aslam (c. 850–930) was the first to accept irrational numbers (often in the form of a square root, cube root or fourth root) as solutions to quadratic equations or as coefficients in an equation. He was also the first to solve three non-linear simultaneous equations with three unknown variables.
+Al-Karkhi (953–1029), also known as Al-Karaji, was the successor of Abū al-Wafā' al-Būzjānī (940–998) and he discovered the first numerical solution to equations of the form 
+
+
+
+a
+
+x
+
+2
+n
+
+
++
+b
+
+x
+
+n
+
+
+=
+c
+.
+
+
+{\displaystyle ax^{2n}+bx^{n}=c.}
+
+ Al-Karkhi only considered positive roots. Al-Karkhi is also regarded as the first person to free algebra from geometrical operations and replace them with the type of arithmetic operations which are at the core of algebra today. His work on algebra and polynomials gave the rules for arithmetic operations to manipulate polynomials. The historian of mathematics F. Woepcke, in Extrait du Fakhri, traité d'Algèbre par Abou Bekr Mohammed Ben Alhacan Alkarkhi (Paris, 1853), praised Al-Karaji for being "the first who introduced the theory of algebraic calculus". Stemming from this, Al-Karaji investigated binomial coefficients and Pascal's triangle.
+Omar Khayyám (c. 1050 – 1123) wrote a book on Algebra that went beyond Al-Jabr to include equations of the third degree. Omar Khayyám provided both arithmetic and geometric solutions for quadratic equations, but he only gave geometric solutions for general cubic equations since he mistakenly believed that arithmetic solutions were impossible. His method of solving cubic equations by using intersecting conics had been used by Menaechmus, Archimedes, and Ibn al-Haytham (Alhazen), but Omar Khayyám generalized the method to cover all cubic equations with positive roots. He only considered positive roots and he did not go past the third degree. He also saw a strong relationship between geometry and algebra.
+In the 12th century, Sharaf al-Dīn al-Tūsī (1135–1213) wrote the Al-Mu'adalat (Treatise on Equations), which dealt with eight types of cubic equations with positive solutions and five types of cubic equations which may not have positive solutions. He used what would later be known as the "Ruffini-Horner method" to numerically approximate the root of a cubic equation. He also developed the concepts of the maxima and minima of curves in order to solve cubic equations which may not have positive solutions. He understood the importance of the discriminant of the cubic equation and used an early version of Cardano's formula to find algebraic solutions to certain types of cubic equations. Some scholars, such as Roshdi Rashed, argue that Sharaf al-Din discovered the derivative of cubic polynomials and realized its significance, while other scholars connect his solution to the ideas of Euclid and Archimedes.
+Sharaf al-Din also developed the concept of a function. In his analysis of
+the equation 
+
+
+
+
+x
+
+3
+
+
++
+d
+=
+b
+
+x
+
+2
+
+
+
+
+{\displaystyle x^{3}+d=bx^{2}}
+
+ for example, he begins by changing the equation's form to 
+
+
+
+
+x
+
+2
+
+
+(
+b
+−
+x
+)
+=
+d
+
+
+{\displaystyle x^{2}(b-x)=d}
+
+. He then states that the question of whether the equation has a solution depends on whether or not the “function” on the left side reaches the value 
+
+
+
+d
+
+
+{\displaystyle d}
+
+. To determine this, he finds a maximum value for the function. He proves that the maximum value occurs when 
+
+
+
+x
+=
+
+
+
+2
+b
+
+3
+
+
+
+
+{\displaystyle x={\frac {2b}{3}}}
+
+, which gives the functional value 
+
+
+
+
+
+
+4
+
+b
+
+3
+
+
+
+27
+
+
+
+
+{\displaystyle {\frac {4b^{3}}{27}}}
+
+. Sharaf al-Din then states that if this value is less than 
+
+
+
+d
+
+
+{\displaystyle d}
+
+, there are no positive solutions; if it is equal to 
+
+
+
+d
+
+
+{\displaystyle d}
+
+, then there is one solution at 
+
+
+
+x
+=
+
+
+
+2
+b
+
+3
+
+
+
+
+{\displaystyle x={\frac {2b}{3}}}
+
+; and if it is greater than 
+
+
+
+d
+
+
+{\displaystyle d}
+
+, then there are two solutions, one between 
+
+
+
+0
+
+
+{\displaystyle 0}
+
+ and 
+
+
+
+
+
+
+2
+b
+
+3
+
+
+
+
+{\displaystyle {\frac {2b}{3}}}
+
+ and one between 
+
+
+
+
+
+
+2
+b
+
+3
+
+
+
+
+{\displaystyle {\frac {2b}{3}}}
+
+ and 
+
+
+
+b
+
+
+{\displaystyle b}
+
+.
+In the early 15th century, Jamshīd al-Kāshī developed an early form of Newton's method to numerically solve the equation 
+
+
+
+
+x
+
+P
+
+
+−
+N
+=
+0
+
+
+{\displaystyle x^{P}-N=0}
+
+ to find roots of 
+
+
+
+N
+
+
+{\displaystyle N}
+
+. Al-Kāshī also developed decimal fractions and claimed to have discovered it himself. However, J. Lennart Berggrenn notes that he was mistaken, as decimal fractions were first used five centuries before him by the Baghdadi mathematician Abu'l-Hasan al-Uqlidisi as early as the 10th century.
+Al-Hassār, a mathematician from Morocco specializing in Islamic inheritance jurisprudence during the 12th century, developed the modern symbolic mathematical notation for fractions, where the numerator and denominator are separated by a horizontal bar. This same fractional notation appeared soon after in the work of Fibonacci in the 13th century.
+Abū al-Hasan ibn Alī al-Qalasādī (1412–1486) was the last major medieval Arab algebraist, who made the first attempt at creating an algebraic notation since Ibn al-Banna two centuries earlier, who was himself the first to make such an attempt since Diophantus and Brahmagupta in ancient times. The syncopated notations of his predecessors, however, lacked symbols for mathematical operations. Al-Qalasadi "took the first steps toward the introduction of algebraic symbolism by using letters in place of numbers" and by "using short Arabic words, or just their initial letters, as mathematical symbols."
+Just as the death of Hypatia signals the close of the Library of Alexandria as a mathematical center, so does the death of Boethius signal the end of mathematics in the Western Roman Empire. Although there was some work being done at Athens, it came to a close when in 529 the Byzantine emperor Justinian closed the pagan philosophical schools. The year 529 is now taken to be the beginning of the medieval period. Scholars fled the West towards the more hospitable East, particularly towards Persia, where they found haven under King Chosroes and established what might be termed an "Athenian Academy in Exile". Under a treaty with Justinian, Chosroes would eventually return the scholars to the Eastern Empire. During the Dark Ages, European mathematics was at its nadir with mathematical research consisting mainly of commentaries on ancient treatises; and most of this research was centered in the Byzantine Empire. The end of the medieval period is set as the fall of Constantinople to the Turks in 1453.
+The 12th century saw a flood of translations from Arabic into Latin and by the 13th century, European mathematics was beginning to rival the mathematics of other lands. In the 13th century, the solution of a cubic equation by Fibonacci is representative of the beginning of a revival in European algebra.
+As the Islamic world was declining after the 15th century, the European world was ascending. And it is here that algebra was further developed.
+Modern notation for arithmetic operations was introduced between the end of the 15th century and the beginning of the 16th century by Johannes Widmann and Michael Stifel. At the end of 16th century, François Viète introduced symbols, now called variables, for representing indeterminate or unknown numbers. This created a new algebra consisting of computing with symbolic expressions as if they were numbers.
+Another key event in the further development of algebra was the general algebraic solution of the cubic and quartic equations, developed in the mid-16th century. The idea of a determinant was developed by Japanese mathematician Kowa Seki in the 17th century, followed by Gottfried Leibniz ten years later, for the purpose of solving systems of simultaneous linear equations using matrices. Gabriel Cramer also did some work on matrices and determinants in the 18th century.
+By tradition, the first unknown variable in an algebraic problem is nowadays represented by the symbol 
+
+
+
+
+
+x
+
+
+
+
+{\displaystyle {\mathit {x}}}
+
+ and if there is a second or a third unknown, then these are labeled 
+
+
+
+
+
+y
+
+
+
+
+{\displaystyle {\mathit {y}}}
+
+ and 
+
+
+
+
+
+z
+
+
+
+
+{\displaystyle {\mathit {z}}}
+
+ respectively. Algebraic 
+
+
+
+x
+
+
+{\displaystyle x}
+
+ is conventionally printed in italic type to distinguish it from the sign of multiplication.
+Mathematical historians generally agree that  the use of 
+
+
+
+x
+
+
+{\displaystyle x}
+
+ in algebra was introduced by René Descartes and was first published in his treatise La Géométrie (1637). In that work, he used letters from the beginning of the alphabet 
+
+
+
+(
+a
+,
+b
+,
+c
+,
+…
+)
+
+
+{\displaystyle (a,b,c,\ldots )}
+
+ for known quantities, and letters from the end of the alphabet 
+
+
+
+(
+z
+,
+y
+,
+x
+,
+…
+)
+
+
+{\displaystyle (z,y,x,\ldots )}
+
+ for unknowns. It has been suggested that he later settled on 
+
+
+
+x
+
+
+{\displaystyle x}
+
+ (in place of 
+
+
+
+z
+
+
+{\displaystyle z}
+
+) for the first unknown because of its relatively greater abundance in the French and Latin typographical fonts of the time.
+Three alternative theories of the origin of algebraic 
+
+
+
+x
+
+
+{\displaystyle x}
+
+ were suggested in the 19th century: (1) a symbol used by German algebraists and thought to be derived from a cursive letter 
+
+
+
+r
+,
+
+
+{\displaystyle r,}
+
+ mistaken for 
+
+
+
+x
+
+
+{\displaystyle x}
+
+; (2) the numeral 1 with oblique strikethrough; and (3) an Arabic/Spanish source (see below). But the Swiss-American historian of mathematics Florian Cajori examined these and found all three lacking in concrete evidence; Cajori credited Descartes as the originator, and described his 
+
+
+
+x
+,
+y
+,
+
+
+{\displaystyle x,y,}
+
+ and 
+
+
+
+z
+
+
+{\displaystyle z}
+
+ as "free from tradition[,] and their choice purely arbitrary."
+Nevertheless, the Hispano-Arabic hypothesis continues to have a presence in popular culture today. It is the claim that algebraic 
+
+
+
+x
+
+
+{\displaystyle x}
+
+ is the abbreviation of a supposed loanword from Arabic in Old Spanish. The theory originated in 1884 with the German orientalist Paul de Lagarde, shortly after he published his edition of a 1505 Spanish/Arabic bilingual glossary in which Spanish cosa ("thing") was paired with its Arabic equivalent, شىء (shay), transcribed as xei. (The "sh" sound in Old Spanish was routinely spelled 
+
+
+
+x
+.
+
+
+{\displaystyle x.}
+
+) Evidently Lagarde was aware that Arab mathematicians, in the "rhetorical" stage of algebra's development, often used that word to represent the unknown quantity. He surmised that "nothing could be more natural" ("Nichts war also natürlicher...") than for the initial of the Arabic word—romanized as the Old Spanish 
+
+
+
+x
+
+
+{\displaystyle x}
+
+—to be adopted for use in algebra. A later reader reinterpreted Lagarde's conjecture as having "proven" the point. Lagarde was unaware that early Spanish mathematicians used, not a transcription of the Arabic word, but rather its translation in their own language, "cosa". There is no instance of xei or similar forms in several compiled historical vocabularies of Spanish.
+Although the mathematical notion of function was implicit in trigonometric and logarithmic tables, which existed in his day, Gottfried Leibniz was the first, in 1692 and 1694, to employ it explicitly, to denote any of several geometric concepts derived from a curve, such as abscissa, ordinate, tangent, chord, and the perpendicular. In the 18th century, "function" lost these geometrical associations.
+Leibniz realized that the coefficients of a system of linear equations could be arranged into an array, now called a matrix, which can be manipulated to find the solution of the system, if any. This method was later called Gaussian elimination. Leibniz also discovered Boolean algebra and symbolic logic, also relevant to algebra.
+The ability to do algebra is a skill cultivated in mathematics education. As explained by Andrew Warwick, Cambridge University students in the early 19th century practiced "mixed mathematics", doing exercises  based on physical variables such as space, time, and weight. Over time the association of variables with physical quantities faded away as mathematical technique grew. Eventually mathematics was concerned completely with abstract polynomials, complex numbers, hypercomplex numbers and other concepts. Application to physical situations was then called applied mathematics or mathematical physics, and the field of mathematics expanded to include abstract algebra. For instance, the issue of constructible numbers showed some mathematical limitations, and the field of Galois theory was developed.
+The title of "the father of algebra" is frequently credited to the Persian mathematician Al-Khwarizmi, supported by historians of mathematics, such as Carl Benjamin Boyer, Solomon Gandz and Bartel Leendert van der Waerden. However, the point is debatable and the title is sometimes credited to the Hellenistic mathematician Diophantus. Those who support Diophantus point to the algebra found in Al-Jabr being more elementary than the algebra found in Arithmetica, and Arithmetica being syncopated while Al-Jabr is fully rhetorical. However, the mathematics historian Kurt Vogel argues against Diophantus holding this title, as his mathematics was not much more algebraic than that of the ancient Babylonians.
+Those who support Al-Khwarizmi point to the fact that he gave an exhaustive explanation for the algebraic solution of quadratic equations with positive roots, and was the first to teach algebra in an elementary form and for its own sake, whereas Diophantus was primarily concerned with the theory of numbers. Al-Khwarizmi also introduced the fundamental concept of "reduction" and "balancing" (which he originally used the term al-jabr to refer to), referring to the transposition of subtracted terms to the other side of an equation, that is, the cancellation of like terms on opposite sides of the equation. Other supporters of Al-Khwarizmi point to his algebra no longer being concerned "with a series of problems to be resolved, but an exposition which starts with primitive terms in which the combinations must give all possible prototypes for equations, which henceforward explicitly constitute the true object of study." They also point to his treatment of an equation for its own sake and "in a generic manner, insofar as it does not simply emerge in the course of solving a problem, but is specifically called on to define an infinite class of problems." Victor J. Katz regards Al-Jabr as the first true algebra text that is still extant.
+Al-Mansur – 2nd Abbasid caliph (r. 754–775)
+Timeline of algebra – Notable events in the history of algebraAlcalá, Pedro de (1505), De lingua arabica, Granada (edition by Paul de Lagarde, Göttingen: Arnold Hoyer, 1883){{citation}}:  CS1 maint: location (link)
+Alonso, Martín (1986), Diccionario del español medieval, Salamanca: Universidad Pontificia de Salamanca
+Aurel, Marco (1552), Libro primero de arithmetica algebratica, Valencia: Joan de Mey
+Bashmakova, I, and Smirnova, G. (2000) The Beginnings and Evolution of Algebra, Dolciani Mathematical Expositions 23. Translated by Abe Shenitzer. The Mathematical Association of America.
+Boyer, Carl B. (1991), A History of Mathematics (Second ed.), John Wiley & Sons, Inc., ISBN 978-0-471-54397-8
+Burton, David M. (1995), Burton's History of Mathematics: An Introduction (3rd ed.), Dubuque: Wm. C. Brown
+Burton, David M. (1997), The History of Mathematics: An Introduction (Third ed.), The McGraw-Hill Companies, Inc., ISBN 978-0-07-009465-9
+Cajori, Florian (1919), "How x Came to Stand for Unknown Quantity", School Science and Mathematics, 19 (8): 698–699, doi:10.1111/j.1949-8594.1919.tb07713.x
+Cajori, Florian (1928), A History of Mathematical Notations, Chicago: Open Court Publishing, ISBN 9780486161167
+Cooke, Roger (1997), The History of Mathematics: A Brief Course, Wiley-Interscience, ISBN 978-0-471-18082-1
+Derbyshire, John (2006), Unknown Quantity: A Real And Imaginary History of Algebra, Washington, DC: Joseph Henry Press, ISBN 978-0-309-09657-7
+Descartes, René (1637), La Géométrie, Leyde: Ian Maire. Online 2008 ed. by L. Hermann, Project Gutenberg.
+Descartes, René (1925), The Geometry of René Descartes, Chicago: Open Court, ISBN 9781602066922
+Díez, Juan (1556), Sumario compendioso de las quentas de plata y oro que en los reynos del Piru son necessarias a los mercaderes: y todo genero de tratantes, con algunas reglas tocantes al arithmetica, Mexico City
+Eneström, Gustaf (1905), "Kleine Mitteilungen", Bibliotheca Mathematica, Ser. 3, 6 (online access only in U.S.)
+Flegg, Graham (1983), Numbers: Their History and Meaning, Dover publications, ISBN 978-0-486-42165-0
+Heath, Thomas Little (1981a), A History of Greek Mathematics, Volume I, Dover publications, ISBN 978-0-486-24073-2
+Heath, Thomas Little (1981b), A History of Greek Mathematics, Volume II, Dover publications, ISBN 978-0-486-24074-9
+Jacob, Georg (1903), "Oriental Elements of Culture in the Occident", Annual Report of the Board of Regents of the Smithsonian Institution [...] for the Year Ending June 30, 1902: 509–529
+Kasten, Lloyd A.; Cody, Florian J. (2001), Tentative Dictionary of Medieval Spanish (2nd ed.), New York: Hispanic Seminary of Medieval Studies
+Katz, Victor J.; Parshall, Karen Hunger (2014), Taming the Unknown: A History of Algebra from Antiquity to the Early Twentieth Century, Princeton, NJ: Princeton University Press, ISBN 978-1-400-85052-5
+Lagarde, Paul de (1884), "Woher stammt das x der Mathematiker?", Mittheilungen, vol. 1, Goettingen: Dieterichsche Sortimentsbuchhandlung, pp. 134–137
+Nunes, Pedro (1567), Libro de algebra en arithmetica y geometria, Antwerp: Arnoldo Birckman
+Oelschläger, Victor R. B. (1940), A Medieval Spanish Word-List, Madison: University of Wisconsin Press
+Ortega, Juan de (1552), Tractado subtilissimo de arismetica y geometria, Granada: René Rabut
+Pérez de Moya, Juan (1562), Aritmética práctica y especulativa, Salamanca: Mathias Gast
+Puig, Andrés (1672), Arithmetica especulativa y practica; y arte de algebra, Barcelona: Antonio Lacavalleria
+Rider, Robin E. (1982), A Bibliography of Early Modern Algebra, 1500-1800, Berkeley: Berkeley Papers in History of Science
+Sesiano, Jacques (1999), An Introduction to the History of Algebra: Solving Equations from Mesopotamian Times to the Renaissance, Providence, RI: American Mathematical Society, ISBN 9780821844731
+Stillwell, John (2004), Mathematics and its History (Second ed.), Springer Science + Business Media Inc., ISBN 978-0-387-95336-6
+Swetz, Frank J. (2013), The European Mathematical Awakening: A Journey Through the History of Mathematics, 1000-1800 (2nd ed.), Mineola, NY: Dover Publications, ISBN 9780486498058
+Tropfke, Johannes (1902), Geschichte der Elementar-Mathematik in systematischer Darstellung, vol. 1, Leipzig: Von Veit & Comp."Commentary by Islam's Sheikh Zakariyya al-Ansari on Ibn al-Hā’im's Poem on the Science of Algebra and Balancing Called the Creator's Epiphany in Explaining the Cogent" featuring the basic concepts of algebra dating back to the 15th century, from the World Digital Library.
