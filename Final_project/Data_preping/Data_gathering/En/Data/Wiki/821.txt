@@ -1,0 +1,112 @@
+
+Land vehicles by type and current level of use.
+M1 Combat Car
+Light Tank M2
+Light Tank M3/M5
+Light Tank (Airborne) M22
+Light Tank M24
+M41/A1/A2/A3 Walker Bulldog
+M551/A1 Sheridan (Armored Reconnaissance Airborne Assault Vehicle)
+T7 Combat CarXM8 Armored Gun System
+T92M2 Medium Tank
+Medium Tank M3 Lee/Grant (all models)
+Medium Tank M4 Sherman (all models)
+M46 Patton
+M47 Patton
+M48A1/A2/A3/A5 Patton
+M48A4T20 Medium Tank
+T22 Medium Tank
+T23 Medium TankHeavy Tank M26 Pershing
+Heavy Tank M103Heavy Tank T1/M6
+Super Heavy Tank T28 (T95 GMC)M1A1D/M1A2/M1A2 SEP Abrams
+M1A1HA AbramsM60A1/A3 TTS Patton Tank (Including RISE and RISE Passive vehicles)
+M1/IPM1/M1A1 Abrams (M1A1 Used For Reserve training)M60A1E1/E2/A2
+XM1202 MCS
+MBT-70Jeffery armored car
+M1 Armored Car
+M3 Scout Car
+M8 Greyhound
+M38 Wolfhound
+T7 Armored Car
+XM706 (wheeled)
+XM706E1/M706 (wheeled)
+XM706E2 (wheeled)M1117 Armored Security Vehicle
+MRAPULTRA APXM800 Armored Reconnaissance Scout VehicleM2 Half Track Car
+M3 Half-track
+M5 Half-track
+M9 Half-track
+M59 (APC)
+M75 (APC)
+M114/A1 (full-track)M113 armored personnel carrier
+M2 Bradley (infantry fighting vehicle)
+Stryker Interim Armored (fighting) Vehicle
+LAV-25 Armored reconnaissance vehicleLVT(1) (G-156)
+LVT(2) (G-167)
+LVT(A)(1) (G-214) (Armored with 37 mm gun)
+LVT(A)(2) (G-168) (Armored)
+LVT(A)(4) (Armored with 75 mm howitzer)
+LVT(A)(5) (Armored with 75 mm howitzer)
+LVTP5
+LVTH6 (with 105 mm howitzer)
+LVTR1 (recovery vehicle)
+LVTE1 (engineer vehicle)
+LVTP7 (later AAV7)75 mm Gun Motor Carriage M3 (T12)
+M6 Fargo
+M10 tank destroyer
+M18 Hellcat
+M36 (tank destroyer)
+T48 Gun Motor Carriage
+M901 Improved Tow VehicleM104 Wolverine (Armored Bridge Layer)
+M9 Armored Combat Earthmover
+M60A1 Armored Vehicle Launched Bridge (AVLB)
+M88 Recovery Vehicle
+M728 Combat Engineer Vehicle (CEV)
+M981 FISTV
+M93 Fox NBCRS (Nuclear Biological Chemical Reconnaissance System)FWD Model B
+Gama Goat
+GMC CCKW
+Jeffery Quad
+M29 Weasel
+M39 Truck
+M151
+Mack AC
+Willys MB
+Willys M38
+Ford GTB
+Dodge M37
+M520 Goer
+M25 Tank Transporter
+Interim Fast Attack VehicleM939 Truck
+HMMWV
+FMTV
+MTVR
+L-ATV (Oshkosh Defense's JLTV winner (August 2015); manufactured unarmoured; Long Term Armor Strategy (LTAS) complaint (A-kit/B-kit))FMC XR311 (also known as GI Hotrod)M109A6/A7 Paladin (155 mm Howitzer Motor Carriage; Full-Track)
+M270 Multiple Launch Rocket System
+High Mobility Artillery rocket systemM109/A1/A2/A3/A4/A5 (155 mm Howitzer Motor Carriage; Full-Track); (M109A5 Used for Reserve Training)
+M108 (105 mm Howitzer)
+M107 (175 mm Howitzer)
+M110/A1/A2 (203 mm Howitzer)
+76 mm Gun Motor Carriage M10 (3"/76 mm Gun Motor Carriage; Full-Track)
+76 mm Gun Motor Carriage M18 Hellcat (76 mm Gun Motor Carriage; Full-Track)
+90 mm Gun Motor Carriage M36 Jackson (90 mm Gun Motor Carriage; Full-Track)
+Landing Vehicle Tracked (Armored) (LVT(A))1/2/4/5 (Amphibious Full-Track)
+81 mm Mortar Carrier M4/A1
+M21 Mortar Motor Carriage
+T19 Howitzer Motor Carriage
+T30 Howitzer Motor CarriageXM2001 Crusader Self Propelled HowitzerM1117 Armored Security Vehicle
+Buffalo
+Caiman
+Cougar
+M-ATV (MRAP All Terrain Vehicle)
+MaxxPro
+RG-31
+RG-33LSV (Light Strike Vehicle)
+ATV (MV700, MV850)
+Desert Patrol Vehicle (still in use in small numbers by Navy SEALs)Vehicle registration plates of the United States Army in Germany
+Tank classification
+List of "M" series military vehicles
+List of currently active United States military land vehicles
+List of crew served weapons of the US Armed Forces
+List of vehicles of the United States Marine Corps
+List of weapons of the U.S. Marine Corps
+G-numbers

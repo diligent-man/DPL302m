@@ -1,0 +1,157 @@
+The Fairchild C-119 Flying Boxcar (Navy and Marine Corps designation R4Q) was an American military transport aircraft developed from the World War II-era Fairchild C-82 Packet, designed to carry cargo, personnel, litter patients, and mechanized equipment, and to drop cargo and troops by parachute. The first C-119 made its initial flight in November 1947, and by the time production ceased in 1955, more than 1,100 C-119s had been built. Its cargo-hauling ability and unusual twin-boom design earned it the nickname "Flying Boxcar".
+The Air Force C-119 and Navy R4Q was initially a redesign of the earlier C-82 Packet, built between 1945 and 1948. The Packet provided service to the Air Force's Tactical Air Command and Military Air Transport Service for nearly nine years during which time its design was found to have several serious problems. All of these were addressed in the C-119.
+In contrast to the C-82, the cockpit was moved forward to fit flush with the nose rather than its previous location over the cargo compartment. This resulted in more usable cargo space and larger loads than the C-82 could accommodate. The C-119 also featured more powerful engines, and a wider and stronger airframe. The first C-119 prototype (called the XC-82B) first flew in November 1947, with deliveries of C-119Bs from Fairchild's Hagerstown, Maryland factory beginning in December 1949.
+In 1951, Henry J. Kaiser was awarded a contract to assemble additional C-119s at the Kaiser-Frazer automotive factory located in the former B-24 plant at Willow Run Airport in Belleville, Michigan. Initially, the Kaiser-built C-119F differed from the Fairchild aircraft by the use of Wright R-3350-85 Duplex Cyclone engines in place of Fairchild's use of the Pratt & Whitney R-4360 Wasp Major radial engine. Kaiser built 71 C-119s at Willow Run in 1952 and 1953 (AF Ser. No. 51-8098 to 51-8168) before converting the factory for a planned production of the Chase C-123 that never eventuated. The Kaiser sub-contract was frowned upon by Fairchild, and efforts were made through political channels to stop Kaiser's production, which may have proven successful. Following Kaiser's termination of C-119 production the contract for the C-123 was instead awarded to Fairchild. Most Kaiser-built aircraft were issued to the U.S. Marine Corps as R4Qs, with several later turned over to the South Vietnamese air force in the 1970s, a few others were later shipped to Belgium and Italy.
+The AC-119G "Shadow" gunship variant was fitted with four six-barrel 7.62 mm (0.300 in) NATO miniguns, armor plating, flare launchers, and night-capable infrared equipment. Like the AC-130 that preceded it, the AC-119 proved to be a potent weapon. The AC-119 was made more deadly by the introduction of the AC-119K "Stinger" version, which featured the addition of two General Electric M61 Vulcan 20 mm (0.79 in) cannon, improved avionics, and two underwing-mounted General Electric J85-GE-17 turbojet engines, adding nearly 6,000 lbf (27 kN) of thrust.
+Other major variants included the EC-119J, used for satellite tracking, and the YC-119H Skyvan prototype, with larger wings and tail.
+In civilian use, many C-119s feature the "Jet-Pack" modification, which incorporates a 3,400 lbf (15,000 N) Westinghouse J34 turbojet engine in a nacelle above the fuselage.
+Number built: 1,183 consisting of:
+1,112 built by Fairchild
+71 built by Kaiser-Frazer CorpTwo additional airframes were built by Fairchild for static tests
+The aircraft saw extensive action during the Korean War as a troop and equipment transport. In July 1950, four C-119s were sent to FEAF for service tests. Two months later, the C-119 deployed with the 314th Troop Carrier Group and served in Korea throughout the war.
+In December 1950, after People's Republic of China Expeditionary People's Volunteer Army troops blew up a bridge at a narrow point on the evacuation route between Koto-ri and Hungnam, blocking the withdrawal of U.N. forces, eight U.S. Air Force C-119 Flying Boxcars flown by the 314th Troop Carrier Group  were used to drop portable bridge sections by parachute. The bridge, consisting of eight separate sixteen-foot long, 2,900-pound sections, was dropped one section at a time, using two parachutes on each section. Four of these sections, together with additional wooden extensions were successfully reassembled into a replacement bridge by Marine Corps combat engineers and the US Army 58th Engineer Treadway Bridge Company, enabling U.N. forces to reach Hungnam.
+From 1951 to 1962, C-119C, F and G models served with U.S. Air Forces in Europe (USAFE) and Far East Air Forces (FEAF) as the first-line Combat Cargo units, and did yeoman work as freight haulers with the 60th Troop Carrier Wing, the 317th Troop Carrier Wing and the 465th Troop Carrier Wing in Europe, based first in Germany and then in France with roughly 150 aircraft operating anywhere from Greenland to India. A similar number of aircraft served in the Pacific and the Far East. In 1958, the 317th absorbed the 465th, and transitioned to the C-130s, but the units of the former 60th Troop Carrier Wing, the 10th, 11th and 12th Troop Carrier Squadrons, continued to fly C-119s until 1962, the last non-Air Force Reserve and non-Air National Guard operational units to fly the "Boxcars."
+The USAF Strategic Air Command had C-119 Flying Boxcars in service from 1955 to 1973.
+Perhaps the most remarkable use of the C-119 was the aerial recovery of balloons, UAVs, and even satellites.  The first use of this technique was in 1955, when C-119s were used to recover Ryan AQM-34 Firebee unmanned targets. The 456th Troop Carrier Wing, which was attached to the Strategic Air Command (SAC) from 25 April 1955 – 26 May 1956, used C-119s to retrieve instrument packages from high-altitude reconnaissance balloons. C-119s from the 6593rd Test Squadron based at Hickam Air Force Base, Hawaii performed several aerial recoveries of film-return capsules during the early years of the Corona spy satellite program. On 19 August 1960, the recovery by a C-119 of film from the Corona mission code-named Discoverer 14 was the first successful recovery of film from an orbiting satellite and the first aerial recovery of an object returning from Earth orbit.
+The C-119 went on to see extensive service in French Indochina, beginning in 1953 with aircraft secretly loaned by the CIA to French forces for troop support. These aircraft were generally flown in French markings by American CIA pilots often accompanied by French officers and support staff. The C-119 was to play a major role during the siege at Dien Bien Phu, where they flew into increasingly heavy fire while dropping supplies to the besieged French forces. The only two American pilot casualties of the siege at Dien Bien Phu were James B. McGovern Jr. and Wallace A. Buford. Both pilots, together with a French crew member, were killed in early June, 1954, when their C-119, while making an artillery drop, was hit and crippled by Viet Minh anti-aircraft fire; the aircraft then flew an additional 75 miles (121 km) into Laos before it crashed.
+During the Sino-Indian War of 1962, the C-119 was extensively used to supply Indian forces. President Kennedy allowed sales of spare C-119 on a priority basis upon request by the Indian government.
+During the Vietnam War, the incredible success of the Douglas AC-47 Spooky continued, but limitations of the size and carrying capacity of the plane led the USAF to develop a larger plane to carry more surveillance gear, weaponry, and ammunition, the AC-130 Spectre. However, due to the strong demands of C-130s for cargo use there were not enough Hercules frames to provide Spectres for operations against the enemy. The USAF filled the gap by converting C-119s into AC-119s each equipped with four 7.62 minigun pods, a Xenon searchlight, night observation sight, flare launcher, fire control computer and TRW fire control safety display to prevent incidents of friendly fire.  The new AC-119 squadron was given the call-sign "Creep" that launched a wave of indignation that led the Air Force to change the name to "Shadow" on 1 December 1968. C-119Gs were modified as AC-119G Shadows and AC-119K Stingers. They were used successfully in both close air support missions in South Vietnam and interdiction missions against trucks and supplies along the Ho Chi Minh Trail. All the AC-119G Gunships were transferred to the Republic of Vietnam Air Force starting in 1970 as the American forces began to be withdrawn.
+During the late 1960s and early 1970s, Air National Guard and USAF Reserve pilots flew C-119's to drop parachutist students for the US Army Parachute School at Ft. Benning, Georgia.
+After retirement from active duty, substantial numbers of C-119s and R4Qs soldiered on in the U.S. Navy, U.S. Marine Corps, the Air Force Reserve and the Air National Guard until the mid-1970s, the R4Qs also being redesignated as C-119s in 1962. The last military use of the C-119 by the United States ended in 1974 when a single squadron of Navy Reserve C-119s based at Naval Air Facility Detroit/Selfridge Air National Guard Base near Detroit, Michigan, and two squadrons based at Naval Air Station Los Alamitos, California replaced their C-119s with newer aircraft.
+Many C-119s were provided to other nations as part of the Military Assistance Program, including Belgium, Brazil, Ethiopia, India, Italy, Jordan, Taiwan, and (as previously mentioned) South Vietnam. The type was also used by the Royal Canadian Air Force, and by the United States Navy and United States Marine Corps under the designation R4Q until 1962 when they were also redesignated as C-119.
+A number of aircraft were acquired by companies who were contracted by federal agencies including the  United States Forest Service (USFS) and the Bureau of Land Management (BLM) to provide airtankers for fighting wildfires. Others were pressed into civilian cargo service. After a series of crashes, the age and safety of the aircraft being used as airtankers became a serious concern, and the U.S. C-119 airtanker fleet was permanently grounded in 1987. Eventually, many of these aircraft were provided to museums across the U.S. in a complicated – and ultimately illegal – scheme where stored USAF Lockheed C-130 Hercules transports and Navy Lockheed P-3 Orion anti-submarine patrol aircraft were provided to the contractors in exchange for the C-119s. (See U.S. Forest Service airtanker scandal.) After the end of the airtanker days, many C-119s flew in Alaska for Northern Pacific Transport, Gifford Aviation, Stebbins & Ambler Air transport, and Delta Associates, being used for public service contracts, such as hauling building materials to the villages in the bush of Alaska that have no road access.
+Several aircraft were observed, as late as 1990, by paratroopers with the 6th Infantry Division, to be in Forest Service use as jump planes for "smokejumper" firefighters in Alaska.  These aircraft were boarded and toured, by the Army paratroopers, at Ft Wainwright, Alaska.
+XC-119A
+The XC-82B modified to production standards, later became C-119A, then EC-119A as an electronics test bed.
+C-119B
+Production variant with two P&W R-4360-30 engines, 55 built.
+C-119C
+As C-119B with ventral fins added and tailplane extensions removed, 303 built.
+YC-119D
+Project for a version with three-wheeled landing gear and removable pod, was designated XC-128A, none built.
+YC-119E
+Project for a version of the 119D with two R-3350 engines, was designated XC-128B, none built.
+YC-119F
+One C-119C modified with two R-3350-85 engines.
+C-119F
+Production variant, (71 produced by Henry Kaiser with Wright R-3350 engines), 256 built for the USAF and RCAF.
+C-119G
+As C-119F with different propellers, 480 built, some converted from Fairchild or Kaiser built C-119F.
+AC-119G Shadow
+C-119G modified as gunships, 26 conversions.
+YC-119H
+Re-designed version with extended wing and modified tail surface, one converted from a C-119C.
+C-119J
+C-119F and G converted with a modified rear fuselage, 62 conversions.
+EC-119JConversions for satellite tracking.
+MC-119J
+Used for aircraft equipped for medical evacuation role.
+RC-119
+Reconnaissance aircraft used by the Vietnamese Air Force
+YC-119K
+One C-119G modified with two General Electric J85 turbojets in underwing pods.
+C-119K
+Five C-119Gs modified as YC-119K.
+AC-119K Stinger
+C-119G modified to C-119K standard as gunships, 26 conversions.
+C-119L
+Modified variant of the C-119Gs, 22 conversions.
+XC-120 PackplaneOne C-119B converted with removable cargo pod.
+C-128
+Initially used designation for YC-119D and YC-119E variant.
+R4Q-1
+United States Navy & United States Marine Corps version of the C-119C, 39 built.
+R4Q-2
+United States Navy and United States Marine Corps version of the C-119F, later re-designated C-119F, 58 built.Steward-Davis Jet-Pak C-119
+Civil conversions of Fairchild C-119s with 3,400 lbf (15 kN) Westinghouse J34-WE-36 dorsal jet-pods. Increased take-off weight of 77,000 lb (35,000 kg). 29 jet-pak kits were supplied to the US civil market and 27 to the Indian Air Force.
+Steward-Davis Stolmaster
+A single C-119 conversion, with quick-attach J34 jet-packs. A single conversion in 1967. BelgiumBelgian Air Force received 40 new aircraft using Mutual Defense Air Program (MDAP) funds delivered from 1952, 18 x C-119F and 22 C-119Gs. Six surplus Kaiser-built USAF C-119G were acquired in 1960. All C-119F were retired in 1955 shortly after the arrival of last C-119G, eight were sold to Royal Norwegian Air Force after being rebuilt to C-119G specs by Sabena technicians, the remaining ten were sent to Spain but proved unsuccessful and were ultimately re-acquired by Belgian Air Force in 1960-1961, rebuilt as C-119G. BrazilBrazilian Air Force received 11 former USAF C-119Gs using Military Aid Program funding in 1962. An additional USAF C-119G was acquired in 1962 as an attrition replacement.
+2nd Squadron of the 1st Group of transporting troops CanadaRoyal Canadian Air Force received 35 new C-119Fs delivered from 1953, later upgraded to C-119G standard. TaiwanRepublic of China Air Force received 114 former USAF aircraft, they were in service from 1958–1997. EthiopiaEthiopian Air Force received eight former USAF aircraft using Military Aid Program funding, after modification to C-119K standard with underwing auxiliary jets they were delivered in two batched, five in 1970 and three in 1971. Two former Belgian Air Force C-119Gs were acquired in 1972 as spares source. FranceFrench Air Force operated in Indochina nine aircraft loaned from USAF. IndiaIndian Air Force received 79 aircraft. ItalyItalian Air Force  operated 40 C-119G new aircraft as Mutual Defence Assistance Program, five C-119G former USAF and transferred to United Nations in December 1960 and 25 C-119J surplus USAF / ANG aircraft. The last one flew in 1979. JordanRoyal Jordanian Air Force received four former USAF aircraft. MoroccoRoyal Moroccan Air Force received 12 former USAF aircraft and six former Canadian aircraft. NorwayRoyal Norwegian Air Force received 8 surplus Belgian aircraft. SpainSpanish Air Force received 10 former Belgian C-119F delivered by USAF but rejected all. South VietnamRepublic of Vietnam Air Force received 91 aircraft transferred from USAF. United NationsFive former USAF aircraft donated, operated by the Indian Air Force then passed to the Italian Air Force. United StatesUnited States Air Force
+United States Marine Corps
+United States Navy7 November 1952: Flight "Gamble Chalk One" (AF Ser. No. 51-2560), part of Exercise Warm Wind, flew off course and crashed in Mt. Silverthrone, Alaska, killing 19.
+15 November 1952: Flight callsign "Warmwind Three" (AF Ser. No. 51-2570), part of Exercise Warm Wind, flew off course and was lost. 20 pronounced dead.
+23 June 1953: Shortly after a ground control approached (GCA) radar monitored takeoff from Ashiya Air Base, Japan, a U.S. Air Force C-119 Flying Boxcar (AF Ser. No. 49-0161) turned to a heading 005 degrees magnetic (dm) and began a normal climb through the overcast. The pilot then reported that the C-119 may have scraped the tail skid on takeoff; additionally all the left seat (pilot side) gyroscopic instruments (Gyros) were not operational. A few seconds later, the pilot requested immediate GCA vector to Ashiya AB, stating that co-pilot would have to fly the GCA approach from the right seat. The GCA was continuously tracking them and reported its location as 12 mi (19 km) north of Ashiya AB, instructing co-pilot to turn right to a heading of 210 degrees. Then 49-161 disappeared from radar. All on board were lost.
+17 July 1953: Shortly after takeoff from NAS Whiting Field, Florida, a United States Marine Corps R4Q-2 transporting 40 NROTC midshipmen apparently lost power in the port engine, and crashed and burned after hitting a clump of trees. Six injured men were found in the wreckage, but only two midshipmen and one of the six crewmen survived.
+10 August 1955: Two aircraft of a nine-plane USAF flight on a training mission collided over Edelweiler, Germany. One of the C-119s had developed engine trouble and lost altitude, causing it to strike another aircraft in the formation. A total of 66 people on board the two aircraft were killed.
+26 October 1956, Air Force aircraft number 51-8026 departed Sewart Air Force Base, Tenn. at [9:17 a.m.] on Oct. 26, 1956 via airways to Olmsted Air Force Base, [Middletown] Penn. on a cargo airlift mission.  The aircraft crashed in mountainous terrain in the Tuscarora State Forest near Shippensburg, PA approximately 22.5 nautical mile west of the Kingston Fan Marker at approximately [3:15 p.m.] killing all four aboard.  
+27 March 1958: USAF C-119C, AF Ser. No. 49-0195, collided in midair with USAF Douglas C-124C Globemaster II, AF Ser. No. 52-0981 over farmland near Bridgeport, Texas, USA, killing all 15 on the Globemaster and all 3 on the Flying Boxcar. The two transports crossed paths over a VHF omnidirectional range (VOR) navigational radio beacon during cruise flight under instrument flight rules in low visibility. The C-124 was on a north-northeasterly heading flying at its properly assigned altitude of 7,000 feet (2,100 m); the C-119 was on a southeasterly heading, and the crew had been instructed to fly at 6,000 feet (1,800 m), but their aircraft was not flying at this altitude when the collision occurred.
+12 December 1961: Two Belgian C-119 aircraft collided mid-air due to a lack of coordination at flight control, while attempting to land at Chièvres Air Base. All occupants of both aircraft were killed (13 in total).
+26 June 1963: CP-45 a C-119G operated by the Royal Belgian Air Force out of Melsbroek Air Base was struck by a 3-inch mortar bomb whilst flying over the British military training area and ranges at Sennelager, W Germany. The aircraft was carrying 6 crew, 40 Belgian Army para commandos and one Congolese despatcher. They had intended to drop on a DZ near Geseke, but the drop was cancelled and CP-45 was descending in order to land at the Royal Air Force base at Gutersloh. The mortar bomb was a white phosphorus munition which pierced starboard wing fuel tanks and ignited escaping fuel. Nine paratroopers were able to jump and land safely, but all six crew and 32 paras were killed in the crash near the town of Detmold.
+5 June 1965: 51-2680, a C-119G operated by the US Air Force disappeared on a military transport flight between Homestead Air Force Base, Florida and Grand Turk Island Airport. Five crew and four air force mechanics were killed in the accident.
+30 September 1966: A United States Air Force C-119 crashed into a mountain peak in the Angeles National Forest, killing all four men aboard.
+16 December 1968: A C-119 assigned to the Air Force Reserve's 910th Tactical Air Support Group at Youngstown, Ohio, crashed shortly after its departure from Naval Station Roosevelt Roads, Puerto Rico on a flight to Homestead AFB, Florida. The wreckage was found at an elevation of 3,400 feet (1,000 m) near El Yunque. All eight occupants were killed. (Source: The Miami News, page 6-A, Dec. 17, 1968)A number of C-119s have been preserved in museums:
+CP-10 – C-119G on static display at Melsbroek Air Base in Steenokkerzeel, Flemish Brabant.
+CP-46 – C-119G (built by Kaiser as C-119F) on static display at the Royal Museum of the Armed Forces and of Military History in Brussels.FAB 2304 – C-119G on static display at the 8th Parachute Field Artillery Group in Rio de Janeiro.
+FAB 2305 – C-119G on static display at the Museu Aeroespacial at Afonsos Air Force Base in Rio de Janeiro.IK444 – C-119 on static display at the 50th Parachute Brigade's Officer's Mess of the former Paratrooper's Training School in Agra, Uttar Pradesh. It has been converted to a bar.
+IK450 – C-119G on static display at the Indian Air Force Museum, Palam in New Delhi. This unit is fitted with an external jet-pack.MM 52-6020 – C-119G on static display at Rivolto Air Base in Codroipo, Friuli-Venezia Giulia.
+MM 53-3200 – C-119G on static display at Pisa International Airport in Pisa, Tuscany.
+MM 53-8146 – EC-119G on static display at the Piana delle Orme Museum in Borgo Faiti, Lazio.ROKAF 3199 – C-119G on static display at the War Memorial of Korea in Seoul.ROCAF 3120 – C-119G on static display at Pingtung Airport in Pingtung City.
+ROCAF 3144 – C-119G on static display at Kao Yuan University in Lujhu, Kaohsiung.
+ROCAF 3158 – C-119G on static display at the China University of Science and Technology in Tapei.
+ROCAF 3160 – C-119G on static display at Xihujunji Park in Xihu, Changhua.
+ROCAF 3183 – C-119L on static display at Military aircraft park in Chang-hua County.
+ROCAF 3184 – C-119L on static display at Jiji Township in Nantou County.
+ROCAF 3190 – C-119L on static display at Republic of China Air Force Museum in Gangshan, Kaohsiung.
+ROCAF 3192 – C-119L on static display at Rushan Visitor Center in Kinmen County.
+ROCAF 3202 – C-119L on static display at Yuanzhiluxiuxian Park in Nanhua District, Tainan.AirworthyC-119F131673 – privately owned in Eagle River, Alaska.
+131695 – privately owned in Eagle River, Alaska.On displayC-119B48-0352 – Air Mobility Command Museum at Dover Air Force Base in Dover, Delaware.C-119C49-0132 – Pima Air & Space Museum in Tucson, Arizona. This aircraft also carries civilian registration N13743 and is currently in the markings of "Tanker 81" of Hemet Valley Flying Service of Hemet, California. This aircraft is currently on outdoor display and will be restored to original USAF markings.
+49-0157 – Pima Air & Space Museum in Tucson, Arizona.
+49-0199 – Castle Air Museum in Atwater, California. This airframe was transferred to the U.S. Forest Service after retirement from the Air Force.
+50-0128 – Pope Field near Fayetteville, North Carolina. It is painted as 53-3182.
+51-2566 – Museum of Aviation at Robins Air Force Base in Warner Robins, Georgia.
+51-2567 – USAF Airman Heritage Museum at Lackland Air Force Base in San Antonio, Texas.C-119F48-0322 – Milestones of Flight Museum in Palmdale, California.
+51-2675 – U.S. Veterans Museum in Granbury, Texas. It was previously on display at the Pate Museum of Transportation in Cresson, Texas.
+131677 – Mid-Atlantic Air Museum in Reading, Pennsylvania. This former Marine R4Q is reported to be the last C-119/R4Q operated by the U.S. military.
+131679 – Don F. Pratt Museum at Fort Campbell near Clarksville, Tennessee.C-119G51-8024 – Strategic Air Command & Aerospace Museum in Ashland, Nebraska.
+52-5850 – Grissom Air Museum at Grissom Air Reserve Base in Peru, Indiana.
+RCAF 22101 – Fort Campbell near Clarksville, Tennessee.
+RCAF 22103 – National Warplane Museum in Geneseo, New York.
+RCAF 22105 – Niagara Falls Air Reserve Station in Niagara Falls, New York.
+RCAF 22107 – Hill Aerospace Museum at Hill Air Force Base in Roy, Utah. It is painted as the State of Utah and bears the incorrect USAF serial number 52-2107.
+RCAF 22111 – Hagerstown Aviation Museum in Hagerstown, Maryland. This airframe was used in the movie Always and was donated by Bob Stanford of Zenith Aviation.
+RCAF 22114 – Aerospace Museum of California in McClellan, California.
+RCAF 22116 – Fort Benning in Columbus, Georgia.
+RCAF 22118 – Air Mobility Command Museum at Dover Air Force Base in Dover, Delaware. After its RCAF service it was converted into an air tanker. Delivered to the museum in 1991, it was restored as a C-119G, fake Air Force Serial No. 51-2881.
+RCAF 22122 – March Field Air Museum at March Air Reserve Base in Riverside, California.
+RCAF 22130 – Lauridsen Aviation Museum in Buckeye, Arizona. This airframe was used in the 2004 movie Flight of the Phoenix.
+RCAF 22134 – Travis Air Force Base Heritage Center at Travis Air Force Base in Fairfield, California.C-119J51-8037 – National Museum of the United States Air Force at Wright-Patterson Air Force Base in Dayton, Ohio. This aircraft was specially modified for the mid-air retrieval of space capsules reentering the atmosphere from orbit. On 19 August 1960 this aircraft made the world's first mid-air recovery of a capsule returning from space when it "snagged" the parachute lowering the Discoverer 14 satellite at 8,000 feet (2,400 m) altitude 360 miles (580 km) southwest of Honolulu, Hawaii. The aircraft was delivered to the Museum in November 1963.C-119L53-3144 – Air Commando Park at Hurlburt Field in Mary Esther, Florida.
+53-8084 – Air Park at Little Rock Air Force Base in Jacksonville, Arkansas.
+53-8087 – 82nd Airborne Division War Memorial Museum at Fort Bragg in Fayetteville, North Carolina.R4Q-2131688 – Pueblo Weisbrod Aircraft Museum in Pueblo, Colorado.
+131708 – Flying Leatherneck Aviation Museum at Marine Corps Air Station Miramar in San Diego, California.Under restoration or in storageC-119FRCAF 22108 – stored at the Museum of Flight and Aerial Firefighting in Greybull, Wyoming.C-119G53-8073 – stored at Alaska Aviation Museum in Anchorage, Alaska
+RCAF 22106 – stored at the Museum of Flight and Aerial Firefighting in Greybull, Wyoming.
+RCAF 22113 – stored at the Museum of Flight and Aerial Firefighting in Greybull, Wyoming.
+RCAF 22135 – stored at the Museum of Flight and Aerial Firefighting in Greybull, Wyoming.C-119L53-7836 – stored with Everts Air Fuel in Fairbanks, Alaska.
+53-8074 – stored at the Flying J Ranch near Pima, Arizona.
+53-8076 – stored at the Museum of Flight and Aerial Firefighting in Greybull, Wyoming.
+53-8150 – stored at the Museum of Flight and Aerial Firefighting in Greybull, Wyoming.General characteristics
+Crew: 5 (pilot, co-pilot, navigator, radio operator and crew chief)
+Capacity: 67 troops or 35 stretchers or 27,500 lb (12,500 kg) cargo
+Length: 86 ft 6 in (26.37 m)
+Wingspan: 109 ft 3 in (33.30 m)
+Height: 26 ft 6 in (8.08 m)
+Wing area: 1,447 sq ft (134.4 m)
+Empty weight: 39,800 lb (18,053 kg)
+Gross weight: 64,000 lb (29,030 kg)
+Max takeoff weight: 74,000 lb (33,566 kg)
+Fuel capacity: 2,800 US gal (2,300 imp gal; 11,000 L)
+Powerplant: 2 × Pratt & Whitney R-4360-20W 28-cylinder air-cooled radial engines, 3,500 hp (2,600 kW)  each 
+Propellers: 4-bladed Hamilton-Standard Hydromatic, 15 ft 0 in (4.57 m) diameterPerformance
+Maximum speed: 281 mph (452 km/h, 244 kn) at 18,000 ft (5,500 m)
+Cruise speed: 200 mph (320 km/h, 170 kn) (70% normal rated power)
+Stall speed: 102 mph (164 km/h, 89 kn)
+Range: 1,770 mi (2,850 km, 1,540 nmi) with 5,500 lb (2,500 kg) cargo
+Service ceiling: 23,900 ft (7,300 m)
+Rate of climb: 1,010 ft/min (5.1 m/s)
+Take-off run to 50 ft (15 m): 2,300 ft (700 m)
+Landing run from 50 ft (15 m): 1,890 ft (580 m)Fremont RocketRelated development
+Fairchild C-82 Packet
+Fairchild XC-120 Packplane
+Fairchild AC-119Aircraft of comparable role, configuration, and era
+Armstrong Whitworth AW.660 Argosy
+Blackburn Beverley
+Nord Noratlas
+Related lists
+List of military aircraft of the United States
+List of United States Navy aircraft designations (pre-1962) This article incorporates public domain material from the United States Air Force website https://www.af.mil. Website of origin: USAF Museum
+C-119 Survivors Census
+Historic American Engineering Record (HAER) No. TX-121, "Fairchild C-119G Flying Boxcar Airplane, Pate Museum of Transportation, 18501 Highway 377 S, Cresson, Hood County, TX", 2 photos, 5 data pages, 1 photo caption page

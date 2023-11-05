@@ -1,0 +1,78 @@
+Low Alemannic German (German: Niederalemannisch) is a branch of Alemannic German, which is part of Upper German. Its varieties are only partly intelligible to non-Alemannic speakers.
+Lake Constance Alemannic (de)
+Northern Vorarlberg (de)
+Allgäu dialect (de)
+Baar dialect
+Southern Württemberg
+Upper Rhenish Alemannic (de)
+Basel German
+Baden dialects north of Markgräflerland
+Alsatian, spoken in Alsace, in some villages of the Phalsbourg county in Lorraine and by some Amish in Indiana
+Low Alemannic dialects in the Black Forest
+Colonia Tovar dialect, VenezuelaThe feature that distinguishes Low Alemannic from High Alemannic is the retention of Germanic /k/, for instance kalt 'cold' vs. High Alemannic chalt.
+The feature that distinguishes Low Alemannic from Swabian is the retention of the Middle High German monophthongs, for instance Huus 'house' vs. Swabian Hous or Ziit 'time' vs. Swabian Zejt.
+(All of the below is specific to the dialects spoken near Freiburg im Breisgau)
+Vowels:
+Consonants:
+Are as in Standard German, with the following notes:
+kh is an aspirated [kʰ]
+ng is a velar nasal [ŋ]
+ngg is a velar nasal followed by a velar plosive [ŋɡ]
+ph is an aspirated [pʰ]
+th is an aspirated [tʰ]
+z represents [dz] as opposed to Standard German [ts]Definite Article
+Indefinite Article
+Plurals
+Class I: Plural = Singular  (e.g. Ääber → Ääber)
+Class II: Plural = Singular + Umlaut (e.g. Baum → Baim; Vader → Väder)
+Class IIIa: Plural = Singular + -e (e.g. Man → Mane; Ags → Agse)
+Class IIIb: Plural = Singular + -̈e (e.g. Frosch → Fresche)
+Class IVa: Plural = Singular + -er (e.g. Lyyb → Lyyber; Schùg → Schùger)
+Class IVb: Plural = Singular + -̈er (e.g. Wald → Wälder; Blad → Bleder)
+Class V: No Plural (e.g. Chees; Zemänd)
+Class VI: No Singular (Plural Only) (e.g. Bilger; Fèèrine)Diminutives
+Standard ending is -li (e.g. Aimer → Aimerli)
+If the word ends in -l, then the ending is -eli (e.g. Dääl → Dääleli)
+If the word ends in -el, then the ending is -i (e.g. Degel → Degeli)
+If the word ends in -e, remove the -e and add -li (e.g. Bèère → Bèèrli)
+The rules for this can be quite complex and depend on the region. Sometimes diminutives require umlaut, other times not.Weak Declension
+Strong Declension
+Comparative
+Standard ending -er (e.g. fèin --> fèiner)Superlative
+Standard ending -(e)schd (e.g. fèin --> fèinschd)Irregular
+Personal Pronouns
+1. Infinitive
+Infinitive ends in -e
+Some monosyllabic verbs do not have this ending (e.g. chùù, döe, goo, gschää, haa, loo, nee, sää, schdoo, schlaa, syy, zie, etc.)2. Participle
+2.1 Prefix 
+The prefix for g- or ge-
+Before b, d, g, bf, dsch, and z is merged into the word and not visible (e.g. broochd, glaubd, etc.)2.2 Suffix
+Strong Verbs end in -e (e.g. gäse, glofe)
+Weak Verbs end in -d or -ed (e.g. bùzd, gchaufd)2.3 Types
+2.3.1  Infinitive and Present Sg y/èi/ai - Participle i 
+2.3.1.1 y > i (e.g. abwyyse > abgwiise) 
+2.3.1.2 èi > i (e.g. verzèie > verziie) 
+2.3.1.3 ai > i (e.g. schaide > gschiide) 
+2.3.2 Infinitive and Present Sg ie/u/au/èi/i - Participle o/öu/öe  
+2.3.2.1 ie > o (e.g. biede > bode) 
+2.3.2.2 u > o (e.g. sufe > gsofe) 
+2.3.2.3 au > o (e.g. laufe > glofe) 
+2.3.2.4 èi > öu (e.g. rèie > gröue) 
+2.3.2.5 ie > öe (e.g. riefe > gröefe) 
+2.3.2.5 i > o (e.g. wiige > gwooge) 
+2.3.3 Infinitive and Present Sg i - Participle ù 
+2.3.3.1 i > u (e.g. binde > bùnde) 
+2.3.4 Infinitive ä/e - Present i - Participle o/u  
+2.3.4.1 ä - i - o (e.g. bräche > broche) 
+2.3.4.2 ä - i - u (e.g. hälfe > ghùlfe) 
+2.3.4.3 e/è - i - o (e.g. verdèèrbe > verdoorbe) 
+2.3.4.4 e - i - ù (e.g. schmelze > gschmùlze) 
+2.3.5 Infinitive ä/i - Present i - Participle ä 
+2.3.5.1 ä - i - ä (e.g. äse > gäse) 
+2.3.5.2 i - i - ä (e.g. bide > bäde) 
+2.3.6 Infinitive Vowel is the same as the Participle  
+2.3.5.1 (e.g. bache > bache; fale > gfale) 
+
+3. Conjugation 
+3.1 Present Tense
+3.1.1 Regular Verb
