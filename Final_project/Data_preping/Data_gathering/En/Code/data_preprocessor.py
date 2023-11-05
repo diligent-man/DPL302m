@@ -3,6 +3,9 @@ import re
 import string
 import shutil
 
+from nltk.corpus import stopwords
+from nltk.tokenize import word_tokenize
+from nltk.stem import WordNetLemmatizer
 
 class TextPreprocessor:
     def __init__(self):
@@ -61,23 +64,24 @@ class TextPreprocessor:
         return None
 
 
-    def eliminate_contraction(self) -> None:
-        contractions_dict = {"how'll":"how will",
-                             "mayn't":"may not",
-                             "might've":"might have",
-                             "mightn't":"might not",
-                             "mustn't":"must not",
-                             "needn't":"need not",
-                             "shan't":"shall not",
-                             "so've":"so have",
-                             "that'd":"that would",
-                             "there'd":"there would",
-                             "to've":"to have",
-                             "what'll":"what will",
-                             "when've":"when have",
-                             "where've":"where have",
-                             "why've":"why have",
-                             "will've":"will have"}
+    def decapitalize(self) -> None:
+        for filename in sorted(os.listdir(self.__data_path)):
+            with open(self.__data_path + '/' + filename, 'r', encoding='utf-8') as f:
+                data = []
+                for line in f:
+                    data.append(line.lower())
+                # save data
+                data = '\n'.join(data)
+                self.__save_preprocessed_data(self.__preprocessed_data_path, filename, data)
+        return None
+
+
+
+    def expand_contraction(self) -> None:
+        contractions_dict = {"i'll":"i will", "you'll":"you will", "we'll":"we will", "they'll":"they will", "he'll":"he will", "she'll":"she will", "it'll":"it will",                             
+                             "might've":"might have", "may've":"may have", "could've":"could have", "would've":"would have", "should've":"should have",
+                             "mayn't":"may not", "mightn't":"might not", "mustn't":"must not", "needn't":"need not", "shan't":"shall not", "don't":"do not", "doesn't":"does not",
+                             "that'd":"that would", "there'd":"there would", "i'd":"i would", "you'd":"you would", "we'd":"we would", "they'd":"they would", "he'd":"he would", "she'd":"she would", "it'd":"it would",}
         
         for filename in sorted(os.listdir(self.__data_path)):
             with open(self.__data_path + '/' + filename, 'r', encoding='utf-8') as f:
@@ -90,9 +94,26 @@ class TextPreprocessor:
                 expanded_lines = '\n'.join(expanded_lines)
                 self.__save_preprocessed_data(self.__preprocessed_data_path, filename, expanded_lines)
             return None
-                                    
 
-    def remove_by_regex(self, regex_dict):
+                                    
+    def remove_stop_word(self) -> None:
+        for filename in sorted(os.listdir(self.__data_path)):
+            with open(os.path.join(self.__data_path, filename), 'r', encoding='utf-8') as f:
+                data = []
+                stop_words = set(stopwords.words('english'))
+
+                for line in f:
+                    filtered_words = [WordNetLemmatizer().lemmatize(word=word) for word in line.split(' ')]
+                    filtered_words = [word.strip() for word in filtered_words if not word.lower() in stop_words]
+                    data.append(" ".join(filtered_words))
+
+                # save data
+                data = '\n'.join(data)
+                self.__save_preprocessed_data(self.__preprocessed_data_path, filename, data)
+        return None
+
+
+    def remove_by_regex(self, regex_dict) -> None:
         for i in regex_dict:
             for filename in sorted(os.listdir(self.__data_path)):
                 with open(os.path.join(self.__data_path, filename), 'r', encoding='utf-8') as f:            
@@ -112,7 +133,35 @@ class TextPreprocessor:
         return None
 
 
-    
+    @staticmethod
+    def __stemmer(sentence):
+        stemmed_sentence = []
+        for word in sentence.split(' '):
+            for suffix in ['es', 's']:
+                if word.endswith(suffix):
+                    stemmed_sentence.append(word)
+        stemmed_sentence = ' '.join(stemmed_sentence)
+        return stemmed_sentence
+            
+
+    def verify_sequence_length(self) -> None:
+        for filename in sorted(os.listdir(self.__data_path)):
+            with open(os.path.join(self.__data_path, filename), 'r', encoding='utf-8') as f:
+                data = []
+                for line in f:
+                    line = line[:-1]
+                    if len(line.split(' ')) > 40:
+                        line = line.split(' ')[:40]
+                        data.append(" ".join(line))
+                    else:
+                        data.append(line)
+                # save data
+                data = '\n'.join(data)
+                self.__save_preprocessed_data(self.__preprocessed_data_path, filename, data)
+        return None
+
+
+
 
 
 def en_preprocessing() -> None:
@@ -152,16 +201,21 @@ def en_preprocessing() -> None:
         text_preprocessor.split_into_sentence()
         text_preprocessor.set_data_path(text_preprocessor.get_preprocessed_data_path())
 
-        # text_preprocessor.eliminate_contraction()
+        text_preprocessor.decapitalize()
 
-        regex_dict = {0: [r"[~!@#$%\^&\*\(\)\_,，./<>\?;:：\"\[\]\{\}\\|“”\u2122\u00A90-9\u300A\u300B]*", ""],  # punctuation_marks_and_numeral
-                      1: [r"[–]", ""], 
-                      2: [r"[\u4E00-\u9FFF]", ""], # Chinese hieroglyphs
-                      3: [r"[\u00E0\u00E1\u1EA3\u00E3\u1EA1\u00E2\u1EA7\u1EA5\u1EAD\u1EAB\u1EAF\u0103\u1EB1\u1EAF\u1EB5\u1EB3\u1EB7\u00E8\u00E9\u1EBB\u1EBD\u1EB9\u00EA\u1EC1\u1EBF\u1EC3\u1EC5\u1EC7\u0111\u00EC\u00ED\u1EC9\u0129\u1ECB\u00F2\u00F3\u1ECF\u00F5\u1ECD\u00F4\u1ED3\u1ED1\u1ED5\u1ED7\u1ED9\u01A1\u1EDD\u1EDB\u1EDF\u1EE1\u1EE3\u00F9\u00FA\u1EE7\u0169\u1EE5\u1EEB\u1EE9\u1EED\u1EEF\u1EF1\u1EF3\u00FD\u1EF7\u1EF9\u1EF5\u00C0\u00C1\u00C2\u00C3\u00C4\u00C7\u00C8\u00C9\u00CA\u00CB\u00CE\u00CF\u00D4\u0152\u00D9\u00DA\u00DB\u00DC\u0178\u00E0\u00E1\u00E2\u00E3\u00E4\u00E7\u00E8\u00E9\u00EA\u00EB\u00EE\u00EF\u00F4\u0153\u00F9\u00FA\u00FB\u00FC\u00FD\u00FF]", ""], # Vietnamese chars
-                      4: [r"[\u0255\u01D4\u01CE]", ""] # IPA
+        regex_dict = {0: [r"[^a-zA-Z0-9-–'\s]", ""], # remove non-Latin chars
+                      1: [r"–", "-"], # convert dash -> hyphen
+                      2: [r"[^a-z]-[^a-z]*", " "], # remove adrift hyphen
+                      3: [r"[0-9]+th", ""], # remove century
+                      4: [r"[0-9]", ""], # remove numerics
+                      5: [r"isbn", ""], # remove "isbn"
                      }
         text_preprocessor.remove_by_regex(regex_dict)
-        
+        text_preprocessor.remove_stop_word()
+        text_preprocessor.expand_contraction()
+        text_preprocessor.verify_sequence_length()
+
+
 
 
 def main() -> None:

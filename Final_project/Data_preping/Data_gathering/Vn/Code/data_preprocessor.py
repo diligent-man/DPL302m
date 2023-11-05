@@ -2,9 +2,8 @@ import os
 import re
 import shutil
 
-from typing_error_gen import *
-from confusion_set import vi_syllables
-from normalize import vn_sentence_to_telex_type, chuan_hoa_dau_tu_tieng_viet
+from pprint import pprint as pp
+from normalize import chuan_hoa_dau_cau_tieng_viet
 
 
 class TextPreprocessor:
@@ -12,17 +11,22 @@ class TextPreprocessor:
         self.__data_path = ""
         self.__preprocessed_data_path = ""
 
+
     def set_data_path(self, path):
         self.__data_path = path
+
 
     def get_data_path(self):
         return self.__data_path
 
+
     def set_preprocessed_data_path(self, path):
         self.__preprocessed_data_path = path
 
+
     def get_preprocessed_data_path(self):
         return self.__preprocessed_data_path
+
 
     @staticmethod
     def __has_BOM(filename):
@@ -31,11 +35,13 @@ class TextPreprocessor:
             initial_bytes = f.read(2)
         return initial_bytes in [b'\xFE\xFF', b'\xFF\xFE']
 
+
     @staticmethod
     def __save_preprocessed_data(preprocessed_data_path: str, filename: str, data: str) -> None:
         with open(preprocessed_data_path + '/' + filename, 'w', encoding='utf-8') as f:
             f.write(data)
         return None
+
 
     def split_into_sentence(self):
         for filename in sorted(os.listdir(self.__data_path)):
@@ -43,24 +49,27 @@ class TextPreprocessor:
                 with open(self.__data_path + '/' + filename, 'r', encoding='utf-16') as f:
                     # Split by paragraph
                     data = f.read().split('\n')
-                    paragraph = [paragraph.strip() for paragraph in data if len(paragraph) != 0]
-                    # Split by period
-                    paragraph = [sentence.split('. ') for sentence in paragraph]
-                    # Take only available sentence
-                    sentences = [sentence for sentences in paragraph for sentence in sentences if len(sentence) != 0]
-            else:
-                with open(self.__data_path + '/' + filename, 'r', encoding='utf-8') as f:
-                    # Split by paragraph
-                    data = f.read().split('\n')
+ 
                     paragraph = [paragraph.strip() for paragraph in data if len(paragraph) != 0]
                     # Split by period
                     paragraph = [sentence.split('. ') for sentence in paragraph]
                     # Take only available sentence
                     sentences = [sentence for sentences in paragraph for sentence in sentences if len(sentence) != 0]
 
+            else:
+                with open(self.__data_path + '/' + filename, 'r', encoding='utf-8') as f:
+                    # Split by paragraph
+                    data = f.read().split('\n')
+                    
+                    paragraph = [paragraph.strip() for paragraph in data if len(paragraph) != 0]
+                    # Split by period
+                    paragraph = [sentence.split('. ') for sentence in paragraph]
+                    # Take only available sentence
+                    sentences = [sentence for sentences in paragraph for sentence in sentences if len(sentence) != 0]
             # save data to preprocessed_data folder
-            data = '\n'.join(sentences)        
+            data = '\n'.join(sentences)
             self.__save_preprocessed_data(self.__preprocessed_data_path, filename, data)
+
 
     def remove_by_regex(self, regex_dict):
         for i in regex_dict:
@@ -81,6 +90,7 @@ class TextPreprocessor:
                     self.__save_preprocessed_data(self.__preprocessed_data_path, filename, data)
         return None
 
+
     def standardize_mark(self):
         # Perform punctuation normalization on the data
         for filename in sorted(os.listdir(self.__preprocessed_data_path)):
@@ -88,17 +98,40 @@ class TextPreprocessor:
                 data = ''
                 for line in f:
                     # Apply the punctuation normalization function from normalize.py
-                    normalized_line = chuan_hoa_dau_tu_tieng_viet(line)
-                    # Apply the punctuation normalization function from typing_error_gen.py
-                    normalized_line = vn_sentence_to_telex_type(normalized_line)
+                    normalized_line = chuan_hoa_dau_cau_tieng_viet(line)
                     # Remove extra spaces and ensure spaces between words
                     normalized_line = ' '.join(normalized_line.strip().split())
                     # If the normalized line is not empty, save it
                     if len(normalized_line) > 0:
                         data += normalized_line + '\n'
-
                 # Save the preprocessed data
                 self.__save_preprocessed_data(self.__preprocessed_data_path, filename, data)
+
+
+    def remove_stop_word(self) -> None:
+        # read stop words
+        stopwords = []
+        with open('vietnamese-stopwords.txt', 'r') as f:
+            for line in f:
+                stopwords.append(line[:-1]) # exclude escape sequence
+        stopwords = set(stopwords)  
+
+        # remove stop words that exist in the sentence
+        for filename in sorted(os.listdir(self.__preprocessed_data_path)):
+            with open(os.path.join(self.__preprocessed_data_path, filename), 'r', encoding='utf-8') as f:
+                data = []
+                for line in f:
+                    for stop_word in stopwords:
+                        tmp = line.split(' ')
+                        if stop_word in tmp:
+                            tmp.remove(stop_word)
+                    data.append(' '.join(tmp))
+
+                data = '\n'.join(data)
+                # Save the preprocessed data
+                self.__save_preprocessed_data(self.__preprocessed_data_path, filename, data)   
+        return None
+
 
 
 def vn_preprocessing() -> None:
@@ -110,7 +143,6 @@ def vn_preprocessing() -> None:
 
     # split into singular sentence
     for category in category_ls:
-        print(category)
         text_preprocessor = TextPreprocessor()
         text_preprocessor.set_data_path(data_dir + '/' + category)
         text_preprocessor.set_preprocessed_data_path(preprocessed_data_dir + '/' + category)
@@ -122,18 +154,23 @@ def vn_preprocessing() -> None:
 
         # perform splitting
         text_preprocessor.split_into_sentence()
-        text_preprocessor.set_data_path(text_preprocessor.get_preprocessed_data_path())
+        print(text_preprocessor.get_preprocessed_data_path())
 
+        text_preprocessor.set_data_path(text_preprocessor.get_preprocessed_data_path())        
+        text_preprocessor.standardize_mark()
+        text_preprocessor.remove_stop_word()
+        
         regex_dict = {0: [r"[~!@#$%\^&\*()\_,，./<>\?;:：\"\[\]\{\}\\|“”0-9\+=]*", ""],  # punctuation_marks_and_numeral
                       1: [r"[-–]", ""], # hyphen & dash
                      }
         text_preprocessor.remove_by_regex(regex_dict)
-        text_preprocessor.standardize_mark()
+
 
 
 def main() -> None:
     vn_preprocessing()
     return None
+
 
 
 if __name__ == '__main__':
