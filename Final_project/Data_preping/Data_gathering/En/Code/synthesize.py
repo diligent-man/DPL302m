@@ -1,9 +1,10 @@
 import os
 import shutil
 
+
 def main() -> None:
     if 'en_corpus.txt' in os.listdir('../../../../Wrong_word_generator/'):
-            os.remove(path='../../../../Wrong_word_generator/' + 'en_corpus.txt')
+        os.remove(path='../../../../Wrong_word_generator/' + 'en_corpus.txt')
 
     metadata = {"category_ls_1": ['Business', 'Entertainment', 'Health', 'Sport', 'Style', 'Tech', 'Travel', 'Weather','World'],
                 "category_ls_2": ['Ted_talk', 'Wiki'],

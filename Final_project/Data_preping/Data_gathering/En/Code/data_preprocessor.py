@@ -3,9 +3,11 @@ import re
 import string
 import shutil
 
+import nltk
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from nltk.stem import WordNetLemmatizer
+
 
 class TextPreprocessor:
     def __init__(self):
@@ -150,8 +152,9 @@ class TextPreprocessor:
                 data = []
                 for line in f:
                     line = line[:-1]
-                    if len(line.split(' ')) > 40:
-                        line = line.split(' ')[:40]
+                    if len(line.split(' ')) > 30:
+                        line = line.split(' ')[:30]
+                        print(len(line))
                         data.append(" ".join(line))
                     else:
                         data.append(line)
@@ -165,13 +168,18 @@ class TextPreprocessor:
 
 
 def en_preprocessing() -> None:
+    os.mkdir(path="../Preprocessed_data", mode=0o777)
+    os.mkdir(path="../Preprocessed_data/BBC", mode=0o777)
+    os.mkdir(path="../Preprocessed_data/Wiki", mode=0o777)
+    os.mkdir(path="../Preprocessed_data/Ted_talk", mode=0o777)
+
     metadata = {"category_ls_1": ['Business', 'Entertainment', 'Health', 'Sport', 'Style', 'Tech', 'Travel', 'Weather','World'],
                 "category_ls_2": ['Ted_talk', 'Wiki'],
                 "data_dir_1": ['../Data/BBC'],
                 "data_dir_2": ['../Data'],
                 "preprocessed_data_dir_1":["../Preprocessed_data/BBC"],
                 "preprocessed_data_dir_2":["../Preprocessed_data"]
-                     }
+                }
 
     # split into singular sentence
     index_1 = index_2 = 0
