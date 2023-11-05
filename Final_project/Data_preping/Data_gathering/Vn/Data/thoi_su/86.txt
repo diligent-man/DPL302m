@@ -1,7 +1,0 @@
-Ra mắt hệ thống cảnh báo giông sét 
-Từ hôm nay, người dân có thể truy cập vào trang iweather để theo dõi khu vực nào xảy ra giông sét, từ đó đưa ra quyết định đảm bảo an toàn cho mình và gia đình.
-Trang iweather.gov.vn được Tổng cục Khí tượng Thủy văn (Bộ Tài nguyên và Môi trường) xây dựng và công bố chiều 3/10. Đây là kết quả tích hợp dữ liệu quan trắc tự động với sự vận hành của 10 radar cố định, 3 radar di động tốt nhất Việt Nam hiện nay.
-Truy cập vào trang web, người dân có thể nhận biết khu vực nào đang và sẽ xảy ra nhiều giông sét, thời gian, mức độ, vị trí đến cấp huyện và theo thời gian thực. Ngoài ra, hệ thống còn tích hợp hai trường dữ liệu là phân tích, dự báo định lượng mưa trước 1-6 giờ và cảnh báo nguy cơ lũ quét, sạt lở đất.
-Đối với công tác dự báo, hệ thống hỗ trợ giám sát liên tục thông qua các bức ảnh thu nhận được từ vệ tinh quan trắc Trái đất, radar thời tiết trong nước, mạng lưới đo mưa và định vị sét trên toàn quốc.
-"Dự báo viên hay các cơ quan chức năng có thể nhận biết được các quá trình hình thành, phát triển và di chuyển của đám mây đối lưu có khả năng gây mưa giông, từ đó đưa ra cảnh báo tới người dân", đại diện Tổng cục Khí tượng Thủy văn nói.
-Theo Ban Chỉ đạo quốc gia về phòng chống thiên tai, từ năm 2017 đến 2022, sét làm 175 người chết, trong đó riêng 6 tháng đầu năm 2022 là 44 người, nhiều gần gấp 3 lần năm 2017.
