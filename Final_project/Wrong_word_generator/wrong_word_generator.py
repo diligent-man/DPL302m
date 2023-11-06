@@ -346,37 +346,69 @@ def add_noise(sentence: str, language: str) -> str:
             
             elif method_index == 3: # wrong_tone_pos
                 generated_result = wrong_word_generator.wrong_tone_pos_vn()
-
-
     return sentence.replace(sentence.split()[word_index], generated_result)
 
 
 def generate_wrong_word(language) -> None:
-    num_of_wrong_sentence = 10
     if language == "en":
         filename = 'en_corpus.txt'
         save_path = 'noised_en/'
-        
+
     elif language == 'vn':
         filename = 'vn_corpus.txt'
         save_path = 'noised_vn/'
 
+    # Calculate how many file will be created
+    num_of_wrong_sentence = 10
+    num_of_line_per_file = 100_000
+    with open(filename, 'r') as f:
+        num_of_sentence_in_corpus = len(f.readlines())
+    ender_ls = [i * num_of_line_per_file for i in range(1, round(num_of_sentence_in_corpus * num_of_wrong_sentence / num_of_line_per_file))]
+
+
     counter = 0
+    starter = 0
     with open(filename, 'r') as reader:
-        for line in reader:
-            if len(line.strip()) != 0: # ignore blank line
-                for i in range(num_of_wrong_sentence):
+        for i in range(len(ender_ls)):
+            ender = ender_ls[i]
+            filename = save_path + str(starter) + "_" + str(ender) + ".txt"
+
+            while counter < ender:
+                line = reader.readline()
+                for j in range(num_of_wrong_sentence):
                     incorect_sentence = add_noise(line, language)
                     correct_sentence = line
-                    
+
                     # ensure incorrect sentence must differ from correct sentence
                     while incorect_sentence == correct_sentence:
                         incorect_sentence = add_noise(line, language)
-                    
-                    with open(save_path + f"{counter}.txt", 'w') as writer:
+
+                    # write to file
+                    with open(filename, 'a') as writer:
                         writer.write(correct_sentence[:-1] + '|' + incorect_sentence)
-                    print(language, f'{counter} files added noise')
+
+                    print(language, f'{counter} lines added noise')
                     counter += 1
+
+                    # write into next file for the residual
+                    if counter >= ender:
+                        filename = save_path + str(ender) + "_" + str(ender_ls[i+1]) + ".txt"
+                        for k in range(num_of_wrong_sentence-j-1):
+                            incorect_sentence = add_noise(line, language)
+                            correct_sentence = line
+
+                            # ensure incorrect sentence must differ from correct sentence
+                            while incorect_sentence == correct_sentence:
+                                incorect_sentence = add_noise(line, language)
+
+                            with open(filename, 'a') as writer:
+                                writer.write(correct_sentence[:-1] + '|' + incorect_sentence)
+
+                            print(language, f'{counter} lines added noise')
+                            counter += 1
+                        break
+            # update starter
+            starter = ender
     return None
 
 

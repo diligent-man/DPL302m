@@ -80,10 +80,10 @@ class TextPreprocessor:
 
 
     def expand_contraction(self) -> None:
-        contractions_dict = {"i'll":"i will", "you'll":"you will", "we'll":"we will", "they'll":"they will", "he'll":"he will", "she'll":"she will", "it'll":"it will",                             
-                             "might've":"might have", "may've":"may have", "could've":"could have", "would've":"would have", "should've":"should have",
-                             "mayn't":"may not", "mightn't":"might not", "mustn't":"must not", "needn't":"need not", "shan't":"shall not", "don't":"do not", "doesn't":"does not",
-                             "that'd":"that would", "there'd":"there would", "i'd":"i would", "you'd":"you would", "we'd":"we would", "they'd":"they would", "he'd":"he would", "she'd":"she would", "it'd":"it would",}
+        contractions_dict = {"i'll": "i will", "you'll": "you will", "we'll": "we will", "they'll": "they will", "he'll": "he will", "she'll": "she will", "it'll": "it will",                             
+                             "might've": "might have", "may've": "may have", "could've": "could have", "would've": "would have", "should've": " should have",
+                             "mayn't": "may not", "mightn't": "might not", "mustn't": "must not", "needn't": "need not", "shan't": "shall not", "don't": "do not", "doesn't": "does not",
+                             "that'd": "that would", "there'd": "there would", " i'd": "i would", "you'd": "you would", "we'd": "we would", "they'd": " they would", "he'd": "he would", "she'd": "she would", "it'd": "it would"}
         
         for filename in sorted(os.listdir(self.__data_path)):
             with open(self.__data_path + '/' + filename, 'r', encoding='utf-8') as f:
@@ -97,7 +97,7 @@ class TextPreprocessor:
                 self.__save_preprocessed_data(self.__preprocessed_data_path, filename, expanded_lines)
             return None
 
-                                    
+
     def remove_stop_word(self) -> None:
         for filename in sorted(os.listdir(self.__data_path)):
             with open(os.path.join(self.__data_path, filename), 'r', encoding='utf-8') as f:
@@ -124,11 +124,7 @@ class TextPreprocessor:
                         line = re.sub(regex_dict[i][0], regex_dict[i][1], line)
                         # remove ws surrounding word
                         line = ' '.join([word.strip() for word in line.split()])
-                        # if len line < 7, ignore it
-                        if len(line.split()) < 7:
-                            continue
-                        else:
-                            data.append(line)
+                        data.append(line)
                     # save data
                     data = '\n'.join(data)
                     self.__save_preprocessed_data(self.__preprocessed_data_path, filename, data)
@@ -144,7 +140,7 @@ class TextPreprocessor:
                     stemmed_sentence.append(word)
         stemmed_sentence = ' '.join(stemmed_sentence)
         return stemmed_sentence
-            
+
 
     def verify_sequence_length(self) -> None:
         for filename in sorted(os.listdir(self.__data_path)):
@@ -152,12 +148,15 @@ class TextPreprocessor:
                 data = []
                 for line in f:
                     line = line[:-1]
-                    if len(line.split(' ')) > 30:
-                        line = line.split(' ')[:30]
-                        print(len(line))
-                        data.append(" ".join(line))
+                    # Ignore len(line) < 7
+                    if len(line.split(' ')) > 7:
+                        if len(line.split(' ')) > 40:
+                            line = line.split(' ')[:40]
+                            data.append(" ".join(line))
+                        else:
+                            data.append(line)
                     else:
-                        data.append(line)
+                        continue
                 # save data
                 data = '\n'.join(data)
                 self.__save_preprocessed_data(self.__preprocessed_data_path, filename, data)
@@ -177,8 +176,8 @@ def en_preprocessing() -> None:
                 "category_ls_2": ['Ted_talk', 'Wiki'],
                 "data_dir_1": ['../Data/BBC'],
                 "data_dir_2": ['../Data'],
-                "preprocessed_data_dir_1":["../Preprocessed_data/BBC"],
-                "preprocessed_data_dir_2":["../Preprocessed_data"]
+                "preprocessed_data_dir_1": ["../Preprocessed_data/BBC"],
+                "preprocessed_data_dir_2": ["../Preprocessed_data"]
                 }
 
     # split into singular sentence
@@ -211,19 +210,17 @@ def en_preprocessing() -> None:
 
         text_preprocessor.decapitalize()
 
-        regex_dict = {0: [r"[^a-zA-Z0-9-–'\s]", ""], # remove non-Latin chars
-                      1: [r"–", "-"], # convert dash -> hyphen
-                      2: [r"[^a-z]-[^a-z]*", " "], # remove adrift hyphen
-                      3: [r"[0-9]+th", ""], # remove century
-                      4: [r"[0-9]", ""], # remove numerics
-                      5: [r"isbn", ""], # remove "isbn"
-                     }
+        regex_dict = {0: [r"[^a-zA-Z0-9-–'\s]", ""],  # remove non-Latin chars
+                      1: [r"–", "-"],  # convert dash -> hyphen
+                      2: [r"[^a-z]-[^a-z]*", " "],  # remove adrift hyphen
+                      3: [r"[0-9]+th", ""],  # remove century
+                      4: [r"[0-9]", ""],  # remove numerics
+                      5: [r"isbn", ""],  # remove "isbn"
+                      }
         text_preprocessor.remove_by_regex(regex_dict)
         text_preprocessor.remove_stop_word()
         text_preprocessor.expand_contraction()
         text_preprocessor.verify_sequence_length()
-
-
 
 
 def main() -> None:

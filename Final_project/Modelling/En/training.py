@@ -7,7 +7,6 @@ import time
 import numpy as np
 import tensorflow as tf
 
-
 from tqdm import tqdm
 from matplotlib import pyplot as plt
 from transformer import Transformer
@@ -128,7 +127,7 @@ def create_masks(inp, out):
     return enc_padding_mask, combined_mask, dec_padding_mask
 
 
-def index_char(sequence, MAX_LENGTH=50):
+def index_char(sequence, MAX_LENGTH=40):
     indexer = CharacterIndexer()
     sequence = sequence.numpy().decode('utf-8')
 
@@ -136,8 +135,8 @@ def index_char(sequence, MAX_LENGTH=50):
     sequence = tokenizer.basic_tokenizer.tokenize(sequence)
 
     # Add [CLS], [PAD] and [SEP]
-    sequence = ["[CLS]", *sequence] + (MAX_LENGTH - len(sequence) - 2) * ["[PAD]"] + ["[SEP]"]
-    
+    sequence = ["[CLS]", *sequence] + (MAX_LENGTH - len(sequence)) * ["[PAD]"] + ["[SEP]"]
+
     # Convert token sequence into character indices
     sequence = indexer.as_padded_tensor([sequence])
     sequence = np.squeeze(sequence.detach().numpy(), axis=0)
@@ -213,7 +212,7 @@ def main() -> None:
         train_accuracy.reset_states()
 
         # inp -> non_diacritic, tar -> diacritic
-        for (batch, indexes) in tqdm(enumerate(mini_batches), desc="Processing", total=num_of_mini_batches, colour='CYAN', dynamic_ncols=True, ncols=2):
+        for (batch, indexes) in tqdm(enumerate(mini_batches), desc="Processing", total=num_of_mini_batches, dynamic_ncols=True, ncols=2):
             train_step(indexes)
             print()
             print(f'''Epoch: {epoch}, Batch: {batch}, Loss: {train_loss.result():.4f}, Accuracy: {train_accuracy.result():.4f}\n''')
