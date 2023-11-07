@@ -9,7 +9,7 @@ import tensorflow as tf
 
 from tqdm import tqdm
 from matplotlib import pyplot as plt
-from transformer import Transformer
+
 from transformers import BertTokenizer
 from tensorflow.python.ops.numpy_ops import np_config
 
@@ -17,7 +17,10 @@ from sklearn.model_selection import train_test_split
 from Pretrained_models.character_bert import CharacterBertModel
 from Pretrained_models.character_cnn import CharacterIndexer
 
+from transformer import Transformer, CustomSchedule, create_masks, loss_function
+
 np_config.enable_numpy_behavior()
+
 
 #################################################
 class DataGovernor():
@@ -44,11 +47,14 @@ class DataGovernor():
 
     def load_dataset(self) -> tuple:
         # Only load index into mem
-        # indexes = [*range(len(os.listdir(self.__path)))] # num_of_lines
-        indexes = [*range(10000)] # num_of_lines
-        train, test = train_test_split(indexes, test_size=0.2, random_state=12345, shuffle=True) # list of indexes
-        return np.array(train), np.array(test)
-    
+        num_of_wrong_sentence = 10  # ref wrong_word_generator.py
+        with open(self.__path, 'r') as f:
+            num_of_line_in_corpus = len(f.readlines())
+        # indexes = [*range(num_of_line_in_corpus * num_of_wrong_sentence)]  # num_of_lines
+        indexes = [*range(100)] # num_of_lines
+        train_indexes, test_indexes = train_test_split(indexes, test_size=0.2, random_state=12345, shuffle=True) # list of indexes
+        return np.array(train_indexes), np.array(test_indexes)
+
 
     def randomize_mini_batches(self, batch_size: int, seed=12345):
         dataset = self.__X
@@ -64,99 +70,47 @@ class DataGovernor():
         num_complete_minibatches = int(num_of_examples / batch_size) # number of mini batches of size batch_size in your partitionning
         for k in range(0, num_complete_minibatches):
             mini_batches.append(shuffled_dataset[k * batch_size : k * batch_size + batch_size])
-        
+
         # Handling the end case (last mini-batch < batch_size)
         if num_of_examples % batch_size != 0:
             mini_batches.append(shuffled_dataset[num_complete_minibatches * batch_size : num_of_examples])
         return mini_batches
 
 
-class CustomSchedule(tf.keras.optimizers.schedules.LearningRateSchedule):
-    def __init__(self, d_model, warmup_steps=4000):
-        super(CustomSchedule, self).__init__()
-
-        self.d_model = d_model
-        self.d_model = tf.cast(self.d_model, tf.float32)
-
-        self.warmup_steps = warmup_steps
-
-    def __call__(self, step):
-        arg1 = tf.math.rsqrt(step)
-        arg2 = step * (self.warmup_steps ** -1.5)
-        return tf.math.rsqrt(self.d_model) * tf.math.minimum(arg1, arg2)
-
-
 ##############################################################################################
-def loss_function(y, y_hat):
-    loss = tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True, reduction='none')
-
-    mask = tf.math.logical_not(tf.math.equal(y, 0))
-    loss_ = loss(y, y_hat)
-
-    mask = tf.cast(mask, dtype=loss_.dtype)
-    loss_ *= mask
-    return tf.reduce_sum(loss_)/tf.reduce_sum(mask)
-
-
-def create_look_ahead_mask(size):
-    mask = 1 - tf.linalg.band_part(tf.ones((size, size)), -1, 0)
-    return mask  # (seq_len, seq_len)
-
-
-def create_padding_mask(seq):
-    seq = tf.cast(tf.math.equal(seq, 0), tf.float32)
-    # add extra dimensions to add the padding
-    # to the attention logits.
-    return seq[:, tf.newaxis, tf.newaxis, :]  # (batch_size, 1, 1, seq_len)
-
-
-def create_masks(inp, out):
-    # Encoder padding mask
-    enc_padding_mask = create_padding_mask(inp)
-
-    # Used in the 2nd attention block in the decoder.
-    # This padding mask is used to mask the encoder outputs.
-    dec_padding_mask = create_padding_mask(inp)
-
-    # Used in the 1st attention block in the decoder.
-    # It is used to pad and mask future tokens in the input received by 
-    # the decoder.
-    look_ahead_mask = create_look_ahead_mask(tf.shape(out)[1])
-    dec_target_padding_mask = create_padding_mask(out)
-    combined_mask = tf.maximum(dec_target_padding_mask, look_ahead_mask)
-    return enc_padding_mask, combined_mask, dec_padding_mask
-
-
 def index_char(sequence, MAX_LENGTH=40):
     indexer = CharacterIndexer()
     sequence = sequence.numpy().decode('utf-8')
-
     # Tokenize
-    sequence = tokenizer.basic_tokenizer.tokenize(sequence)
+    sequence = sequence.split(' ')
 
     # Add [CLS], [PAD] and [SEP]
     sequence = ["[CLS]", *sequence] + (MAX_LENGTH - len(sequence)) * ["[PAD]"] + ["[SEP]"]
-
     # Convert token sequence into character indices
     sequence = indexer.as_padded_tensor([sequence])
     sequence = np.squeeze(sequence.detach().numpy(), axis=0)
-    # sequence = sequence.reshape(MAX_LENGTH * sequence.shape[1]) # (MAX_LENGTH * index_dim)
     return sequence
 
 
-def split_inp_out(dataset):
-    inp = []  # contains incorrect sentences
-    out = []  # contains correct sentences
-    for line in dataset:
-        inp.append(line.decode('utf-8').split('|')[1])
-        out.append(line.decode('utf-8').split('|')[0])
+def split_train_test(indexes: list):
+    training_files = sorted(os.listdir(training_file_path))
+    inp = []
+    out = []
+    for index in indexes:
+        for i in range(len(training_files)):
+            starter = int(training_files[i][:-4].split('_')[0])
+            ender = int(training_files[i][:-4].split('_')[1])
+
+            if index > starter and index < ender:
+                with open(training_file_path + training_files[i], 'r') as f:
+                    line = f.readlines()[ender-index].split('|')
+                    inp.append(line[1])  # incorrect sentence
+                    out.append(line[0])  # correct sentence
     return np.array(inp), np.array(out)
 
 
-def train_step(indexes):
-    filenames = [directory + '/' + str(index) + ".txt" for index in indexes]
-    dataset = list(tf.data.TextLineDataset(filenames=filenames).as_numpy_iterator())
-    inp, out = split_inp_out(dataset)
+def train_step(indexes: list):
+    inp, out = split_train_test(indexes)
     shifted_right_out = np.array([" ".join(sequence.split(' ')[1:]) for sequence in out]) # uses for prediction
 
     inp = tf.map_fn(fn=index_char, elems=inp, dtype=tf.int32)
@@ -183,40 +137,44 @@ def train_step(indexes):
 
 
 
-tokenizer = BertTokenizer.from_pretrained('../Pretrained_models/bert-base-uncased/')
+# tokenizer = BertTokenizer.from_pretrained('../Pretrained_models/bert-base-uncased/')
 embedding_model = CharacterBertModel.from_pretrained('../Pretrained_models/general_character_bert/')
 model = Transformer(d_model=768, num_heads=8, num_layers=4, dff=1024,
                     input_vocab_size=1000, target_vocab_size=1000,
                     pe_input=1000, pe_target=1000,
                     dropout=0.1)
 
-directory = '../../Wrong_word_generator/noised_en'
+corpus_path = '../../Wrong_word_generator/en_corpus.txt'
+training_file_path = '../../Wrong_word_generator/noised_en/'
 learning_rate = CustomSchedule(768)
 optimizer = tf.keras.optimizers.Adam(0.001, beta_1=0.9, beta_2=0.98, epsilon=1e-9)
 train_loss = tf.keras.metrics.Mean(name='train_loss')
 train_accuracy = tf.keras.metrics.SparseCategoricalAccuracy(name='train_accuracy')
+
+
 def main() -> None:
     data_governor = DataGovernor()
-    data_governor.set_path(directory)
-    train_indexes, test_indexdes = data_governor.load_dataset()
-
+    data_governor.set_path(corpus_path)
+    train_indexes, test_indexes = data_governor.load_dataset()
+    print(f"""Train indexes shape: {train_indexes.shape[0]}
+Test indexes shape: {test_indexes.shape[0]}""")
+    
     # Each mini-batch contains 8 indexes for each training iteration
     data_governor.set_X(train_indexes)
     mini_batches = data_governor.randomize_mini_batches(batch_size=1)  # (num_of_batches, indexes_in_each_batch)
     num_of_mini_batches = len(mini_batches)
     print(f"Number of batches: {num_of_mini_batches}")
-    
+
     # Training
-    for epoch in range(3):
+    for epoch in range(1):
         train_loss.reset_states()
         train_accuracy.reset_states()
 
         # inp -> non_diacritic, tar -> diacritic
-        for (batch, indexes) in tqdm(enumerate(mini_batches), desc="Processing", total=num_of_mini_batches, dynamic_ncols=True, ncols=2):
+        for batch, indexes in tqdm(enumerate(mini_batches), total=num_of_mini_batches, dynamic_ncols=True):
             train_step(indexes)
-            print()
-            print(f'''Epoch: {epoch}, Batch: {batch}, Loss: {train_loss.result():.4f}, Accuracy: {train_accuracy.result():.4f}\n''')
-          
+            print(f"""Epoch: {epoch}, Loss: {train_loss.result():.4f}, Accuracy: {train_accuracy.result():.4f}\n""")
+
         # if (epoch + 1) % 5 == 0:
         # ckpt_save_path = ckpt_manager.save()
         # print ('Saving checkpoint for epoch {} at {}'.format(epoch+1,
@@ -232,5 +190,3 @@ def main() -> None:
 
 if __name__ == '__main__':
     main()
-
-
