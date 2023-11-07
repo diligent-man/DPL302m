@@ -7,16 +7,14 @@ import time
 import numpy as np
 import tensorflow as tf
 
+
+
 from tqdm import tqdm
 from matplotlib import pyplot as plt
-
-from transformers import BertTokenizer
 from tensorflow.python.ops.numpy_ops import np_config
-
 from sklearn.model_selection import train_test_split
 from Pretrained_models.character_bert import CharacterBertModel
 from Pretrained_models.character_cnn import CharacterIndexer
-
 from transformer import Transformer, CustomSchedule, create_masks, loss_function
 
 np_config.enable_numpy_behavior()
@@ -67,9 +65,9 @@ class DataGovernor():
         shuffled_dataset = dataset[permutation]
 
         # Step 2: Partition (shuffled_X, shuffled_Y). Minus the end case.
-        num_complete_minibatches = int(num_of_examples / batch_size) # number of mini batches of size batch_size in your partitionning
+        num_complete_minibatches = int(num_of_examples / batch_size)  # number of mini batches of size batch_size in your partitionning
         for k in range(0, num_complete_minibatches):
-            mini_batches.append(shuffled_dataset[k * batch_size : k * batch_size + batch_size])
+            mini_batches.append(shuffled_dataset[k * batch_size: k * batch_size + batch_size])
 
         # Handling the end case (last mini-batch < batch_size)
         if num_of_examples % batch_size != 0:
@@ -78,18 +76,29 @@ class DataGovernor():
 
 
 ##############################################################################################
-def index_char(sequence, MAX_LENGTH=40):
-    indexer = CharacterIndexer()
-    sequence = sequence.numpy().decode('utf-8')
+def index_char(batch, shift):
+    indexer = CharacterIndexer()    
+    indexed_batch = []
     # Tokenize
-    sequence = sequence.split(' ')
-
+    batch = [sequence[:-1].split(' ') for sequence in batch]
     # Add [CLS], [PAD] and [SEP]
-    sequence = ["[CLS]", *sequence] + (MAX_LENGTH - len(sequence)) * ["[PAD]"] + ["[SEP]"]
+    batch = [["[CLS]", *sequence] + (MAX_LENGTH - len(sequence)) * ["[PAD]"] + ["[SEP]"] for sequence in batch]
+
+    # case 1: shift is None -> inp
+    if shift is None:
+        pass
+    # case 2: shift is True -> target_input
+    elif shift == True:
+        # needn't add PAD for removed entry ????
+        batch = [sequence[:-1] for sequence in batch]
+    # case 3: shift is True -> target_ouput
+    elif shift == False:
+        # needn't add PAD for removed entry ????
+        batch = [sequence[1:] for sequence in batch]
+
     # Convert token sequence into character indices
-    sequence = indexer.as_padded_tensor([sequence])
-    sequence = np.squeeze(sequence.detach().numpy(), axis=0)
-    return sequence
+    batch = indexer.as_padded_tensor(batch, as_tensor="tf")
+    return np.array(batch)
 
 
 def split_train_test(indexes: list):
@@ -111,33 +120,37 @@ def split_train_test(indexes: list):
 
 def train_step(indexes: list):
     inp, out = split_train_test(indexes)
-    shifted_right_out = np.array([" ".join(sequence.split(' ')[1:]) for sequence in out]) # uses for prediction
+    inp = index_char(batch=inp, shift=None)
+    target_input = index_char(batch=out, shift=True)
+    target_output = index_char(batch=out, shift=False)
+    del out
+    print(inp.shape, target_input.shape, target_output.shape)
 
-    inp = tf.map_fn(fn=index_char, elems=inp, dtype=tf.int32)
-    out = tf.map_fn(fn=index_char, elems=out, dtype=tf.int32)
-    shifted_right_out = tf.map_fn(fn=index_char, elems=shifted_right_out, dtype=tf.int32)
+    # shifted_right_out = np.array([" ".join(sequence.split(' ')[1:]) for sequence in out]) # uses for prediction
 
-    inp = inp.reshape(-1, 50)  # (mini_batch_size * MAX_LENGTH, 50)
-    out = out.reshape(-1, 50)  # (mini_batch_size * MAX_LENGTH, 50)
-    shifted_right_out = shifted_right_out.reshape(-1, 50)  # (mini_batch_size * MAX_LENGTH, 50)
-    enc_padding_mask, combined_mask, dec_padding_mask = create_masks(inp, out)
+    # inp = tf.map_fn(fn=index_char(shift=None), elems=inp, fn_output_signature=tf.int32)  # (batch_szie, max_length, 50)
+    # target_input = tf.map_fn(fn=index_char(shift=True), elems=out, fn_output_signature=tf.int32)  # (batch_szie, max_length, 50)
+    # target_output = tf.map_fn(fn=index_char(shift=False), elems=out, fn_output_signature=tf.int32)  # (batch_szie, max_length, 50)s
+    # pritn(inp.shape, target_input.shape, target_output.shape)
+    # enc_padding_mask, combined_mask, dec_padding_mask = create_masks(inp.reshape(BATCH_SIZE * (MAX_LENGTH + 2), 50), out.reshape(BATCH_SIZE * (MAX_LENGTH + 2), 50))
+    # enc_padding_mask, combined_mask, dec_padding_mask = create_masks(inp, out)
 
-    with tf.GradientTape() as tape:
-        predictions, _ = model(inp=inp, out=out, training=True,
-                               enc_padding_mask=enc_padding_mask,
-                               look_ahead_mask=combined_mask,
-                               dec_padding_mask=dec_padding_mask)
-        loss = loss_function(shifted_right_out, predictions)
+    # print(enc_padding_mask.shape, combined_mask.shape, dec_padding_mask.shape)
 
-    gradients = tape.gradient(loss, model.trainable_variables)
-    optimizer.apply_gradients(zip(gradients, model.trainable_variables))
+    # with tf.GradientTape() as tape:
+    #     predictions, _ = model(inp=inp, out=out, training=True,
+    #                            enc_padding_mask=enc_padding_mask,
+    #                            look_ahead_mask=combined_mask,
+    #                            dec_padding_mask=dec_padding_mask)
+    #     loss = loss_function(shifted_right_out, predictions)
 
-    train_loss(loss)
-    train_accuracy(shifted_right_out, predictions)
+    # gradients = tape.gradient(loss, model.trainable_variables)
+    # optimizer.apply_gradients(zip(gradients, model.trainable_variables))
+
+    # train_loss(loss)
+    # train_accuracy(shifted_right_out, predictions)
 
 
-
-# tokenizer = BertTokenizer.from_pretrained('../Pretrained_models/bert-base-uncased/')
 embedding_model = CharacterBertModel.from_pretrained('../Pretrained_models/general_character_bert/')
 model = Transformer(d_model=768, num_heads=8, num_layers=4, dff=1024,
                     input_vocab_size=1000, target_vocab_size=1000,
@@ -146,6 +159,8 @@ model = Transformer(d_model=768, num_heads=8, num_layers=4, dff=1024,
 
 corpus_path = '../../Wrong_word_generator/en_corpus.txt'
 training_file_path = '../../Wrong_word_generator/noised_en/'
+BATCH_SIZE = 2
+MAX_LENGTH = 40
 learning_rate = CustomSchedule(768)
 optimizer = tf.keras.optimizers.Adam(0.001, beta_1=0.9, beta_2=0.98, epsilon=1e-9)
 train_loss = tf.keras.metrics.Mean(name='train_loss')
@@ -161,7 +176,7 @@ Test indexes shape: {test_indexes.shape[0]}""")
     
     # Each mini-batch contains 8 indexes for each training iteration
     data_governor.set_X(train_indexes)
-    mini_batches = data_governor.randomize_mini_batches(batch_size=1)  # (num_of_batches, indexes_in_each_batch)
+    mini_batches = data_governor.randomize_mini_batches(batch_size=BATCH_SIZE)  # (num_of_batches, indexes_in_each_batch)
     num_of_mini_batches = len(mini_batches)
     print(f"Number of batches: {num_of_mini_batches}")
 

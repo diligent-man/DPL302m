@@ -1,0 +1,27 @@
+														Word-level embedding
+[CLS] my name is Trong x*[PAD] [EOS], sen 2, sen 3, ....
+-> (batch_size, seq_len + 2)
+
+Indexing
+-> (batch_size, seq_len + 2)
+
+Masking
+-> (batch_size, 1, 1, seq_len + 2)
+
+
+
+													Character-level embedding
+[CLS] my name is Trong x*[PAD] [EOS], sen 2, sen 3, ....
+-> (batch_size, seq_len + 2)
+
+Indexing
+-> (batch_size, seq_len + 2, 50)
+
+Masking
+-> (batch_size, 1, 1, seq_len + 2, 50)
+
+
+
+Encoder:
+inp shape: batch_size, seq_len, d_model
+enc_mask shape: batch_size, 1, 1, seq_len, d_model
