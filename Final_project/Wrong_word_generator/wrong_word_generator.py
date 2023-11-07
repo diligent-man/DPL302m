@@ -19,6 +19,7 @@ Telex Reference:
 
 Telex rule: Telex requires the user to type in a base letter, followed by one or two characters that represent the diacritical marks:
 """
+from math import ceil
 import os
 import re
 import string
@@ -363,7 +364,8 @@ def generate_wrong_word(language) -> None:
     num_of_line_per_file = 100_000
     with open(filename, 'r') as f:
         num_of_sentence_in_corpus = len(f.readlines())
-    ender_ls = [i * num_of_line_per_file for i in range(1, round(num_of_sentence_in_corpus * num_of_wrong_sentence / num_of_line_per_file))]
+    ender_ls = [i * num_of_line_per_file for i in range(1, ceil(num_of_sentence_in_corpus * num_of_wrong_sentence / num_of_line_per_file)+2)]
+    print(ender_ls)
 
 
     counter = 0
@@ -372,6 +374,10 @@ def generate_wrong_word(language) -> None:
         for i in range(len(ender_ls)):
             ender = ender_ls[i]
             filename = save_path + str(starter) + "_" + str(ender) + ".txt"
+
+            # check ender whether it's over # of lines in corpus or not
+            if ender > num_of_sentence_in_corpus * num_of_wrong_sentence:
+                ender = num_of_sentence_in_corpus * num_of_wrong_sentence
 
             while counter < ender:
                 line = reader.readline()
@@ -402,6 +408,7 @@ def generate_wrong_word(language) -> None:
                                 incorect_sentence = add_noise(line, language)
 
                             with open(filename, 'a') as writer:
+                                print(correct_sentence[:-1] + '|' + incorect_sentence)
                                 writer.write(correct_sentence[:-1] + '|' + incorect_sentence)
 
                             print(language, f'{counter} lines added noise')
@@ -414,7 +421,7 @@ def generate_wrong_word(language) -> None:
 
 ###############################################################################
 def main() -> None:
-    generate_wrong_word("en")
+    # generate_wrong_word("en")
     # generate_wrong_word("vn")
     return None
 
