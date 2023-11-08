@@ -1,7 +1,7 @@
 """
 Telex Reference:
     1/ https://vi.wikipedia.org/wiki/Quy_t%E1%BA%AFc_%C4%91%E1%BA%B7t_d%E1%BA%A5u_thanh_c%E1%BB%A7a_ch%E1%BB%AF_Qu%E1%BB%91c_ng%E1%BB%AF
-    
+
     2/ https://gist.github.com/nguyenvanhieuvn/72ccf3ddf7d179b281fdae6c0b84942b?fbclid=IwAR2jH7XiK_nUeOO0muigSfHwIqkHq_pt7rE2UfO_vaP3AGhUGy03-a3sxq0
 
 Telex rule: Telex requires the user to type in a base letter, followed by one or two characters that represent the diacritical marks:
@@ -12,6 +12,7 @@ import re
 import string
 import random
 import numpy as np
+from transformers import generation
 
 
 # Two dicts for wrong_tone_pos funs
@@ -196,6 +197,8 @@ class WrongWordGenerator:
             out: "ahi" or "bhi" or "chi" or ...
         """
         word = self.__word
+        print(word, len(word),'insert')
+
         pos_1 = random.randrange(0, len(word))
 
         # select random char
@@ -208,7 +211,6 @@ class WrongWordGenerator:
         if language == 'en':
             return word
         else:
-
             bang_nguyen_am_co_dau = np.array(bang_nguyen_am)[:, 1:-1]
             bang_nguyen_am_co_dau = [ele for row in bang_nguyen_am_co_dau for ele in row]
             flag = True  # check whether tonal vowel exist in word or not
@@ -223,13 +225,14 @@ class WrongWordGenerator:
 
 
     def swap_char(self, language) -> str:
-        word = self.get_word()
+        word = self.__word
+        print(word, len(word),'swap')
 
         pos_1 = random.randrange(0, len(word))
         pos_2 = random.randrange(0, len(word))
 
         # check for similar pos
-        if len(word) > 2:
+        if len(word) >= 2:
             while pos_2 == pos_1:
                 pos_1 = random.randrange(0, len(word))
                 pos_2 = random.randrange(0, len(word))
