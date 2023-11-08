@@ -1,0 +1,137 @@
+feedback occurs output system routed back input part chain cause-and-effect form circuit loop
+notion cause-and-effect ha handled carefully applied feedback systems
+self-regulating mechanism existed since antiquity idea feedback started enter economic theory britain century wa time recognized universal abstraction name
+first ever known artificial feedback device wa float valve maintaining water constant level invented bc alexandria egypt
+device illustrated principle feedback low water level open valve rising water provides feedback system closing valve required level reached
+centrifugal governor used regulate distance pressure millstone windmill since century
+james watt designed first centrifugal governor following suggestion business partner matthew boulton use steam engine production
+early steam engine employed purely reciprocating motion used pumping water application could tolerate variation working speed use steam engine application called precise control speed
+james clerk maxwell wrote famous paper governor widely considered classic feedback control theory
+verb phrase feed back sense returning earlier position mechanical process wa use u nobel laureate karl ferdinand braun used term feed-back noun refer undesired coupling component electronic circuit
+end researcher using early electronic amplifier audions discovered deliberately coupling part output signal back input circuit would boost amplification regeneration would also cause audion howl sing
+action feeding back signal output input gave rise use term feedback distinct word by
+development cybernetics onwards wa centred around study circular causal feedback mechanisms
+according cybernetician ashby mathematician theorist interested principle feedback mechanism prefer definition circularity action keep theory simple consistent
+practical aim feedback deliberate effect via tangible connection
+focusing us management theory ramaprasad defines feedback generally information gap actual level reference level system parameter used alter gap way
+positive feedback signal feedback output phase input signal feedback called positive feedback
+negative feedback signal feedback opposite polarity phase respect input signal feedback called negative feedback
+example negative feedback diagram might represent cruise control system car example match target speed speed limit
+controlled system car input includes combined torque engine changing slope road disturbance
+error signal departure speed measured speedometer target speed set point
+measured error interpreted controller adjust accelerator commanding fuel flow engine effector
+resulting change engine torque feedback combine torque exerted changing road grade reduce error speed minimizing road disturbance
+term positive negative first applied feedback prior wwii
+idea positive feedback wa already current introduction regenerative circuit
+friis jensen described regeneration set electronic amplifier case feed-back action positive contrast negative feed-back action mention passing
+harold stephen black's classic paper first detail use negative feedback electronic amplifiers
+even prior term applied james clerk maxwell described several kind component motion associated centrifugal governor used steam engine distinguishing lead continual increase disturbance amplitude oscillation lead decrease same
+term positive negative feedback defined different way within different disciplines
+altering gap reference actual value parameter based whether gap widening positive narrowing negative
+valence action effect alters gap based whether ha happy positive unhappy negative emotional connotation recipient observerthe two definition may cause confusion incentive reward used boost poor performance narrow gap
+referring definition author use alternative term replacing positivenegative self-reinforcingself-correcting reinforcingbalancing discrepancy-enhancingdiscrepancy-reducing regenerativedegenerative respectively
+definition author advocate describing action effect positivenegative reinforcement punishment rather feedback
+yet even within single discipline example feedback called either positive negative depending value measured referenced
+confusion may arise feedback used either informational motivational purpose often ha qualitative quantitative component
+simple system sometimes described one type many system feedback loop cannot easily designated simply positive negative especially true multiple loop present
+general feedback system many signal fed back feedback loop frequently contain mixture positive negative feedback positive negative feedback dominate different frequency different point state space system
+term bipolar feedback ha coined refer biological system positive negative feedback system interact output one affecting input another vice versa
+system feedback complex behavior chaotic behavior non-linear system others much predictable behavior used make design digital systems
+example binary counter similar device employ feedback current state input used calculate new state fed back clocked back device update it
+using feedback property behavior system altered meet need application system made stable responsive held constant
+shown dynamical system feedback experience adaptation edge chaos
+biological system organism ecosystem biosphere parameter must stay control within narrow range around certain optimal level certain environmental conditions
+deviation optimal value controlled parameter result change internal external environments
+change environmental condition may also require change range change system function
+value parameter maintain recorded reception system conveyed regulation module via information channel
+biological system contain many type regulatory circuit positive negative
+context positive negative imply feedback cause good bad effects
+negative feedback loop one tends slow process whereas positive feedback loop tends accelerate it
+mirror neuron part social feedback system observed action mirrored brainlike self-performed action
+normal tissue integrity preserved feedback interaction diverse cell type mediated adhesion molecule secreted molecule act mediator failure key feedback mechanism cancer disrupts tissue function
+injured infected tissue inflammatory mediator elicit feedback response cell alter gene expression change group molecule expressed secreted including molecule induce diverse cell cooperate restore tissue structure function
+type feedback important enables coordination immune response recovery infection injuries
+mechanism feedback first elucidated bacteria nutrient elicits change metabolic functions
+feedback also central operation gene gene regulatory networks
+repressor see lac repressor activator protein used create genetic operon identified franois jacob jacques monod feedback loops
+feedback loop may positive case coupling sugar molecule protein import sugar bacterial cell negative often case metabolic consumption
+larger scale feedback stabilizing effect animal population even profoundly affected external change although time lag feedback response give rise predator-prey cycles
+zymology feedback serf regulation activity enzyme direct product downstream metabolite metabolic pathway see allosteric regulation
+hypothalamic-pituitary-adrenal axis largely controlled positive negative feedback much still unknown
+psychology body receives stimulus environment internally cause release hormones
+release hormone may cause hormone released causing positive feedback loop
+realize blushing become even embarrassed lead blushing on
+climate system characterized strong positive negative feedback loop process affect state atmosphere ocean land
+simple example ice-albedo positive feedback loop whereby melting snow expose dark ground lower albedo turn absorbs heat cause snow melt
+feedback extensively used control theory using variety method including state space control full state feedback forth
+context control theory feedback traditionally assumed specify negative feedback
+common general-purpose controller using control-loop feedback mechanism proportional-integral-derivative pid controller
+heuristically term pid controller interpreted corresponding time proportional term depends present error integral term accumulation past error derivative term prediction future error based current rate change
+ancient time float valve wa used regulate flow water greek roman water clock similar float valve used regulate fuel carburettor also used regulate tank water level flush toilet
+dutch inventor cornelius drebbel built thermostat c control temperature chicken incubator chemical furnaces
+windmill wa improved blacksmith edmund lee added fantail keep face windmill pointing wind
+tom mead regulated rotation speed windmill using centrifugal pendulum adjust distance bedstone runner stone ie adjust load
+use centrifugal governor james watt regulate speed steam engine wa one factor leading industrial revolution
+steam engine also use float valve pressure release valve mechanical regulation devices
+mathematical analysis watt's governor wa done james clerk maxwell in
+great eastern wa one largest steamship time employed steam powered rudder feedback mechanism designed john mcfarlane gray
+joseph farcot coined word servo describe steam-powered steering systems
+elmer ambrose sperry sperry corporation designed first autopilot in
+nicolas minorsky published theoretical analysis automatic ship steering described pid controller
+internal combustion engine late century employed mechanical feedback mechanism vacuum timing advance mechanical feedback wa replaced electronic engine management system small robust powerful single-chip microcontrollers became affordable
+use feedback widespread design electronic component amplifier oscillator stateful logic circuit element flip-flop counters
+electronic feedback system also commonly used control mechanical thermal physical processes
+signal inverted way round control loop system said negative feedback otherwise feedback said positive
+negative feedback often deliberately introduced increase stability accuracy system correcting reducing influence unwanted changes
+scheme fail input change faster system respond it
+happens lag arrival correcting signal result over-correction causing output oscillate hunt
+often unwanted consequence system behaviour effect used deliberately electronic oscillators
+harry nyquist bell lab derived nyquist stability criterion determining stability feedback systems
+easier method le general use bode plot developed hendrik bode determine gain margin phase margin
+design ensure stability often involves frequency compensation control location pole amplifier
+electronic feedback loop used control output electronic device amplifiers
+feedback loop created portion output fed back input
+device said operating open loop output feedback employed closed loop feedback used
+two amplifier cross-coupled using positive feedback complex behavior created
+monostable circuit pushed state return stable state time
+bistable circuit two stable state circuit switched betweennegative feedback occurs fed-back output signal ha relative phase respect input signal upside down
+situation sometimes referred phase term also used indicate phase separation phase
+negative feedback used correct output error desensitize system unwanted fluctuations
+feedback amplifier correction generally waveform distortion reduction establish specified gain level
+general expression gain negative feedback amplifier asymptotic gain model
+positive feedback occurs fed-back signal phase input signal
+certain gain condition positive feedback reinforces input signal point output device oscillates maximum minimum possible states
+cause circuit ignore small signal respond large ones
+circumstance positive feedback may cause device latch ie reach condition output locked maximum minimum state
+fact widely used digital electronics make bistable circuit volatile storage information
+loud squeal sometimes occurs audio system pa system rock music known audio feedback
+microphone front loudspeaker connected sound microphone pick come speaker picked microphone re-amplified
+loop gain sufficient howling squealing maximum power amplifier possible
+electronic oscillator electronic circuit produce periodic oscillating electronic signal often sine wave square wave
+oscillator convert direct current dc power supply alternating current signal
+common example signal generated oscillator include signal broadcast radio television transmitter clock signal regulate computer quartz clock sound produced electronic beeper video games
+low-frequency oscillator lfo electronic oscillator generates frequency hz
+term typically used field audio synthesizer distinguish audio frequency oscillator
+audio oscillator produce frequency audio range hz khz
+rf oscillator produce signal radio frequency rf range khz ghzoscillators designed produce high-power ac output dc supply usually called inverters
+two main type electronic oscillator linear harmonic oscillator nonlinear relaxation oscillator
+latch flip-flop circuit ha two stable state used store state information
+typically constructed using feedback cross two arm circuit provide circuit state
+circuit made change state signal applied one control input one two outputs
+latch flip-flop fundamental building block digital electronics system used computer communication many type systems
+data storage used storage state circuit described sequential logic
+used finite-state machine output next state depend current input also current state hence previous inputs
+also used counting pulse synchronizing variably-timed input signal reference timing signal
+flip-flop either simple transparent opaque clocked synchronous edge-triggered
+although term flip-flop ha historically referred generically simple clocked circuit modern usage common reserve term flip-flop exclusively discussing clocked circuit simple one commonly called latches
+latch enabled becomes transparent flip flop's output change single type positive going negative going clock edge
+feedback loop provide generic mechanism controlling running maintenance evolution software computing systems
+feedback-loops important model engineering adaptive software define behaviour interaction among control element adaptation process guarantee system property run-time
+feedback loop foundation control theory successfully applied computing systems
+particular applied development product ibm db ibm tivoli
+software perspective autonomic mape monitor analyze plan execute loop proposed researcher ibm another valuable contribution application feedback loop control dynamic property design evolution autonomic software systems
+feedback also useful design principle designing user interfaces
+involves loop video camera input video output eg television screen monitor
+aiming camera display produce complex video image based feedback
+dijk e cremer dd mulder lb stouten j
+react feedback social dilemma biel eek garling gustafsson ed new issue paradigm research social dilemma new york springer

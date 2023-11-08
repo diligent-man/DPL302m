@@ -1,0 +1,191 @@
+calculus originally called infinitesimal calculus calculus infinitesimal mathematical study continuous change way geometry study shape algebra study generalization arithmetic operations
+ha two major branch differential calculus integral calculus differential calculus concern instantaneous rate change slope curve integral calculus concern accumulation quantity area curves
+two branch related fundamental theorem calculus make use fundamental notion convergence infinite sequence infinite series well-defined limit
+infinitesimal calculus wa developed independently late century isaac newton gottfried wilhelm leibniz
+later work including codifying idea limit put development solid conceptual footing
+today calculus ha widespread us science engineering social science
+mathematics education calculus denotes course elementary mathematical analysis mainly devoted study function limits
+word calculus latin small pebble diminutive calx meaning stone meaning still persists medicine
+pebble used counting distance tallying vote abacus arithmetic word came mean method computation
+sense wa used english least early several year prior publication leibniz newton
+addition differential calculus integral calculus term also used naming specific method calculation related theory seek model particular concept term mathematics
+example convention include propositional calculus ricci calculus calculus variation lambda calculus process calculus
+furthermore term calculus ha variously applied ethic philosophy system bentham's felicific calculus ethical calculus
+modern calculus wa developed -century europe isaac newton gottfried wilhelm leibniz independently first publishing around time element appeared ancient greece china middle east still later medieval europe india
+calculation volume area one goal integral calculus found egyptian moscow papyrus c bc formula simple instruction indication obtained
+laying foundation integral calculus foreshadowing concept limit ancient greek mathematician eudoxus cnidus c
+bce developed method exhaustion prove formula cone pyramid volumes
+hellenistic period method wa developed archimedes combined concept indivisiblesa precursor infinitesimalsallowing solve several problem treated integral calculus
+problem include example calculating center gravity solid hemisphere center gravity frustum circular paraboloid area region bounded parabola one secant lines
+method exhaustion wa later discovered independently china liu hui rd century ad order find area circle
+century ad zu gengzhi son zu chongzhi established method would later called cavalieri's principle find volume sphere
+middle east hasan ibn al-haytham latinized alhazen c c ce derived formula sum fourth powers
+used result carry would called integration function formula sum integral square fourth power allowed calculate volume paraboloid
+century indian mathematician gave non-rigorous method resembling differentiation applicable trigonometric functions
+madhava sangamagrama kerala school astronomy mathematics thereby stated component calculus
+complete theory encompassing component well known western world taylor series infinite series approximations
+however able combine many differing idea two unifying theme derivative integral show connection two turn calculus great problem-solving tool today
+johannes kepler's work stereometrica doliorum formed basis integral calculus
+kepler developed method calculate area ellipse adding length many radius drawn focus ellipse
+significant work wa treatise origin kepler's method written bonaventura cavalieri argued volume area computed sum volume area infinitesimally thin cross-sections
+idea similar archimedes' method treatise believed lost century wa rediscovered early century would unknown cavalieri
+cavalieri's work wa well respected since method could lead erroneous result infinitesimal quantity introduced disreputable first
+formal study calculus brought together cavalieri's infinitesimal calculus finite difference developed europe around time
+pierre de fermat claiming borrowed diophantus introduced concept adequality represented equality infinitesimal error term
+combination wa achieved john wallis isaac barrow james gregory latter two proving predecessor second fundamental theorem calculus around
+product rule chain rule notion higher derivative taylor series analytic function used isaac newton idiosyncratic notation applied solve problem mathematical physics
+work newton rephrased idea suit mathematical idiom time replacing calculation infinitesimal equivalent geometrical argument considered beyond reproach
+used method calculus solve problem planetary motion shape surface rotating fluid oblateness earth motion weight sliding cycloid many problem discussed principia mathematica
+work developed series expansion function including fractional irrational power wa clear understood principle taylor series
+publish discovery time infinitesimal method still considered disreputable
+idea arranged true calculus infinitesimal gottfried wilhelm leibniz wa originally accused plagiarism newton
+contribution wa provide clear set rule working infinitesimal quantity allowing computation second higher derivative providing product rule chain rule differential integral forms
+unlike newton leibniz put painstaking effort choice notation
+today leibniz newton usually given credit independently inventing developing calculus
+newton wa first apply calculus general physic leibniz developed much notation used calculus today
+basic insight newton leibniz provided law differentiation integration second higher derivative notion approximating polynomial series
+newton leibniz first published result wa great controversy mathematician therefore country deserved credit
+newton derived result first later published method fluxion leibniz published nova methodus pro maximis et minimis first
+newton claimed leibniz stole idea unpublished note newton shared member royal society
+controversy divided english-speaking mathematician continental european mathematician many year detriment english mathematics
+careful examination paper leibniz newton show arrived result independently leibniz starting first integration newton differentiation
+newton called calculus science fluxion term endured english school century
+first complete treatise calculus written english use leibniz notation wa published until
+since time leibniz newton many mathematician contributed continuing development calculus
+one first complete work infinitesimal integral calculus wa written maria gaetana agnesi
+calculus foundation refers rigorous development subject axiom definitions
+early calculus use infinitesimal quantity wa thought unrigorous wa fiercely criticized number author notably michel rolle bishop berkeley
+berkeley famously described infinitesimal ghost departed quantity book analyst in
+working rigorous foundation calculus occupied mathematician much century following newton leibniz still extent active area research today
+several mathematician including maclaurin tried prove soundness using infinitesimal would year later due work cauchy weierstrass way wa finally found avoid mere notion infinitely small quantities
+cauchy's cours d'analyse find broad range foundational approach including definition continuity term infinitesimal somewhat imprecise prototype definition limit definition differentiation
+work weierstrass formalized concept limit eliminated infinitesimal although definition actually validate nilsquare infinitesimals
+following work weierstrass eventually became common base calculus limit instead infinitesimal quantity though subject still occasionally called infinitesimal calculus
+bernhard riemann used idea give precise definition integral
+wa also period idea calculus generalized complex plane development complex analysis
+modern mathematics foundation calculus included field real analysis contains full definition proof theorem calculus
+henri lebesgue invented measure theory based earlier development mile borel used define integral pathological functions
+laurent schwartz introduced distribution used take derivative function whatsoever
+robinson's approach developed us technical machinery mathematical logic augment real number system infinitesimal infinite number original newton-leibniz conception
+resulting number called hyperreal number used give leibniz-like development usual rule calculus
+also smooth infinitesimal analysis differs non-standard analysis mandate neglecting higher-power infinitesimal derivations
+many idea calculus developed earlier greece china india iraq persia japan use calculus began europe century isaac newton gottfried wilhelm leibniz built work earlier mathematician introduce basic principles
+development calculus wa built earlier concept instantaneous motion area underneath curves
+application differential calculus include computation involving velocity acceleration slope curve optimization
+application integral calculus include computation involving area volume arc length center mass work pressure
+calculus also used gain precise understanding nature space time motion
+century mathematician philosopher wrestled paradox involving division zero sum infinitely many numbers
+ancient greek philosopher zeno elea gave several famous example paradoxes
+calculus provides tool especially limit infinite series resolve paradoxes
+object treated like real number sense infinitely small
+example infinitesimal number could greater le number sequence
+infinitesimal approach fell favor century wa difficult make notion infinitesimal precise
+late century infinitesimal replaced within academia epsilon delta approach limits
+limit describe behavior function certain input term value nearby inputs
+capture small-scale behavior using intrinsic structure real number system metric space least-upper-bound property
+infinitesimal get replaced sequence smaller smaller number infinitely small behavior function found taking limiting behavior sequences
+limit thought provide rigorous foundation calculus reason became standard approach century
+however infinitesimal concept wa revived century introduction non-standard analysis smooth infinitesimal analysis provided solid foundation manipulation infinitesimals
+differential calculus study definition property application derivative function
+given function point domain derivative point way encoding small-scale behavior function near point
+finding derivative function every point domain possible produce new function called derivative function derivative original function
+formal term derivative linear operator take function input produce second function output
+abstract many process studied elementary algebra function usually input number output another number
+example doubling function given input three output six squaring function given input three output nine
+mean derivative take information squaring functionsuch two sent four three sent nine four sent sixteen onand us information produce another function
+function produced differentiating squaring function turn doubling function
+explicit term doubling function may denoted gx x squaring function fx x
+derivative take function fx defined expression x input informationsuch two sent four three sent nine four sent sixteen onand us information output another function function gx x turn out
+lagrange's notation symbol derivative apostrophe-like mark called prime
+thus derivative function called f denoted f pronounced f prime
+instance fx x squaring function fx x derivative doubling function g above
+input function represents time derivative represents change respect time
+example f function take time input give position ball time output derivative f position changing time velocity ball
+function linear graph function straight line function written mx b x independent variable dependent variable b y-intercept and
+displaystyle mfrac textrisetextrunfrac textchange ytextchange xfrac delta ydelta x
+graph function straight line however change divided change x varies
+derivative give exact meaning notion change output respect change input
+concrete let f function fix point domain f
+h number close zero h number close a
+line two point curve called secant line slope secant line fa h fa h
+secant line approximation behavior function point doe account happens h
+possible discover behavior setting h zero would require dividing zero undefined
+derivative defined taking limit h tends zero meaning considers behavior f small value h extract consistent value case h equal zero
+geometrically derivative slope tangent line graph f a
+tangent line limit secant line derivative limit difference quotients
+displaystyle beginalignedf'lim hto h hlim hto hh hlim hto hh hlim hto hendaligned
+slope tangent line squaring function point say going six time fast going right
+limit process described performed point domain squaring function
+defines derivative function squaring function derivative squaring function short
+computation similar one show derivative squaring function doubling function
+approach based limit symbol dydx interpreted quotient two number shorthand limit computed above
+leibniz however intend represent quotient two infinitesimally small number dy infinitesimally small change caused infinitesimally small change dx applied x
+also think ddx differentiation operator take function input give another function derivative output
+even calculus developed using limit rather infinitesimal common manipulate symbol like dx dy real number although possible avoid manipulation sometimes notationally convenient expressing operation total derivative
+integral calculus study definition property application two related concept indefinite integral definite integral
+technical language integral calculus study two related linear operators
+indefinite integral also known antiderivative inverse operation derivative
+use lower- upper-case letter function indefinite integral common calculus
+definite integral input function output number give algebraic sum area graph input x-axis
+technical definition definite integral involves limit sum area rectangle called riemann sum
+displaystyle mathrm distance mathrm speed cdot mathrm time
+one method approximate distance traveled breaking time many short interval time multiplying time elapsed interval one speed interval taking sum riemann sum approximate distance traveled interval
+basic idea short time elapses speed stay le same
+must take limit riemann sum find exact distance traveled
+velocity constant total distance traveled given time interval computed multiplying velocity time
+example travelling steady mph hour result total distance miles
+diagram left constant velocity time graphed two value form rectangle height equal velocity width equal time elapsed
+therefore product velocity time also calculates rectangular area constant velocity curve
+connection area curve distance traveled extended irregularly shaped region exhibiting fluctuating velocity given time period
+fx diagram right represents speed varies time distance traveled time represented b area shaded region s
+approximate area intuitive method would divide distance b number equal segment length segment represented symbol x
+area rectangle base x height h give distance time x multiplied speed h traveled segment
+sum rectangle give approximation area axis curve approximation total distance traveled
+smaller value x give rectangle case better approximation exact answer need take limit x approach zero
+read integral b f-of-x respect x leibniz notation dx intended suggest dividing area curve infinite number rectangle width x becomes infinitesimally small dx
+understood operator take function input give number area output
+terminating differential dx number multiplied fx although serving reminder x limit definition treated symbolic manipulation integral
+formally differential indicates variable function integrated serf closing bracket integration operator
+function differing constant derivative shown antiderivative given function actually family function differing constant
+since derivative function x c c constant x antiderivative latter given by
+unspecified constant c present indefinite integral antiderivative known constant integration
+fundamental theorem calculus state differentiation integration inverse operations
+usually easier compute antiderivative apply definition definite integral fundamental theorem calculus provides practical way computing definite integrals
+also interpreted precise statement fact differentiation inverse integration
+fundamental theorem calculus state function f continuous interval b f function whose derivative f interval b then
+realization made newton leibniz wa key proliferation analytic result work became known
+extent newton leibniz influenced immediate predecessor particularly leibniz may learned work isaac barrow difficult determine thanks priority dispute fundamental theorem provides algebraic method computing many definite integralswithout performing limit processesby finding formula antiderivatives
+differential equation relate unknown function derivative ubiquitous sciences
+calculus used every branch physical science actuarial science computer science statistic engineering economics business medicine demography field wherever problem mathematically modeled optimal solution desired
+allows one go non-constant rate change total change vice versa many time studying problem know one trying find other
+example used linear algebra find best fit linear approximation set point domain
+used probability theory determine expectation value continuous random variable given probability density function
+analytic geometry study graph function calculus used find high point low point maximum minimum slope concavity inflection points
+calculus also used find approximate solution equation practice standard way solve differential equation root finding applications
+example method newton's method fixed point iteration linear approximation
+instance spacecraft use variation euler method approximate curved course within zero gravity environments
+physic make particular use calculus concept classical mechanic electromagnetism related calculus
+mass object known density moment inertia object potential energy due gravitational electromagnetic force found use calculus
+example use calculus mechanic newton's second law motion state derivative object's momentum respect time equal net force upon it
+alternatively newton's second law expressed saying net force equal object's mass time acceleration time derivative velocity thus second time derivative spatial position
+starting knowing object accelerating use calculus derive path
+maxwell's theory electromagnetism einstein's theory general relativity also expressed language differential calculus
+chemistry also us calculus determining reaction rate studying radioactive decay
+biology population dynamic start reproduction death rate model population changes
+green's theorem give relationship line integral around simple closed curve c double integral plane region bounded c applied instrument known planimeter used calculate area flat surface drawing
+example used calculate amount area taken irregularly shaped flower bed swimming pool designing layout piece property
+realm medicine calculus used find optimal branching angle blood vessel maximize flow
+calculus applied understand quickly drug eliminated body quickly cancerous tumour grows
+economics calculus allows determination maximal profit providing way easily calculate marginal cost marginal revenue
+imprecise calculation infinitesimal widely replaced rigorous definition limit starting s
+meanwhile calculation infinitesimal persisted often led correct results
+led abraham robinson investigate possible develop number system infinitesimal quantity theorem calculus still valid
+building upon work edwin hewitt jerzy succeeded developing non-standard analysis
+theory non-standard analysis rich enough applied many branch mathematics
+book article dedicated solely traditional theorem calculus often go title non-standard calculus
+lawvere employing method category theory view function continuous incapable expressed term discrete entities
+one aspect formulation law excluded middle doe hold formulation
+constructive mathematics branch mathematics insists proof existence number function mathematical object give construction object
+reformulations calculus constructive framework generally part subject constructive analysis
+calculusorg calculus page university california davis contains resource link sites
+infinitesimal calculus article historical development encyclopedia mathematics ed

@@ -2,6 +2,8 @@
 # https://github.com/allenai/allennlp/
 
 """Defines the character embedding module (adapted from ELMo)"""
+# import sys
+# sys.path.append("utils/")
 
 import json
 from typing import Dict, Callable

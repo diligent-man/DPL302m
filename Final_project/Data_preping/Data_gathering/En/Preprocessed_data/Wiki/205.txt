@@ -1,0 +1,215 @@
+ultra-high-definition television also known ultra hd television ultra hd uhdtv uhd super hi-vision today includes k uhd k uhd two digital video format aspect ratio of
+first proposed nhk science technology research laboratory later defined approved international telecommunication union itu
+digital television dtv standard successor high-definition television hdtv turn wa successor standard-definition television sdtv
+consumer electronics association announced october ultra high definition ultra hd would used display aspect ratio wider least one digital input capable carrying presenting native video minimum resolution of
+ultra hd forum wa created bring together end-to-end video production ecosystem ensure interoperability produce industry guideline adoption ultra-high-definition television could accelerate
+q forum published list commercial service available around world offering k resolution
+uhd alliance industry consortium content creator distributor hardware manufacturer announced consumer electronics show ce press conference ultra hd premium specification defines resolution bit depth color gamut high dynamic range hdr performance required ultra hd uhdtv content display carry ultra hd
+ultra-high-definition television also known ultra hd uhd uhdtv k
+japan k uhdtv known super hi-vision since hi-vision wa term used japan hdtv
+consumer electronics market company previously used term k ce changed ultra hd ces
+ultra hd wa selected consumer electronics association extensive consumer research term ha also established introduction ultra hd blu-ray
+uhdtv- pixel wide pixel tall megapixels four time many pixel megapixels current p hdtv full hdtv
+although roughly similar resolution k digital cinema format confused k resolution dci kcinema k
+total number pixel rgb stripe type mega pixel
+uhdtv- pixel wide pixel tall megapixels also referred p k uhd sixteen time many pixel current p hdtv brings closer detail level mm imax
+nhk advertises k uhdtv format surround sound super hi-visionthe human visual system ha limited ability discern improvement resolution picture element already small enough distant enough viewer
+home viewing distance current tv size hd resolution near limit resolution eye increasing resolution k ha little perceptual impact consumer beyond critical distance lechner distance appreciate difference pixel count k hd
+one exception even resolution surpasses resolving ability human eye still improvement way image appears due higher resolution reducing spatial aliasing
+specifically dynamic range color greatly enhanced impact saturation contrast difference readily resolved greatly improve experience ktv compared hdtv
+uhdtv color space reproduce color cannot shown current rec
+color space cover compared coverage dci-p digital cinema reference projector color space adobe rgb color space rec
+uhdtv's increase dynamic range allow brighter highlight also increased detail greyscale
+uhdtv also allows frame rate frame per second fps
+higher dynamic range higher frame rate work hd service without increasing resolution k providing improved quality without high increase bandwidth demand
+first display capable displaying k content appeared ibm tt lcd monitors
+used array hdtv recorder total capacity almost tb could capture minute test footage
+camera wa built four inch mm ccds resolution only
+using two ccds green one red blue used spatial pixel offset method bring to
+subsequently improved compact system wa built using cmos image sensor technology cmos image sensor system wa demonstrated expo aichi japan nab nab conference la vega ibc ibc amsterdam netherlands ces
+review nab demo wa published broadcast engineering e-newsletter
+individual nhk elsewhere projected timeframe uhdtv available domestic home varied japan wa get time frame
+november nhk demonstrated live relay uhdtv program kilometer distance fiber-optic network
+using dense wavelength division multiplex dwdm gbit speed wa achieved total different wavelength signals
+december nhk demonstrated live relay annual khaku uta gassen ip tokyo screen osaka
+using codec developed nhk video wa compressed gbit mbit audio wa compressed mbit mbits
+uncompressed minute broadcast would require roughly tb storage
+uhdtv wa defined two level called uhdtv uhdtv
+may nhk indoor demonstration nhk open house uhdtv signal fps wa compressed mbit mpeg stream
+signal wa input mhz wide band modulator broadcast using mhz qpsk modulation
+air transmission limited range le meter show feasibility satellite transmission km orbit
+aptina imaging announced introduction new cmos image sensor specifically designed nhk uhdtv project
+ibc japan's nhk italy's rai bskyb sony samsung panasonic corporation sharp corporation toshiba various partner demonstrated first ever public live transmission uhdtv london conference site amsterdam
+june panasonic announced professional plasma display lineup would include inch plasma display k resolution
+time announcement wa largest k display largest television
+september nhk partnered recorded charlatan live uk uhdtv format broadcasting internet japan
+may sharp collaboration nhk demonstrated direct-view cm lcd display capable pixel bit per channel
+itu-r meeting additional frame rate wa added uhdtv fps
+february nhk announced shizuoka university developed k sensor shoot video fps
+april panasonic collaboration nhk announced cm display fps ha million mm square pixels
+april four major korean terrestrial broadcaster kb mbc sb eb announced future would begin test broadcast uhdtv channel seoul
+lg electronics samsung also involved uhdtv test broadcasts
+may nhk showed world's first ultra-high-definition shoulder-mount camera
+reducing size weight camera portability improved making maneuverable previous prototype could used wide variety shooting situations
+single-chip sensor us bayer color-filter array one color component acquired per pixel
+researcher nhk also developed high-quality up-converter estimate two color component convert output full resolution video
+also may nhk showed ultra-high-definition imaging system ha developed conjunction shizuoka university output megapixel video fps color depth bit per component
+ultra-high-definition broadcast full resolution designed large wall-sized display possibility fast-moving subject may clear shot fps option fps ha standardized situations
+handle sensor output approximately billion pixel per second data rate high gbit faster analog-to-digital converter ha developed process data pixel high-speed output circuit distributes resulting digital signal parallel channels
+mm cmos sensor smaller us le power compared conventional ultra-high-definition sensor also world's first support full specification ultra-high-definition standard
+summer olympics great britain format wa publicly showcased world's largest broadcaster bbc set meter-wide screen london glasgow bradford allow viewer see game ultra-high definition
+may sony released vpl-vwes k projector world's first consumer-prosumer projector using k uhdtv system shutter-glasses stereoscopic technology priced us
+august lg announced world's first uhdtv using k system
+august uhdtv wa officially approved standard international telecommunication union itu standardizing k k resolution format itu-r recommendation bt
+september david wood deputy director ebu technology development department chair itu working group created rec told hollywood reporter korea plan begin test broadcast k uhdtv next year
+wood also said many broadcaster opinion going hdtv k uhdtv much leap would better start k uhdtv
+article masakazu iwaki nhk research senior manager said nhk plan go k uhdtv economic reason since directly going k uhdtv would avoid additional transition k uhdtv k uhdtv
+october consumer electronics association cea announced unanimously agreed cea's board industry leader term ultra high-definition ultra hd would used display resolution least megapixels vertical resolution least pixel horizontal resolution least pixels
+ultra hd label also requires display aspect ratio wider least one digital input carry present native video signal without rely video scaler
+sony announced would market k product k ultra high-definition k uhd
+october ortus technology co ltd announced development world's smallest pixel lcd panel size cm pixel density pxin
+lcd panel designed medical equipment professional video equipment
+october lg electronics began selling first flat panel ultra hd display united state resolution of
+lg lm cm flat panel led-backlit lcd display price u though retail store wa selling us
+november sony announced k ultra hd video playera hard disk server preloaded ten k movie several k video clip planned include sony xbr-x
+preloaded k movie amazing spider-man total recall karate kid salt battle los angeles guy bad teacher that's boy taxi driver bridge river kwai
+additional k movie k video clip offered k ultra hd video player future
+november red digital cinema camera company announced taking pre-orders u redray k cinema player output k resolution single k display four p display arranged configuration via four hdmi connections
+video output dci k k ultra hd p p frame rate fps color depth bpc chroma subsampling
+external storage connected using esata ethernet usb secure digital memory card
+january nhk announced super hi-vision satellite broadcast could begin japan in
+january eutelsat announced first dedicated k ultra hd channel
+k ultra hd channel ha frame rate fps encoded mbits
+day qualcomm ceo paul jacob announced mobile device capable playing recording k ultra hd video would released using snapdragon chip
+january broadcom announced bcm ultra hd decoding chip capable decoding high efficiency video coding hevc fps
+bcm nm arm architecture chip capable dhrystone mips volume production estimated middle of
+day thx announced thx k certification program ultra hd displays
+certification involves test goal program content viewed thx certified ultra hd display meet exacting video standard achievable consumer television today
+january blu-ray disc association president andy parson stated task force created three month ago studying extension blu-ray disc specification would add support k ultra hd video
+january bbc announced bbc natural history unit would produce survivalthe first wildlife tv series recorded k resolution
+january asahi shimbun reported k ultra hd satellite broadcast would start japan fifa world cup
+japan's ministry internal affair communication decided move stimulate demand k ultra hd tvs
+february sony announced playstation would support k resolution output photo video render game resolution
+march advanced television system committee atsc announced call proposal atsc physical layer specifies support resolution fps
+april bulb tv created canadian entrepreneur evan kosiner became first broadcaster provide k linear channel vod content cable satellite company north america
+channel licensed canadian radio-television telecommunication commission provide educational content
+april announced first ultra hd transmission using hevc standard
+may nhk mitsubishi electric announced jointly developed first hevc encoder k ultra hd tv also called super hi-vision shv
+hevc encoder support main profile level allowing encode bpc video resolution fps
+hevc encoder ha g-sdi input us board parallel processing board encoding row pixel allow real time video encoding
+hevc encoder compliant draft hevc standard ha maximum bit rate mbits
+hevc encoder wa shown nhk science technology research laboratory open house took place may june
+nhk open house hevc encoder used bit rate mbit give compression ratio of
+may microsoft announced xbox one support k resolution video output surround sound
+yusuf mehdi corporate vice president marketing strategy microsoft ha stated hardware restriction would prevent xbox one game running k resolution
+may eye io announced encoding technology wa licensed sony picture entertainment deliver k ultra hd video
+eye io encodes video asset includes support xvycc color space
+mid- chinese television manufacturer produced first inch uhd television set costing le than
+june comcast announced demonstrated first public us-based delivery k ultra hd video ncta show
+demonstration included segment oblivion defiance nature content sent docsis network
+june espn announced would end broadcast espn channel end year would experiment thing like uhdtv
+june sharp announced lc-udu cm k ultra hd tv
+july jimmy kimmel live recorded k ultra hd performance musical guest karmin video clip wa used demonstration material sony stores
+july sony announced release k ultra hd medium player price u rental u purchases
+k ultra hd medium player worked sony's k ultra hd tvs
+july cta published cta- f standard applies interface dvi hdmi lvds
+cta- f standard add support several ultra hd video format additional color spaces
+september acer announced first smartphone dubbed liquid capable recording k video
+september hdmi forum released hdmi specification support k resolution fps
+day panasonic announced panasonic tc-lwte first k tv support k resolution fps
+panasonic tc-lwt ha cm screen support displayport support hdmi expected ship date october suggested retail price us
+september ibc conference amsterdam nagra introduced ultra hd user interface called project ultra based html work opentv
+digitaleurope uhd logo requires display support resolution least aspect ratio rec
+hdtv color space bpc color depth frame rate fps least channel audio
+october elemental technology announced support real-time k ultra hd hevc video processing
+elemental provided live video streaming osaka marathon october workflow designed k-opticom telecommunication operator japan
+live coverage race k ultra hd wa available viewer international exhibition center osaka
+transmission k ultra hd hevc video real-time wa industry-first
+november organizing committee xxii olympic winter game xi paralympic winter game sochi chief dmitri chernyshenko stated olympic winter game would shot k super hi-vision
+previously visitor select original setting video quality menu watch video k resolution
+new setting youtube user much easily identify play k videos
+december samsung announced availability cm ultra hdtv custom order making world's largest ultra hdtv far
+january european southern observatory became first scientific organization deliver ultra hd footage regular intervals
+may france announced dvb-t test paris ultra hd hevc broadcast objective replace current dvb-t mpeg hd national broadcast
+may satellite operator eutelsat announced launch europe's first ultra hd demo channel hevc broadcasting fps
+channel available hot bird satellite watched viewer k tv equipped dvb-s demodulator hevc decoders
+june fifa world cup year held brazil became first shot entirely k ultra hd sony
+european broadcasting union ebu broadcast match fifa world cup audience north america latin america europe asia ultra hd via ses' nss- ses- satellites
+indian satellite tv provider unveils plan launch k uhd service early showcased live fifa world cup quarter final match k uhd sony entertainment television sony six
+june cea updated guideline ultra high-definition released guideline connected ultra high-definition adding support internet video delivered hevc
+cea developing uhd logo voluntary use company make product meet cea guidelines
+cea also clarified ultra high-definition ultra hd uhd used modifier gave example ultra high-definition tv k
+july researcher university essex captured delivered graduation ceremony k uhdtv internet using h realtime
+k video stream wa published mbit mbit ceremony people viewing country cyprus bulgaria germany australia uk others
+color space support eos c eos c pl camera model dp-v k display
+september microsoft announced firmware update microsoft lumia icon phone add k video recording
+update wa later released individual phone carrier following week month announcement
+september blu-ray disc association announced k blu-ray disc specification support k video fps high efficiency video coding rec
+color space high dynamic range bpc color depth
+k blu-ray disc data rate least mbit may include support gb gb discs
+k blu-ray disc began licensing k blu-ray disc player released late year
+september digitaleurope released ultra hd logo company meet technical requirements
+september satellite operator announced first ultra hd conditional access-protected broadcast using dvb standard ibc show amsterdam
+demonstration used samsung ultra hd tv standard kudelski smardtv ci plus conditional access module decrypt full pixel cas-protected ultra hd signal hevc broadcast via astra satellite e
+november rock band linkin park's concert berlin's world arena wa broadcast live ultra hd via astra e satellite
+broadcast wa encoded uhd k standard hevc codec fps bpc color depth wa joint enterprise satellite owner platform service later mx part video samsung
+indian satellite pay tv provider tata sky launched uhd service uhd set top box january
+service k fps price uhd box existing sdhd customer new customers
+cricket world cup wa telecast live k free tata sky's uhd k stb
+may france tlvisions broadcast match roland garros live ultra hd via eutelsat west satellite hevc standard
+channel france tv sport ultra hd wa available via fransat platform viewer france
+may satellite operator announced europe's first free-to-air ultra hd channel germany's pearltv shopping channel would launch september broadcast native ultra hd via astra e satellite position
+june launched first ultra hd demonstration channel cable operator content distributor north america prepare system test network ultra hd delivery
+june spi international previewed k funbox uhd ultra hd channel hot bird k channel advance commercial launch eutelsat's hot bird satellite autumn
+july german hd satellite broadcaster hd tv equipment manufacturer technisat announced ultra hd tv set integrated decryption reception existing hd channel available autumn new ultra hd demonstration channel due begin broadcasting september
+august fa community shield england wa broadcast ultra hd broadcast company bt sport becoming first live football game shown ultra hd world's first commercial ultra hd channel
+match wa shown europe's first ultra hd channel bt sport ultra hd selected live english premier league european champion league match broadcast
+fashion one k launched september becoming first global ultra hd tv channel
+reaching nearly million household across world fashion lifestyle entertainment network broadcast via satellite measat e asia pacific middle east australia satellite astra e europe ses- w north america nss- w south america
+september eutelsat presented new consumer research conducted tn gfk ultra hd screen sale key tv markets
+study looked consumer exposure ultra hd perceived benefit willingness invest equipment content
+gfk predicts increase ultra hd screen sale june december sale expected reach five million end year
+gfk also forecast ultra hd screen represent total sale across europe almost middle east north africa
+september sony unveiled xperia z premium first smartphone k display
+announced new smartphone iphone could record video k
+october microsoft unveiled latest version microsoft surface book laptop display million pixel new phone microsoft lumia xl aside k video recording predecessor included feature display million pixels
+december ceremony opening holy door vatican city marked beginning jubilee year mercy roman catholic church wa first worldwide ultra hd broadcast via satellite
+event wa produced vatican television center support eutelsat sony globecast dbw communication
+team advanced experimentation khigh dynamic range live image particular using technology developed bbc's rd division japan's public broadcaster nhk term hybrid log gamma hlg signals
+uhd alliance industry consortium content creator distributor hardware manufacturer announced monday january ce press conference ultra hd premium specification defines resolution bit depth color gamut high dynamic range hdr performance required ultra hd uhdtv content display carry ultra hd premium
+april ultra-high-definition television demo channel uhd broadcast le corsaire ballet ultra hd live vienna state opera
+programme wa produced astra satellite owner collaboration european culture channel arte transmitted free-to-air available anyone reception astra e satellite ultra hd screen equipped hevc decoder
+april npd group reported million k uhd television sold
+may modern time group owner viasat dth platform announced launch viasat ultra hd first uhd channel nordic region
+channel feature selected live sport event especially produced ultra hd launch autumn via ses- satellite e
+viasat also launching ultra hd set-top box samsung tv-module enables existing uhd tv display channel
+satellite operator said launch viasat ultra hd brings number uhd channel including test channel regional version carried satellite uhd channel broadcast via satellite worldwide
+august sky announced k broadcast would begin via new sky q tb box
+opening match premier league hull city leicester city sky sport wa first k transmission
+september bsat-a dedicated uhdtv programming wa also claimed world's first k satellite wa launched guiana space centre aboard ariane rocket
+additionally september kaleidescape manufacturer home-theater movie player server made k uhd movie compatible movie store movie players
+december qualcomm announced snapdragon chipset spectrum image signal processor would first phone soc record video uhd premium
+first available astra e channel show uhd production formula football deutschland sucht den superstar
+satellite operator broadcast k television signal via satellite system first time may
+k demonstration content resolution pixel frame rate fps bpc color depth wa encoded hevc transmitted rate mbit via astra b satellite ses's industry day conference luxembourg
+june fubotv broadcast fifa world cup live k hdr becoming first ott streaming service so
+quarter semi final match available many popular streaming device including apple tv chromecast ultra fire tv roku android tvs
+content wa streamed frame per second using hl dash
+video wa sent fragmented mp container delivering hevc encoded video
+december nhk launched bsk broadcast channel transmitting k resolution
+may first time europe k demonstration content wa received via satellite without need separate external receiver decoder
+industry day conference betzdorf luxembourg broadcast quality k content resolution pixel fps wa encoded using spin digital hevc encoder bit rate mbit uplinked single mhz transponder ses' astra e satellite downlink received displayed samsung cm qrb production model tv
+cctv-k chinafield trial using existing digital terrestrial television dtt transmitter included following
+itu-r bt reference viewing environment evaluation hdtv program material completed programmes
+report itu-r bt present state ultra-high definition television
+draft new report itu-r btuhdtv-dtt trial sub-working group a- collection field trial uhdtv dtt networksstandards developed itu-t's vceg isoiec jtc 's mpeg support ultra-hd include
+hmpeg- avc advanced video coding support ultra-hd added circa smpte
+smpte dvb approved standard v published dvb blue book specification use video audio coding broadcasting application based mpeg- transport stream wa published etsi following months
+august scenario k-uhdtv service described report ttar study uhdtv service scenario considerations
+may technical report ttar- terrestrial k uhdtv broadcasting service wa published
+october interim standard ttaiko- transmission reception terrestrial uhdtv broadcasting service wa published based hevc encoding mpeg dvb-t serving standards
+june standard ttakko- transmission reception terrestrial uhdtv broadcasting service wa published based hevc encoding mmtproute ip atsc serving standards
+k resolution resolution common k format list k-monitors tv projectors
+ultra hd blu-ray p k resolution format blu-ray disc specified blu-ray disc association
+imax film theater format historically ha innovative creating realistic viewing experience
+surround sound audio component super hi-visionk tv mag online magazine ultra hd tv

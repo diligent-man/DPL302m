@@ -1,0 +1,44 @@
+chi-squared test also chi-square test statistical hypothesis test valid perform test statistic chi-squared distributed null hypothesis specifically pearson's chi-squared test variant thereof
+pearson's chi-squared test used determine whether statistically significant difference expected frequency observed frequency one category contingency table
+standard application test observation classified mutually exclusive classes
+null hypothesis difference class population true test statistic computed observation follows frequency distribution
+purpose test evaluate likely observed frequency would assuming null hypothesis true
+also test testing null hypothesis independence pair random variable based observation pairs
+chi-squared test often refers test distribution test statistic approach distribution asymptotically meaning sampling distribution null hypothesis true test statistic approximates chi-squared distribution closely sample size increase
+century statistical analytical method mainly applied biological data analysis wa customary researcher assume observation followed normal distribution sir george airy mansfield merriman whose work criticized karl pearson paper
+end century pearson noticed existence significant skewness within biological observations
+order model observation regardless normal skewed pearson series article published devised pearson distribution family continuous probability distribution includes normal distribution many skewed distribution proposed method statistical analysis consisting using pearson distribution model observation performing test goodness fit determine well model
+pearson published paper test considered one foundation modern statistics
+suppose n observation random sample population classified k mutually exclusive class respective observed number xi k null hypothesis give probability pi observation fall ith class
+pearson proposed circumstance null hypothesis correct n limiting distribution quantity given distribution
+pearson dealt first case expected number mi large enough known number cell assuming every xi may taken normally distributed reached result limit n becomes large x follows distribution k degree freedom
+however pearson next considered case expected number depended parameter estimated sample suggested notation mi true expected number mi estimated expected number difference
+conclusion pearson argued regarded x also distributed distribution k degree freedom error approximation would affect practical decisions
+conclusion caused controversy practical application wa settled year fisher's papers
+one test statistic follows chi-squared distribution exactly test variance normally distributed population ha given value based sample variance
+test uncommon practice true variance population usually unknown
+however several statistical test chi-squared distribution approximately valid
+exact test used place chi-squared test independence see fisher's exact test
+exact test used place chi-squared test goodness fit see binomial test
+likelihood-ratio test general statistical modelling testing whether evidence need move simple model complicated one simple model nested within complicated oneusing chi-squared distribution interpret pearson's chi-squared statistic requires one assume discrete probability observed binomial frequency table approximated continuous chi-squared distribution
+reduce error approximation frank yates suggested correction continuity adjusts formula pearson's chi-squared test subtracting absolute difference observed value expected value contingency table
+sample size n taken population normal distribution result see distribution sample variance allows test made whether variance population ha pre-determined value
+example manufacturing process might stable condition long period allowing value variance determined essentially without error
+suppose variant process tested giving rise small sample n product item whose variation tested
+test statistic instance could set sum square sample mean divided nominal value variance ie
+example sample size acceptance region significance level and
+suppose city resident four neighborhood b c d
+random sample resident city taken occupation recorded white collar blue collar collar
+null hypothesis person's neighborhood residence independent person's occupational classification
+let u take sample living neighborhood estimate proportion whole live neighborhood a
+assumption independence hypothesis expect number white-collar worker neighborhood be
+null hypothesis sum ha approximately chi-squared distribution whose number degree freedom is
+test statistic improbably large according chi-squared distribution one reject null hypothesis independence
+suppose instead giving every resident four neighborhood equal chance inclusion sample decide advance many resident neighborhood include
+resident ha chance chosen resident neighborhood resident different neighborhood would different probability chosen four sample size proportional population four neighborhoods
+question whether proportion blue-collar white-collar no-collar worker four neighborhood same
+cryptanalysis chi-squared test used compare distribution plaintext possibly decrypted ciphertext
+lowest value test mean decryption wa successful high probability
+bioinformatics chi-squared test used compare distribution certain property gene eg genomic content mutation rate interaction network clustering etc belonging different category eg disease gene essential gene gene certain chromosome etc
+chi-squared test normality proceeding international vilnius conference probability theory mathematical statistic vol pp
+chi-squared goodness-of-fit test right censored data international journal applied mathematics statistic p

@@ -1,0 +1,90 @@
+information system tag keyword term assigned piece information internet bookmark multimedia database record computer file
+kind metadata help describe item allows found browsing searching
+tag generally chosen informally personally item's creator viewer depending system although may also chosen controlled vocabulary
+tagging wa popularized website associated web important feature many web services
+also part database system desktop application operating systems
+people use tag aid classification mark ownership note boundary indicate online identity
+tag may take form word image identifying marks
+analogous example tag physical world museum object tagging
+people using textual keywords classify information object long computers
+computer based search algorithm made use keywords rapid way exploring records
+tagging gained popularity due growth social bookmarking image sharing social networking websites
+site allow user create manage label tag categorize content using simple keywords
+website include tag often display collection tag tag cloud desktop applications
+website aggregate tag user individual user's tag useful larger community website's users
+tagging system sometimes classified two kind top-down bottom-up
+top-down taxonomy created authorized group designer sometimes form controlled vocabulary whereas bottom-up taxonomy called folksonomies created users
+definition top bottom confused distinction single hierarchical tree structure one correct way classify item versus multiple non-hierarchical set multiple way classify item structure top-down bottom-up taxonomy may either hierarchical non-hierarchical combination both
+researcher application experimented combining hierarchical non-hierarchical tagging aid information retrieval
+others combining top-down bottom-up tagging including large library catalog opacs worldcat
+tag taxonomy property semantics relationship attribute constitute ontology
+metadata tag described article confused use word tag software refer automatically generated cross-reference example latter tag table emacs smart tag microsoft office
+use keywords part identification classification system long predates computers
+paper data storage device notably edge-notched card permitted classification sorting multiple criterion already use prior twentieth century faceted classification ha used library since s
+late early unix text editor emacs offered companion software program called tag could automatically build table cross-reference called tag table emacs could use jump function call function's definition
+use word tag refer metadata tag wa early use word tag software refer word index
+online database early website deployed keyword tag way publisher help user find content
+early day world wide web keywords meta element wa used web designer tell web search engine web page wa keywords visible web page's source code modifiable users
+collaborative portal description equator therlands produced documenta x germany used folksonomic term tag co-authors guest author upload page
+equator term tag user-input wa described abstract literal keyword aid user
+however user defined singular tag share tag point
+social bookmarking website delicious provided way user add tag bookmark way help find later delicious also provided browseable aggregated view bookmark user featuring particular tag
+within couple year photo sharing website flickr allowed user add text tag picture constructing flexible easy metadata made picture highly searchable
+success flickr influence delicious popularized concept social software websitessuch youtube technorati lastfmalso implemented tagging
+atom web syndication standard provided category element inserting subject category web feed tim bray proposed tag urn
+many system web content management system allow author add free-form tag post along instead placing post predetermined category
+example post may display ha tagged baseball tickets
+tag usually web link leading index page listing post associated tag
+blog may sidebar listing tag use blog tag leading index page
+connection post automatically tracked updated blog software need relocate page within complex hierarchy categories
+desktop application web application feature tagging system email tagging gmail mozilla thunderbird bookmark tagging firefox audio tagging itunes winamp photo tagging various applications
+various system applying tag file computer's file system
+apple's mac system released user could assign one seven editable colored label editable name essential hot progress file folder
+later iteration mac operating system ever since x wa released user could assign multiple arbitrary tag extended file attribute file folder time open-source openmeta standard provided similar tagging functionality mac x
+several semantic file system implement tag available linux kernel including tagsistant
+microsoft window allows user set tag microsoft office document kind picture files
+cross-platform file tagging standard include extensible metadata platform xmp iso standard embedding metadata popular image video document file format jpeg pdf without breaking readability application support xmp
+xmp largely supersedes earlier iptc information interchange model
+exif standard specifies image audio file format used digital camera including metadata tags
+tagspaces open-source cross-platform application tagging file insert tag filename
+official tag keyword adopted event conference participant use web publication blog entry photo event presentation slides
+search engine index make relevant material related event searchable uniform way
+chapter book sub-themes overall subject group tag theme attached item larger collection
+way freeform classification allows author manage would otherwise unwieldy amount information
+triple tag machine tag us special syntax define extra semantic information tag making easier meaningful interpretation computer program
+triple tag comprise three part namespace predicate value
+example geolong tag geographical longitude coordinate whose value is
+triple structure similar resource description framework model information
+triple tag format wa first devised geolicious november map delicious bookmark gained wider acceptance adoption mappr geobloggers map flickr photos
+january aaron straup cope flickr introduced term machine tag alternative name triple tag adding question answer purpose syntax use
+specialized metadata geographical identification known geotagging machine tag also used purpose identifying photo taken specific event naming specie using binomial nomenclature
+hashtag kind metadata tag marked prefix sometimes known hash symbol
+form tagging used microblogging social networking service twitter facebook google vk instagram
+hash used distinguish tag text distinct text post
+knowledge tag type meta-information describes defines aspect piece information document digital image database table web page
+knowledge tag traditional non-hierarchical keywords term type metadata capture knowledge form description categorization classification semantics comment note annotation hyperdata hyperlink reference collected tag profile kind ontology
+tag profile reference information resource resides distributed often heterogeneous storage repository
+knowledge tag part knowledge management discipline leverage enterprise methodology user capture insight expertise attribute dependency relationship associated data resource
+different kind knowledge captured knowledge tag including factual knowledge found book data conceptual knowledge found perspective concept expectational knowledge needed make judgment hypothesis methodological knowledge derived reasoning strategies
+form knowledge often exist outside data derived personal experience insight expertise
+knowledge tag considered expansion information add additional value context meaning information
+knowledge tag valuable preserving organizational intelligence often lost due turnover sharing knowledge stored mind individual typically isolated unharnessed organization connecting knowledge often lost disconnected information resource
+typical tagging system explicit information meaning semantics tag user apply new tag item easily applying older tags
+hierarchical classification system slow change rooted culture era created contrast flexibility tagging allows user classify collection item way find useful personalized variety term present challenge searching browsing
+user freely choose tag creating folksonomy opposed selecting term controlled vocabulary resulting metadata include homonym tag used different meaning synonym multiple tag concept may lead inappropriate connection item inefficient search information subject
+example tag orange may refer fruit color item related version linux kernel may tagged linux kernel penguin software variety terms
+user also choose tag different inflection word singular plural contribute navigation difficulty system doe include stemming tag searching browsing
+larger-scale folksonomies address problem tagging user tagging system tend notice current use tag term within system thus use existing tag order easily form connection related items
+way folksonomies may collectively develop partial set tagging conventions
+despite apparent lack control research ha shown simple form shared vocabulary emerges social bookmarking systems
+collaborative tagging exhibit form complex system dynamic self-organizing dynamics
+thus even central controlled vocabulary constrains action individual user distribution tag converges time stable power law distributions
+stable distribution form simple folksonomic vocabulary extracted examining correlation form different tags
+addition research ha suggested easier machine learning algorithm learn tag semantics user tag verboselywhen annotate resource wealth freely associated descriptive keywords
+tagging system open public also open tag spam people apply excessive number tag unrelated tag item youtube video order attract viewers
+abuse mitigated using human statistical identification spam items
+number tag allowed may also limited reduce spam
+tagging system provide single text box enter tag able tokenize string separator must used
+enable use separator tag system may allow higher-level separator quotation mark escape characters
+system avoid use separator allowing one tag added input widget time although make adding multiple tag time-consuming
+syntax use within html use rel-tag microformat us rel attribute value tag ie reltag indicate linked-to page act tag current contex

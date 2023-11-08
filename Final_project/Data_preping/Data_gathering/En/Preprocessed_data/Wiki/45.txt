@@ -1,0 +1,67 @@
+statistic q-q plot quantile-quantile plot probability plot graphical method comparing two probability distribution plotting quantiles other
+point x plot corresponds one quantiles second distribution y-coordinate plotted quantile first distribution x-coordinate
+thus line parametric curve parameter number interval quantile
+two distribution compared similar point q-q plot approximately lie line x
+distribution linearly related point q-q plot approximately lie line necessarily line x
+q-q plot also used graphical mean estimating parameter location-scale family distributions
+q-q plot used compare shape distribution providing graphical view property location scale skewness similar different two distributions
+q-q plot used compare collection data theoretical distributions
+use q-q plot compare two sample data viewed non-parametric approach comparing underlying distributions
+q-q plot generally powerful approach common technique comparing histogram two sample requires skill interpret
+q-q plot commonly used compare data set theoretical model
+provide assessment goodness fit graphical rather reducing numerical summary
+q-q plot also used compare two theoretical distribution other
+since q-q plot compare distribution need value observed pair scatter plot even number value two group compared equal
+term probability plot sometimes refers specifically q-q plot sometimes general class plot sometimes le commonly used p-p plot
+probability plot correlation coefficient plot ppcc plot quantity derived idea q-q plot measure agreement fitted distribution observed data sometimes used mean fitting distribution data
+q-q plot plot quantiles two distribution plot based estimate quantiles
+main step constructing q-q plot calculating estimating quantiles plotted
+one ax q-q plot based theoretical distribution continuous cumulative distribution function cdf quantiles uniquely defined obtained inverting cdf
+theoretical probability distribution discontinuous cdf one two distribution compared quantiles may defined interpolated quantile may plotted
+q-q plot based data multiple quantile estimator use
+rule forming q-q plot quantiles must estimated interpolated called plotting positions
+simple case one ha two data set size
+case make q-q plot one order set increasing order pair plot corresponding values
+complicated construction case two data set different size compared
+construct q-q plot case necessary use interpolated quantile estimate quantiles corresponding underlying probability constructed
+abstractly given two cumulative probability distribution function f g associated quantile function f g inverse function cdf quantile function q-q plot draw q-th quantile f q-th quantile g range value q
+thus q-q plot parametric curve indexed value real plane r
+point plotted q-q plot always non-decreasing viewed left right
+two distribution compared identical q-q plot follows line x
+two distribution agree linearly transforming value one distribution q-q plot follows line necessarily line x
+general trend q-q plot flatter line x distribution plotted horizontal axis dispersed distribution plotted vertical axis
+conversely general trend q-q plot steeper line x distribution plotted vertical axis dispersed distribution plotted horizontal axis
+q-q plot often arced shaped indicating one distribution skewed one distribution ha heavier tail other
+although q-q plot based quantiles standard q-q plot possible determine point q-q plot determines given quantile
+example possible determine median either two distribution compared inspecting q-q plot
+intercept slope linear regression quantiles give measure relative location relative scale samples
+median distribution plotted horizontal axis intercept regression line measure location slope measure scale
+distance median another measure relative location reflected q-q plot
+probability plot correlation coefficient ppcc plot correlation coefficient paired sample quantiles
+closer correlation coefficient one closer distribution shifted scaled version other
+distribution single shape parameter probability plot correlation coefficient plot provides method estimating shape parameter one simply computes correlation coefficient different value shape parameter us one best fit one comparing distribution different types
+another common use q-q plot compare distribution sample theoretical distribution standard normal distribution n normal probability plot
+case comparing two sample data one order data formally computes order statistic plot certain quantiles theoretical distribution
+choice quantiles theoretical distribution depend upon context purpose
+one choice given sample size n k n k n quantiles sampling distribution realizes
+last n n corresponds percentile maximum value theoretical distribution sometimes infinite
+choice use k n instead space point evenly uniform distribution using k n
+many choice suggested formal heuristic based theory simulation relevant context
+narrower question choosing maximum estimation population maximum known german tank problem similar sample maximum plus gap solution exist simply mn
+formal application uniformization spacing occurs maximum spacing estimation parameters
+k n approach equal plotting point according probability last n randomly drawn value exceed k-th smallest first n randomly drawn values
+using normal probability plot quantiles one us rankits quantile expected value order statistic standard normal distribution
+generally shapiro-wilk test us expected value order statistic given distribution resulting plot line yield generalized least square estimate location scale intercept slope fitted line
+although important normal distribution location scale estimated mean standard deviation respectively useful many distributions
+however requires calculating expected value order statistic may difficult distribution normal
+alternatively one may use estimate median order statistic one compute based estimate median order statistic uniform distribution quantile function distribution wa suggested filliben
+easily generated distribution quantile function computed conversely resulting estimate location scale longer precisely least square estimate though differ significantly n small
+several different formula used proposed affine symmetrical plotting positions
+formula form k n value range give range k n k n
+k n large sample size n little difference various expressions
+expressed term quantile function order statistic median continuous uniform distribution by
+ui uniform order statistic median g quantile function desired distribution
+quantile function inverse cumulative distribution function probability x le equal value
+given probability want corresponding quantile cumulative distribution function
+filliben filliben us following estimate uniform order statistic medians
+probit analysis wa developed chester ittner bliss probability plot

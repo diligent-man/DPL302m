@@ -49,7 +49,7 @@ class TextPreprocessor:
                 with open(self.__data_path + '/' + filename, 'r', encoding='utf-16') as f:
                     # Split by paragraph
                     data = f.read().split('\n')
- 
+
                     paragraph = [paragraph.strip() for paragraph in data if len(paragraph) != 0]
                     # Split by period
                     paragraph = [sentence.split('. ') for sentence in paragraph]
@@ -60,7 +60,7 @@ class TextPreprocessor:
                 with open(self.__data_path + '/' + filename, 'r', encoding='utf-8') as f:
                     # Split by paragraph
                     data = f.read().split('\n')
-                    
+
                     paragraph = [paragraph.strip() for paragraph in data if len(paragraph) != 0]
                     # Split by period
                     paragraph = [sentence.split('. ') for sentence in paragraph]
@@ -133,16 +133,39 @@ class TextPreprocessor:
         return None
 
 
+    def verify_sequence_length(self) -> None:
+        for filename in sorted(os.listdir(self.__data_path)):
+            with open(os.path.join(self.__data_path, filename), 'r', encoding='utf-8') as f:
+                data = []
+                for line in f:
+                    line = line[:-1]
+                    # Ignore len(line) < 7
+                    if len(line.split(' ')) > 7:
+                        if len(line.split(' ')) > 40:
+                            line = line.split(' ')[:40]
+                            data.append(" ".join(line))
+                        else:
+                            data.append(line)
+                    else:
+                        continue
+                # save data
+                data = '\n'.join(data)
+                self.__save_preprocessed_data(self.__preprocessed_data_path, filename, data)
+        return None
+
+
+
 
 def vn_preprocessing() -> None:
     category_ls = ['am_thuc', 'doi_song', 'du_lich', 'gia_dinh', 'the_gioi',
                    'giai_tri', 'giao_duc', 'khong_gian_song', 'loi_song',
-                   'the_thao','thoi_su','thoi_trang']
+                   'the_thao', 'thoi_su', 'thoi_trang']
     data_dir = '../Data'
     preprocessed_data_dir = '../Preprocessed_data'
 
     # split into singular sentence
     for category in category_ls:
+        print(category)
         text_preprocessor = TextPreprocessor()
         text_preprocessor.set_data_path(data_dir + '/' + category)
         text_preprocessor.set_preprocessed_data_path(preprocessed_data_dir + '/' + category)
@@ -154,16 +177,16 @@ def vn_preprocessing() -> None:
 
         # perform splitting
         text_preprocessor.split_into_sentence()
-        print(text_preprocessor.get_preprocessed_data_path())
+        text_preprocessor.set_data_path(text_preprocessor.get_preprocessed_data_path())
 
-        text_preprocessor.set_data_path(text_preprocessor.get_preprocessed_data_path())        
         text_preprocessor.standardize_mark()
         text_preprocessor.remove_stop_word()
-        
+
         regex_dict = {0: [r"[~!@#$%\^&\*()\_,，./<>\?;:：\"\[\]\{\}\\|“”0-9\+=]*", ""],  # punctuation_marks_and_numeral
-                      1: [r"[-–]", ""], # hyphen & dash
+                      1: [r"[-–]", ""],  # hyphen & dash
                      }
         text_preprocessor.remove_by_regex(regex_dict)
+        text_preprocessor.verify_sequence_length()
 
 
 

@@ -1,0 +1,23 @@
+computer science recursion theory mccarthy formalism computer scientist john mccarthy clarifies notion recursive function use if-then-else construction common computer science together four operator primitive recursive function zero successor equality number composition
+believe formalism ha advantage programming language vehicle developing theory computation
+shall need number mathematical idea notation concerning function general
+idea well known notion conditional expression believed new use conditional expression permit function defined recursively new convenient wayin computation finite infinite machine marvin minsky conditional expression mccarthy formalism describes formalism follows
+practical computer language lend formal mathematical treatment designed make easy prove theorem procedure describe
+paper mccarthy find formalism enhances practical aspect recursive-function concept preserving improving mathematical clarity
+ei expression p statement equation may true false
+mccarthy formalism like general recursive kleene system based basic function composition equality conditional expression alone replacing primitive-recursive scheme minimization operator minsky minsky us following operator demonstrations
+decrement tool derives minimization operator necessary general recursion well primitive-recursive definitions
+introduction meta-mathematics stephen kleene provides definition mean primitive recursive function
+function primitive recursive k briefly finite sequence k occurrence functions
+function sequence either one function assumed function initial function immediate dependent preceding function last function k kleene word given basis function constant primitive recursion us either base previous value function produce value function primitive recursion sometimes called mathematical induction
+demonstration nested if-then-elsethe case statement switch statement primitive recursive found kleene f 'mutually-exclusive predicates'
+case operator behaves like logical multiplexer simply extension simpler two-case logical operator sometimes called and-or-select see propositional formula
+case operator three case would verbally described x case p else x case q else x case r else default
+boolos-burgess-jeffrey observe particular instance case operator sequence nested if-then-else statement must mutually exclusive meaning one case hold true collectively exhaustive meaning every possible situation case covered
+requirement consequence determinacy propositional logic correct implementation requires use truth table karnaugh map specify simplify case see propositional formula
+complicated example definition case make far easier establish primitive recursiveness important functions
+mainly variety process defining new relation old shown produce new primitive recursive relation applied primitive recursive relation boolos-burgess-jeffrey ey prove particular process substitution graph relation similar identity relation pluck value particular variable list variable negation logical conjunction logical disjunction logical
+jeffrey computability logic fourth edition cambridge university press cambridge uk paperback
+john mccarthy recursive function symbolic expression computation machine part communication acm april
+john mccarthy basis mathematical theory computation computer programming formal system pp
+marvin minsky computation finite infinite machine prentice-hall inc englewood cliff n

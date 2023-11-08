@@ -1,0 +1,127 @@
+intelligent virtual assistant iva intelligent personal assistant ipa software agent perform task service individual based command questions
+term chatbot sometimes used refer virtual assistant generally specifically accessed online chat
+virtual assistant able interpret human speech respond via synthesized voices
+user ask assistant question control home automation device medium playback via voice manage basic task email to-do list calendar verbal commands
+capability usage virtual assistant expanding rapidly new product entering market strong emphasis email voice user interfaces
+microsoft ha large installed base windows-based personal computer smartphones smart speakers
+conversica ha million engagement via email sm interface intelligent virtual assistant business
+virtual assistant doe refer machine person whose primary job help employer specific online job virtually
+radio rex wa first voice activated toy released in
+wa wooden toy shape dog would come house name called
+bell lab presented audrey automatic digit recognition machine
+occupied six- foot-high relay rack consumed substantial power stream cable exhibited myriad maintenance problem associated complex vacuum-tube circuitry
+wa limited accurate recognition digit spoken designated talkers
+could therefore used voice dialing case push-button dialing wa cheaper faster rather speaking consecutive digits
+another early tool wa enabled perform digital speech recognition wa ibm shoebox voice-activated calculator presented general public seattle world's fair initial market launch in
+early computer developed almost year introduction first ibm personal computer wa able recognize spoken word digit to
+first natural language processing computer program chatbot eliza wa developed mit professor joseph weizenbaum s
+wa created demonstrate communication man machine wa superficial
+eliza used pattern matching substitution methodology scripted response simulate conversation gave illusion understanding part program
+weizenbaum's secretary reportedly asked weizenbaum leave room eliza could real conversation
+extremely short exposure relatively simple computer program could induce powerful delusional thinking quite normal people
+gave name eliza effect tendency unconsciously assume computer behavior analogous human behavior anthropomorphisation phenomenon present human interaction virtual assistants
+next milestone development voice recognition technology wa achieved carnegie mellon university pittsburgh pennsylvania substantial support united state department defense darpa agency funded five year speech understanding research program aiming reach minimum vocabulary words
+company academia including ibm carnegie mellon university cmu stanford research institute took part program
+result wa harpy mastered word vocabulary three-year-old could understand sentences
+could process speech followed pre-programmed vocabulary pronunciation grammar structure determine sequence word made sense together thus reducing speech recognition errors
+tangora wa upgrade shoebox wa voice recognizing typewriter
+named world's fastest typist time vocabulary word used prediction decide likely result based wa said past
+ibm's approach wa based hidden markov model add statistic digital signal processing techniques
+method make possible predict likely phoneme follow given phoneme
+still speaker individually train typewriter recognize voice pause word
+digital speech recognition technology became feature personal computer ibm philip lernout hauspie fighting customers
+much later market launch first smartphone ibm simon laid foundation smart virtual assistant know today
+dragon's naturally speaking software could recognize transcribe natural human speech without pause word document rate word per minute
+version naturally speaking still available download still used today instance many doctor u uk document medical records
+colloquis publicly launched smarterchild platform like aim msn messenger
+entirely text-based smarterchild wa able play game check weather look fact converse user extent
+first modern digital virtual assistant installed smartphone wa siri wa introduced feature iphone october
+developed siri following acquisition siri inc spin-off sri international research institute financed darpa united state department defense
+aim wa aid task sending text message making phone call checking weather setting alarm
+time ha developed provide restaurant recommendation search internet provide driving directions
+april amazon released service building conversational interface type virtual assistant interface
+text including online chat especially instant messaging application application sm text e-mail text-based communication channel example conversica's intelligent virtual assistant business
+voice example amazon alexa amazon echo device siri iphone google assistant google-enabledandroid mobile devices
+taking andor uploading image case samsung bixby samsung galaxy ssome virtual assistant accessible via multiple method google assistant via chat google allo google message app via voice google home smart speakers
+virtual assistant use natural language processing nlp match user text voice input executable commands
+many continually learn using artificial intelligence technique including machine learning
+assistant like google assistantwhich contains google lens samsung bixby also added ability image processing recognize object image help user get better result clicked images
+activate virtual assistant using voice wake word might used
+word group word hey siri ok google hey google alexa hey microsoft
+virtual assistant become popular increasing legal risk involved
+virtual assistant may integrated many type platform like amazon alexa across several them
+device like smart speaker amazon echo google home apple homepod
+facebook's virtual assistant facebook facebook messenger apps via web
+built mobile operating system apple's siri io device blackberry assistant blackberry device desktop cortana microsoft window os
+within instant messaging platform assistant specific organization aeromexico's aerobot facebook messenger wechat secretary wechat
+within mobile apps specific company organization dom domino's pizza
+previous generation virtual assistant often worked website alaska airlines' ask jenn interactive voice response ivr system american airlines' ivr nuancevirtual assistant provide wide variety services
+wikipedia imdb set alarm make to-do list shopping lists
+play music streaming service spotify pandora play radio station read audiobooks
+play video tv show movie television streaming eg
+assist public interaction government see artificial intelligence government
+one report estimated automated online assistant produced decrease work-load human-provided call centreconversational commerce e-commerce via various mean messaging including via voice assistant also live chat e-commerce web site live chat messaging application wechat facebook messenger whatsapp chatbots messaging application web
+virtual assistant work customer support team business provide x support customers
+amazon enables alexa skill google action essentially application run assistant platforms
+feature activation voice pose threat feature requires device always listening
+mode privacy virtual security button proposed create multilayer authentication virtual assistants
+privacy policy google assistant doe store audio data without user's permission may store conversation transcript personalise experience
+user want google assistant store audio data go voice audio activity vaa turn feature
+audio file sent cloud used google improve performance google assistant vaa feature turned on
+privacy policy amazon's virtual assistant alexa state listens conversation wake word like alexa amazon echo used
+start recording conversation call wake word stop recording second silence
+possible delete recording cloud visiting alexa privacy alexa
+user opt anytime want siri send transcript cloud
+added value virtual assistant come among others following
+voice communication sometimes represent optimal man-machine communicationit convenient sector voice way possible communication generally allows free-up hand vision potentially another activity parallel help also disabled people
+faster voice efficient writing keyboard speak word per minute opposed case writing keyboard
+also natural thus requiring le effort reading text however reach word per minutevirtual assistant save lot time automation take appointment read news consumer doe something else
+also possible ask virtual assistant schedule meeting hence helping organize time
+designer new digital scheduler explained ambition calendar schedule life make consumer use time efficiently machine learning process complete organization work time free time
+example consumer express desire scheduling break va schedule optimal moment purpose example time week le productive additional long-term objective able schedule organize free time consumer assure optimal work efficiencyaccording recent study two reason using virtual assistant consumer perceived usefulness perceived
+first result study perceived usefulness perceived enjoyment equivalent strong influence consumer willingness use virtual assistant
+second result study thatprovided content quality ha strong influence perceived usefulness strong influence perceived enjoyment
+automation ha strong influence perceived usefulnessvirtual assistant spur filter bubble social medium virtual assistant algorithm trained show pertinent data discard others based previous activity consumer pertinent data one interest please consumer
+result become isolated data disagrees viewpoint effectively isolating intellectual bubble reinforcing opinions
+phenomenon wa known reinforce fake news echo chambers
+casilli point ai virtual assistant neither intelligent artificial two reasonsnot intelligent assistant human task human could easily limited specter action find class present information offer documents
+also virtual assistant neither able make decision anticipate things
+artificial would impossible without human labelization micro workingin antonio a
+casilli french sociologist criticized artificial intelligence virtual assistant particular following way
+first level fact consumer provides free data training improvement virtual assistant often without knowing ethically disturbing
+second level might even ethically disturbing know ai trained data
+artificial intelligence trained via neural network require huge amount labelled data
+however data need labelled human process explains rise microwork last decade
+remotely using people worldwide repetitive simple task cent listening virtual assistant speech data writing wa said
+microwork ha criticized job insecurity cause total lack regulation average salary wa dollarhour provides neither healthcare retirement benefit sick pay minimum wage
+hence virtual assistant designer controversial spurring job insecurity ai propose still human way would impossible without microwork million human workers
+privacy concern raised fact voice command available provider virtual assistant unencrypted form thus shared third party processed unauthorized unexpected manner
+additionally linguistic content recorded speech user's manner expression voice characteristic implicitly contain information biometric identity personality trait body shape physical mental health condition sex gender mood emotion socioeconomic status geographical origin
+involves natural language understanding technology combined automatic speech recognition introduced november
+google provides action google dialogflow platform developer create action google assistant
+ibm's watson sometimes spoken virtual assistant fact entire artificial intelligence platform community powering virtual assistant chatbots
+many type solutionsin previous generation text chat-based virtual assistant assistant wa often represented avatar aka
+interactive online character automated character wa known embodied agent
+digital experience enabled virtual assistant considered among major recent technological advance promising consumer trends
+expert claim digital experience achieve status-weight comparable real experience become sought-after prized
+trend verified high number frequent user substantial growth worldwide user number virtual digital assistants
+mid- number frequent user digital virtual assistant estimated around bn worldwide
+addition observed virtual digital assistant technology longer restricted smartphone application present across many industry sector incl
+response significant rd expense firm across sector increasing implementation mobile device market speech recognition technology predicted grow cagr globally period thereby surpass global market size u billion by
+according ovum study native digital assistant installed base projected exceed world's population billion active voice ai-capable devices
+according ovum time google assistant dominate voice ai-capable device market market share followed samsung's bixby apple's siri amazon's alexa microsoft's cortana
+taking consideration regional distribution market leader north american company eg
+nuance communication ibm egain expected dominate industry next year due significant impact byod bring device enterprise mobility business models
+furthermore increasing demand smartphone-assisted platform expected boost north american intelligent virtual assistant iva industry growth
+despite smaller size comparison north american market intelligent virtual assistant industry asia-pacific region main player located india china predicted grow annual growth rate global average period
+virtual assistant seen gadget individual could real economic utility enterprises
+example virtual assistant take role always available assistant encyclopedic knowledge
+virtual assistant important integration small middle-sized enterprise often consists easy first step global adaptation use internet thing iot
+indeed iot technology first perceived small medium-sized enterprise technology critical importance complicated risky costly used
+may researcher university california berkeley published paper showed audio command undetectable human ear could directly embedded music spoken text thereby manipulating virtual assistant performing certain action without user taking note it
+researcher made small change audio file cancelled sound pattern speech recognition system meant detect
+replaced sound would interpreted differently system command dial phone number open website even transfer money
+possibility ha known since affect device apple amazon google
+addition unintentional action voice recording another security privacy risk associated intelligent virtual assistant malicious voice command attacker impersonates user issue malicious voice command example unlock smart door gain unauthorized entry home garage order item online without user's knowledge
+although iva provide voice-training feature prevent impersonation difficult system distinguish similar voices
+thus malicious person able access iva-enabled device might able fool system thinking real owner carry criminal mischievous ac

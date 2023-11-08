@@ -1,0 +1,243 @@
+apoptosis ancient greek romanized apptsis lit ''falling off'' form programmed cell death occurs multicellular organisms
+biochemical event lead characteristic cell change morphology death
+change include blebbing cell shrinkage nuclear fragmentation chromatin condensation dna fragmentation mrna decay
+average adult human loses billion cell day due apoptosis
+average human child eight fourteen year old approximately twenty thirty billion cell die per day
+contrast necrosis form traumatic cell death result acute cellular injury apoptosis highly regulated controlled process confers advantage organism's life cycle
+example separation finger toe developing human embryo occurs cell digit undergo apoptosis
+unlike necrosis apoptosis produce cell fragment called apoptotic body phagocyte able engulf remove content cell spill onto surrounding cell cause damage them
+apoptosis cannot stop ha begun highly regulated process
+intrinsic pathway cell kill sens cell stress extrinsic pathway cell kill signal cells
+weak external signal may also activate intrinsic pathway apoptosis
+pathway induce cell death activating caspase protease enzyme degrade proteins
+two pathway activate initiator caspase activate executioner caspase kill cell degrading protein indiscriminately
+addition importance biological phenomenon defective apoptotic process implicated wide variety diseases
+excessive apoptosis cause atrophy whereas insufficient amount result uncontrolled cell proliferation cancer
+factor like fa receptor caspase promote apoptosis member bcl- family protein inhibit apoptosis
+german scientist carl vogt wa first describe principle apoptosis in
+anatomist walther flemming delivered precise description process programmed cell death
+studying tissue using electron microscopy john kerr university queensland wa able distinguish apoptosis traumatic cell death
+following publication paper describing phenomenon kerr wa invited join alastair currie well andrew wyllie wa currie's graduate student university aberdeen
+kerr initially used term programmed cell necrosis article process natural cell death wa called apoptosis
+kerr wyllie currie credited james cormack professor greek language university aberdeen suggesting term apoptosis
+kerr received paul ehrlich ludwig darmstaedter prize march description apoptosis
+many year neither apoptosis programmed cell death wa highly cited term
+two discovery brought cell death obscurity major field research identification component cell death control effector mechanism linkage abnormality cell death human disease particular cancer
+nobel prize medicine wa awarded sydney brenner h
+robert horvitz john sulston work identifying gene control apoptosis
+cormack professor greek language reintroduced term medical use medical meaning greek two thousand year before
+debate continues correct pronunciation opinion divided pronunciation second p silent pto ap toh-sis second p pronounced epptoss original greek
+english p greek pt- consonant cluster typically silent beginning word eg
+pterodactyl ptolemy articulated used combining form preceded vowel helicopter order insect diptera lepidoptera etc
+original kerr wyllie currie paper footnote regarding pronunciation
+grateful professor james cormack department greek university aberdeen suggesting term
+word apoptosis used greek describe dropping falling petal flower leaf trees
+show derivation clearly propose stress penultimate syllable second half word pronounced like ptosis p silent come root fall already used describe drooping upper eyelidthe initiation apoptosis tightly regulated activation mechanism apoptosis ha begun inevitably lead death cell
+two best-understood activation mechanism intrinsic pathway also called mitochondrial pathway extrinsic pathway
+intrinsic pathway activated intracellular signal generated cell stressed depends release protein intermembrane space mitochondria
+extrinsic pathway activated extracellular ligand binding cell-surface death receptor lead formation death-inducing signaling complex disc
+cell initiate intracellular apoptotic signaling response stress may bring cell suicide
+binding nuclear receptor glucocorticoid heat radiation nutrient deprivation viral infection hypoxia increased intracellular concentration free fatty acid increased intracellular calcium concentration example damage membrane trigger release intracellular apoptotic signal damaged cell
+number cellular component poly adp ribose polymerase may also help regulate apoptosis
+single cell fluctuation observed experimental study stress induced apoptosis
+actual process cell death precipitated enzyme apoptotic signal must cause regulatory protein initiate apoptosis pathway
+step allows signal cause cell death process stopped cell longer need die
+several protein involved two main method regulation identified targeting mitochondrion functionality directly transducing signal via adaptor protein apoptotic mechanisms
+extrinsic pathway initiation identified several toxin study increase calcium concentration within cell caused drug activity also cause apoptosis via calcium binding protease calpain
+may cause mitochondrial swelling formation membrane pore may increase permeability mitochondrial membrane cause apoptotic effector leak out
+closely related intrinsic pathway tumor arise frequently intrinsic pathway extrinsic pathway sensitivity
+also growing body evidence indicating nitric oxide able induce apoptosis helping dissipate membrane potential mitochondrion therefore make permeable
+nitric oxide ha implicated initiating inhibiting apoptosis possible action signal molecule subsequent pathway activate apoptosis
+apoptosis cytochrome c released mitochondrion action protein bax bak
+mechanism release enigmatic appears stem multitude baxbak homo- hetero-dimers baxbak inserted outer membrane
+cytochrome c released bind apoptotic protease activating factor apaf- atp bind pro-caspase- create protein complex known apoptosome
+apoptosome cleaves pro-caspase active form caspase- turn cleaves activates pro-caspase effector caspase-
+mitochondrion also release protein known smacs second mitochondria-derived activator caspase cell's cytosol following increase permeability mitochondrion membranes
+smac bind protein inhibit apoptosis iaps thereby deactivating preventing iaps arresting process therefore allowing apoptosis proceed
+iap also normally suppresses activity group cysteine protease called caspase carry degradation cell
+therefore actual degradation enzyme seen indirectly regulated mitochondrial permeability
+two theory direct initiation apoptotic mechanism mammal suggested tnf-induced tumor necrosis factor model fas-fas ligand-mediated model involving receptor tnf receptor tnfr family coupled extrinsic signals
+tnf-alpha cytokine produced mainly activated macrophage major extrinsic mediator apoptosis
+cell human body two receptor tnf-alpha tnfr tnfr
+binding tnf-alpha tnfr ha shown initiate pathway lead caspase activation via intermediate membrane protein tnf receptor-associated death domain tradd fas-associated death domain protein fadd
+binding receptor also indirectly lead activation transcription factor involved cell survival inflammatory responses
+however signalling tnfr might also induce apoptosis caspase-independent manner
+link tnf-alpha apoptosis show abnormal production tnf-alpha play fundamental role several human disease especially autoimmune diseases
+tnf-alpha receptor superfamily also includes death receptor drs dr dr
+apoptosis known one primary mechanism targeted cancer therapy
+luminescent iridium complex-peptide hybrid iphs recently designed mimic trail bind death receptor cancer cell thereby inducing apoptosis
+fa pathwaythe fa receptor first apoptosis signal also known apo- cd transmembrane protein tnf family bind fa ligand fasl
+interaction fa fasl result formation death-inducing signaling complex disc contains fadd caspase- caspase-
+type cell type processed caspase- directly activates member caspase family trigger execution apoptosis cell
+type cell type ii fas-disc start feedback loop spiral increasing release proapoptotic factor mitochondrion amplified activation caspase-
+common componentsfollowing tnf-r fa activation mammalian cell balance proapoptotic bax bid bak bad anti-apoptotic bcl-xl bcl- member bcl- family established
+proapoptotic homodimers required make mitochondrial membrane permeable release caspase activator cytochrome c smac
+control proapoptotic protein normal cell condition nonapoptotic cell incompletely understood general bax bak activated activation bh protein part bcl- family
+caspasescaspases play central role transduction er apoptotic signals
+two type caspase initiator caspase caspase effector caspase caspase
+activation initiator caspase requires binding specific oligomeric activator protein
+effector caspase activated active initiator caspase proteolytic cleavage
+active effector caspase proteolytically degrade host intracellular protein carry cell death program
+caspase-independent apoptotic pathwaythere also exists caspase-independent apoptotic pathway mediated aif apoptosis-inducing factor
+amphibian frog xenopus laevis serf ideal model system study mechanism apoptosis
+fact iodine thyroxine also stimulate spectacular apoptosis cell larval gill tail fin amphibian metamorphosis stimulate evolution nervous system transforming aquatic vegetarian tadpole terrestrial carnivorous frog
+negative regulation apoptosis inhibits cell death signaling pathway helping tumor evade cell death developing drug resistance
+ratio anti-apoptotic bcl- pro-apoptotic bax protein determines whether cell life dies
+many family protein act negative regulator categorized either antiapoptotic factor iaps bcl- protein prosurvival factor like cflip bnip fadd akt nf-b
+many pathway signal lead apoptosis converge single mechanism actually cause death cell
+cell receives stimulus undergoes organized degradation cellular organelle activated proteolytic caspases
+addition destruction cellular organelle mrna rapidly globally degraded mechanism yet fully characterized
+cell undergoing apoptosis show series characteristic morphological changes
+cell shrinkage rounding occur retraction lamellipodia breakdown proteinaceous cytoskeleton caspases
+chromatin undergoes condensation compact patch nuclear envelope also known perinuclear envelope process known pyknosis hallmark apoptosis
+nuclear envelope becomes discontinuous dna inside fragmented process referred karyorrhexis
+nucleus break several discrete chromatin body nucleosomal unit due degradation dnaapoptosis progress quickly product quickly removed making difficult detect visualize classical histology sections
+karyorrhexis endonuclease activation leaf short dna fragment regularly spaced size
+test dna laddering differentiate apoptosis ischemic toxic cell death
+membrane blebbing cell membrane show irregular bud known blebs
+important regulator apoptotic cell membrane blebbing rock rho associated coiled-coil-containing protein kinase
+formation membrane protrusion cell type specific condition may develop different type long thin extension cell membrane called membrane protrusions
+three type described microtubule spike apoptopodia foot death beaded apoptopodia latter beads-on-a-string appearance
+pannexin important component membrane channel involved formation apoptopodia beaded apoptopodia
+fragmentation cell break apart multiple vesicle called apoptotic body undergo phagocytosis
+plasma membrane protrusion may help bring apoptotic body closer phagocytesthe removal dead cell neighboring phagocytic cell ha termed efferocytosis
+dying cell undergo final stage apoptosis display phagocytotic molecule phosphatidylserine cell surface
+phosphatidylserine normally found inner leaflet surface plasma membrane redistributed apoptosis extracellular surface protein known scramblase
+molecule mark cell phagocytosis cell possessing appropriate receptor macrophages
+removal dying cell phagocyte occurs orderly manner without eliciting inflammatory response
+apoptosis cellular rna dna separated sorted different apoptotic body separation rna initiated nucleolar segregation
+many knock-outs made apoptosis pathway test function proteins
+several caspase addition apaf fadd mutated determine new phenotype
+order create tumor necrosis factor tnf knockout exon containing nucleotide wa removed gene
+exon encodes portion mature tnf domain well leader sequence highly conserved region necessary proper intracellular processing
+tnf mouse develop normally gross structural morphological abnormalities
+however upon immunization srbc sheep red blood cell mouse demonstrated deficiency maturation antibody response able generate normal level igm could develop specific igg levels
+apaf- protein turn caspase cleavage begin caspase cascade lead apoptosis
+since mutation apaf- gene embryonic lethal gene trap strategy wa used order generate apaf- mouse
+assay used disrupt gene function creating intragenic gene fusion
+apaf- gene trap introduced cell many morphological change occur spina bifida persistence interdigital web open brain
+addition embryonic day brain embryo showed several structural changes
+bax- knock-out mouse exhibit normal forebrain formation decreased programmed cell death neuronal population spinal cord leading increase motor neurons
+caspase protein integral part apoptosis pathway follows knock-outs made varying damaging results
+caspase knock-out lead cardiac failure thus embryonic lethality
+however use cre-lox technology caspase knock-out ha created exhibit increase peripheral cell impaired cell response defect neural tube closure
+mouse found resistant apoptosis mediated cd tnfr etc
+resistant apoptosis caused uv irradiation chemotherapeutic drug stimuli
+finally caspase knock-out wa characterized ectopic cell mass brain abnormal apoptotic feature membrane blebbing nuclear fragmentation
+remarkable feature ko mouse restricted phenotype casp apaf- ko mouse deformation neural tissue fadd casp ko showed defective heart development however type ko organ developed normally cell type still sensitive apoptotic stimulus suggesting unknown proapoptotic pathway exist
+order perform analysis apoptotic versus necrotic necroptotic cell one analysis morphology label-free live cell imaging time-lapse microscopy flow fluorocytometry transmission electron microscopy
+also various biochemical technique analysis cell surface marker phosphatidylserine exposure versus cell permeability flow cytometry cellular marker dna fragmentation flow cytometry caspase activation bid cleavage cytochrome c release western blotting
+important know primary secondary necrotic cell distinguished analysis supernatant caspase hmgb release cytokeratin
+however distinct surface biochemical marker necrotic cell death identified yet negative marker available
+include absence apoptotic marker caspase activation cytochrome c release oligonucleosomal dna fragmentation differential kinetics cell death marker phosphatidylserine exposure cell membrane permeabilization
+selection technique used distinguish apoptosis necroptotic cell could found references
+many different type apoptotic pathway contain multitude different biochemical component many yet understood
+pathway le sequential nature removing modifying one component lead effect another
+living organism disastrous effect often form disease disorder
+discussion every disease caused modification various apoptotic pathway would impractical concept overlying one normal functioning pathway ha disrupted way impair ability cell undergo normal apoptosis
+result cell life past use-by date able replicate pas faulty machinery progeny increasing likelihood cell's becoming cancerous diseased
+recently described example concept action seen development lung cancer called nci-h
+x-linked inhibitor apoptosis protein xiap overexpressed cell h cell line
+xiaps bind processed form caspase- suppress activity apoptotic activator cytochrome c therefore overexpression lead decrease number proapoptotic agonists
+consequence balance anti-apoptotic proapoptotic effector upset favour former damaged cell continue replicate despite directed die
+defect regulation apoptosis cancer cell occur often level control transcription factors
+particular example defect molecule control transcription factor nf-b cancer change mode transcriptional regulation response apoptotic signal curtail dependence tissue cell belongs
+degree independence external survival signal enable cancer metastasis
+tumor-suppressor protein p accumulates dna damaged due chain biochemical factors
+part pathway includes alpha-interferon beta-interferon induce transcription p gene resulting increase p protein level enhancement cancer cell-apoptosis
+p prevents cell replicating stopping cell cycle g interphase give cell time repair however induce apoptosis damage extensive repair effort fail
+disruption regulation p interferon gene result impaired apoptosis possible formation tumors
+inhibition apoptosis result number cancer inflammatory disease viral infections
+wa originally believed associated accumulation cell wa due increase cellular proliferation known also due decrease cell death
+common disease cancer disease excessive cellular proliferation often characterized overexpression iap family members
+result malignant cell experience abnormal response apoptosis induction cycle-regulating gene p ra c-myc mutated inactivated diseased cell gene bcl- also modify expression tumors
+pathological inactivation apoptosis cancer cell correlated frequent respiratory metabolic shift toward glycolysis observation known warburg hypothesis
+apoptosis hela cell inhibited protein produced cell inhibitory protein target retinoblastoma tumor-suppressing proteins
+tumor-suppressing protein regulate cell cycle rendered inactive bound inhibitory protein
+hpv e e inhibitory protein expressed human papillomavirus hpv responsible formation cervical tumor hela cell derived
+hpv e cause p regulates cell cycle become inactive
+hpv e bind retinoblastoma tumor suppressing protein limit ability control cell division
+two inhibitory protein partially responsible hela cells' immortality inhibiting apoptosis occur
+canine distemper virus cdv able induce apoptosis despite presence inhibitory proteins
+important oncolytic property cdv virus capable killing canine lymphoma cells
+oncoproteins e e still leave p inactive able avoid activation caspase induced stress viral infection
+oncolytic property provided promising link cdv lymphoma apoptosis lead development alternative treatment method canine lymphoma human non-hodgkin lymphoma
+defect cell cycle thought responsible resistance chemotherapy radiation certain tumor cell virus induce apoptosis despite defect cell cycle useful cancer treatment
+main method treatment potential death signaling-related disease involves either increasing decreasing susceptibility apoptosis diseased cell depending whether disease caused either inhibition excess apoptosis
+instance treatment aim restore apoptosis treat disease deficient cell death increase apoptotic threshold treat disease involved excessive cell death
+stimulate apoptosis one increase number death receptor ligand tnf trail antagonize anti-apoptotic bcl- pathway introduce smac mimetics inhibit inhibitor iaps
+addition agent herceptin iressa gleevec work stop cell cycling cause apoptosis activation blocking growth survival signaling upstream
+finally adding p mdm complex displaces p activates p pathway leading cell cycle arrest apoptosis
+many different method used either stimulate inhibit apoptosis various place along death signaling pathway
+apoptosis multi-step multi-pathway cell-death programme inherent every cell body
+cancer treatment chemotherapy irradiation kill target cell primarily inducing apoptosis
+hand loss control cell death resulting excess apoptosis lead neurodegenerative disease hematologic disease tissue damage
+interest note neuron rely mitochondrial respiration undergo apoptosis neurodegenerative disease alzheimer's parkinson's
+healthy individual number cd lymphocyte balance cell generated bone marrow however hiv-positive patient balance lost due inability bone marrow regenerate cd cells
+case hiv cd lymphocyte die accelerated rate uncontrolled apoptosis stimulated
+molecular level hyperactive apoptosis caused defect signaling pathway regulate bcl- family proteins
+increased expression apoptotic protein bim decreased proteolysis lead cell death cause number pathology depending cell excessive activity bim occurs
+cancer cell escape apoptosis mechanism suppress bim expression increased proteolysis bim
+finally akt protein kinase promotes cell survival two pathways
+akt phosphorylates inhibits bad bcl- family member causing bad interact scaffold resulting bcl dissociation thus cell survival
+akt also activates ikk lead nf-b activation cell survival
+active nf-b induces expression anti-apoptotic gene bcl- resulting inhibition apoptosis
+nf-b ha found play antiapoptotic role proapoptotic role depending stimulus utilized cell type
+progression human immunodeficiency virus infection aid due primarily depletion cd t-helper lymphocyte manner rapid body's bone marrow replenish cell leading compromised immune system
+one mechanism t-helper cell depleted apoptosis result series biochemical pathways
+doe directly cause cell death prime cell apoptosis appropriate signal received
+parallel enzyme activate proapoptotic procaspase- doe directly activate mitochondrial event apoptosis
+hiv may increase level cellular protein prompt fas-mediated apoptosis
+hiv protein decrease amount cd glycoprotein marker present cell membrane
+released viral particle protein present extracellular fluid able induce apoptosis nearby bystander helper cells
+hiv decrease production molecule involved marking cell apoptosis giving virus time replicate continue releasing apoptotic agent virion surrounding tissue
+infected cd cell may also receive death signal cytotoxic cellcells may also die direct consequence viral infections
+hiv- expression induces tubular cell gm arrest apoptosis
+progression hiv aid immediate even necessarily rapid hiv's cytotoxic activity toward cd lymphocyte classified aid given patient's cd cell count fall below
+researcher kumamoto university japan developed new method eradicate hiv viral reservoir cell named lock-in apoptosis using synthesized compound heptanoylphosphatidyl l-inositol pentakisphophate l-hippo bind strongly hiv protein prgag able suppress viral budding
+suppressing viral budding researcher able trap hiv virus cell allow cell undergo apoptosis natural cell death
+associate professor mikako fujita ha stated approach yet available hiv patient research team ha conduct research combining drug therapy currently exists lock-in apoptosis approach lead complete recovery hiv
+viral induction apoptosis occurs one several cell living organism infected virus leading cell death
+cell death organism necessary normal development cell cell cycle maturation
+virus trigger apoptosis infected cell via range mechanism including
+expression viral protein coupled mhc protein surface infected cell allowing recognition cell immune system natural killer cytotoxic cell induce infected cell undergo apoptosiscanine distemper virus cdv known cause apoptosis central nervous system lymphoid tissue infected dog vivo vitro
+apoptosis caused cdv typically induced via extrinsic pathway activates caspase disrupt cellular function eventually lead cell death
+normal cell cdv activates caspase- first work initiator protein followed executioner protein caspase-
+however apoptosis induced cdv hela cell doe involve initiator protein caspase-
+hela cell apoptosis caused cdv follows different mechanism vero cell lines
+change caspase cascade suggests cdv induces apoptosis via intrinsic pathway excluding need initiator caspase-
+executioner protein instead activated internal stimulus caused viral infection caspase cascade
+study apoptosis brought bunyaviridae wa initiated wa observed apoptosis wa induced la crosse virus kidney cell baby hamster brain baby mice
+orov disease transmitted human biting midge culicoides paraensis
+referred zoonotic arbovirus cause febrile illness characterized onset sudden fever known oropouche fever
+oropouche virus also cause disruption cultured cell cell cultivated distinct specific conditions
+example seen hela cell whereby cell begin degenerate shortly infected
+use gel electrophoresis observed orov cause dna fragmentation hela cells
+interpreted counting measuring analyzing cell subg cell population
+hela cell infected orov cytochrome c released membrane mitochondrion cytosol cells
+type interaction show apoptosis activated via intrinsic pathway
+order apoptosis occur within orov viral uncoating viral internalization along replication cell necessary
+however study demonstrated orov infection cause apoptosis activated intracellular stimulus involves mitochondria
+homologs inhibit proapoptotic protein bax bak essential activation apoptosis
+example viral bcl- protein include epstein-barr virus bhrf protein adenovirus eb k protein
+virus express caspase inhibitor inhibit caspase activity example crma protein cowpox viruses
+example m-t protein myxoma virus bind tnf preventing binding tnf receptor inducing response
+furthermore many virus express p inhibitor bind p inhibit transcriptional transactivation activity
+consequence p cannot induce apoptosis since cannot induce expression proapoptotic proteins
+adenovirus eb-k protein hepatitis b virus hbx protein example viral protein perform function
+virus remain intact apoptosis particular latter stage infection
+exported apoptotic body pinch surface dying cell fact engulfed phagocyte prevents initiation host response
+programmed cell death plant ha number molecular similarity animal apoptosis also ha difference notable one presence cell wall lack immune system remove piece dead cell
+instead immune response dying cell synthesizes substance break place vacuole rupture cell dies
+additionally plant contain phagocytic cell essential process breaking removing apoptotic bodies
+whether whole process resembles animal apoptosis closely enough warrant using name apoptosis opposed general programmed cell death unclear
+characterization caspase allowed development caspase inhibitor used determine whether cellular process involves active caspases
+using inhibitor wa discovered cell die displaying morphology similar apoptosis without caspase activation
+later study linked phenomenon release aif apoptosis-inducing factor mitochondrion translocation nucleus mediated nls nuclear localization signal
+apoptosis programmed cell death virtual library biochemistry molecular biology cell biology
+apoptosis info apoptosis protocol article news recent publications
+mechanism apoptosis archived wayback machine kimball's biology pages
+simple explanation mechanism apoptosis triggered internal signal bcl- along caspase- caspase- caspase- pathway external signal fa tnf along caspase pathway
+xiaodong wang's lecture introduction apoptosis archived wayback machine
+robert horvitz's short clip discovering programmed cell death
+deathbase database protein involved cell death curated experts

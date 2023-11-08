@@ -1,0 +1,168 @@
+personalized medicine also referred precision medicine medical model separate people different groupswith medical decision practice intervention andor product tailored individual patient based predicted response risk disease
+term personalized medicine precision medicine stratified medicine p medicine used interchangeably describe concept though author organisation use expression separately indicate particular nuances
+tailoring treatment patient date back least time hippocrates term ha risen usage recent year given growth new diagnostic informatics approach provide understanding molecular basis disease particularly genomics
+provides clear evidence base stratify group related patients
+among grand challenge engineering initiative sponsored national academy engineering nae personalized medicine ha identified key prospective approach achieve optimal individual health decision therefore overcoming challenge engineer better medicines
+personalised medicine diagnostic testing often employed selecting appropriate optimal therapy based context patient's genetic content molecular cellular analysis
+use genetic information ha played major role certain aspect personalized medicine eg
+pharmacogenomics term wa first coined context genetics though ha since broadened encompass sort personalization measure including use proteomics imaging analysis nanoparticle-based theranostics among others
+although variation individual ha effect health individual's health stem genetic variation behavior influence environment
+modern advance personalized medicine rely technology confirms patient's fundamental biology dna rna protein ultimately lead confirming disease
+example personalised technique genome sequencing reveal mutation dna influence disease ranging cystic fibrosis cancer
+another method called rna-seq show rna molecule involved specific diseases
+therefore sequencing rna provide broader understanding person's state health
+recent study linked genetic difference individual rna expression translation protein levels
+concept personalised medicine applied new transformative approach health care
+personalised health care based dynamic system biology us predictive tool evaluate health risk design personalised health plan help patient mitigate risk prevent disease treat precision occurs
+concept personalised health care receiving increasing acceptance veteran administration committing personalised proactive patient driven care veterans
+instance personalised health care tailored markup disease causing agent instead patient's genetic markup example drug resistant bacteria viruses
+order physician know mutation connected certain disease researcher often study called genome-wide association study gwas
+gwas study look one disease sequence genome many patient particular disease look shared mutation genome
+mutation determined related disease gwas study used diagnose disease future patient looking genome sequence find mutation
+first gwas conducted studied patient age-related macular degeneration armd
+found two different mutation containing variation one nucleotide called single nucleotide polymorphism snp associated armd
+gwas study like successful identifying common genetic variation associated diseases
+multiple gene collectively influence likelihood developing many common complex diseases
+personalised medicine also used predict person's risk particular disease based one even several genes
+approach us sequencing technology focus evaluation disease risk allowing physician initiate preventive treatment disease present patient
+example found dna mutation increase person's risk developing type diabetes individual begin lifestyle change lessen chance developing type diabetes later life
+advance personalised medicine create unified treatment approach specific individual genome
+personalised medicine may provide better diagnosis earlier intervention efficient drug development targeted therapies
+ability look patient individual basis allow accurate diagnosis specific treatment plan
+genotyping process obtaining individual's dna sequence using biological assays
+detailed account individual's dna sequence genome compared reference genome like human genome project ass existing genetic variation account possible diseases
+number private company andme navigenics illumina created direct-to-consumer genome sequencing accessible public
+individual's genetic make-up also play large role well respond certain treatment therefore knowing genetic content change type treatment receive
+aspect pharmacogenomics us individual's genome provide informed tailored drug prescription
+often drug prescribed idea work relatively everyone application drug number factor must considered
+detailed account genetic information individual help prevent adverse event allow appropriate dosage create maximum efficacy drug prescriptions
+instance warfarin fda approved oral anticoagulant commonly prescribed patient blood clots
+due warfarin significant interindividual variability pharmacokinetics pharmacodynamics rate adverse event among highest commonly prescribed drugs
+however discovery polymorphic variant cypc vkorc genotype two gene encode individual anticoagulant response physician use patient gene profile prescribe optimum dos warfarin prevent side effect major bleeding allow sooner better therapeutic efficacy
+pharmacogenomic process discovery genetic variant predict adverse event specific drug ha termed toxgnostics
+aspect theranostic platform applied personalized medicine use diagnostic test guide therapy
+test may involve medical imaging mri contrast agent agent fluorescent marker organic dye inorganic quantum dot nuclear imaging agent pet radiotracers spect agents
+vitro lab test including dna sequencing often involve deep learning algorithm weigh result testing several biomarkers
+addition specific treatment personalised medicine greatly aid advancement preventive care
+instance many woman already genotyped certain mutation brca brca gene predisposed family history breast cancer ovarian cancer
+cause disease mapped according mutation exist within genome easier identified individual
+even mutation found within genome detail dna reduce impact delay onset certain diseases
+genetic content individual allow better guided decision determining source disease thus treating preventing progression
+extremely useful disease like alzheimers cancer thought linked certain mutation dna
+tool used test efficacy safety drug specific targeted patient groupsub-group companion diagnostics
+technology assay developed drug made available market helpful enhancing therapeutic treatment available based individual
+companion diagnostics incorporated pharmacogenomic information related drug prescription label effort assist making optimal treatment decision possible patient
+individual's genomic information significant process developing drug await approval fda public use
+detailed account individual's genetic make-up major asset deciding patient chosen inclusion exclusion final stage clinical trial
+able identify patient benefit clinical trial increase safety patient adverse outcome caused product testing allow smaller faster trial lead lower overall costs
+addition drug deemed ineffective larger population gain approval fda using personal genome qualify effectiveness need specific drug therapy even though may needed small percentage population
+physician commonly use trial error strategy find treatment therapy effective patient
+personalized medicine treatment specifically tailored predicting individual's body respond treatment work based genome
+ha summarized therapy right drug right dose right patient approach would also cost-effective accurate
+instance tamoxifen used drug commonly prescribed woman er breast cancer woman initially taking developed resistance
+research people david flockhart wa discovered woman certain mutation cypd gene gene encodes metabolizing enzyme able efficiently break tamoxifen making ineffective treatment them
+screening mutation carried via high-throughput screening phenotypic screening
+several drug discovery pharmaceutical company currently utilizing technology advance study personalised medicine also amplify genetic research
+alternative multi-target approach traditional approach forward transfection library screening entail reverse transfection chemogenomics
+though necessarily using genetic information customized production drug whose various property eg
+dose level ingredient selection route administration etc selected crafted individual patient accepted area personalised medicine contrast mass-produced unit dos fixed-dose combinations
+computational mathematical approach predicting drug interaction also developed
+example phenotypic response surface model relationship drug interaction individual's biomarkers
+one active area research efficiently delivering personalized drug generated pharmacy compounding disease site body
+instance researcher trying engineer nanocarriers precisely target specific site using real-time imaging analyzing pharmacodynamics drug delivery
+several candidate nanocarriers investigated iron oxide nanoparticles quantum dot carbon nanotube gold nanoparticles silica nanoparticles
+alteration surface chemistry allows nanoparticles loaded drug well avoid body's immune response making nanoparticle-based theranostics possible
+example disease cancer common approach identify biomarker expressed surface cancer cell load associated targeting vector onto nanocarrier achieve recognition binding size scale nanocarriers also engineered reach enhanced permeability retention effect epr tumor targeting
+disease localized specific organ kidney surface nanocarriers coated certain ligand bind receptor inside organ achieve organ-targeting drug delivery avoid non-specific uptake
+despite great potential nanoparticle-based drug delivery system significant progress field yet made nanocarriers still investigated modified meet clinical standards
+theranostics personalised approach treating cancer using similar molecule imaging diagnosis therapy
+commonly applied field nuclear medicine radioactive molecule attached gamma positron emitter spect pet imaging beta alpha auger electron therapy
+one earliest example use radioactive iodine treatment patient thyroid cancer
+bexxar treating lymphoma radium- treating bone metastasis lutetium- dotatate treating neuroendocrine tumour lutetium- psma treating prostate cancer
+radiotheranostics subspecialty theranostics using similar pharmaceutical imaging therapy radiation
+pharmaceutical mechanism localizationaction remains radionuclide interchangeable diagnostic radiopharmaceutical often gamma pet emitter therapeutic radiopharmaceutical often beta alpha emitter
+term derived greek word thera therapeia meaning healing heal eg
+therapy gnostic greek gnos meaning knowledge know eg
+dosimetry commonly used guide clinician personalisedprecision therapeutic amount patient
+respiratory disease affect humanity globally chronic lung disease eg asthma chronic obstructive pulmonary disease idiopathic pulmonary fibrosis among others lung cancer causing extensive morbidity mortality
+however initial symptom nonspecific clinical diagnosis made late frequently
+last year personalized medicine ha emerged medical care approach us novel technology aiming personalize treatment according particular patient's medical needs
+specific proteomics used analyze series protein expression instead single biomarker
+protein control body's biological activity including health disease proteomics helpful early diagnosis
+case respiratory disease proteomics analyzes several biological sample including serum blood cell bronchoalveolar lavage fluid bal nasal lavage fluid nlf sputum among others
+identification quantification complete protein expression biological sample conducted mass spectrometry advanced analytical techniques
+respiratory proteomics ha made significant progress development personalized medicine supporting health care recent years
+proteomics-based approach ha made substantial improvement identifying multiple biomarkers lung cancer used tailoring personalized treatment individual patients
+study demonstrated usefulness proteomics provide targeted therapy respiratory disease
+recent decade cancer research ha discovered great deal genetic variety type cancer appear traditional pathology
+ha also increasing awareness tumour heterogeneity genetic diversity within single tumour
+among prospect discovery raise possibility finding drug given good result applied general population case may yet successful proportion case particular genetic profiles
+personalized onco-genomics application personalized medicine cancer genomics oncogenomics
+high-throughput sequencing method used characterize gene associated cancer better understand disease pathology improve drug development
+oncogenomics one promising branch genomics particularly implication drug therapy
+trastuzumab trade name herclon herceptin monoclonal antibody drug interferes herneu receptor
+drug used patient's cancer tested over-expression herneu receptor
+two tissue-typing test used screen patient possible benefit herceptin treatment
+tissue test immunohistochemistryihc fluorescence situ hybridizationfish patient treated herceptin therapy trastuzumab
+tyrosine kinase inhibitor imatinib marketed gleevec developed treat chronic myeloid leukemia cml bcr-abl fusion gene product reciprocal translocation chromosome chromosome present case produce hyperactivated abl-driven protein signaling
+medication specifically inhibit ableson tyrosine kinase abl protein thus prime example rational drug design based knowledge disease pathophysiology
+foundationone cdx report produced foundation medicine look gene individual patients' tumor biopsy recommends specific drugs
+high mutation burden indicative response immunotherapy also specific pattern mutation associated previous exposure cytotoxic cancer drugsthrough use genomics microarray proteomics tissue array imaging fmri micro-ct technology molecular-scale information patient easily obtained
+so-called molecular biomarkers proven powerful disease prognosis cancer
+main three area cancer prediction fall cancer recurrence cancer susceptibility cancer survivability
+combining molecular scale information macro-scale clinical data patients' tumor type risk factor significantly improves prognosis
+consequently given use molecular biomarkers especially genomics cancer prognosis prediction ha become effective especially screening large population
+essentially population genomics screening used identify people risk disease assist preventative efforts
+genetic data used construct polygenic score estimate trait disease risk summing estimated effect individual variant discovered gwas
+used wide variety condition cancer diabetes coronary artery disease
+many genetic variant associated ancestry remains challenge generate accurate estimate decouple biologically relevant variant coincidentally associated
+estimate generated one population usually transfer well others requiring sophisticated method diverse global data
+study used data european ancestry leading call equitable genomics practice reduce health disparities
+additionally polygenic score predictive accuracy interpretation limited estimating individual's percentile translational research needed clinical use
+current approach intellectual property right reimbursement policy patient privacy data bias confidentiality well regulatory oversight redefined restructured accommodate change personalised medicine bring healthcare
+instance survey performed uk concluded uk adult comfortable personal data used sake utilizing ai medical field
+furthermore analysis acquired diagnostic data recent challenge personalized medicine implementation
+example genetic data obtained next-generation sequencing requires computer-intensive data processing prior analysis
+future adequate tool required accelerate adoption personalised medicine field medicine requires interdisciplinary cooperation expert specific field research medicine clinical oncology biology artificial intelligence
+fda ha already started take initiative integrate personalised medicine regulatory policies
+fda report october entitled paving way personalized medicine fda role new era medical product development outlined step would take integrate genetic biomarker information clinical use drug development
+determined would develop specific regulatory science standard research method reference material tool order incorporate personalised medicine current regulatory practices
+example working genomic reference library regulatory agency compare test validity different sequencing platform effort uphold reliability
+major challenge regulating personalized medicine way demonstrate effectiveness relative current standard care
+new technology must assessed clinical cost effectiveness stand regulatory agency standardized method
+innovation medicine investment interest personalised medicine influenced intellectual property rights
+ha lot controversy regarding patent protection diagnostic tool gene biomarkers
+june u supreme court ruled natural occurring gene cannot patented synthetic dna edited artificially- created still patented
+patent office currently reviewing number issue related patent law personalised medicine whether confirmatory secondary genetic test post initial diagnosis full immunity patent laws
+oppose patent argue patent dna sequence impediment ongoing research proponent point research exemption stress patent necessary entice protect financial investment required commercial research development advancement service offered
+reimbursement policy redefined fit change personalised medicine bring healthcare system
+factor considered level efficacy various genetic test general population cost-effectiveness relative benefit deal payment system extremely rare condition redefine insurance concept shared risk incorporate effect newer concept individual risk factors
+study barrier use personalized medicine breast cancer took two different diagnostic test bracanalysis oncotype dx
+test ten-day turnaround time result test failing delay treatments
+ultimately lead patient pay out-of-pocket treatment insurance company want accept risk involved
+perhaps critical issue commercialization personalised medicine protection patients
+one largest issue fear potential consequence patient predisposed genetic testing found non-responsive towards certain treatments
+includes psychological effect patient due genetic testing results
+right family member directly consent another issue considering genetic predisposition risk inheritable
+implication certain ethnic group presence common allele would also considered
+moreover could refer privacy issue layer personalized medicine discovery treatment
+one leading issue consent patient information used genetic testing algorithm primarily ai algorithms
+consent institution providing data used prominent concern well
+genetic information nondiscrimination act gina wa passed effort minimize fear patient participating genetic research ensuring genetic information misused employer insurers
+february fda issued press release titled fda permit marketing first direct-to-consumer genetic carrier test bloom syndrome
+data bias also play integral role personalized medicine
+important ensure sample gene tested come different populations
+ensure sample exhibit human bias use decision making
+consequently designed algorithm personalized medicine biased outcome algorithm also biased lack genetic testing certain populations
+instance result framingham heart study led biased outcome predicting risk cardiovascular disease
+sample wa tested white people applied non-white population result biased overestimation underestimation risk cardiovascular disease
+little human genome ha analyzed even healthcare provider access patient's full genetic information little could effectively leveraged treatment
+challenge also arise processing large amount genetic data
+even error rate low per kilobases processing human genome could roughly errors
+many error especially trying identify specific marker make discovery verifiability difficult
+also issue effectiveness standpoint genome ha processed function variation among genome must analyzed using genome-wide studies
+impact snp discovered kind study predicted work must done control vast amount variation occur size genome studied
+order effectively move forward area step must taken ensure data analyzed good wider view must taken term analyzing multiple snp phenotype
+pressing issue implementation personalized medicine apply result genetic mapping improve healthcare system
+due infrastructure technology required centralized database genome data also physician would access tool would likely unable fully take advantage them
+order truly implement personalized medicine healthcare system must end-to-end chang

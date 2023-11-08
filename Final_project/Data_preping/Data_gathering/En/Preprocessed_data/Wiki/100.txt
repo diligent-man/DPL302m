@@ -1,0 +1,44 @@
+whereas logic study logical system used construct valid sound argument metalogic study property logical systems
+logic concern truth may derived using logical system metalogic concern truth may derived language system used express truths
+basic object metalogical study formal language formal system interpretations
+study interpretation formal system branch mathematical logic known model theory study deductive system branch known proof theory
+formal language organized set symbol symbol precisely define shape place
+language therefore defined without reference meaning expression exist interpretation assigned itthat ha meaning
+formal grammar determines symbol set symbol formula formal language
+formal language formally defined set string finite sequence fixed alphabet
+author including rudolf carnap define language ordered pair a
+carnap also requires element must occur least one string a
+formation rule also called formal grammar precise description well-formed formula formal language
+synonymous set string alphabet formal language constitute well formed formulas
+formal system also called logical calculus logical system consists formal language together deductive apparatus also called deductive system
+deductive apparatus may consist set transformation rule also called inference rule set axiom both
+formal system used derive one expression one expressions
+relation understood comprehensive sense primitive sentence formal system taken directly derivable empty set sentences
+direct derivability relation sentence finite possibly empty set sentences
+formal proof sequence well-formed formula formal language last theorem formal system
+theorem syntactic consequence well formed formula precede proof system
+well formed formula qualify part proof must result applying rule deductive apparatus formal system previous well formed formula proof sequence
+interpretation formal system assignment meaning symbol truth-values sentence formal system
+language used make statement object language called metalanguage
+logic deal proof formal system expressed formal language metalogic deal proof formal system expressed metalanguage object language
+metalogic 'syntax' ha formal language formal system without regard interpretation whereas 'semantics' ha interpretation formal languages
+term 'syntactic' ha slightly wider scope 'proof-theoretic' since may applied property formal language without deductive system well formal systems
+metalogic word 'use' 'mention' noun verb form take technical sense order identify important distinction
+use-mention distinction sometimes referred words-as-words distinction distinction using word phrase mentioning it
+usually indicated expression mentioned rather used enclosing quotation mark printing italic setting expression line
+enclosing quote expression give u name expression example
+article metalogicthe type-token distinction distinction metalogic separate abstract concept object particular instance concept
+example particular bicycle garage token type thing known bicycle whereas bicycle garage particular place particular time true bicycle used sentence bicycle ha become popular recently distinction used clarify meaning symbol formal languages
+however wa rise formal language late early century investigation foundation logic began flourish
+david hilbert observed investigating foundation mathematics logical notion presupposed therefore simultaneous account metalogical metamathematical principle wa required
+today metalogic metamathematics largely synonymous substantially subsumed mathematical logic academia
+possible alternate le mathematical model may found writing charles sander peirce semioticians
+result metalogic consist thing formal proof demonstrating consistency completeness decidability particular formal systems
+proof uncountability power set natural number cantor's theorem
+proof semantic completeness truth-functional propositional logic paul bernays emil post
+proof syntactic completeness truth-functional propositional logic emil post
+proof consistency first-order monadic predicate logic leopold lwenheim
+proof semantic completeness first-order monadic predicate logic leopold lwenheim
+proof decidability first-order monadic predicate logic leopold lwenheim
+proof consistency first-order predicate logic david hilbert wilhelm ackermann
+proof semantic completeness first-order predicate logic gdel's completeness theorem

@@ -1,0 +1,22 @@
+although constant integration might sometimes omitted list integral simplicity
+constant way expressing every function least one antiderivative infinite number them
+making goal prove everywhere differentiable function whose derivative always zero must constant
+x fundamental theorem calculus together assumption derivative of
+real line connected would always able integrate fixed given x
+example ask function defined union interval would possible integrate function defined and
+general replacing constant locally constant function extend theorem disconnected domains
+heaviside step function zero negative value x one non-negative value x let
+everywhere continuous almost everywhere differentiable theorem still fails
+turn adding subtracting constant flexibility finding different antiderivatives function
+instead number however compact description possible antiderivatives of
+first glance may seem constant unnecessary since set zero
+furthermore evaluating definite integral using fundamental theorem calculus constant always cancel itself
+however trying set constant zero doe always make sense
+displaystyle beginalignedint sinxcosxdxsin xc-cos xc-frac cosxcint sinxcosxdx-cos xcsin x-c-frac cosxcint sinxcosxdx-frac cosxcsin xc-cos xcendaligned
+equal zero sometimes want find antiderivative ha given value given point initial value problem
+differential equation many solution constant represents unique solution well-posed initial value problem
+imposing condition antiderivative take value x initial condition
+space suitable real-valued function real number vector space differential operator
+process indefinite integration amount finding pre-image given function
+canonical pre-image given function set pre-images form coset
+context solving initial value problem interpreted lying hyperplane given initial conditio

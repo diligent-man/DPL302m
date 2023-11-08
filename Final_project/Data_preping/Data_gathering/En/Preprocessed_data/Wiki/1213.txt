@@ -1,0 +1,61 @@
+jstor destr short journal storage digital library founded new york city
+originally containing digitized back issue academic journal encompasses book primary source well current issue journal humanity social sciences
+access subscription site public domain open access content available free charge
+jstor wa originally conceived solution one problem faced library especially research university library due increasing number academic journal existence
+library found prohibitively expensive term cost space maintain comprehensive collection journals
+digitizing many journal title jstor allowed library outsource storage journal confidence would remain available long-term
+however ira fuchs princeton university's vice president computing information technology convinced bowen cd-rom wa becoming increasingly outdated technology network distribution could eliminate redundancy increase accessibility
+example princeton's administrative academic building networked student dormitory network wa completed campus network like one princeton turn linked larger network bitnet internet jstor wa initiated seven different library site originally encompassed ten economics history journals
+jstor access improved based feedback initial site became fully searchable index accessible ordinary web browser
+special software wa put place make picture graph clear readable
+success limited project bowen kevin guthrie then-president jstor wanted expand number participating journals
+met representative royal society london agreement wa made digitize philosophical transaction royal society dating beginning in
+jstor started partnership joint information system committee created mirror website university manchester make jstor database available higher education institution england scotland wale northern ireland
+january jstor operated independent self-sustaining nonprofit organization office new york city ann arbor michigan
+jstor merged nonprofit ithaka harbor inca nonprofit organization founded dedicated helping academic community take full advantage rapidly advancing information networking technologies
+object uniquely identified integer value starting used create stable url
+addition main site jstor lab group operates open service allows access content archive purpose corpus analysis data research service
+site offer search facility graphical indication article coverage loose integration main jstor site
+user may create focused set article request dataset containing word n-gram frequency basic metadata
+notified dataset ready may download either xml csv formats
+service doe offer full-text although academic may request jstor subject non-disclosure agreement
+jstor plant science provides access content plant type specimen taxonomic structure scientific literature related material aimed researching teaching studying botany biology ecology environmental conservation studies
+material jstor plant science contributed global plant initiative gpi accessible jstor gpi members
+two partner network contributing african plant initiative focus plant africa latin american plant initiative contributes plant latin america
+jstor launched book jstor program november adding current backlist book site
+september jstor launched jstor daily online magazine meant bring academic research broader audience
+posted article generally based jstor entry entry provide backstory current events
+jstor licensed mainly academic institution public library research institution museum schools
+jstor ha running pilot program allowing subscribing institution provide access alumnus addition current student staff
+individual subscription also available certain journal title journal publisher
+every year jstor block million attempt non-subscribers read articles
+according harvard law professor lawrence lessig jstor asked much would cost make available whole world much would need pay answer wa million
+late early aaron swartz american computer programmer writer political organizer internet activist used mit's data network bulk-download substantial portion jstor's collection academic journal articles
+bulk-download wa discovered video camera wa placed room film mysterious visitor relevant computer wa left untouched
+video wa captured visitor download wa stopped swartz wa identified
+rather pursue civil lawsuit june reached settlement wherein surrendered downloaded data
+following month federal authority charged swartz several data theft-related crime including wire fraud computer fraud unlawfully obtaining information protected computer recklessly damaging protected computer
+prosecutor case claimed swartz acted intention making paper available pp file-sharing sites
+swartz surrendered authority pleaded guilty count wa released bail
+attorney increased number charge swartz four thirteen possible penalty year prison million fines
+case still wa pending swartz committed suicide january
+availability journal jstor controlled moving wall agreed-upon delay current volume journal latest volume available jstor
+time period specified agreement jstor publisher journal usually three five years
+publisher may request period moving wall changed request discontinuation coverage
+formerly publisher also could request moving wall changed fixed walla specified date jstor would add new volume database
+november fixed wall agreement still effect three publisher journal made available online site controlled publishers
+jstor started adding current issue certain journal current scholarship program
+beginning september jstor made public domain content available charge public
+early journal content program constitutes jstor's total content includes document journal published united state countries
+swartz controversy greg maxwell's protest torrent content led jstor press ahead initiative
+jstor doe plan extend public domain content stating believe something public domain always provided free
+january jstor started pilot program register read offering limited no-cost access open access archived article individual register service
+conclusion pilot january jstor expanded register read initial publisher include journal publishers
+registered reader may read six article online every calendar month may print download pdfs
+jstor conducting pilot program wikipedia whereby established editor given reading privilege wikipedia library university library
+jstor user performed nearly million search million article view million article downloads
+jstor ha used resource linguistics research investigate trend language use time also analyze gender difference inequity scholarly publishing revealing certain field men predominate prestigious first last author position woman significantly underrepresented author single-authored papers
+jstor metadata available crossref unpaywall dump identifies nearly million work hosted jstor toll access opposed available open access mainly third party open access repositories
+searchable database includes many public library offering free access library card holders
+free individual registration offering free read-only access printing saving three article every two week seventy-eight per year
+jstor early journal content free text download streaming internet archiv

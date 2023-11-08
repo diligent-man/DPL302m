@@ -1,0 +1,90 @@
+classical mathematics analytic geometry also known coordinate geometry cartesian geometry study geometry using coordinate system
+analytic geometry used physic engineering also aviation rocketry space science spaceflight
+foundation modern field geometry including algebraic differential discrete computational geometry
+usually cartesian coordinate system applied manipulate equation plane straight line circle often two sometimes three dimensions
+geometrically one study euclidean plane two dimension euclidean space
+taught school book analytic geometry explained simply concerned defining representing geometric shape numerical way extracting numerical information shapes' numerical definition representations
+algebra real number employed yield result linear continuum geometry relies cantor-dedekind axiom
+greek mathematician menaechmus solved problem proved theorem using method strong resemblance use coordinate ha sometimes maintained introduced analytic geometry
+apollonius perga determinate section dealt problem manner may called analytic geometry one dimension question finding point line ratio others
+apollonius conic developed method similar analytic geometry work sometimes thought anticipated work descartes years
+application reference line diameter tangent essentially different modern use coordinate frame distance measured along diameter point tangency abscissa segment parallel tangent intercepted axis curve ordinates
+developed relation abscissa corresponding ordinate equivalent rhetorical equation expressed word curves
+however although apollonius came close developing analytic geometry manage since take account negative magnitude every case coordinate system wa superimposed upon given curve posteriori instead priori
+coordinate variable equation subsidiary notion applied specific geometric situation
+-century persian mathematician omar khayyam saw strong relationship geometry algebra wa moving right direction helped close gap numerical geometric algebra geometric solution general cubic equation decisive step came later descartes
+omar khayyam credited identifying foundation algebraic geometry book treatise demonstration problem algebra laid principle analytic geometry part body persian mathematics wa eventually transmitted europe
+thoroughgoing geometrical approach algebraic equation khayyam considered precursor descartes invention analytic geometry
+analytic geometry wa independently invented ren descartes pierre de fermat although descartes sometimes given sole credit
+cartesian geometry alternative term used analytic geometry named descartes
+descartes made significant progress method essay titled la gomtrie geometry one three accompanying essay appendix published together discourse method rightly directing one's reason searching truth science commonly referred discourse method
+la geometrie written native french tongue philosophical principle provided foundation calculus europe
+initially work wa well received due part many gap argument complicated equations
+translation latin addition commentary van schooten work thereafter descartes's masterpiece receive due recognition
+pierre de fermat also pioneered development analytic geometry
+although published lifetime manuscript form ad locos plano et solidos isagoge introduction plane solid locus wa circulating paris prior publication descartes' discourse
+clearly written well received introduction also laid groundwork analytical geometry
+key difference fermat's descartes' treatment matter viewpoint fermat always started algebraic equation described geometric curve satisfied whereas descartes started geometric curve produced equation one several property curves
+consequence approach descartes deal complicated equation develop method work polynomial equation higher degree
+wa leonhard euler first applied coordinate method systematic study space curve surfaces
+analytic geometry plane given coordinate system every point ha pair real number coordinates
+similarly euclidean space given coordinate every point ha three coordinates
+common coordinate system use cartesian coordinate system point ha x-coordinate representing horizontal position y-coordinate representing vertical position
+system also used three-dimensional geometry every point euclidean space represented ordered triple coordinate x z
+polar coordinate every point plane represented distance r origin angle normally measured counterclockwise positive x-axis
+using notation point typically written ordered pair r
+one may transform back forth two-dimensional cartesian polar coordinate using formulae
+displaystyle xrcos theta yrsin theta rsqrt xyeta arctanyx
+system may generalized three-dimensional space use cylindrical spherical coordinates
+cylindrical coordinate every point space represented height z radius r z-axis angle projection xy-plane make respect horizontal axis
+spherical coordinate every point space represented distance origin angle projection xy-plane make respect horizontal axis angle make respect z-axis
+analytic geometry equation involving coordinate specifies subset plane namely solution set equation locus
+example equation x corresponds set point plane whose x-coordinate y-coordinate equal
+general linear equation involving x specify line quadratic equation specify conic section complicated equation describe complicated figures
+always case trivial equation x x specifies entire plane equation x specifies single point
+three dimension single equation usually give surface curve must specified intersection two surface see system parametric equations
+equation x r equation circle centered origin radius r
+line cartesian plane generally affine coordinate described algebraically linear equations
+two dimension equation non-vertical line often given slope-intercept form
+x independent variable function fxin manner analogous way line two-dimensional space described using point-slope form equation plane three dimensional space natural description using point plane vector orthogonal normal vector indicate inclination
+recalling two vector perpendicular dot product zero follows desired plane described set points
+displaystyle mathbf n cdot mathbf r mathbf r
+conversely easily shown b c constant b c zero graph equation
+familiar equation plane called general form equation plane
+three dimension line described single linear equation frequently described parametric equations
+x z function independent variable range real numbers
+b c related slope line vector b c parallel linein cartesian coordinate system graph quadratic equation two variable always conic section though may degenerate conic section arise way
+scaling six constant yield locus zero one consider conic point five-dimensional projective space
+equation represents rectangular hyperbolaa quadric quadric surface dimensional surface dimensional space defined locus zero quadratic polynomial
+coordinate x xx general quadric defined algebraic equation
+quadric surface include ellipsoid including sphere paraboloid hyperboloid cylinder cone planes
+analytic geometry geometric notion distance angle measure defined using formulas
+example using cartesian coordinate plane distance two point x x defined formula
+dot product two euclidean vector b defined by
+displaystyle mathbf cdot mathbf b stackrel mathrm def leftmathbf rightleftmathbf b rightcos theta
+transformation applied parent function turn new function similar characteristics
+standard transformation typically studied elementary analytic geometry transformation change shape object way usually considered
+ha horizontal vertical asymptote occupies first third quadrant transformed form one horizontal vertical asymptote occupies either st rd nd quadrant
+factor vertically stretch function greater vertically compress function le negative
+value compress graph function horizontally greater stretch function horizontally le like
+value mean function translated positive end axis negative meaning translation towards negative end
+transformation applied geometric equation whether equation represents function
+intersection two circle collection point make equation true
+elimination add subtract multiple one equation equation one variable eliminated
+one type intersection widely studied intersection geometric object the
+geometry tangent line simply tangent plane curve given point straight line touch curve point
+precisely straight line said tangent curve fx point x c curve line pass point c fc curve ha slope f'c f' derivative f
+similar definition applies space curve curve n-dimensional euclidean space
+pass point tangent line curve meet called point tangency tangent line going direction curve thus best straight-line approximation curve point
+similarly tangent plane surface given point plane touch surface point
+concept tangent one fundamental notion differential geometry ha extensively generalized see tangent space
+geometry normal object line vector perpendicular given object
+example two-dimensional case normal line curve given point line perpendicular tangent line curve point
+three-dimensional case surface normal simply normal surface point p vector perpendicular tangent plane surface p
+word normal also used adjective line normal plane normal component force normal vector etc
+john casey analytic geometry point line circle conic section link internet archive
+history mathematics introduction nd ed reading addison wesley longman
+source book mathematics harvard university press bissell christopher c
+analytic geometry discovery fermat descartes mathematics teacher doimt
+beginning analytic geometry three dimension american mathematical monthly doi jstor
+pecl j newton analytic geometrycoordinate geometry topic interactive animatio

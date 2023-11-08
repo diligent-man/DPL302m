@@ -1,0 +1,28 @@
+computing platform digital platform environment piece software executed
+may hardware operating system even web browser associated application programming interface underlying software long program code executed it
+computing platform different abstraction level including computer architecture runtime libraries
+platform seen constraint software development process different platform provide different functionality restriction assistant development process provide low-level functionality ready-made
+example may platform abstract underlying difference hardware provides generic command saving file accessing network
+embedded system access hardware directly without referred running bare metal
+browser run hardwareos platform relevant software running within browser
+application spreadsheet word processor host software written application-specific scripting language excel macro
+extended writing fully-fledged application microsoft office suite platform
+extending idea software framework allow application developer build software component hosted developer provider internet communication linking together
+social networking site twitter facebook also considered development platforms
+virtual machine vm java virtual machine net clr
+application compiled format similar machine code known bytecode executed vm
+virtualized version complete system including virtualized hardware software storage
+allow instance typical window program run physically macsome architecture multiple layer layer acting platform one it
+general component ha adapted layer immediately beneath it
+instance java program ha written use java virtual machine jvm associated library platform doe adapted run window linux macintosh platforms
+however jvm layer beneath application doe built separately os
+window runtimeordered roughly common type le common types
+iphone smartphones ipad tablet device running io ipados apple
+raspberry pi gumstix full function miniature computer linux
+wintel intel x compatible personal computer hardware window operating system
+hardware classic mac macos operating system originally k-based powerpc-based x based migrated apple silicon arm architecture cpus
+cpm computer based s- bus maybe earliest microcomputer platform
+apple pippin multimedia player platform video game console development
+sparc architecture computer running solaris illumos linux operating systems
+power isa powerpc power isa computer running ibm aix linux operating systems
+platform ecosystem medium related computing platform wikimedia commons

@@ -1,0 +1,12 @@
+datacommonsorg open knowledge repository hosted google provides unified view across multiple public datasets combining economic scientific open datasets integrated data graph
+datacommonsorg site wa launched may initial dataset consisting fact-checking data published schemaorg claimreview format several fact checker international fact-checking network
+google ha worked partner including united state census world bank u bureau labor statistic populate repository also host data wikipedia national oceanic atmospheric administration federal bureau investigation
+service expanded include rdf-style knowledge graph populated number largely statistical open datasets
+service improved coverage non-us datasets also increasing coverage bioinformatics coronavirus
+datacommonsorg place emphasis statistical data common linked data knowledge graph initiatives
+includes geographical demographic weather real estate data alongside category describing state congressional district city united state well biological specimen power plant element human genome via encyclopedia dna element encode project
+center entity-oriented integration statistical observation variety public datasets
+although support subset wc sparql query language apis also include tool panda dataframe interface oriented towards data science statistic data visualization
+datacommonsorg integrative meaning rather providing hosting platform diverse datasets attempt consolidate much information datasets provide single data graph
+graph accessed browser interface several apis expanded loading data typically csv mcf-based templates
+data vocabulary used define datacommonsorg graph based upon schemaorg

@@ -1,21 +1,21 @@
-SV Nga đoatj giair nhaats cuoocj thi laapj trinhf quoocs tees
-Đaay laf laanf thuws cuoocj thi toor chuwcs hangf nawm do Hieepj hooij Coong ngheej mays tinhs Myx vuwaf đuwowcj toor chuwcs vowis suwj taif trowj chinhs cuar hangx chees taoj mays tinhs IBM hangf đaauf Hoa Kyf
-Nhoms SV đuwowcj giair cao nhaats cuoocj thi nayf đeens tuwf Truwowngf Đaij hocj Quoocs gia Saratov Lieen bang Nga
-Đeef thi gioongs nhau danhf cho taats car moij this sinh laf hayx giair baif toans laapj trinhf trong thowif gian giowf đoongf hoof
-Duwowis đaay laf toms luwowcj đeef baif cuar trong soos baif toans nois treen đeer banj đocj deex hinhf dung cuoocj thi
-Vieets mootj chuwowng trinhf cho mays tinhs sao cho cacs banhs rawng cuwa cuar mootj chieecs đoongf hoof noois đuwowcj kim giowf vaf kim phuts treen cow sowr mootj toocs đooj toois đa cho truwowcs vaf treen mootj trucj cos banhs rawng cuwa
-Hayx taoj ra mootj chuwowng trinhf đeer nhaanj bieets soos luwowngj toois đa veef muwcs đooj cachs ly cuar mootj mangj nhaan suwj
-Hayx phats trieenr mootj heej thoongs lieen keets cacs nuts khacs nhau cuar mootj mangj taapj đoanf theo cachs rer nhaats cos theer
-Cacs this sinh ngooif lamf baif trong mootj phongf roongj truwowcs cacs manf hinhf mays tinhs
-Taij khu vuwcj cuar cacs nhoms mooix khi giair xong mootj baif toans thif thar leen mootj quar bongs bay cos buoocj daay đeer giups khans giar vaf ban toor chuwcs deex theo doix
-Theo ban toor chuwcs thoong thuwowngf đeer giair heets đuwowcj baif toans laapj trinhf nayf mootj chuyeen gia gioir cungx phair caanf nhieeuf thangs
-Thees maf trong tieengs đoongf hoof SV Đaij hocj Quoocs gia Saratov đax giair đuwowcj trong toongr soos baif toans nois treen
-Sau khi heets giowf đuwngs daayj SV Igor Kukin tuooir trong nhoms giair nhaats cho bieets đeef thi raats khos nhuwng cacs em camr thaays haif longf khi đax giair đuwowcj baif
-Giair thuwowngr cho nhoms SV đoatj giair nhaats cuoocj thi nayf ngoaif cups voo đichj mooix thanhf vieen trong nhoms đuwowcj nhaanj mootj hocj boongr trij gias USD hocj taij Myx mootj mays tinhs đawcj bieetj do hangx IBM chees taoj
-Ngoaif SV Truwowngf Đaij hocj quoocs gia Saratov đoatj giair nhaats vowis cups voo đichj SV khacs veef nhif đuwowcj nhaanj huy chuwowng vangf vaf mooix em đuwowcj linhx giair thuwowngr USD tieenf mawtj
-Ba SV nayf đeens tuwf cacs truwowngf Đaij hocj Toongr howpj Twente Haf Lan Đaij hocj Kyx thuaatj quoocs gia Altai Nga Đaij hocj Toongr howpj Jagiellonian Krakow Ba Lan
-Ba SV đoatj huy chuwowng bacj vaf giair thuwowngr USD đeens tuwf cacs truwowngf Hocj vieenj Coong ngheej Massachusettes Myx Đaij hocj Quoocs gia Saint Petersburg Nga Đaij hocj Toongr howpj Jai Tong Thuwowngj Hair Trung Quoocs
-Boons SV đoatj huy chuwowng đoongf vaf giair thuwowngr USD đeens tuwf cacs truwowngf Đaij hocj Coong ngheej Hangf khoong Ufa Nga Đaij hocj Toongr howpj Matxcowva Nga Đaij hocj Toongr howpj Waterloo Ontario Canada vaf Đaij hocj Toongr howpj Alberta Canada
-Nhaanj xets veef đeef thi nawm nay Giaos suw Bill Poucher Giams đoocs đieeuf hanhf Ban toor chuwcs cuoocj thi chuyeen gia khoa hocj mays tinhs thuoocj truwowngf Đaij hocj Toongr howpj Baylor Hoa Kyf nowi dieenx ra cuoocj thi cho rawngf mooix baif toans khos gioongs nhuw yeeu caauf vieets mootj phaanf meemf trong phuts vaayj
-Đaij dieenj hangx mays tinhs Myx IBM cho bieets hangx sawnx sangf nhaanj cacs this sinh đoatj giair vaof lamf vieecj
-Cho đeens nay IBM đax tuyeenr mooj đuwowcj SV đoatj giair trong nhieeuf nawm khacs nhau cuar cuoocj thi nayf
+sv nga đoạt giải nhất cuộc thi lập trình quốc tế
+đây là lần thứ cuộc thi tổ chức hàng năm do hiệp hội công nghệ máy tính mỹ vừa được tổ chức với sự tài trợ chính của hãng chế tạo máy tính ibm hàng đầu hoa kỳ
+nhóm sv được giải cao nhất cuộc thi này đến từ trường đại học quốc gia saratov liên bang nga
+đề thi giống nhau dành cho tất cả mọi thí sinh là hãy giải bài toán lập trình trong thời gian giờ đồng hồ
+dưới đây là tóm lược đề bài của trong số bài toán nói trên để bạn đọc dễ hình dung cuộc thi
+viết một chương trình cho máy tính sao cho các bánh răng cưa của một chiếc đồng hồ nối được kim giờ và kim phút trên cơ sở một tốc độ tối đa cho trước và trên một trục có
+hãy tạo ra một chương trình để nhận biết số lượng tối đa về mức độ cách ly của một mạng nhân sự
+hãy phát triển một hệ thống liên kết các nút khác nhau của một mạng tập đoàn theo cách rẻ nhất có thể
+các thí sinh ngồi làm bài trong một phòng rộng trước các màn hình máy tính
+tại khu vực của các nhóm mỗi khi giải xong một bài toán thì thả lên một quả bóng bay có buộc dây để giúp khán giả và ban tổ chức dễ theo doĩ
+theo ban tổ chức thông thường để giải hết được bài toán lập trình này một chuyên gia giỏi cũng phải cần nhiều tháng
+thế mà trong tiếng đồng hồ sv đại học quốc gia saratov đã giải được trong tổng số bài toán nói trên
+sau khi hết giờ đứng dâỵ sv igor kukin tuổi trong nhóm giải nhất cho biết đề thi rất khó nhưng các em cảm thấy hài lòng khi đã giải được baì
+giải thưởng cho nhóm sv đoạt giải nhất cuộc thi này ngoài cúp vô địch mỗi thành viên trong nhóm được nhận một học bổng trị giá usd học tại mỹ một máy tính đặc biệt do hãng ibm chế
+ngoài sv trường đại học quốc gia saratov đoạt giải nhất với cúp vô địch sv khác về nhì được nhận huy chương vàng và mỗi em được lĩnh giải thưởng usd tiền mặt
+ba sv này đến từ các trường đại học tổng hợp twente hà lan đại học kỹ thuật quốc gia altai nga đại học tổng hợp jagiellonian krakow ba lan
+ba sv đoạt huy chương bạc và giải thưởng usd đến từ các trường học viện công nghệ massachusettes mỹ đại học quốc gia saint petersburg nga đại học tổng hợp jai tong thượng hải trung quốc
+bốn sv đoạt huy chương đồng và giải thưởng usd đến từ các trường đại học công nghệ hàng không ufa nga đại học tổng hợp matxcơva nga đại học tổng hợp waterloo ontario canada và đại học tổng hợp
+nhận xét về đề thi năm nay giáo sư bill poucher giám đốc điều hành ban tổ chức cuộc thi chuyên gia khoa học máy tính thuộc trường đại học tổng hợp baylor hoa kỳ nơi diễn ra cuộc thi
+đại diện hãng máy tính mỹ ibm cho biết hãng sẵn sàng nhận các thí sinh đoạt giải vào làm việc
+cho đến nay ibm đã tuyển mộ được sv đoạt giải trong nhiều năm khác nhau của cuộc thi na

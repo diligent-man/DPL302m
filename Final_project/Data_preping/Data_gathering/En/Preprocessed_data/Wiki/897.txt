@@ -1,0 +1,145 @@
+general-purpose computing graphic processing unit gpgpu le often gpgp use graphic processing unit gpu typically handle computation computer graphic perform computation application traditionally handled central processing unit cpu
+use multiple video card one computer large number graphic chip parallelizes already parallel nature graphic processing
+essentially gpgpu pipeline kind parallel processing one gpus cpu analyzes data image graphic form
+gpus operate lower frequency typically many time number cores
+thus gpus process far picture graphical data per second traditional cpu
+migrating data graphical form using gpu scan analyze create large speedup
+gpgpu pipeline developed beginning st century graphic processing eg
+pipeline found fit scientific computing need well since developed direction
+principle arbitrary boolean function including addition multiplication mathematical function built-up functionally complete set logic operators
+conway's game life became one first example general-purpose computing using early stream processor called blitter invoke special sequence logical operation bit vectors
+general-purpose computing gpus became practical popular advent programmable shaders floating point support graphic processors
+notably problem involving matrix andor vector especially two- three- four-dimensional vector easy translate gpu act native speed support types
+significant milestone gpgpu wa year two research group independently discovered gpu-based approach solution general linear algebra problem gpus ran faster cpus
+early effort use gpus general-purpose processor required reformulating computational problem term graphic primitive supported two major apis graphic processor opengl directx
+cumbersome translation wa obviated advent general-purpose programming language apis shrapidmind brook accelerator
+followed nvidia's cuda allowed programmer ignore underlying graphical concept favor common high-performance computing concepts
+newer hardware-vendor-independent offering include microsoft's directcompute applekhronos group's opencl
+mean modern gpgpu pipeline leverage speed gpu without requiring full explicit conversion data graphical form
+language allows code running cpu poll gpu shader return value create gpgpu framework
+programming standard parallel computing include opencl vendor-independent openacc openmp openhmpp
+opencl dominant open general-purpose gpu computing language open standard defined khronos group
+opencl provides cross-platform gpgpu platform additionally support data parallel compute cpus
+opencl actively supported intel amd nvidia arm platforms
+khronos group ha also standardised implemented sycl higher-level programming model opencl single-source domain specific embedded language based pure c
+nvidia launched cuda software development kit sdk application programming interface api allows using programming language c code algorithm execution geforce series later gpus
+par cuda regard feature still lacking consumer support
+xcelerit sdk created xcelerit designed accelerate large existing c c code-bases gpus minimal effort
+provides simplified programming model automates parallelisation manages device memory compiles cuda binaries
+altimesh hybridizer created altimesh compiles common intermediate language cuda binaries
+microsoft introduced directcompute gpu computing api released directx api
+alea gpu created quantalea introduces native gpu computing capability microsoft net language f c
+alea gpu also provides simplified gpu programming model based gpu parallel-for parallel aggregate using delegate automatic memory management
+matlab support gpgpu acceleration using parallel computing toolbox matlab distributed computing server third-party package like jacket
+gpgpu processing also used simulate newtonian physic physic engine commercial implementation include havok physic fx physx typically used computer video games
+c accelerated massive parallelism c amp library accelerates execution c code exploiting data-parallel hardware gpus
+due trend increasing power mobile gpus general-purpose programming became available also mobile device running major mobile operating systems
+google android enabled running renderscript code mobile device gpu
+apple introduced proprietary metal api io application able execute arbitrary code apple's gpu compute shaders
+computer video card produced various vendor nvidia amd
+card vendor differ implementing data-format support integer floating-point format bit bit
+microsoft introduced shader model standard help rank various feature graphic card simple shader model version number etc
+pre-directx video card supported paletted integer color types
+various format available containing red element green element blue element
+bit per pixel sometimes palette mode value index table real color value specified one formats
+sometimes three bit red three bit green two bit blue
+bit per pixel usually bit allocated five bit red six bit green five bit blue
+bit per pixel eight bit red green blue
+bit per pixel eight bit red green blue alphafor early fixed-function limited programmability graphic ie including directx compliant gpus wa sufficient also representation used displays
+given sufficient graphic processing power even graphic programmer would like use better format floating point data format obtain effect high-dynamic-range imaging
+many gpgpu application require floating point accuracy came video card conforming directx specification
+directx shader model x suggested support two precision type full partial precision
+full precision support could either fp fp floating point bit per component greater partial precision wa fp
+ati's radeon r series gpus supported fp precision programmable fragment pipeline although fp wa supported vertex processor nvidia's nv series supported fp fp vendor graphic xgi supported mixture format fp
+implementation floating point nvidia gpus mostly ieee compliant however true across vendors
+bit floating point value double precision float commonly available cpu universally supported gpus
+gpu architecture sacrifice ieee compliance others lack double-precision
+effort occurred emulate double-precision floating point value gpus however speed tradeoff negates benefit offloading computing onto gpu first place
+operation gpu operate vectorized fashion one operation performed four value once
+example one color r g b modulated another color r g b gpu produce resulting color rr gg bb one operation
+functionality useful graphic almost every basic data type vector either dimensional
+example include vertex color normal vector texture coordinates
+many application put good use higher performance vector instruction termed single instruction multiple data simd long available cpus
+originally data wa simply passed one-way central processing unit cpu graphic processing unit gpu display device
+time progressed however became valuable gpus store first simple complex structure data passed back cpu analyzed image set scientific-data represented format video card understand
+gpu ha access every draw operation analyze data form quickly whereas cpu must poll every pixel data element much slowly speed access cpu larger pool random-access memory even worse case hard drive slower gpus video card typically contain smaller amount
+transferring portion data set actively analyzed gpu memory form texture easily readable gpu form result speed increase
+distinguishing feature gpgpu design ability transfer information bidirectionally back gpu cpu generally data throughput direction ideally high resulting multiplier effect speed specific high-use algorithm
+gpgpu pipeline may improve efficiency especially large data set andor data containing imagery
+used complex graphic pipeline well scientific computing field large data set like genome mapping two- three-dimensional analysis useful especially present biomolecule analysis protein study complex organic chemistry
+pipeline also vastly improve efficiency image processing computer vision among field well parallel processing generally
+heavily optimized pipeline yielded speed increase several hundred time original cpu-based pipeline one high-use task
+simple example would gpu program collect data average lighting value render view either camera computer graphic program back main program cpu cpu make adjustment overall screen view
+advanced example might use edge detection return numerical information processed image representing outline computer vision program controlling say mobile robot
+gpu ha fast local hardware access every pixel picture element image analyze average first example apply sobel edge filter convolution filter second much greater speed cpu typically must access slower random-access memory copy graphic question
+gpgpu fundamentally software concept hardware concept type algorithm piece equipment
+specialized equipment design may however even enhance efficiency gpgpu pipeline traditionally perform relatively algorithm large amount data
+massively parallelized gigantic-data-level task thus may parallelized even via specialized setup rack computing many similar highly tailored machine built rack add third layer many computing unit using many cpu correspond many gpus
+historically cpu used hardware-managed cache earlier gpus provided software-managed local memories
+however gpus increasingly used general-purpose application state-of-the-art gpus designed hardware-managed multi-level cache helped gpus move towards mainstream computing
+example geforce series gt architecture gpus feature l cache fermi gpu ha kib last-level cache kepler gpu ha mib last-level cache maxwell gpu ha mib last-level cache pascal gpu ha mib last-level cache
+gpus large register file allow reduce context-switching latency
+register file size also increasing different gpu generation eg total register file size maxwell gm pascal volta gpus mib mib mib respectively
+comparison size register file cpu small typically ten hundred kilobytes
+high performance gpus come cost high power consumption full load fact much power rest pc system combined
+maximum power consumption pascal series gpu tesla p wa specified w
+gpus designed specifically graphic thus restrictive operation programming
+due design gpus effective problem solved using stream processing hardware used certain ways
+following discussion referring vertex fragment texture concern mainly legacy model gpgpu programming graphic apis opengl directx used perform general-purpose computation
+introduction cuda nvidia opencl vendor-independent general-purpose computing apis new gpgpu code longer necessary map computation graphic primitives
+stream processing nature gpus remains valid regardless apis used
+gpus process independent vertex fragment process many parallel
+especially effective programmer want process many vertex fragment way
+sense gpus stream processor processor operate parallel running one kernel many record stream once
+gpus vertex fragment element stream vertex fragment shaders kernel run them
+permissible multiple input multiple output never piece memory readable writable
+arithmetic intensity defined number operation performed per word memory transferred
+important gpgpu application high arithmetic intensity else memory access latency limit computational speedup
+ideal gpgpu application large data set high parallelism minimal dependency data elements
+programmable processor vertex primitive fragment mainly compute pipeline allow programmer perform kernel stream data
+rasterizer creates fragment interpolates per-vertex constant texture coordinate color
+framebuffer write-only memory interfacein fact program substitute write texture output instead framebuffer
+done either render texture rtt render-to-backbuffer-copy-to-texture rtbctt recent stream-out
+common form stream take gpgpu grid fit naturally rendering model built gpus
+many computation naturally map grid matrix algebra image processing physically based simulation on
+since texture used memory texture lookup used memory reads
+example programmer operating grid cpu might code look like this
+gpu programmer specifies body loop kernel data loop invoking geometry processing
+sequential code possible control flow program using if-then-else statement various form loops
+conditional writes could performed using properly crafted series arithmeticbit operation looping conditional branching possible
+branching generally avoided inner loop whether cpu gpu code various method static branch resolution pre-computation predication loop splitting z-cull used achieve branching hardware support doe exist
+map operation simply applies given function kernel every element stream
+simple example multiplying value stream constant increasing brightness image
+programmer generates fragment pixel screen applies fragment program one
+computation require calculating smaller stream possibly stream one element larger stream
+result prior step used input current step range operation applied reduced one stream element remains
+scan operation also termed parallel prefix sum take vector stream data element arbitrary associative binary function '' identity element 'i'
+input exclusive scan produce output inclusive scan produce output doe require identity exist
+first glance operation may seem inherently serial efficient parallel scan algorithm possible implemented graphic processing units
+scan operation ha us eg quicksort sparse matrix-vector multiplication
+vertex processor able adjust position vertex allows programmer control information deposited grid
+extension also possible controlling large area vertex affects
+fragment processor cannot perform direct scatter operation location fragment grid fixed time fragment's creation cannot altered programmer
+however logical scatter operation may sometimes recast implemented another gather step
+scatter implementation would first emit output value output address
+immediately following gather operation us address comparison see whether output value map current output slot
+scatter reorder element according map gather restore order element according map scatter used
+dedicated compute kernel gather may performed indexed reads
+sort operation transforms unordered set element ordered set elements
+common implementation gpus using radix sort integer floating point data coarse-grained merge sort fine-grained sorting network general comparable data
+search operation allows programmer find given element within stream possibly find neighbor specified element
+gpu used speed search individual element instead used run multiple search parallel
+mostly search method used binary search sorted elements
+adaptive structure union typethe following area gpus used general purpose computing
+physical based simulation physic engine usually based newtonian physic models
+conway's game life cloth simulation fluid incompressible flow solution euler equation fluid dynamic navier-stokes equations
+gpu learning machine learning data mining computation eg software bidmach
+audio sound effect processing use gpu digital signal processing dsp
+bitstream processing cavlccabac using special purpose hardware task serial task suitable regular gpgpu computation
+global illumination ray tracing photon mapping radiosity among others subsurface scattering
+geometric computing constructive solid geometry distance field collision detection transparency computation shadow generation
+implementation gpu tabu search algorithm solving resource constrained project scheduling problem freely available github gpu algorithm solving nurse rerostering problem freely available github
+computational fluid dynamic especially using lattice boltzmann methods
+implementation md advanced encryption standard aes data encryption standard de rsa elliptic curve cryptography ecc
+increase computing power distributed computing project like setihome einsteinhomegpgpu usage bioinformatics
+gpu performance benchmarked gpu supported feature may kernel kernel performance comparison

@@ -1,0 +1,99 @@
+vietnamese alphabet vietnamese ch quc ng script national language modern latin writing script writing system vietnamese
+us latin script based romance language originally developed portuguese missionary francisco de pina
+vietnamese alphabet contains letter including seven letter using four diacritics
+complex vowel system large number letter diacritic even stack twice letter eg
+nht meaning first make easy distinguish vietnamese alphabet latin scripts
+vietnamese system produce word silent letter letter word consistent read spoken rare exceptions
+elaborate use diacritic produce highly accurate sound transcription tonal languages
+vietnamese us letter iso basic latin alphabet except f j w z
+letter used write loanword language ethnic group country based vietnamese phonetics differentiate meaning even vietnamese dialect example dz z southerner pronunciation v standard vietnamese
+total vowel nguyn consonant ph literally extra sound
+pronouncing b b b p p p avoid confusion context mnh nng heavy x x nh-light ngn-short di-long
+q q always followed u every word phrase vietnamese eg
+name i-c-rt french name letter grec greek referring letter's origin greek letter upsilon
+vietnamese alphabet doe contain letter f p p-ph j gi w v kp v p z dt
+however letter often used foreign loanword may kept foreign names
+sng xo sng sothe alphabet largely derived portuguese major influence french although usage gh gi wa borrowed italian compare ghetto giuseppe ckqu greek latin compare canis kinesis qu vdis mirroring english usage letter compare cat kite queen
+case letter may represent several different sound different letter may represent sound
+orthography wa designed century ago spoken language ha changed shown chart directly contrast difference middle modern vietnamese
+letter mostly equivalent concrete rule say use one except sequence like ay uy ie
+tay arm hand read tj tai ear read tj
+attempt since late century standardize orthography replacing vowel us latest decision vietnamese ministry education in
+textbook published nh xut bn gio dc publishing house education used represent sino-vietnamese word written one letter alone diacritic still added beginning syllable followed ym yt u sequence ay therefore form l k standard though much preferred elsewhere
+people popular medium continue use spelling accustomed to
+us letter represent phoneme categorized standard used textbook published nh xut bn gio dc non-standard follows
+standard set nh xut bn gio dc definite
+unknown literature book use l history book use l
+table match vowel hanoi vietnamese written ipa respective orthographic symbol used writing system
+usually written suffix indicating profession similar english suffix er
+sometimes written h k l n v x america
+always written whenpreceded orthographic vowel xwn khuyn 'to advise'
+beginning word derived chinese written otherwise w yu 'to love'the vowel written oo c ng since position represents w k oc 'organ musical' k k knh coong
+similarly vowel written c ng ng ngh anh tnh variant ng w
+unlike oo frequently used onomatopoeia transcription language word borrowed ngh anh tnh dialect voc seems used solely convey feel ngh anh tnh accents
+u case note w written au instead u cf
+ao aw written uthe off-glide j written except written note j written ay instead cf
+consonant off-glide ming 'piece' sw xiu 'to slope slant'note diphthong change u
+n yn 'calm' w yu' 'weak feeble'the diphthong u written
+u consonant off-glide mn mun 'ten thousand' sj xui 'down'the diphthong written
+consonant off-glide mng 'irrigation canal' tj ti 'to water irrigate sprinkle'vietnamese tonal language meaning word depends pitch pronounced
+first one level tone marked five indicated diacritic applied vowel part syllable
+tone name chosen name tone spoken tone identifies
+south merging hi ng tone effect leaving five tones
+unmarked vowel pronounced level voice middle speaking range
+grave accent indicates speaker start somewhat low drop slightly tone voice becoming increasingly breathy
+hook indicates northern vietnamese speaker start middle range fall southern vietnamese speaker start somewhat low fall rise asking question english
+north tilde indicates speaker start mid break glottal stop start rise like question tone
+acute accent indicates speaker start mid rise sharply tone
+dot cross signifies northern vietnamese speaker start low fall lower tone voice becoming increasingly creaky ending glottal stopin syllable vowel part consists one vowel diphthong triphthongs placement tone still matter debate
+old style emphasizes aesthetic placing tone mark close possible center word placing tone mark last vowel ending consonant part exists next-to-last vowel ending consonant exist ha hy new style emphasizes linguistic principle try apply tone mark main vowel ho hu
+style one vowel already ha quality diacritic tone mark must applied well regardless appears syllable thus thu acceptable th not
+currently new style usually used textbook published nh xut bn gio dc people still prefer old style casual uses
+among overseas vietnamese community old style predominant purposes
+lexical ordering difference letter treated primary difference tone marking secondary difference case tertiary differences
+older dictionary also treated digraph trigraphs like ch ngh base letter ordering according primary secondary difference proceeds syllable syllable
+according principle dictionary list tun th tun chay secondary difference first syllable take precedence primary difference second syllable
+past syllable multisyllabic word concatenated hyphen practice ha died hyphenation reserved word-borrowings languages
+written syllable consists three part following order left right
+required vowel syllable nucleus tone mark needed applied it
+ending consonant part one following c ch n ng nh p nothingsince beginning chinese rule bc literature government paper scholarly work religious scripture written classical chinese ch hn indigenous writing chu han started around ninth century
+since century several vietnamese word started written ch nm using variant chinese character representing one word
+system wa based ch hn wa also supplemented vietnamese-invented character ch thun nm proper nm character represent native vietnamese words
+early work francisco de pina portuguese italian jesuit missionary vietnam began using latin script transcribe vietnamese language assistance learning language
+building previous dictionary gaspar amaral antonio barbosa rhodes compiled dictionarium annamiticum lusitanum et latinum vietnamese-portuguese-latin dictionary wa later printed rome using spelling system
+year ch quc ng wa used within catholic community
+latin alphabet became mean publish vietnamese popular literature wa disparaged vulgar chinese-educated imperial elites
+pear asserted instituting latin alphabet vietnam french cut vietnamese traditional hn nm literature
+important reason latin script became standard writing system vietnam cambodia lao dominated french similar amount time existed within colonial framework ha fact nguyn emperor vietnam heavily promoted usage
+according historian liam kelley work emperor thnh educational revolution neither french revolutionary enough power spread usage ch quc ng village level
+wa imperial decree emperor thnh thi parent could decide whether child follow curriculum hn vn nam southern sound contemporary vietnamese name ch quc ng
+decree wa issued time social change cutting long male hair occurring
+main reason popularisation latin alphabet vietnami nam nguyn dynasty french protectorate annam tonkin wa pioneering effort intellectual french cochinchina combined progressive scientific policy french government french indochina created momentum usage ch quc ng spread
+since vietnamese mostly use ch quc ng new vietnamese term new item word often calqued hn nm
+french originally planned replace vietnamese french never wa serious project given small number french settler compared native population
+french reluctantly accept use ch quc ng write vietnamese since writing system created portuguese missionary based portuguese orthography french
+short-lived tonkin free school promulgated ch quc ng taught french language general population
+french system suppressed vietnam's confucian examination system viewed aristocratic system linked ancient regime thereby forcing vietnamese elite educate offspring french language education system
+emperor khi nh declared traditional writing system abolished in
+traditional nationalist favoured confucian examination system use ch hn vietnamese revolutionary progressive nationalist pro-french elite viewed french education system mean liberate vietnamese old chinese domination unsatisfactory outdated confucian examination system democratize education help link vietnamese european philosophies
+french colonial system set another educational system teaching vietnamese first language using ch quc ng primary school french language taught ch quc ng
+hundred thousand textbook primary education began published ch quc ng unintentional result turning script popular medium expression vietnamese culture
+typesetting printing vietnamese ha challenging due number accentsdiacritics
+contemporary vietnamese text sometimes include word adapted modern vietnamese orthography especially document written chinese characters
+vietnamese language ha likened system akin ruby character elsewhere asia
+universal character set unicode ha full support latin vietnamese writing system although doe separate segment it
+required character language use scattered throughout basic latin latin- supplement latin extended-a latin extended-b block remain letter one diacritic placed latin extended additional block
+ascii-based writing convention vietnamese quoted readable several byte-based encoding including vscii tcvn vni viscii windows- widely used unicode became popular
+unicode allows user choose precomposed character combining character inputting vietnamese
+past font implemented combining character nonstandard way see verdana font people use precomposed character composing vietnamese-language document except window windows- used combining characters
+keyboard modern phone computer operating system including io android macos supported vietnamese language direct input diacritic default
+previously vietnamese user manually install free software unikey computer laban key phone type vietnamese diacritics
+keyboard support input method telex vni viqr variants
+ch hn classical chinese written vietnam han characters
+ch nm former script used write vietnamese using han nom invented character words
+telex oldest standard input method vietnamese alphabet electronic devices
+viqr another standard bit input method vietnamese alphabet
+origine de particularits de l'alphabet vietnamien english translation origin peculiarity vietnamese alphabet pdf
+kornicki peter sino-vietnamese literature li wai-yee denecke wiebke tian xiaofen ed oxford handbook classical chinese literature bce- ce oxford oxford university press pp
+vietnamese phonology graphemic borrowing chinese book character revisited
+published version author's phd dissertation university florida hoa pham

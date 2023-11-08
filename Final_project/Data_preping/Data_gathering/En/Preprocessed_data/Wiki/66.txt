@@ -1,0 +1,76 @@
+mathematics spiral curve emanates point moving farther away revolves around point
+two major definition spiral american heritage dictionary are
+curve plane wind around fixed center point continuously increasing decreasing distance point
+three-dimensional curve turn around axis constant continuously varying distance moving parallel axis helixthe first definition describes planar curve extends perpendicular direction within plane groove one side record closely approximates plane spiral finite width depth groove wider spacing within track fall
+another example center line arm spiral galaxy trace logarithmic spirals
+second definition includes two kind dimensional relative spirals
+conical volute spring including spring used hold make contact negative terminal aa aaa battery battery box vortex created water draining sink often described spiral conical helix
+quite explicitly definition also includes cylindrical coil spring strand dna quite helical helix useful description spiral general spiral seldom applied successive loop curve diameterin side picture black curve bottom archimedean spiral green curve helix
+two-dimensional plane spiral may described easily using polar coordinate radius
+circle would regarded degenerate case function strictly monotonic rather constant
+displaystyle xrvarphi co varphi qquad yrvarphi sin varphi
+spiral theodorus approximation archimedean spiral composed contiguous right triangles
+involute circle used twice tooth almost every modern gearan archimedean spiral example generated coiling carpet
+hyperbolic spiral appears image helix special central projection see diagram
+hyperbolic spiral time called reciproke spiral image archimedean spiral circle-inversion see below
+spiral tangent corresponding polar circle see diagram called angle polar slope and
+displaystyle kappa dotsb frac avarphi n-frac varphi nnvarphi n
+sector areathe area sector curve see diagram polar equation
+displaystyle afrac int varphi varphi avarphi ndvarphi frac anbig varphi n varphi nbig quad textifquad nneq frac
+displaystyle afrac int varphi varphi frac avarphi dvarphi frac aln varphi ln varphi quad textifquad n-frac
+displaystyle lint limit varphi varphi sqrt leftrprime varphi rightrvarphi mathrm varphi
+displaystyle lint varphi varphi sqrt frac nrvarphi rdvarphi aint limit varphi varphi varphi n-sqrt nvarphi dvarphi
+case fermat's spiral integral expressed elliptic integral only
+circle inversionthe inversion unit circle ha polar coordinate simple description
+example inverse archimedean spiral hyperbolic spirala logarithmic spiral
+give spiral start origin like archimedean spiral approach circle radius
+one get spiral approach origin like hyperbolic spiral approach circle radius
+two well-known spiral space curve conic spiral spherical spiral defined below
+spiral wound around helix also known double-twisted helix represents object coiled coil filament slinky spring toy
+displaystyle xrvarphi co varphi qquad yrvarphi sin varphi
+displaystyle xrvarphi co varphi qquad yrvarphi sin varphi qquad color redzzmrvarphi
+displaystyle xavarphi co varphi qquad yavarphi sin varphi qquad zzmavarphi quad varphi geq
+displaystyle beginarraycllxrcdot sin theta cdot co varphi yrcdot sin theta cdot sin varphi zrcdot co theta endarray
+angle coordinate one get spherical curve called spherical spiral parametric representation with
+displaystyle beginarraycllxrcdot sin theta cdot co color redctheta yrcdot sin theta cdot sin color redctheta zrcdot co theta qquad qquad leq theta leq pi endarray
+rhumb line also known loxodrome spherical spiral curve sphere traced ship constant bearing eg travelling one pole keeping fixed angle respect meridians
+loxodrome ha infinite number revolution separation decreasing curve approach either pole unlike archimedean spiral maintains uniform line-spacing regardless radius
+christopher wren observed many shell form logarithmic spiral jan swammerdam observed common mathematical characteristic wide range shell helix spirula henry nottidge moseley described mathematics univalve shells
+darcy wentworth thompson's growth form give extensive treatment spirals
+describes shell formed rotating closed curve around fixed axis shape curve remains fixed size grows geometric progression
+shell nautilus ammonite generating curve revolves plane perpendicular axis shell form planar discoid shape
+thompson also studied spiral occurring horn teeth claw plants
+model pattern floret head sunflower wa proposed h
+n index number floret c constant scaling factor form fermat's spiral
+angle golden angle related golden ratio give close packing florets
+spiral like form ha found mezine ukraine part decorative object dated bce
+spiral triple spiral motif neolithic symbol europe megalithic temple malta
+carved rock stone lozenge near main entrance prehistoric newgrange monument county meath ireland
+newgrange wa built around bce predating celt triple spiral carved least year celt reached ireland ha long since incorporated celtic culture
+triskelion symbol consisting three interlocked spiral three bent human leg appears many early culture including mycenaean vessel coinage lycia stater pamphylia aspendos bc pisidia well heraldic emblem warriors' shield depicted greek pottery
+spiral found throughout pre-columbian art latin central america
+petroglyph rock engraving la plazuelas guanajuato mexico dating ad predominantly depict spiral dot figure scale models
+colombia monkey frog lizard like figure depicted petroglyph gold offering figure frequently includes spiral example palm hands
+lower central america spiral along circle wavy line cross point universal petroglyph characters
+spiral also found among nazca line coastal desert peru dating bc ad
+geoglyphs number thousand depict animal plant geometric motif including spirals
+spiral shape including swastika triskele etc often interpreted solar symbols
+roof tile dating back tang dynasty symbol found west ancient city chang'an modern-day xi'an
+spiral also symbol hypnosis stemming clich people cartoon character hypnotized staring spinning spiral one example kaa disney's jungle book
+also used symbol dizziness eye cartoon character especially anime manga turn spiral show dizzy dazed
+spiral also found structure small double helix dna large galaxy
+frequent natural occurrence spiral official symbol world pantheist movement
+among famous spiral-inspired art robert smithson's earthwork spiral jetty great salt lake utah
+spiral theme also present david wood's spiral resonance field balloon museum albuquerque well critically acclaimed nine inch nail concept album downward spiral
+spiral also prominent theme anime gurren lagann represents philosophy way life
+spiral central theme horror manga uzumaki junji ito small coastal town afflicted curse involving spirals
+piece mind wayne beale also depicts large spiral book dream images
+coiled spiral central image australian artist tanja stark's suburban gothic iconography incorporates spiral electric stove top element symbol domestic alchemy spirituality
+fair cubic transition two circle one circle inside tangent other
+magnetic curve curvature-controlled aesthetic curve using magnetic fields
+wang yulin zhao bingyan zhang luzou xu jiachuan wang kanchang wang shuchun
+applying inversion construct planar rational spiral satisfy two-point g hermite data
+use cornu spiral drawing planar curve controlled curvature
+analytic parametric equation log-aesthetic curve term incomplete gamma functions
+fitting g multispiral transition curve joining two straight line computer-aided design
+family superspirals completely monotonic curvature given term gauss hypergeometric function

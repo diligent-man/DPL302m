@@ -1,0 +1,30 @@
+avant browser freeware web browser chinese programmer named anderson che unites trident layout engine built window see internet explorer shell interface intended feature-rich flexible ergonomic microsoft's internet explorer ie
+version released october wa separated two edition ultimate edition added gecko layout engine used mozilla firefox allowing user choose layout engine lite edition contains trident layout engine
+avant browser wa largely inspired opera first major browser multiple document interface
+developer's objective wa wrap comparable interface around layout engine used internet explorer thereby achieving opera-like ergonomics without suffering frequent problem browser rendering page tested internet explorer
+fact wa initially released name ieopera though wa soon changed due trademark concerns
+later avant's developer anderson che ha concentrated adding user-requested feature avant wa among first browser popup blocking advertising server blocking one-click disabling potential security vulnerability activex java javascript
+avant browser's default search engine version yahoo search engine renamed avantfind given custom look
+search engine available via address bar's quick search facility instruction change default engine user's choice posted active avant browser user community
+community ha also created tool extension avant including registry file allow use information bar security enhancement window xp sp
+developer also used sister project known orca browser avant-like shell mozilla's gecko layout engine used firefox using similar approach flock
+gecko layout engine wa included avant browser version ultimate edition alongside traditional trident layout engine
+avant wa one twelve browser offered european economic area user microsoft window in
+avant browser build released january includes support many toolbars compatible internet explorer facility user create scripted toolbar button password form-filling wizard
+native bookmark system wa also added n place sharing internet explorer's favorites
+bookmark may stored online feed autofills browser settings
+allows user synchronize number avant installation different computers
+another innovation avant may run usb flash drive portable storage device mp player without needing installed
+conjunction avant's session saving facility allows user halt browsing session one pc move another resume viewing web pages
+avant browser ultimate edition build released october added gecko layout engine rendering engine used mozilla firefox recent release build released april also included webkit layout engine rendering engine used safari making avant browser three-engine browser
+multiple home pagescompatible many internet explorer toolbars add-in including google toolbar
+highlight marker find keywords page word also used search engine
+url alias facility create keyboard shortcut favorite sites
+tray icon keep avant running system tray fast access optional
+context-activated floating toolbars save edit image text flash
+button menu optionalpush-button quick blocking unwanted item popups advert activex java script flash video sound images
+window xp service pack security extension integratedsearch bar separate engine configurable web image group directory news
+search within site search within page target word highlight buttons
+quick search facility user configure engine search address bar
+similar website toolbar search background page relate currentonline secure bookmark feed setting storage allows access browser setup anywhere
+portable flash drive version allows running avant without installation

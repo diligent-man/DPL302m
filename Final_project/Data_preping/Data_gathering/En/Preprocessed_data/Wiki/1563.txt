@@ -1,0 +1,100 @@
+statistic originally geostatistics kriging kriging also known gaussian process regression method interpolation based gaussian process governed prior covariances
+suitable assumption prior kriging give best linear unbiased prediction blup unsampled locations
+interpolating method based criterion smoothness eg smoothing spline may yield blup
+method widely used domain spatial analysis computer experiments
+technique also known wiener-kolmogorov prediction norbert wiener andrey kolmogorov
+theoretical basis method wa developed french mathematician george matheron based master's thesis danie g
+krige pioneering plotter distance-weighted average gold grade witwatersrand reef complex south africa
+krige sought estimate likely distribution gold based sample boreholes
+english verb krige common noun kriging often pronounced hard g following anglicized pronunciation name krige
+though computationally intensive basic formulation kriging scaled larger problem using various approximation methods
+kriging predicts value function given point computing weighted average known value function neighborhood point
+theory derive best linear unbiased estimator based assumption covariance make use gauss-markov theorem prove independence estimate error use similar formulae
+even useful different framework kriging made estimation single realization random field regression model based multiple observation multivariate data set
+kriging estimation may also seen spline reproducing kernel hilbert space reproducing kernel given covariance function
+difference classical kriging approach provided interpretation spline motivated minimum-norm interpolation based hilbert-space structure kriging motivated expected squared prediction error based stochastic model
+kriging polynomial trend surface mathematically identical generalized least square polynomial curve fitting
+sample function normally distributed covariance two sample covariance function kernel gaussian process evaluated spatial location two points
+new value predicted new spatial location combining gaussian prior gaussian likelihood function observed values
+resulting posterior distribution also gaussian mean covariance simply computed observed value variance kernel matrix derived prior
+geostatistical model sampled data interpreted result random process
+fact model incorporate uncertainty conceptualization mean phenomenon forest aquifer mineral deposit ha resulted random process rather allows one build methodological basis spatial inference quantity unobserved location quantify uncertainty associated estimator
+stochastic process context model simply way approach set data collected samples
+first step geostatistical modulation create random process best describes set observed data
+set random variable constitutes random function one realization known set
+one realization random variable theoretically impossible determine statistical parameter individual variable function
+proposed solution geostatistical formalism consists assuming various degree stationarity random function order make inference statistic value possible
+random variable mean one assuming mean estimated arithmetic mean sampled values
+hypothesis stationarity related second moment defined following way correlation two random variable solely depends spatial distance independent location
+displaystyle cbig zxzxbig cbig zxizximathbf h big ch
+displaystyle gamma big zxzxbig gamma big zxizximathbf h big gamma h
+hypothesis allows one infer two measure variogram covariogram
+displaystyle chfrac nhsum ijin nhbig zxi-mhbig big zxj-mhbig
+displaystyle hat zxbeginbmatrixwwcdots wnendbmatrixcdot beginbmatrixzzvdots znendbmatrixsum inwixtimes zxi
+intended summarize two extremely important procedure spatial inference process
+time desegregation effect order avoid bias caused eventual sample clusterswhen calculating weights
+two objective geostatistical formalism unbias minimal variance estimation
+criterion global unbias intrinsic stationarity wide sense stationarity field implies mean estimation must equal mean real values
+must minimal mean cloud estimated value versus cloud real value disperse estimator imprecise
+depending stochastic property random field various degree stationarity assumed different method calculating weight deduced ie
+ordinary kriging assumes constant unknown mean search neighborhood of
+simple kriging assumes stationarity first moment entire domain known mean
+universal kriging assumes general polynomial trend model linear trend model
+indicator kriging us indicator function instead process order estimate transition probabilities
+multiple-indicator kriging version indicator kriging working family indicators
+initially mik showed considerable promise new method could accurately estimate overall global mineral deposit concentration grades
+however benefit outweighed inherent problem practicality modelling due inherently large block size used also lack mining scale resolution
+conditional simulation fast becoming accepted replacement technique case
+latent kriging assumes various krigings latent level second stage nonlinear mixed-effects model produce spatial functional prediction
+co-kriging denotes joint kriging data multiple source relationship different data sources
+bayesian kriging departs optimization unknown coefficient hyperparameters understood maximum likelihood estimate bayesian perspective
+instead coefficient hyperparameters estimated expectation valuesan advantage bayesian kriging allows quantify evidence uncertainty kriging emulator
+emulator employed propagate uncertainty quality kriging emulator assessed comparing emulator uncertainty total uncertainty see also bayesian polynomial chaos
+order deduce kriging system assumption model following error committed estimating
+displaystyle epsilon xhat zx zxbeginbmatrixwt-endbmatrixcdot beginbmatrixzxcdots zxnzxendbmatrixtsum inwixtimes zxi-zx
+two quality criterion referred previously expressed term mean variance new random variable
+displaystyle leftrightarrow msum inwix mleftrightarrow sum inwixleftrightarrow mathbf tcdot w
+order ensure model unbiased weight must sum one
+displaystyle beginalignedoperatorname var epsilon xoperatorname var leftbeginbmatrixwt-endbmatrixcdot beginbmatrixzxcdots zxnzxendbmatrixtrightbeginbmatrixwt-endbmatrixcdot operatorname var leftbeginbmatrixzxcdots zxnzxendbmatrixtrightcdot beginbmatrixw-endbmatrixendaligned
+displaystyle operatorname var epsilon xbeginbmatrixwt-endbmatrixcdot beginbmatrixoperatorname var xioperatorname cov xixoperatorname cov xixtoperatorname var xendbmatrixcdot beginbmatrixw-endbmatrix
+displaystyle leftoperatorname var xioperatorname var xoperatorname cov xixright
+displaystyle leftoperatorname var leftbeginbmatrixzxcdots zxnendbmatrixtrightoperatorname var big zxbig operatorname cov leftbeginbmatrixzxcdots zxnendbmatrixtzxrightright
+write expression estimation variance estimator function covariance sample covariance sample point estimate
+displaystyle begincasesoperatorname var big epsilon xbig wtcdot operatorname var xicdot w-operatorname cov xixtcdot w-wtcdot operatorname cov xixoperatorname var xoperatorname var big epsilon xbig operatorname cov sum isum jwiwjoperatorname cov xixj-sum iwicxixendcases
+quantifiable linear estimator stationarity mean spatial covariance variograms assumed
+doe depend value sample mean spatial configuration geometrical relation sample point estimate always reproduces estimation variance part area
+way variance doe measure uncertainty estimation produced local variablesystem equations
+displaystyle wunderset mathbf tcdot woperatorname argmin leftwtcdot operatorname var xicdot w-operatorname cov xixtcdot w-wtcdot operatorname cov xixoperatorname var xright
+solving optimization problem see lagrange multiplier result kriging system
+displaystyle beginbmatrixhat wmu endbmatrixbeginbmatrixoperatorname var ximathbf mathbf tendbmatrix-cdot beginbmatrixoperatorname cov xixendbmatrixbeginbmatrixgamma xxcdots gamma xxnvdots ddots vdots vdots gamma xnxcdots gamma xnxncdots endbmatrix-beginbmatrixgamma xxvdots gamma xnxendbmatrix
+assumes expectation random field known relies covariance function
+covariance function crucial design choice since stipulates property gaussian process thereby behaviour model
+covariance function encodes information instance smoothness periodicity reflected estimate produced
+common covariance function squared exponential heavily favour smooth function estimates
+reason produce poor estimate many real-world application especially true underlying function contains discontinuity rapid changes
+system equationsthe kriging weight simple kriging unbiasedness condition given simple kriging equation system
+displaystyle beginpmatrixwvdots wnendpmatrixbeginpmatrixcxxcdots cxxnvdots ddots vdots cxnxcdots cxnxnendpmatrix-beginpmatrixcxxvdots cxnxendpmatrix
+displaystyle hat zxbeginpmatrixzvdots znendpmatrix'beginpmatrixcxxcdots cxxnvdots ddots vdots cxnxcdots cxnxnendpmatrix-beginpmatrixcxxvdots cxnxendpmatrix
+displaystyle operatorname var big hat zx zxbig underbrace cxx operatorname var big zxbig underbrace beginpmatrixcxxvdots cxnxendpmatrix'beginpmatrixcxxcdots cxxnvdots ddots vdots cxnxcdots cxnxnendpmatrix-beginpmatrixcxxvdots cxnxendpmatrix operatorname var big hat zxbig
+lead generalised least-squares version gauss-markov theorem chile delfiner p
+displaystyle operatorname var big zxbig operatorname var big hat zxbig operatorname var big hat zx zxbig
+case spatial dependence kriging interpolation good arithmetic mean
+however measure relies correctness variogramalthough kriging wa developed originally application geostatistics general method statistical interpolation applied within discipline sampled data random field satisfy appropriate mathematical assumptions
+used spatially related data ha collected estimate fill-in data desired location spatial gap actual measurements
+date kriging ha used variety discipline including following
+prediction oil production curve shale oil wellsanother important rapidly growing field application engineering interpolation data coming response variable deterministic computer simulation eg
+many practical engineering problem design metal forming process single fem simulation might several hour even day long
+therefore efficient design run limited number computer simulation use kriging interpolator rapidly predict response design point
+kriging therefore used often so-called surrogate model implemented inside optimization routines
+p geomathematics mathematical background geo-science application elsevier scientific publishing company amsterdam
+g statistical approach mine valuation allied problem witwatersrand master's thesis university witwatersrand
+experimental design trend-surface analsysis geostatistics colloquium plenum press new york
+editor geostatistics colloquium plenum press new york abramowitz stegun i
+delfiner geostatistics modeling spatial uncertainty wiley series probability statistics
+handbook applied advanced geostatistical ore reserve estimation elsevier scientific publishing
+gslib geostatistical software library user's guide oxford university press new york pp
+geostatistics natural resource evaluation oxford university press new york
+introduction applied geostatistics oxford university press new york pp
+fundamental geostatistics five lesson american geophysical union washington dc
+interpolation kriging numerical recipe art scientific computing rd ed new york cambridge university press
+statistical interpolation spatial data theory kriging springer new york

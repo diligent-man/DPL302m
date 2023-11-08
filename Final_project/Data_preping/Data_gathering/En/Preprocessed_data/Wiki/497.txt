@@ -1,0 +1,96 @@
+resistive random-access memory reram rram type non-volatile nv random-access ram computer memory work changing resistance across dielectric solid-state material often referred memristor
+reram bear similarity conductive-bridging ram cbram phase-change memory pcm
+cbram involves one electrode providing ion dissolve readily electrolyte material pcm involves generating sufficient joule heating effect amorphous-to-crystalline crystalline-to-amorphous phase changes
+contrast reram involves generating defect thin oxide layer known oxygen vacancy oxide bond location oxygen ha removed subsequently charge drift electric field
+motion oxygen ion vacancy oxide would analogous motion electron hole semiconductor
+although reram wa initially seen replacement technology flash memory cost performance benefit reram enough company proceed replacement
+however discovery popular high- gate dielectric hfo used low-voltage reram ha encouraged researcher investigate possibilities
+rram registered trademark name sharp corporation japanese electronic component manufacturer country including member european union
+early rerams development number company filed patent application claiming various implementation technology
+reram ha entered commercialization initially limited kb-capacity scale
+february rambus bought reram company called unity semiconductor million
+panasonic launched reram evaluation kit may based tantalum oxide tr transistor resistor memory cell architecture
+crossbar introduced reram prototype chip size postage stamp could store tb data
+august company claimed large-scale production reram chip wa scheduled for
+also hewlett-packard demonstrated memristor-based reram wafer predicted tb ssds based technology could available pb capacity available time stop growth nand flash capacities
+different form reram disclosed based different dielectric material spanning perovskites transition metal oxide chalcogenides
+silicon dioxide wa shown exhibit resistive switching early may ha recently revisited
+thin-film resistive memory array wa first proposed member university nebraska-lincoln
+work new thin-film resistive memory wa reported jg
+member atomic energy research establishment university leeds attempted explain mechanism theoretically
+may research team university florida honeywell reported manufacturing method magneto-resistive random access memory utilizing electron cyclotron resonance plasma etching
+leon chua argued two-terminal non-volatile memory device including reram considered memristors
+stan williams hp lab also argued reram wa memristor
+however others challenged terminology applicability memristor theory physically realizable device open question
+whether redox-based resistively switching element reram covered current memristor theory disputed
+two distinct mode intrinsic switching reported surface-based conductive silicon filament generated exposed edge may internalwithin poresor externalon surface mesa structure bulk switching oxygen vacancy filament generated within bulk oxide
+former mode suffers oxidation filament air requiring hermetic sealing enable switching
+researcher rice university announced silicon filament-based device used porous silicon oxide dielectric external edge structure rather filament formed internal edge within pores
+device manufactured room temperature sub-v forming voltage high on-off ratio low power consumption nine-bit capacity per cell high switching speed good endurance
+bulk switching silicon oxide pioneered researcher ucl university college london since offer low electroforming voltage v switching voltage around v switching time nanosecond regime cycle without device failure ambient conditions
+basic idea dielectric normally insulating made conduct filament conduction path formed application sufficiently high voltage
+conduction path arise different mechanism including vacancy metal defect migration
+filament formed may reset broken resulting high resistance set re-formed resulting lower resistance another voltage
+many current path rather single filament possibly involved
+presence current path dielectric situ demonstrated via conductive atomic force microscopy
+effect occur either throughout entire distance electrode proximity one electrodes
+filamentary homogenous switching effect distinguished measuring area dependence low-resistance state
+expected condition initial current already quite high compared insulating oxide layers
+cbram cell generally would require forming cu ion already present electrolyte already driven-in designed photo-diffusion annealing process cell may also readily return initial state
+absence cu initially electrolyte voltage would still applied directly electrolyte forming would strong possibility
+random-access type memory tr one transistor one resistor architecture preferred transistor isolates current cell selected cell not
+hand cross-point architecture compact may enable vertically stacking memory layer ideally suited mass-storage devices
+however absence transistor isolation must provided selector device diode series memory element memory element itself
+isolation capability inferior use transistor onoff ratio selector sufficient limiting ability operate large array architecture
+thin film based threshold switch work selector bipolar unipolar reram
+cross-point architecture requires beol compatible two terminal selector like punch-through diode bipolar reram pin diode unipolar reram
+bipolar effect cause polarity reverse switching low high resistance reset operation compared switching high low set operation
+unipolar switching leaf polarity unaffected us different voltages
+multiple inorganic organic material system display thermal ionic resistive switching effects
+two dimensional layered insulating material like hexagonal boron nitridepapers iedm conference suggested first time reram exhibit lower programming current pram mram without sacrificing programming performance retention endurance
+iedm highest-performance reram technology date wa demonstrated itri using hfo ti buffer layer showing switching time le n current le a
+iedm itri broke speed record showing n switching time also showing process operation improvement allow yield endurance billion cycles
+imec presented update reram program symposium vlsi technology circuit including solution na operating current
+itri focused tihfo system since first publication in
+itri's patent ha since sold tsmc number prior licensee unknown
+winbond done recent work toward advancing commercializing hfo based reram
+key requirement wa need high work function metal pt ir interface taox layer
+change content result resistance change well schottky barrier change
+recently taotaox layer wa implemented still requires high work function metal interface tao
+system ha associated high endurance demonstration trillion cycle product specified k cycles
+panasonic released mb part fujitsu developing nm embedded memory umc
+april hp announced discovered memristor originally envisioned missing fundamental circuit element chua in
+july announced would begin prototyping reram using memristors
+hp first demonstrated memristor using tiox later migrated taox possibly due improved stability
+taox-based device ha material similarity panasonic's reram operation characteristic different
+adesto technology reram based filament generated electrode metal rather oxygen vacancies
+original material system wa agges eventually migrated zrtealo
+adesto ha targeted ultralow power memory internet-of-things iot applications
+adesto ha released product manufactured altis foundry entered nm foundry agreement towerjazzpanasonic
+weebit nano ha working cea-leti one largest nanotechnology research institute europe reram technology
+beginning november company ha demonstrated manufacturability nm siox reram cell followed demonstration working array discrete component in
+september weebit together leti produced tested characterized mb reram array using nm fdsoi process mm wafers
+crossbar implement ag filament amorphous si along threshold switching system achieve diodereram
+crossbar started producing sample smic nm process in
+ag filament diameter ha visualized scale ten nanometers
+infineon technology call conductive-bridging ramcbram nec ha variant called nanobridge sony call version electrolytic memory
+quantum dot based non-volatile resistive memory device switching speed n onoff ratio of
+memory operating mechanism proposed based charge trapping quantum dot alox acting barrier
+panasonic aml-stk mnlrd bit mcu built reram evaluation usb connectorcompared pram reram operates faster timescale switching time le n compared mram ha simpler smaller cell structure le f mim stack
+vertical dr one diode one resistive switching device integration used crossbar memory structure reduce unit cell size f f feature dimension
+compared flash memory racetrack memory lower voltage sufficient hence used low-power applications
+motion oxygen atom key phenomenon oxide-based reram one study indicated oxygen motion may take place region small nm
+believed filament responsible would exhibit direct scaling cell size
+instead current compliance limit set outside resistor example could define current-carrying capacity filament
+significant hurdle realizing potential reram sneak path problem occurs larger passive arrays
+complementary resistive switching cr wa introduced possible solution sneak-path current interference
+cr approach information storing state pair high- low-resistance state hrslrs lrshrs overall resistance always high allowing larger passive crossbar arrays
+drawback initial cr solution requirement switching endurance caused conventional destructive readout based current measurements
+new approach nondestructive readout based capacity measurement potentially lower requirement material endurance power consumption
+bi-layer structure used produce nonlinearity lr avoid sneak path problem
+single-layer device exhibiting strong nonlinear conduction lr wa reported
+another bi-layer structure wa introduced bipolar reram improve hr stability
+another solution sneak current issue perform read reset operation parallel across entire row cell using set selected cells
+case d-reram tnr array column n reram cell situated select transistor intrinsic nonlinearity hr required sufficiently large since number vertical level n limited eg n ha shown possible low-current reram system
+modeling cache designed reram non-volatile random access memory mram pcm done using destiny tool
+increasing computational demand necessary many improvement artificial intelligence led many speculate reram implementation could extremely useful hardware running artificial intelligence machine learning applicatio

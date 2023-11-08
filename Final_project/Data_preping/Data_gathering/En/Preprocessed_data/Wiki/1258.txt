@@ -1,0 +1,113 @@
+net present value npv net present worth npw applies series cash flow occurring different times
+present value cash flow depends interval time cash flow
+provides method evaluating comparing capital project financial product cash flow spread time loan investment payouts insurance contract plus many applications
+time value money dictate time affect value cash flows
+example lender may offer cent promise receiving month promise receive dollar year future would worth much le today person lender even payback case wa equally certain
+decrease current value future cash flow based chosen rate return discount rate
+example exists time series identical cash flow cash flow present valuable future cash flow becoming le valuable previous cash flow
+cash flow today valuable identical cash flow future present flow invested immediately begin earning return future flow cannot
+npv determined calculating cost negative cash flow benefit positive cash flow period investment
+cash flow period calculated present value pv one achieved discounting future value see formula periodic rate return rate return dictated market
+simplicity npv useful tool determine whether project investment result net profit loss
+positive npv result profit negative npv result loss
+npv measure excess shortfall cash flow present value term cost funds
+theoretical situation unlimited capital budgeting company pursue every investment positive npv
+however practical term company's capital constraint limit investment project highest npv whose cost cash flow initial cash investment exceed company's capital
+npv central tool discounted cash flow dcf analysis standard method using time value money appraise long-term projects
+widely used throughout economics financial analysis financial accounting
+case future cash flow positive incoming principal coupon payment bond outflow cash purchase price npv simply pv future cash flow minus purchase price pv
+npv described difference amount sum discounted cash inflow cash outflows
+compare present value money today present value money future taking inflation return account
+npv sequence cash flow take input cash flow discount rate discount curve output present value current fair price
+converse process discounted cash flow dcf analysis take sequence cash flow price input output discount rate internal rate return irr would yield given price npv
+many computer-based spreadsheet program built-in formula pv npv
+return could earned per unit time investment similar risk
+commonly placed left sum emphasize role minus investmentthe result formula multiplied annual net cash in-flows reduced initial cash outlay present value case cash flow equal amount previous formula used determine present value cash flow separately
+cash flow within month discounted npv purpose nevertheless usual initial investment first year r summed negative cash flow
+displaystyle mathrm npv inrrleftfrac leftfrac irightn leftfrac irightrightquad ineq
+cashflow initial investment positive future cashflows return investment
+key assessment whether given discount rate npv positive profitable negative loss-making
+rate used discount future cash flow present value key variable process
+firm's weighted average cost capital tax often used many people believe appropriate use higher discount rate adjust risk opportunity cost factors
+variable discount rate higher rate applied cash flow occurring along time span might used reflect yield curve premium long-term debt
+another approach choosing discount rate factor decide rate capital needed project could return invested alternative venture
+example capital required project earn elsewhere use discount rate npv calculation allow direct comparison made project alternative
+re-investment rate defined rate return firm's investment average
+analyzing project capital constrained environment may appropriate use reinvestment rate rather firm's weighted average cost capital discount factor
+reflects opportunity cost investment rather possibly lower cost capital
+npv calculated using variable discount rate known duration investment may better reflect situation one calculated constant discount rate entire investment duration
+refer tutorial article written samuel baker detailed relationship npv discount rate
+professional investor investment fund committed target specified rate return
+case rate return selected discount rate npv calculation
+way direct comparison made profitability project desired rate return
+intent simply determine whether project add value company using firm's weighted average cost capital may appropriate
+trying decide alternative investment order maximize value firm corporate reinvestment rate would probably better choice
+using variable rate time discounting guaranteed cash flow differently risk cash flow may superior methodology seldom used practice
+using discount rate adjust risk often difficult practice especially internationally difficult well
+alternative using discount factor adjust risk explicitly correct cash flow risk element using rnpv similar method discount firm's rate
+npv indicator much value investment project add firm
+positive value project status positive cash inflow time t
+negative value project status discounted cash outflow time t
+doe necessarily mean undertaken since npv cost capital may account opportunity cost ie comparison available investments
+financial theory choice two mutually exclusive alternative one yielding higher npv selected
+positive net present value indicates projected earnings generated project investment present dollar exceeds anticipated cost also present dollars
+concept basis net present value rule dictate investment made positive npvs
+investment positive npv profitable one negative npv necessarily result net loss internal rate return project fall required rate return
+indicator project investment npv ha several advantage disadvantage decision-making
+consideration time value money allows npv include relevant time cash flow project
+idea consistent goal wealth maximization creating highest wealth shareholders
+beyond cash flow timing pattern size difference project provide easy comparison different investment optionshowever npv method also come many disadvantages
+first consideration hidden cost project size part npv approach
+thus investment decision project substantial hidden cost may accurate
+second place npv accurate input number perfectly correct given fact npv requires firm knowledge accurate discount rate timing size cash flows
+accuracy npv relies heavily rationality choice discount factor representing investment's true risk premiumtherefore optimal configuration established npv creates lot diversifications
+outcome npv presented maximum profitability project along lowest levelized cost investment cost whereas ranking npv investment project display lack consideration project size cost capital
+moreover issue related inherent conceptual assumption also one disadvantages
+addition difficulty comparing mutually exclusive project different investment horizon exhibited
+since unequal project assumed duplicate investment horizon npv approach used compare optimal duration npv
+synthesizing relevant advantage disadvantage npv approach provides optimal result combination investment project constrained budget provided based capital rationing situation
+rt rate flowing cash given money per time rt investment overnet present value regarded laplace- respectively z-transformed cash flow integral operator including complex number resembles interest rate real number space precisely ln i
+follow simplification known cybernetics control theory system dynamics
+imaginary part complex number describe oscillating behaviour compare pork cycle cobweb theorem phase shift commodity price supply offer whereas real part responsible representing effect compound interest compare damping
+corporation must decide whether introduce new product line
+recall cost negative outgoing cash flow thus cash flow represented as
+company assumes product provide equal benefit year beginning t
+simplicity assume company outgoing cash flow initial cost
+also make simplifying assumption net cash received paid lumped single transaction occurring last day year
+end year product longer provides cash flow discontinued without additional costs
+total present value outgoing cash flow simply time t
+example final incoming cash flow ha future value ha present value of
+taking example reverse equivalent investing present value interest rate compounded year result cash flow future value
+although incoming cash flow appear exceed outgoing cash flow future cash flow adjusted using discount rate
+cash flow discounted however indicates project would result net loss of
+thus npv calculation indicates project disregarded investing project equivalent loss t
+concept time value money indicates cash flow different period time cannot accurately compared unless adjusted reflect value period time instance t
+present value future cash flow must determined order provide meaningful comparison cash flow different period time
+investment horizon possible investment project considered equally acceptable investor eg
+discount rate appropriate stable rate discount expected cash flow project considered
+shareholder cannot get return money directly assume equivalent level risk
+investor could better elsewhere project undertaken firm excess capital turned shareholder dividend stock repurchasesmore realistic problem would also need consider factor generally including smaller time bucket calculation tax including cash flow timing inflation currency exchange fluctuation hedged unhedged commodity cost
+simple example net present value incoming cash flow set period time would winning powerball lottery million
+one doe select cash option paid per year year total however one doe select cash option receive one-time lump sum payment approximately million npv paid time
+example rt generally negative late project eg industrial mining project might clean-up restoration cost stage company owes money high discount rate cautious optimistic
+way avoid problem include explicit provision financing loss initial investment explicitly calculate cost financing losses
+another common pitfall adjust risk adding premium discount rate
+whilst bank might charge higher rate interest risky project doe mean valid approach adjusting net present value risk although reasonable approximation specific cases
+one reason approach may work well seen following risk incurred resulting loss discount rate npv reduce effect loss true financial cost
+rigorous approach risk requires identifying valuing risk explicitly eg actuarial monte carlo technique explicitly calculating cost financing loss incurred
+result future cash flow discounted risk-free rate well risk premium effect compounded subsequent cash flow
+compounding result much lower npv might otherwise calculated
+certainty equivalent model used account risk premium without compounding effect present value
+another issue relying npv doe provide overall picture gain loss executing certain project
+see percentage gain relative investment project usually internal rate return efficiency measure used complement npv
+non-specialist user frequently make error computing npv based cash flow interest
+free cash flow used basis npv computationsnet present value valuation methodology date least century
+karl marx refers npv fictitious capital calculation capitalising writing
+mainstream neo-classical economics npv wa formalized popularized irving fisher rate interest became included textbook onwards starting finance texts
+adjusted present value apv adjusted present value net present value project financed solely ownership equity plus present value benefit financing
+accounting rate return arr ratio similar irr mirr
+internal rate return irr calculates rate return project disregarding absolute amount money gained
+modified internal rate return mirr similar irr make explicit assumption reinvestment cash flows
+payback period measure time required cash inflow equal original outlay
+real option attempt value managerial flexibility assumed away npv
+equivalent annual cost eac capital budgeting technique useful comparing two project different lifespansprofitability inde

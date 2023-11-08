@@ -1,0 +1,127 @@
+calculus variation field mathematical analysis us variation small change functions
+functionals find maximum minimum functionals mapping set function real numbers
+functionals often expressed definite integral involving function derivatives
+function maximize minimize functionals may found using euler-lagrange equation calculus variations
+simple example problem find curve shortest length connecting two points
+however curve constrained lie surface space solution le obvious possibly many solution may exist
+related problem posed fermat's principle light follows path shortest optical length connecting two point depends upon material medium
+solution boundary value problem laplace equation satisfy dirichlet's principle
+plateau's problem requires finding surface minimal area span given contour space solution often found dipping frame solution soap suds
+although experiment relatively easy perform mathematical interpretation far simple may one locally minimizing surface may non-trivial topology
+calculus variation may said begin newton's minimal resistance problem followed brachistochrone curve problem raised johann bernoulli
+immediately occupied attention jakob bernoulli marquis de l'hpital leonhard euler first elaborated subject beginning in
+lagrange wa influenced euler's work contribute significantly theory
+euler saw work year-old lagrange euler dropped partly geometric approach favor lagrange's purely analytic approach renamed subject calculus variation lecture elementa calculus variationum
+legendre laid method entirely satisfactory discrimination maximum minima
+isaac newton gottfried leibniz also gave early attention subject
+discrimination vincenzo brunacci carl friedrich gauss simon poisson mikhail ostrogradsky carl jacobi among contributors
+important general work sarrus wa condensed improved cauchy
+valuable treatise memoir written strauch jellett otto hesse alfred clebsch lewis buffett carll perhaps important work century weierstrass
+celebrated course theory epoch-making may asserted wa first place firm unquestionable foundation
+century david hilbert oskar bolza gilbert ames bliss emmy noether leonida tonelli henri lebesgue jacques hadamard among others made significant contributions
+marston morse applied calculus variation called morse theory
+clarke developed new mathematical tool calculus variation optimal control theory
+calculus variation concerned maximum minimum collectively called extremum functionals
+functional map function scalar functionals described function function functionals extremum respect elements
+function space continuous function extremum corresponding functionals called strong extremum weak extremum depending whether first derivative continuous function respectively continuous not
+strong weak extremum functionals space continuous function strong extremum additional requirement first derivative function space continuous
+thus strong extremum also weak extremum converse may hold
+example necessary condition used finding weak extremum euler-lagrange equation
+finding extremum functionals similar finding maximum minimum functions
+maximum minimum function may located finding point derivative vanishes ie equal zero
+extremum functionals may obtained finding function functional derivative equal zero
+arbitrary function ha least one derivative vanishes endpoints
+displaystyle phi 'equiv leftfrac dphi dvarepsilon rightvarepsilon int xxleftfrac dldvarepsilon rightvarepsilon dx
+displaystyle frac dldvarepsilon frac partial lpartial yfrac dydvarepsilon frac partial lpartial y'frac dy'dvarepsilon
+displaystyle frac dldvarepsilon frac partial lpartial yeta frac partial lpartial y'eta '
+displaystyle beginalignedint xxleftfrac dldvarepsilon rightvarepsilon dxint xxleftfrac partial lpartial feta frac partial lpartial f'eta 'rightdxint xxfrac partial lpartial feta dxleftfrac partial lpartial f'eta rightxx int xxeta frac ddxfrac partial lpartial f'dxint xxleftfrac partial lpartial feta eta frac ddxfrac partial lpartial
+also previously mentioned left side equation zero that
+displaystyle int xxeta xleftfrac partial lpartial f-frac ddxfrac partial lpartial f'rightdx
+according fundamental lemma calculus variation part integrand parenthesis zero ie
+displaystyle frac partial lpartial f-frac ddxfrac partial lpartial f'
+left hand side equation called functional derivative of
+general give second-order ordinary differential equation solved obtain extremal function
+sufficient condition minimum given section variation sufficient condition minimum
+order illustrate process consider problem finding extremal function
+note assuming function x loses generality ideally function parameter
+displaystyle frac partial lpartial f-frac ddxfrac partial lpartial f'
+displaystyle fxmxbqquad textwith mfrac yx xquad textandquad bfrac xy xyx x
+case quantity hamiltonian legendre transform lagrangian often coincides energy system
+displaystyle frac partial fpartial y-frac ddxleftfrac partial fpartial y'rightdots nfrac dndxnleftfrac partial fpartial ynright
+discussion thus far ha assumed extremal function posse two continuous derivative although existence integral
+condition first variation vanishes extremal may regarded weak form euler-lagrange equation
+theorem du bois-reymond asserts weak form implies strong form
+ha continuous first second derivative respect argument if
+hilbert wa first give good condition euler-lagrange equation give stationary solution
+within convex area positive thrice differentiable lagrangian solution composed countable collection section either go along boundary satisfy euler-lagrange equation interior
+however lavrentiev showed circumstance optimum solution one approached arbitrarily closely increasing number sections
+lavrentiev phenomenon identifies difference infimum minimization problem across different class admissible functions
+ball mizel procured first functional displayed lavrentiev's phenomenon across
+several result give criterion phenomenon doe occur instance 'standard growth' lagrangian dependence second variable approximating sequence satisfying cesari's condition result often particular applicable small class functionals
+connected lavrentiev phenomenon repulsion property functional displaying lavrentiev's phenomenon display weak repulsion property
+displaystyle uvarphi iint dsqrt nabla varphi cdot nabla varphi dxdy
+plateau's problem consists finding function minimizes surface area assuming prescribed value boundary of
+displaystyle varphi xxvarphi yvarphi yyvarphi x varphi xvarphi yvarphi xy
+often sufficient consider small displacement membrane whose energy difference displacement approximated by
+displaystyle vvarphi frac iint dnabla varphi cdot nabla varphi dxdy
+displaystyle leftfrac ddvarepsilon vuvarepsilon vrightvarepsilon iint dnabla ucdot nabla vdxdy
+provided u ha two derivative may apply divergence theorem obtain
+displaystyle iint dnabla cdot vnabla udxdyiint dnabla ucdot nabla vvnabla cdot nabla udxdyint cvfrac partial upartial nds
+proof case one dimensional integral may adapted case show that
+difficulty reasoning assumption minimizing function u must two derivatives
+riemann argued existence smooth minimizing function wa assured connection physical problem membrane indeed assume configuration minimal potential energy
+riemann named idea dirichlet principle honor teacher peter gustav lejeune dirichlet
+however weierstrass gave example variational problem solution minimize
+made arbitrarily small choosing piecewise linear function make transition small neighborhood origin
+eventually wa shown dirichlet's principle valid requires sophisticated application regularity theory elliptic partial differential equation see jost li-jost
+displaystyle vvarphi iint dleftfrac nabla varphi cdot nabla varphi fxyvarphi rightdxdyint cleftfrac sigma svarphi gsvarphi rightds
+function minimizes potential energy restriction boundary value denoted by
+taking first variation boundary condition need imposed increment
+displaystyle iint dleftnabla ucdot nabla vfvrightdxdyint cleftsigma uvgvrightds
+displaystyle iint dleft-vnabla cdot nabla uvfrightdxdyint cvleftfrac partial upartial nsigma ugrightds
+force equilibrium variational problem ha solution unique since arbitrary constant may added
+variational characterization eigenvalue lead rayleigh-ritz method choose approximating
+linear combination basis function example trigonometric function carry finite-dimensional minimization among linear combinations
+procedure extended obtain complete sequence eigenvalue eigenfunctions problem
+displaystyle qvarphi int xxleftpxvarphi 'xqxvarphi xrightdxavarphi xavarphi x
+latter condition natural boundary condition problem since imposed trial function minimization instead consequence minimization
+eigenvalue problem higher dimension defined analogy one-dimensional case
+displaystyle qvarphi iiint dpxnabla varphi cdot nabla varphi qxvarphi dxdydziint bsigma svarphi ds
+result depends upon regularity theory elliptic partial differential equation see jost li-jost details
+many extension including completeness result asymptotic property eigenvalue result concerning node eigenfunctions courant hilbert
+fermat's principle state light take path locally minimizes optical length endpoints
+integration part first term within bracket obtain euler-lagrange equation
+fact path straight line since refractive index constant
+integration part separate region using euler-lagrange equation first variation take form
+displaystyle delta afffleftn-frac f' sqrt f' nfrac f'sqrt f'right
+calculation demonstrates snell's law equivalent vanishing first variation optical path length
+note integral invariant respect change parametric representation of
+displaystyle frac ddtpsqrt dot xcdot dot xnabla n
+displaystyle pfrac nxdot xsqrt dot xcdot dot x
+thus problem studying curve make integral stationary related study level surface of
+order find function turn wave equation governs propagation light
+wave front light characteristic surface partial differential equation satisfy
+equation solution first-order partial differential equation identical euler-lagrange equation make identification
+displaystyle frac dsdtfrac sqrt dot xcdot dot xn
+family minimizing curve constructed value optical length satisfy characteristic equation corresponding wave equation
+hence solving associated partial differential equation first order equivalent finding family solution variational problem
+essential content hamilton-jacobi theory applies general variational problems
+hamilton's principle action principle state motion conservative holonomic integrable constraint mechanical system action integral
+displaystyle frac ddtfrac partial lpartial dot xfrac partial lpartial x
+hamiltonian mechanic result conjugate momentum introduced place of
+analogy fermat's principle suggests solution lagrange's equation particle trajectory may described term level surface function of
+displaystyle frac partial psi partial thleftxfrac partial psi partial xtright
+analytical mechanic reformulations newton's law motion notably lagrangian hamiltonian mechanics
+variational method quantum mechanic one way finding approximation lowest energy eigenstate ground state excited states
+variational bayesian method family technique approximating intractable integral arising bayesian inference machine learning
+variational method general relativity family technique using calculus variation solve problem einstein's general theory relativity
+finite element method variational method finding numerical solution boundary-value problem differential equations
+total variation denoising image processing method filtering high variance noisy signalscalculus variation concerned variation functionals small change functional's value due small change function argument
+first variation defined linear part change functional second variation defined quadratic part
+using definition especially definition first variation second variation strongly positive following sufficient condition minimum functional stated
+cassel kevin w variational method application science engineering cambridge university press
+courant r dirichlet's principle conformal mapping minimal surfaces
+dacorogna bernard introduction introduction calculus variation rd edition
+giaquinta mariano hildebrandt stefan calculus variation ii springer-verlag and
+cloud mj calculus variation functional analysis optimal control application mechanic world scientific pages
+weinstock robert calculus variation application physic engineering dover reprint edvariational calculus

@@ -1,10 +1,10 @@
-Mootj giaos vieen vieets phaanf meemf soanj đeef thi trawcs nghieemj NLĐ Thaayf Nguyeenx Linh anhr giaos vieen booj moon toans Truwowngf THPT Nguyeenx Hueej TP Huees vuwaf hoanf thanhf phaanf meemf cos theer soanj vaf chaams đeef kieemr tra trawcs nghieemj
-Chuwowng trinhf mang teen Lino nayf vieets bawngf ngoon nguwx laapj trinhf Visual Basic chayj treen neenf Windows
-Chuwowng trinhf nayf raats gonj chir caanf file chinhs Linoexe vowis dung luwowngj chuwa đaayf M vaf theem mootj vaif file hoox trowj khacs
-Lino cos giao dieenj đown gianr đa nawng vaf raats deex suwr dungj
-Cos theer chayj oonr đinhj treen cacs neenf Windows Win NT Win ME Win vaf Win XP
-Thaayf Linh cho bieets Lino giups bieen soanj đeef kieemr tra trawcs nghieemj cho moij moon hocj
-Mooix caau hoir cos toois đa caau trar lowif cho pheps xaos ngaaux nhieen trong toanf đeef kieemr tra xaos đaps ans trong tuwngf caau hay trong toanf đeef theo ys muoons
-Cacs giaos vieen cos theer xaay duwngj hangf loatj đeef thi mooix đeef cos theer xuaats đaps ans kemf theo
-Giaos vieen phuj huynh cos theer kieemr tra hocj sinh lamf baif treen mays tinhs vaf chaams baif tuwj đoongj
-Sowr GDĐT Thuwaf Thieen Huees đanhs gias cao chuwowng trinhf cuar thaayf Linh vaf mowif thaayf Linh taapj huaans suwr dungj phaanf meemf Lino cho giaos vieen THPT cuar tinhr
+một giáo viên viết phần mềm soạn đề thi trắc nghiệm nlđ thầy nguyễn linh ảnh giáo viên bộ môn toán trường thpt nguyễn huệ tp huế vừa hoàn thành phần mềm có thể soạn và chấm đề kiểm tra
+chương trình mang tên lino này viết bằng ngôn ngữ lập trình visual basic chạy trên nền windows
+chương trình này rất gọn chỉ cần file chính linoexe với dung lượng chưa đầy m và thêm một vài file hỗ trợ khác
+lino có giao diện đơn giản đa năng và rất dễ sử dụng
+có thể chạy ổn định trên các nền windows win nt win me win và win xp
+thầy linh cho biết lino giúp biên soạn đề kiểm tra trắc nghiệm cho mọi môn học
+mỗi câu hỏi có tối đa câu trả lời cho phép xáo ngẫu nhiên trong toàn đề kiểm tra xáo đáp án trong từng câu hay trong toàn đề theo ý muốn
+các giáo viên có thể xây dựng hàng loạt đề thi mỗi đề có thể xuất đáp án kèm theo
+giáo viên phụ huynh có thể kiểm tra học sinh làm bài trên máy tính và chấm bài tự động
+sở gdđt thừa thiên huế đánh giá cao chương trình của thầy linh và mời thầy linh tập huấn sử dụng phần mềm lino cho giáo viên thpt của tỉn

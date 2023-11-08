@@ -1,0 +1,218 @@
+risk management identification evaluation prioritization risk defined iso effect uncertainty objective followed coordinated economical application resource minimize monitor control probability impact unfortunate event maximize realization opportunities
+risk come various source including uncertainty international market threat project failure phase design development production sustaining life-cycles legal liability credit risk accident natural cause disaster deliberate attack adversary event uncertain unpredictable root-cause
+negative event classified risk positive event classified opportunities
+risk management standard developed various institution including project management institute national institute standard technology actuarial society iso standards
+method definition goal vary widely according whether risk management method context project management security engineering industrial process financial portfolio actuarial assessment public health safety
+certain risk management standard criticized measurable improvement risk whereas confidence estimate decision seems increase
+strategy manage threat uncertainty negative consequence typically include avoiding threat reducing negative effect probability threat transferring part threat another party even retaining potential actual consequence particular threat
+opposite strategy used respond opportunity uncertain future state benefits
+professional role risk manager oversee organization's comprehensive insurance risk management program assessing identifying risk could impede reputation safety security financial success organization develop plan minimize mitigate negative financial outcomes
+risk analyst support technical side organization's risk management approach risk data ha compiled evaluated analyst share finding manager use insight decide among possible solutions
+see also chief risk officer internal audit financial analyst corporate other
+risk management appears scientific management literature since s
+became formal science article book risk management title also appear library searches
+widely used vocabulary risk management defined iso guide risk management
+ideal risk management prioritization process followed whereby risk greatest loss impact greatest probability occurring handled first
+risk lower probability occurrence lower loss handled descending order
+practice process assessing overall risk difficult balancing resource used mitigate risk high probability occurrence lower loss versus risk high loss lower probability occurrence often mishandled
+intangible risk management identifies new type risk ha probability occurring ignored organization due lack identification ability
+example deficient knowledge applied situation knowledge risk materializes
+process-engagement risk may issue ineffective operational procedure applied
+risk directly reduce productivity knowledge worker decrease cost-effectiveness profitability service quality reputation brand value earnings quality
+intangible risk management allows risk management create immediate value identification reduction risk reduce productivity
+difficult determine put resource toward risk management use resource elsewhere
+ideal risk management minimizes spending manpower resource also minimizes negative effect risks
+risk defined possibility event occur adversely affect achievement objective
+system like committee sponsoring organization treadway commission enterprise risk management coso erm assist manager mitigating risk factors
+company may different internal control component lead different outcomes
+example framework erm component includes internal environment objective setting event identification risk assessment risk response control activity information communication monitoring
+opportunity first appear academic research management book s
+first pmbok project management body knowledge draft mention opportunity all
+modern project management school doe recognize importance opportunities
+pmbok became significant part project risk management year article titled opportunity management also begin appear library searches
+opportunity management thus became important part risk management
+modern risk management theory deal type external event positive negative
+similarly risk opportunity specific mitigation strategy exploit share enhance ignore
+part method consist following element performed le following order
+expected likelihood consequence specific type attack specific assets
+prioritize risk reduction measuresthe risk management knowledge area defined project management body knowledge pmbok consists following processes
+plan risk management defining conduct risk management activities
+identify risk identifying individual project risk well sources
+perform qualitative risk analysis prioritizing individual project risk assessing probability impact
+plan risk response developing option selecting strategy actions
+implement risk response implementing agreed-upon risk response plans
+pmbok process wa included activity monitor control process wa later separated distinct process pmbok ed
+process wa known monitor control previous pmbok ed also included implement risk response processthe international organization standardization iso identifies following principle risk management
+create value resource expended mitigate risk le consequence inaction
+continually periodically re-assessedbenoit mandelbrot distinguished mild wild risk argued risk assessment management must fundamentally different two type risk
+mild risk follows normal near-normal probability distribution subject regression mean law large number therefore relatively predictable
+wild risk follows fat-tailed distribution eg pareto power-law distribution subject regression tail infinite mean variance rendering law large number invalid ineffective therefore difficult impossible predict
+common error risk assessment management underestimate wildness risk assuming risk mild fact wild must avoided risk assessment management valid reliable according mandelbrot
+according standard iso risk management principle guideline implementation process risk management consists several step follows
+mitigation solution risk using available technological human organizational resourcesafter establishing context next step process managing risk identify potential risks
+hence risk identification start source problem competitor benefit problem's consequences
+source analysis risk source may internal external system target risk management use mitigation instead management since definition risk deal factor decision-making cannot managedsome example risk source stakeholder project employee company weather airport
+example threat losing money threat abuse confidential information threat human error accident casualties
+threat may exist various entity important shareholder customer legislative body governmentwhen either source problem known event source may trigger event lead problem investigated
+example stakeholder withdrawing project may endanger funding project confidential information may stolen employee even within closed network lightning striking aircraft takeoff may make people board immediate casualties
+chosen method identifying risk may depend culture industry practice compliance
+identification method formed template development template identifying source problem event
+scenario-based risk identification scenario analysis different scenario created
+scenario may alternative way achieve objective analysis interaction force example market battle
+event trigger undesired scenario alternative identified risk see future study methodology used futurists
+taxonomy-based risk identification taxonomy taxonomy-based risk identification breakdown possible risk sources
+common-risk checking several industry list known risk available
+risk charting method combine approach listing resource risk threat resource modifying factor may increase decrease risk consequence wished avoid
+one begin resource consider threat exposed consequence each
+alternatively one start threat examine resource would affect one begin consequence determine combination threat resource would involved bring aboutonce risk identified must assessed potential severity impact generally negative impact damage loss probability occurrence
+quantity either simple measure case value lost building impossible know sure case unlikely event probability occurrence unknown
+therefore assessment process critical make best educated decision order properly prioritize implementation risk management plan
+traffic capacity lead greater development area surrounding improved traffic capacity
+many engineering example expanded capacity function soon filled increased demand
+since expansion come cost resulting growth could become unsustainable without forecasting management
+fundamental difficulty risk assessment determining rate occurrence since statistical information available kind past incident particularly scanty case catastrophic event simply infrequency
+furthermore evaluating severity consequence impact often quite difficult intangible assets
+thus best educated opinion available statistic primary source information
+nevertheless risk assessment produce information senior executive organization primary risk easy understand risk management decision may prioritized within overall company goals
+numerous different risk formula exist perhaps widely accepted formula risk quantification rate probability occurrence multiplied impact event equal risk magnitude
+risk mitigation measure usually formulated according one following major risk option are
+design new business process adequate built-in risk control containment measure start
+periodically re-assess risk accepted ongoing process normal feature business operation modify mitigation measures
+closing particular high-risk business arealater research ha shown financial benefit risk management le dependent formula used dependent frequency risk assessment performed
+business imperative able present finding risk assessment financial market schedule terms
+courtney formula wa accepted official risk analysis method u governmental agencies
+formula proposes calculation ale annualized loss expectancy compare expected loss value security control implementation cost cost-benefit analysis
+risk identified assessed technique manage risk fall one four major categories
+retention accept budgetideal use risk control strategy may possible
+may involve trade-off acceptable organization person making risk management decisions
+another source u department defense see link defense acquisition university call category acat avoid control accept transfer
+use acat acronym reminiscent another acat acquisition category used u defense industry procurement risk management figure prominently decision making planning
+similarly risk opportunity specific mitigation strategy exploit share enhance ignore
+refusing purchase property business avoid legal liability one example
+avoidance may seem like answer risk avoiding risk also mean losing potential gain accepting retaining risk may allowed
+entering business avoid risk loss also avoids possibility earning profits
+increasing risk regulation hospital ha led avoidance treating higher risk condition favor patient presenting lower risk
+risk reduction optimization involves reducing severity loss likelihood loss occurring
+example sprinkler designed put fire reduce risk loss fire
+method may cause greater loss water damage therefore may suitable
+halon fire suppression system may mitigate risk cost may prohibitive strategy
+acknowledging risk positive negative optimizing risk mean finding balance negative risk benefit operation activity risk reduction effort applied
+effectively applying health safety environment hse management standard organization achieve tolerable level residual risk
+modern software development methodology reduce risk developing delivering software incrementally
+early methodology suffered fact delivered software final phase development problem encountered earlier phase meant costly rework often jeopardized whole project
+developing iteration software project limit effort wasted single iteration
+outsourcing could example risk sharing strategy outsourcer demonstrate higher capability managing reducing risks
+example company may outsource software development manufacturing hard good customer support need another company handling business management itself
+way company concentrate business development without worry much manufacturing process managing development team finding physical location center
+control either detect cause unwanted event prior consequence occurring use product detection root cause unwanted failure team avoid
+briefly defined sharing another party burden loss benefit gain risk measure reduce risk
+term 'risk transfer' often used place risk-sharing mistaken belief transfer risk third party insurance outsourcing
+practice insurance company contractor go bankrupt end court original risk likely still revert first party
+terminology practitioner scholar alike purchase insurance contract often described transfer risk however technically speaking buyer contract generally retains legal responsibility loss transferred meaning insurance may described accurately post-event compensatory mechanism
+example personal injury insurance policy doe transfer risk car accident insurance company
+risk still lie policyholder namely person ha accident
+insurance policy simply provides accident event occurs involving policyholder compensation may payable policyholder commensurate sufferingdamage
+risk-retention pool technically retaining risk group spreading whole group involves transfer among individual member group
+different traditional insurance premium exchanged member group upfront instead loss assessed member group
+risk retention involves accepting loss benefit gain risk incident occurs
+risk retention viable strategy small risk cost insuring risk would greater time total loss sustained
+includes risk large catastrophic either cannot insured premium would infeasible
+war example since property risk insured war loss attributed war retained insured
+also amount potential loss risk amount insured retained risk
+may also acceptable chance large loss small cost insure greater coverage amount great would hinder goal organization much
+instance risk concerning image organization top management decision behind whereas management would authority decide computer virus risks
+risk management plan propose applicable effective security control managing risks
+example observed high risk computer virus could mitigated acquiring implementing antivirus software
+good risk management plan contain schedule control implementation responsible person actions
+according isoiec stage immediately completion risk assessment phase consists preparing risk treatment plan document decision identified risk handled
+mitigation risk often mean selection security control documented statement applicability identifies particular control objective control the
+purchase insurance policy risk ha decided transferred insurer avoid risk avoided without sacrificing entity's goal reduce others retain rest
+practice experience actual loss result necessitate change plan contribute information allow possible different decision made dealing risk faced
+evaluate whether previously selected security control still applicable effective
+example information risk good example rapidly changing business environmentprioritizing risk management process highly could keep organization ever completing project even getting started
+especially true work suspended risk management process considered complete
+risk improperly assessed prioritized time wasted dealing risk loss likely occur
+spending much time assessing managing unlikely risk avoided
+unlikely event occur risk unlikely enough occur may better simply retain risk deal result loss doe fact occur
+primary justification formal risk assessment process legal bureaucratic
+applied finance risk management concern technique practice measuring monitoring controlling market risk credit risk operational risk firm's balance sheet bank's trading book fund manager's portfolio value
+traditional measure banking value risk var possible loss due adverse credit market events
+bank seek hedge risk hold risk capital net position
+basel iii framework governs parallel regulatory capital requirement including operational risk
+fund manager employ various strategy protect fund value given mandate benchmark
+event occurrence could negatively impact cash flow profitability hence result loss business value decline share pricein information technology risk management includes incident handling action plan dealing intrusion cyber-theft denial service fire flood security-related events
+according sans institute six step process preparation identification containment eradication recovery lesson learned
+concept contractual risk management emphasis use risk management technique contract deployment ie
+norwegian academic petri keskitalo defines contractual risk management practical proactive systematical contracting method us contract planning governance manage risk connected business activities
+article samuel greengard published two u legal case mentioned emphasise importance strategy dealing risk
+chm hill deal risk professional advisor sign indemnification provision including acceptance duty defend may thereby pick legal cost defending client subject claim third party
+la gorce country club deal effectiveness limitation liability clause may certain jurisdiction found ineffectivegreengard recommends using industry-standard contract language much possible reduce risk much possible rely clause use subject established court interpretation number years
+enterprise risk management risk defined possible event circumstance negative influence enterprise question
+impact existence resource human capital product service customer enterprise well external impact society market environment
+financial institution enterprise risk management normally thought combination credit risk interest rate risk asset liability management liquidity risk market risk operational risk
+general case every probable risk pre-formulated plan deal possible consequence ensure contingency risk becomes liability
+information average cost per employee time cost accrual ratio project manager estimate
+cost associated risk arises estimated multiplying employee cost per unit time estimated time lost cost impact c c cost accrual ratio sthis article us abbreviation may confusing ambiguous
+probable increase time associated risk schedule variance due risk r r p s
+intended cause greatest risk project attempted first risk minimized quickly possible
+slightly misleading schedule variance large p small vice versa equivalent
+probable increase cost associated risk cost variance due risk rc rc pc pcars pscar
+see concern schedule variance function illustrated equation aboverisk project process due either special cause variation common cause variation requires appropriate treatment
+re-iterate concern extremal case equivalent list immediately above
+esrm security program management approach link security activity enterprise's mission business goal risk management methods
+security leader's role esrm manage risk harm enterprise asset partnership business leader whose asset exposed risks
+esrm involves educating business leader realistic impact identified risk presenting potential strategy mitigate impact enacting option chosen business line accepted level business risk tolerance
+medical device risk management process identifying evaluating mitigating risk associated harm people damage property environment
+risk management integral part medical device design development production process evaluation field experience applicable type medical devices
+management risk medical device described international organization standardization iso iso medical devicesthe application risk management medical device product safety standard
+standard provides process framework associated requirement management responsibility risk analysis evaluation risk control lifecycle risk management
+european version risk management standard wa updated refer medical device directive mdd active implantable medical device directive aimdd revision well vitro medical device directive ivdd
+difference include three informative z annex refer new mdd aimdd ivdd
+annex indicate content deviation include requirement risk reduced far possible requirement risk mitigated design labeling medical device ie labeling longer used mitigate risk
+typical risk analysis evaluation technique adopted medical device industry include hazard analysis fault tree analysis fta failure mode effect analysis fmea hazard operability study hazop risk traceability analysis ensuring risk control implemented effective ie
+tracking risk identified product requirement design specification verification validation result etc
+draft guidance fda ha introduced another method named safety assurance case medical device safety assurance analysis
+safety assurance case structured argument reasoning system appropriate scientist engineer supported body evidence provides compelling comprehensible valid case system safe given application given environment
+guidance safety assurance case expected safety critical device eg
+fda introduced another draft guidance expecting medical device manufacturer submit cybersecurity risk analysis information
+project risk management must considered different phase acquisition
+beginning project advancement technical development threat presented competitor's project may cause risk threat assessment subsequent evaluation alternative see analysis alternatives
+decision made project begun familiar project management application used
+plan include risk management task responsibility activity budget
+assigning risk officer team member project manager responsible foreseeing potential project problems
+risk following attribute opening date title short description probability importance
+optionally risk may assigned person responsible resolution date risk must resolved
+team member possibility report risk heshe foresees project
+purpose mitigation plan describe particular risk handled done avoid minimize consequence becomes liability
+summarizing planned faced risk effectiveness mitigation activity effort spent risk managementmegaprojects sometimes also called major program large-scale investment project typically costing billion per project
+megaprojects include major bridge tunnel highway railway airport seaport power plant dam wastewater project coastal flood protection scheme oil natural gas extraction project public building information technology system aerospace project defense systems
+megaprojects shown particularly risky term finance safety social environmental impacts
+risk management therefore particularly pertinent megaprojects special method special education developed risk management
+important ass risk regard natural disaster like flood earthquake on
+outcome natural disaster risk assessment valuable considering future repair cost business interruption loss downtime effect environment insurance cost proposed cost reducing risk
+sendai framework disaster risk reduction international accord ha set goal target disaster risk reduction response natural disasters
+regular international disaster risk conference davos deal integral risk management
+several tool used ass risk risk management natural disaster climate event including geospatial modeling key component land change science
+modeling requires understanding geographic distribution people well ability calculate likelihood natural disaster occurring
+management risk person property wilderness remote natural area ha developed increase outdoor recreation participation decreased social tolerance loss
+organization providing commercial wilderness experience align national international consensus standard training equipment ansinasbla boating uiaa ice climbing tool european norm mountaineering equipment
+association experiential education offer accreditation wilderness adventure programs
+wilderness risk management conference provides access best practice specialist organization provide wilderness risk management consulting training
+book outdoor leadership education climber outdoor educator author ari schneider note outdoor recreation inherently risky way eliminate risk
+according schneider optimal adventure achieved real risk managed perceived risk maintained order keep actual danger low sense adventure high
+text outdoor safety risk management outdoor leader published new zealand mountain safety council provides view wilderness risk management new zealand perspective recognizing value national outdoor safety legislation devoting considerable attention role judgment decision-making process wilderness risk management
+one popular model risk assessment risk assessment safety management rasm model developed rick curtis author backpacker's field manual
+formula rasm model risk probability accident severity consequences
+rasm model weighs negative riskthe potential loss positive riskthe potential growth
+relatively new term due increasing awareness information security simply one facet multitude risk relevant real world process supports
+lag long enough incentive like black market evolve new exploit discovered
+isaca's risk framework tie risk enterprise risk management
+duty care risk analysis docra evaluates risk safeguard considers interest party potentially affected risks
+offshore oil gas industry operational risk management regulated safety case regime many countries
+hazard identification risk assessment tool technique described international standard iso organisation iadc international association drilling contractor publish guideline health safety environment hse case development based iso standard
+diagrammatic representation hazardous event often expected governmental regulator part risk management safety case submission known bow-tie diagram see network theory risk assessment
+technique also used organisation regulator mining aviation health defence industrial finance
+principle tool quality risk management increasingly applied different aspect pharmaceutical quality systems
+aspect include development manufacturing distribution inspection submissionreview process throughout lifecycle drug substance drug product biological biotechnological product including use raw material solvent excipients packaging labeling material drug product biological biotechnological products
+risk management also applied assessment microbiological contamination relation pharmaceutical product cleanroom manufacturing environments
+dod risk issue opportunity management guide defense acquisition program archived wayback machine

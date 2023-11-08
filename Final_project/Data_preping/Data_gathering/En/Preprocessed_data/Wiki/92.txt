@@ -1,0 +1,170 @@
+geometry ancient greek gemetra 'land measurement' g 'earth land' mtron 'a measure' arithmetic one oldest branch mathematics
+concerned property space related distance shape size relative position figures
+century geometry wa almost exclusively devoted euclidean geometry includes notion point line plane distance angle surface curve fundamental concepts
+one oldest discovery gauss' theorema egregium remarkable theorem asserts roughly gaussian curvature surface independent specific embedding euclidean space
+implies surface studied intrinsically stand-alone space ha expanded theory manifold riemannian geometry
+later century appeared geometry without parallel postulate non-euclidean geometry developed without introducing contradiction
+geometry underlies general relativity famous application non-euclidean geometry
+since scope geometry ha greatly expanded field ha split many subfields depend underlying methodsdifferential geometry algebraic geometry computational geometry algebraic topology discrete geometry also known combinatorial geometry etcor property euclidean space disregardedprojective geometry consider alignment point distance parallelism affine geometry
+originally developed model physical world geometry ha application almost science also art architecture activity related graphics
+geometry also ha application area mathematics apparently unrelated
+example method algebraic geometry fundamental wiles's proof fermat's last theorem problem wa stated term elementary arithmetic remained unsolved several centuries
+earliest recorded beginning geometry traced ancient mesopotamia egypt nd millennium bc
+early geometry wa collection empirically discovered principle concerning length angle area volume developed meet practical need surveying construction astronomy various crafts
+earliest known text geometry egyptian rhind papyrus bc moscow papyrus c
+example moscow papyrus give formula calculating volume truncated pyramid frustum
+later clay tablet bc demonstrate babylonian astronomer implemented trapezoid procedure computing jupiter's position motion within time-velocity space
+geometric procedure anticipated oxford calculator including mean speed theorem centuries
+south egypt ancient nubian established system geometry including early version sun clocks
+century bc greek mathematician thales miletus used geometry solve problem calculating height pyramid distance ship shore
+credited first use deductive reasoning applied geometry deriving four corollary thales' theorem
+pythagoras established pythagorean school credited first proof pythagorean theorem though statement theorem ha long history
+eudoxus c bc developed method exhaustion allowed calculation area volume curvilinear figure well theory ratio avoided problem incommensurable magnitude enabled subsequent geometer make significant advances
+around bc geometry wa revolutionized euclid whose element widely considered successful influential textbook time introduced mathematical rigor axiomatic method earliest example format still used mathematics today definition axiom theorem proof
+although content element already known euclid arranged single coherent logical framework
+element wa known educated people west middle century content still taught geometry class today
+archimedes c bc syracuse used method exhaustion calculate area arc parabola summation infinite series gave remarkably accurate approximation pi
+also studied spiral bearing name obtained formula volume surface revolution
+indian mathematician also made many important contribution geometry
+satapatha brahmana rd century bc contains rule ritual geometric construction similar sulba sutras
+according hayashi p ulba stras contain earliest extant verbal expression pythagorean theorem world although already known old babylonians
+contain list pythagorean triple particular case diophantine equations
+bakhshali manuscript handful geometric problem including problem volume irregular solids
+bakhshali manuscript also employ decimal place value system dot zero aryabhata's aryabhatiya includes computation area volumes
+brahmagupta wrote astronomical work brhma sphua siddhnta in
+chapter containing sanskrit verse wa divided two section basic operation including cube root fraction ratio proportion barter practical mathematics including mixture mathematical series plane figure stacking brick sawing timber piling grain
+latter section stated famous theorem diagonal cyclic quadrilateral
+chapter also included formula area cyclic quadrilateral generalization heron's formula well complete description rational triangle ie
+middle age mathematics medieval islam contributed development geometry especially algebraic geometry
+conceived idea reducing geometrical problem duplicating cube problem algebra
+thbit ibn qurra known thebit latin dealt arithmetic operation applied ratio geometrical quantity contributed development analytic geometry
+theorem ibn al-haytham alhazen omar khayyam nasir al-din al-tusi quadrilateral including lambert quadrilateral saccheri quadrilateral early result hyperbolic geometry along alternative postulate playfair's axiom work considerable influence development non-euclidean geometry among later european geometer including witelo c c gersonides alfonso
+first wa creation analytic geometry geometry coordinate equation ren descartes pierre de fermat
+wa necessary precursor development calculus precise quantitative science physics
+second geometric development period wa systematic study projective geometry girard desargues
+projective geometry study property shape unchanged projection section especially relate artistic perspective
+two development geometry century changed way studied previously
+discovery non-euclidean geometry nikolai ivanovich lobachevsky jnos bolyai carl friedrich gauss formulation symmetry central consideration erlangen programme felix klein generalized euclidean non-euclidean geometries
+two master geometer time bernhard riemann working primarily tool mathematical analysis introducing riemann surface henri poincar founder algebraic topology geometric theory dynamical systems
+consequence major change conception geometry concept space became something rich varied natural background theory different complex analysis classical mechanics
+euclid took abstract approach geometry element one influential book ever written
+euclid introduced certain axiom postulate expressing primary self-evident property point line planes
+characteristic feature euclid's approach geometry wa rigor ha come known axiomatic synthetic geometry
+start century discovery non-euclidean geometry nikolai ivanovich lobachevsky jnos bolyai carl friedrich gauss others led revival interest discipline century david hilbert employed axiomatic reasoning attempt provide modern foundation geometry
+may defined property thay must euclid's definition ha part synthetic geometry
+modern mathematics generally defined element set called space axiomatically defined
+modern definition every geometric shape defined set point case synthetic geometry line another fundamental object viewed set point passes
+however ha modern geometry point primitive object even without points
+one oldest geometry whitehead's point-free geometry formulated alfred north whitehead in
+euclid described line breadthless length lie equally respect point itself
+modern mathematics given multitude geometry concept line closely tied way geometry described
+instance analytic geometry line plane often defined set point whose coordinate satisfy given linear equation abstract setting incidence geometry line may independent object distinct set point lie it
+differential geometry geodesic generalization notion line curved spaces
+euclidean geometry plane flat two-dimensional surface extends infinitely definition type geometry generalization that
+instance plane studied topological surface without reference distance angle studied affine space collinearity ratio studied distance studied complex plane using technique complex analysis on
+euclid defines plane angle inclination plane two line meet lie straight respect other
+modern term angle figure formed two ray called side angle sharing common endpoint called vertex angle
+euclidean geometry angle used study polygon triangle well forming object study right
+study angle triangle angle unit circle form basis trigonometry
+differential geometry calculus angle plane curve space curve surface calculated using derivative
+curve dimensional object may straight like line curve dimensional space called plane curve dimensional space called space curves
+topology curve defined function interval real number another space
+differential geometry definition used defining function required differentiable algebraic geometry study algebraic curve defined algebraic variety dimension one
+differential geometry topology surface described two-dimensional 'patches' neighborhood assembled diffeomorphisms homeomorphisms respectively
+topology manifold topological space every point ha neighborhood homeomorphic euclidean space
+differential geometry differentiable manifold space neighborhood diffeomorphic euclidean space
+manifold used extensively physic including general relativity string theory
+length area volume describe size extent object one dimension two dimension three dimension respectively
+euclidean geometry analytic geometry length line segment often calculated pythagorean theorem
+area volume defined fundamental quantity separate length described calculated term length plane dimensional space
+mathematician found many explicit formula area formula volume various geometric objects
+calculus area volume defined term integral riemann integral lebesgue integral
+instance euclidean metric measure distance point euclidean plane hyperbolic metric measure distance hyperbolic plane
+important example metric include lorentz metric special relativity semi-riemannian metric general relativity
+different direction concept length area volume extended measure theory study method assigning size measure set measure follow rule similar classical area volume
+congruence similarity concept describe two shape similar characteristics
+euclidean geometry similarity used describe object shape congruence used describe object size shape
+hilbert work creating rigorous foundation geometry treated congruence undefined term whose property defined axioms
+congruence similarity generalized transformation geometry study property geometric object preserved different kind transformations
+classical geometer paid special attention constructing geometric object described way
+however problem turned difficult impossible solve mean alone ingenious construction using neusis parabola curve mechanical device found
+traditional geometry allowed dimension line plane ambient world conceived three-dimensional space mathematician physicist used higher dimension nearly two centuries
+one example mathematical use higher dimension configuration space physical system ha dimension equal system's degree freedom
+general topology concept dimension ha extended natural number infinite dimension hilbert space example positive real number fractal geometry
+algebraic geometry dimension algebraic variety ha received number apparently different definition equivalent common cases
+theme symmetry geometry nearly old science geometry itself
+symmetric shape circle regular polygon platonic solid held deep significance many ancient philosopher investigated detail time euclid
+symmetric pattern occur nature artistically rendered multitude form including graphic leonardo da vinci m
+second half century relationship symmetry geometry came intense scrutiny
+felix klein's erlangen program proclaimed precise sense symmetry expressed via notion transformation group determines geometry is
+symmetry classical euclidean geometry represented congruence rigid motion whereas projective geometry analogous role played collineations geometric transformation take straight line straight lines
+however wa new geometry bolyai lobachevsky riemann clifford klein sophus lie klein's idea 'define geometry via symmetry group' found inspiration
+discrete continuous symmetry play prominent role geometry former topology geometric group theory latter lie theory riemannian geometry
+different type symmetry principle duality projective geometry among fields
+meta-phenomenon roughly described follows theorem exchange point plane join meet lie contains result equally true theorem
+similar closely related form duality exists vector space dual space
+model space physical world used many scientific area mechanic astronomy crystallography many technical field engineering architecture geodesy aerodynamics navigation
+mandatory educational curriculum majority nation includes study euclidean concept point line plane angle triangle congruence similarity solid figure circle analytic geometry
+differential geometry us technique calculus linear algebra study problem geometry
+particular differential geometry importance mathematical physic due albert einstein's general relativity postulation universe curved
+differential geometry either intrinsic meaning space considers smooth manifold whose geometric structure governed riemannian metric determines distance measured near point extrinsic object study part ambient flat euclidean space
+spherical geometry ha long used astronomer astrologer navigators
+immanuel kant argued one absolute geometry known true priori inner faculty mind euclidean geometry wa synthetic priori
+view wa first somewhat challenged thinker saccheri finally overturned revolutionary discovery non-euclidean geometry work bolyai lobachevsky gauss never published theory
+demonstrated ordinary euclidean space one possibility development geometry
+broad vision subject geometry wa expressed riemann inauguration lecture ber die hypothesen welche der geometrie zu grunde liegen hypothesis geometry based published death
+riemann's new idea space proved crucial albert einstein's general relativity theory
+riemannian geometry considers general space notion length defined mainstay modern geometry
+topology field concerned property continuous mapping considered generalization euclidean geometry
+practice topology often mean dealing large-scale property space connectedness compactness
+field topology saw massive development century technical sense type transformation geometry transformation homeomorphisms
+ha often expressed form saying 'topology rubber-sheet geometry'
+subfields topology include geometric topology differential topology algebraic topology general topology
+underwent periodic period growth accompanied creation study projective geometry birational geometry algebraic variety commutative algebra among topics
+late mid-s undergone major foundational development largely due work jean-pierre serre alexander grothendieck
+led introduction scheme greater emphasis topological method including various cohomology theories
+one seven millennium prize problem hodge conjecture question algebraic geometry
+wiles' proof fermat's last theorem us advanced method algebraic geometry solving long-standing problem number theory
+general algebraic geometry study geometry use concept commutative algebra multivariate polynomials
+ha application many area including cryptography string theory
+complex geometry study nature geometric structure modelled arising complex plane
+complex geometry lie intersection differential geometry algebraic geometry analysis several complex variable ha found application string theory mirror symmetry
+complex geometry first appeared distinct area study work bernhard riemann study riemann surfaces
+work spirit riemann wa carried italian school algebraic geometry early s
+contemporary treatment complex geometry began work jean-pierre serre introduced concept sheaf subject illuminated relation complex geometry algebraic geometry
+primary object study complex geometry complex manifold complex algebraic variety complex analytic variety holomorphic vector bundle coherent sheaf spaces
+special example space studied complex geometry include riemann surface calabi-yau manifold space find us string theory
+particular worldsheets string modelled riemann surface superstring theory predicts extra dimension dimensional spacetime may modelled calabi-yau manifolds
+discrete geometry subject ha close connection convex geometry
+concerned mainly question relative position simple geometric object point line circles
+example include study sphere packing triangulation kneser-poulsen conjecture etc
+computational geometry deal algorithm implementation manipulating geometrical objects
+important problem historically included travelling salesman problem minimum spanning tree hidden-line removal linear programming
+although young area geometry ha many application computer vision image processing computer-aided design medical imaging etc
+geometric group theory us large-scale geometric technique study finitely generated groups
+closely connected low-dimensional topology grigori perelman's proof geometrization conjecture included proof poincar conjecture millennium prize problem
+geometric group theory often revolves around cayley graph geometric representation group
+important topic include quasi-isometries gromov-hyperbolic group right angled artin groups
+convex geometry investigates convex shape euclidean space abstract analogue often using technique real analysis discrete mathematics
+ha close connection convex analysis optimization functional analysis important application number theory
+isoperimetric problem recurring concept convex geometry wa studied greek well including zenodorus
+archimedes plato euclid later kepler coxeter studied convex polytopes properties
+century mathematician studied area convex mathematics including higher-dimensional polytopes volume surface area convex body gaussian curvature algorithm tiling lattices
+geometry ha found application many field described below
+instance theory perspective showed geometry metric property figure perspective origin projective geometry
+vitruvius developed complicated theory ideal proportion human figure
+concept used adapted artist michelangelo modern comic book artists
+golden ratio particular proportion ha controversial role art
+often claimed aesthetically pleasing ratio length frequently stated incorporated famous work art though reliable unambiguous example made deliberately artist aware legend
+islamic art make frequent use tessellation art m
+czanne advanced theory image built sphere cone cylinder
+still used art theory today although exact list shape varies author author
+fact ha said geometry lie core architectural design
+application geometry architecture include use projective geometry create forced perspective use conic section constructing dome similar object use tessellation use symmetry
+field astronomy especially relates mapping position star planet celestial sphere describing relationship movement celestial body served important source geometric problem throughout history
+string theory make use several variant geometry doe quantum information theory
+instance introduction coordinate ren descartes concurrent development algebra marked new stage geometry since geometric figure plane curve could represented analytically form function equations
+since century geometry ha used solving problem number theory example geometry number recently scheme theory used wiles's proof fermat's last theorem
+flatland book written edwin abbott abbott two- three-dimensional space understand concept four dimensions
+euclid's window story geometry parallel line hyperspace uk ed
+year geometry lecture robin wilson given gresham college october available mp mp download well text file

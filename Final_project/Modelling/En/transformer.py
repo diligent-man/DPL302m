@@ -333,61 +333,61 @@ class CustomSchedule(tf.keras.optimizers.schedules.LearningRateSchedule):
         return tf.math.rsqrt(self.d_model) * tf.math.minimum(arg1, arg2)
 
 
-def create_look_ahead_mask(batch_size, seq_len):
-    # A look-ahead mask is required to prevent the decoder from attending to succeeding words,
-    # such that the prediction for a particular word can only depend on known outputs
-    # for the words that come before it.
+# Add masking in later
+# def create_look_ahead_mask(seq_len):
+#     """
+#     A look-ahead mask is required to prevent the decoder from attending to succeeding words,
+#     such that the prediction for a particular word can only depend on known outputs
+#     for the words that come before it.
 
-    # Band matrix: https://en.wikipedia.org/wiki/Band_matrix#:~:text=In%20mathematics%2C%20particularly%20matrix%20theory,more%20diagonals%20on%20either%20side.
-    # k1: lower bandwidth; k2: upper bandwidth
-    # lower bandwith: the distances b/w lower subdiagonal line and main diagonal
-    # upper bandwidth: the distances b/w upper subdiagonal line and main diagonal
-    # All entris stay outside k1 and k2 will be marked as 0
+#     Band matrix: https://en.wikipedia.org/wiki/Band_matrix#:~:text=In%20mathematics%2C%20particularly%20matrix%20theory,more%20diagonals%20on%20either%20side.
+#     k1: lower bandwidth; k2: upper bandwidth
+#     lower bandwith: the distances b/w lower subdiagonal line and main diagonal
+#     upper bandwidth: the distances b/w upper subdiagonal line and main diagonal
+#     All entris stay outside k1 and k2 will be marked as 0
     
-    """
-           My    name      is     Trong
-    My    index    0        0      0
-    name  index   index     0      0
-    is    index   index   index    0
-    Trong index   index   index   index
+#            My    name      is     Trong
+#     My    index    0        0      0
+#     name  index   index     0      0
+#     is    index   index   index    0
+#     Trong index   index   index   index
 
-    Interpretation - consider row by row
-    My: solely attend to itself
-    name: attend to itself & My as well
-    is: attend to itself also My and name
-    name: same deduction
+#     Interpretation - consider row by row
+#     My: solely attend to itself
+#     name: attend to itself & My as well
+#     is: attend to itself also My and name
+#     name: same deduction
 
-    0 will marked as 1, which will be 0 after put through softmax
-    """
-    mask = 1 - tf.linalg.band_part(input=tf.ones((batch_size, seq_len, seq_len)), num_lower=-1, num_upper=0) # lower triangular matrix <==> currents word only attend to the previous one
-    return mask  # (seq_len, seq_len)
-
-
-def create_padding_mask(seq):
-    # {PAD] = 0 = TRUE
-    mask = tf.math.equal(seq, 0)
-    mask = tf.cast(mask, tf.float32)
-    # add extra dimensions to add the paddingto the attention logits.
-    return mask[:, tf.newaxis, tf.newaxis, :]  # (batch_size, 1, 1, seq_len)
+#     0 will marked as 1, which will be 0 after put through softmax
+#     """
+#     mask = 1 - tf.linalg.band_part(input=tf.ones((seq_len, seq_len)), num_lower=-1, num_upper=0) # lower triangular matrix <==> currents word only attend to the previous one
+#     mask = tf.cast(mask, tf.int32)
+#     return mask  # (seq_len, seq_len)
 
 
-def create_masks(inp, out):
-    # inp: (batch_size, seq_len, 50)
-    #  out: (batch_size, seq_len, 50)
-    # Encoder padding mask
-    enc_padding_mask = create_padding_mask(inp)  # (batch_size, 1, 1, seq_len, 50)
+# def create_padding_mask(seq):
+#     # {PAD] = 0 = TRUE
+#     mask = tf.cast(tf.math.equal(seq, 0), tf.int32)
+#     # add extra dimensions to add the paddingto the attention logits.
+#     mask = mask[:, tf.newaxis, tf.newaxis, :]  # (batch_size, 1, 1, seq_len)
+#     return mask 
 
-    # Used in the 2nd attention block in the decoder.
-    # This padding mask is used to mask the encoder outputs.
-    dec_padding_mask = create_padding_mask(inp)  # (batch_size, 1, 1, seq_len, 50)
 
-    # Used in the 1st attention block in the decoder.
-    dec_target_padding_mask = create_padding_mask(out)  # (batch_size, 1, 1, seq_len, 50)
-    look_ahead_mask = create_look_ahead_mask(out.shape[1])
-    combined_mask = tf.maximum(dec_target_padding_mask, look_ahead_mask)
+# def create_masks(inp, target_inp):
+#     # inp: (batch_size, seq_len, 50)
+#     #  out: (batch_size, seq_len, 50)
+#     # Encoder padding mask
+#     enc_padding_mask = create_padding_mask(inp)  # (batch_size, 1, 1, seq_len, 50)
 
-    print(enc_padding_mask.shape, dec_padding_mask.shape, combined_mask.shape)
-    return enc_padding_mask, combined_mask, dec_padding_mask
+#     # Used in the 2nd attention block in the decoder.
+#     # This padding mask is used to mask the encoder outputs.
+#     dec_padding_mask = create_padding_mask(inp)  # (batch_size, 1, 1, seq_len, 50)
+
+#     # Used in the 1st attention block in the decoder.
+#     dec_target_padding_mask = create_padding_mask(target_inp)  # (batch_size, 1, 1, seq_len, 50)
+#     look_ahead_mask = create_look_ahead_mask(target_inp.shape[1])
+#     combined_mask = tf.maximum(dec_target_padding_mask, look_ahead_mask)
+#     return enc_padding_mask, combined_mask, dec_padding_mask
 
 
 def loss_function(y, y_hat):

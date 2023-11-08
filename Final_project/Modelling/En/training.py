@@ -7,17 +7,20 @@ import time
 import numpy as np
 import tensorflow as tf
 
-
-
 from tqdm import tqdm
-from matplotlib import pyplot as plt
-from tensorflow.python.ops.numpy_ops import np_config
+from transformers import AutoTokenizer
 from sklearn.model_selection import train_test_split
-from Pretrained_models.character_bert import CharacterBertModel
-from Pretrained_models.character_cnn import CharacterIndexer
-from transformer import Transformer, CustomSchedule, create_masks, loss_function
+from tensorflow.python.ops.numpy_ops import np_config
+
+from Pretrained_models.utils.character_cnn import CharacterIndexer
+# from Pretrained_models.character_bert import CharacterBertModel
+
+from transformer import Transformer, CustomSchedule, loss_function
 
 np_config.enable_numpy_behavior()
+output_tokenizer = AutoTokenizer.from_pretrained("bert-base-cased")
+# BertTokenizer.from_pretrained('../Pretrained_models/bert-base-uncased/')
+# character_embedding_model = CharacterBertModel.from_pretrained('../Pretrained_models/general_character_bert/')
 
 
 #################################################
@@ -48,8 +51,8 @@ class DataGovernor():
         num_of_wrong_sentence = 10  # ref wrong_word_generator.py
         with open(self.__path, 'r') as f:
             num_of_line_in_corpus = len(f.readlines())
-        # indexes = [*range(num_of_line_in_corpus * num_of_wrong_sentence)]  # num_of_lines
-        indexes = [*range(100)] # num_of_lines
+        indexes = [*range(num_of_line_in_corpus * num_of_wrong_sentence)]  # num_of_lines
+        # indexes = [*range(100)] # num_of_lines
         train_indexes, test_indexes = train_test_split(indexes, test_size=0.2, random_state=12345, shuffle=True) # list of indexes
         return np.array(train_indexes), np.array(test_indexes)
 
@@ -76,29 +79,25 @@ class DataGovernor():
 
 
 ##############################################################################################
-def index_char(batch, shift):
-    indexer = CharacterIndexer()    
-    indexed_batch = []
+def right_shifting(batch, flag):
+    # if flag == True:
+
+    # elif flag == False
+
+    return batch
+
+def truncating_padding(batch):
     # Tokenize
-    batch = [sequence[:-1].split(' ') for sequence in batch]
+    batch = [seq.split(' ') for seq in batch]
+    
+    # truncating
+    batch = [seq[:MAX_LENGTH] for seq in batch]
+
     # Add [CLS], [PAD] and [SEP]
-    batch = [["[CLS]", *sequence] + (MAX_LENGTH - len(sequence)) * ["[PAD]"] + ["[SEP]"] for sequence in batch]
-
-    # case 1: shift is None -> inp
-    if shift is None:
-        pass
-    # case 2: shift is True -> target_input
-    elif shift == True:
-        # needn't add PAD for removed entry ????
-        batch = [sequence[:-1] for sequence in batch]
-    # case 3: shift is True -> target_ouput
-    elif shift == False:
-        # needn't add PAD for removed entry ????
-        batch = [sequence[1:] for sequence in batch]
-
-    # Convert token sequence into character indices
-    batch = indexer.as_padded_tensor(batch, as_tensor="tf")
-    return np.array(batch)
+    batch = [[*sequence] + (MAX_LENGTH - len(sequence)) * ["[PAD]"] for sequence in batch]
+    for seq in batch:
+        print(len(seq))
+    return batch
 
 
 def split_train_test(indexes: list):
@@ -110,31 +109,53 @@ def split_train_test(indexes: list):
             starter = int(training_files[i][:-4].split('_')[0])
             ender = int(training_files[i][:-4].split('_')[1])
 
-            if index > starter and index < ender:
+            if index >= starter and index <= ender:
                 with open(training_file_path + training_files[i], 'r') as f:
-                    line = f.readlines()[ender-index].split('|')
-                    inp.append(line[1])  # incorrect sentence
-                    out.append(line[0])  # correct sentence
+                    data = f.readlines()
+                    print(index, ender, ender-index-1, index-starter-1)
+
+                    # The last file is not full, hence can not calculate with ender - index
+                    if training_files[i] == "1400000_1500000.txt":
+                        print('sas')
+                        line = data[index - starter - 1].split('|')
+                    elif i < len(training_files):
+                        line = data[ender-index-1].split('|')
+
+                    
+                    print(line) 
+                    inp.append(line[1][:-1])  # incorrect sentence
+                    out.append(line[0])       # correct sentence
     return np.array(inp), np.array(out)
 
 
 def train_step(indexes: list):
     inp, out = split_train_test(indexes)
-    inp = index_char(batch=inp, shift=None)
-    target_input = index_char(batch=out, shift=True)
-    target_output = index_char(batch=out, shift=False)
-    del out
-    print(inp.shape, target_input.shape, target_output.shape)
+    # Padding
+    inp = truncating_padding(inp)
+    # out = truncating_padding(out)
+    # print(np.array(inp).shape, np.array(out).shape)
+    # # create target_inp, target_out
+    # target_inp = [["[CLS]"] + seq for seq in inp]
+    # target_out = [seq + ["[SEP]"] for seq in inp]
+    # del out
+    # print(np.array(target_inp).shape, np.array(target_out).shape)
 
-    # shifted_right_out = np.array([" ".join(sequence.split(' ')[1:]) for sequence in out]) # uses for prediction
+    # # indexing out
+    # indexed_target_inp = [output_tokenizer(seq)["input_ids"] for seq in target_inp]
+    # print(np.array(indexed_target_inp))
 
-    # inp = tf.map_fn(fn=index_char(shift=None), elems=inp, fn_output_signature=tf.int32)  # (batch_szie, max_length, 50)
-    # target_input = tf.map_fn(fn=index_char(shift=True), elems=out, fn_output_signature=tf.int32)  # (batch_szie, max_length, 50)
-    # target_output = tf.map_fn(fn=index_char(shift=False), elems=out, fn_output_signature=tf.int32)  # (batch_szie, max_length, 50)s
-    # pritn(inp.shape, target_input.shape, target_output.shape)
-    # enc_padding_mask, combined_mask, dec_padding_mask = create_masks(inp.reshape(BATCH_SIZE * (MAX_LENGTH + 2), 50), out.reshape(BATCH_SIZE * (MAX_LENGTH + 2), 50))
-    # enc_padding_mask, combined_mask, dec_padding_mask = create_masks(inp, out)
 
+
+    # shift out
+
+    # inp will be embedded at encoder
+    # out = [output_tokenizer(sentence)["input_ids"] for sentence in out]
+    # print(out)
+    # target_inp = index_char(batch=out, shift=True)
+    # target_out = index_char(batch=out, shift=False)
+    # del out
+
+    # enc_padding_mask, combined_mask, dec_padding_mask = create_masks(inp, target_inp)
     # print(enc_padding_mask.shape, combined_mask.shape, dec_padding_mask.shape)
 
     # with tf.GradientTape() as tape:
@@ -151,7 +172,6 @@ def train_step(indexes: list):
     # train_accuracy(shifted_right_out, predictions)
 
 
-embedding_model = CharacterBertModel.from_pretrained('../Pretrained_models/general_character_bert/')
 model = Transformer(d_model=768, num_heads=8, num_layers=4, dff=1024,
                     input_vocab_size=1000, target_vocab_size=1000,
                     pe_input=1000, pe_target=1000,
@@ -167,12 +187,13 @@ train_loss = tf.keras.metrics.Mean(name='train_loss')
 train_accuracy = tf.keras.metrics.SparseCategoricalAccuracy(name='train_accuracy')
 
 
+
 def main() -> None:
     data_governor = DataGovernor()
     data_governor.set_path(corpus_path)
     train_indexes, test_indexes = data_governor.load_dataset()
     print(f"""Train indexes shape: {train_indexes.shape[0]}
-Test indexes shape: {test_indexes.shape[0]}""")
+    Test indexes shape: {test_indexes.shape[0]}""")
     
     # Each mini-batch contains 8 indexes for each training iteration
     data_governor.set_X(train_indexes)
@@ -185,7 +206,6 @@ Test indexes shape: {test_indexes.shape[0]}""")
         train_loss.reset_states()
         train_accuracy.reset_states()
 
-        # inp -> non_diacritic, tar -> diacritic
         for batch, indexes in tqdm(enumerate(mini_batches), total=num_of_mini_batches, dynamic_ncols=True):
             train_step(indexes)
             print(f"""Epoch: {epoch}, Loss: {train_loss.result():.4f}, Accuracy: {train_accuracy.result():.4f}\n""")

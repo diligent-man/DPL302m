@@ -1,0 +1,35 @@
+lissajous curve lsu also known lissajous figure bowditch curve badt graph system parametric equations
+family curve wa investigated nathaniel bowditch later detail jules antoine lissajous ha named
+ratio figure ellipse special case including circle b radian lines
+visual form curve often suggestive three-dimensional knot indeed many kind knot including known lissajous knot project plane lissajous figures
+example ratio produce figure three major lobe see image
+similarly ratio produce figure five horizontal lobe four vertical lobes
+rational ratio produce closed connected still figure irrational ratio produce figure appear rotate
+finally value determines apparent rotation angle figure viewed actually three-dimensional curve
+example produce x component exactly phase resulting figure appears apparent three-dimensional figure viewed straight on
+contrast non-zero produce figure appears rotated either left-right up-down rotation depending ratio ab
+lissajous figure b n n natural number and
+property exploited produce set point called padua point function may sampled order compute either bivariate interpolation quadrature function domain
+relation lissajous curve chebyshev polynomial clearer understand lissajous curve generates expressed using cosine function rather sine functions
+animation show curve adaptation continuously increasing ab fraction step of
+example lissajous figure odd natural number even natural number b b
+prior modern electronic equipment lissajous curve could generated mechanically mean harmonograph
+two phase-shifted sinusoid input applied oscilloscope x-y mode phase relationship signal presented lissajous figure
+professional audio world method used realtime analysis phase relationship left right channel stereo audio signal
+larger sophisticated audio mixing console oscilloscope may built-in purpose
+oscilloscope suppose x ch ch amplitude ch b amplitude ch frequency ch b frequency ch ab ratio frequency two channel phase shift ch
+purely mechanical application lissajous curve b driving mechanism mar light type oscillating beam lamp popular railroad mid-s
+input lti system sinusoidal output sinusoidal frequency may different amplitude phase shift
+using oscilloscope plot one signal another opposed one signal time plot output lti system input lti system produce ellipse lissajous figure special case b
+aspect ratio resulting ellipse function phase shift input output aspect ratio perfect circle corresponding phase shift aspect ratio line corresponding phase shift or
+figure summarizes lissajous figure change different phase shifts
+phase shift negative delay semantics used causal lti system note equivalent to
+lissajous curve used experimental test determine device may properly categorized memristor
+also used compare two different electrical signal known reference signal signal tested
+lissajous figure sometimes displayed oscilloscope meant simulate high-tech equipment science-fiction tv show movie sthe title sequence john whitney alfred hitchcock's feature film vertigo based lissajous figureslissajous figure sometimes used graphic design logos
+disney's movie anywhere streaming video application us stylized version curve
+facebook's rebrand meta platform also lissajous curve echoing shape capital letter b dadaist artist max ernst painted lissajous figure directly swinging punctured bucket paint canvaslissajous orbit
+spirographlissajous curve mathworldd java applet depicting construction lissajous curve oscilloscope
+detailed lissajous figure simulation drawing lissajous figure interactive slider javascript
+lissajous curve interactive simulation graphical representation musical interval vibrating strings
+interactive lissajous curve generator javascript applet using jsxgraph

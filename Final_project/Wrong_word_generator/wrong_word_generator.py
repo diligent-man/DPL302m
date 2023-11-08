@@ -351,6 +351,7 @@ def add_noise(sentence: str, language: str) -> str:
 
 
 def generate_wrong_word(language) -> None:
+    # Bug: Last line of corpus are created in one line
     if language == "en":
         filename = 'en_corpus.txt'
         save_path = 'noised_en/'
@@ -382,16 +383,16 @@ def generate_wrong_word(language) -> None:
             while counter < ender:
                 line = reader.readline()
                 for j in range(num_of_wrong_sentence):
-                    incorect_sentence = add_noise(line, language)
+                    incorrect_sentence = add_noise(line, language)
                     correct_sentence = line
 
                     # ensure incorrect sentence must differ from correct sentence
-                    while incorect_sentence == correct_sentence:
-                        incorect_sentence = add_noise(line, language)
+                    while incorrect_sentence == correct_sentence:
+                        incorrect_sentence = add_noise(line, language)
 
                     # write to file
                     with open(filename, 'a') as writer:
-                        writer.write(correct_sentence[:-1] + '|' + incorect_sentence)
+                        writer.write(correct_sentence[:-1] + '|' + incorrect_sentence)
 
                     print(language, f'{counter} lines added noise')
                     counter += 1
@@ -400,7 +401,7 @@ def generate_wrong_word(language) -> None:
                     if counter >= ender:
                         filename = save_path + str(ender) + "_" + str(ender_ls[i+1]) + ".txt"
                         for k in range(num_of_wrong_sentence-j-1):
-                            incorect_sentence = add_noise(line, language)
+                            incorrect_sentence = add_noise(line, language)
                             correct_sentence = line
 
                             # ensure incorrect sentence must differ from correct sentence
@@ -408,8 +409,7 @@ def generate_wrong_word(language) -> None:
                                 incorect_sentence = add_noise(line, language)
 
                             with open(filename, 'a') as writer:
-                                print(correct_sentence[:-1] + '|' + incorect_sentence)
-                                writer.write(correct_sentence[:-1] + '|' + incorect_sentence)
+                                writer.write(correct_sentence[:-1] + '|' + incorrect_sentence)
 
                             print(language, f'{counter} lines added noise')
                             counter += 1

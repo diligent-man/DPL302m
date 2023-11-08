@@ -1,0 +1,19 @@
+information theory conditional entropy quantifies amount information needed describe outcome random variable
+displaystyle mathrm h ysum yin mathcal ymathrm pr yymathrm y-sum yin mathcal ypyylog pyy
+displaystyle mathrm h yxx-sum yin mathcal ypryyxxlog pryyxx
+displaystyle beginalignedmathrm h yx equiv sum xin mathcal xpxmathrm h yxx-sum xin mathcal xpxsum yin mathcal ypyxlog pyx-sum xin mathcal xsum yin mathcal ypxylog pyx-sum xin mathcal xyin mathcal ypxylog pyx-sum xin mathcal xyin mathcal ypxylog frac pxypxsum xin mathcal
+displaystyle mathrm h yxmathrm h xy-mathrm h x
+displaystyle beginalignedmathrm h yxsum xin mathcal xyin mathcal ypxylog leftfrac pxpxyrightptsum xin mathcal xyin mathcal ypxylogpx-logpxypt-sum xin mathcal xyin mathcal ypxylogpxysum xin mathcal xyin mathcal ypxylogpxptmathrm h xysum xin mathcal xpxlogpxptmathrm h xy-mathrm h xendaligned
+displaystyle mathrm h xxldots xnsum inmathrm h xixldots xi-
+ha similar form chain rule probability theory except addition instead multiplication used
+displaystyle mathrm h yxmathrm h xy-mathrm h xmathrm h y
+displaystyle mathrm h yxmathrm h xy-mathrm h x
+displaystyle mathrm h xymathrm h yx-mathrm h y
+displaystyle beginalignedmathrm h yxleq mathrm h ymathrm h xymathrm h xymathrm h yxoperatorname xyqquad mathrm h xymathrm h xmathrm h y-operatorname xyoperatorname xyleq mathrm h xendaligned
+continuous version discrete conditional entropy called conditional differential continuous entropy
+contrast conditional entropy discrete random variable conditional differential entropy may negative
+notice however rule may true involved differential entropy exist infinite
+joint differential entropy also used definition mutual information continuous random variables
+conditional differential entropy yield lower bound expected squared error estimator
+displaystyle mathbb e leftbigl x-widehat xybigr rightgeq frac pi eehxy
+quantum information theory conditional entropy generalized conditional quantum entropy

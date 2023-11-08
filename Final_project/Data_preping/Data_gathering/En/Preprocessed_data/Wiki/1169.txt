@@ -1,0 +1,23 @@
+internationalization cjk character collective term chinese japanese korean language include chinese character derivative writing system sometimes paired scripts
+collectively cjk character often include hnz chinese kanji kana japanese hanja hangul korean
+rarely vietnamese included making abbreviation cjkv since vietnamese historically used chinese character well context known ch hn ch nm vietnamese
+standard mandarin chinese standard cantonese written almost exclusively chinese characters
+character required general literacy character reasonably complete coverage
+japanese us fewer charactersgeneral literacy japanese expected characters
+use chinese character korea increasingly rare although idiosyncratic use chinese character proper name requires knowledge therefore availability many characters
+even today however south korean student taught characters
+script used language bopomofo latin-based pinyin chinese hiragana katakana japanese hangul korean strictly cjk character although cjk character set almost invariably include necessary full coverage target languages
+early century classical chinese wa written language government scholarship vietnam
+popular literature vietnamese wa written ch nm script consisting borrowed chinese character together many character created locally
+onwards script since used recording literature ha latin ch quc ng
+sinologist carl leban produced early survey cjk encoding systems
+number character required complete coverage languages' need cannot fit character code space bit character encoding requiring least bit fixed width encoding multi-byte variable-length encodings
+bit fixed width encoding unicode including version deprecated due requirement encode character bit encoding accommodateunicode ha han charactersand requirement chinese government software china support gb character set
+although cjk encoding common character set encoding often used represent developed separately different east asian government software company mutually incompatible
+unicode ha attempted controversy unify character set process known han unification
+cjk character encoding consist minimally han character plus language-specific phonetic script pinyin bopomofo hiragana katakana hangul
+cjk character set take bulk assigned unicode code space
+much controversy among japanese expert chinese character desirability technical merit han unification process used map multiple chinese japanese character set single set unified characters
+three language written left-to-right top-to-bottom right-to-left top-to-bottom ancient document usually considered left-to-right script discussing encoding issues
+library cooperated encoding standard jackphy character early s
+according ken lunde abbreviation cjk wa registered trademark research library group merged oclc in

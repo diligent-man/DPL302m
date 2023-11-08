@@ -1,0 +1,24 @@
+video scaler system convert video signal one display resolution another typically scaler used convert signal lower resolution p standard definition higher resolution high definition process known upconversion upscaling contrast converting high low resolution known downconversion downscaling
+video scaler typically found inside consumer electronics device television video game console dvd blu-ray player also found av equipment video editing television broadcasting equipment
+video scaler also completely separate device often providing simple video switching capabilities
+unit commonly found part home theatre projected presentation systems
+often combined video processing device algorithm create video processor improves apparent definition video signals
+video scaler primarily digital device however combined analog-to-digital converter adc digitizer digital-to-analog converter dac support analog input outputs
+native resolution display many physical pixel make row column visible area display's output surface
+many different video signal use resolution neither display thus form resolution adaptation required properly frame video signal display device
+example within united state ntsc atsc vesa video standard several different resolution video formats
+multiple common resolution also used high-definition television p p
+scaling video signal doe allow match size particular display process result increased number visual artifact signal ringing posterization
+television channel air mixture high-definition programming standard definition programming may employ scaling andor cropping order make programming fill entire screen opposed pillarboxing feed instead order maintain consistency format
+likewise broadcaster downscale programming produced broadcast feed letterboxingeither full letterbox partial letterboxa technique used primarily european broadcaster transition digital terrestrial television
+active format description standard system variable defining various scaling letterboxing pillarboxing state broadcasting equipment television configured automatically switch appropriate state based afd flag encoded content aspect ratio display
+cable network tnt introduced hd feed controversially employed stretching system known flexview wa also offered broadcasters
+flexview used nonlinear method stretch near edge screen center it
+practice wa imposed senior vice president broadcast engineering tnt clyde d
+smith argued pillarboxing led inconsistency program viewer could cause burn-in plasma television older hdtv could stretch content automatically quality stretching display wa poor
+despite tnt's intention system wa frequently criticized viewer high definition channel nicknaming effect stretch-o-vision
+fxx faced similar criticism use cropping scaling rerun simpson started producing episode hd beginning season cropping method caused various visual gag lost
+february fxx announced response complaint would present episode original aspect ratio video-on-demand service
+since network cable company run high-definition version old programing wa originally shot film shown format
+example syndicated broadcast station cable network tb air seinfeld hd
+series producer sony picture went mm film source making new hd master cropping top bottom part frame restoring sides

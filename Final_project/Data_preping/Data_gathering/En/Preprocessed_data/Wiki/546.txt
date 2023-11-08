@@ -1,0 +1,11 @@
+nonstandard analysis branch mathematics overspill referred overflow goldblatt p widely used proof technique
+based fact set standard natural number n internal subset internal set n hypernatural numbers
+applying induction principle standard integer n transfer principle get principle internal induction
+nif n internal set instantiating internal induction principle n would follow n n known case
+internal set contains infinitesimal non-negative hyperreals contains positive non-infinitesimal appreciable hyperreal
+internal set contains n contains unlimited infinite element nthese fact used prove equivalence following two condition internal hyperreal-valued function defined r
+displaystyle forall epsilon mathbb r exists delta mathbb r hleq delta implies fxh-fxleq varepsilon
+proof second fact implies first us overspill since given non-infinitesimal positive
+displaystyle forall mbox positive delta cong hleq delta implies fxh-fxvarepsilon
+equivalent condition express property known nonstandard analysis s-continuity microcontinuity x
+first definition external involves quantification standard value only

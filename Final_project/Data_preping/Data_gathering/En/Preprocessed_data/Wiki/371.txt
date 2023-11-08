@@ -1,0 +1,83 @@
+google brain deep learning artificial intelligence research team umbrella google ai research division google dedicated artificial intelligence
+formed google brain combine open-ended machine learning research information system large-scale computing resources
+team ha created tool tensorflow allow neural network used public multiple internal ai research projects
+team aim create research opportunity machine learning natural language processing
+google brain project began part-time research collaboration google fellow jeff dean google researcher greg corrado stanford university professor andrew ng
+ng interested using deep learning technique crack problem artificial intelligence since began collaborating dean corrado build large-scale deep learning software system distbelief top google's cloud computing infrastructure
+google brain started google x project became successful wa graduated back google astro teller ha said google brain paid entire cost google x
+june new york time reported cluster processor computer dedicated mimicking aspect human brain activity successfully trained recognize cat based million digital image taken youtube videos
+march google hired geoffrey hinton leading researcher deep learning field acquired company dnnresearch inc
+hinton said would dividing future time university research work google
+google brain wa initially established google fellow jeff dean visiting stanford professor andrew ng
+team included jeff dean quoc le ilya sutskever alex krizhevsky samy bengio vincent vanhoucke
+team member include anelia angelova samy bengio greg corrado george dahl michael isard anjuli kannan hugo larochelle chris olah salih edneer benoit steiner vincent vanhoucke vijay vasudevan fernanda viegas
+chris lattner created apple's programming language swift ran tesla's autonomy team six month joined google brain's team august
+google brain led jeff dean geoffrey hinton zoubin ghahramani
+member include katherine heller pi-chuan chang ian simon jean-philippe vert nevena lazic anelia angelova lukasz kaiser carrie jun cai eric breck ruoming pang carlos riquelme hugo larochelle david ha
+samy bengio left team april zoubin ghahramani taking responsibilities
+google research includes google brain based mountain view california
+also ha satellite group accra amsterdam atlanta beijing berlin cambridge massachusetts israel los angeles london montreal munich new york city paris pittsburgh princeton san francisco seattle tokyo toronto zurich
+october google brain designed experiment determine neural network capable learning secure symmetric encryption
+experiment three neural network created alice bob eve
+adhering idea generative adversarial network gan goal experiment wa alice send encrypted message bob bob could decrypt adversary eve could not
+alice bob maintained advantage eve shared key used encryption decryption
+google brain demonstrated capability neural network learn secure encryption
+february google brain determined probabilistic method converting picture x resolution resolution x
+method built upon already existing probabilistic model called pixelcnn generate pixel translations
+proposed software utilizes two neural network make approximation pixel makeup translated images
+first network known conditioning network downsizes high-resolution image x attempt create mapping original x image higher-resolution ones
+network known prior network us mapping previous network add detail original image
+resulting translated image image higher resolution rather x resolution estimation based existing high-resolution images
+google brain's result indicate possibility neural network enhance images
+google brain team contributed google translate project employing new deep learning system combine artificial neural network vast database multilingual texts
+september google neural machine translation gnmt wa launched end-to-end learning framework able learn large number examples
+previously google translate's phrase-based machine translation pbmt approach would statistically analyze word word try match corresponding word language without considering surrounding phrase sentence
+rather choosing replacement individual word desired language gnmt evaluates word segment context rest sentence choose accurate replacements
+compared older pbmt model gnmt model scored improvement similarity human translation reduction errors
+gnmt ha also shown significant improvement notoriously difficult translation like chinese english
+introduction gnmt ha increased quality google translate's translation pilot language wa difficult create improvement languages
+addressing problem google brain team wa able develop multilingual gnmt system extended previous one enabling translation multiple languages
+furthermore allows zero-shot translation translation two language system ha never explicitly seen before
+google announced google translate also translate without transcribing using neural networks
+mean possible translate speech one language directly text another language without first transcribing text
+according researcher google brain intermediate step avoided using neural networks
+order system learn exposed many hour spanish audio together corresponding english text
+different layer neural network replicating human brain able link corresponding part subsequently manipulate audio waveform wa transformed english text
+another drawback gnmt model cause time translation increase exponentially number word sentence
+caused google brain team add processor ensure new translation process would still fast reliable
+aiming improve traditional robotics control algorithm new skill robot need hand-programmed robotics researcher google brain developing machine learning technique allow robot learn new skill own
+also attempt develop way information sharing robot robot learn learning process also known cloud robotics
+result google ha launched google cloud robotics platform developer effort combine robotics ai cloud enable efficient robotic automation cloud-connected collaborative robots
+robotics research google brain ha focused mostly improving applying deep learning algorithm enable robot complete task learning experience simulation human demonstration andor visual representations
+example google brain researcher showed robot learn pick throw rigid object selected box experimenting environment without pre-programmed so
+another research researcher trained robot learn behavior pouring liquid cup robot learned video human demonstration recorded multiple viewpoints
+google brain researcher collaborated company academic institution robotics research
+google brain team collaborated researcher x research learning hand-eye coordination robotic grasping
+method allowed real-time robot control grasping novel object self-correction
+researcher google brain intel ai lab uc berkeley created ai model robot learn surgery-related task suturing training surgery videos
+google brain team university lille presented model automatic speaker recognition called interactive speaker recognition
+isr module recognizes speaker given list speaker requesting user specific words
+model altered choose speech segment context text-to-speech training
+tensorflow open source software library powered google brain allows anyone utilize machine learning providing tool train one's neural network
+tool ha used farmer reduce amount manual labor required sort yield training data set human-sorted images
+magenta project us google brain create new information form art music rather classify sort existing data
+tensorflow wa updated suite tool user guide neural network create image music
+however team valdosta state university found ai struggle perfectly replicate human intention artistry similar issue faced translation
+image sorting capability google brain used help detect certain medical condition seeking pattern human doctor may notice provide earlier diagnosis
+screening breast cancer method wa found one quarter false positive rate human pathologist require time look photo cannot spend entire focus one task
+due neural network's specific training single task cannot identify affliction present photo human could easily spot
+google brain announced may created text-to-image model called imagen competes openai's dall-e
+google brain project technology currently used various google product android operating system speech recognition system photo search google photo smart reply gmail video recommendation youtube
+google brain ha received coverage wired magazine national public radio big think
+article contained interview key team member ray kurzweil andrew ng focus explanation project goal applications
+exact nature quitting fired disputed cause departure wa refusal retract paper entitled danger stochastic parrot language model big paper explored potential risk growth ai google brain including environmental impact bias training data ability deceive public
+request retract paper wa made megan kacholia vice president google brain
+april nearly current former google employee industry supporter signed open letter accusing google research censorship condemning gebru's treatment company
+february google fired one leader company's ai ethic team margaret mitchell
+company's statement alleged mitchell broken company policy using automated tool find support gebru
+month engineer outside ethic team began quit citing wrongful termination gebru reason why
+april google brain co-founder samy bengio announced resignation company
+despite gebru's manager bengio wa notified termination posted online support mitchell
+bengio's announcement focused personal growth reason leaving anonymous source indicated reuters turmoil within ai ethic team played role considerations
+march google fired ai researcher satraji chatterjee questioned finding paper published nature google's ai team member anna goldie azalia mirhoseini finding ability computer design computer chip components
+quantum artificial intelligence lab run google collaboration nasa university space research association

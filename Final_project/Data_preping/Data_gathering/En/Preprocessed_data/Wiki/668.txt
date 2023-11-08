@@ -1,0 +1,12 @@
+software company headquartered san francisco california provides integration software connecting application data devices
+started company's anypoint platform integration product designed integrate software service saas on-premises software legacy system platforms
+may salesforce acquired mulesoft billion cash stock deal
+mule name come drudgery donkey work data integration platform wa created escape
+company originally provided middleware messaging later expanded provide integration platform service ipaas approach company main product anypoint platform
+april startup announced million series e financing round led new enterprise associate participation new strategic investor salesforcecom existing investor hummer winblad venture partner morgenthaler venture lightspeed venture partner meritech capital partner sapphire venture formerly sap venture bay partners
+round brought mulesoft's total financing course seven funding round million
+april mulesoft acquired programmableweb website used developer help build web mobile connected application apis
+february company filed ipo began trading new york stock exchange march
+march salesforcecom announced wa buying mulesoft deal reported worth usb
+mulesoft's anypoint platform includes various component anypoint design center allows api developer design build apis anypoint exchange library api provider share apis template asset anypoint management center centralized web interface analyze manage monitor apis integrations
+mulesoft also offer mule runtime engine runtime solution connecting enterprise application on-premises cloud designed eliminate need custom point-to-point integration code

@@ -1,0 +1,139 @@
+sutton signwriting simply signwriting system writing sign languages
+highly featural visually iconic shape character abstract picture hand face body spatial arrangement page doe follow sequential order like letter make written english words
+wa developed valerie sutton dancer two year earlier developed dancewriting
+newer standardized form known international sign writing alphabet iswa
+sutton wa teaching dancewriting royal danish ballet lars von der lieth wa research sign language university copenhagen thought would useful use similar notation recording sign languages
+sutton based signwriting dancewriting finally expanded system complete repertoire movementwriting
+although first writing system sign language see stokoe notation signwriting first adequately represent facial expression shift posture accommodate representation series sign longer compound word short phrases
+system regular use used example publish college newsletter american sign language ha used captioning youtube videos
+sutton note signwriting ha used investigated country every inhabited continent
+brazil feneis national association deaf annual meeting association voted accept signwriting preferred method transcribing lingua brasileira de sinai libra written form
+strong recommendation brazilian government association wa signwriting taught deaf schools
+currently signwriting taught academic level federal university santa catarina part brazilian sign language curriculum
+signwriting also used recently published brazilian sign language dictionary containing sign used deaf paulo published university paulo direction prof
+fernando capovilla ej brazilian sign language lexicography technology dictionary digital encyclopedia chereme-based sign retrieval quadriplegic deaf communication systems
+initial study found deaf community prefer video writing system dominant language however claim ha disputed work steve dianne parkhurst spain found initial resistance later renewed interest finally pride
+deaf people learn read write signing system increase self-esteem say dianne parkhurst
+adopted many country among brazil ethiopia france germany italy portugal saudi arabia slovenia tunisia united states
+signwriting international sign writing alphabet iswa ha proposed manual equivalent international phonetic alphabet
+however researcher argue signwriting phonemic orthography doe one-to-one map phonological form written forms
+although claim disputed ha recommended country adapt sign language-by-language basis
+two doctoral dissertation study promote application signwriting specific sign language
+maria galea wrote using signwriting write maltese sign language
+also claudia savina bianchini wrote doctoral dissertation implementation signwriting write italian sign language
+signwriting combination iconic symbol handshapes orientation body location facial expression contact movement used represent word sign language
+since signwriting featural script represents actual physical formation sign rather meaning phonemic semantic analysis language required write it
+person ha learned system feel unfamiliar sign way english speaking person sound unfamiliar word written latin alphabet without even needing know sign means
+number symbol extensive often provides multiple way write single sign
+took many century english spelling become standardized spelling signwriting yet standardized sign language
+however almost publication use point view signer assume right hand dominant
+sutton originally designed script written horizontally left-to-right like english point view observer later changed vertical top-to-bottom point view signer conform wish deaf writers
+hollow outline white glyph indicates one facing palm hand filled black glyph indicates one facing back hand split shading indicates one seeing hand side
+although reality wrist may turn intermediate position four orientation palm back either side represented signwriting enough represent sign languages
+unbroken glyph used hand placed vertical wall face plane front signer occurs finger spelling
+band erased across glyph knuckle show hand lie horizontal plane parallel floor
+one basic hand-shape glyph used simple square circle band break two however line finger extended base become detached base base remains intact
+diagram left show ba-hand flat hand six orientations
+three vertical orientation left side hand held front signer finger pointing upward
+three glyph rotated like hand clock show finger pointing angle side downward
+three horizontal orientation right side diagram hand held outward finger pointing away signer presumably toward viewer
+also rotated show finger pointing side toward signer
+although indefinite number orientation represented way practice eight used planethat multiple found
+hundred glyph hand shape one used asl based five basic elements
+square represents closed fist knuckle flexed finger bent finger touch palm thumb lie fingers
+modified described indicates least one four finger touch palm hand
+circle represents open fist hand thumb finger flexed touch tips
+modified indicates least one finger touch thumb way
+pentagon triangle atop rectangle illustration used orientation section represents flat hand finger straight contact
+similar b hand fingerspelling though without thumb crossing palm
+'c' shape represents hand thumb finger curved enough touch
+used c hand fingerspelling modified show finger spread apart
+angled shape like fat l show four finger flat straight contact bent plane palm
+doe occur simple shape must include indication thumb either side touching tip fingersa line halfway across square pentagon show thumb across palm
+basic shape modified line jutting face corner represent finger positioned described above
+straight line represent straight finger may angle indicate line palm point toward away signer diamond shape tip curved line curved cupped finger hooked line hooked finger right-angle line finger bent one joint crossed line crossed finger shown chart right
+pentagon c modified show finger spread rather contact angle modified show whether thumb touch finger tip jut side
+although generalization made dozen glyph based circle square detail somewhat idiosyncratic need memorized
+solid bullet represents flexing middle joint finger finger hollow bullet represents straightening flexed finger
+'d' hand solid bullet mean becomes 'x' hand 'x' hand hollow bullet mean becomes 'd' hand
+example square closed fist 's' hand double solid bullet sign 'milk' iconically squeezing udder
+downward-pointing chevron represents flexing knuckle upward-pointing chevron show knuckle straighten
+'u' hand chevron becomes 'n' hand 'n' hand chevron becomes 'u' hand
+zigzag like two chevron joined together mean finger flex repeatedly sync
+hundred arrow various sort used indicate movement hand space
+movement notation get quite complex exact need one sign language different people may choose write sign different ways
+movement left hand shaped arrowhead hollow white movement right hand solid black
+orientation movement arrow distinguish two plane movement vertical plane represented arrow double stem bottom diagram left single-stemmed arrow represent movement parallel floor fro
+addition movement diagonal plane us modified double-stemmed arrow cross bar stem indicates motion away well solid dot indicates approaching motion
+fro movement also go something us modified single-stemmed arrow part arrow representing near motion thicker rest
+straight movement one eight direction either plane eight principal direction compass
+long straight arrow indicates movement elbow short arrow cross bar behind indicates motion wrist simple short arrow indicates small movement
+doubled opposite direction show nodding wrist secondary curved arrow crossing main arrow show arm twist moves
+doubled opposite direction show shaking hand arrow turn curve zigzag loop-the-loop
+six contact glyph show hand contact location sign
+handshape glyph located side face together contact glyph indicates hand touch side face
+circle dot inside brushing along place leaving it
+spiral may approximated rubbing place leaving additional arrow understood circle and
+two bar either side contact symbol indicate contact happens element place contact usually finger inside circular hand shape
+contact basic asterisk rarely used barsif signing hand located hand symbol one hand shape above
+additional symbol used represent sign location face body part hands
+symbol represent facial movement used various sign language including eye eyebrow nose movement cheek mouth movement breathing changes
+also symbol indicate speed movement whether movement simultaneous alternating punctuation
+various punctuation symbol exist correspond comma period question exclamation mark punctuation symbol scripts
+written sign line break sign following punctuation symbol
+one unusual characteristic signwriting use two-dimensional layout within invisible 'sign box'
+relative position symbol within box iconically represent location hand part body involved sign represented
+obvious linear relationship symbol within sign box unlike sequence character within word script spoken languages
+also unlike sign language script arrange symbol linearly spoken languages
+however since sign language many phonetic parameter articulated simultaneously script require arbitrary convention specifying order different parameter handshape location motion etc
+although signwriting doe convention symbol arranged relative within sign two-dimensional layout result le arbitrariness iconicity sign language scripts
+outside sign however script linear reflecting temporal order signs
+sign commonly written vertical column although formerly written horizontally
+sign box arranged top bottom within column interspersed punctuation symbol column progress left right across page
+within column sign may written center shifted left right 'lanes' indicate side-to-side shift body
+sutton order sign ten group based finger extended dominant hand
+group subdivided according actual hand shape subdivided according plane hand vertical horizontal according basic orientation hand palm side back
+ordering system ha proposed using beginning example american sign language brazilian sign language libras
+current system ordering signwriting called sign symbol sequence parsed creator sign recorded on-line dictionary
+system allows internal ordering feature including handshape orientation speed location clustered feature found spoken dictionaries
+advantage signwriting compared writing system sign language are
+iconicity make easy learn read particular iconicity result layout two dimension instead one
+ha adapted use many different sign languageshowever ha disadvantage well
+sheer size symbol set fine detail written create challenge learning write
+also mean written form largely situational inventive different people may write sign different way single person may alternate transcriptions
+two-dimensional spatial layout signwriting symbol within sign although iconic linear layout come cost
+signwriting currently requires special software signwriting cannot used ordinary text within normal word processor application software
+work-around software signmaker rand keyboard available signwriting website allows sign assembled special signwriting software copied easily graphic image word processing desktop publishing softwaresignpuddle plain-text ascii string representation signs
+stored plain text anywhere replaced sign special program signwriting icon server
+rfc standard draft ha proposed later evolved stricter draft standard known formal signwriting fsw
+also experimental truetype font us sil graphite technology automatically turn sequence signs
+signwriting first writing system sign language included unicode standard
+character added sutton signwriting unicode block unicode version released june
+set character based signwriting's standardized symbol set defined character encoding model
+historically software ha recorded position using cartesian x-y coordinate symbol
+since unicode focus symbol make sense one-dimensional plain-text context number character required two-dimensional placement included unicode proposal
+current software record sign string character either ascii unicode
+older software may use xml custom binary format represent sign
+formal signwriting us ascii character define two-dimensional layout within sign simple structures
+would possible fully define sign unicode seventeen additional characters
+either character set unicode ascii spelling sign produce word efficiently processed regular expressions
+sutton ha released international signwriting alphabet sil open font license
+signwriting font project githubgoogle ha release open type font called noto sans signwriting support signwriting unicode uni specification modifying character facial diacritics
+signwriting enabled wikimedia incubator javascript-based signwriting keyboard use wikimedia throughout web yair rand
+test wikis include asl wikipedia incubator test wikis sign languages
+sutton signwriting signmaker sutton-signwritingsignmaker sign editor accessed directly embedded iframe downloaded
+us formal signwriting ascii fsw signwriting unicode swu character set along associated style string
+modern web app development several package available npm
+sutton-signwritingcore javascript package node browser support general processing sutton signwriting script
+sutton-signwritingunicode javascript package processing signwriting unicode uni characters
+sutton-signwritingfont-ttf javascript package web component browser generates svg png image individual symbol complete signs
+sutton-signwritingfont-db javascript package node generates svg png image individual symbol complete signs
+sutton-signwritingsgnw-components javascript package web component use signwriting script
+sutton-signwritingsignmaker javascript package sign editing page url parameter iframe messaging
+sign language translation signwriting text useful abstraction layer video natural language processing sign language
+conversion sign language video signwriting text emerging field open source options
+additional machine learning project available handwriting recognition signwriting signwriting spoken language spoken language signwriting
+signwriting key component effort create google translate sign language
+hamburg notation system hamnosys phonetic transcription system sign language developed linguist europe
+stokoe notation script devised pioneer sign-language linguistics originally asl ha adapted sign languages
+feeling someone else's face writing sign expressive viewpoint

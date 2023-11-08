@@ -1,0 +1,200 @@
+platelet also called thrombocyte greek clot cell component blood whose function along coagulation factor react bleeding blood vessel injury clumping thereby initiating blood clot
+platelet cell nucleus fragment cytoplasm derived megakaryocyte bone marrow lung enter circulation
+circulating inactivated platelet biconvex discoid lens-shaped structure greatest diameter
+stained blood smear platelet appear dark purple spot diameter red blood cells
+smear used examine platelet size shape qualitative number clumping
+healthy adult typically ha time red blood cell platelets
+one major function platelet contribute hemostasis process stopping bleeding site interrupted endothelium
+gather site unless interruption physically large plug hole
+first platelet attach substance outside interrupted endothelium adhesion
+second change shape turn receptor secrete chemical messenger activation
+formation platelet plug primary hemostasis associated activation coagulation cascade resultant fibrin deposition linking secondary hemostasis
+process may overlap spectrum predominantly platelet plug white clot predominantly fibrin red clot typical mixture
+would add subsequent retraction platelet inhibition fourth fifth step completion process still others would add sixth step wound repair
+platelet also participate innate adaptive intravascular immune responses
+following rupture blood vessel wall platelet exposed adhere collagen surrounding connective tissue
+low platelet concentration called thrombocytopenia due either decreased production increased destruction
+elevated platelet concentration called thrombocytosis either congenital reactive cytokine due unregulated production one myeloproliferative neoplasm certain myeloid neoplasms
+disorder platelet function called thrombocytopathy platelet function disorder
+normal platelet respond abnormality vessel wall rather hemorrhage resulting inappropriate platelet adhesionactivation thrombosis formation clot within intact vessel
+type thrombosis arises mechanism different normal clot namely extending fibrin venous thrombosis extending unstable ruptured arterial plaque causing arterial thrombosis microcirculatory thrombosis
+arterial thrombus may partially obstruct blood flow causing downstream ischemia may completely obstruct causing downstream tissue death
+platelet concentration measured either manually using hemocytometer placing blood automated platelet analyzer using electrical impedance coulter counter
+normal range population analyzed platelet healthy white people per cubic millimeter mm equal microliter
+since contain receptor thrombopoietin protein facilitates maturation megakaryocyte release platelet higher number platelet bind protein
+basis production thrombopoietin result platelet bloodstream blood clotting process
+first approximation platelet shape considered similar oblate spheroid semiaxis ratio to
+approximation often used model hydrodynamic optical property platelet population well restore geometric parameter individual measured platelet flow cytometry
+accurate biophysical model platelet surface morphology model shape first principle make possible obtain realistic platelet geometry calm activated state
+peripheral zone rich glycoprotein required platelet adhesion activation aggregation
+sol-gel zone rich microtubule microfilaments allowing platelet maintain discoid shape
+alpha granule contain clotting mediator factor v factor viii fibrinogen fibronectin platelet-derived growth factor chemotactic agents
+delta granule dense body contain adp calcium serotonin platelet-activating mediators
+membranous zone contains membrane derived megakaryocyte smooth endoplasmic reticulum organized dense tubular system responsible thromboxane synthesis
+dense tubular system connected surface platelet membrane aid thromboxane releasemegakaryocyte platelet production regulated thrombopoietin hormone produced kidney liver
+reserve platelet stored spleen released needed splenic contraction induced sympathetic nervous systemthe average life span circulating platelet days
+life span individual platelet controlled internal apoptotic regulating pathway ha bcl-xl timer
+old platelet destroyed phagocytosis spleen liveran overview summarizing platelet dynamic complex process converting inactive platelet platelet plug essential
+complicating verbal description fact least protein interaction involved platelet dynamics
+separation platelet dynamic three stage useful regard artificial fact stage initiated rapid succession continues trigger stage longer present overlap
+thrombus formation intact endothelium prevented nitric oxide prostacyclin cd
+endothelial cell attached subendothelial collagen von willebrand factor vwf cell produce
+vwf also stored weibel-palade body endothelial cell secreted constitutively blood
+endothelial layer disrupted collagen vwf anchor platelet subendothelium
+platelet gpb-ix-v receptor bind vwf gpvi receptor integrin bind collagen
+intact endothelial lining inhibits platelet activation producing nitric oxide endothelial-adpase pgi prostacyclin
+resting platelet maintain active calcium efflux via cyclic amp-activated calcium pump
+intracellular calcium concentration determines platelet activation status second messenger drive platelet conformational change degranulation see below
+endothelial prostacyclin bind prostanoid receptor surface resting platelets
+event stimulates coupled g protein increase adenylate cyclase activity increase production camp promoting efflux calcium reducing intracellular calcium availability platelet activation
+since thrombocytic purinergic receptor py coupled gi protein adp reduces platelet adenylate cyclase activity camp production leading accumulation calcium inside platelet inactivating camp calcium efflux pump
+adp-receptor py couple gq activates phospholipase c-beta plcb resulting inositol trisphosphate ip generation intracellular release calcium
+clopidogrel related antiplatelet medication also work purinergic receptor py antagonists
+triggered collagen subendothelium bind receptor gpvi receptor integrin platelet
+gpvi associated fc receptor gamma chain lead via activation tyrosine kinase cascade finally activation plc-gamma plcg calcium release
+tissue factor also bind factor vii blood initiate extrinsic coagulation cascade increase thrombin production
+g protein-coupled receptor turn calcium-mediated signaling pathway within platelet overcoming baseline calcium efflux
+family three g protein gq gi g operate together full activation
+platelet activation turn degranulates release factor v fibrinogen potentiating coagulation cascade
+reality process platelet plugging coagulation occurring simultaneously rather sequentially inducing form final fibrin-crosslinked thrombus
+collagen-mediated gpvi signalling increase platelet production thromboxane txa decrease production prostacyclin
+occurs altering metabolic flux platelet's eicosanoid synthesis pathway involves enzyme phospholipase cyclo-oxygenase thromboxane-a synthase
+platelet secrete thromboxane act platelet's thromboxane receptor platelet surface hence so-called out-in mechanism platelets
+receptor trigger intraplatelet signaling convert gpiibiiia receptor active form initiate aggregation
+platelet contain dense granule lambda granule alpha granules
+activated platelet secrete content granule canalicular system exterior
+simplistically bound activated platelet degranulate release platelet chemotactic agent attract platelet site endothelial injury
+granule alpha granule containing p-selectin platelet factor transforming growth factor- platelet-derived growth factor fibronectin b-thromboglobulin vwf fibrinogen coagulation factor v xiii
+granule delta dense granule containing adp atp calcium serotonin
+granule gamma granule similar lysosome contain several hydrolytic enzymes
+granule lambda granule content involved resorption later stage vessel repairas shown flow cytometry electron microscopy sensitive sign activation exposed platelet using adp morphological changes
+intraplatelet calcium concentration increase stimulating interplay microtubuleactin filament complex
+continuous change shape unactivated fully activated platelet best seen scanning electron microscopy
+three step along path named early dendritic early spread spread
+surface unactivated platelet look similar surface brain wrinkled appearance numerous shallow fold increase surface area early dendritic octopus multiple arm leg early spread uncooked frying egg pan yolk central body spread cooked fried egg denser central body
+change brought interaction microtubuleactin complex platelet cell membrane open canalicular system ocs extension invagination membrane
+complex run beneath membrane chemical motor literally pull invaginated ocs interior platelet like turning pant pocket inside creating dendrites
+entire ocs thus becomes indistinguishable initial platelet membrane form fried egg
+dramatic increase surface area come neither stretching adding phospholipid platelet membrane
+platelet activation cause membrane surface become negatively charged
+one signaling pathway turn scramblase move negatively charged phospholipid inner outer platelet membrane surface
+phospholipid bind tenase prothrombinase complex two site interplay platelet coagulation cascade
+addition interacting vwf fibrin platelet interact thrombin factor x va viia xi ix prothrombin complete formation via coagulation cascade
+six study suggested platelet express tissue factor definitive study show not
+platelet rat conclusively shown express tissue factor protein also wa proved rat platelet carry tissue factor pre-mrna mature mrna
+aggregation begin minute activation occurs result turning gpiibiiia receptor allowing receptor bind vwf fibrinogen
+one least nine different platelet surface receptor turned activation intraplatelet signaling pathway cause existing gpiibiiia receptor change shape curled straight thus become capable binding
+since fibrinogen rod-like protein nodule either end capable binding gpiibiiia activated platelet exposed gpiibiiia bind fibrinogen aggregate
+gpiibiiia may also anchor platelet subendothelial vwf additional structural stabilisation
+classically wa thought wa mechanism involved aggregation three new mechanism identified initiate aggregation depending velocity blood flow ie
+blood clot temporary solution stop bleeding tissue repair needed
+small interruption endothelium handled physiological mechanism large interruption trauma surgeon
+fibrin slowly dissolved fibrinolytic enzyme plasmin platelet cleared phagocytosis
+platelet central role innate immunity initiating participating multiple inflammatory process directly binding pathogen even destroying them
+support clinical data show many serious bacterial viral infection thrombocytopenia thus reducing contribution inflammation
+also platelet-leukocyte aggregate plas found circulation typical sepsis inflammatory bowel disease showing connection thrombocyte immune cell sensu stricto
+hemostasis basic function thrombocyte mammal also ha us possible infection confinement
+case injury platelet together coagulation cascade form first line defense forming blood clot
+example atlantic horseshoe crab living fossil estimated million year old blood cell type amebocyte facilitates hemostatic function encapsulation phagocytosis pathogen mean exocytosis intracellular granule containing bactericidal defense molecules
+blood clotting support immune function trapping pathogenic bacteria within
+although thrombosis blood coagulation intact blood vessel usually viewed pathological immune response leading obturation lumen blood vessel subsequent hypoxic tissue damage case directed thrombosis called immunothrombosis locally control spread infection
+process initiated either immune cell sensu stricto activating pattern recognition receptor prrs platelet-bacterial binding
+platelet bind bacteria either directly thrombocytic prrs bacterial surface protein via plasma protein bind platelet bacteria
+monocyte respond bacterial pathogen-associated molecular pattern pamps damage-associated molecular pattern damp activating extrinsic pathway coagulation
+net bind tissue factor binding coagulation centre location infection
+also activate intrinsic coagulation pathway providing negatively charged surface factor xii
+neutrophil secretion proteolytic enzyme cleave coagulation inhibitor also bolster process
+case imbalance throughout regulation immunothrombosis process quickly become aberrant
+regulatory defect immunothrombosis suspected major factor causing pathological thrombosis many form disseminated intravascular coagulation dic deep vein thrombosis
+dic sepsis prime example dysregulated coagulation process well undue systemic inflammatory response resulting multitude microthrombi similar composition physiological immunothrombosis fibrin platelet neutrophil nets
+platelet rapidly deployed site injury infection potentially modulate inflammatory process interacting leukocyte secreting cytokine chemokines inflammatory mediators
+interaction plas also induce degranulation increased phagocytosis neutrophils
+platelet also largest source soluble cdl induces production reactive oxygen specie ro upregulate expression adhesion molecule e-selectin icam- vcam- neutrophil activates macrophage activates cytotoxic response b lymphocytes
+recently dogma mammalian platelet lacking nucleus unable autonomous locomotion wa broken
+fact platelet active scavenger scaling wall blood vessel reorganising thrombus
+even able fully envelop open canalicular system ocp leading proposed name process covercytosis rather phagocytosis ocs merely invagination outer plasma membrane
+platelet-bacteria bundle used interaction platform neutrophil destroy bacteria using netosis phagocytosis
+platelet also participate chronic inflammatory disease synovitis rheumatoid arthritis
+proinflammatory platelet microvesicles trigger constant cytokine secretion neighboring fibroblast-like synoviocytes prominently il- il-
+inflammatory damage surrounding extracellular matrix continually reveals collagen maintaining microvesicle production
+activated platelet able participate adaptive immunity interacting antibodies
+able specifically bind igg fcriia receptor constant fragment fc igg
+activated bound igg opsonised bacteria platelet subsequently release reactive oxygen specie ro antimicrobial peptide defensins kinocidins protease killing bacteria directly
+platelet also secrete proinflammatory procoagulant mediator inorganic polyphosphate platelet factor pf connecting innate adaptive immune responses
+bleeding caused deficient number platelet dysfunctional platelet excessive number platelet millionmicroliter
+excessive number create relative von willebrand factor deficiency due sequestration
+one get clue whether bleeding due platelet disorder coagulation factor disorder characteristic location bleeding
+following suggest platelet bleeding coagulation bleeding bleeding skin cut razor nick prompt excessive controlled pressure spontaneous bleeding skin cause purplish stain named size petechia purpura ecchymosis bleeding mucous membrane causing bleeding gum nose bleed gastrointestinal bleeding menorrhagia intraretinal intracranial bleeding
+excessive number platelet andor normal platelet responding abnormal vessel wall result venous thrombosis arterial thrombosis
+bleeding time wa first developed test platelet function duke in
+duke's test measured time taken bleeding stop standardized wound ear lobe wa blotted every seconds
+normal bleeding time reflects sufficient platelet number function plus normal microvasculature
+multiple electrode aggregometry anticoagulated whole blood mixed saline platelet agonist single-use cuvette two pair electrodes
+increase impedance electrode platelet aggregate onto measured visualized curve
+light transmission aggregometry lta platelet-rich plasma placed light source photocell
+unaggregated plasma allows relatively little light pas through
+adding agonist platelet aggregate resulting greater light transmission detected photocell
+pfa- platelet function assay system analysing platelet function citrated whole blood aspirated disposable cartridge containing aperture within membrane coated either collagen epinephrine collagen adp
+agonist induce platelet adhesion activation aggregation leading rapid occlusion aperture cessation blood flow termed closure time ct
+elevated ct epi collagen indicate intrinsic defect von willebrand disease uremia circulating platelet inhibitors
+follow-up test involving collagen adp used indicate abnormal ct collagen epi wa caused effect acetyl sulfosalicylic acid aspirin medication containing inhibitors
+three broad category platelet disorder enough dysfunctional many
+immune thrombocytopenia itp formerly known immune thrombocytopenic purpura idiopathic thrombocytopenic purpura
+drug-induced thrombocytopenic purpura five known drug problematic heparin-induced thrombocytopenia hit
+congenitalsome drug used treat inflammation unwanted side effect suppressing normal platelet function
+aspirin irreversibly disrupts platelet function inhibiting cyclooxygenase- cox hence normal hemostasis
+normal platelet function return use aspirin ha ceased enough affected platelet replaced new one take week
+ibuprofen another nsaid doe long duration effect platelet function usually returning within hour taking ibuprofen aspirin prevents irreversible effect aspirin
+others oprelvekin romiplostim eltrombopag argatrobanplatelet transfusion frequently used correct unusually low platelet count either prevent spontaneous bleeding typically count l anticipation medical procedure necessarily involve bleeding
+example patient undergoing surgery level l associated abnormal surgical bleeding regional anaesthetic procedure epidural avoided level l
+platelet may also transfused platelet count normal platelet dysfunctional individual taking aspirin clopidogrel
+finally platelet may transfused part massive transfusion protocol three major blood component red blood cell plasma platelet transfused address severe hemorrhage
+platelet transfusion contraindicated thrombotic thrombocytopenic purpura ttp fuel coagulopathy
+platelet either isolated collected unit whole blood pooled make therapeutic dose collected platelet apheresis blood taken donor passed device remove platelet remainder returned donor closed loop
+industry standard platelet tested bacteria transfusion avoid septic reaction fatal
+recently aabb industry standard blood bank transfusion service ha allowed use pathogen reduction technology alternative bacterial screening platelets
+pooled whole-blood platelet sometimes called random platelet separated one two methods
+u unit whole blood placed large centrifuge referred soft spin
+platelet-rich plasma prp removed red cell centrifuged faster setting harvest platelet plasma
+region world unit whole blood centrifuged using setting cause platelet become suspended buffy coat layer includes platelet white blood cells
+buffy coat isolated sterile bag suspended small amount red blood cell plasma centrifuged separate platelet plasma red white blood cells
+regardless initial method preparation multiple donation may combined one container using sterile connection device manufacture single product desired therapeutic dose
+apheresis platelet collected using mechanical device draw blood donor centrifuge collected blood separate platelet component collected
+advantage method single donation provides least one therapeutic dose opposed multiple donation whole-blood platelets
+mean recipient exposed many different donor ha le risk transfusion-transmitted disease complications
+sometimes person cancer patient requires routine transfusion platelet receive repeated donation specific donor minimize risk
+pathogen reduction platelet using example riboflavin uv light treatment also carried reduce infectious load pathogen contained donated blood product thereby reducing risk transmission transfusion-transmitted diseases
+another photochemical treatment process utilizing amotosalen uva light ha developed inactivation virus bacteria parasite leukocyte contaminate blood component intended transfusion
+addition apheresis platelet tend contain fewer contaminating red blood cell collection method efficient soft spin centrifugation isolating desired blood component
+platelet collected either method short shelf life typically five days
+result frequent problem short supply testing donation often requires full day
+since effective preservative solution platelet lose potency quickly best fresh
+unit refrigerated cause platelet change shape lose function
+storage room temperature provides environment bacteria introduced blood component collection process may proliferate subsequently cause bacteremia patient
+regulation place united state require product tested presence bacterial contamination transfusion
+platelet need belong a-b-o blood group recipient cross-matched ensure immune compatibility donor recipient unless contain significant amount red blood cell rbcs
+presence rbc imparts reddish-orange color product usually associated whole-blood platelets
+effort sometimes made issue type specific platelet critical rbcs
+prior issuing platelet recipient may irradiated prevent transfusion-associated graft versus host disease may washed remove plasma indicated
+change recipient's platelet count transfusion termed increment calculated subtracting pre-transfusion platelet count post-transfusion platelet count
+many factor affect increment including recipient's body size number platelet transfused clinical feature may cause premature destruction transfused platelets
+recipient fail demonstrate adequate post-transfusion increment termed platelet transfusion refractoriness
+platelet either apheresis-derived random-donor processed volume reduction process
+process platelet spun centrifuge excess plasma removed leaving ml platelet concentrate
+volume-reduced platelet normally transfused neonatal pediatric patient large volume plasma could overload child's small circulatory system
+lower volume plasma also reduces chance adverse transfusion reaction plasma proteins
+platelet release platelet-derived growth factor pdgf potent chemotactic agent tgf beta stimulates deposition extracellular matrix fibroblast growth factor insulin-like growth factor platelet-derived epidermal growth factor vascular endothelial growth factor
+local application factor increased concentration platelet-rich plasma prp used adjunct wound healing
+instead platelet non-mammalian vertebrate nucleated thrombocyte resemble b lymphocyte morphology
+aggregate response thrombin adp serotonin adrenaline platelet do
+george gulliver drew picture platelet using twin lens compound microscope invented joseph jackson lister
+microscope improved resolution sufficiently make possible see platelet first time
+lionel beale wa first publish drawing showing platelets
+max schultze described called spherule noted much smaller red blood cell occasionally clumped sometimes found collection fibrin material
+article scientific american suggests bizzozero proposed name blutplattchen
+william osler observed platelet published lecture called third corpuscle blood plaque described colorless protoplasmic disc
+james wright examined blood smear using stain named used term plate publication changed platelet publication ha become universally accepted termthe term thrombocyte clot cell came use early sometimes used synonym platelet generally scientific literature except root word term related platelet
+term thrombocyte proper mononuclear cell found blood non-mammalian vertebrate functional equivalent platelet circulate intact cell rather cytoplasmic fragment bone marrow megakaryocytes
+context word thrombus used interchangeably word clot regardless composition white red mixed
+context used contrast normal abnormal clot thrombus arises physiologic hemostasis thrombosis arises pathologic excessive quantity clot
+third context used contrast result process thrombus result thrombosis proces

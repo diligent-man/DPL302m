@@ -1,0 +1,21 @@
+facebook home wa user interface layer android smartphones
+developed company known facebook meta platform software wa designed drop-in replacement device's existing home screen launcher
+provided replacement home screen allowed user easily view post content facebook along launching apps replacement lock screen displayed notification facebook apps overlay allowed user chat via facebook message sm app
+facebook home wa unveiled press event april wa released april limited selection device htc samsung electronicsincluding htc first new smartphone pre-loaded software
+meta platform longer supporting providing update facebook home
+citing many user use smartphones social networking service facebook designer aimed create alternative user environment would emphasize interacting device people instead apps
+cover feed served replacement home screen using facebook home wa used view update posted others facebook full screen environment access application launcher
+lock screen displayed notification sorted priority using internal algorithm facebook apps card also displaying update similar format
+home aimed hide much android shell possible default interface element status bar top screen hidden
+system known chat head wa used message sm avatar friend conversation user overlaid android interface
+tapping avatar opened pop-up chat window app currently use
+facebook promised support home wide range device including smartphones tablet currently compatible htc first pre-loaded home wa unveiled alongside software one x one x one samsung galaxy iii note ii nexus
+initially ability view non-facebook notification home wa available htc first technical limitation prevented functionality device patched htc first's distribution android
+facebook home interface wa officially incompatible android device feature backported facebook's main apps
+update facebook messenger app added chat head update main facebook app august added ability enable cover feed lock screen however cover feed supported device would otherwise support facebook home
+though expert review david pogue new york time positive generally acknowledged experience home wa polished reinvents way open program phone enhance focus facebook feature detriment apps focused social networking
+others like om malik highlighted potential privacy concern noting use facebook home might allow company unprecedented access user data mobile devices
+response poor reception facebook indicated late-may wa planning making improvement home response consumer feedback
+first improvement came update released early-june adding ability pin shortcut tray bottom application menu screen
+december facebook released update home added traditional home screen
+home ha updated since longer available google play store

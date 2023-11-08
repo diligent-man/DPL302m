@@ -1,6 +1,6 @@
 import os
 import shutil
-
+from sklearn.model_selection import train_test_split
 
 def main() -> None:
     if 'en_corpus.txt' in os.listdir('../../../../Wrong_word_generator/'):
@@ -26,15 +26,26 @@ def main() -> None:
         data_dir = metadata["preprocessed_data_dir_" + flag][0]
         data_dir = data_dir + '/' + category
 
-        # read & write into synthesized.txt
+        # read data
+        data = []
         for i in range(len(os.listdir(data_dir))):
             print(data_dir, i)
             file = data_dir + '/' + os.listdir(data_dir)[i]
-            with open(file=file, mode='r') as reader:
-                with open (file='../../../../Wrong_word_generator/en_corpus.txt', mode='a') as writer:
-                    writer.write(reader.read())
+            with open(file=file, mode='r') as f:
+                for line in f:
+                    data.append(line)
 
-    shutil.rmtree('../Preprocessed_data')
+        train, test = train_test_split(data, test_size=0.2, random_state=12345, shuffle=True)
+
+        # write to file
+        with open(file='../../../../Modelling/En/train.txt', mode='w') as f:
+            f.writelines(train)
+        
+        with open(file='../../../../Modelling/En/test.txt', mode='w') as f:
+            f.writelines(test)
+
+
+    # shutil.rmtree('../Preprocessed_data')
     return None
 
 

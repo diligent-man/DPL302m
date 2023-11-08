@@ -1,19 +1,18 @@
-Đeef xuaats Binhf Chanhs leen thanhf phoos
-Vieenj Nghieen cuwus phats trieenr đeef xuaats huyeenj Binhf Chanhs neen laf thanhf phoos truwcj thuoocj TP HCM vif điaj phuwowng khoong cos khar nawng chuyeenr đooir thanhf quaanj truwowcs nawm
-Nooij dung đuwowcj Vieenj Nghieen cuwus phats trieenr TP HCM HIDS neeu trong duwj thaor gops ys hoanf thieenj đeef ans huyeenj Binhf Chanhs thanhf quaanj hoawcj thanhf phoos duwj kieens dieenx ra vaof ngayf
-Binhf Chanhs laf huyeenj ngoaij thanhf owr cuwar ngox Taay Nam cuar TP HCM cos dieenj tichs km chir đuwngs sau Caanf Giowf vaf Cur Chi
-Đaay laf huyeenj cos soos daan đoong nhaats car nuwowcs vowis nguwowif
-Nhuwngx nawm qua toocs đooj đoo thij hoas treen điaj banf ngayf cangf nhanh
-Theo HIDS đoois chieeus hieenj trangj so cacs tieeu chuaanr theo Nghij quyeets veef phaan loaij đoo thij Nghij quyeets veef tieeu chuaanr cuar đown vij hanhf chinhs vaf phaan loaij đown vij hanhf chinhs Binhf Chanhs khoong cos khar nawng chuyeenr đooir thanhf đown vij hanhf chinhs caaps quaanj tuwf đaay đeens nawm
-Trong khi đos điaj phuwowng nayf cos theer đatj đuwowcj cacs tieeu chis phaan loaij đoo thij loaij III chuyeenr đooir sang moo hinhf thanhf phoos thuoocj thanhf phoos vaof nawm
-Đeer đatj mucj tieeu nayf đeens nawm huyeenj Binhf Chanhs caanf đaauf tuw nhieeuf duwj ans phats trieenr haj taangf đoo thij giao thoong cair taoj mooi truwowngf
-Toongr voons đaauf tuw uwowcs khoangr tyr đoongf bao goomf car nguoonf xax hooij hoas
-Theo Nghij quyeets cuar Ủy ban Thuwowngf vuj Quoocs hooij tieeu chuaanr thanhf phoos thuoocj tinhr hoawcj thanhf phoos truwcj thuoocj Trung uwowng goomf tuwf nguwowif trowr leen dieenj tichs hown km cos hown đown vij hanhf chinhs caaps xax truwcj thuoocj tyr leej soos phuwowngf treen toongr soos đown vij hanhf chinhs caaps xax tuwf
-Conf tieeu chuaanr leen quaanj thuoocj thanhf phoos truwcj thuoocj Trung uwowng goomf maatj đooj daan soos đatj tuwf nguwowif mooix km tyr leej lao đoongj phi noong nghieepj đatj tuwf so vowis toongr soos lao đoongj tyr trongj coong nghieepj thuwowng maij dichj vuj du lichj trong cow caaus kinh tees đatj tuwf trowr leen haj taangf đoo thij đoongf booj vaf hoanf chinhr
-Cungx theo HIDS duf laf đaauf moois giao thoong noois lieenf TP HCM vowis cacs tinhr Đoongf bawngf soong Cuwur Long song haj taangf giao thoong keets noois nooij booj trong huyeenj conf hanj chees nhaats laf cacs khu vuwcj laan caanj vaf tieeps giaps Long An
-Đieeuf nayf đax gaay canr trowr raats lowns cho quas trinhf đoo thij hoas phats trieenr kinh tees vaf lieen keets giuwax hai vungf
-Been canhj đos đaats đai treen điaj banf huyeenj conf nhieeuf nhuwng chuwa khai thacs hieeuj quar booj mays quanr lys theo đown vij hanhf chinhs noong thoon gawpj nhieeuf khos khawn khoong theer đootj phas trong phats trieenr kinh tees xax hooij đeer naang cao chaats luwowngj cuoocj soongs cho nguwowif daan
-Vieecj chuyeenr đooir tuwf caaps huyeenj sang đown vij hanhf chinhs caaps đoo thij moo hinhf thanhf phoos thuoocj thanhf phoos đuwowcj cho sex giups Binhf Chanhs cos đieeuf kieenj đaauf tuw haj taangf khai thacs tieemf nawng thees manhj
-Kees hoachj đaauf tuw xaay duwngj cacs huyeenj đeer laapj đown vij hanhf chinhs quaanj hoawcj thanhf phoos laf nhieemj vuj đuwowcj đawtj ra trong Nghij quyeets Đaij hooij Đangr booj TP HCM laanf XI nhieemj kyf
-Hai nawm qua laanf luwowtj huyeenj cuar TP HCM laf Cur Chi Binhf Chanhs Caanf Giowf Nhaf Bef vaf Hocs Moon đeeuf muoons leen thanhf phoos truwowcs
-Cuoois nawm ngoais sau cuoocj hopj veef tieens đooj trieenr khai Đeef ans đaauf tuw xaay duwngj cacs huyeenj thanhf quaanj hoawcj thanhf phoos giai đoanj UBND thanhf phoos đeef nghij cacs huyeenj ngoaij thanhf khoong xin chur truwowng leen quaanj hoawcj thanhf phoos maf chowf sau khi đatj chuaanr TP HCM mowis quyeets đinhj moo hinhf phuf howpj vowis tuwngf điaj phuwowng
+viện nghiên cứu phát triển đề xuất huyện bình chánh nên là thành phố trực thuộc tp hcm vì địa phương không có khả năng chuyển đổi thành quận trước năm
+nội dung được viện nghiên cứu phát triển tp hcm hids nêu trong dự thảo góp ý hoàn thiện đề án huyện bình chánh thành quận hoặc thành phố dự kiến diễn ra vào ngày
+bình chánh là huyện ngoại thành ở cửa ngõ tây nam của tp hcm có diện tích km chỉ đứng sau cần giờ và củ chi
+đây là huyện có số dân đông nhất cả nước với người
+những năm qua tốc độ đô thị hóa trên địa bàn ngày càng nhanh
+theo hids đối chiếu hiện trạng so các tiêu chuẩn theo nghị quyết về phân loại đô thị nghị quyết về tiêu chuẩn của đơn vị hành chính và phân loại đơn vị hành chính bình chánh không có khả
+trong khi đó địa phương này có thể đạt được các tiêu chí phân loại đô thị loại iii chuyển đổi sang mô hình thành phố thuộc thành phố vào năm
+để đạt mục tiêu naỳ đến năm huyện bình chánh cần đầu tư nhiều dự án phát triển hạ tầng đô thị giao thông cải tạo môi trường
+tổng vốn đầu tư ước khoảng tỷ đồng bao gồm cả nguồn xã hội hoá
+theo nghị quyết của ủy ban thường vụ quốc hôị tiêu chuẩn thành phố thuộc tỉnh hoặc thành phố trực thuộc trung ương gồm từ người trở lên diện tích hơn km có hơn đơn vị hành chính cấp xã
+còn tiêu chuẩn lên quận thuộc thành phố trực thuộc trung ương gồm mật độ dân số đạt từ người mỗi km tỷ lệ lao động phi nông nghiệp đạt từ so với tổng số lao động tỷ trọng công
+cũng theo hids dù là đầu mối giao thông nối liền tp hcm với các tỉnh đồng bằng sông cửu long song hạ tầng giao thông kết nối nội bộ trong huyện còn hạn chế nhất là các khu vực
+điều này đã gây cản trở rất lớn cho quá trình đô thị hoá phát triển kinh tế và liên kết giữa hai vùng
+bên cạnh đó đất đai trên địa bàn huyện còn nhiều nhưng chưa khai thác hiệu quả bộ máy quản lý theo đơn vị hành chính nông thôn gặp nhiều khó khăn không thể đột phá trong phát triển kinh
+việc chuyển đổi từ cấp huyện sang đơn vị hành chính cấp đô thị mô hình thành phố thuộc thành phố được cho sẽ giúp bình chánh có điều kiện đầu tư hạ tầng khai thác tiềm năng thế mạnh
+kế hoạch đầu tư xây dựng các huyện để lập đơn vị hành chính quận hoặc thành phố là nhiệm vụ được đặt ra trong nghị quyết đại hội đảng bộ tp hcm lần xi nhiệm kỳ
+hai năm qua lần lượt huyện của tp hcm là củ chi bình chánh cần giờ nhà bè và hóc môn đều muốn lên thành phố trước
+cuối năm ngoái sau cuộc họp về tiến độ triển khai đề án đầu tư xây dựng các huyện thành quận hoặc thành phố giai đoạn ubnd thành phố đề nghị các huyện ngoại thành không xin chủ trương lên

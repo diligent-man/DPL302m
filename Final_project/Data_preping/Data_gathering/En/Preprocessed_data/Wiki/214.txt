@@ -1,0 +1,458 @@
+artificial intelligence ai intelligence demonstrated machine opposed natural intelligence displayed animal including humans
+ai research ha defined field study intelligent agent refers system perceives environment take action maximize chance achieving goals
+term artificial intelligence previously used describe machine mimic display human cognitive skill associated human mind learning problem-solving
+definition ha since rejected major ai researcher describe ai term rationality acting rationally doe limit intelligence articulated
+ai application include advanced web search engine eg google recommendation system used youtube amazon netflix understanding human speech siri alexa self-driving car eg tesla automated decision-making competing highest level strategic game system chess go
+machine become increasingly capable task considered require intelligence often removed definition ai phenomenon known ai effect
+instance optical character recognition frequently excluded thing considered ai become routine technology
+artificial intelligence wa founded academic discipline year since ha experienced several wave optimism followed disappointment loss funding known ai winter followed new approach success renewed funding
+ai research ha tried discarded many different approach since founding including simulating brain modeling human problem solving formal logic large database knowledge imitating animal behavior
+first decade st century highly mathematical-statistical machine learning ha dominated field technique ha proved highly successful helping solve many challenging problem throughout industry academia
+various sub-fields ai research centered around particular goal use particular tools
+traditional goal ai research include reasoning knowledge representation planning learning natural language processing perception ability move manipulate objects
+general intelligence ability solve arbitrary problem among field's long-term goals
+solve problem ai researcher adapted integrated wide range problem-solving techniquesincluding search mathematical optimization formal logic artificial neural network method based statistic probability economics
+ai also draw upon computer science psychology linguistics philosophy many fields
+field wa founded assumption human intelligence precisely described machine made simulate it
+raised philosophical argument mind ethical consequence creating artificial endowed human-like intelligence issue previously explored myth fiction philosophy since antiquity
+computer scientist philosopher since suggested ai may become existential risk humanity rational capacity steered towards beneficial goals
+common fiction mary shelley's frankenstein karel apek's rur
+character fate raised many issue discussed ethic artificial intelligence
+study mechanical formal reasoning began philosopher mathematician antiquity
+study mathematical logic led directly alan turing's theory computation suggested machine shuffling symbol simple could simulate conceivable act mathematical deduction
+insight digital computer simulate process formal reasoning known church-turing thesis
+church-turing thesis along concurrent discovery neurobiology information theory cybernetics led researcher consider possibility building electronic brain
+first work generally recognized ai wa mccullouch pitts' formal design turing-complete artificial neurons
+one vision known symbolic ai gofai wa use computer create symbolic representation world system could reason world
+closely associated approach wa heuristic search approach likened intelligence problem exploring space possibility answers
+second vision known connectionist approach sought achieve intelligence learning
+proponent approach prominently frank rosenblatt sought connect perceptron way inspired connection neurons
+james manyika others compared two approach mind symbolic ai brain connectionist
+manyika argues symbolic approach dominated push artificial intelligence period due part connection intellectual tradition descarte boole gottlob frege bertrand russell others
+connectionist approach based cybernetics artificial neural network pushed background gained new prominence recent decades
+field ai research wa born workshop dartmouth college in
+computer learning checker strategy solving word problem algebra proving logical theorem speaking english
+researcher convinced symbolic approach would eventually succeed creating machine artificial general intelligence considered goal field
+herbert simon predicted machine capable within twenty year work man do
+ongoing pressure u congress fund productive project us
+next year would later called ai winter period obtaining funding ai project wa difficult
+early ai research wa revived commercial success expert systems
+form ai program simulated knowledge analytical skill human experts
+time japan's fifth generation computer project inspired u british government restore funding academic research
+however beginning collapse lisp machine market ai fell disrepute second longer-lasting winter began
+many researcher began doubt symbolic approach would able imitate process human cognition especially perception robotics learning pattern recognition
+number researcher began look sub-symbolic approach specific ai problems
+robotics researcher rodney brook rejected symbolic ai focused basic engineering problem would allow robot move survive learn environment
+interest neural network connectionism wa revived geoffrey hinton david rumelhart others middle s
+soft computing tool developed neural network fuzzy system grey system theory evolutionary computation many tool drawn statistic mathematical optimization
+ai gradually restored reputation late early st century finding specific solution specific problems
+narrow focus allowed researcher produce verifiable result exploit mathematical method collaborate field statistic economics mathematics
+solution developed ai researcher widely used although rarely described artificial intelligence
+faster computer algorithmic improvement access large amount data enabled advance machine learning perception data-hungry deep learning method started dominate accuracy benchmark around
+according bloomberg's jack clark wa landmark year artificial intelligence number software project use ai within google increased sporadic usage projects
+attribute increase affordable neural network due rise cloud computing infrastructure increase research tool datasets
+survey one five company reported incorporated ai offering processes
+amount research ai measured total publication increased years
+numerous academic researcher became concerned ai wa longer pursuing original goal creating versatile fully intelligent machines
+much current research involves statistical ai overwhelmingly used solve specific problem even highly successful technique deep learning
+concern ha led subfield artificial general intelligence agi several well-funded institution s
+general problem simulating creating intelligence ha broken sub-problems
+consist particular trait capability researcher expect intelligent system display
+early researcher developed algorithm imitated step-by-step reasoning human use solve puzzle make logical deductions
+late ai research developed method dealing uncertain incomplete information employing concept probability economics
+many algorithm proved insufficient solving large reasoning problem experienced combinatorial explosion became exponentially slower problem grew larger
+even human rarely use step-by-step deduction early ai research could model
+allow ai program answer question intelligently make deduction real-world facts
+representation exists ontology set object relation concept property formally described software agent interpret them
+general ontology called upper ontology attempt provide foundation knowledge act mediator domain ontology cover specific knowledge particular knowledge domain field interest area concern
+truly intelligent program would also need access commonsense knowledge set fact average person knows
+semantics ontology typically represented description logic web ontology language
+ai research ha developed tool represent specific domain object property category relation objects
+default reasoning thing human assume true told differently remain true even fact changing
+among difficult problem ai breadth commonsense knowledge number atomic fact average person know enormous
+sub-symbolic form commonsense knowledge much people know represented fact statement could express verbally
+knowledge discovery mining interesting actionable inference large databases
+intelligent agent plan make representation state world make prediction action change make choice maximize utility value available choices
+classical planning problem agent assume system acting world allowing agent certain consequence actions
+however agent actor requires agent reason uncertainty continuously re-assess environment adapt
+multi-agent planning us cooperation competition many agent achieve given goal
+machine learning ml fundamental concept ai research since field's inception
+supervised learning requires human label input data first come two main variety classification numerical regression
+classification used determine category something belongs inthe program see number example thing several category learn classify new inputs
+regression attempt produce function describes relationship input output predicts output change input change
+classifier regression learner viewed function approximators trying learn unknown possibly implicit function example spam classifier viewed learning function map text email one two category spam spam
+reinforcement learning agent rewarded good response punished bad ones
+agent classifies response form strategy operating problem space
+transfer learning knowledge gained one problem applied new problem
+computational learning theory ass learner computational complexity sample complexity much data required notion optimization
+sufficiently powerful natural language processing system would enable natural-language user interface acquisition knowledge directly human-written source newswire texts
+straightforward application nlp include information retrieval question answering machine translation
+symbolic ai used formal syntax translate deep structure sentence logic
+failed produce useful application due intractability logic breadth commonsense knowledge
+modern statistical technique include co-occurrence frequency often one word appears near another keyword spotting searching particular word retrieve information transformer-based deep learning find pattern text others
+achieved acceptable accuracy page paragraph level could generate coherent textmachine perception
+ability use input sensor camera microphone wireless signal active lidar sonar radar tactile sensor deduce aspect world
+computer vision ability analyze visual inputai heavily used robotics
+given small static visible environment easy however dynamic environment endoscopy interior patient's breathing body pose greater challenge
+motion planning process breaking movement task primitive individual joint movements
+movement often involves compliant motion process movement requires maintaining physical contact object
+robot learn experience move efficiently despite presence friction gear slippageaffective computing interdisciplinary umbrella comprises system recognize interpret process simulate human feeling emotion mood
+example virtual assistant programmed speak conversationally even banter humorously make appear sensitive emotional dynamic human interaction otherwise facilitate human-computer interaction
+however tends give nave user unrealistic conception intelligent existing computer agent actually are
+moderate success related affective computing include textual sentiment analysis recently multimodal sentiment analysis wherein ai classifies affect displayed videotaped subjecta machine general intelligence solve wide variety problem breadth versatility similar human intelligence
+han moravec marvin minsky argue work different individual domain incorporated advanced multi-agent system cognitive architecture general intelligence
+pedro domingo hope conceptually straightforward mathematically difficult master algorithm could lead agi
+many problem ai solved theoretically intelligently searching many possible solution reasoning reduced performing search
+example logical proof viewed searching path lead premise conclusion step application inference rule
+planning algorithm search tree goal subgoals attempting find path target goal process called means-ends analysis
+robotics algorithm moving limb grasping object use local search configuration space
+rarely sufficient real-world problem search space number place search quickly grows astronomical numbers
+solution many problem use heuristic rule thumb prioritize choice favor likely reach goal shorter number steps
+search methodology heuristic also serve eliminate choice unlikely lead goal called pruning search tree
+heuristic supply program best guess path solution lies
+different kind search came prominence based mathematical theory optimization
+many problem possible begin search form guess refine guess incrementally refinement made
+algorithm visualized blind hill climbing begin search random point landscape jump step keep moving guess uphill reach top
+related optimization algorithm include random optimization beam search metaheuristics like simulated annealing
+example may begin population organism guess allow mutate recombine selecting fittest survive generation refining guesses
+classic evolutionary algorithm include genetic algorithm gene expression programming genetic programming
+alternatively distributed search process coordinate via swarm intelligence algorithms
+two popular swarm algorithm used search particle swarm optimization inspired bird flocking ant colony optimization inspired ant trails
+add quantifier predicate express fact object property relation other
+fuzzy logic assigns degree truth vague statement alice old rich tall hungry linguistically imprecise completely true false
+default logic non-monotonic logic circumscription form logic designed help default reasoning qualification problem
+several extension logic designed handle specific domain knowledge description logics
+situation calculus event calculus fluent calculus representing event time
+logic model contradictory inconsistent statement arising multi-agent system also designed paraconsistent logics
+many problem ai including reasoning planning learning perception robotics require agent operate incomplete uncertain information
+ai researcher devised number tool solve problem using method probability theory economics
+general tool used various problem including reasoning using bayesian inference algorithm
+planning using decision network perception using dynamic bayesian networks
+probabilistic algorithm also used filtering prediction smoothing finding explanation stream data helping perception system analyze process occur time eg hidden markov model kalman filters
+key concept science economics utility measure valuable something intelligent agent
+precise mathematical tool developed analyze agent make choice plan using decision theory decision analysis
+tool include model markov decision process dynamic decision network game theory mechanism design
+simplest ai application divided two type classifier shiny diamond controller diamond pick up
+controller however also classify condition inferring action therefore classification form central part many ai systems
+classifier function use pattern matching determine closest match
+new observation received observation classified based previous experience
+classifier trained various way many statistical machine learning approaches
+decision tree simplest widely used symbolic machine learning algorithm
+k-nearest neighbor algorithm wa widely used analogical ai mid-s
+kernel method support vector machine svm displaced k-nearest neighbor s
+naive bayes classifier reportedly widely used learner google due part scalability
+classifier performance depends greatly characteristic data classified dataset size distribution sample across class dimensionality level noise
+model-based classifier perform well assumed model extremely good fit actual data
+otherwise matching model available accuracy rather speed scalability sole concern conventional wisdom discriminative classifier especially svm tend accurate model-based classifier naive bayes practical data sets
+simple neuron n accepts input neuron activated fired cast weighted vote whether neuron n activate
+learning requires algorithm adjust weight based training data one simple algorithm dubbed fire together wire together increase weight two connected neuron activation one trigger successful activation another
+neuron continuous spectrum activation addition neuron process input nonlinear way rather weighing straightforward votes
+modern neural network model complex relationship input output find pattern data
+neural network viewed type mathematical optimizationthey perform gradient descent multi-dimensional topology wa created training network
+learning technique neural network hebbian learning fire together wire together gmdh competitive learning
+main category network acyclic feedforward neural network signal pass one direction recurrent neural network allow feedback short-term memory previous input events
+among popular feedforward network perceptrons multi-layer perceptrons radial basis networks
+multiple layer progressively extract higher-level feature raw input
+example image processing lower layer may identify edge higher layer may identify concept relevant human digit letter faces
+deep learning ha drastically improved performance program many important subfields artificial intelligence including computer vision speech recognition image classification others
+deep learning often us convolutional neural network many layers
+convolutional layer neuron receives input restricted area previous layer called neuron's receptive field
+substantially reduce number weighted connection neuron creates hierarchy similar organization animal visual cortex
+however long-term gradient back-propagated vanish tend zero explode tend infinity known vanishing gradient problem
+long short term memory lstm technique prevent cases
+specialized language artificial intelligence developed lisp prolog tensorflow many others
+hardware developed ai includes ai accelerator neuromorphic computing
+modern artificial intelligence technique pervasive numerous list here
+frequently technique reach mainstream use longer considered artificial intelligence phenomenon described ai effect
+ai application heart commercially successful area computing become ubiquitous feature daily life
+targeting online advertisement recommendation system offered netflix youtube amazon
+virtual assistant siri alexa autonomous vehicle including drone self-driving cars
+also thousand successful ai application used solve problem specific industry institutions
+game playing ha test ai's strength since s
+deep blue became first computer chess-playing system beat reigning world chess champion garry kasparov may
+jeopardy quiz show exhibition match ibm's question answering system watson defeated two greatest jeopardy champion brad rutter ken jennings significant margin
+march alphago game go match go champion lee sedol becoming first computer go-playing system beat professional go player without handicaps
+program handle imperfect-information game poker superhuman level pluribus cepheus
+deepmind developed generalized artificial intelligence could learn many diverse atari game own
+natural language processing system enormous gpt- far largest artificial neural network matching human performance pre-existing benchmark albeit without system attaining commonsense understanding content benchmarks
+deepmind's alphafold demonstrated ability approximate hour rather month structure protein
+application predict result judicial decision create art poetry painting prove mathematical theorems
+wipo reported ai wa prolific emerging technology term number patent application granted patent internet thing wa estimated largest term market size
+wa followed market size big data technology robotics ai printing fifth generation mobile service g
+since ai emerged ai-related patent application filed innovator million scientific paper published researcher majority ai-related patent filing published since
+company represent top ai patent applicant university public research organization accounting remaining four
+ratio scientific paper invention ha significantly decreased attributed indicative shift theoretical research use ai technology commercial product services
+machine learning dominant ai technique disclosed patent included one-third identified invention machine learning patent filed total ai patent filed computer vision popular functional application
+ai-related patent disclose ai technique application often also refer application field industry
+twenty application field identified included order magnitude telecommunication percent transportation percent life medical science percent personal device computing human-computer interaction percent
+sector included banking entertainment security industry manufacturing agriculture network including social network smart city internet things
+ibm ha largest portfolio ai patent patent application followed microsoft patent applications
+ai's decision making ability raise question legal responsibility copyright status created works
+alan turing wrote propose consider question 'can machine think'
+advised changing question whether machine think whether possible machinery show intelligent behaviour
+thing visible behavior machine doe matter machine conscious ha mind whether intelligence merely simulation real thing
+noted also know thing people extend polite convention actually thinking
+ai founder john mccarthy said artificial intelligence definition simulation human intelligence
+wrote aeronautical engineering text define goal field 'making machine fly exactly like pigeon fool pigeons' researcher analyst disagree argued ai simulate natural intelligence studying psychology neurobiology
+defines intelligent behavior general without reference human beings
+intelligent agent system perceives environment take action maximize chance success
+system ha goal-directed behavior analyzed intelligent agent something simple thermostat complex human well large system firm biome nations
+intelligent agent paradigm became widely accepted currently serf definition field
+provides reliable scientific way test program researcher directly compare even combine different approach isolated problem asking agent best maximizing given goal function
+also give common language communicate field mathematical optimization defined term goal economics us definition rational agent
+established unifying theory paradigm ha guided ai research history
+unprecedented success statistical machine learning eclipsed approach much source especially business world use term artificial intelligence mean machine learning neural networks
+approach mostly sub-symbolic neat soft narrow see below
+critic argue question may revisited future generation ai researchers
+symbolic ai gofai simulated high-level conscious reasoning people use solve puzzle express legal reasoning mathematics
+newell simon proposed physical symbol system hypothesis physical symbol system ha necessary sufficient mean general intelligent action
+however symbolic approach failed dismally many task human solve easily learning recognizing object commonsense reasoning
+moravec's paradox discovery high-level intelligent task easy ai low level instinctive task extremely difficult
+philosopher hubert dreyfus argued since human expertise depends unconscious instinct rather conscious symbol manipulation feel situation rather explicit symbolic knowledge
+although argument ridiculed ignored first presented eventually ai research came agree
+issue resolved sub-symbolic reasoning make many inscrutable mistake human intuition doe algorithmic bias
+critic noam chomsky argue continuing research symbolic ai still necessary attain general intelligence part sub-symbolic ai move away explainable ai difficult impossible understand modern statistical ai program made particular decision
+neats hope intelligent behavior described using simple elegant principle logic optimization neural networks
+scruffies expect necessarily requires solving large number unrelated problems
+mathematical method solid scientific standard became norm transition russell norvig termed victory neats
+finding provably correct optimal solution intractable many important problems
+soft computing set technique including genetic algorithm fuzzy logic neural network tolerant imprecision uncertainty partial truth approximation
+soft computing wa introduced late successful ai program st century example soft computing neural networks
+ai researcher divided whether pursue goal artificial general intelligence superintelligence general ai directly solve many specific problem possible narrow ai hope solution lead indirectly field's long-term goals
+general intelligence difficult define difficult measure modern ai ha verifiable success focussing specific problem specific solutions
+experimental sub-field artificial general intelligence study area exclusively
+philosophy mind doe know whether machine mind consciousness mental state sense human do
+issue considers internal experience machine rather external behavior
+mainstream ai research considers issue irrelevant doe affect goal field
+stuart russell peter norvig observe ai researcher care philosophy aias long program work care whether call simulation intelligence real intelligence however question ha become central philosophy mind
+also typically central question issue artificial intelligence fiction
+david chalmers identified two problem understanding mind named hard easy problem consciousness
+easy problem understanding brain process signal make plan control behavior
+hard problem explaining feel feel like anything all
+human information processing easy explain however human subjective experience difficult explain
+example easy imagine color-blind person ha learned identify object field view red clear would required person know red look like
+computationalism position philosophy mind human mind information processing system thinking form computing
+computationalism argues relationship mind body similar identical relationship software hardware thus may solution mind-body problem
+philosophical position wa inspired work ai researcher cognitive scientist wa originally proposed philosopher jerry fodor hilary putnam
+philosopher john searle characterized position strong ai appropriately programmed computer right input output would thereby mind exactly sense human minds
+searle counter assertion chinese room argument attempt show even machine perfectly simulates human behavior still reason suppose also ha mind
+machine ha mind subjective experience may also sentience ability feel could also suffer thus would entitled certain rights
+hypothetical robot right would lie spectrum animal right human rights
+considered example california's institute future however critic argue discussion premature
+superintelligence hyperintelligence superhuman intelligence hypothetical agent would posse intelligence far surpassing brightest gifted human mind
+superintelligence may also refer form degree intelligence possessed agent
+research artificial general intelligence produced sufficiently intelligent software might able reprogram improve itself
+improved software would even better improving leading recursive self-improvement
+intelligence would increase exponentially intelligence explosion could dramatically surpass humans
+science fiction writer vernor vinge named scenario singularity
+difficult impossible know limit intelligence capability superintelligent machine technological singularity occurrence beyond event unpredictable even unfathomable
+robot designer han moravec cyberneticist kevin warwick inventor ray kurzweil predicted human machine merge future cyborg capable powerful either
+idea called transhumanism ha root aldous huxley robert ettinger
+edward fredkin argues artificial intelligence next stage evolution idea first proposed samuel butler's darwin among machine far back expanded upon george dyson book name in
+past technology ha tended increase rather reduce total employment economist acknowledge we're uncharted territory ai
+survey economist showed disagreement whether increasing use robot ai cause substantial increase long-term unemployment generally agree could net benefit productivity gain redistributed
+subjective estimate risk vary widely example michael osborne carl benedikt frey estimate us
+job high risk potential automation oecd report classifies us
+unlike previous wave automation many middle-class job may eliminated artificial intelligence economist state worry ai could white-collar job steam power blue-collar one industrial revolution worth taking seriously
+job extreme risk range paralegal fast food cook job demand likely increase care-related profession ranging personal healthcare clergy
+ai provides number tool particularly useful authoritarian government smart spyware face recognition voice recognition allow widespread surveillance surveillance allows machine learning classify potential enemy state prevent hiding recommendation system precisely target propaganda misinformation maximum effect deepfakes aid producing misinformation advanced
+terrorist criminal rogue state may use form weaponized ai advanced digital warfare lethal autonomous weapons
+machine-learning ai also able design ten thousand toxic molecule matter hours
+typically introduced system designer learned program thus programmer often unaware bias exists
+also emerge correlation ai used classify individual group make prediction assuming individual resemble member group
+propublica claim compas-assigned recidivism risk level black defendant far likely overestimated white defendant despite fact program wa told race defendants
+example algorithmic bias lead unfair outcome ai used credit rating hiring
+superintelligent ai may able improve point human could control it
+could physicist stephen hawking put spell end human race
+philosopher nick bostrom argues sufficiently intelligent ai chooses action based achieving goal exhibit convergent behavior acquiring resource protecting shut down
+ai's goal fully reflect humanity's might need harm humanity acquire resource prevent shut ultimately better achieve goal
+concludes ai pose risk mankind however humble friendly stated goal might be
+rubin argues sufficiently advanced benevolence may indistinguishable malevolence human assume machine robot would treat u favorably priori reason believe would share system morality
+opinion expert industry insider mixed sizable fraction concerned unconcerned risk eventual superhumanly-capable ai
+stephen hawking microsoft founder bill gate history professor yuval noah harari spacex founder elon musk expressed serious misgiving future ai
+prominent tech titan including peter thiel amazon web service musk committed billion nonprofit company champion responsible ai development openai future life institute
+mark zuckerberg ceo facebook ha said artificial intelligence helpful current form continue assist humans
+expert argue risk far enough future worth researching
+rodney brook particular ha said malevolent ai still century away
+friendly ai machine designed beginning minimize risk make choice benefit humans
+eliezer yudkowsky coined term argues developing friendly ai higher research priority may require large investment must completed ai becomes existential risk
+machine intelligence potential use intelligence make ethical decisions
+field machine ethic provides machine ethical principle procedure resolving ethical dilemmas
+machine ethic also called machine morality computational ethic computational morality
+regulation artificial intelligence development public sector policy law promoting regulating artificial intelligence ai therefore related broader regulation algorithms
+regulatory policy landscape ai emerging issue jurisdiction globally
+eu member state released national ai strategy canada china india japan mauritius russian federation saudi arabia united arab emirate usa vietnam
+others process elaborating ai strategy including bangladesh malaysia tunisia
+global partnership artificial intelligence wa launched june stating need ai developed accordance human right democratic value ensure public confidence trust technology
+henry kissinger eric schmidt daniel huttenlocher published joint statement november calling government commission regulate ai
+common trope work began mary shelley's frankenstein human creation becomes threat masters
+clarke's stanley kubrick's space odyssey hal murderous computer charge discovery one spaceship well terminator matrix
+contrast rare loyal robot gort day earth stood still bishop alien le prominent popular culture
+isaac asimov introduced three law robotics many book story notably multivac series super-intelligent computer name
+asimov's law often brought lay discussion machine ethics
+almost artificial intelligence researcher familiar asimov's law popular culture generally consider law useless many reason one ambiguity
+transhumanism merging human machine explored manga ghost shell science-fiction series dune
+several work use ai force u confront fundamental question make u human showing u artificial ability feel thus suffer
+artificial intelligence ex machina well novel android dream electric sheep philip k
+dick considers idea understanding human subjectivity altered technology created artificial intelligence
+technology research evolve world enters third revolution warfare following gunpowder nuclear weapon artificial intelligence arm race ensues united state china russia three country world's top five highest military budgets
+intention world leader ai research declared china's leader xi jinping president putin russia ha stated whoever becomes leader sphere become ruler world
+russia become leader ai research president putin ha stated russia's intent share research world monopolize field similar current sharing nuclear technology maintaining science diplomacy relation united state china russia example country taken stance toward military artificial intelligence since early established
+president putin announced artificial intelligence future mankind recognizes power opportunity development deployment lethal autonomous weapon ai technology hold warfare homeland security well threats
+president putin's prediction future war fought using ai ha started come fruition extent russia invaded ukraine february ukrainian military making use turkish bayraktar tb drone still require human operation deploy laser-guided bomb take land cruise autonomously
+ukraine ha also using switchblade drone supplied u receiving information gathering united states's surveillance operation regarding battlefield intelligence national security russia
+similarly russia use ai help analyze battlefield data surveillance footage taken drones
+report image show russia's military ha deployed kub- bla suicide drone ukraine speculation intention assassinate ukrainian president volodymyr zelenskyy
+research ai realm progress pushback use ai campaign stop killer robot world technology leader sent petition united nation calling new regulation development use ai technology including ban use lethal autonomous weapon due ethical concern innocent civilian populations
+ever evolving cyber-attacks generation device ai used threat detection effective response risk prioritization
+tool challenge also presented privacy informed consent responsible use
+according cisa cyberspace difficult secure following factor ability malicious actor operate anywhere world linkage cyberspace physical system difficulty reducing vulnerability consequence complex cyber networks
+increased technological advance world risk wide scale consequential event rises
+paradoxically ability protect information create line communication scientific diplomatic community thrives
+role cybersecurity diplomacy ha become increasingly relevant creating term cyber diplomacy uniformly defined synonymous cyber defence
+many nation developed unique approach scientific diplomacy cyberspace
+dating back czech national security authority nsa wa appointed national authority cyber agenda
+role cyber diplomacy strengthened czech ministry foreign affair mfa detected serious cyber campaign directed computer networks
+three cyber diplomat deployed washington dc brussels tel aviv goal establishing active international cooperation focused engagement eu nato
+main agenda scientific diplomacy effort bolster research artificial intelligence utilized cybersecurity research development overall consumer trust
+example september organized mission canada september special focus artificial intelligence
+main goal particular mission wa promotional effort behalf prague attempting establish future knowledge hub industry interested canadian firms
+cybersecurity recognized governmental task dividing three ministry responsibility federal ministry interior federal ministry defence federal foreign office
+distinction promoted creation various institution german national office information security national cyberdefence centre german national cyber security council cyber information domain service
+new strategy artificial intelligence wa established german government creation german-french virtual research innovation network holding opportunity research expansion cybersecurity
+adoption cybersecurity strategy european union open safe secure cyberspace document european commission pushed forth cybersecurity effort integrated scientific diplomacy artificial intelligence
+effort strong eu fund various program institution effort bring science diplomacy bring diplomacy science
+example cyber security programme competence research innovation concordia brings together member state cybersecurity europe cse- brings together partner involving member states
+addition european network cybersecurity centre competence hub innovation operation echo gather partner member state sparta gather partner involving member states
+effort reflect overall goal eu innovate cybersecurity defense protection establish highly integrated cyberspace among many nation contribute security artificial intelligence
+invasion ukraine ha rise malicious cyber activity united state ukraine russia
+prominent rare documented use artificial intelligence conflict behalf ukraine using facial recognition software uncover russian assailant identify ukrainian killed ongoing war
+though governmental figure primarily focused scientific cyber diplomacy institution commenting use artificial intelligence cybersecurity focus
+example georgetown university's center security emerging technology cset ha cyber-ai project one goal attract policymakers' attention growing body academic research whichexposes exploitive consequence ai machine-learning ml algorithms
+vulnerability plausible explanation russia engaging use ai conflict per andrew lohn senior fellow cset
+addition use battlefield ai used pentagon analyze data war analyzing strengthen cybersecurity warfare intelligence united states
+artificial intelligence grows overwhelming amount news portrayed cyberspace expands becoming extremely overwhelming voter know believe
+many intelligent code referred bot written portray people social medium goal spreading miss information
+hillary clinton donald trump campaign artificial intelligent bot russia spreading miss information candidate order help trump campaign
+analyst concluded approximately twitter tweet centered around election detected come bots
+youtube recent year ha used spread political information well
+although proof platform attempt manipulate viewer opinion youtubes ai algorithm recommends video similar variety
+person begin research right wing political podcasts youtube's algorithm recommend right wing videos
+uprising program called deepfake software used replicate someone's face word ha also shown potential threat
+deepfake video barack obama wa released saying word claim never said
+national election deepfake quickly debunked software ha capability heavily sway smaller local election
+tool hold lot potential spreading misinformation monitored great attention although may seen tool used harm ai help enhance election campaign well
+ai also used inform person part stand certain topic healthcare climate change
+thus political leader lack interest international collaborative scientific advancement negative impact scientific diplomacy nation
+use artificial intelligence ai ha subtly grown become part everyday life
+first measure security many company form biometric authentication
+mean authentication allows even official organization united state internal revenue service verify person's identity via database generated machine learning
+year united state irs requires undergo live interview agent complete biometric verification identity via idme's facial recognition tool
+japan south korea artificial intelligence software used instruction english language via company riiid
+riiid korean education company working alongside japan give student mean learn use english communication skill via engaging artificial intelligence live chat
+american company duolingo well known automated teaching languages
+babbel german language learning program also us artificial intelligence teaching automation allowing european student learn vital communication skill needed social economic diplomatic setting artificial intelligence also automate routine task teacher need grading taking attendance handling routine student inquiries
+enables teacher carry complexity teaching automated machine cannot handle
+include creating exam explaining complex material way benefit student individually handling unique question students
+unlike human brain posse generalized intelligence specialized intelligence ai serve mean support physician internationally
+medical field ha diverse profound amount data ai employ generate predictive diagnosis
+researcher oxford hospital developed artificial intelligence diagnose heart scan heart disease cancer
+artificial intelligence pick diminutive detail scan doctor may miss
+artificial intelligence medicine better industry giving doctor mean precisely diagnose patient using tool available
+artificial intelligence algorithm also used improve diagnosis time via application machine learning called precision medicine
+furthermore narrow application artificial intelligence use deep learning order improve medical image analysis
+radiology imaging ai us deep learning algorithm identify potentially cancerous lesion important process assisting early diagnosis
+data analysis fundamental property artificial intelligence enables used every facet life search result way people buy product
+according newvantage partner top business ongoing investment artificial intelligence
+according ibm one world's leader technology respondent company employee adopted ai
+recent data show business market artificial intelligence year wa valued billion
+prevent harm ai-deploying organization need play central role creating deploying trustworthy ai line principle trustworthy ai take accountability mitigate risks
+exponential surge artificial technology communication distribution one's ideal value ha evident daily life
+digital information spread via communication apps whatsapp facebookmeta snapchat instagram twitter
+however known site relay specific information corresponding data analysis
+right-winged individual google search google's algorithm would target individual relay data pertinent target audience
+u president bill clinton noted new century liberty spread cell phone cable modem
+know much internet ha changed america already open society
+however private sector us artificial intelligence gather data shift power state private sector may seen
+shift power specifically large technological corporation could profoundly change diplomacy function society
+rise digital technology usage artificial technology enabled private sector gather immense data public categorized race location age gender etc
+new york time calculates ten largest tech firm become gatekeeper commerce finance entertainment communication combined market capitalization trillion
+gross domestic product term would rank world's third-largest economy beyond general lobbying congressmencongresswomen company facebookmeta google use collected data order reach intended audience targeted information
+multiple nation around globe employ artificial intelligence assist foreign policy decisions
+chinese department external security affair ministry foreign affair us ai review almost foreign investment project risk mitigation
+government china plan utilize artificial intelligence billion global infrastructure development plan called belt road initiative political economic environmental risk alleviation
+application artificial intelligence used united nation agency sector ranging health care dealing issue combating covid- smart agriculture assist un political diplomatic relations
+one example use ai un global pulse program model effect spread covid- internally displaced people idp refugee settlement assist creating appropriate global health policy
+novel ai tool remote sensing also employed diplomat collecting analyzing data near-real-time tracking object troop refugee movement along border violent conflict zones
+artificial intelligence used mitigate vital cross-national diplomatic talk prevent translation error caused human translators
+major example anchorage meeting held u china aimed stabilizing foreign relation opposite effect increasing tension aggressiveness two nation due translation error caused human translators
+meeting united state national security advisor president joe biden jacob jeremiah sullivan stated seek conflict welcome stiff competition always stand principle people friend wa mistranslated chinese face competition u present stance clear manner adding aggressive tone speech
+ai's ability fast efficient natural language processing real-time translation transliteration make important tool foreign-policy communication nation prevents unintended mistranslation
+weak aithese four widely used ai textbook in
+generalization backpropagation application recurrent gas market model neural network doi x
+guide convolutional neural network practical application traffic-sign detection classification
+google's deepmind make ai program learn like human
+bowling michael burch neil johanson michael tammelin oskari january
+artificial intelligence google's alphago beat go master lee se-dol
+state ai democratization industrialization way artificial general intelligence
+goertzel ben lian ruiting arel itamar de gari hugo chen shuo december
+world survey artificial brain project part ii biologically inspired cognitive architectures
+utility driven dynamic error propagation network technical report cuedf-infengtr cambridge university engineering department
+untersuchungen zu dynamischen neuronalen netzen pdf diploma thesis
+gradient-based learning algorithm recurrent network computational complexity back-propagation theory architecture application hillsdale nj erlbaum
+hochreiter sepp schmidhuber jrgen long short-term memory neural computation doineco pmid scid
+goodfellow ian bengio yoshua courville aaron deep learning mit press archived original april retrieved november
+hinton g deng l yu dahl g mohamed jaitly n senior vanhoucke v nguyen p sainath kingsbury b
+deep neural network acoustic modeling speech recognition shared view four research groups
+representation cumulative rounding error algorithm taylor expansion local rounding error thesis finnish
+beyond regression new tool prediction analysis behavioral science phd
+beyond regression new tool prediction analysis behavioral science pdf
+'fuzzy logic' computer inherently fuzzy apply usual binary logic
+search methodology introductory tutorial optimization decision support techniques
+yudkowsky e artificial intelligence positive negative factor global risk pdf global catastrophic risk oxford university press bibcodegcrbooky
+mcgaughey e robot automate job away full employment basic income economic democracy p ssrn part ssrn archived original may retrieved january
+robot take job fast fear new report says
+arntz melanie gregory terry zierahn ulrich risk automation job oecd country comparative analysis oecd social employment migration working papers
+stephen hawking elon musk bill gate warn artificial intelligence
+lipartito kenneth january narrative algorithm genre credit reporting nineteenth century today pdf unpublished manuscript doissrn scid
+future progress artificial intelligence poll among expert pdf
+stephen hawking warns artificial intelligence could end mankind
+bill gate danger artificial intelligence 'i understand people concerned'
+tech titan like elon musk spending billion save terminators
+mysterious artificial intelligence company elon musk invested developing game-changing smart computers
+oracle ceo mark hurd see reason fear erp ai
+mark zuckerberg responds elon musk's paranoia ai 'ai going to
+case killer robot guy actually working artificial intelligence
+berryhill jamie heang kvin kok clogher rob mcbride keegan
+hello world artificial intelligence use public sector pdf
+regulating artificial intelligence robotics ethic design digital society
+wirtz bernd w weyerer jan c geyer carolin july
+half american believe deepfake news could target online
+predicting judicial decision european court human right natural language processing perspective
+cadena cesar carlone luca carrillo henry latif yasir scaramuzza davide neira jose reid ian leonard john j
+past present future simultaneous localization mapping toward robust-perception age
+jumping nlp curve review natural language processing research review article
+openai ha published text-generating ai said wa dangerous share
+poria soujanya cambria erik bajpai rajiv hussain amir september
+white paper artificial intelligence european approach excellence trust pdf
+using commercial knowledge base clinical decision support opportunity hurdle recommendations
+automatic annotation semantic retrieval video sequence using multimedia ontologies
+jack ed essential turing idea gave birth computer age oxford oxford university press p
+master algorithm quest ultimate learning machine remake world
+pinker steven september language instinct perennial modern classic harper
+ask ai expert what's driving today's progress ai
+ransbotham sam kiron david gerbert philipp reef martin september
+asada hosoda k kuniyoshi ishiguro h inui yoshikawa ogino yoshida c
+ai getting groundbreaking change talent management hr tech
+mind machine power human intuition expertise era computer
+latest answer oldest question philosophical adventure world's greatest thinkers
+mccarthy john minsky marvin rochester nathan shannon claude
+impact robotics behavioral cognitive science insect navigation human cognitive development pdf
+retrieved march via stdcom pdf scanned copy original
+stephen hawking belief ai could mankind's last accomplishment
+turing alan october computing machinery intelligence mind lix doimindlix issn
+weng j mcclelland pentland sporns stockman sur thelen e
+bbc radio discussion john agar alison adam igor aleksander time dec
+licensed c-by-sa igo text taken unesco science report race time smarter development schneegans t
+learn add open license text wikipedia article please see how-to page
+information reusing text wikipedia please see term us

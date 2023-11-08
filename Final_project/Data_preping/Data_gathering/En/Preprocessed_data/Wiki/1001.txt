@@ -1,0 +1,166 @@
+finance exchange rate rate one currency exchanged another currency
+currency commonly national currency may sub-national case hong kong supra-national case euro
+exchange rate also regarded value one country's currency relation another currency
+example interbank exchange rate japanese yen united state dollar mean exchanged u u exchanged for
+case said price dollar relation yen equivalently price yen relation dollar is
+agreement economic literature optimal national exchange rate unlike subject trade free trade considered optimal
+rather national exchange rate regime reflect political considerations
+floating exchange rate regime exchange rate determined foreign exchange market open wide range different type buyer seller currency trading continuous hour day except weekend ie
+spot exchange rate current exchange rate forward exchange rate exchange rate quoted traded today delivery payment specific future date
+retail currency exchange market different buying selling rate quoted money dealers
+buying rate rate money dealer buy foreign currency selling rate rate sell currency
+quoted rate incorporate allowance dealer's margin profit trading else margin may recovered form commission way
+different rate may also quoted cash documentary transaction electronic transfers
+higher rate documentary transaction ha justified compensating additional time cost clearing document
+hand cash available resale immediately incurs security storage transportation cost cost tying capital stock banknote bills
+currency international travel cross-border payment predominantly purchased bank foreign exchange brokerage various form bureau de change
+retail outlet source currency interbank market valued bank international settlement u trillion per day
+retail customer charged form commission otherwise cover provider's cost generate profit
+one form charge use exchange rate le favourable wholesale spot rate
+difference retail buying selling price referred bid-ask spread
+market convention rule notation used communicate fixed variable currency quotation
+example conversion eur aud eur fixed currency aud variable currency exchange rate indicates many australian dollar would paid received euro
+area europe retail market united kingdom eur gbp reversed gbp quoted fixed currency euro
+order determine fixed currency neither currency list ie
+market convention use fixed currency give exchange rate greater than
+reduces rounding issue need use excessive number decimal places
+exception rule example japanese often quote currency base currencies
+quotation using country's home currency price currency known direct quotation price quotation country's perspective example eur usd eurozone used countries
+quotation using country's home currency unit currency example u eur eurozone known indirect quotation quantity quotation used british newspaper also common australia new zealand eurozone
+using direct quotation home currency strengthening appreciating becoming valuable exchange rate number decreases
+conversely foreign currency strengthening home currency depreciating exchange rate number increases
+market convention early wa currency pair quoted four decimal place spot transaction six decimal place forward outrights swaps
+exception wa exchange rate value le usually quoted five six decimal places
+although fixed rule exchange rate numerically greater around usually quoted three decimal place exchange rate greater quoted two decimal places
+currency usually quoted decimal place example former turkish lira
+barclays capital broke convention quoting spot exchange rate five six decimal place electronic dealing platform
+contraction spread difference bid ask rate arguably necessitated finer pricing gave bank ability try win transaction multibank trading platform bank may otherwise quoting price
+country free choose type exchange rate regime apply currency
+main type exchange rate regime free-floating pegged fixed hybrid
+free-floating regime exchange rate allowed vary according market force supply demand
+exchange rate currency likely change almost constantly quoted financial market mainly bank around world
+movable adjustable peg system system fixed exchange rate provision revaluation usually devaluation currency
+example chinese yuan renminbi rmb wa pegged united state dollar rmb to
+china wa country end world war ii western european country maintained fixed exchange rate u dollar based bretton wood system
+system abandoned favor floating market-based regime due market pressure speculation according president richard m
+still government strive keep currency within narrow range
+result currency become over-valued under-valued leading excessive trade deficit surpluses
+buying rate also known purchase price price used foreign exchange bank buy foreign currency customer
+general exchange rate foreign currency converted smaller number domestic currency buying rate indicates much country's currency required buy certain amount foreign exchange
+selling rate also known foreign exchange selling price refers exchange rate used bank sell foreign exchange customers
+indicates much country's currency need recovered bank sell certain amount foreign exchange
+commonly used newspaper magazine economic analysisaccording length delivery foreign exchange transactions
+spot exchange rate refers exchange rate spot foreign exchange transactions
+foreign exchange transaction completed exchange rate delivery within two working days
+exchange rate generally listed foreign exchange market generally referred spot exchange rate unless specifically indicates forward exchange rate
+forward exchange rate delivered certain period time future beforehand buyer seller enter contract reach agreement
+delivery date reached party agreement deliver transaction exchange rate amount reservation
+forward foreign exchange trading appointment-based transaction due different time foreign exchange purchaser need foreign exchange fund introduction foreign exchange risk
+forward exchange rate based spot exchange rate represented premium discount parity spot exchange rateaccording method setting exchange rate
+basic rate usually choose key convertible currency commonly used international economic transaction account largest proportion foreign exchange reserves
+key currency generally refers world currency widely used pricing settlement reserve currency freely convertible internationally accepted currency
+cross rate basic exchange rate worked exchange rate local currency foreign currency calculated basic exchange rate
+resulting exchange rate cross exchange rateaccording payment method foreign exchange transactions
+official rate official exchange rate rate exchange announced country's foreign exchange administration
+market rate market exchange rate refers real exchange rate trading foreign exchange free market
+fluctuates change foreign exchange supply demand conditionsaccording international exchange rate regime
+fixed exchange rate mean exchange rate country's currency another country's currency basically fixed fluctuation exchange rate small
+floating exchange rate mean monetary authority country stipulate official exchange rate country's currency currency doe upper lower limit exchange rate fluctuations
+local currency determined supply demand relationship foreign exchange market free rise fallwhether inflation included
+nominal exchange rate exchange rate officially announced marketed doe consider inflation
+real exchange rate nominal exchange rate eliminating inflationbalance payment country ha large international balance payment deficit trade deficit mean foreign exchange earnings le foreign exchange expenditure demand foreign exchange exceeds supply foreign exchange rate rise currency depreciates
+interest rate level interest rate cost profit borrowing capital
+country raise interest rate domestic interest rate higher foreign interest rate cause capital inflow thereby increasing demand domestic currency allowing currency appreciate foreign exchange depreciate
+inflation factor inflation rate country rise purchasing power money decline paper currency depreciates internally foreign currency appreciates
+country inflation currency country high inflation depreciate low inflation
+fiscal monetary policy although influence monetary policy exchange rate change country's government indirect also important
+general huge fiscal revenue expenditure deficit caused expansionary fiscal monetary policy inflation devalue domestic currency
+tightening fiscal monetary policy reduce fiscal expenditure stabilize currency increase value domestic currency
+venture capital speculator expect certain currency appreciate buy large amount currency cause exchange rate currency rise
+conversely speculator expect certain currency depreciate sell large amount currency resulting speculation
+speculation important factor short-term fluctuation exchange rate foreign exchange market
+government market intervention exchange rate fluctuation foreign exchange market adversely affect country's economy trade government need achieve certain policy goal exchange rate adjustment monetary authority participate currency trading buying selling local foreign currency large quantity market
+foreign exchange supply demand ha caused exchange rate change
+economic strength country general high economic growth rate conducive local currency's performance foreign exchange market short term long run strongly support strong momentum local currencyresearch target zone ha mainly concentrated benefit stability exchange rate industrial country study argued volatile bilateral
+according view ability emerging market economy compete weakened many currency tied u dollar various fashion either implicitly explicitly fluctuation appreciation u dollar yen deutsche mark contributed destabilizing shocks
+country net debtor whose debt denominated one g currencies
+mauricio macri campaigned promise lift restriction put place left-wing government including capital control used argentina manage economic instability
+inflation rose percent transaction denominated dollar became commonplace argentinian moved away using peso
+government cristina fernndez de kirchner restricted purchase dollar leading rise black market dollar purchases
+control rolled back macri took office argentina issued dollar denominated bond various factor led loss value peso relative dollar leading restoration capital control prevent additional depreciation amidst peso selloffs
+market-based exchange rate change whenever value either two component currency change
+currency becomes valuable whenever demand greater available supply
+become le valuable whenever demand le available supply doe mean people longer want money mean prefer holding wealth form possibly another currency
+increased demand currency due either increased transaction demand money increased speculative demand money
+transaction demand highly correlated country's level business activity gross domestic product gdp employment levels
+people unemployed le public whole spend good services
+central bank typically little difficulty adjusting available money supply accommodate change demand money due business transactions
+speculative demand much harder central bank accommodate influence adjusting interest rates
+speculator may buy currency return interest rate high enough
+general higher country's interest rate greater demand currency
+ha argued speculation undermine real economic growth particular since large currency speculator may deliberately create downward pressure currency shorting order force central bank buy currency keep stable
+happens speculator buy currency back depreciates close position thereby make profit
+carrier company shipping good one nation another exchange rate often impact severely
+real exchange rate rer purchasing power currency relative another current exchange rate prices
+ratio number unit given country's currency necessary buy market basket good country acquiring country's currency foreign exchange market number unit given country's currency would necessary buy market basket directly given country
+thus real exchange rate exchange rate time relative price market basket good two countries
+example purchasing power u dollar relative euro dollar price euro dollar per euro time euro price one unit market basket eurosgoods unit divided dollar price market basket dollar per good unit hence dimensionless
+exchange rate expressed dollar per euro time relative price two currency term ability purchase unit market basket euro per good unit divided dollar per good unit
+good freely tradable foreign domestic resident purchased identical basket good purchasing power parity ppp would hold exchange rate gdp deflator price level two country real exchange rate would always equal
+rate change real exchange rate time euro versus dollar equal rate appreciation euro positive negative percentage rate change dollars-per-euro exchange rate plus inflation rate euro minus inflation rate dollar
+real exchange rate rer represents nominal exchange rate adjusted relative price domestic foreign good service thus reflecting competitiveness country respect rest world
+detail appreciation currency high level domestic inflation reduces rer thus reducing country's competitiveness lowering current account ca
+hand currency depreciation generates opposite effect improving country's ca
+evidence rer generally reach steady level long-term process faster small open economy characterized fixed exchange rates
+substantial persistent rer deviation long-run equilibrium level so-called rer misalignment ha shown produce negative impact country's balance payments
+overvalued rer mean current rer equilibrium value whereas undervalued rer indicates contrary
+specifically prolonged rer overvaluation widely considered early sign upcoming crisis due fact country becomes vulnerable speculative attack currency crisis happened thailand asian financial crisis
+side protracted rer undervaluation usually generates pressure domestic price changing consumer consumption incentive misallocating resource tradable non-tradable sectors
+given rer misalignment particular overvaluation undermine country's export-oriented development strategy equilibrium rer measurement crucial policymakers
+common method order estimate equilibrium rer universally accepted purchasing power parity ppp theory according rer equilibrium level assumed remain constant time
+nevertheless equilibrium rer fixed value follows trend key economic fundamental different monetary fiscal policy asymmetrical shock home country abroad
+consequently ppp doctrine ha largely debated year given may signal natural rer movement towards new equilibrium rer misalignment
+starting order overcome limitation approach many researcher tried find alternative equilibrium rer measures
+two popular approach economic literature fundamental equilibrium exchange rate feer developed williamson behavioural equilibrium exchange rate beer initially estimated clark macdonald
+feer focus long-run determinant rer rather short-term cyclical speculative forces
+represents rer consistent macroeconomic balance characterized achievement internal external balance time
+internal balance reached level output line full employment available factor production low stable rate inflation
+hand external balance hold actual future ca balance compatible long-term sustainable net capital flows
+nevertheless feer viewed normative measure rer since based ideal economic condition related internal external balances
+particularly since sustainable ca position defined exogenous value approach ha broadly questioned time
+contrast beer entail econometric analysis rer behaviour considering significant rer deviation ppp equilibrium level consequence change key economic fundamentals
+according method beer rer result economic fundamental equilibrium values
+therefore total rer misalignment given extent economic fundamental differ long-run sustainable levels
+short beer general approach feer since limited long-term perspective able explain rer cyclical movements
+bilateral exchange rate involves currency pair effective exchange rate weighted average basket foreign currency viewed overall measure country's external competitiveness
+nominal effective exchange rate neer weighted inverse asymptotic trade weights
+real effective exchange rate reer adjusts neer appropriate foreign price level deflates home country price level
+compared neer gdp weighted effective exchange rate might appropriate considering global investment phenomenon
+many country distinction official exchange rate permitted transaction parallel exchange rate responds excess demand foreign currency official exchange rate
+degree parallel exchange rate exceeds official exchange rate known parallel premium
+uncovered interest rate parity uirp state appreciation depreciation one currency another currency might neutralized change interest rate differential
+u interest rate increase japanese interest rate remain unchanged u dollar depreciate japanese yen amount prevents arbitrage reality opposite appreciation quite frequently happens short-term explained below
+future exchange rate reflected forward exchange rate stated today
+example forward exchange rate dollar said discount buy fewer japanese yen forward rate doe spot rate
+contrary theory currency high interest rate characteristically appreciated rather depreciated reward containment inflation higher-yielding currency
+balance payment model hold foreign exchange rate equilibrium level produce stable current account balance paymentscurrent account balance
+nation trade deficit experience reduction foreign exchange reserve ultimately lower depreciates value currency
+cheaper undervalued currency render nation's good export affordable global market making import expensive
+intermediate period import forced export rise thus stabilizing trade balance bring currency towards equilibrium
+like purchasing power parity balance payment model focus largely tradeable good service ignoring increasing role global capital flows
+word money chasing good service larger extent financial asset stock bonds
+flow go capital account item balance payment thus balancing deficit current account
+increase capital flow ha given rise asset market model effectively
+increasing volume trading financial asset stock bond ha required rethink impact exchange rates
+economic variable economic growth inflation productivity longer driver currency movements
+proportion foreign exchange transaction stemming cross border-trading financial asset ha dwarfed extent currency transaction generated trading good services
+asset market approach view currency asset price traded efficient financial market
+consequently currency increasingly demonstrating strong correlation market particularly equities
+like stock exchange money made lost trading investor speculator foreign exchange market
+spot market represents current exchange rate whereas option derivative exchange rates
+country may gain advantage international trade control market currency keep value low typically national central bank engaging open market operation foreign exchange market
+claim early twenty-first century people's republic china long period time
+nation including iceland japan brazil policy maintaining low value currency hope reducing cost export thus bolstering economies
+lower exchange rate lower price country's good consumer country raise price imported good service consumer low value currency country
+general exporter good service prefer lower value currency importer prefer higher value
+usd index medium related exchange rate wikimedia commo

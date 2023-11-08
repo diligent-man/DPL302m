@@ -1,7 +1,7 @@
-Đaof taoj laapj trinhf vieen treen thieets bij di đoongj JME
-Hocj vieen sex đuwowcj huwowngs daanx kyx thuaatj phats trieenr uwngs dungj treen thieets bij di đoongj thieets bij hoox trowj Java cos theer thi laays chuwngs chir quoocs tees SCMAD cuar hangx Sun Microsystems
-Đaay laf chuwowng trinhf đaof taoj laanf đaauf trieenr khai owr Vieetj Nam
-Hocj vieen đuwowcj hocj truwcj tieeps treen mays vi tinhs kyx nawng suwr dungj coong cuj Sun cachs khai thacs nhuwngx booj thuw vieenj cuar Java vowis nhieeuf thieets bij di đoongj phoor bieens
-Chuwowng trinhf cungx giowis thieeuj hinhf thuwcs phats trieenr uwngs dungj mangj thoong qua cacs thieets bij di đoongj nhuw đieeuf khieenr server tuwf xa chat duyeetj web
-Hocj vieen đawng kys theo hocj phair bieets ngoon nguwx laapj trinhf Java hoawcj C cawn banr đocj vaf hieeur tieengs Anh chuyeen nganhf
-Chuwowng trinhf do Trung taam Tin hocj Đaij hocj Khoa hocj Tuwj nhieen TP HCM toor chuwcs
+đào tạo lập trình viên trên thiết bị di động jme
+học viên sẽ được hướng dẫn kỹ thuật phát triển ứng dụng trên thiết bị di động thiết bị hỗ trợ java có thể thi lấy chứng chỉ quốc tế scmad của hãng sun microsystems
+đây là chương trình đào tạo lần đầu triển khai ở việt nam
+học viên được học trực tiếp trên máy vi tính kỹ năng sử dụng công cụ sun cách khai thác những bộ thư viện của java với nhiều thiết bị di động phổ biến
+chương trình cũng giới thiệu hình thức phát triển ứng dụng mạng thông qua các thiết bị di động như điều khiển server từ xa chat duyệt web
+học viên đăng ký theo học phải biết ngôn ngữ lập trình java hoặc c căn bản đọc và hiểu tiếng anh chuyên ngành
+chương trình do trung tâm tin học đại học khoa học tự nhiên tp hcm tổ chứ

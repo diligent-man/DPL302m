@@ -1,0 +1,73 @@
+american cloud-based software company headquartered san francisco california
+provides customer relationship management crm software application focused sale customer service marketing automation analytics application development
+company wa founded former oracle executive marc benioff together parker harris dave moellenhoff frank dominguez software service saas company
+initial funding company came larry ellison halsey minor
+salesforce held first annual dreamforce conference san francisco
+june company initial public offering new york stock exchange stock symbol crm raised u million
+salesforce launched ideaexchange platform allows customer connect company product managers
+also company launched service cloud application help company manage service conversation product services
+september salesforce announced launch einstein artificial intelligence platform support several salesforce's cloud services
+february co-chief executive officer keith block stepped position company
+december wa announced salesforce would acquire slack billion
+february amy weaver previously chief legal officer became cfo
+former cfo mark hawkins announced would retiring october
+november bret taylor wa named vice chair co-ceo company
+also april salesforce announced five-year partnership formula one
+salesforce's product include several customer relationship management crm technology including sale cloud service cloud marketing cloud commerce cloud platform
+additional technology include slack mulesoft tableau analytics trailhead
+product enable customer create apps integrate data system visualize data offer training courses
+salesforce platform also known forcecom platform service paas allows developer create add-on application integrate main salesforcecom application
+forcecom application built using declarative tool backed lightning apex proprietary java-like programming language forcecom well visualforce framework including xml syntax typically used generate html
+forcecom platform typically receives three complete release year
+platform provided service developer every single development instance also receives updates
+new framework building user interface lightning component wa introduced beta
+lightning component built using open-source aura framework support apex server-side language instead aura's javascript dependency
+lightning base component component library built top lightning web components
+launched salesforce appexchange online application marketplace connects customer third-party application consulting services
+launched trailhead free online learning platform course focused salesforce technologies
+deskcom saas help desk customer support product wa acquired salesforce million in
+march salesforce announced deskcom would consolidated service service cloud essentials
+docom wa cloud-based task management system small group business introduced discontinued in
+salesforce ha international office hong kong israel sydney
+according marc benioff salesforce corporate culture based concept ohana
+cynthia perry design research senior manager resigned discrimination workplace posted resignation letter linkedin
+september benioff tweeted company prepared help employee wish move state texas following abortion texas legislation announced september
+fiscal year salesforce reported revenue u billion increase year-over-year constant currency
+crm giant reported subscription support revenue u billion increase year-over-year
+salesforce ranked fortune list largest united state company revenue
+salesforce migrated dell server advanced micro device processor running linux sun fire ek server sparc processor running solaris in
+salesforce announced plan build data center uk handle european citizens' personal data
+salesforce oracle announced nine-year partnership focusing application platform infrastructure
+salesforce announced use amazon web service hosting country restrictive data residency requirement salesforce data center operating
+salesforce acquired sendia mobile web service firm million kieden online advertising company
+salesforce acquired multiple company including jigsaw cloud-based data service provider million heroku ruby application platform-as-a-service million activa live chat live chat software provider
+salesforce acquired dimdim web conferencing platform million radian social medium tracking company million rypple performance management software company
+salesforce acquired buddy medium social medium marketer million goinstant browser collaboration startup million
+salesforce acquired multiple company undisclosed sum including toopher mobile authentication company tempo ai calendar app minhash ai platform
+company acquired included demandware cloud-based provider e-commerce service billion quip word processing app million
+company acquired sequence user experience design agency undisclosed amount
+salesforce acquired several company including mulesoft cloud service company billion well rebel email service provider datorama ai marketing platform undisclosed amounts
+salesforce acquired tableau data visualization software company billion clicksoftware billion
+salesforce acquired acumen solution consulting firm million vlocity crm company billion slack technology billion
+salesforce acquired servicetrace robotic process automation companyin november phishing attack compromised contact information number salesforce customers
+salesforce ha stated phisher tricked someone disclosing password intrusion stem security flaw salesforcecom application database
+def con two security engineer let go giving presentation internal project called meatpistol
+presenter sent message minute prior presentation telling go stage message seen finished
+meatpistol tool wa anticipated released open-source time presentation salesforce release code developer public conference
+terminated employee called company open-source software let go
+not-for-profit organization refugee immigrant center education legal service raices rejected u donation salesforce company ha contract us
+december institute taxation economic policy found salesforce wa one company paid effective federal tax rate le result tax cut job act of
+finding published report based fortune company declared profit in
+march salesforce faced lawsuit anonymous woman claiming victim survivor sex trafficking abuse rape
+suit alleges company profited helped build technology facilitated sex trafficking backpagecom defunct website
+march judge granted partial dismissal case dismissing charge negligence conspiracy allowed case proceed regarding charge sex trafficking
+july salesforce japan faced discrimination lawsuit former employee according japanese legal medium time firm ha publicly challenged commitment equality
+ex-employee ha autism spectrum disorder adhd claimed wa discriminated disability terminated firm japan web marketing team
+suit alleged anonymous woman employee salesforce japan faced hate speech microaggressions rejection reasonable accommodation manager
+alleged attempt resolve problem met pressure hr job coach
+salesforce japan st rank great place work japan nd rank st rank in
+investment became salesforce venture headed john somorjai september sfv set salesforce fund aimed start-ups creating application primarily mobile phones
+december salesforce venture announced launch japan trailblazer fund focused japanese startups
+august salesforce venture reported investment totaling billion company including cloudcraze e-commerce figure eight artificial intelligence forter online fraud prevention financialforce automation software
+svf's five largest investmentsdomo data-visualization software surveymonkey online survey software twilio cloud-communication dropbox cloud storage docusign secure e-signature companyaccounted nearly half portfolio
+salesforceiqbusiness data salesforce inc google financesec filingsyahoo financ

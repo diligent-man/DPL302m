@@ -1,0 +1,65 @@
+claytronics abstract future concept combine nanoscale robotics computer science create individual nanometer-scale computer called claytronic atom catoms interact form tangible object user interact with
+claytronics ha potential greatly affect many area daily life telecommunication human-computer interface entertainment
+current research exploring potential modular reconfigurable robotics complex software necessary control shape changing robots
+locally distributed predicate ldp distributed high-level language programming modular reconfigurable robot system mrrs
+many challenge associated programming controlling large number discrete modular system due degree freedom correspond module
+example reconfiguring one formation one similar may require complex path movement controlled intricate string command even though two shape differ slightly
+research effort develop hardware concept successful scale millimeter creating cylindrical prototype millimeter diameter interact via electromagnetic attraction
+experiment helped researcher verify relationship mass potential force object fold reduction size translate fold increase force relative mass
+recent advancement prototype concept form one millimeter diameter cylindrical robot fabricated thin film photolithography would cooperate using complex software would control electromagnetic attraction repulsion modules
+today extensive research experiment claytronics conducted carnegie mellon university pittsburgh pennsylvania team researcher consists professor todd c
+mowry seth goldstein graduate undergraduate student researcher intel lab pittsburgh
+driving force behind programmable matter actual hardware manipulating whatever form desired
+claytronics consists collection individual component called claytronic atom catoms
+first catoms need able move three dimension relative able adhere form three-dimensional shape
+second catoms need able communicate ensemble able compute state information possibly assistance other
+fundamentally catoms consist cpu network device communication single pixel display several sensor onboard battery mean adhere one another
+researcher carnegie mellon university developed various prototype catoms
+prototype like developer hope catoms become planar catom
+cylinder equipped electromagnet arranged series stacked ring along cylinder's circumference
+movement achieved catoms cooperatively enabling disabling magnet order roll along other's surfaces
+prototype able reconfigure quite quickly uncoupling two unit movement another contact point recoupling taking ms
+power supplied catoms using pickup foot bottom cylinder
+current design catoms able move two dimension relative other
+future catoms required move three dimension relative other
+goal researcher develop millimeter scale catom moving part allow mass manufacturability
+million microrobots able emit variable color intensity light allowing dynamic physical rendering
+design goal ha shifted creating catoms simple enough function part ensemble ensemble whole capable higher function
+catoms scaled onboard battery sufficient power exceed size catom alternate energy solution desired
+research done powering catoms ensemble utilizing catom-to-catom contact mean energy transport
+one possibility explored using special table positive negative electrode routing power internally catoms via virtual wires
+another major design challenge developing genderless unary connector catoms order keep reconfiguration time minimum
+nanofibers allow great adhesion small scale allow minimum power consumption catoms rest
+organizing communication action million sub-millimeter scale catoms requires development advanced algorithm programming languages
+researcher engineer carnegie mellon-intel claytronics research lab launched wide range project develop necessary software facilitate communication catoms
+important project developing new programming language work efficiently claytronics
+however vast number catoms distributed network increase complexity micro-management individual catom
+catom must perceive accurate position information command cooperation neighbors
+environment software language matrix operation must convey concise statement high-level command order universally distributed
+language program matrix require abbreviated syntax style command normal programming language c java
+carnegie mellon-intel claytronics research project ha created two new programming language meld locally distributed predicate ldp
+meld declarative language logic programming language originally designed programming overlay networks
+using logic programming code ensemble robot written global perspective enabling programmer concentrate overall performance claytronics matrix rather writing individual instruction every one thousand million catoms ensemble
+dramatically simplifies thought process programming movement claytronics matrix
+addition language enables programmer build operation development shape matrix used analyze distributed local conditions
+operate fixed-size connected group module providing various function state configuration
+program address fixed-size module rather entire ensemble allows programmer operate claytronic matrix frequently efficiently
+enables programmer address larger set variable boolean logic enables program search larger pattern activity behavior among group modules
+performance error thousand million individual catoms hard detect debug therefore claytronics matrix operation require dynamic self-directed process identifying debugging errors
+claytronics researcher developed distributed watchpoints algorithm-level approach detecting fixing error missed conventional debugging techniques
+establishes node receive surveillance determine validity distributed conditions
+approach provides simple highly descriptive set rule evaluate distributed condition prof effective detection errors
+two important class claytronics algorithm shape sculpting localization algorithms
+ultimate goal claytronics research creating dynamic motion three-dimensional poses
+research catom motion collective actuation hierarchical motion planning require shape sculpting algorithm convert catoms necessary structure give structural strength fluid movement dynamic ensemble
+meanwhile localization algorithm enable catoms localize position ensemble
+localization algorithm provide accurate relational knowledge catoms whole matrix based noisy observation fully distributed manner
+capability computing continue develop robotic module shrink claytronics become useful many applications
+claytronics offer realistic sense communication long distance called pario
+similar audio video provide aural visual stimulation pario provides aural visual physical sensation
+user able hear see touch one communicating realistic manner
+pario could used effectively many professional discipline engineering design education healthcare entertainment leisure activity video games
+advancement nanotechnology computing necessary claytronics become reality feasible challenge overcome daunting require great innovation
+december interview jason campbell lead researcher intel lab pittsburgh said estimate long going take gone year couple years
+invincible science fiction novel intrigue centered self-configuring nanobotic swarms
+'programmable matter' one day could transform kind look-alike post-gazette

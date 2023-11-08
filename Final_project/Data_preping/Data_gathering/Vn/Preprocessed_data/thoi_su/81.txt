@@ -1,20 +1,20 @@
-Hai tramj thu phis khoong duwngf bij looix heej thoongs
-Hai tramj thu phis khoong duwngf Beens Thuyr vaf Beens Thuyr owr Ngheej An bij maats keets noois khieens heej thoongs khoong theer tuwj đoongj truwf tieenf khi xe qua tramj
-Tinhf trangj nayf vuwaf đuwowcj đaij dieenj chur đaauf tuw chi nhanhs BOT tuyeens tranhs thanhf phoos Vinh baos caos Cucj Đuwowngf booj Vieetj Nam
-Theo baos caos tuwf thangs chi nhanhs đax banf giao vieecj vaanj hanhf thu phis taij hai tramj thu phis Beens Thuyr vaf Beens Thuyr cho Coong ty TNHH Thu phis tuwj đoongj VETC
-Tuy nhieen heej thoongs xayr ra nhieeuf looix
-Trong thangs cos laanf heej thoongs maats keets noois vowis mays chur
-Laanf gaanf nhaats heej thoongs taij hai tramj maats keets noois giowf
-Khi xayr ra looix ootoo chayj qua tramj thu phis BOT khoong đuwowcj heej thoongs nhaanj dieenj đeer thanh toans tuwj đoongj
-Nhaan vieen tramj phair nhaapj bieenr soos thur coong cho barrie mowr xe qua vaf thao tacs truwf tieenf treen heej thoongs
-Vieecj cacs xe duwngf chowf nhaapj bieenr soos gaay unf tawcs taij tramj vaf tieemf aanr nguy cow thaats thoats doanh thu cuar nhaf đaauf tuw BOT
-Cucj Đuwowngf booj Vieetj Nam đax yeeu caauf Coong ty VETC nhanh chongs raf soats khawcs phucj looix nayf baos caos nguyeen nhaan phuwowng ans suwar chuwax vaf keets quar khawcs phucj
-Ông Nguyeenx Lee Thawngs Phos toongr giams đoocs Coong ty TNHH Thu phis tuwj đoongj VETC cho bieets vieecj maats keets noois mangj đaauf thangs laf do tur đieenj taij tramj Beens Thuyr bij nhayr aptomat choongs rof khieens booj luwu đieenj cuar mays chur canj pin vaf maats đieenj mays chur
-Coong ty VETC đax lawps đawtj toanf booj coif canhr baos khi heej thoongs thieets bij taij tramj bij maats đieenj luwowis
-Giuwax thangs keenh truyeenf daanx đeens keets noois heej thoongs Backend heej thoongs xuwr lys trung taam bij chaapj chownf neen heej thoongs thu phis bij looix
-VETC đax phoois howpj vowis nhaf cung caaps dichj vuj keenh truyeenf duwx lieeuj khooi phucj vaf cos giair phaps ngawn nguwaf suwj coos
-Hooif thangs cacs tramj thu phis Beens Thuyr cos hai laanf maats keets noois do heej thoongs xuwr lys xe qua tramj bij quas tair khieens giao dichj chaamj
-Coong ty VETC đax cos kees hoachj naang caaps toongr theer heej thoongs Backend duwj kieens hoanf thanhf trong nawm
-Tuwf ngayf thu phis tuwj đoongj khoong duwngf aps dungj cho cacs cao toocs tramj BOT treen quoocs looj chir conf mootj lanf thu phis hoonx howpj
-Car nuwowcs đax cos tramj thu phis khoong duwngf vowis lanf thu phis
-Hieenj trieeuj ootoo chieems đax dans ther vaf mowr taif khoanr thu phis khoong duwngf
+hai trạm thu phí không dừng bị lỗi hệ thống
+hai trạm thu phí không dừng bến thủy và bến thủy ở nghệ an bị mất kết nối khiến hệ thống không thể tự động trừ tiền khi xe qua trạm
+tình trạng này vừa được đại diện chủ đầu tư chi nhánh bot tuyến tránh thành phố vinh báo cáo cục đường bộ việt nam
+theo báo caó từ tháng chi nhánh đã bàn giao việc vận hành thu phí tại hai trạm thu phí bến thủy và bến thủy cho công ty tnhh thu phí tự động vetc
+tuy nhiên hệ thống xảy ra nhiều lỗi
+trong tháng có lần hệ thống mất kết nối với máy chủ
+lần gần nhất hệ thống tại hai trạm mất kết nối giờ
+khi xảy ra lôĩ ôtô chạy qua trạm thu phí bot không được hệ thống nhận diện để thanh toán tự động
+nhân viên trạm phải nhập biển số thủ công cho barrie mở xe qua và thao tác trừ tiền trên hệ thống
+việc các xe dừng chờ nhập biển số gây ùn tắc tại trạm và tiềm ẩn nguy cơ thất thoát doanh thu của nhà đầu tư bot
+cục đường bộ việt nam đã yêu cầu công ty vetc nhanh chóng rà soát khắc phục lỗi naỳ báo cáo nguyên nhân phương án sửa chữa và kết quả khắc phục
+ông nguyễn lê thắng phó tổng giám đốc công ty tnhh thu phí tự động vetc cho biết việc mất kết nối mạng đầu tháng là do tủ điện tại trạm bến thủy bị nhảy aptomat chống rò khiến bộ
+công ty vetc đã lắp đặt toàn bộ còi cảnh báo khi hệ thống thiết bị tại trạm bị mất điện lưới
+giữa tháng kênh truyền dẫn đến kết nối hệ thống backend hệ thống xử lý trung tâm bị chập chờn nên hệ thống thu phí bị lỗi
+vetc đã phối hợp với nhà cung cấp dịch vụ kênh truyền dữ liệu khôi phục và có giải pháp ngăn ngừa sự cố
+hồi tháng các trạm thu phí bến thủy có hai lần mất kết nối do hệ thống xử lý xe qua trạm bị quá tải khiến giao dịch chậm
+công ty vetc đã có kế hoạch nâng cấp tổng thể hệ thống backend dự kiến hoàn thành trong năm
+từ ngày thu phí tự động không dừng áp dụng cho các cao tốc trạm bot trên quốc lộ chỉ còn một làn thu phí hỗn hợp
+cả nước đã có trạm thu phí không dừng với làn thu phí
+hiện triệu ôtô chiếm đã dán thẻ và mở tài khoản thu phí không dừn

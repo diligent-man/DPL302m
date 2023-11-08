@@ -1,0 +1,57 @@
+oncometabolism field study focus metabolic change occur cell make tumor microenvironment tme accompany oncogenesis tumor progression toward neoplastic state
+cell increased growth survivability differ non-tumorigenic cell term metabolism
+warburg effect describes cancer cell change metabolism become oncogenic order proliferate eventually invade tissue process known metastasis
+chemical reaction associated oncometabolism triggered alteration oncogene gene potential cause cancer
+gene functional active physiological condition producing normal amount metabolites
+upregulation result dna damage result overabundance metabolite lead tumorigenesis
+otto heinrich warburg discovered intriguing bioenergetic phenotype shared tumor cell higher-than-normal reliance lactic acid fermentation energy generation
+although root research field trace back wa recently recognized last decade research cancer progression ha focused role shifting metabolic pathway cancer immune cell leading increase interest characterizing metabolic alteration cell undergo tme
+physiological level oxygen cancer cell preferentially convert glucose lactate according otto h
+warburg believed aerobic glycolysis wa key metabolic change cancer cell malignancy
+warburg effect wa later coined describe metabolic shift
+warburg thought change metabolism wa due mitochondrial respiration injury interpretation wa questioned researcher showing intact functional cytochrome detected tumor cell clearly speak general mitochondrial dysfunction
+several author provided significant evidence oxidative phosphorylation normal krebs cycle persist vast majority malignant tumor adding growing body evidence cancer exhibit warburg effect maintaining proper mitochondrial respiration
+provided evidence tumor tissue section used warburg's experiment thinner oxygen diffusion constant employed implying tissue slice studied partially hypoxic calculated critical diffusion distance wa micrometers
+result endless debate discussion warburg's discovery took place piqued interest scientist world ha helped bring attention cell metabolism cancer immune cell use modern technology discover pathway modified well potential therapeutic targets
+carcinogenic cell undergo metabolic rewiring oncogenesis oncometabolites play important role
+cancer several reprogrammed metabolic pathway help cell survive nutrient scarce aerobic glycolysis increase glycolytic flux also known warburg effect allows glycolytic intermediate supply subsidiary pathway meet metabolic demand proliferating tumorigenic cells
+another studied reprogrammed pathway gain function oncogene myc
+gene encodes transcription factor boost expression number gene involved anabolic growth via mitochondrial metabolism
+oncometabolites metabolite whose abundance increase markedly cancer cell loss-of-function gain-of-function mutation specific enzyme involved production accumulation endogenous metabolite initiate sustains tumor growth metastasis
+cancer cell rely aerobic glycolysis reached defect enzyme involved normal cell metabolism allows cancer cell meet energy need divert acetyl-coa tca cycle build essential biomolecules amino acid lipids
+defect cause overabundance endogenous metabolite frequently involved critical epigenetic change signaling pathway direct impact cancer cell metabolism
+oncometabolite dysregulation cancer progression linked epigenetic change cancer cells
+several mechanism linked d- hydroxyglutarate succinate fumarate inhibition kg-dependent dioxygenases cause epigenetic change affect expression gene involved cell differentiation development malignant characteristics
+chan described mechanism abnormal accumulation oncometabolite d- hydroxyglutarate brain tumor sample increased dna methylation process ha shown play key role oncogenesis
+hand paraganglioma cell succinate fumarate found methylate histone effectively silencing gene pnmt krt involved neuroendocrine differentiation epithelial-mesenchymal transition respectively
+discovery oncometabolites ha ushered new era cancer biology one ha potential improve patient care
+discovery new therapeutic reliable marker exploit vulnerability cancer cell used targeting either upstream downstream effector pathways
+oncometabolites used diagnostic biomarkers may able assist oncologist making precise decision early stage tumorigenesis particularly predicting aggressive tumor behavior
+detection d- hydroxyglutarate glioma patient using proton magnetic resonance spectroscopy mr ha shown noninvasive procedure
+presence idh idh mutation wa linked detection oncometabolite percent time
+idhrq specific mutation ha shown promising result inhibition small molecule agi-
+therefore limiting supply d- hydroxyglutarate inhibiting detected mutant idh enzyme could good therapeutical approach idh-mutant cancers
+ihc staining ha shown useful diagnostic tool prioritizing patient sdh mutation testing early stage cancer
+absence sdhb ihc staining would linked presence sdh oncogene mutations
+already commercialized drug decitabine dacogen could effective therapy repress migration capacity sdhb-mutant cells
+ihc staining fh used detect lack protein patient papillary renal cell carcinoma type
+lack fh renal carcinoma cell induces pro-survival metabolic adaptation several cascade affected
+downregulation glycine-n-methyltransferase ha linked hepatocellular carcinoma pancreatic cancer
+compared patient deletion gnmt patient deletion early-stage pancreatic cancer twice median month overall survival
+metabolomics applied oncometabolism since change cancer's genomic transcriptomic proteomic profile result change downstream metabolic pathways
+actually use technique dysregulation pyruvate kinase enzyme glucose metabolism wa discovered cancer cells
+another common used technique glucose glutamine labeled c show tca cycle used generate large amount fatty acid phospholipid replenish tca cycle intermediates
+oncometabolomics doe necessarily need used cancer cell cell immediately surrounding tme
+metabolomics applied cancer ha potential significantly improve current oncological treatment ha great diagnostic value since metabolic change prequel phenotypic change cell thus tissue organ making suitable early detection difficult-to-detect cancers
+also lead personalized medicine customize individual's cancer treatment according specific oncometabolite profile would allow better cancer therapy customization informed adjustments
+ingenuity pathway analysis ipa metabolic pathway analysis software package help researcher model analyze comprehend complex biological system associating specific metabolite potential metabolic pathway data analysis
+software ha used researcher elucidate regulatory network oncometabolites like hydroxyglutarate
+metabolights open-access database metabolomics research collect experimental data leading journals' metabolic experiments
+since initial release metabolights repository ha seen consistent year-on-year growth
+resource surged response need scientific community easy access metabolite data
+cancer research ha ongoing century trying elucidate origin cause
+cancer research evolves time scientific community tends pay attention cell metabolism target metabolic need change cell undergo carcinogenesis
+growing evidence metabolic dependency cancer influenced tissue environment important consider tme different vitro vivo model study oncometabolism different cancer scenarios
+extensive research modulation bet protein cancer model breast
+protein appear involved oncometabolism targeting uncoupling brd action carcinogenic cell well stopping pro-migratory signal changing cytokine metabolism particularly il-
+group ha reported importance exosomes tme vesicle shed adipocytes carry specific molecular cargo cause metabolic change cell leading pro-metastatic change recipient breast cancer cel

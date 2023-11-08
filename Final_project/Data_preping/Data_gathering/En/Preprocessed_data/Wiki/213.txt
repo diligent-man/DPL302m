@@ -1,0 +1,7 @@
+computer science specifically computability theory computational complexity theory model computation model describes output mathematical function computed given input
+using model allows studying performance algorithm independently variation specific particular implementation specific technology
+model computation classified three category sequential model functional model concurrent models
+nondeterministic model useful practical computation used study computational complexity algorithms
+model differ expressive power example function computed finite state machine also computed turing machine vice versa
+field runtime analysis algorithm common specify computational model term primitive operation allowed unit cost simply unit-cost operations
+commonly used example random-access machine ha unit cost read write access memory cells

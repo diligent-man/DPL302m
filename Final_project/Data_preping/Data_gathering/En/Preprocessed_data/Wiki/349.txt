@@ -1,0 +1,71 @@
+mathematical logic tautology greek formula assertion true every possible interpretation
+similarly either ball green ball green always true regardless colour ball
+philosopher ludwig wittgenstein first applied term redundancy propositional logic borrowing rhetoric tautology repetitive statement
+logic formula satisfiable true least one interpretation thus tautology formula whose negation unsatisfiable
+formula made either true false based value assigned propositional variables
+falsum representing arbitrary contradiction symbolism tautology may substituted truth value true symbolized instance by
+tautology key concept propositional logic tautology defined propositional formula true possible boolean valuation propositional variables
+key property tautology propositional logic effective method exists testing whether given formula always satisfied equiv whether negation unsatisfiable
+definition tautology extended sentence predicate logic may contain quantifiersa feature absent sentence propositional logic
+indeed propositional logic distinction tautology logically valid formula
+context predicate logic many author define tautology sentence obtained taking tautology propositional logic uniformly replacing propositional variable first-order formula one formula per propositional variable
+set formula proper subset set logically valid sentence predicate logic ie sentence true every model
+word tautology wa used ancient greek describe statement wa asserted true merely virtue saying thing twice pejorative meaning still used rhetorical tautologies
+word gained new meaning logic currently used mathematical logic denote certain type propositional formula without pejorative connotation originally possessed
+analytic proposition refers analytic truth statement natural language true solely term involved
+gottlob frege proposed grundlagen truth analytic exactly derived using logic
+however maintained distinction analytic truth ie truth based meaning term tautology ie statement devoid content
+tractatus logico-philosophicus ludwig wittgenstein proposed statement deduced logical deduction tautological empty meaning well analytic truths
+henri poincar made similar remark science hypothesis in
+although bertrand russell first argued remark wittgenstein poincar claiming mathematical truth non-tautologous synthetic later spoke favor in
+logical proposition refers proposition provable using law logic
+formalization semantics propositional logic term truth assignment wa developed
+term tautology began applied propositional formula true regardless truth falsity propositional variables
+lewis langford used term proposition formal logic universally valid
+common presentation stephen kleene herbert enderton use tautology refer logically valid propositional formula maintain distinction tautology logically valid context first-order logic see below
+propositional logic begin propositional variable atomic unit represent concrete propositions
+formula consists propositional variable connected logical connective built way truth overall formula deduced truth falsity variable
+valuation function assigns propositional variable either truth f falsity
+satisfied particular valuation one b assigned f make one following disjunct assigned t
+formula propositional logic tautology formula always true regardless valuation used propositional variables
+valuation formula must definition assign one truth value true false assign
+implies b not-b implies not-a vice versa express law contraposition
+displaystyle lnot ato bland lnot ato lnot bto a
+not-a implies b negation not-b not-a must false must true principle known reductio ad absurdum
+displaystyle lnot aland bleftrightarrow lnot alor lnot b
+b not-a not-b vice versa known de morgan's law
+implies b b implies c implies c principle known syllogism
+displaystyle alor bland ato cland bto cto c
+least one b true implies c c must true well principle known proof cases
+either book blue shelfa minimal tautology tautology instance shorter tautology
+problem determining whether formula tautology fundamental propositional logic
+therefore task determining whether formula tautology finite mechanical one one need evaluate truth value formula possible valuations
+one algorithmic method verifying every valuation make formula true make truth table includes every possible valuation
+possible valuation propositional variable b c represented first three column following table
+remaining column show truth subformulas formula culminating column showing truth value original formula valuation
+row final column show sentence question verified tautology
+also possible define deductive system ie proof system propositional logic simpler variant deductive system employed first-order logic see kleene sec one system
+proof tautology appropriate deduction system may much shorter complete truth table formula n propositional variable requires truth table line quickly becomes infeasible n increases
+proof system also required study intuitionistic propositional logic method truth table cannot employed law excluded middle assumed
+formula r said tautologically imply formula every valuation cause r true also cause true
+general procedure substitution rule allows additional tautology constructed given tautology kleene sec
+suppose tautology propositional variable fixed sentence sa chosen
+sentence obtained replacing variable corresponding sentence sa also tautology
+displaystyle clor dland cto elor lnot clor dlor lnot cto e
+axiomatic system complete every tautology theorem derivable axioms
+problem constructing practical algorithm determine whether sentence large number propositional variable tautology area contemporary research area automated theorem proving
+method truth table illustrated provably correct truth table tautology end column truth table sentence tautology contain row whose final column f valuation corresponding row valuation doe satisfy sentence tested
+method verifying tautology effective procedure mean given unlimited computational resource always used mechanistically determine whether sentence tautology
+mean particular set tautology fixed finite countable alphabet decidable set
+efficient procedure however truth table constrained fact number valuation must checked increase k number variable formula
+exponential growth computation length render truth table method useless formula thousand propositional variable contemporary computing hardware cannot execute algorithm feasible time period
+problem determining whether valuation make formula true boolean satisfiability problem problem checking tautology equivalent problem verifying sentence tautology equivalent verifying valuation satisfying
+known boolean satisfiability problem np complete widely believed polynomial-time algorithm perform it
+current research focus finding algorithm perform well special class formula terminate quickly average even though input may cause take much longer
+sentence may contain quantifier unlike sentence propositional logic
+context first-order logic distinction maintained logical validity sentence true every model tautology tautological validity proper subset first-order logical validities
+tautology first-order logic sentence obtained taking tautology propositional logic uniformly replacing propositional variable first-order formula one formula per propositional variable
+similarly first-order language unary relation symbol rst following sentence tautology
+displaystyle exists xrxland lnot exists xsxto forall xtxleftrightarrow exists xrxto lnot exists xsxto forall xtx
+prcis mathematical logic translated french german edition otto bird dordrecht south holland d
+pp reprinted english translation tractatus logico-philosophicus new york city london tautology encyclopedia mathematics em pres

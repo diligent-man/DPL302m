@@ -1,0 +1,160 @@
+related synonymous economics study production distribution consumption money asset good services
+finance activity take place financial system various scope thus field roughly divided personal corporate public finance
+financial system asset bought sold traded financial instrument currency loan bond share stock option future etc
+asset also banked invested insured maximize value minimize loss
+broad range subfields within finance exist due wide scope
+asset money risk investment management aim maximize value minimize volatility
+financial analysis viability stability profitability assessment action entity
+case theory finance tested using scientific method covered experimental finance
+field multidisciplinary mathematical finance financial law financial economics financial engineering financial technology
+ancient medieval civilization known done basic finance function banking trading accounting
+qualitative finance theory first proposed century starting louis bachelier's thesis
+late early st century global financial system wa formed
+financial system consists flow capital take place individual household personal finance government public finance business corporate finance
+finance thus study process channeling money saver investor entity need it
+saver investor money available could earn interest dividend put productive use
+individual company government must obtain money external source loan credit lack sufficient fund operate
+general entity whose income exceeds expenditure lend invest excess intending earn fair return
+correspondingly entity income le expenditure raise capital usually one two ways
+borrowing form loan private individual selling government corporate bonds
+ii corporation selling equity also called stock share may take various form preferred stock common stock
+owner bond stock may institutional investor financial institution investment bank pension fund private individual called private investor retail investors
+lending often indirect financial intermediary bank via purchase note bond corporate bond government bond mutual bond bond market
+lender receives interest borrower pay higher interest lender receives financial intermediary earns difference arranging loan
+bank allow borrower lender different size coordinate activity
+finance allows production consumption society operate independently other
+without use financial allocation production would happen time space consumption
+finance distance timespace production consumption may allowed happen
+investing typically entail purchase stock either individual security via mutual fund example
+stock usually sold corporation investor raise required capital form equity financing distinct debt financing described above
+investment bank find initial investor facilitate listing security typically share bonds
+additionally facilitate security exchange allow trade thereafter well various service provider manage performance risk investments
+latter include mutual fund pension fund wealth manager stock broker typically servicing retail investor private individuals
+inter-institutional trade investment fund-management scale referred wholesale finance
+institution extend product offered related trading include bespoke option swap structured product well specialized financing financial engineering inherently mathematical institution major employer quants see below
+institution risk management regulatory capital compliance play major roles
+outlined finance comprises broadly three area personal finance corporate finance public finance
+turn overlap employ various activity sub-disciplines chiefly investment risk management quantitative finance
+personal finance defined mindful planning monetary spending saving also considering possibility future risk
+personal finance may involve paying education financing durable good real estate car buying insurance investing saving retirement
+personal finance may also involve paying loan debt obligations
+main area personal finance considered income spending saving investing protection
+following step outlined financial planning standard board suggest individual understand potentially secure personal finance plan after
+understanding effect tax policy subsidy penalty management personal finances
+developing saving plan financing large purchase auto education home
+preparing retirement long term expensescorporate finance deal action manager take increase value firm shareholder source funding capital structure corporation tool analysis used allocate financial resources
+corporate finance principle different managerial finance study financial management firm rather corporation alone concept applicable financial problem firms
+typically corporate finance relates long term objective maximizing value entity's asset stock return shareholder also balancing risk profitability
+capital budgeting selecting project invest accurately determining value crucial judgement asset value make break
+dividend policy use excess fund reinvested business returned shareholders
+capital structure deciding mix funding used attempting find optimal capital mix debt-commitments v cost capitalthe latter creates link investment banking security trading capital raised generically comprise debt ie
+opposed corporate financier focus short term element profitability cash flow working capital management inventory credit debtors
+ensuring firm safely profitably carry financial operational objective ie
+service maturing short-term debt repayment scheduled long-term debt payments
+ha sufficient cash flow ongoing upcoming operational expenses
+see financial management role financial analyst corporate other
+public finance describes finance related sovereign state sub-national entity related public entity agencies
+generally encompasses long-term strategic perspective regarding investment decision affect public entities
+sovereign debt issuance municipal bond public work projectscentral bank federal reserve system bank united state bank england united kingdom strong player public finance
+act lender last resort well strong influence monetary credit condition economy
+development finance related concern investment economic development project provided quasi governmental institution non-commercial basis project would otherwise able get financing
+public-private partnership primarily used infrastructure project private sector corporate provides financing up-front draw profit taxpayer andor users
+investment management professional asset management various security typically share bond also asset real estate commodity alternative investment order meet specified investment goal benefit investors
+investor may institution insurance company pension fund corporation charity educational establishment private investor either directly via investment contract commonly via collective investment scheme like mutual fund exchange-traded fund reits
+heart investment management asset allocation diversifying exposure among asset class among individual security within asset class appropriate client's investment policy turn function risk profile investment goal investment horizon see investor profile
+portfolio optimization process selecting best portfolio given client's objective constraints
+fundamental analysis approach typically applied valuing evaluating individual securitiesoverlaid portfolio manager's investment style broadly active v passive value v growth small cap vs
+well-diversified portfolio achieved investment performance general largely function asset mix selected individual security le impactful
+specific approach philosophy also significant depending extent complementary market cycle
+computer-based technique increasingly machine learning instead human judgment
+actual trading also typically automated via sophisticated algorithms
+risk management general study control risk balance possibility gain process measuring risk developing implementing strategy manage risk
+practice protecting corporate value using financial instrument manage exposure risk called hedging focus particularly credit market risk bank regulatory capital includes operational risk
+credit risk risk default debt may arise borrower failing make required payments
+market risk relates loss arising movement market variable price exchange rates
+operational risk relates failure internal process people system external eventsfinancial risk management related corporate finance two ways
+firstly firm exposure market risk direct result previous capital investment funding decisions
+credit risk arises business' credit policy often addressed credit insurance provisioning
+secondly discipline share goal enhancing least preserving firm's economic value context overlap also enterprise risk management typically domain strategic management
+business devote much time effort forecasting analytics performance monitoring
+bank wholesale institution risk management focus managing necessary hedging various position held institution trading position long term exposure calculating monitoring resultant economic capital regulatory capital basel iii
+calculation mathematically sophisticated within domain quantitative finance below
+credit risk inherent business banking additionally institution exposed counterparty credit risk
+bank typically employ middle office risk group whereas front office risk team provide risk service solution customers
+additional diversification fundamental risk mitigant investment manager apply various risk management technique portfolio appropriate
+may relate portfolio whole individual stock bond portfolio typically managed via cash flow matching immunization
+derivative portfolio position greek vital risk management tool measure sensitivity small change given underlying parameter portfolio rebalanced accordingly including additional derivative offsetting characteristics
+quantitative finance also referred mathematical finance includes finance activity sophisticated mathematical model required thus overlap several above
+specialized practice area quantitative finance comprises primarily three sub-disciplines underlying theory technique discussed next section
+area generally underpins bank's customer-driven derivative business delivering bespoke otc-contracts exotics designing various structured product solution mentioned encompasses modeling programming support initial trade subsequent hedging management
+quantitative finance also significantly overlap financial risk management banking mentioned regard hedging regard economic capital well compliance regulation basel capital liquidity requirements
+quants also responsible building deploying investment strategy quantitative fund mentioned also involved quantitative investing generally area trading strategy formulation automated trading high-frequency trading algorithmic trading program tradingfinancial theory studied developed within discipline management financial economics accountancy applied mathematics
+abstractly finance concerned investment deployment asset liability space time
+ie performing valuation asset allocation today based risk uncertainty future outcome appropriately incorporating time value money
+determining present value future value discounting must risk-appropriate discount rate turn major focus finance-theory
+since debate whether finance art science still open recent effort organize list unsolved problem finance
+managerial finance branch management concern managerial application finance technique theory emphasizing financial aspect managerial decisions
+technique addressed developed relate main managerial accounting corporate finance
+former allow management better understand hence act financial information relating profitability performance latter optimizing overall financial structure including impact working capital
+academic working area typically based business school finance department accounting management science
+financial economics branch economics study interrelation financial variable price interest rate share opposed real economic variable ie
+thus center pricing decision making risk management financial market produce many commonly employed financial models
+financial econometrics branch financial economics us econometric technique parameterize relationship suggested
+asset pricing corporate finance first perspective provider capital ie
+asset pricing theory develops model used determining risk-appropriate discount rate pricing derivative includes portfolio- investment theory applied asset management
+analysis essentially explores rational investor would apply risk return problem investment uncertainty producing key fundamental theorem asset pricing
+twin assumption rationality market efficiency lead modern portfolio theory capm black-scholes theory option valuation
+advanced level often response financial crisis study extends neoclassical model incorporate phenomenon assumption hold general settings
+much corporate finance theory contrast considers investment certainty fisher separation theorem theory investment value modigliani-miller theorem
+theory method developed decisioning funding dividend capital structure discussed above
+recent development incorporate uncertainty contingency thus various element asset pricing decision employing example real option analysisfinancial mathematics field applied mathematics concerned financial markets
+term practice field referred quantitative finance mathematical finance comprises primarily three area discussed
+theory field largely focused modeling derivative much emphasis interest rate- credit risk modeling important area include insurance mathematics quantitative portfolio management
+relatedly technique developed applied pricing hedging wide range asset-backed government corporate-securities
+derivative stochastic calculus simulation partial differential equation see aside discussion prototypical black-scholes various numeric technique applied
+risk management value risk stress testing sensitivity analysis applying greek xva
+area particularly portfolio problem quants employ sophisticated optimization techniquesmathematically separate two analytic branches
+derivative pricing us risk-neutral probability arbitrage-pricing probability denoted q
+risk portfolio management generally use actual actuarial physical probability denoted p
+subject ha close relationship financial economics concerned much underlying theory involved financial mathematics generally financial mathematics derive extend mathematical model suggested
+computational finance branch applied computer science deal problem practical interest finance especially emphasizes numerical method applied here
+aim establish different market setting environment experimentally observe provide lens science analyze agents' behavior resulting characteristic trading flow information diffusion aggregation price setting mechanism return processes
+researcher experimental finance study extent existing financial economics theory make valid prediction therefore prove well attempt discover new principle theory extended applied future financial decisions
+research may proceed conducting trading simulation establishing studying behavior people artificial competitive market-like settings
+behavioral finance study psychology investor manager affect financial decision markets
+relevant making decision impact either negatively positively one areas
+in-depth research behavioral finance possible bridge actually happens financial market analysis based financial theory
+behavioral finance ha grown last decade become integral aspect finance
+study experimental asset market use model forecast experimentsa strand behavioral finance ha dubbed quantitative behavioral finance us mathematical statistical methodology understand behavioral bias conjunction valuation
+quantum finance interdisciplinary research field applying theory method developed quantum physicist economist order solve problem finance
+finance theory heavily based financial instrument pricing stock option pricing
+many problem facing finance community known analytical solution
+result numerical method computer simulation solving problem proliferated
+many computational finance problem high degree computational complexity slow converge solution classical computers
+particular come option pricing additional complexity resulting need respond quickly changing markets
+example order take advantage inaccurately priced stock option computation must complete next change almost continuously changing stock market
+result finance community always looking way overcome resulting performance issue arise pricing options
+ha led research applies alternative computing technique finance
+commonly used quantum financial model quantum continuous model quantum binomial model multi-step quantum binomial model etc
+banking originated babylonian empire temple palace used safe place storage valuables
+initially valuable could deposited wa grain cattle precious material eventually included
+period sumerian city uruk mesopotamia supported trade lending well use interest
+greece egypt word used interest tokos respectively meant give birth
+culture interest indicated valuable increase seemed consider lender's point view
+code hammurabi bc included law governing banking operations
+babylonian accustomed charging interest rate percent per annum
+jew allowed take interest jew allowed take interest gentile time law forbidding practicing usury
+gentile took interest jew torah considered equitable jew take interest gentiles
+lydia wa first place permanent retail shop opened
+herodotus mention use crude coin lydia earlier date around bc
+use coin mean representing money began year bce
+city greek empire aegina bce athens bce corinth bce started mint coins
+roman republic interest wa outlawed altogether lex genucia reforms
+julius caesar ceiling interest rate wa set later justinian wa lowered even and
+lccn cite book c maint multiple name author list link
+rich dad poor dad rich teach kid money poor middle class robert kiyosaki sharon lechter
+little book common sense investing way guarantee fair share stock market returns
+cite book c maint multiple name author list link
+lccn cite book c maint multiple name author list link
+personal finance resource financial literacy education commission mymoneygov
+public finance resource governance social development resource centre gsdrcorg
