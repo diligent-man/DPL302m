@@ -1,17 +1,4 @@
 """
-Structure:
-wrong_word_generator
-    # For both
-    remove_char()
-
-    # For En
-    insert_char()
-    swap_char_english()
-
-    # For Vn
-     wrong_tone_pos_vn()
-
-
 Telex Reference:
     1/ https://vi.wikipedia.org/wiki/Quy_t%E1%BA%AFc_%C4%91%E1%BA%B7t_d%E1%BA%A5u_thanh_c%E1%BB%A7a_ch%E1%BB%AF_Qu%E1%BB%91c_ng%E1%BB%AF
     
@@ -27,7 +14,6 @@ import random
 import numpy as np
 
 
-#######################################################################################
 # Two dicts for wrong_tone_pos funs
 tonal_mapping_1 = {
     'ảo': ['aỏ'], 'áo': ['aó'], 'ào': ['aò'], 'ạo': ['aọ'], 'ão': ['aõ'],
@@ -35,7 +21,7 @@ tonal_mapping_1 = {
     'ảu': ['aủ'], 'áu': ['aú'], 'àu': ['aù'], 'ạu': ['aụ'], 'ãu': ['aũ'],
     'ảy': ['aỷ'], 'áy': ['aý'], 'ày': ['aỳ'], 'ạy': ['aỵ'], 'ãy': ['aỹ'],
     'òa': ['oà'], 'óa': ['oá'], 'ỏa': ['oả'], 'õa': ['oã'], 'ọa': ['oạ'],
-    'oái': ['óai', 'oaí'], 'oài': ['òai', 'oaì'], 'oải': ['ỏai', 'oaỉ'], 'oại': ['ọai', 'oaị'],'oãi': ['õai', 'oaĩ'],
+    'oái': ['óai', 'oaí'], 'oài': ['òai', 'oaì'], 'oải': ['ỏai', 'oaỉ'], 'oại': ['ọai', 'oaị'], 'oãi': ['õai', 'oaĩ'],
     'oáy': ['óay', 'oaý'], 'oạy': ['ọay', 'oaỵ'],
     'oạc': ['ọac'], 'oác': ['óac'],
     'oắc': ['óăc'], 'oặc': ['ọăc'],
@@ -48,7 +34,7 @@ tonal_mapping_1 = {
     'uật': ['ụât'], 'uất': ['úât'],
     'ẩu': ['âủ'], 'ấu': ['âú'], 'ầu': ['âù'], 'ậu': ['âụ'], 'ẫu': ['âũ'],
     'ẩy': ['âỷ'], 'ấy': ['âý'], 'ầy': ['âỳ'], 'ậy': ['âỵ'], 'ẫy': ['âỹ'],
-    'uẩy': ['uâỷ', 'ủây'], 'uấy': ['uâý', 'úây'],   'uẫy': ['uâỹ', 'ũây'], 'uậy':['ụây','uâỵ'],
+    'uẩy': ['uâỷ', 'ủây'], 'uấy': ['uâý', 'úây'],   'uẫy': ['uâỹ', 'ũây'], 'uậy': ['ụây','uâỵ'],
     'òe': ['oè'], 'óe': ['oé'], 'ỏe': ['oẻ'], 'õe': ['oẽ'], 'ọe': ['oẹ'],
     'oèn': ['òen'], 'oẻn': ['ỏen'],
     'oèo': ['òeo', 'oeò'], 'oẹo': ['ọeo', 'oẹo'], 'oẻo': ['ỏeo', 'oeỏ'],
@@ -104,17 +90,17 @@ tonal_mapping_1 = {
     'ướu': ['ứơu', 'ươú'], 'ườu': ['ừơu', 'ươù'], 'ượu': ['ựơu', 'ươụ'],
     'ựu': ['ưụ'], 'ừu': ['ưù'], 'ửu': ['ưủ'], 'ứu': ['ưú'], 'ữu': ['ưũ'],
     'oáng': ['óang'], 'oạch': ['ọach'], 'oách': ['óach'],
-    'oán': ['óan'], 'oạn': ['ọan'], 'oãn': ['õan'],'oàn':['òan'],
+    'oán': ['óan'], 'oạn': ['ọan'], 'oãn': ['õan'], 'oàn': ['òan'],
     'oắn': ['óăn'],
     'oặt': ['ọăt'], 'uắc': ['úăc'],
     'uấy': ['úây', 'uâý'], 'uầy': ['ùây', 'uâỳ'], 'uẩy': ['ủây', 'uâỷ'], 'uậy': ['ụây', 'uâỵ'],
     'ưới': ['ứơi', 'ươí'], 'ười': ['ừơi', 'ươì'], 'ượi': ['ựơi', 'ươị'], 'ưỡi': ['ữơi', 'ươĩ'],
-    'ưở':['ửơ'],
+    'ưở': ['ửơ'],
     'uèn': ['ùen'],
     'uyến': ['úyên', 'uýên'], 'uyền': ['ùyên', 'uỳên'], 'uyển': ['ủyên', 'uỷên'], 'uyện': ['ụyên', 'uỵên'], 'uyễn':['ũyên', 'uỹên'],
     'uầy': ['ùây'], 'uỷu': ['ủyu', 'uyủ'], 'uỳnh': ['ùynh'],
     'uốc': ['úôc'], 'uần': ['ùân'],
-    'yến':['ýên'], 'yền': ['ỳên'], 'yển':'ỷên','yễn':['ỹên'], 'yện':['ỵên']
+    'yến': ['ýên'], 'yền': ['ỳên'], 'yển': 'ỷên', 'yễn': ['ỹên'], 'yện': ['ỵên']
 }
 
 
@@ -124,6 +110,8 @@ tonal_mapping_2 = {
     'ướng': ['ứơng'], 'ường': ['ừơng'], 'ượng': ['ựơng'], 'uyết':['uýêt'],
     'uyến':['uýên'], 'uyền':['uỳên'], 'uyển':['uỷên']
 }
+
+
 ######################################################################################
 # This section for expand_telex_error
 bang_nguyen_am = [['a', 'à', 'á', 'ả', 'ã', 'ạ', 'a'],
@@ -146,11 +134,14 @@ class WrongWordGenerator:
     def __init__(self):
         self.__word = ""
 
+
     def get_word(self):
         return self.__word
 
+
     def set_word(self, word: str):
         self.__word = word
+
 
     @staticmethod
     def __expand_telex_error(word) -> str:
@@ -180,11 +171,12 @@ class WrongWordGenerator:
         # but it should be 'thuyry'
         pos_1 = len(new_word) - 1
         pos_2 = len(new_word) - 2
-        
+
         tmp = new_word[pos_1]
         new_word = new_word.replace(new_word[pos_1], new_word[pos_2], 1)
         new_word = new_word.replace(new_word[pos_2], tmp, 1)
         return new_word
+
 
     def remove_char(self) -> str:
         """
@@ -193,12 +185,13 @@ class WrongWordGenerator:
             out: "ello" or "hllo" or "helo" or"hell" or "hell"
         Note: This method is used for both en & vn
         """
-        word = self.get_word()
+        word = self.__word
+
         pos = random.randrange(0, len(word))
-        
         # remove char
         word = word[: pos] + word[pos + 1:]
         return word
+
 
     def insert_char(self, language) -> str:
         """
@@ -206,19 +199,19 @@ class WrongWordGenerator:
             inp: "hi"
             out: "ahi" or "bhi" or "chi" or ...
         """
-        word = self.get_word()
+        word = self.__word
         pos_1 = random.randrange(0, len(word))
 
         # select random char
         alphabet = string.ascii_lowercase  # Get all lowercase letters
         pos_2 = random.randrange(0, len(alphabet))
-        
+
         # insert random char into word
         word = word[:pos_1] + alphabet[pos_2] + word[pos_1:]
 
         bang_nguyen_am_co_dau = np.array(bang_nguyen_am)[:, 1:-1]
         bang_nguyen_am_co_dau = [ele for row in bang_nguyen_am_co_dau for ele in row]
-        flag = True # check whether tonal vowel exist in word or not
+        flag = True  # check whether tonal vowel exist in word or not
         for char in bang_nguyen_am_co_dau:
             if char in word:
                 flag = True
@@ -228,12 +221,13 @@ class WrongWordGenerator:
             word = self.__expand_telex_error(word)
         return word
 
+
     def swap_char(self, language) -> str:
         word = self.get_word()
 
         pos_1 = random.randrange(0, len(word))
         pos_2 = random.randrange(0, len(word))
-        
+
         # check for similar pos
         if len(word) > 2:
             while pos_2 == pos_1:
@@ -250,7 +244,6 @@ class WrongWordGenerator:
         return word
 
 
-    ##########################################################################
     def wrong_tone_pos_vn(self) -> str:
         '''
         Examples: {"hiếu": "híêu, hiêú"}
@@ -317,7 +310,7 @@ def add_noise(sentence: str, language: str, noise_rate=0.2) -> str:
                 generated_result = wrong_word_generator.swap_char(language)
 
         elif language == 'vn':
-            # 4 cases: no noise, remove, insert, swap, wrong_tone_pos_vn
+            # 4 cases: no noise, remove, insert, swap, __wrong_tone_pos_vn
             num_of_methods = 5
             if method_prob < 1/num_of_methods:
                 # no noise
@@ -332,88 +325,7 @@ def add_noise(sentence: str, language: str, noise_rate=0.2) -> str:
                 # swap
                 generated_result = wrong_word_generator.swap_char(language)
             elif 4/num_of_methods <= method_prob <= 5/num_of_methods:
-                # wrong_tone_pos_vn
+                # __wrong_tone_pos_vn
                 generated_result = wrong_word_generator.swap_char(language)
-        print(randomized_word, generated_result)
         sentence = sentence.replace(randomized_word, generated_result)
     return sentence
-
-
-def generate_wrong_word(language) -> None:
-    # Bug: Last line of corpus are created in one line
-    if language == "en":
-        filename = 'en_corpus.txt'
-        save_path = 'noised_en/'
-
-    elif language == 'vn':
-        filename = 'vn_corpus.txt'
-        save_path = 'noised_vn/'
-
-    # Calculate how many file will be created
-    num_of_wrong_sentence = 10
-    num_of_line_per_file = 100_000
-    with open(filename, 'r') as f:
-        num_of_sentence_in_corpus = len(f.readlines())
-    ender_ls = [i * num_of_line_per_file for i in range(1, ceil(num_of_sentence_in_corpus * num_of_wrong_sentence / num_of_line_per_file)+2)]
-    print(ender_ls)
-
-
-    counter = 0
-    starter = 0
-    with open(filename, 'r') as reader:
-        for i in range(len(ender_ls)):
-            ender = ender_ls[i]
-            filename = save_path + str(starter) + "_" + str(ender) + ".txt"
-
-            # check ender whether it's over # of lines in corpus or not
-            if ender > num_of_sentence_in_corpus * num_of_wrong_sentence:
-                ender = num_of_sentence_in_corpus * num_of_wrong_sentence
-
-            while counter < ender:
-                line = reader.readline()
-                for j in range(num_of_wrong_sentence):
-                    incorrect_sentence = add_noise(line, language)
-                    correct_sentence = line
-
-                    # ensure incorrect sentence must differ from correct sentence
-                    while incorrect_sentence == correct_sentence:
-                        incorrect_sentence = add_noise(line, language)
-
-                    # write to file
-                    with open(filename, 'a') as writer:
-                        writer.write(correct_sentence[:-1] + '|' + incorrect_sentence)
-
-                    print(language, f'{counter} lines added noise')
-                    counter += 1
-
-                    # write into next file for the residual
-                    if counter >= ender:
-                        filename = save_path + str(ender) + "_" + str(ender_ls[i+1]) + ".txt"
-                        for k in range(num_of_wrong_sentence-j-1):
-                            incorrect_sentence = add_noise(line, language)
-                            correct_sentence = line
-
-                            # ensure incorrect sentence must differ from correct sentence
-                            while incorect_sentence == correct_sentence:
-                                incorect_sentence = add_noise(line, language)
-
-                            with open(filename, 'a') as writer:
-                                writer.write(correct_sentence[:-1] + '|' + incorrect_sentence)
-
-                            print(language, f'{counter} lines added noise')
-                            counter += 1
-                        break
-            # update starter
-            starter = ender
-    return None
-
-
-###############################################################################
-def main() -> None:
-    # generate_wrong_word("en")
-    # generate_wrong_word("vn")
-    return None
-
-
-if __name__ == '__main__':
-    main()
