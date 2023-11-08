@@ -1,8 +1,0 @@
-following partial list c code medical subject heading mesh defined united state national library medicine nlm
-mesh c anemia diamond-blackfanmesh c coagulation protein disorders
-mesh c hemorrhagic disease newbornmesh c erythroblastosis fetal
-mesh c thrombocythemia hemorrhagicmesh c bone marrow neoplasmsmesh c anemia sickle cell
-mesh c job's syndromemesh c activated protein c resistance
-mesh c purpura thrombotic thrombocytopenicmesh c cat-scratch disease
-mesh c tuberculosis lymph nodemesh c lymphangiectasis intestinalmesh c lymphangiectasis intestinalmesh c elephantiasis
-mesh c wandering spleenmesh c king's evilthe list continues list mesh code 

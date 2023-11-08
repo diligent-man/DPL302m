@@ -1,8 +1,0 @@
-theoretical computer science circuit model computation input value proceed sequence gate computes function
-circuit kind provide generalization boolean circuit mathematical model digital logic circuits
-example value boolean circuit boolean value circuit includes conjunction disjunction negation gates
-value integer circuit set integer gate compute set union set intersection set complement well arithmetic operation addition multiplication
-notion size depth width naturally extended family function becoming function from
-computing output given boolean circuit specific input p-complete problem
-input integer circuit however unknown whether problem decidable
-circuit complexity attempt classify boolean function respect size depth circuit compute them

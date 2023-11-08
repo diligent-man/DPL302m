@@ -1,4 +1,0 @@
-source input format sif defined mpeg- video format wa developed allow storage transmission digital video
-sif format palsecam ha resolution x active pixel refresh rate frame per second
-sif format ntsc ha resolution x active pixel refresh rate frame per secondwhen compared ccir specification defines appropriate parameter digital encoding tv signal sif seen reduced half height width frame-rate chrominance
-computer industry ha defined square-pixel sif x qvga x active pixel refresh rate whatever computer capable supporting

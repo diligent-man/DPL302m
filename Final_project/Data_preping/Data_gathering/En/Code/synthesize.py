@@ -45,7 +45,7 @@ def main() -> None:
             f.writelines(test)
 
 
-    # shutil.rmtree('../Preprocessed_data')
+    shutil.rmtree('../Preprocessed_data')
     return None
 
 
