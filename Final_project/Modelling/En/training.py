@@ -55,60 +55,26 @@ def padding(batch):
 
 def truncating(batch):
     # Tokenize
-    batch = [seq.split(' ') for seq in batch]
-    
+    batch = [seq.split(' ') for seq in batch]    
     # truncating
     batch = [seq[:MAX_LENGTH] for seq in batch]
-
     # rejoining
     batch = [(" ".join(seq)).strip() for seq in batch]
     return batch
-
-
-def split_train_test(indexes: list):
-    training_files = sorted(os.listdir(training_file_path))
-    inp = []
-    out = []
-    for index in indexes:
-        for i in range(len(training_files)):
-            starter = int(training_files[i][:-4].split('_')[0])
-            ender = int(training_files[i][:-4].split('_')[1])
-
-            if index >= starter and index <= ender:
-                with open(training_file_path + training_files[i], 'r') as f:
-                    data = f.readlines()
-                    print(index, ender, ender-index-1, index-starter-1)
-
-                    # The last file is not full, hence can not calculate with ender - index
-                    if training_files[i] == "1400000_1500000.txt":
-                        print('sas')
-                        line = data[index - starter - 1].split('|')
-                    elif i < len(training_files):
-                        line = data[ender-index-1].split('|')
-
-                    
-                    print(line) 
-                    inp.append(line[1][:-1])  # incorrect sentence
-                    out.append(line[0])       # correct sentence
-    return np.array(inp), np.array(out)
 
 
 def train_step(inp: list):
     # Padding
     inp = truncating(inp)
     out = [add_noise(seq, language="en") for seq in inp]
-    print()
-    print()
+
     # create target_inp, target_out
-    
-
-
-
-    # target_inp = [["[CLS]"] + seq for seq in batch]
-    # target_out = [seq + ["[SEP]"] for seq in batch]
+    target_inp = ["[CLS] " + seq for seq in out]
+    target_out = [seq + " [SEP]" for seq in out]
+    del out
 
     # print(np.array(target_inp).shape, np.array(target_out).shape)
-    # del out
+    # print(target_inp, target_out)
     # print(np.array(target_inp).shape, np.array(target_out).shape)
 
     # # indexing out

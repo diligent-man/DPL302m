@@ -184,8 +184,6 @@ class WrongWordGenerator:
             return ""
         elif len(word) > 1:
             pos = random.randrange(0, len(word))
-
-            print(word, len(word), 'remove')
             # remove char
             word = word.replace(word[pos], "")
             return word
@@ -198,34 +196,30 @@ class WrongWordGenerator:
             out: "ahi" or "bhi" or "chi" or ...
         """
         word = self.__word
-        print(word, len(word), 'insert')
-        if len(word) == 0:
+        pos_1 = random.randrange(0, len(word))
+
+        # select random char
+        alphabet = string.ascii_lowercase
+        pos_2 = random.randrange(0, len(alphabet))
+
+        # insert random char into word
+        word = word[:pos_1] + alphabet[pos_2] + word[pos_1:]
+
+        if language == 'en':
             return word
         else:
-            pos_1 = random.randrange(0, len(word))
 
-            # select random char
-            alphabet = string.ascii_lowercase
-            pos_2 = random.randrange(0, len(alphabet))
+            bang_nguyen_am_co_dau = np.array(bang_nguyen_am)[:, 1:-1]
+            bang_nguyen_am_co_dau = [ele for row in bang_nguyen_am_co_dau for ele in row]
+            flag = True  # check whether tonal vowel exist in word or not
+            for char in bang_nguyen_am_co_dau:
+                if char in word:
+                    flag = True
+                    break
 
-            # insert random char into word
-            word = word[:pos_1] + alphabet[pos_2] + word[pos_1:]
-
-            if language == 'en':
-                return word
-            else:
-
-                bang_nguyen_am_co_dau = np.array(bang_nguyen_am)[:, 1:-1]
-                bang_nguyen_am_co_dau = [ele for row in bang_nguyen_am_co_dau for ele in row]
-                flag = True  # check whether tonal vowel exist in word or not
-                for char in bang_nguyen_am_co_dau:
-                    if char in word:
-                        flag = True
-                        break
-
-                if flag:
-                    word = self.__expand_telex_error(word)
-                return word
+            if flag:
+                word = self.__expand_telex_error(word)
+            return word
 
 
     def swap_char(self, language) -> str:
@@ -286,8 +280,9 @@ class WrongWordGenerator:
 
 ###############################################################################
 def add_noise(sentence: str, language: str, noise_rate=0.2) -> str:
-    print(sentence)
     wrong_word_generator = WrongWordGenerator()
+
+    sequence = sentence.strip()
     sentence_len = len(sentence.split(" "))
     max_wrong_words = int(np.ceil(sentence_len * noise_rate))
 
@@ -295,7 +290,6 @@ def add_noise(sentence: str, language: str, noise_rate=0.2) -> str:
         # random word
         word_index = random.randrange(0, sentence_len)
         randomized_word = sentence.split(" ")[word_index]
-        print(randomized_word, len(randomized_word),  'randomized word')
         wrong_word_generator.set_word(randomized_word)
 
         # randomize method that's gonna be applied
@@ -336,6 +330,5 @@ def add_noise(sentence: str, language: str, noise_rate=0.2) -> str:
                 #  wrong_tone_pos_vn
                 generated_result = wrong_word_generator.wrong_tone_pos_vn()
 
-        print(generated_result, 'generated_result')
         sentence = sentence.replace(randomized_word, generated_result)
     return sentence
