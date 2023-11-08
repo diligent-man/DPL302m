@@ -61,7 +61,7 @@ def truncating(batch):
     batch = [seq[:MAX_LENGTH] for seq in batch]
 
     # rejoining
-    batch = [" ".join(seq) for seq in batch]
+    batch = [(" ".join(seq)).strip() for seq in batch]
     return batch
 
 
@@ -97,10 +97,6 @@ def train_step(inp: list):
     # Padding
     inp = truncating(inp)
     out = [add_noise(seq, language="en") for seq in inp]
-    print(inp)
-    print(out)
-
-
     print()
     print()
     # create target_inp, target_out

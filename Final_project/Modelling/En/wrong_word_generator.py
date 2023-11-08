@@ -179,18 +179,16 @@ class WrongWordGenerator:
 
 
     def remove_char(self) -> str:
-        """
-        Example:
-            inp: "hello"
-            out: "ello" or "hllo" or "helo" or"hell" or "hell"
-        Note: This method is used for both en & vn
-        """
         word = self.__word
+        if len(word) == 1:
+            return ""
+        elif len(word) > 1:
+            pos = random.randrange(0, len(word))
 
-        pos = random.randrange(0, len(word))
-        # remove char
-        word = word[: pos] + word[pos + 1:]
-        return word
+            print(word, len(word), 'remove')
+            # remove char
+            word = word.replace(word[pos], "")
+            return word
 
 
     def insert_char(self, language) -> str:
@@ -200,26 +198,34 @@ class WrongWordGenerator:
             out: "ahi" or "bhi" or "chi" or ...
         """
         word = self.__word
-        pos_1 = random.randrange(0, len(word))
+        print(word, len(word), 'insert')
+        if len(word) == 0:
+            return word
+        else:
+            pos_1 = random.randrange(0, len(word))
 
-        # select random char
-        alphabet = string.ascii_lowercase  # Get all lowercase letters
-        pos_2 = random.randrange(0, len(alphabet))
+            # select random char
+            alphabet = string.ascii_lowercase
+            pos_2 = random.randrange(0, len(alphabet))
 
-        # insert random char into word
-        word = word[:pos_1] + alphabet[pos_2] + word[pos_1:]
+            # insert random char into word
+            word = word[:pos_1] + alphabet[pos_2] + word[pos_1:]
 
-        bang_nguyen_am_co_dau = np.array(bang_nguyen_am)[:, 1:-1]
-        bang_nguyen_am_co_dau = [ele for row in bang_nguyen_am_co_dau for ele in row]
-        flag = True  # check whether tonal vowel exist in word or not
-        for char in bang_nguyen_am_co_dau:
-            if char in word:
-                flag = True
-                break
+            if language == 'en':
+                return word
+            else:
 
-        if language == 'vn' and flag == True:
-            word = self.__expand_telex_error(word)
-        return word
+                bang_nguyen_am_co_dau = np.array(bang_nguyen_am)[:, 1:-1]
+                bang_nguyen_am_co_dau = [ele for row in bang_nguyen_am_co_dau for ele in row]
+                flag = True  # check whether tonal vowel exist in word or not
+                for char in bang_nguyen_am_co_dau:
+                    if char in word:
+                        flag = True
+                        break
+
+                if flag:
+                    word = self.__expand_telex_error(word)
+                return word
 
 
     def swap_char(self, language) -> str:
@@ -280,14 +286,16 @@ class WrongWordGenerator:
 
 ###############################################################################
 def add_noise(sentence: str, language: str, noise_rate=0.2) -> str:
+    print(sentence)
     wrong_word_generator = WrongWordGenerator()
     sentence_len = len(sentence.split(" "))
     max_wrong_words = int(np.ceil(sentence_len * noise_rate))
 
     for i in range(max_wrong_words):
         # random word
-        word_index = random.randrange(0, len(sentence.split(" ")))
+        word_index = random.randrange(0, sentence_len)
         randomized_word = sentence.split(" ")[word_index]
+        print(randomized_word, len(randomized_word),  'randomized word')
         wrong_word_generator.set_word(randomized_word)
 
         # randomize method that's gonna be applied
@@ -305,7 +313,7 @@ def add_noise(sentence: str, language: str, noise_rate=0.2) -> str:
             elif 2/num_of_methods <= method_prob < 3/num_of_methods:
                 # insert
                 generated_result = wrong_word_generator.insert_char(language)
-            elif 3/num_of_methods <= method_prob <= 4/num_of_methods:
+            elif 3/num_of_methods <= method_prob <= 1:
                 # swap
                 generated_result = wrong_word_generator.swap_char(language)
 
@@ -325,7 +333,9 @@ def add_noise(sentence: str, language: str, noise_rate=0.2) -> str:
                 # swap
                 generated_result = wrong_word_generator.swap_char(language)
             elif 4/num_of_methods <= method_prob <= 5/num_of_methods:
-                # __wrong_tone_pos_vn
-                generated_result = wrong_word_generator.swap_char(language)
+                #  wrong_tone_pos_vn
+                generated_result = wrong_word_generator.wrong_tone_pos_vn()
+
+        print(generated_result, 'generated_result')
         sentence = sentence.replace(randomized_word, generated_result)
     return sentence
