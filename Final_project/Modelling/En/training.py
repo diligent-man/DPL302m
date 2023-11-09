@@ -65,26 +65,23 @@ def train_step(inp: list):
     out = truncating(out)
 
     # Tokenize
-    inp = tokenizer(inp, padding="max_length", max_length=MAX_LENGTH, truncation=True, return_tensors="tf")["input_ids"]  # (batch_size, MAX_LENGTH)    
-    out = tokenizer(out, padding="max_length", max_length=MAX_LENGTH-1, truncation=True, add_special_tokens=False, return_tensors="tf")["input_ids"]  # (batch_size, MAX_LENGTH)
-    
+    inp = tokenizer(inp, padding="max_length", max_length=MAX_LENGTH, truncation=True, return_tensors="np")["input_ids"]  # (batch_size, MAX_LENGTH)
+    out = tokenizer(out, padding="max_length", max_length=MAX_LENGTH-1, truncation=True, add_special_tokens=False, return_tensors="np")["input_ids"]  # (batch_size, MAX_LENGTH)
 
     # Create target_inp, target_out
-    target_inp = [tf.concat([CLS, indexed_seq], axis=0) for indexed_seq in out]
-    target_out = [tf.concat([indexed_seq, SEP], axis=0) for indexed_seq in out]
+    target_inp = tf.Variable([tf.concat([CLS, indexed_seq], axis=0) for indexed_seq in out])
+    target_out = tf.Variable([tf.concat([indexed_seq, SEP], axis=0) for indexed_seq in out])
 
-    print(target_inp.shape, target_out.shape)
-    print(target_inp, target_out, 'asdas')
+    with tf.GradientTape() as tape:
+        predictions, _ = model(inp=inp, target_inp=target_inp, training=True)
+        # print(predictions)
+        loss = loss_function(target_out, predictions)
 
-    # with tf.GradientTape() as tape:
-    #     predictions, _ = model(inp=inp, target_out=out, training=True)
-    #     loss = loss_function(shifted_right_out, predictions)
+    gradients = tape.gradient(loss, model.trainable_variables)
+    optimizer.apply_gradients(zip(gradients, model.trainable_variables))
 
-    # gradients = tape.gradient(loss, model.trainable_variables)
-    # optimizer.apply_gradients(zip(gradients, model.trainable_variables))
-
-    # train_loss(loss)
-    # train_accuracy(shifted_right_out, predictions)
+    train_loss(loss)
+    train_accuracy(target_out, predictions)
 
 
 model = Transformer(d_model=768, num_heads=8, num_layers=4, dff=1024,
@@ -96,6 +93,13 @@ learning_rate = CustomSchedule(768)
 optimizer = tf.keras.optimizers.Adam(0.001, beta_1=0.9, beta_2=0.98, epsilon=1e-9)
 train_loss = tf.keras.metrics.Mean(name='train_loss')
 train_accuracy = tf.keras.metrics.SparseCategoricalAccuracy(name='train_accuracy')
+
+checkpoint_path = "checkpoints/"
+ckpt = tf.train.Checkpoint(transformer=model)
+ckpt_manager = tf.train.CheckpointManager(ckpt, checkpoint_path, max_to_keep=10)
+if ckpt_manager.latest_checkpoint:
+    ckpt.restore(ckpt_manager.latest_checkpoint)
+
 def main() -> None:
     # read dataset
     dataset = []
@@ -114,19 +118,15 @@ def main() -> None:
         train_accuracy.reset_states()
 
         for index, mini_batch in tqdm(enumerate(mini_batches), total=num_mini_batches, dynamic_ncols=True):
+            start = time.time()
             train_step(mini_batch)
             print(f"""Epoch: {epoch}, Loss: {train_loss.result():.4f}, Accuracy: {train_accuracy.result():.4f}\n""")
 
-        # if (epoch + 1) % 5 == 0:
-        # ckpt_save_path = ckpt_manager.save()
-        # print ('Saving checkpoint for epoch {} at {}'.format(epoch+1,
-        #                                                      ckpt_save_path))
+            if (index + 1) % 5 == 0:
+                ckpt_save_path = ckpt_manager.save()
+                print('Saving checkpoint for iteration {} at {}'.format(index, ckpt_save_path))
 
-        # print ('Epoch {} Loss {:.4f} Accuracy {:.4f}'.format(epoch + 1, 
-        #                                             train_loss.result(), 
-        #                                             train_accuracy.result()))
-
-    #     print ('Time taken for 1 epoch: {} secs\n'.format(time.time() - start))
+            print('Time taken for 1 iteration: {} secs\n'.format(time.time() - start))
     return None
 
 

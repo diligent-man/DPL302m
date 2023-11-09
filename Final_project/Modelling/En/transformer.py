@@ -1,11 +1,14 @@
 import os
-
 os.environ["TF_CPP_MIN_LOG_LEVEL"] = "2"
+
 import numpy as np
 import tensorflow as tf
 
 from Pretrained_models.utils.character_cnn import CharacterIndexer
 from Pretrained_models.character_bert import CharacterBertModel
+
+characterBERT = CharacterBertModel.from_pretrained('../Pretrained_models/general_character_bert/')
+indexer = CharacterIndexer()
 
 
 # Supplementary functions for encoder/ decoder layers
@@ -24,7 +27,6 @@ def positional_encoding(pos, d_model):
 
     pos_encoding = angle_rads[np.newaxis, ...]
     return tf.cast(pos_encoding, dtype=tf.float32) # shape: (position, d_model)
-
 
 
 def scaled_dot_product_attention(q, k, v, mask=None):
@@ -67,6 +69,28 @@ def point_wise_feed_forward_network(d_model, dff):
       tf.keras.layers.Dense(units=dff, activation='relu'),  # (batch_size, seq_len, dff), dff stands for ????
       tf.keras.layers.Dense(units=d_model)  # (batch_size, seq_len, d_model)
   ])
+
+
+def word_embedding(x):
+    batch_size = x.shape[0]
+    # convert each sequence from int32 to string for further character indexing & embedding
+    x = [tf.map_fn(lambda index: tf.strings.format('{}', index), seq, dtype=tf.string) for seq in x]
+
+    # convert from binary string to utf-8 string
+    x = np.array([entry.numpy().decode('utf-8') for seq in x for entry in seq]).reshape(batch_size, -1).tolist()
+
+    #  encode to character indexes
+    x = indexer.as_padded_tensor(x)  # (batch_size, MAX_LENGTH, 50)
+
+    #  take word embedding from characterBERT
+    # Note: this is an embedding for index from BERT tokenizer not direct word
+
+    x, _ = characterBERT(x, )
+
+    # convert torch to tensorflow tensor
+    x = x.detach().numpy()
+    x = tf.convert_to_tensor(x)
+    return x
 
 
 ###############################################################################################################################
@@ -165,15 +189,14 @@ class DecoderLayer(tf.keras.layers.Layer):
         self.dropout3 = tf.keras.layers.Dropout(dropout)
 
 
-    def __call__(self, x, enc_output, training, look_ahead_mask, padding_mask):
+    def __call__(self, x, enc_output, training, look_ahead_mask=None, padding_mask=None):
         # enc_output.shape == (batch_size, input_seq_len, d_model)
 
         attn1, attn_weights_block1 = self.mha1(x, x, x, look_ahead_mask)  # (batch_size, target_seq_len, d_model)
         attn1 = self.dropout1(attn1, training=training)
         out1 = self.layernorm1(attn1 + x)
 
-        attn2, attn_weights_block2 = self.mha2(
-            enc_output, enc_output, out1, padding_mask)  # (batch_size, target_seq_len, d_model)
+        attn2, attn_weights_block2 = self.mha2(enc_output, enc_output, out1, padding_mask)  # (batch_size, target_seq_len, d_model)
         attn2 = self.dropout2(attn2, training=training)
         out2 = self.layernorm2(attn2 + out1)  # (batch_size, target_seq_len, d_model)
 
@@ -202,37 +225,32 @@ class Encoder(tf.keras.layers.Layer):
         self.d_model = d_model
         self.num_layers = num_layers
         self.dropout = tf.keras.layers.Dropout(dropout)
-        self.embedding = None
-        
         self.pos_encoding = positional_encoding(maximum_position_encoding, self.d_model)
         self.enc_layers = [EncoderLayer(d_model, num_heads, dff, dropout) for _ in range(num_layers)]
 
 
-    def __call__(self, x, training, mask):
+    def __call__(self, x, training, mask=None):
         """
-        x:
+        x: mini batch
         training:
-        mask:
         """
-        seq_len = tf.shape(x)[1]
-        print(x, x.shape, 'x')
+        seq_len = x.shape[1]
+        
         # adding embedding and position encoding.
-        x = self.embedding(x)  # (batch_size, input_seq_len, d_model)
+        x = word_embedding(x)  # (batch_size, input_seq_len, 768)
         x *= tf.math.sqrt(tf.cast(self.d_model, tf.float32))
         x += self.pos_encoding[:, :seq_len, :]
-
         x = self.dropout(x, training=training)
 
         for i in range(self.num_layers):
-          x = self.enc_layers[i](x, training, mask)
-
+            x = self.enc_layers[i](x, training, mask)
         return x  # (batch_size, input_seq_len, d_model)
 
 
 
 class Decoder(tf.keras.layers.Layer):
     def __init__(self, d_model, num_heads, num_layers, dff,
-                 target_vocab_size, maximum_positional_encoding, dropout=0.1):
+                 maximum_positional_encoding, dropout=0.1):
         """
         d_model: number of expected features/ length in the encoder/decoder inputs
         num_heads: # of multi-headed attentions in each block
@@ -246,35 +264,30 @@ class Decoder(tf.keras.layers.Layer):
         pe_target: maximum positional encoding of decoder block -> how many p we would have
         """
         super(Decoder, self).__init__()
-
         self.d_model = d_model
         self.num_layers = num_layers
         self.dropout = tf.keras.layers.Dropout(dropout)
-        self.embedding = tf.keras.layers.Embedding(target_vocab_size, d_model) # ???
-
         self.pos_encoding = positional_encoding(maximum_positional_encoding, d_model)
         self.dec_layers = [DecoderLayer(d_model, num_heads, dff, dropout) for _ in range(num_layers)]
 
 
-    def __call__(self, x, enc_output, training, look_ahead_mask, padding_mask):
+    def __call__(self, x, enc_output, training):
         """
-        x:
-        enc_output:
-        training:
-        look_ahead_mask:
-        padding_mask:
+        x: inp
+        enc_output
+        training
         """
         seq_len = tf.shape(x)[1]
         attention_weights = {}
 
-        x = self.embedding(x)  # (batch_size, target_seq_len, d_model)
+        x = word_embedding(x)  # (batch_size, target_seq_len, d_model)
         x *= tf.math.sqrt(tf.cast(self.d_model, tf.float32))
         x += self.pos_encoding[:, :seq_len, :]
 
         x = self.dropout(x, training=training)
 
         for i in range(self.num_layers):
-            x, block1, block2 = self.dec_layers[i](x, enc_output, training, look_ahead_mask, padding_mask)
+            x, block1, block2 = self.dec_layers[i](x, enc_output, training)
 
             attention_weights['decoder_layer{}_block1'.format(i+1)] = block1
             attention_weights['decoder_layer{}_block2'.format(i+1)] = block2
@@ -300,7 +313,7 @@ class Transformer(tf.keras.Model):
         """
         super(Transformer, self).__init__()
         self.encoder = Encoder(d_model, num_heads, num_layers, dff, pe_input, dropout)
-        self.decoder = Decoder(d_model, num_heads, num_layers, dff, target_vocab_size, pe_target, dropout)
+        self.decoder = Decoder(d_model, num_heads, num_layers, dff, pe_target, dropout)
         self.final_layer = tf.keras.layers.Dense(target_vocab_size)
 
 
@@ -308,11 +321,11 @@ class Transformer(tf.keras.Model):
         # inp : (batch_size, inp_seq_len)
         # target_inp: (batch_size, target_inp_seq_len)
         enc_output = self.encoder(inp, training)
-        print("Enc_output", enc_output.shape)
+        # print("Enc_output", enc_output.shape)
 
         # dec_output.shape == (batch_size, tar_seq_len, d_model)
-        dec_output, attention_weights = self.decoder(out, enc_output, training, look_ahead_mask, dec_padding_mask)
-        print("Dec_out", dec_output.shape)
+        dec_output, attention_weights = self.decoder(target_inp, enc_output, training)
+        # print("Dec_out", dec_output.shape)
 
         final_output = self.final_layer(dec_output)  # (batch_size, tar_seq_len, target_vocab_size)
         return final_output, attention_weights
