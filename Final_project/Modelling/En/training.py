@@ -9,17 +9,16 @@ import tensorflow as tf
 
 from tqdm import tqdm
 from transformers import AutoTokenizer
-from wrong_word_generator import add_noise
+from wrong_word_generator import add_noise, make_misspellings
 from sklearn.model_selection import train_test_split
 from tensorflow.python.ops.numpy_ops import np_config
-
-from Pretrained_models.utils.character_cnn import CharacterIndexer
-# from Pretrained_models.character_bert import CharacterBertModel
-
 from transformer import Transformer, CustomSchedule, loss_function
 
 np_config.enable_numpy_behavior()
-output_tokenizer = AutoTokenizer.from_pretrained("bert-base-cased")
+tokenizer = AutoTokenizer.from_pretrained("bert-base-cased")
+CLS = tokenizer("[CLS]", add_special_tokens=False)["input_ids"]  # [101]
+SEP = tokenizer("[SEP]", add_special_tokens=False)["input_ids"]  # [102]
+
 # BertTokenizer.from_pretrained('../Pretrained_models/bert-base-uncased/')
 # character_embedding_model = CharacterBertModel.from_pretrained('../Pretrained_models/general_character_bert/')
 
@@ -43,62 +42,42 @@ def randomize_mini_batches(dataset: list, batch_size: int, seed=12345):
     # Handling the end case (last mini-batch < batch_size)
     if num_of_examples % batch_size != 0:
         mini_batches.append(shuffled_dataset[num_complete_minibatches * batch_size : num_of_examples])
+
+    for i in range(len(mini_batches)):
+        mini_batches[i] = [str(seq) for seq in mini_batches[i]]
     return mini_batches
 
 
 ##############################################################################################
-def padding(batch):
-    # Add [CLS], [PAD] and [SEP]
-    batch = [[*sequence] + (MAX_LENGTH - len(sequence)) * ["[PAD]"] for sequence in batch]
-    return batch
-
-
 def truncating(batch):
     # Tokenize
-    batch = [seq.split(' ') for seq in batch]    
+    batch = [seq.split(' ') for seq in batch]
     # truncating
-    batch = [seq[:MAX_LENGTH] for seq in batch]
+    batch = [seq[:MAX_LENGTH-1] for seq in batch]
     # rejoining
     batch = [(" ".join(seq)).strip() for seq in batch]
     return batch
 
 
 def train_step(inp: list):
-    # Padding
-    inp = truncating(inp)
-    out = [add_noise(seq, language="en") for seq in inp]
+    # Add noise to create output
+    out = [make_misspellings(seq) for seq in inp]
+    out = truncating(out)
 
-    # create target_inp, target_out
-    # decoder_inp = ["[CLS] " + seq for seq in out]  # [CLS] <==> [BOS]
-    # out = [seq + " [SEP]" for seq in out]  # [SEP] <==> [EOS]
+    # Tokenize
+    inp = tokenizer(inp, padding="max_length", max_length=MAX_LENGTH, truncation=True, return_tensors="tf")["input_ids"]  # (batch_size, MAX_LENGTH)    
+    out = tokenizer(out, padding="max_length", max_length=MAX_LENGTH-1, truncation=True, add_special_tokens=False, return_tensors="tf")["input_ids"]  # (batch_size, MAX_LENGTH)
     
-    # print(np.array(decoder_inp).shape, np.array(out).shape)
-    # print(target_inp, target_out)
-    # print(np.array(target_inp).shape, np.array(target_out).shape)
 
-    # # indexing out
-    # indexed_target_inp = [output_tokenizer(seq)["input_ids"] for seq in target_inp]
-    # print(np.array(indexed_target_inp))
+    # Create target_inp, target_out
+    target_inp = [tf.concat([CLS, indexed_seq], axis=0) for indexed_seq in out]
+    target_out = [tf.concat([indexed_seq, SEP], axis=0) for indexed_seq in out]
 
-
-
-    # shift out
-
-    # inp will be embedded at encoder
-    # out = [output_tokenizer(sentence)["input_ids"] for sentence in out]
-    # print(out)
-    # target_inp = index_char(batch=out, shift=True)
-    # target_out = index_char(batch=out, shift=False)
-    # del out
-
-    # enc_padding_mask, combined_mask, dec_padding_mask = create_masks(inp, target_inp)
-    # print(enc_padding_mask.shape, combined_mask.shape, dec_padding_mask.shape)
+    print(target_inp.shape, target_out.shape)
+    print(target_inp, target_out, 'asdas')
 
     # with tf.GradientTape() as tape:
-    #     predictions, _ = model(inp=inp, out=out, training=True,
-    #                            enc_padding_mask=enc_padding_mask,
-    #                            look_ahead_mask=combined_mask,
-    #                            dec_padding_mask=dec_padding_mask)
+    #     predictions, _ = model(inp=inp, target_out=out, training=True)
     #     loss = loss_function(shifted_right_out, predictions)
 
     # gradients = tape.gradient(loss, model.trainable_variables)
@@ -109,7 +88,7 @@ def train_step(inp: list):
 
 
 model = Transformer(d_model=768, num_heads=8, num_layers=4, dff=1024,
-                    target_vocab_size=1000, pe_input=1000, pe_target=1000, dropout=0.1)
+                    target_vocab_size=30522, pe_input=1000, pe_target=1000, dropout=0.1)
 
 BATCH_SIZE = 2
 MAX_LENGTH = 40
@@ -128,7 +107,7 @@ def main() -> None:
     mini_batches = randomize_mini_batches(dataset=dataset, batch_size=BATCH_SIZE)
     num_mini_batches = len(mini_batches)
     print("Num of mini_batches:", num_mini_batches)
-
+    
     # Training
     for epoch in range(1):
         train_loss.reset_states()
@@ -136,8 +115,7 @@ def main() -> None:
 
         for index, mini_batch in tqdm(enumerate(mini_batches), total=num_mini_batches, dynamic_ncols=True):
             train_step(mini_batch)
-            print(index)
-            # print(f"""Epoch: {epoch}, Loss: {train_loss.result():.4f}, Accuracy: {train_accuracy.result():.4f}\n""")
+            print(f"""Epoch: {epoch}, Loss: {train_loss.result():.4f}, Accuracy: {train_accuracy.result():.4f}\n""")
 
         # if (epoch + 1) % 5 == 0:
         # ckpt_save_path = ckpt_manager.save()

@@ -1,9 +1,11 @@
 import os
 
-from torch import dropout
 os.environ["TF_CPP_MIN_LOG_LEVEL"] = "2"
 import numpy as np
 import tensorflow as tf
+
+from Pretrained_models.utils.character_cnn import CharacterIndexer
+from Pretrained_models.character_bert import CharacterBertModel
 
 
 # Supplementary functions for encoder/ decoder layers
@@ -184,7 +186,7 @@ class DecoderLayer(tf.keras.layers.Layer):
 
 class Encoder(tf.keras.layers.Layer):
     def __init__(self, d_model, num_heads, num_layers, dff,
-                 input_vocab_size, maximum_position_encoding, dropout=0.1):
+                 maximum_position_encoding, dropout=0.1):
         """
         d_model: number of expected features/ length in the encoder/decoder inputs
         num_heads: # of multi-headed attentions in each block
@@ -192,7 +194,6 @@ class Encoder(tf.keras.layers.Layer):
         dff: dimension of the feedforward network model
         dropout: dropout
 
-        input_vocab_size: # of output words
         target_vocab_size: # of input words
         pe_input: maximum positional encoding  of encoder block -> how many p we would have
         pe_target: maximum positional encoding of decoder block -> how many p we would have
@@ -201,7 +202,7 @@ class Encoder(tf.keras.layers.Layer):
         self.d_model = d_model
         self.num_layers = num_layers
         self.dropout = tf.keras.layers.Dropout(dropout)
-        self.embedding = tf.keras.layers.Embedding(input_vocab_size, d_model) # ???
+        self.embedding = None
         
         self.pos_encoding = positional_encoding(maximum_position_encoding, self.d_model)
         self.enc_layers = [EncoderLayer(d_model, num_heads, dff, dropout) for _ in range(num_layers)]
@@ -214,7 +215,7 @@ class Encoder(tf.keras.layers.Layer):
         mask:
         """
         seq_len = tf.shape(x)[1]
-
+        print(x, x.shape, 'x')
         # adding embedding and position encoding.
         x = self.embedding(x)  # (batch_size, input_seq_len, d_model)
         x *= tf.math.sqrt(tf.cast(self.d_model, tf.float32))
@@ -303,10 +304,10 @@ class Transformer(tf.keras.Model):
         self.final_layer = tf.keras.layers.Dense(target_vocab_size)
 
 
-    def __call__(self, inp, out, training, enc_padding_mask,
-                 look_ahead_mask, dec_padding_mask):
-        # print('enc_padding_mask: ', enc_padding_mask)
-        enc_output = self.encoder(inp, training, enc_padding_mask)  # inp shape: # (batch_size, inp_seq_len, d_model)
+    def __call__(self, inp: list, target_inp: list, training: bool):
+        # inp : (batch_size, inp_seq_len)
+        # target_inp: (batch_size, target_inp_seq_len)
+        enc_output = self.encoder(inp, training)
         print("Enc_output", enc_output.shape)
 
         # dec_output.shape == (batch_size, tar_seq_len, d_model)
