@@ -284,8 +284,7 @@ class Decoder(tf.keras.layers.Layer):
 
 class Transformer(tf.keras.Model):
     def __init__(self, d_model, num_heads, num_layers, dff,
-                 input_vocab_size, target_vocab_size,
-                 pe_input, pe_target, dropout=0.1):
+                 target_vocab_size, pe_input, pe_target, dropout=0.1):
         """
         d_model: number of expected features/ length in the encoder/decoder inputs
         num_heads: # of multi-headed attentions in each block
@@ -299,7 +298,7 @@ class Transformer(tf.keras.Model):
         pe_target: maximum positional encoding of decoder block -> how many p we would have
         """
         super(Transformer, self).__init__()
-        self.encoder = Encoder(d_model, num_heads, num_layers, dff, input_vocab_size, pe_input, dropout)
+        self.encoder = Encoder(d_model, num_heads, num_layers, dff, pe_input, dropout)
         self.decoder = Decoder(d_model, num_heads, num_layers, dff, target_vocab_size, pe_target, dropout)
         self.final_layer = tf.keras.layers.Dense(target_vocab_size)
 
@@ -313,7 +312,7 @@ class Transformer(tf.keras.Model):
         # dec_output.shape == (batch_size, tar_seq_len, d_model)
         dec_output, attention_weights = self.decoder(out, enc_output, training, look_ahead_mask, dec_padding_mask)
         print("Dec_out", dec_output.shape)
-        
+
         final_output = self.final_layer(dec_output)  # (batch_size, tar_seq_len, target_vocab_size)
         return final_output, attention_weights
 

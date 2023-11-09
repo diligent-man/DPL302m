@@ -9,7 +9,7 @@ import tensorflow as tf
 
 from tqdm import tqdm
 from transformers import AutoTokenizer
-from wrong_word_generator import add_noise
+from en_wrong_word_generator import add_noise
 from sklearn.model_selection import train_test_split
 from tensorflow.python.ops.numpy_ops import np_config
 
@@ -69,11 +69,10 @@ def train_step(inp: list):
     out = [add_noise(seq, language="en") for seq in inp]
 
     # create target_inp, target_out
-    target_inp = ["[CLS] " + seq for seq in out]
-    target_out = [seq + " [SEP]" for seq in out]
-    del out
-
-    # print(np.array(target_inp).shape, np.array(target_out).shape)
+    # decoder_inp = ["[CLS] " + seq for seq in out]  # [CLS] <==> [BOS]
+    # out = [seq + " [SEP]" for seq in out]  # [SEP] <==> [EOS]
+    
+    # print(np.array(decoder_inp).shape, np.array(out).shape)
     # print(target_inp, target_out)
     # print(np.array(target_inp).shape, np.array(target_out).shape)
 
@@ -110,9 +109,7 @@ def train_step(inp: list):
 
 
 model = Transformer(d_model=768, num_heads=8, num_layers=4, dff=1024,
-                    input_vocab_size=1000, target_vocab_size=1000,
-                    pe_input=1000, pe_target=1000,
-                    dropout=0.1)
+                    target_vocab_size=1000, pe_input=1000, pe_target=1000, dropout=0.1)
 
 BATCH_SIZE = 2
 MAX_LENGTH = 40
@@ -139,7 +136,7 @@ def main() -> None:
 
         for index, mini_batch in tqdm(enumerate(mini_batches), total=num_mini_batches, dynamic_ncols=True):
             train_step(mini_batch)
-            print(f"""Epoch: {epoch}, Loss: {train_loss.result():.4f}, Accuracy: {train_accuracy.result():.4f}\n""")
+            # print(f"""Epoch: {epoch}, Loss: {train_loss.result():.4f}, Accuracy: {train_accuracy.result():.4f}\n""")
 
         # if (epoch + 1) % 5 == 0:
         # ckpt_save_path = ckpt_manager.save()
