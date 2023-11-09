@@ -20,7 +20,7 @@ class WrongWordGenerator:
     def remove_char(self) -> str:
         word = self.__word
         if len(word) == 1:
-            return ""
+            return word
         elif len(word) > 1:
             pos = random.randrange(0, len(word))
             # remove char
@@ -30,29 +30,33 @@ class WrongWordGenerator:
 
     def insert_char(self, alphabet=string.ascii_lowercase) -> str:
         word = self.__word
-
-        pos_1 = random.randrange(0, len(word))
-        pos_2 = random.randrange(0, len(alphabet))  # select random char
-
-        # insert random char into word
-        word = word[:pos_1] + alphabet[pos_2] + word[pos_1:]
-        return word
-
-
-    def swap_char(self) -> str:
-        word = self.__word
-
-        pos_1 = random.randrange(0, len(word))
-        pos_2 = random.randrange(0, len(word))
-
-        if pos_1 == pos_2:
+        if len(word) == 0:
             return word
         else:
-            # swap char
-            tmp = word[pos_1]
-            word = word.replace(word[pos_1], word[pos_2], 1)
-            word = word.replace(word[pos_2], tmp, 1)
-        return word
+            pos_1 = random.randrange(0, len(word))
+            pos_2 = random.randrange(0, len(alphabet))  # select random char
+
+            # insert random char into word
+            word = word[:pos_1] + alphabet[pos_2] + word[pos_1:]
+            return word
+
+
+    def swap_charr(self) -> str:
+        word = self.__word
+        if len(word) == 0 or len(word) == 1:
+            return word
+        else:
+            pos_1 = random.randrange(0, len(word))
+            pos_2 = random.randrange(0, len(word))
+
+            if pos_1 == pos_2:
+                return word
+            else:
+                # swap char
+                tmp = word[pos_1]
+                word = word.replace(word[pos_1], word[pos_2], 1)
+                word = word.replace(word[pos_2], tmp, 1)
+                return word
 
 
 ###############################################################################
@@ -73,14 +77,18 @@ def add_noise(sequence: str, language: str, noise_rate=0.2, num_of_methods=3) ->
         if method_prob < 1/num_of_methods:
             # no noise
             generated_result = randomized_word
+            print(generated_result, method_prob)
         elif 1/num_of_methods <= method_prob < 2/num_of_methods:
             # remove
             generated_result = wrong_word_generator.remove_char()
+            print(generated_result, method_prob)
         elif 2/num_of_methods <= method_prob < 3/num_of_methods:
             # insert
             generated_result = wrong_word_generator.insert_char()
+            print(generated_result, method_prob)
         elif 3/num_of_methods <= method_prob <= 1:
             # swap
             generated_result = wrong_word_generator.swap_char()
+            print(generated_result, method_prob)
         sequence[i] = generated_result
     return " ".join(sequence)

@@ -9,7 +9,7 @@ import tensorflow as tf
 
 from tqdm import tqdm
 from transformers import AutoTokenizer
-from en_wrong_word_generator import add_noise
+from wrong_word_generator import add_noise
 from sklearn.model_selection import train_test_split
 from tensorflow.python.ops.numpy_ops import np_config
 
@@ -128,7 +128,7 @@ def main() -> None:
     mini_batches = randomize_mini_batches(dataset=dataset, batch_size=BATCH_SIZE)
     num_mini_batches = len(mini_batches)
     print("Num of mini_batches:", num_mini_batches)
-    
+
     # Training
     for epoch in range(1):
         train_loss.reset_states()
@@ -136,6 +136,7 @@ def main() -> None:
 
         for index, mini_batch in tqdm(enumerate(mini_batches), total=num_mini_batches, dynamic_ncols=True):
             train_step(mini_batch)
+            print(index)
             # print(f"""Epoch: {epoch}, Loss: {train_loss.result():.4f}, Accuracy: {train_accuracy.result():.4f}\n""")
 
         # if (epoch + 1) % 5 == 0:
