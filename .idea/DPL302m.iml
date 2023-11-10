@@ -1,27 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module type="PYTHON_MODULE" version="4">
-  <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$" />
-<<<<<<< HEAD
-<<<<<<< HEAD
-    <orderEntry type="jdk" jdkName="Python 3.8" jdkType="Python SDK" />
-    <orderEntry type="sourceFolder" forTests="false" />
-  </component>
-=======
-=======
->>>>>>> 60a822dcf2a9fc56b4ec2ac765175920c52d4181
-    <orderEntry type="jdk" jdkName="Python 3.8 (DPL302m)" jdkType="Python SDK" />
-    <orderEntry type="sourceFolder" forTests="false" />
-  </component>
+<module version="4">
   <component name="PyDocumentationSettings">
-    <option name="format" value="PLAIN" />
-    <option name="myDocStringFormat" value="Plain" />
+    <option name="format" value="NUMPY" />
+    <option name="myDocStringFormat" value="NumPy" />
   </component>
-  <component name="TestRunnerService">
-    <option name="PROJECT_TEST_RUNNER" value="py.test" />
-  </component>
-<<<<<<< HEAD
->>>>>>> afb2bae7e3ec53d34a7e9fda4d3390229db0c350
-=======
->>>>>>> 60a822dcf2a9fc56b4ec2ac765175920c52d4181
 </module>

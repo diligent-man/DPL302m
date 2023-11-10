@@ -27,7 +27,7 @@ def preprocess(sentence):
 
 def create_files(option):
     # tokenize and create target & source
-    source = CustomTokenizer(option.source_language)
+    source = CustomTokenizer(option.source_lang)
     target = CustomTokenizer(option.target_lang)
 
     TARGET = data.Field(lower=True, tokenize=target.tokenize, init_token='<sos>', eos_token='<eos>')
@@ -60,7 +60,7 @@ def create_data(option, SOURCE, TARGET, repeat=0):
             print("Error: '" + option.data_file + "' file not found.")
             quit()
 
-    tmp_source = CustomTokenizer(option.source_language)
+    tmp_source = CustomTokenizer(option.source_lang)
     tmp_target = CustomTokenizer(option.target_lang)
 
     raw_data = {'src' : [line for line in option.source_data], 'trg': [line for line in option.target_data]}
