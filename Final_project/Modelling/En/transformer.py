@@ -404,6 +404,7 @@ class CustomSchedule(tf.keras.optimizers.schedules.LearningRateSchedule):
 
 
 def loss_function(y, y_hat):
+    print(y.shape, y_hat.shape)
     loss = tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True, reduction='none')
 
     mask = tf.math.logical_not(tf.math.equal(y, 0))

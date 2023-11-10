@@ -60,22 +60,22 @@ def truncating(batch):
 
 
 def train_step(inp: list):
-    # Add noise to create output
     out = [make_misspellings(seq) for seq in inp]
     out = truncating(out)
 
-    # Tokenize
-    inp = tokenizer(inp, padding="max_length", max_length=MAX_LENGTH, truncation=True, return_tensors="np")["input_ids"]  # (batch_size, MAX_LENGTH)
-    out = tokenizer(out, padding="max_length", max_length=MAX_LENGTH-1, truncation=True, add_special_tokens=False, return_tensors="np")["input_ids"]  # (batch_size, MAX_LENGTH)
+    target_inp = ["[CLS] " + seq for seq in out]
+    target_out = [seq + " [SEP]"for seq in out]
 
-    # Create target_inp, target_out
-    target_inp = tf.Variable([tf.concat([CLS, indexed_seq], axis=0) for indexed_seq in out])
-    target_out = tf.Variable([tf.concat([indexed_seq, SEP], axis=0) for indexed_seq in out])
+    inp = tokenizer(inp, padding="max_length", max_length=MAX_LENGTH, truncation=True, return_tensors="np")["input_ids"]  # (batch_size, MAX_LENGTH)
+    target_inp = tokenizer(target_inp, padding="max_length", max_length=MAX_LENGTH, truncation=True, add_special_tokens=False, return_tensors="np")["input_ids"]  # (batch_size, MAX_LENGTH)
+    target_out = tokenizer(target_out, padding="max_length", max_length=MAX_LENGTH, truncation=True, add_special_tokens=False, return_tensors="np")["input_ids"]  # (batch_size, MAX_LENGTH)
 
     with tf.GradientTape() as tape:
         predictions, _ = model(inp=inp, target_inp=target_inp, training=True)
         # print(predictions)
+        
         loss = loss_function(target_out, predictions)
+
 
     gradients = tape.gradient(loss, model.trainable_variables)
     optimizer.apply_gradients(zip(gradients, model.trainable_variables))
@@ -84,9 +84,9 @@ def train_step(inp: list):
     train_accuracy(target_out, predictions)
 
 
+
 model = Transformer(d_model=768, num_heads=8, num_layers=4, dff=1024,
                     target_vocab_size=30522, pe_input=1000, pe_target=1000, dropout=0.1)
-
 BATCH_SIZE = 2
 MAX_LENGTH = 40
 learning_rate = CustomSchedule(768)
@@ -96,7 +96,7 @@ train_accuracy = tf.keras.metrics.SparseCategoricalAccuracy(name='train_accuracy
 
 checkpoint_path = "checkpoints/"
 ckpt = tf.train.Checkpoint(transformer=model)
-ckpt_manager = tf.train.CheckpointManager(ckpt, checkpoint_path, max_to_keep=10)
+ckpt_manager = tf.train.CheckpointManager(ckpt, checkpoint_path, max_to_keep=5)
 if ckpt_manager.latest_checkpoint:
     ckpt.restore(ckpt_manager.latest_checkpoint)
 
@@ -111,22 +111,22 @@ def main() -> None:
     mini_batches = randomize_mini_batches(dataset=dataset, batch_size=BATCH_SIZE)
     num_mini_batches = len(mini_batches)
     print("Num of mini_batches:", num_mini_batches)
-    
+
     # Training
-    for epoch in range(1):
+    for epoch in range(2):
+        start = time.time()
         train_loss.reset_states()
         train_accuracy.reset_states()
 
         for index, mini_batch in tqdm(enumerate(mini_batches), total=num_mini_batches, dynamic_ncols=True):
-            start = time.time()
             train_step(mini_batch)
             print(f"""Epoch: {epoch}, Loss: {train_loss.result():.4f}, Accuracy: {train_accuracy.result():.4f}\n""")
 
-            if (index + 1) % 5 == 0:
+            if (index + 1) % 50 == 0:
                 ckpt_save_path = ckpt_manager.save()
                 print('Saving checkpoint for iteration {} at {}'.format(index, ckpt_save_path))
 
-            print('Time taken for 1 iteration: {} secs\n'.format(time.time() - start))
+        print('Time taken for 1 epoch: {} secs\n'.format(time.time() - start))
     return None
 
 
