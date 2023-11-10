@@ -1,7 +1,0 @@
-đào tạo lập trình viên trên thiết bị di động jme
-học viên sẽ được hướng dẫn kỹ thuật phát triển ứng dụng trên thiết bị di động thiết bị hỗ trợ java có thể thi lấy chứng chỉ quốc tế scmad của hãng sun microsystems
-đây là chương trình đào tạo lần đầu triển khai ở việt nam
-học viên được học trực tiếp trên máy vi tính kỹ năng sử dụng công cụ sun cách khai thác những bộ thư viện của java với nhiều thiết bị di động phổ biến
-chương trình cũng giới thiệu hình thức phát triển ứng dụng mạng thông qua các thiết bị di động như điều khiển server từ xa chat duyệt web
-học viên đăng ký theo học phải biết ngôn ngữ lập trình java hoặc c căn bản đọc và hiểu tiếng anh chuyên ngành
-chương trình do trung tâm tin học đại học khoa học tự nhiên tp hcm tổ chứ

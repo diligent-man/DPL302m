@@ -1,6 +1,0 @@
-chương trình do trung tâm tin học đh khoa học tự nhiên tp hcm tổ chức
-khóa học kéo dài tháng với tiết dành cho sinh viên đã có kiến thức cơ bản về lập trình đọc và hiểu tiếng anh
-học viên sẽ được hướng dẫn phân tích thiết kế hệ thống thông tin từ kỹ năng khảo sát hiện trạng phân tích thiết kế lập trình
-cuối khoá học viên có điều kiện bổ sung và thực nghiệm lại kiến thức đã học thông qua việc tiến hành một đề án cụ thể
-trung tâm sẽ phát tài liệu miễn phí và hỗ trợ học viên học tiếng anh với giáo viên bản xứ
-sau khi hoàn tất chương trình trên học viên có thể dự các kỳ thi lấy chứng chỉ microsoft certified applications developer mcad hoặc học cao hơn để lấy chứng chỉ chuyên viên phát triển ứng dụng microsoft và mcsd

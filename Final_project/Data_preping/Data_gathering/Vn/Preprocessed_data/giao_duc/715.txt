@@ -1,6 +1,0 @@
-bảo mật thông tin máy tính bằng giải pháp mã nguồn mở nlđ hơn nhân viên chuyên gia công nghệ thông tin thuộc các đơn vị nhà nước doanh nghiệp tư nhân tại tphcm đã tham gia hội thảo kinh
-nội dung hội thảo tập trung vào khả năng chuyển đổi các phần mềm cơ bản sang phần mềm mã nguồn mở trên hệ thống máy chủ và máy trạm
-đồng thời tăng khả năng an ninh và bảo mật các thông tin dữ liệu trong các đơn vị nhà nước bằng giải pháp phần mềm mã nguồn mở
-ông hoàng lê minh phó giám đốc sở bưu chính viễn thông tphcm cảnh báo tình trạng vi phạm bản quyền các phần mềm hiện nay khá phổ biến kể cả trong các đơn vị nhà nước
-người sử dụng khi mua máy vi tính thương hiệu vn thường gỡ bỏ phần mềm mã nguồn mở linux được cài sẵn để cài lại phần mềm không có bản quyền
-trong năm tphcm đã tiến hành kiểm tra và xử phạt các trường hợp vi phạm bản quyền phần mềm có vụ phạt từ triệu đồn
