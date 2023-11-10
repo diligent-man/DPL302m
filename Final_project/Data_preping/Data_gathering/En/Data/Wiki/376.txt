@@ -1,0 +1,9 @@
+The Security of Information Act (R.S.C. 1985, c. O-5), formerly known as the Official Secrets Act, is an Act of the Parliament of Canada that addresses national security concerns, including threats of espionage by foreign powers and terrorist groups, and the intimidation or coercion of ethnocultural communities in and against Canada.
+Certain departments ('Scheduled department') and classes of people (past and current employees) are 'permanently bound to secrecy' under the Act. These are individuals who should be held to a higher level of accountability for unauthorized disclosures of information obtained in relation to their work. For example, Military Intelligence, employees of Canadian Security Intelligence Service (CSIS), Communications Security Establishment and certain members of the Royal Canadian Mounted Police (RCMP).
+This act applies to anyone who has been granted security clearance by the Federal Government, including those who have been granted Reliability Status for accessing designated information. Previously, only 'classified' information was protected under the Official Secrets Act 1981.
+The first conviction and sentencing under the Security of Information Act was handed down in February, 2013. Sub-Lieutenant Jeffrey Delisle was convicted for selling top secret Canadian military intelligence to the Embassy of Russia in Ottawa.
+Security clearances in Canada
+Information classification in Canada
+Information security
+"Backgrounder No. 12 - Security of Information Act". Canadian Security Intelligence Service.
+"Operational Standard for the Security of Information Act". Treasury Board of Canada.

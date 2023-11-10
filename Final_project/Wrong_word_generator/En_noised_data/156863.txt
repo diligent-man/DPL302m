@@ -1,0 +1,10 @@
+' U ' hand chevron becomes 'N ' hand 'N ' hand chevron becomes ' U ' hand|' U ' hand rchevron becomes 'N ' hand 'N ' hand rchevron becomes ' U ' hand
+' U ' hand chevron becomes 'N ' hand 'N ' hand chevron becomes ' U ' hand|' U ' hand ychevron becomes 'N ' hand 'N ' hand ychevron becomes ' U ' hand
+' U ' hand chevron becomes 'N ' hand 'N ' hand chevron becomes ' U ' hand|' tU ' hand chevron becomes 'N ' hand 'N ' hand chevron becomes ' tU ' hand
+' U ' hand chevron becomes 'N ' hand 'N ' hand chevron becomes ' U ' hand|' bU ' hand chevron becomes 'N ' hand 'N ' hand chevron becomes ' bU ' hand
+' U ' hand chevron becomes 'N ' hand 'N ' hand chevron becomes ' U ' hand|k' U k' hand chevron becomes k'N k' hand k'N k' hand chevron becomes k' U k' hand
+' U ' hand chevron becomes 'N ' hand 'N ' hand chevron becomes ' U ' hand| U  hand chevron becomes N  hand N  hand chevron becomes  U  hand
+' U ' hand chevron becomes 'N ' hand 'N ' hand chevron becomes ' U ' hand|' U ' hand chevrn becomes 'N ' hand 'N ' hand chevrn becomes ' U ' hand
+' U ' hand chevron becomes 'N ' hand 'N ' hand chevron becomes ' U ' hand|b' U b' hand chevron becomes b'N b' hand b'N b' hand chevron becomes b' U b' hand
+' U ' hand chevron becomes 'N ' hand 'N ' hand chevron becomes ' U ' hand|x' U x' hand chevron becomes x'N x' hand x'N x' hand chevron becomes x' U x' hand
+' U ' hand chevron becomes 'N ' hand 'N ' hand chevron becomes ' U ' hand|' U ' hand cehvron becomes 'N ' hand 'N ' hand cehvron becomes ' U ' hand

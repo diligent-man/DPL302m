@@ -1,0 +1,10 @@
+transpose T′ continuous βW′ W βV′ V σW′ W σV′ V|transpose T′ continuous pβW′ W βV′ V σW′ W σV′ V
+transpose T′ continuous βW′ W βV′ V σW′ W σV′ V|transpose T continuous βW′ W βV′ V σW′ W σV′ V
+transpose T′ continuous βW′ W βV′ V σW′ W σV′ V|transpose T′ continuous βW′ W βV V σW′ W σV′ V
+transpose T′ continuous βW′ W βV′ V σW′ W σV′ V|transpose T′ continuous βW′ W βV′ V σ′ W σV′ V
+transpose T′ continuous βW′ W βV′ V σW′ W σV′ V|tanspose T′ continuous βW′ W βV′ V σW′ W σV′ V
+transpose T′ continuous βW′ W βV′ V σW′ W σV′ V|transpose T′ continuous βW W βV′ V σW′ W σV′ V
+transpose T′ continuous βW′ W βV′ V σW′ W σV′ V|transpose T′ continuous β′  βV′ V σ′  σV′ V
+transpose T′ continuous βW′ W βV′ V σW′ W σV′ V|transose T′ continuous βW′ W βV′ V σW′ W σV′ V
+transpose T′ continuous βW′ W βV′ V σW′ W σV′ V|transpose T′ continuous βW′ W β′ V σW′ W σV′ V
+transpose T′ continuous βW′ W βV′ V σW′ W σV′ V|transpose T′ continuous βW′ W βV′ V σeW′ W σV′ V

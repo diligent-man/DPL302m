@@ -1,0 +1,10 @@
+fox-NOMPL have-PRSPL hole-ACCPL heaven-GENSG bird-NOMPL nest-ACCPL|fox-NOMPL have-PRSPL hole-ACCPL heaven-GENSG biMd-NOrPL nest-ACCPL
+fox-NOMPL have-PRSPL hole-ACCPL heaven-GENSG bird-NOMPL nest-ACCPL|fox-NOMPL have-PRSPL hole-ACCPL heaven-GENSG bird-jNOMPL nest-ACCPL
+fox-NOMPL have-PRSPL hole-ACCPL heaven-GENSG bird-NOMPL nest-ACCPL|fox-OMPL have-PRSPL hole-ACCPL heaven-GENSG bird-NOMPL nest-ACCPL
+fox-NOMPL have-PRSPL hole-ACCPL heaven-GENSG bird-NOMPL nest-ACCPL|fox-OMPL have-PRSPL hole-ACCPL heaven-GENSG bird-NOMPL nest-ACCPL
+fox-NOMPL have-PRSPL hole-ACCPL heaven-GENSG bird-NOMPL nest-ACCPL|fox-NOMPL have-PRSPL hole-ACCPL heaven-GENSG bird-NOMbPL nest-ACCPL
+fox-NOMPL have-PRSPL hole-ACCPL heaven-GENSG bird-NOMPL nest-ACCPL|fox-NOMPL have-PRSPL hole-ACCPL heaven-GENSG bird-NOMPL nestACCPL
+fox-NOMPL have-PRSPL hole-ACCPL heaven-GENSG bird-NOMPL nest-ACCPL|fox-NOMPL have-PRSPL hole-ACCPL heaven-GqENSG bird-NOMPL nest-ACCPL
+fox-NOMPL have-PRSPL hole-ACCPL heaven-GENSG bird-NOMPL nest-ACCPL|fox-NOMPL hav-PRSPL hole-ACCPL heaven-GENSG bird-NOMPL nest-ACCPL
+fox-NOMPL have-PRSPL hole-ACCPL heaven-GENSG bird-NOMPL nest-ACCPL|fox-NOMPL have-PRSPL hole-ACCPL heaven-GENSG bird-NOMPL nest-ACCPxL
+fox-NOMPL have-PRSPL hole-ACCPL heaven-GENSG bird-NOMPL nest-ACCPL|fox-NOMPL have-PRSPL hole-ACCPL heaven-GENSG bird-NOMPL nest-CCPL

@@ -1,0 +1,10 @@
+cat see cat|cat se cat
+cat see cat|tcat see tcat
+cat see cat|cat ee cat
+cat see cat|ct see ct
+cat see cat|cat ee cat
+cat see cat|calt see calt
+cat see cat|acat see acat
+cat see cat|cat ee cat
+cat see cat|chat see chat
+cat see cat|cta see cta

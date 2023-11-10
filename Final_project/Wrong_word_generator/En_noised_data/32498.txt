@@ -1,0 +1,10 @@
+employee needs laptop --|employee needs ljaptop --
+employee needs laptop --|employee needs laptop -
+employee needs laptop --|employee needs laptop -
+employee needs laptop --|employee needs lptop --
+employee needs laptop --|employee needs lapto --
+employee needs laptop --|employee needs lapto --
+employee needs laptop --|employee needs laptop -
+employee needs laptop --|employee needs alptop --
+employee needs laptop --|employee needs laptop o--
+employee needs laptop --|employee nees laptop --

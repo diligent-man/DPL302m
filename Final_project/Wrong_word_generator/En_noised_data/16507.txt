@@ -1,0 +1,10 @@
+scent|sent
+scent|scen
+scent|ecsnt
+scent|scnt
+scent|sucent
+scent|stcent
+scent|scyent
+scent|sfcent
+scent|sent
+scent|cent

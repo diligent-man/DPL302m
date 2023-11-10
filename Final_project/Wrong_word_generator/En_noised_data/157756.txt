@@ -1,0 +1,10 @@
+displaystyle Uvarphi =iint Dsqrt +nabla varphi cdot nabla varphi dxdy|displaystyle Uvarphi =iint Dsqrt +cnabla varphi cdot nabla varphi dxdy
+displaystyle Uvarphi =iint Dsqrt +nabla varphi cdot nabla varphi dxdy|displaystyle hUvarphi =iint Dsqrt +nabla varphi cdot nabla varphi dxdy
+displaystyle Uvarphi =iint Dsqrt +nabla varphi cdot nabla varphi dxdy|displaystyle Uvarphi =iint Dsqrt +naba varphi cdot naba varphi dxdy
+displaystyle Uvarphi =iint Dsqrt +nabla varphi cdot nabla varphi dxdy|displaystyle Uqvarphi =iint Dsqrt +nabla varphi cdot nabla varphi dxdy
+displaystyle Uvarphi =iint Dsqrt +nabla varphi cdot nabla varphi dxdy|displaystyle Uvrphi =iint Dsqrt +nabla varphi cdot nabla varphi dxdy
+displaystyle Uvarphi =iint Dsqrt +nabla varphi cdot nabla varphi dxdy|displaystyle Uvarphi =iint Dsqrt +nala varphi cdot nabla varphi dxdy
+displaystyle Uvarphi =iint Dsqrt +nabla varphi cdot nabla varphi dxdy|displaystyle Uvarph =iint Dsqrt +nabla varph cdot nabla varph dxdy
+displaystyle Uvarphi =iint Dsqrt +nabla varphi cdot nabla varphi dxdy|displaystyle Uvarphi =iint Dsqrt +abla varphi cdot abla varphi dxdy
+displaystyle Uvarphi =iint Dsqrt +nabla varphi cdot nabla varphi dxdy|displystyle Uvarphi =iint Dsqrt +nabla varphi cdot nabla varphi dxdy
+displaystyle Uvarphi =iint Dsqrt +nabla varphi cdot nabla varphi dxdy|displaystyle Uvarphi =iint tsqrD +nabla varphi cdot nabla varphi dxdy

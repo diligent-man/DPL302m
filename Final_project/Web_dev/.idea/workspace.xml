@@ -51,8 +51,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "Web__dev__ndt",
-    "last_opened_file_path": "E:/DPL302m",
+    "git-widget-placeholder": "Merging Web__dev__ndt",
+    "last_opened_file_path": "C:/DPL302m/Final_project",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -223,6 +223,9 @@
       <workItem from="1698452042903" duration="344000" />
       <workItem from="1698452491851" duration="877000" />
       <workItem from="1698805902760" duration="26000" />
+      <workItem from="1699107185527" duration="42000" />
+      <workItem from="1699107254896" duration="10000" />
+      <workItem from="1699107266554" duration="27000" />
     </task>
     <servers />
   </component>
@@ -235,7 +238,7 @@
     <SUITE FILE_PATH="coverage/app_py$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1698233343223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/Bert pretrained/character-bert" />
     <SUITE FILE_PATH="coverage/Final_Project_py$Final_Project.coverage" NAME="Final Project Coverage Results" MODIFIED="1697014763622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Final_Project_py$wrong_word_generator.coverage" NAME="wrong_word_generator Coverage Results" MODIFIED="1697034644828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Wrong_word_generator" />
-    <SUITE FILE_PATH="coverage/app_py$app.coverage" NAME="app Coverage Results" MODIFIED="1698452632076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/app_py$app.coverage" NAME="app Coverage Results" MODIFIED="1699107208693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Final_Project_py$my_tensorflow_py__1_.coverage" NAME="my_tensorflow.py (1) Coverage Results" MODIFIED="1696954430206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/app_py$app1.coverage" NAME="app1 Coverage Results" MODIFIED="1698203660615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Final_Project_py$my_tensorflow_py.coverage" NAME="my_tensorflow.py Coverage Results" MODIFIED="1696949869288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

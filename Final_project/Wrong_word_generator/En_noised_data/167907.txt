@@ -1,0 +1,10 @@
+displaystyle uvec x=vec pcdot vec x-vec x|displaystyle uvec =vec pcdot vec -vec 
+displaystyle uvec x=vec pcdot vec x-vec x|displaystyle uvec x=svec pcdot vec x-vec x
+displaystyle uvec x=vec pcdot vec x-vec x|displaystyle uvec =vec pcdot vec -vec 
+displaystyle uvec x=vec pcdot vec x-vec x|displaystyle uvec x=vec pcdot vec -vec x
+displaystyle uvec x=vec pcdot vec x-vec x|displaystyle uvec x=vec fpcdot vec x-vec x
+displaystyle uvec x=vec pcdot vec x-vec x|displaystyle uvec xvec pcdot vec x-vec x
+displaystyle uvec x=vec pcdot vec x-vec x|displaystyle uve x=vec pcdot vec x-vec x
+displaystyle uvec x=vec pcdot vec x-vec x|dsplaystyle uvec x=vec pcdot vec x-vec x
+displaystyle uvec x=vec pcdot vec x-vec x|displaystyle uvfec x=vec pcdot vec x-vec x
+displaystyle uvec x=vec pcdot vec x-vec x|displaystyle uvec x=evc pcdot vec x-vec x

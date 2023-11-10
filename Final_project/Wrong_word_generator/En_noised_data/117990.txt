@@ -1,0 +1,10 @@
+word 'more ' Akkadian mila Moran 'more ' 'overflowing '|wowrd 'more ' Akkadian mila Moran 'more ' 'overflowing '
+word 'more ' Akkadian mila Moran 'more ' 'overflowing '|word 'bmore ' Akkadian mila Moran 'bmore ' 'overflowing '
+word 'more ' Akkadian mila Moran 'more ' 'overflowing '|word more  Akkadian mila Moran more  overflowing 
+word 'more ' Akkadian mila Moran 'more ' 'overflowing '|word more  Akkadian mila Moran more  overflowing 
+word 'more ' Akkadian mila Moran 'more ' 'overflowing '|wrd 'more ' Akkadian mila Moran 'more ' 'overflowing '
+word 'more ' Akkadian mila Moran 'more ' 'overflowing '|word more  Akkadian mila Moran more  overflowing 
+word 'more ' Akkadian mila Moran 'more ' 'overflowing '|word rmo'e ' Akkadian mila Moran rmo'e ' 'overflowing '
+word 'more ' Akkadian mila Moran 'more ' 'overflowing '|word 'more ' Akkadian mila Moran 'more ' 'ovelfrowing '
+word 'more ' Akkadian mila Moran 'more ' 'overflowing '|word 'more ' Akkadian gmila Moran 'more ' 'overflowing '
+word 'more ' Akkadian mila Moran 'more ' 'overflowing '|word 'more ' Akkadian mila Moran 'more ' 'overfloing '

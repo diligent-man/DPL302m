@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<<<<<<< HEAD
 <html lang="en">
 <head>
     <meta charset="UTF-8" />
@@ -46,10 +47,89 @@
         <p id = "cached">{{lang}} </p>
         <form action="/" method="post" id="spellingForm">
             
+=======
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="vi" lang="vi">
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"/>
+    <title>Spelling Correction</title>
+</head>
+<body onload="changeToCurrentLanguage()">
+<style>
+    p {
+        font-size: 30px;
+        text-align: center;
+    }
+
+    body {
+        background-color: #A8E6ED;
+    }
+
+    h1 {
+        color: black;
+        text-align: center;
+        font-size: 60px;
+    }
+
+    textarea {
+        margin-right: 40px;
+        margin-left: 150px;
+    }
+
+    .button {
+        border: none;
+        color: pink;
+        padding: 0.5px 21.1px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 14px;
+        margin: 2px 2px;
+        transition-duration: 0.4s;
+        cursor: pointer;
+    }
+
+    .button1 {
+        background-color: #FF88AA;
+        margin-left: 100px;
+        color: black;
+        border: 2px solid none;
+    }
+
+    .button1:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #language {
+        margin-left: 100px;
+    }
+    #cached{
+        display: none;
+    }
+</style>
+
+<div class="header">
+    <h1>SPELLING CORRECTION</h1>
+</div>
+<p id = "cached">
+    {{lang}}
+</p>
+<form action="/" method="post" id="spellingForm">
+
+<table>
+    <tr>
+        <td>
+            <textarea id="freeform1" name="freeform1" value="freeform1" rows="30" cols="50" placeholder="Write something here...">{{ freeform1 }}</textarea>
+        </td>
+        <td>
+            <!-- Thêm một lớp CSS cho dropdown menu để dễ dàng xác định nó trong JavaScript -->
+>>>>>>> afb2bae7e3ec53d34a7e9fda4d3390229db0c350
             <select name="language" id="language" class="language-dropdown" style="background-color:#ff88aa" onchange="changeLanguage()">
                 <option value="English" style="background-color:#FF88AA;text-align: center;">English</option>
                 <option value="Vietnamese" style="background-color:#FF88AA;text-align: center;">Vietnamese</option>
             </select>
+<<<<<<< HEAD
         </div>
     <div class="container">
         <div class="card input_wrapper" >
@@ -85,3 +165,42 @@
     <script src="{{ url_for('static',filename='script/script.js') }}"></script>
 </body>
 </html>
+=======
+            <button class="button button1">Process</button>
+        </td>
+        <td>
+            <textarea id="freeform2" name="freeform2" rows="30" cols="50" placeholder="...">{{ freeform2 }}</textarea>
+        </td>
+    </tr>
+</table>
+</form>
+
+<script>
+    function changeLanguage() {
+        var selectedLanguage = document.getElementById("language").value;
+        var freeform1 = document.getElementById("freeform1");
+
+        if (selectedLanguage === "English") {
+            freeform1.setAttribute("placeholder", "Write something here...");
+        } else if (selectedLanguage === "Vietnamese") {
+            freeform1.setAttribute("placeholder", "Viết gì đó ở đây...");
+        }
+
+    }
+    function changeToCurrentLanguage(){
+        let cur_lang = document.getElementById("cached").textContent
+        cur_lang = cur_lang.trim()
+        let lang_selection = document.getElementById("language")
+        if (cur_lang === 'English'){
+            lang_selection.select = 'English'
+        }
+        else {
+            lang_selection.value = 'Vietnamese'
+        }
+        console.log(lang_selection.value)
+    }
+</script>
+
+</body>
+</html>
+>>>>>>> afb2bae7e3ec53d34a7e9fda4d3390229db0c350

@@ -1,45 +1,31 @@
-English    typo issues: Miss/ Extra/ Swap
-Vietnamese            : Miss/ Extra/ Swap/ Telex-related error (đd, ếs, ôs, ôo, ...)
+                                        Wrong word generator
+Typo issues: Remove/ Insert/ Swap
+    -> English, Vietnamese
 
-Dataset 1: right_word: [wrong_word_1, wrong_word_2, ...]
-    -> lang: En
-    -> Format: .txt
-    -> Content: English daily life context words
-    -> Craw source: 
+Telex-related error
+    -> Vietnamese
+#########################################################################################
 
-Dataset 2: right_word: [wrong_word_1, wrong_word_2, ...]
-    -> lang: vi
+Dataset 1: English Vocab 
+    Format: .txt
+    Source:https://github.com/dwyl/english-words/blob/master/words.txt
+
+
+Dataset 2: Vn Vocab
     -> Format: .txt
-    -> Content: Vietnamese daily life context words
-    -> Crawl source:
-trên: trênn, trê
+    -> Source: https://github.com/duyet/vietnamese-wordlist/blob/master/Viet74K.txt?fbclid=IwAR0FmqUzxbvh5gLseLwa6CO9qQSMqi4oqCxejsQVDz2-wktienUOqvtjwHw
+
+
 Dataset 3: English corpus
     -> Format: .txt
-    -> Content: Daily life context sentence
-    -> Crawl source: Reuters(Lifestyle)
+    -> Crawl source:
+           BBC - Entertainment, Health, Sport, Style, Tech, Travel, World
+
 
 Dataset 4: Vietnamese corpus
     -> Format: .txt
-    -> Content: Daily life context sentence
     -> Crawl source:
-####################################################################################
-
-Rule-based wrong English Vietnamese word generator:
-    + Missing
-    + Extra chars
-    + Swapping - Algorithm ?
-
-Rule-based wrong Vietnamese word generator:
-    + Swapping - Algorithm ?
-
-####################################################################################
-Solution: wrong word -> model -> correct/ incorrect
--> LSTM for text classification -> right/ wrong word
-
-If wrong:
-    choose word that has highest freq in corpus and then replace with the wrong word
-else: 
-    pass
-
+           VNExpress - đời sống, du lịch, giải trí, giáo dục, thế giới, thể thao, thời sự
+#############################################################################################
 
 

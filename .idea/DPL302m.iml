@@ -2,7 +2,20 @@
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$" />
+<<<<<<< HEAD
     <orderEntry type="jdk" jdkName="Python 3.8" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
+=======
+    <orderEntry type="jdk" jdkName="Python 3.8 (DPL302m)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="PyDocumentationSettings">
+    <option name="format" value="PLAIN" />
+    <option name="myDocStringFormat" value="Plain" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="py.test" />
+  </component>
+>>>>>>> afb2bae7e3ec53d34a7e9fda4d3390229db0c350
 </module>

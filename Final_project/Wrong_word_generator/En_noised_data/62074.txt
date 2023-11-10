@@ -1,0 +1,10 @@
+participant EIB one -byte read port one -byte write port|participant EIB one -qbyte read port one -qbyte write port
+participant EIB one -byte read port one -byte write port|participant EB one -byte read port one -byte write port
+participant EIB one -byte read port one -byte write port|participant BIE one -byte read port one -byte write port
+participant EIB one -byte read port one -byte write port|participant EIB onte -byte read port onte -byte write port
+participant EIB one -byte read port one -byte write port|participant EIB one -bygte read port one -bygte write port
+participant EIB one -byte read port one -byte write port|participant EIB one b-yte read port one b-yte write port
+participant EIB one -byte read port one -byte write port|participant EIB one -byte read port one -byte wrfite port
+participant EIB one -byte read port one -byte write port|participant EIB one -byte read pojrt one -byte write pojrt
+participant EIB one -byte read port one -byte write port|participjant EIB one -byte read port one -byte write port
+participant EIB one -byte read port one -byte write port|participant EIB on -byte read port on -byte write port

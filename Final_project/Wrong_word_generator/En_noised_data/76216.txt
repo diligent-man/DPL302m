@@ -1,0 +1,10 @@
+powered -hp -kW Franklin AC- -hp -kW AC -- B piston engine|powered -hp -kW Franklin CA- -hp -kW AC -- B piston engine
+powered -hp -kW Franklin AC- -hp -kW AC -- B piston engine|powered x-hp -kW Franklin AC- x-hp -kW AC -- B piston engine
+powered -hp -kW Franklin AC- -hp -kW AC -- B piston engine|eowpred -hp -kW Franklin AC- -hp -kW AC -- B piston engine
+powered -hp -kW Franklin AC- -hp -kW AC -- B piston engine|powered -hp -kW Franklin AC- -hp -kW AC -- kB piston engine
+powered -hp -kW Franklin AC- -hp -kW AC -- B piston engine|powere -hp -kW Franklin AC- -hp -kW AC -- B piston engine
+powered -hp -kW Franklin AC- -hp -kW AC -- B piston engine|powered -hp -kW Frnaklin AC- -hp -kW AC -- B piston engine
+powered -hp -kW Franklin AC- -hp -kW AC -- B piston engine|powered -hp -Wk Franklin AC- -hp -Wk AC -- B piston engine
+powered -hp -kW Franklin AC- -hp -kW AC -- B piston engine|powered -hp -kW Franklin AC- -hp -kW AC k-- B piston engine
+powered -hp -kW Franklin AC- -hp -kW AC -- B piston engine|powered l-hp -kW Franklin AC- l-hp -kW AC -- B piston engine
+powered -hp -kW Franklin AC- -hp -kW AC -- B piston engine|powered -hp -kW Franklin AC -hp -kW AC -- B piston engine

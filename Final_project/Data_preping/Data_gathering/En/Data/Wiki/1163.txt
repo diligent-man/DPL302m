@@ -1,0 +1,5 @@
+Google Squared was an information extraction and relationship extraction product from Google. It was announced on May 12, 2009 in response to the launch of Wolfram Alpha and was launched on Google Labs on June 3, 2009. As part of the phasing out of Google Labs, Google Squared was shut down on September 5, 2011.
+Squared was developed at Google's New York office. It was the first significant effort by Google to understand information on the web and present it in new ways.
+Google Squared extracted structured data from across the web and presented its results in spreadsheet-like format. Each search query returned a table of search results which has its own set of columns - common attributes that are associated with the topic of a search. Nathania Johnson of Search Engine Watch described Squared as "quite possibly ... one of Google's significant achievements".
+Google Squared is also the name used by an online digital marketing course Developed by Google with its partners. 
+List of Google products

@@ -1,0 +1,10 @@
+cat animal 'Cat ' denotes animal|cat lnimaa 'Cat ' denotes lnimaa
+cat animal 'Cat ' denotes animal|cat naimal 'Cat ' denotes naimal
+cat animal 'Cat ' denotes animal|cat animakl 'Cat ' denotes animakl
+cat animal 'Cat ' denotes animal|cat animal 'Ct ' denotes animal
+cat animal 'Cat ' denotes animal|cat animl 'Cat ' denotes animl
+cat animal 'Cat ' denotes animal|cat animl 'Cat ' denotes animl
+cat animal 'Cat ' denotes animal|cat animal z'Cat z' denotes animal
+cat animal 'Cat ' denotes animal|cat animal 'rCat ' denotes animal
+cat animal 'Cat ' denotes animal|cat animal Cat ' denotes animal
+cat animal 'Cat ' denotes animal|ciat animal 'Cat ' denotes animal
