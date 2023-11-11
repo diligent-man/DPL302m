@@ -5,10 +5,14 @@ import sys
 import spacy
 import pickle
 import pandas as pd
-
+# import pathlib # used when running in window
 from torchtext.legacy import data
-from iterator import batch_size_fn, CustomIterator
 from generate_input import generate_input
+from iterator import batch_size_fn, CustomIterator
+
+temp = pathlib.PosixPath
+pathlib.PosixPath = pathlib.WindowsPath
+
 
 # check env
 modulename = 'colab'
