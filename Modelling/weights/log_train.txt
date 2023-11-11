@@ -1,0 +1,10 @@
+Train at 11/11/2023 21:52:08
+Epoch 1/50
+Train at 11/11/2023 21:54:16
+Epoch 1/50
+Train at 11/11/2023 21:55:08
+Epoch 1/50
+Train at 11/11/2023 21:56:38
+Epoch 1/50
+Train at 11/11/2023 21:59:37
+Epoch 1/50
