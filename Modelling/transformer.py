@@ -1,12 +1,14 @@
 import sys
+# import colab
+
 from torch import nn
 from layers import *
 
 # check env
-modulename = 'google'
+modulename = 'colab'
 if modulename in sys.modules:
     # gg colab env
-    model_path = "content/drive/MyDrive/Modelling/weights/model"
+    model_path = "/content/drive/MyDrive/Modelling/weights/model"
 else:
     # local env
     model_path = "weights/model"
@@ -28,7 +30,7 @@ class Encoder(nn.Module):
             x = self.layers[i](x, mask)
         return self.norm(x)
 
-    
+
 class Decoder(nn.Module):
     def __init__(self, vocab_size, d_model, N, heads, dropout):
         super().__init__()

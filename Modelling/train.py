@@ -2,6 +2,7 @@ import sys
 import time
 import torch
 import argparse
+import colab  # for colab env
 import torch.nn.functional as F
 
 from tqdm import tqdm
@@ -12,25 +13,26 @@ from transformer import get_model
 from scheduler import CosineWithWarmRestarts
 from preprocess import create_data, create_files
 
-
 # check gpu
 if torch.cuda.is_available():
-    cuda  =True
+    cuda = True
     processor = "cuda"
 else:
     cuda = False
     processor = "cpu"
 
 # check env
-modulename = 'google'
+modulename = 'colab'
 if modulename in sys.modules:
     # gg colab env
-    data_path = "content/drive/MyDrive/Modelling/data/tmp.txt"
-    log_train_path = "content/drive/MyDrive/Modelling/weights/log_train.txt"
+    data_path = "/content/drive/MyDrive/Modelling/data/tmp.txt"
+    log_train_path = "/content/drive/MyDrive/Modelling/weights/log_train.txt"
+    model_path = "/content/drive/MyDrive/Modelling/weights/model.txt"
 else:
     # local env
     data_path = "data/tmp.txt"
     log_train_path = "weights/log_train.txt"
+    model_path = "weights/model"
 
 
 def train_model(model, option, SOURCE, TARGET):
@@ -40,6 +42,7 @@ def train_model(model, option, SOURCE, TARGET):
     if option.checkpoint == True:
         cptime = time.time()
 
+    # In case of removing pretrained model
     # if os.path.exists('weights/model'):
     #     os.remove('weights/model')
 
@@ -47,7 +50,7 @@ def train_model(model, option, SOURCE, TARGET):
     #     os.remove('weights/log_train.txt')
 
     f = open(log_train_path, 'a')
-    f.write(f'Train at {datetime.now().strftime("%d/%m/%Y %H:%M:%S")}\n')
+    f.write(f'\nTrain at {datetime.now().strftime("%d/%m/%Y %H:%M:%S")}\n')
     f1_metric = F1Score(ignore_index=option.target_pad).to(option.cuda_device)
 
     for epoch in range(option.epochs):
@@ -82,14 +85,17 @@ def train_model(model, option, SOURCE, TARGET):
             if option.scheduler == True:
                 option.sched.step()
 
-        f.write(f"Time: {time.time() - cptime}.\n"); print(f"Time: {time.time() - cptime}.")
-        f.write(f"Loss: {loss.item()}\n"); print(f"Loss: {loss.item()}")
-        f.write(f"F1 Score: {f1_score}\n"); print(f"F1 Score: {f1_score}")
+        f.write(f"Time: {time.time() - cptime}.\n");
+        print(f"Time: {time.time() - cptime}.")
+        f.write(f"Loss: {loss.item()}\n");
+        print(f"Loss: {loss.item()}")
+        f.write(f"F1 Score: {f1_score}\n");
+        print(f"F1 Score: {f1_score}")
 
         if option.checkpoint == True:
             f.write(f"Save model after {epoch + 1} epoch(s).\n")
             print(f"Save model after {epoch + 1} epoch(s).")
-            torch.save(model.state_dict(), 'weights/model')
+            torch.save(model.state_dict(), model_path)
 
         option.train = create_data(option, SOURCE, TARGET, repeat=1)
 

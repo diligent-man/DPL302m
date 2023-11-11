@@ -1,6 +1,7 @@
 import os
 import re
 import sys
+# import colab
 import spacy
 import pickle
 import pandas as pd
@@ -10,12 +11,12 @@ from iterator import batch_size_fn, CustomIterator
 from generate_input import generate_input
 
 # check env
-modulename = 'google'
+modulename = 'colab'
 if modulename in sys.modules:
     # gg colab env
-    SOURCE_path = "content/drive/MyDrive/Modelling/weights/SOURCE.pkl"
-    TARGET_path = "content/drive/MyDrive/Modelling/weights/TARGET.pkl"
-    temp_path = "content/drive/MyDrive/Modelling/temp.csv"
+    SOURCE_path = "/content/drive/MyDrive/Modelling/weights/SOURCE.pkl"
+    TARGET_path = "/content/drive/MyDrive/Modelling/weights/TARGET.pkl"
+    temp_path = "/content/drive/MyDrive/Modelling/temp.csv"
 else:
     # local env
     SOURCE_path = "weights/SOURCE.pkl"
@@ -28,14 +29,14 @@ class CustomTokenizer(object):
         self.nlp = spacy.load(lang)
 
     def tokenize(self, sentence):
-        sentence = re.sub(r"[^0-9a-zA-Z' -]+","", sentence)
+        sentence = re.sub(r"[^0-9a-zA-Z' -]+", "", sentence)
         sentence = sentence.lower()
         # return [tok.text for tok in self.nlp.tokenizer(sentence) if tok.text != " "]
         return [self.nlp.tokenizer(char).text for char in sentence]
 
 
 def preprocess(sentence):
-    sentence = re.sub(r"[^0-9a-zA-Z' -]+","", sentence)
+    sentence = re.sub(r"[^0-9a-zA-Z' -]+", "", sentence)
     sentence = sentence.lower()
     return sentence
 
@@ -47,7 +48,7 @@ def create_files(option):
 
     TARGET = data.Field(lower=True, tokenize=target.tokenize, init_token='<sos>', eos_token='<eos>')
     SOURCE = data.Field(lower=True, tokenize=source.tokenize)
-    
+
     if option.load_weights is True:
         try:
             print("Loading presaved SOURCE and TARGET files...")
@@ -78,7 +79,7 @@ def create_data(option, SOURCE, TARGET, repeat=0):
     tmp_source = CustomTokenizer(option.source_lang)
     tmp_target = CustomTokenizer(option.target_lang)
 
-    raw_data = {'source' : [line for line in option.source_data], 'target': [line for line in option.target_data]}
+    raw_data = {'source': [line for line in option.source_data], 'target': [line for line in option.target_data]}
     df = pd.DataFrame(raw_data, columns=["source", "target"])
 
     mask = (df['source'].str.count(' ') < option.max_strlen) & (df['target'].str.count(' ') < option.max_strlen)
@@ -101,7 +102,7 @@ def create_data(option, SOURCE, TARGET, repeat=0):
         batch_size_fn=batch_size_fn,
         train=True,
         shuffle=True
-        )
+    )
 
     SOURCE.build_vocab(train)
     TARGET.build_vocab(train)
@@ -121,13 +122,14 @@ def create_data(option, SOURCE, TARGET, repeat=0):
         except:
             print("Error: Saving data to weights/<filename>.pkl is not successful.")
             quit()
-    
+
     option.source_pad = SOURCE.vocab.stoi['<pad>']
     option.target_pad = TARGET.vocab.stoi['<pad>']
 
     option.train_len = get_length(train_iter)
     print("Finished.")
     return train_iter
+
 
 def get_length(train):
     for i, b in enumerate(train):
