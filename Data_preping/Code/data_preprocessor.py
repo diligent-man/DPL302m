@@ -2,10 +2,7 @@ import os
 import re
 import string
 import shutil
-
-
 from nltk.corpus import stopwords
-
 
 
 class TextPreprocessor:
@@ -221,7 +218,7 @@ class TextPreprocessor:
                 data = []
                 for line in f:
                     line = line[:-1]
-                    line = [word for word in line.split(" ") if len(word) > 1]
+                    line = [word for word in line.split(" ") if len(word) > 0]
                     data.append(" ".join(line))
                 # save data
                 data = '\n'.join(data)
@@ -298,8 +295,11 @@ def en_preprocessing() -> None:
 
         regex_dict = {0: [r"'", ""], 1: [r"\s{2,}", " "]}
         text_preprocessor.remove_by_regex(regex_dict)
-        text_preprocessor.verify_sequence_length()
         text_preprocessor.verify_word_length()
+
+        # run EDA.py before run verify_sequence_length
+        text_preprocessor.verify_sequence_length()
+        
 
 
 

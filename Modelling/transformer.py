@@ -1,8 +1,9 @@
 import sys
-# import colab
-
+import copy
+import colab
 from torch import nn
-from layers import *
+from layers import Embedder, PositionalEncoder, EncoderLayer, DecoderLayer, Norm
+
 
 # check env
 modulename = 'colab'
@@ -12,6 +13,10 @@ if modulename in sys.modules:
 else:
     # local env
     model_path = "weights/model"
+
+
+def get_clones(module, N):
+    return nn.ModuleList([copy.deepcopy(module) for i in range(N)])
 
 
 class Encoder(nn.Module):
@@ -48,6 +53,8 @@ class Decoder(nn.Module):
         return self.norm(x)
 
 
+
+########################################################################################################################
 class Transformer(nn.Module):
     def __init__(self, src_vocab, trg_vocab, d_model, N, heads, dropout):
         super().__init__()
