@@ -1,8 +1,9 @@
 import sys
 import time
+import pytz
 import torch
 import argparse
-import colab  # for colab env
+# import colab  # for colab env
 import torch.nn.functional as F
 
 from tqdm import tqdm
@@ -14,7 +15,7 @@ from scheduler import CosineWithWarmRestarts
 from preprocess import create_data, create_files
 
 
-# check gpu
+# check gpu & time
 if torch.cuda.is_available():
     cuda = True
     processor = "cuda"
@@ -28,12 +29,26 @@ if modulename in sys.modules:
     # gg colab env
     data_path = "/content/drive/MyDrive/Modelling/data/tmp.txt"
     log_train_path = "/content/drive/MyDrive/Modelling/weights/log_train.txt"
-    model_path = "/content/drive/MyDrive/Modelling/weights/model.txt"
+    model_path = "/content/drive/MyDrive/Modelling/weights/model"
+
+    # get time at training
+    local_time = datetime.now()
+    # Define the local timezone
+    local_timezone = pytz.timezone('Asia/Ho_Chi_Minh')
+    # Define the GMT+7 timezone
+    gmt_plus_7 = pytz.timezone('Etc/GMT-12')
+    # Localize the current time
+    local_time = local_timezone.localize(local_time)
+    # Convert to GMT+7
+    registered_time = local_time.astimezone(gmt_plus_7).strftime("%d/%m/%Y %H:%M:%S")
 else:
     # local env
     data_path = "data/tmp.txt"
     log_train_path = "weights/log_train.txt"
     model_path = "weights/model"
+
+    # get time at training
+    registered_time = datetime.now().strftime("%d/%m/%Y %H:%M:%S")
 
 
 def train_model(model, option, SOURCE, TARGET):
@@ -49,17 +64,14 @@ def train_model(model, option, SOURCE, TARGET):
 
     # if os.path.exists('weights/log_train.txt'):
     #     os.remove('weights/log_train.txt')
-
-    f = open(log_train_path, 'a')
-    f.write(f'\nTrain at {datetime.now().strftime("%d/%m/%Y %H:%M:%S")}\n')
+        with open(log_train_path, 'a') as f:
+            f.write(f'Train at {datetime.now().strftime("%d/%m/%Y %H:%M:%S")}\n')
     f1_metric = F1Score(ignore_index=option.target_pad).to(option.cuda_device)
 
     for epoch in range(option.epochs):
         cptime = time.time()
 
-        f.write(f"Epoch {epoch + 1}/{option.epochs}\n")
-        print((f"Epoch {epoch + 1}/{option.epochs}:"))
-        for iteration, batch in tqdm(enumerate(option.train), total=1500):
+        for iteration, batch in tqdm(enumerate(option.train), total=50):
             source = batch.source.transpose(0, 1)
             target = batch.target.transpose(0, 1)
             target_input = target[:, :-1]
@@ -86,27 +98,34 @@ def train_model(model, option, SOURCE, TARGET):
             if option.scheduler == True:
                 option.sched.step()
 
-        f.write(f"Time: {time.time() - cptime}.\n");
+        with open(log_train_path, 'a') as f:
+            f.write(f"Epoch {epoch + 1}/{option.epochs}\n")
+            f.write(f"Time: {time.time() - cptime}.\n")
+            f.write(f"Loss: {loss.item()}\n")
+            if option.checkpoint == True:
+                f.write(f"F1 Score: {f1_score}\n")
+            else:
+                f.write(f"F1 Score: {f1_score}\n\n")
+
+        print((f"Epoch {epoch + 1}/{option.epochs}:"))
         print(f"Time: {time.time() - cptime}.")
-        f.write(f"Loss: {loss.item()}\n");
         print(f"Loss: {loss.item()}")
-        f.write(f"F1 Score: {f1_score}\n");
         print(f"F1 Score: {f1_score}")
 
         if option.checkpoint == True:
-            f.write(f"Save model after {epoch + 1} epoch(s).\n")
-            print(f"Save model after {epoch + 1} epoch(s).")
+            with open(log_train_path, 'a') as f:
+               f.write(f"Save model after {epoch + 1} epoch(s).\n\n")
+
             torch.save(model.state_dict(), model_path)
+            print(f"Save model after {epoch + 1} epoch(s).")
+        print(model.state_dict()['out.bias'][:10])
 
         option.train = create_data(option, SOURCE, TARGET, repeat=1)
-
-        f.write("\n")
-    f.close()
 
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument('-load_weights', type=bool, default=False)
+    parser.add_argument('-load_weights', type=bool, default=True)
     parser.add_argument('-data_file', type=str, default=data_path)
     parser.add_argument('-source_lang', type=str, default="en_core_web_sm")
     parser.add_argument('-target_lang', type=str, default="en_core_web_sm")
@@ -117,7 +136,7 @@ def main():
     parser.add_argument('-dropout', type=int, default=0.1)
     parser.add_argument('-cuda', type=bool, default=cuda)
     parser.add_argument('-cuda_device', type=str, default=processor)
-    parser.add_argument('-batch_size', type=int, default=100)
+    parser.add_argument('-batch_size', type=int, default=50)
     parser.add_argument('-lr', type=int, default=0.0001)
     parser.add_argument('-threshold', type=int, default=0.94)
     parser.add_argument('-max_strlen', type=int, default=300)
@@ -144,3 +163,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

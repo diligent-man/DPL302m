@@ -10,8 +10,8 @@ from torchtext.legacy import data
 from generate_input import generate_input
 from iterator import batch_size_fn, CustomIterator
 
-temp = pathlib.PosixPath
-pathlib.PosixPath = pathlib.WindowsPath
+# temp = pathlib.PosixPath
+# pathlib.PosixPath = pathlib.WindowsPath
 
 
 # check env

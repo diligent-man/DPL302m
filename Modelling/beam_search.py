@@ -8,6 +8,7 @@ def init_vars(source, model, SOURCE, TARGET, option):
     source_mask = (source != SOURCE.vocab.stoi['<pad>']).unsqueeze(-2)
     e_output = model.encoder(source, source_mask)
     outputs = torch.LongTensor([[init_tok]])
+
     if option.cuda == True:
         outputs = outputs.to(option.cuda_device)
     target_mask = no_peak_masks(1, option)
@@ -16,11 +17,13 @@ def init_vars(source, model, SOURCE, TARGET, option):
     probs, ix = out[:, -1].data.topk(option.k)
     log_scores = torch.Tensor([math.log(prob) for prob in probs.data[0]]).unsqueeze(0)
     outputs = torch.zeros(option.k, option.max_strlen).long()
+
     if option.cuda == True:
         outputs = outputs.to(option.cuda_device)
     outputs[:, 0] = init_tok
     outputs[:, 1] = ix[0]
     e_outputs = torch.zeros(option.k, e_output.size(-2),e_output.size(-1))
+
     if option.cuda == True:
         e_outputs = e_outputs.to(option.cuda_device)
     e_outputs[:, :] = e_output[0]

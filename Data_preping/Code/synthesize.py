@@ -4,8 +4,8 @@ from sklearn.model_selection import train_test_split
 
 
 def main() -> None:
-    if "english_1.txt" in os.listdir("../../../../Modelling/En"):
-        os.remove("../../../../Modelling/En/data/english_1.txt")
+    if "english_1.txt" in os.listdir("../../Modelling"):
+        os.remove("../../Modelling/data/english_1.txt")
 
     metadata = {"category_ls_1": ['Business', 'Entertainment', 'Health', 'Sport', 'Style', 'Tech', 'Travel', 'Weather', 'World'],
                 # "category_ls_2": ['Business', 'Entertainment', 'Health', 'Sport', 'Style', 'Travel', 'Weather'],
@@ -52,10 +52,10 @@ def main() -> None:
         train, test = train_test_split(data, test_size=0.1, random_state=12345, shuffle=True)
 
         # write to file
-        with open(file='../../../../Modelling/En/data/english_1.txt', mode='a') as f:
+        with open(file='../../Modelling/data/english_1.txt', mode='a') as f:
             f.writelines(train)
 
-    shutil.rmtree('../Preprocessed_data')
+    # shutil.rmtree('../Preprocessed_data')
     return None
 
 
