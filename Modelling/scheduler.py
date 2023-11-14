@@ -48,15 +48,11 @@ class CosineWithWarmRestarts(torch.optim.lr_scheduler._LRScheduler):
         step = self.last_epoch + 1
         self._cycle_counter = step - self._last_restart
 
-        lrs = [
+        lr_scheduler = [
             (
-                self.eta_min + ((lr - self.eta_min) / 2) *
+             self.eta_min + 1/2 * (lr - self.eta_min) *
                 (
-                    np.cos(
-                        np.pi *
-                        ((self._cycle_counter) % self._updated_cycle_len) /
-                        self._updated_cycle_len
-                    ) + 1
+                 1 + np.cos(np.pi * (self._cycle_counter % self._updated_cycle_len) / self._updated_cycle_len)
                 )
             ) for lr in self.base_lrs
         ]
@@ -66,5 +62,4 @@ class CosineWithWarmRestarts(torch.optim.lr_scheduler._LRScheduler):
             self._cycle_counter = 0
             self._updated_cycle_len = int(self._cycle_factor * self.T_max)
             self._last_restart = step
-
-        return lrs
+        return lr_scheduler

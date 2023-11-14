@@ -1,11 +1,11 @@
 import os
 import re
 import sys
-# import colab
 import spacy
 import pickle
 import pandas as pd
-# import pathlib # used when running in window
+
+import pathlib # used when running in window
 from torchtext.legacy import data
 from generate_input import generate_input
 from iterator import batch_size_fn, CustomIterator
@@ -15,8 +15,8 @@ from iterator import batch_size_fn, CustomIterator
 
 
 # check env
-modulename = 'colab'
-if modulename in sys.modules:
+colab = False
+if colab:
     # gg colab env
     SOURCE_path = "/content/drive/MyDrive/Modelling/weights/SOURCE.pkl"
     TARGET_path = "/content/drive/MyDrive/Modelling/weights/TARGET.pkl"

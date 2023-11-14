@@ -1,0 +1,36 @@
+
+import time
+import torch
+import timeit
+import numpy as np
+from matplotlib import pyplot as plt
+
+runtimes = np.array([[6.098538122008904, 4.1111239400052, 3.637609515004442, 3.91043899700162, 3.4869161139940843, 3.456077330993139, 3.9003208620124497, 3.381290800010902, 3.569716628000606, 3.8480169929971453],
+            [6.071637114990153, 3.969620572999702, 4.0468050470080925, 3.553007684997283, 3.2843756130023394, 3.3664681740046944, 4.574359367994475, 4.197266521005076, 4.037866601996939, 4.072733038003207],
+            [7.266089478987851, 5.236843842998496, 4.937296078001964, 4.9158772340015275, 4.069703122993815, 4.379391433991259, 4.18102662700403, 4.3134384360018885, 4.369590080998023, 4.549183456998435],
+            [6.773975018004421, 4.0182736910064705, 4.367004857995198, 4.046537645990611, 3.997082615009276, 3.963909733996843, 4.272227098990697, 4.14922082501289, 4.168962923999061, 4.4049395409965655],
+            [6.607943218012224, 5.61620189200039, 4.481870568997692, 4.462849964998895, 5.009002723003505, 4.11543086200254, 4.14308908599196, 4.052574600005755, 4.044968690999667, 4.461493113994948]
+        ])
+threads = np.array([[1] + [t for t in range(2, 20, 2)] for i in range(5)])
+inter_ops = np.array([len(runtimes[0]) * [op] for op in [2, 4, 8, 16, 32]])
+
+runtime = []
+# for t in threads:
+#     torch.set_num_threads(t)
+#     r = timeit.timeit(setup = "import torch; x = torch.randn(1024, 1024); y = torch.randn(1024, 1024)", stmt="torch.mm(x, y)", number=100)
+#     runtime.append(r)
+# print(runtime)
+
+
+fig = plt.figure()
+ax = plt.axes(projection='3d')
+
+ax.plot_surface(threads, inter_ops, runtimes, edgecolor='red', cmap='Greys')
+ax.set_title("Chart of visualizing threads & inter_ops")
+
+ax.set_xlabel("Num of threads")
+ax.set_ylabel("Num of inter_op per thread")
+ax.set_zlabel("Runtime")
+
+
+plt.show()

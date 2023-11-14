@@ -24,24 +24,11 @@ def create_masks(source, target, option):
 
         if option.cuda == True:
             target_mask = target_mask.to(option.cuda_device)
-        target_mask = target_mask & np_mask
+        target_mask = target_mask & np_mask  # apply bitwise AND
 
     else:
         target_mask = None
     return source_mask, target_mask
-
-def attention(q, k, v, d_k, mask=None, dropout=None):
-    scores = torch.matmul(q,k.transpose(-2, -1)) / math.sqrt(d_k)
-
-    if mask is not None:
-        mask = mask.unsqueeze(1)
-        scores = scores.masked_fill(mask==0, -1e9)
-    scores = F.softmax(scores, dim=-1)
-
-    if dropout is not None:
-        scores = dropout(scores)
-    output = torch.matmul(scores, v)
-    return output
 
 
 ########################################################################################################################
@@ -50,7 +37,7 @@ class MultiHeadAttention(nn.Module):
         super().__init__()
 
         self.d_model = d_model
-        self.d_k = d_model // heads
+        self.d_head = d_model // heads
         self.h = heads
 
         self.q_linear = nn.Linear(d_model, d_model)
@@ -60,20 +47,34 @@ class MultiHeadAttention(nn.Module):
         self.dropout = nn.Dropout(dropout)
         self.out = nn.Linear(d_model, d_model)
 
+    @staticmethod
+    def __attention(q, k, v, d_k, mask=None, dropout=None):
+        scores = torch.matmul(q, k.transpose(dim0=-2, dim1=-1)) / math.sqrt(d_k)
+
+        if mask is not None:
+            mask = mask.unsqueeze(1)
+            scores = scores.masked_fill(mask == 0, -1e9)
+        scores = F.softmax(scores, dim=-1)
+
+        if dropout is not None:
+            scores = dropout(scores)
+        output = torch.matmul(scores, v)
+        return output
+
     def forward(self, q, k, v, mask=None):
         batch_size = q.size(0)
 
         # 'view' function is meant to reshape the tensor
-        k = self.k_linear(k).view(batch_size, -1, self.h, self.d_k)
-        q = self.q_linear(q).view(batch_size, -1, self.h, self.d_k)
-        v = self.v_linear(v).view(batch_size, -1, self.h, self.d_k)
+        k = self.k_linear(k).view(batch_size, -1, self.h, self.d_head)
+        q = self.q_linear(q).view(batch_size, -1, self.h, self.d_head)
+        v = self.v_linear(v).view(batch_size, -1, self.h, self.d_head)
 
-        k = k.transpose(1, 2)
-        q = q.transpose(1, 2)
-        v = v.transpose(1, 2)
+        k = k.transpose(dim0=1, dim1=2)
+        q = q.transpose(dim0=1, dim1=2)
+        v = v.transpose(dim0=1, dim1=2)
 
-        scores = attention(q, k, v, self.d_k, mask, self.dropout)
-        concat = scores.transpose(1, 2).contiguous().view(batch_size, -1, self.d_model)
+        scores = self.__attention(q, k, v, self.d_head, mask, self.dropout)
+        concat = scores.transpose(dim0=1, dim1=2).contiguous().view(batch_size, -1, self.d_model)
 
         output = self.out(concat)
         return output
@@ -124,8 +125,8 @@ class PositionalEncoder(nn.Module):
     pe = torch.zeros(max_seq_len, d_model)
     for pos in range(max_seq_len):
         for i in range(0, d_model, 2):
-            pe[pos, i] = math.sin(pos/(10000**((2*i)/d_model)))
-            pe[pos, i+1] = math.cos(pos/(10000**((2*i)/d_model)))
+            pe[pos, i] = math.sin(pos / pow(10000, (2 * i) / d_model))
+            pe[pos, i+1] = math.cos(pos / pow(10000, (2 * i) / d_model))
     """
     Returns a new tensor with a dimension 
     of size 1 inserted at the specified dimension 'dim'.
@@ -145,7 +146,7 @@ class PositionalEncoder(nn.Module):
     This is typically used to register a buffer that should not to be 
     considered a model parameter.
     """
-    self.register_buffer('pe',pe)
+    self.register_buffer('pe', pe)
 
   def forward(self, x):
     x = x * math.sqrt(self.d_model)
@@ -187,11 +188,11 @@ class DecoderLayer(nn.Module):
         self.attn_2 = MultiHeadAttention(heads, d_model)
         self.ff = FeedForward(d_model)
 
-    def forward(self, x, e_outputs, source_mask, target_mask):
+    def forward(self, x, encoder_outputs, source_mask, target_mask):
         x2 = self.norm_1(x)
         x = x + self.dropout_1(self.attn_1(x2, x2, x2, target_mask))
         x2 = self.norm_2(x)
-        x = x + self.dropout_2(self.attn_2(x2, e_outputs, e_outputs, source_mask))
+        x = x + self.dropout_2(self.attn_2(x2, encoder_outputs, encoder_outputs, source_mask))
         x2 = self.norm_3(x)
         x = x + self.dropout_3(self.ff(x2))
         return x

@@ -6,13 +6,13 @@ import math
 def init_vars(source, model, SOURCE, TARGET, option):
     init_tok = TARGET.vocab.stoi['<sos>']
     source_mask = (source != SOURCE.vocab.stoi['<pad>']).unsqueeze(-2)
-    e_output = model.encoder(source, source_mask)
+    encoder_output = model.encoder(source, source_mask)
     outputs = torch.LongTensor([[init_tok]])
 
     if option.cuda == True:
         outputs = outputs.to(option.cuda_device)
     target_mask = no_peak_masks(1, option)
-    out = model.out(model.decoder(outputs, e_output, source_mask, target_mask))
+    out = model.out(model.decoder(outputs, encoder_output, source_mask, target_mask))
     out = F.softmax(out, dim=-1)
     probs, ix = out[:, -1].data.topk(option.k)
     log_scores = torch.Tensor([math.log(prob) for prob in probs.data[0]]).unsqueeze(0)
@@ -22,12 +22,12 @@ def init_vars(source, model, SOURCE, TARGET, option):
         outputs = outputs.to(option.cuda_device)
     outputs[:, 0] = init_tok
     outputs[:, 1] = ix[0]
-    e_outputs = torch.zeros(option.k, e_output.size(-2),e_output.size(-1))
+    encoder_outputs = torch.zeros(option.k, encoder_output.size(-2),encoder_output.size(-1))
 
     if option.cuda == True:
-        e_outputs = e_outputs.to(option.cuda_device)
-    e_outputs[:, :] = e_output[0]
-    return outputs, e_outputs, log_scores
+        encoder_outputs = encoder_outputs.to(option.cuda_device)
+    encoder_outputs[:, :] = encoder_output[0]
+    return outputs, encoder_outputs, log_scores
 
 def k_best_outputs(outputs, out, log_scores, i, k):
     probs, ix = out[:, -1].data.topk(k)
@@ -41,13 +41,13 @@ def k_best_outputs(outputs, out, log_scores, i, k):
     return outputs, log_scores
 
 def beam_search(source, model, SOURCE, TARGET, option):
-    outputs, e_outputs, log_scores = init_vars(source, model, SOURCE, TARGET, option)
+    outputs, encoder_outputs, log_scores = init_vars(source, model, SOURCE, TARGET, option)
     eos_tok = TARGET.vocab.stoi['<eos>']
     source_mask = (source != SOURCE.vocab.stoi['<pad>']).unsqueeze(-2)
     ind = None
     for i in range(2, option.max_strlen):
         target_mask = no_peak_masks(i, option)
-        out = model.out(model.decoder(outputs[:,:i], e_outputs, source_mask, target_mask))
+        out = model.out(model.decoder(outputs[:,:i], encoder_outputs, source_mask, target_mask))
         out = F.softmax(out, dim=-1)
         outputs, log_scores = k_best_outputs(outputs, out, log_scores, i, option.k)
         ones = (outputs == eos_tok).nonzero() # Occurrences of end symbols for all input sentences.
