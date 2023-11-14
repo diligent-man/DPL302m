@@ -1,7 +1,5 @@
 import sys
 import time
-# from sched import scheduler
-
 import pytz
 import torch
 import argparse
@@ -66,14 +64,15 @@ def train_model(model, option, SOURCE, TARGET):
 
     with open(log_train_path, 'a') as f:
         f.write(f'Train at {datetime.now().strftime("%d/%m/%Y %H:%M:%S")}\n')
-    f1_metric = F1Score(ignore_index=option.target_pad).to(option.cuda_device)
 
+    f1_metric = F1Score(ignore_index=option.target_pad).to(option.cuda_device)
     for epoch in range(option.epochs):
         start_time = time.time()
 
         for iteration, batch in tqdm(enumerate(option.train), total=50, colour="CYAN"):
             source = batch.source.transpose(0, 1)
             target = batch.target.transpose(0, 1)
+
             target_input = target[:, :-1]
             source_mask, target_mask = create_masks(source, target_input, option)
 
@@ -85,6 +84,7 @@ def train_model(model, option, SOURCE, TARGET):
 
             preds = model(source, target_input, source_mask, target_mask)
             ys = target[:, 1:].contiguous().view(-1)
+
             if option.cuda == True:
                 ys = ys.to(option.cuda_device)
 
@@ -92,6 +92,7 @@ def train_model(model, option, SOURCE, TARGET):
 
             loss = F.cross_entropy(preds.view(-1, preds.size(-1)), ys, ignore_index=option.target_pad)
             f1_score = f1_metric(preds.view(-1, preds.size(-1)), ys)
+            # backprop
             loss.backward()
 
             option.optimizer.step()
@@ -108,7 +109,7 @@ def train_model(model, option, SOURCE, TARGET):
             else:
                 f.write(f"F1 Score: {f1_score}\n\n")
 
-        print((f"Epoch {epoch + 1}/{option.epochs}:"))
+        print(f"Epoch {epoch + 1}/{option.epochs}:")
         print(f"Time: {time.time() - start_time}.")
         print(f"Loss: {loss.item()}")
         print(f"F1 Score: {f1_score}")
@@ -154,8 +155,8 @@ def main():
 
     SOURCE, TARGET = create_files(option)
     option.train = create_data(option, SOURCE, TARGET)
-
     print(f'Length of SOURCE vocab: {len(SOURCE.vocab)}, TARGET vocab: {len(TARGET.vocab)}')
+
     model = get_model(option, len(SOURCE.vocab), len(TARGET.vocab))
     option.optimizer = torch.optim.Adam(params=model.parameters(), lr=option.lr, betas=(0.9, 0.9999), eps=1e-9, weight_decay=0)
 

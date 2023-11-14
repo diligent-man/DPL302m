@@ -5,7 +5,7 @@ import spacy
 import pickle
 import pandas as pd
 
-import pathlib # used when running in window
+import pathlib  # used when running in window
 from torchtext.legacy import data
 from generate_input import generate_input
 from iterator import batch_size_fn, CustomIterator
@@ -50,8 +50,8 @@ def create_files(option):
     source = CustomTokenizer(option.source_lang)
     target = CustomTokenizer(option.target_lang)
 
-    TARGET = data.Field(lower=True, tokenize=target.tokenize, init_token='<sos>', eos_token='<eos>')
     SOURCE = data.Field(lower=True, tokenize=source.tokenize)
+    TARGET = data.Field(lower=True, tokenize=target.tokenize, init_token='<sos>', eos_token='<eos>')
 
     if option.load_weights is True:
         try:
@@ -83,6 +83,7 @@ def create_data(option, SOURCE, TARGET, repeat=0):
     tmp_source = CustomTokenizer(option.source_lang)
     tmp_target = CustomTokenizer(option.target_lang)
 
+
     raw_data = {'source': [line for line in option.source_data], 'target': [line for line in option.target_data]}
     df = pd.DataFrame(raw_data, columns=["source", "target"])
 
@@ -96,9 +97,8 @@ def create_data(option, SOURCE, TARGET, repeat=0):
 
     data_fields = [('source', SOURCE), ('target', TARGET)]
     train = data.TabularDataset('temp.csv', format='csv', fields=data_fields)
-
     train_iter = CustomIterator(
-        train,
+        dataset=train,
         batch_size=option.batch_size,
         device=option.cuda_device,
         repeat=False,
@@ -129,7 +129,6 @@ def create_data(option, SOURCE, TARGET, repeat=0):
 
     option.source_pad = SOURCE.vocab.stoi['<pad>']
     option.target_pad = TARGET.vocab.stoi['<pad>']
-
     option.train_len = get_length(train_iter)
     print("Finished.")
     return train_iter

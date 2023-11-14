@@ -1,0 +1,8 @@
+Input: Thay vì đưa vào là 1 sequence of words mình đưa vào là sequence of chars
+-> Lí do: giống vs charBERT
+
+Scheduler: Consine annealing
+
+
+seq = ["Hello", "my", "name", "is"]
+seq = ["H", "e", "l", "l", "o"]
