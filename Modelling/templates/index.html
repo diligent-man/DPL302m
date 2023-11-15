@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel= "stylesheet" type= "text/css" href="{{ url_for('static', filename='styles/textarea_style.css')}}">
+    <script
+    type="module"
+    src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js" ></script><script
+    nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+    <!-- <link rel="stylesheet" type="textarea_style/css" href="textarea_style.css"> -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>'
+    <script>
+        function runModel(){
+            let input_data = document.getElementById("input_text").value
+            if (input_data.length === 0){
+                let alr = document.getElementById("alert")
+                alr.textContent = "The input is empty"
+                return
+            }
+            $.ajax({
+                url: '/run_model',
+                type: 'POST',
+                contentType: 'application/json',
+                data: JSON.stringify({
+                    text: input_data,
+                }),
+                success: (response, status_code) => {
+                    let output_data = response["output"]
+                    console.log(output_data)
+                    let spliting_output_data = output_data.split(" ")
+                    let spliting_input_data = input_data.split(" ")
+                    let output_text_area = document.getElementById("output_text")
+                    let temp = "";
+                    for (let i = 0; i < spliting_output_data.length; i++) {
+                        if (spliting_output_data[i] != spliting_input_data[i]){
+                            temp += `<span style="background-color: rgb(134, 207, 103); padding: 1px">${spliting_output_data[i]}</span><span> </span>`
+                        }
+                        else {
+                            temp += `<span>${spliting_output_data[i]}</span> `
+                        }}
+                    output_text_area.outerHTML = temp
+                }})}
+    </script>
+    <title>Spelling correction</title>
+</head>
+
+<body >
+<div class="header">
+    <nav id="desktop_nav">
+        <div class ="logo">SPELLING CORRECTION</div>
+        <div>
+            <ul class ="nav_links">
+                <li><a href ="about.html">About</a></li>
+            </ul>
+        </div>
+    </nav>
+    <nav id="hamburger_nav">
+        <div class ="logo"><b>SPELLING CHECKER</b></div>
+        <div class="hamburger_menu">
+            <div class="hamburger_icon" onclick="toggleMenu()">
+                <span></span>
+                <span></span>
+            </div>
+            <div class ="menu_links">
+                <li><a href ="#about" onclick="toggleMenu()">About</a></li>
+            </div>
+            </div>
+    </nav>
+    <section id="main">
+        <div class="dropdown_toggle">
+            <ion-icon name="globe_outline"></ion-icon>
+            <p id = "cached" style="display: none;">
+                {{lang}}
+            </p>
+{#        <div id="spellingForm">#}
+{#            <select name="language" id="language" class="language-dropdown" style="background-color:#ff88aa" onchange="changeLanguage()">#}
+{#                <option value="English" style="background-color:#FF88AA;text-align: center;">English</option>#}
+{#                <option value="Vietnamese" style="background-color:#FF88AA;text-align: center;">Vietnamese</option>#}
+{#            </select>#}
+{#        </div>#}
+    <div class="container">
+        <div class="card input_wrapper" >
+        <div class="from">
+        <!--custom select--->
+            <div class = "dropdown_container" id="input_language">
+            </div>
+        </div>
+        <div class ="text_area">
+            <textarea
+                id ="input_text"
+                spellcheck="false"
+                autocapitalize="off"
+                autocomplete="off"
+                cols="30"
+                rows="10"
+                placeholder ="Enter your text here">{{text if text}}</textarea>
+            <div>
+                <div class ="chars">
+                    <span id="input_chars">0</span> / 500</div>
+                    <div id="alert"></div>
+                    <button class="button" onclick="runModel()">Process</button>
+                </div>
+            </div>
+        </div>
+        <div class ="center"></div>
+        <div class="card output_wrapper" style="padding-top: 40px">
+            <textarea id="output_text"  cols="30" rows="10" placeholder=".............."disabled></textarea>
+    </div>
+</section>
+</div>
+    <script src="{{ url_for('static',filename='script/script.js') }}"></script>
+</body>
+</html>
