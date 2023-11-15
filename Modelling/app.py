@@ -1,19 +1,20 @@
-# Install in Linux
+# Install & run in Linux
 # wget https://bin.equinox.io/c/bNyj1mQVY4c/ngrok-v3-stable-linux-amd64.tgz --no-check-certificate
 # tar -zxvf ngrok-v3-stable-linux-amd64.tgz
 # mv ngrok /usr/bin/ngrok
 # chmod 755 /usr/bin/ngrok
+# https://stackoverflow.com/questions/72240708/cant-run-flask-on-ngrok
+
 
 from flask import Flask, jsonify, request
 from flask_ngrok import run_with_ngrok
-from threading import Thread
-from pyngrok import ngrok
 from flask import render_template
 from base import SpellingCorrection
 
 model = SpellingCorrection()
 app = Flask(__name__, template_folder="./templates", static_folder="./static")
-run_with_ngrok(app)
+app.secret_key = "2YD4FL8vTYlImTY2EOBFib7CGSF_2anK73yjwLaz49fYuoxux"
+# run_with_ngrok(app=app) # for gg colab
 
 
 @app.route('/run_model', methods=['POST'])
@@ -51,4 +52,4 @@ def about_us():
 
 
 if __name__ == '__main__':
-    app.run()
+    app.run(port=5000, debug=True)
