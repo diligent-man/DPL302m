@@ -1,0 +1,16 @@
+I/ Introduction
+	- team
+	- Business Understanding
+		+ background
+		+ advantages
+	- Project
+		+ feature
+		+ accuracy
+
+II/ Project
+	- Time(start-end)
+	- Phases
+	+ Issues --> Solutions
+	- Vision 
+III/ Demo(real time)
+IV/ Conclusion

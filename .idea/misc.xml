@@ -1,4 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
+<<<<<<< HEAD
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.8" project-jdk-type="Python SDK" />
+=======
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.8 (DPL302m)" project-jdk-type="Python SDK" />
+>>>>>>> afb2bae7e3ec53d34a7e9fda4d3390229db0c350
+=======
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.8 (DPL302m)" project-jdk-type="Python SDK" />
+>>>>>>> 60a822dcf2a9fc56b4ec2ac765175920c52d4181
 </project>

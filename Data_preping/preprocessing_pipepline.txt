@@ -1,0 +1,18 @@
+En:
+    Split into single sentences (ok)->
+    Expand contraction words that don't exist in word2vec vocab (almost)->
+    Remove by regex
+        + punctuation_marks_and_numeral (except apostrophe & hyphen) (ok)
+        + dash (ok)
+        + Chinese hieroglyphs (ok)
+        + Vietnamese chars (ok)
+        + Some IPAs (ok)
+    -> sentences less than 7 words are ignored
+
+Vn:
+    Split into single sentences (ok) ->
+    Standardize marks (not yet)->
+    Remove by regex
+        + punctuation_marks_and_numeral (except apostrophe & hyphen) (ok)
+        + hyphen & dash (ok)
+    -> sentences less than 7 words are ignored

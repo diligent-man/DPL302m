@@ -329,6 +329,10 @@ GitHub.sublime-settings
 [Ll]ocal
 [Ss]cripts
 pyvenv.cfg
+<<<<<<< HEAD
 pip-selfcheck.json
 
 # End of https://www.toptal.com/developers/gitignore/api/pycharm,venv,sublimetext,python
+=======
+pip-selfcheck.json
+>>>>>>> 60a822dcf2a9fc56b4ec2ac765175920c52d4181
