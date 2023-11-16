@@ -73,5 +73,4 @@ def generate_input(option):
     for input in inputs:
         b = make_misspellings(input, option.threshold)
         misspelling_inputs.append(b)
-
     return misspelling_inputs

@@ -73,6 +73,7 @@ def train_model(model, option, SOURCE, TARGET):
             source = batch.source.transpose(0, 1)
             target = batch.target.transpose(0, 1)
 
+
             target_input = target[:, :-1]
             source_mask, target_mask = create_masks(source, target_input, option)
 
@@ -133,7 +134,7 @@ def train_model(model, option, SOURCE, TARGET):
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument('-load_weights', type=bool, default=False)
+    parser.add_argument('-load_weights', type=bool, default=True)
     parser.add_argument('-data_file', type=str, default=data_path)
     parser.add_argument('-source_lang', type=str, default="en_core_web_sm")
     parser.add_argument('-target_lang', type=str, default="en_core_web_sm")
@@ -144,7 +145,7 @@ def main():
     parser.add_argument('-dropout', type=int, default=0.1)
     parser.add_argument('-cuda', type=bool, default=cuda)
     parser.add_argument('-cuda_device', type=str, default=processor)
-    parser.add_argument('-batch_size', type=int, default=10)
+    parser.add_argument('-batch_size', type=int, default=50)
     parser.add_argument('-lr', type=int, default=0.0001)
     parser.add_argument('-threshold', type=int, default=0.9)
     parser.add_argument('-max_strlen', type=int, default=300)
