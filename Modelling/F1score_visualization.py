@@ -1,3 +1,4 @@
+import numpy as np
 from matplotlib import pyplot as plt
 
 
@@ -27,6 +28,8 @@ def plot_metrics_from_file(file_path):
     plt.title('Training Loss')
     plt.xlabel('Epoch')
     plt.ylabel('Loss')
+    plt.xlim([0, max(epochs)+10])
+    plt.xticks(np.arange(0, max(epochs), 10))
     plt.legend(loc='upper right')
 
     # F1 score

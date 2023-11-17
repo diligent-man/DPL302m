@@ -21,6 +21,7 @@ input_area.addEventListener("input", ( event ) => {
       alr.style["display"] = "none"
     }
 })
+
 function changeLanguage() {
   var selectedLanguage = document.getElementById("language").value;
   var input_text = document.getElementById("input_text");
@@ -32,6 +33,7 @@ function changeLanguage() {
   }
 
 }
+
 function changeToCurrentLanguage(){
     let cur_lang = document.getElementById("cached").textContent
     cur_lang = cur_lang.trim()

@@ -4,6 +4,7 @@
 # mv ngrok /usr/bin/ngrok
 # chmod 755 /usr/bin/ngrok
 # https://stackoverflow.com/questions/72240708/cant-run-flask-on-ngrok
+import time
 from flask import render_template
 from base import SpellingCorrection
 from flask_ngrok import run_with_ngrok
@@ -22,9 +23,13 @@ def run_model():
     if request.method == 'POST':
         data = request.json
         text = data["text"]
-        print(text)
-
+        
+        start = time.time()
         answer = inferer.infer_from_text(text)
+        print(answer)
+        print(time.time() - start)
+
+
         # selected_language = data["lang"]
         # if selected_language == "Vietnamese":
         #     result = vietnam_model.predict(input_data)
@@ -32,6 +37,9 @@ def run_model():
         #     result = english_model.predict(input_data)
         # else:
         #     "Unsupported language", 400
+        print(jsonify({
+        "output": answer
+    }))
     return jsonify({
         "output": answer
     }), 200

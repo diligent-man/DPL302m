@@ -1,0 +1,22 @@
+Test processing time
+1/ Intel(R) Xeon(R) CPU @ 2.20GHz 2 cores 4 threads
+10-word-length text: 54.237170457839966
+20-word-length text: 148.70267510414124
+30-word-length text: 271.0169212818146
+500 words text: 279.6878228187561
+
+
+
+2/ Intel(R) Core(TM) i5-3320M CPU @ 2.60GHz 2 cores 4 threads
+10-word-length text: 70.29933190345764
+20-word-length text: 191.80883812904358
+30-word-length text: 387.36444640159607
+500 words text: 
+
+
+
+3/ Intel(R) Xeon(R) CPU @ 2.20GHz 2 cpus 4 threads
+10-word-length text: 54.237170457839966
+20-word-length text: 148.70267510414124
+30-word-length text: 
+500 words text: 

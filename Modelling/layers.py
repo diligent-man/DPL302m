@@ -8,9 +8,9 @@ from torch.nn import functional as F
 
 def no_peak_masks(size, option):
     np_mask = np.triu(np.ones((1, size, size)), k=1).astype('float32')
-    np_mask =  Variable(torch.from_numpy(np_mask) == 0)
+    np_mask = Variable(torch.from_numpy(np_mask) == 0)
 
-    if option.cuda == True:
+    if option.cuda:
         np_mask = np_mask.to(option.cuda_device)
     return np_mask
 

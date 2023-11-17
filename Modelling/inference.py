@@ -1,6 +1,9 @@
 import os
-import argparse
+import time
+from pandas._libs import interval
 import torch
+import argparse
+import multiprocessing as mp
 from transformer import get_model
 from beam_search import beam_search
 from torch.autograd import Variable
@@ -51,9 +54,8 @@ class Inferer():
 
 
     def __process(self) -> list:
-        original_sentences = self.__option.text
         corrected_sentences = []
-        for sentence in original_sentences:
+        for sentence in self.__option.text:
             # .capitalize()): convert the first letter to uppercase letter
             corrected_sentences.append(
                 self.__process_sentence(sentence, self.__model, self.__option, self.__SOURCE, self.__TARGET).capitalize()
@@ -76,29 +78,29 @@ class Inferer():
         with open("output.txt", "w") as f:
             for sentence in correct_sentences:
                 f.write(sentence + "\n")
-        print("Finished.")
+        print("Finished")
         return None
 
 
     def infer_from_text(self, text: str) -> str:
         self.__option.text = [sentence.strip() for sentence in text.split(".") if len(sentence) != 0]
-
+        
         print("Processing...")
-        corrected_sentences = self.__process()
-        corrected_sentences = ". ".join(corrected_sentences) + "."
+        corrected_sentences = ". ".join(self.__process()) + "."
         print("Finished")
         return corrected_sentences
 
 
 def main():
     inferer = Inferer()
+    with open("input.txt") as f:
+        data = f.readlines()
+    data = [i for i in data]
 
-    filename = 'input.txt'
-    # inferer.infer_from_file(filename)
-
-    text = 'boatt boats bota btoa tboa. My name is. Hello good morning?,;\'.'
-    corrected_text = inferer.infer_from_text(text)
-    # print(corrected_text)
+    for text in data:
+        start = time.time()
+        inferer.infer_from_text(text)
+        print(time.time() - start)
 
 
 if __name__ == '__main__':
