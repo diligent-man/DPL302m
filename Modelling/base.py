@@ -1,6 +1,6 @@
 import torch
 from transformer import get_model
-from preprocess import *
+from preprocess import preprocess, create_files
 from beam_search import beam_search
 from torch.autograd import Variable
 
@@ -16,17 +16,18 @@ else:
 
 class ArgumentOpt:
     def __init__(self):
-        self.load_weights=True
-        self.k=3
-        self.source_lang="en_core_web_sm"
-        self.target_lang="en_core_web_sm"
-        self.d_model=512
-        self.n_layers=6
-        self.heads=8
-        self.dropout=0.1
-        self.max_strlen=300
-        self.cuda=True
-        self.cuda_device=processor
+        self.load_weights = True
+        self.k = 1
+        self.source_lang = "en_core_web_sm"
+        self.target_lang = "en_core_web_sm"
+        self.d_model = 512
+        self.n_layers = 6
+        self.heads = 8
+        self.dropout = 0.1
+        self.max_strlen = 300
+        self.cuda = cuda
+        self.cuda_device = processor
+
 
 class SpellingCorrection:
     def __init__(self):
@@ -41,10 +42,11 @@ class SpellingCorrection:
         for tok in sentence:
             indexed.append(self.SOURCE.vocab.stoi[tok])
         sentence = Variable(torch.LongTensor([indexed]))
-        if self.option.cuda == True:
+        if self.option.cuda:
             sentence = sentence.to(self.option.cuda_device)
         sentence = beam_search(sentence, self.model, self.SOURCE, self.TARGET, self.option)
         return sentence.capitalize()
 
     def __call__(self, sentence):
+        print(sentence)
         return self.translate_sentence(sentence)

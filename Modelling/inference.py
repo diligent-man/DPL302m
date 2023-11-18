@@ -1,6 +1,5 @@
 import os
 import time
-from pandas._libs import interval
 import torch
 import argparse
 import multiprocessing as mp

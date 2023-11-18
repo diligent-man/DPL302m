@@ -5,14 +5,15 @@
 # chmod 755 /usr/bin/ngrok
 # https://stackoverflow.com/questions/72240708/cant-run-flask-on-ngrok
 import time
+from base import SpellingCorrection
 from flask import render_template
 from base import SpellingCorrection
 from flask_ngrok import run_with_ngrok
 from flask import Flask, jsonify, request
-from inference import Inferer
 
 
-inferer = Inferer()
+
+model = SpellingCorrection()
 app = Flask(__name__, template_folder="./templates", static_folder="./static")
 app.secret_key = "2YD4FL8vTYlImTY2EOBFib7CGSF_2anK73yjwLaz49fYuoxux"
 # run_with_ngrok(app=app) # for gg colab
@@ -23,13 +24,17 @@ def run_model():
     if request.method == 'POST':
         data = request.json
         text = data["text"]
-        
-        start = time.time()
-        answer = inferer.infer_from_text(text)
+        text = text.split(".")
+
+        text = [sentence.strip() for sentence in text]
+        text = [sentence for sentence in text if len(sentence) > 0]
+        print(text)
+
+        answer = []
+        for sentence in text:
+            answer.append(model(sentence=sentence))
+        answer = ". ".join(answer) + "."
         print(answer)
-        print(time.time() - start)
-
-
         # selected_language = data["lang"]
         # if selected_language == "Vietnamese":
         #     result = vietnam_model.predict(input_data)
@@ -37,9 +42,6 @@ def run_model():
         #     result = english_model.predict(input_data)
         # else:
         #     "Unsupported language", 400
-        print(jsonify({
-        "output": answer
-    }))
     return jsonify({
         "output": answer
     }), 200
